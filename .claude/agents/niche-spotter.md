@@ -1,7 +1,7 @@
 ---
 name: niche-spotter
 description: Takes market-analyst output and proposes 3–5 specific, differentiated story angles with commercial and creative rationale. Run once, in parallel with market-analyst.
-tools: Read, Write, WebSearch
+tools: Read, Write, WebSearch, WebFetch
 model: sonnet
 ---
 

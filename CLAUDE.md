@@ -21,6 +21,14 @@ Run in sequence (niche-spotter needs market-analyst's output):
 
 Present the five angles to the author and wait for them to choose one.
 
+### Deep check on the top angles (optional, recommended)
+
+Run on the 2–3 angles the author is considering:
+
+1. **Amazon category scan (orchestrator, in the author's Chrome).** Amazon blocks the web tools, so the orchestrator reads it through the browser. Always use the author's personal Chrome profile (gauravv127@gmail.com), never a work profile. For each relevant Kindle category, record the top 50: rank, title, author, price, Kindle Unlimited or not, length, review count, rating, release date. Save to `research/amazon-scan.md` and summarize how open each category is (how many recent releases and lesser-known authors reach the top 50).
+2. **Review mining.** Collect 2- and 3-star reviews of 4–7 comparable books per angle through the browser (Amazon's `/product-reviews/ASIN/?filterByStar=two_star` pages work when signed in; request them one at a time, since parallel requests get throttled and come back empty). Summarize reviews in your own words. Don't commit verbatim review text, because it is other people's writing. Then run @comp-reader on each angle, or write `research/comps-angle-N.md` directly in the same format.
+3. Update `research/niche-proposals.md` with what the deep check found, and write reader-test blurbs to `research/blurb-test.md`.
+
 ## Pipeline: Setup phase (run once after the author chooses an angle)
 
 Run in sequence, stopping for approval after each step:

@@ -19,6 +19,18 @@ Date: 2026-10-26.
 | 4 | Pulpy monster "quick hitter" with a working-class lead | No | Moderate to high | Weak-moderate |
 | 5 | Horror-romance with a real horror plot (revenant and death investigator) | No | High for monster romance, unknown for horror-led horromance | Weak |
 
+## Deep check results (added Oct 26, 2026, after Amazon and review research)
+
+The Amazon scan and review mining covered angles 1–3. Details are in `amazon-scan.md` and `comps-angle-1.md` through `comps-angle-3.md`. This replaces the "how crowded" judgments above for those three angles.
+
+| # | Angle | Supply (measured) | Demand (measured) | What readers complain about in comparable books | Verdict |
+|---|---|---|---|---|---|
+| 1 | The Anniversary Rite | Many very short, unrated indie "Indian horror" titles; no well-made South Asian horror novella with sales. Putnam has a South Asian horror novel due April 2027. | Asian diaspora horror sells when traditionally published (*Japanese Gothic* ~100/day). Short indie horror charts in Occult & Supernatural (*Fervor*, 120 pp, ~40/day). | Slow first half, not scary, confusing endings, overwritten prose | **Best fit.** Novella length answers the top complaint, and there's room to be the best-made book on a weak shelf. |
+| 2 | The Voice in the Bronze | Nearly empty in English. | Weak. Every South Asian historical or myth fantasy found sells under ~3/day, including traditionally published ones. Its likely categories are dominated by big publishers or by long cultivation series. | Too many narrators, slow start, too much world for a short book, accuracy gets checked | **Most original, weakest market.** Better as a passion project or Chola game tie-in than as a commercial first book. |
+| 3 | Second Helping | Crowded with indie "Indian billionaire arranged marriage" titles that mostly sell under 1/day. Later in Life is flooded with mass-produced "neglected wife" books. | One breakout: *In Another Lifetime* (indie, 577 pp, ~100/day). The only later-in-life South Asian romance found sells under 1/day. | Predictable "Bollywood" plots, too long, culture too thin or unexplained, juvenile leads | **Most readers, most noise.** Needs strong packaging; little evidence for the midlife angle specifically. |
+
+**Overall:** the first research round treated "few South Asian titles" as a gap. The Amazon data shows that in these categories, low supply mostly comes with low demand at the indie level. Angle 1 is the exception, because readers already buy Asian diaspora horror and short indie horror. Angles 4 and 5 were not deep-checked.
+
 ---
 
 ### Angle 1: The Anniversary Rite
@@ -144,7 +156,7 @@ Date: 2026-10-26.
 
 ---
 
-## Verification to run before choosing (not done by me)
+## Verification to run before choosing (done for angles 1–3 — see "Deep check results" above)
 
 1. On Amazon, check these categories sorted by newest and bestseller, and record price, length, KU status and review counts for 5 indie titles each: Horror > Ghost; Historical Fantasy; Romance > Multicultural > Asian American (or Indian); Fantasy > Contemporary; Paranormal Romance > Horror.
 2. Search Amazon for "agraharam", "Palakkad", "Chola", "Tamil" with "novella" and "horror" or "fantasy".
