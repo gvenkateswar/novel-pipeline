@@ -31,5 +31,5 @@ For each proposal, include:
 
 - Proposals must be specific enough to write a story from, not genre labels
 - Avoid anything with obvious saturation (zombie apocalypse, billionaire romance with standard beats)
-- At least 2 of the 5 proposals should involve perspectives or settings underrepresented in mainstream publishing
+- Choose and rank angles on market evidence only. Do not use anything you know about the author (background, heritage, interests, other projects) unless the orchestrator explicitly asks for an author-fit angle, and then label it as such
 - Do not include a proposal you can't support with at least one piece of market evidence

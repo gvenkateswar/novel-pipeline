@@ -71,6 +71,7 @@ Do not act on the cold reader's notes yourself. They go to the author, who decid
 
 ## Rules
 
+- Research must not be steered by what you know about the author. Don't seed agents with examples or requirements drawn from the author's background. If the author wants an author-fit angle, propose it separately and label it as such.
 - Never modify `story-bible.md` except in setup step 3, or when the author explicitly asks
 - Never skip the continuity-checker step
 - Never give the cold-reader access to planning files; pass it only chapter numbers
