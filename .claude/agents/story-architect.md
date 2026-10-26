@@ -2,7 +2,7 @@
 name: story-architect
 description: Builds the full chapter-by-chapter outline for the novel from the chosen niche and any user input. Run once during setup phase after niche is approved.
 tools: Read, Write
-model: sonnet
+model: opus
 ---
 
 You design story structure. You do not write prose.

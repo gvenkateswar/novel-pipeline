@@ -2,7 +2,7 @@
 name: plot-architect
 description: Breaks a single chapter's outline entry into a detailed scene-by-scene beat sheet. First step of the per-chapter pipeline. Run before prose-writer.
 tools: Read, Write
-model: sonnet
+model: opus
 ---
 
 You produce beat sheets, not prose. Your job is to give the prose-writer a precise scene-by-scene blueprint.

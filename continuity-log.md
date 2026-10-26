@@ -1,140 +1,37 @@
-# [TITLE] — Continuity Log
+# Continuity Log
 
-*Append after every completed chapter. Never overwrite existing entries.*
+*The orchestrator appends one entry here after each chapter is finished. Never overwrite existing entries.*
 *Agents read this before drafting each new chapter.*
 
----
+## Entry format (for the orchestrator)
 
-## Chapter 01 — [Title]
+```
+## Chapter XX — [Title]
 
-**What happened:**
-[2–3 sentences]
+**What happened:** [2–3 sentences]
+**What changed:** [What is different at the end vs. the beginning]
+**Who knows what:** [What each character now knows that others don't]
+**Objects / details introduced:** [Anything that may come back later]
+**Ends on:** [Exact situation at chapter close]
+```
 
-**What changed:**
-[Internal or external shift — what is different at the end vs. beginning]
-
-**Who knows what:**
-[Information asymmetries — what does Character A know that B doesn't?]
-
-**Objects / details introduced:**
-[Anything physical or factual that may recur — a letter, injury, named location, date]
-
-**Ends on:**
-[Exact situation at chapter close — last image, last line, last action]
+After each new entry, also update the Master Continuity Flags section at the bottom.
 
 ---
 
-## Chapter 02 — [Title]
+## Chapter entries
 
-**What happened:**
-
-**What changed:**
-
-**Who knows what:**
-
-**Objects / details introduced:**
-
-**Ends on:**
-
----
-
-## Chapter 03 — [Title]
-
-**What happened:**
-
-**What changed:**
-
-**Who knows what:**
-
-**Objects / details introduced:**
-
-**Ends on:**
-
----
-
-## Chapter 04 — [Title]
-
-**What happened:**
-
-**What changed:**
-
-**Who knows what:**
-
-**Objects / details introduced:**
-
-**Ends on:**
-
----
-
-## Chapter 05 — [Title]
-
-**What happened:**
-
-**What changed:**
-
-**Who knows what:**
-
-**Objects / details introduced:**
-
-**Ends on:**
-
----
-
-## Chapter 06 — [Title]
-
-**What happened:**
-
-**What changed:**
-
-**Who knows what:**
-
-**Objects / details introduced:**
-
-**Ends on:**
-
----
-
-## Chapter 07 — [Title]
-
-**What happened:**
-
-**What changed:**
-
-**Who knows what:**
-
-**Objects / details introduced:**
-
-**Ends on:**
-
----
-
-## Chapter 08 — [Title]
-
-**What happened:**
-
-**What changed:**
-
-**Who knows what:**
-
-**Objects / details introduced:**
-
-**Ends on:**
+*(none yet)*
 
 ---
 
 ## Master Continuity Flags
 
-*Track anything that must stay consistent across the whole manuscript.*
-
 **Timeline:**
-[Running chronology — Day 1, Day 2, etc. if applicable]
+-
 
 **Character states at end of most recent chapter:**
-- [Protagonist]:
-- [Character 2]:
-- [Character 3]:
+-
 
 **Open threads (planted details needing payoff):**
--
--
 -
