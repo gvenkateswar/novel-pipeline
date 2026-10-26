@@ -14,7 +14,7 @@ A 58-year-old retired air-traffic controller impulsively buys the failing candle
 
 ## Setting
 - A fictional small town in New Hampshire's Lakes Region (or southern Maine), in winter: December through February.
-- **Candlepin bowling:** skinny pins, small hand-held balls, three balls per frame, fallen pins ("wood") stay on the lane, and no one has ever bowled a perfect 450. Alleys are closing across New England. Get the details right.
+- **Candlepin bowling:** skinny pins, small hand-held balls, three balls per frame, fallen pins ("wood") stay on the lane, and the maximum score is 300, which no one has ever bowled. (Corrected: an earlier version said 450. The record is reported as 245; bible-builder should verify it.) Alleys are closing across New England. Get the details right.
 - Winter texture: ice fishing, snowed-in league nights, plowing, a town that empties out after the summer people leave.
 - **Avoid:** fall foliage, beaches, Vermont, inns, bookshops, bakeries. The comparable books are full of these.
 
