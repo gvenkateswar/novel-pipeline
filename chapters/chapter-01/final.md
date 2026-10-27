@@ -56,7 +56,7 @@ Most nights she'd go below, where the crew mess had the good heater and the bad 
 
 The wheelhouse smelled of burnt coffee and wet wool and the warm dust of the electronics. The radar swept the harbor and painted the breakwater green. Below on the car deck the reefer's cab sat dark except for the dash. The driver's dome light was off. She could see his head against the dash glow, and the angle of it, turned up toward the wheelhouse windows. She couldn't see his eyes. The angle was enough.
 
-They cleared the breakwater. Across the harbor the fuel float at Marr's was lit, the light pole burning white over the two pumps, and a dragger lay alongside with her deck lights going. Red hull, white wheelhouse. Beth knew the boat. The *Margaret Ann*, from away, with Gloucester painted on her stern. She'd been in and out since the summer before last.
+They cleared the breakwater. Across the harbor the fuel float at Tess Marr's was lit, the light pole burning white over the two pumps, and a dragger lay alongside with her deck lights going. Red hull, white wheelhouse. Beth knew the boat. The *Margaret Ann*, from away, with Gloucester painted on her stern. She'd been in and out since the summer before last.
 
 At four that afternoon Beth had stood at Tess's counter and slid her paycheck across in its envelope for the morning bag. Tess pushed her glasses up into her hair, initialed the deposit slip, and set the envelope on the stack with everybody else's pay. The bag rode the morning boat back to the credit union, half the island's money in a canvas zip bag with Tess's initials on the tag. Then Tess reached over the register and tugged Beth's braid like Beth was nine.
 
@@ -66,7 +66,7 @@ At four that afternoon Beth had stood at Tess's counter and slid her paycheck ac
 
 "I'd hire you. I'd pay you in tank." Tess laughed the big laugh, the one they could hear out on the float, and at six o'clock she'd have turned the pump sign to CLOSED, the way she had every night for nineteen years.
 
-It was nine. The float was lit.
+It was nine, ten minutes out of the slip. The float was lit.
 
 Cash after hours wasn't a crime. Somebody from away wanted diesel at night and paid for it, and Tess needed every gallon she could sell to keep that loan off her neck. Beth put it where she put the things she'd look at later.
 
@@ -202,7 +202,7 @@ She put the dead receiver back.
 
 At the window the light was coming up the color of dishwater. She counted the inner harbor without meaning to. Nine lobster boats on their moorings, bows to the northeast, all islanders she could name by the hull. The dragger made ten. The *Margaret Ann* rode the guest mooring with her deck lights still burning, pale in the daylight. Somebody had a radio going aboard her. It reached the house thin and broken up by the wind, a fiddle and then nothing and then a fiddle. A figure stood on her afterdeck. Too far off for a face. Too far for a hood. It was turned toward shore.
 
-The guest mooring lay square below this window, so this window sat square above it.
+The guest mooring lay square below this window.
 
 Beth reached over and switched off the kitchen light.
 
