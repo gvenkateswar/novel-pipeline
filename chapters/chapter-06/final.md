@@ -102,7 +102,7 @@ They came out under the roll-up door into the noon light. The cold of the wall s
 
 ---
 
-*Day 6 — Wednesday*
+*Day 6, afternoon*
 
 By half past three the light had gone thin over the cove, and the wind had come round west and was dropping.
 
@@ -116,7 +116,7 @@ She set a round on the block and split it.
 
 "Your office coordinated with local emergency management for the landing. Understood." Then: "Quist. Go ahead."
 
-Some county office on the mainland, then, with a desk and a radio. She split the halves into quarters.
+Local to him meant the mainland. Some county office in Pruett with a desk and a radio, the people who'd have to clear the ramp on that side. The island's version of that was Tess with a clipboard, and nobody in Portland phoned Tess. She split the halves into quarters.
 
 He came down the ledge with one hand on the rock and stopped by the block.
 
@@ -142,7 +142,7 @@ When he came in, the fire had caught and her hand was out.
 
 ---
 
-*Day 6 — Wednesday*
+*Day 6, night*
 
 At twenty past eleven Dane went out under the sky for his call. At twenty-six past he came back in, slid the notebook into the inside pocket of the soft-shell on the door nail, ran the zipper shut and set the bar in its brackets.
 
@@ -272,7 +272,7 @@ They ran down the shore lane under the seawall. Dane's right hand was clamped ov
 
 ---
 
-*Day 7 — Thursday*
+*Day 7, after*
 
 She took them home by the grown-over path off the cove road, not the road, through alders that slapped wet across their faces. At the bend where the path looked back down on the lane she stopped and looked once. Empty lane. Gray water. Nothing coming.
 
@@ -287,6 +287,8 @@ He held it. The blood had run to his wrist and was drying there.
 "You're bleeding."
 
 "It only works outside." He stood, and took the sat phone out onto the ledge under the low sky. The wind had already backed.
+
+She heard enough through the wall. The lifeboat had stood off until the shot went out on the air, and then its rules had taken it home: no landing under fire, no second try with a system coming in by dark. The window was shut.
 
 Through the open door she heard his side of it.
 
