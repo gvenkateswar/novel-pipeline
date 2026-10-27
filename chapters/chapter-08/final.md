@@ -34,7 +34,7 @@ The building on Kettle Road was the last room Linda had been in that nobody had 
 
 Arlene took a tissue from her sleeve, looked at it, and put it back.
 
-"Everybody on Main Street knew your bank was coming. I knew before you did. I sold to her anyway." She folded the magnifier shut on its chain. "Voyons donc. You'd have kept the lineage at seven-fifty and Linda's ball in the locker, and lost money every league night polishing that trophy case, the same as Normand and I did for thirty years. That one raised the price her first winter and lost two teams for it. I'll take my money from somebody who does that."
+"Everybody on Main Street knew your bank was coming. I knew before you did. I sold to her anyway." She folded the magnifier shut on its chain. "Voyons donc. You'd have kept the lineage at seven-fifty and Linda's ball in the locker, and lost money every league night polishing that trophy case, the same as Normand and I did for thirty years. She asked me what the league paid before she asked me the price of the building. I knew she'd raise it, and she did, her first winter, and lost two teams for it. I'll take my money from somebody who does that."
 
 The radiator clanked twice under the window.
 
@@ -112,7 +112,7 @@ The release lay on the desk, RELEASE OF RIGHT OF FIRST REFUSAL typed across the 
 
 "I'll need a photo ID," the lawyer said.
 
-Ray took out his wallet and slid the license from behind its window. The bank's commitment letter came out with it, folded in thirds and soft at the creases since December. The lawyer picked it up to move it, read the letterhead, and laid it beside the license.
+Ray took out his wallet and slid the license from behind its window. The bank's commitment letter came out with it, folded in quarters and soft at the creases since December. The lawyer picked it up to move it, read the letterhead, and laid it beside the license.
 
 The developer in Concord was a real man with a real phone number, and Ray still believed every word he had said about him in her parking lot. But as long as his name sat on that right at the registry, there was a jack post under her floor. She could make both of Judy's numbers and never know whether the building had stood on its own or on him.
 
@@ -314,3 +314,5 @@ Denise capped her crossword pen.
 - Tidy last lines: "Ray pulled the door shut on the rest of it." → "Ray pulled the door shut."; "...and went back to seventeen across." cut, scene now ends on the phone pushed across the counter.
 - Checked and left unchanged: Ray's jack-post release passage, Arlene's "Voyons donc" line, Pine Ridge finish and scores (84/117/133 vs 108/115/109), the boy's "Saturdays," Danny's invoice lines, Ellen's MX section and closing passage, all money and dates. No forbidden phrases, contrast constructions, or stated emotions found. Key ring and Hollis cap absent, per triage.
 - Flag (not changed, plot-level): Ch 08 shows Ray's score total as 334 for a string-sum comparison, consistent with the draft. No continuity issues found.
+
+- Orchestrator (manuscript read): letter folded in quarters (matches Ch 02); Arlene's reason grounded in what she knew at the sale (Ellen asked what the league paid), matching Ch 10.
