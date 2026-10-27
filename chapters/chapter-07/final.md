@@ -136,7 +136,9 @@ Day 4, it burned.
 
 Day 6, he set the landing time. Someone was waiting with a gun.
 
-The Ashby place and the landing time were in this book, in that hand, and the rest he had said aloud, on the phone, to the same people. She didn't have to decide which, him or the people he gave it to. The book went out either way.
+The Ashby place and the landing time were in this book, in that hand, and the rest he had said aloud, on the phone, to the same people. She didn't have to decide which, him or the people he gave it to. The book went out either way. Every place she slept went up a phone to Portland, and from Portland it came back down to a man with a gun. Stay beside the phone, stay beside the pipe.
+
+And he had written *assess*. After the shed. After the cot. He had asked her about money with his hands on her and written down the answers.
 
 The kettle he'd put on, the cup set by her hand. His hand stopping on the small of her back. The money questions, asked so gently she'd answered them. She couldn't sort it.
 
@@ -162,7 +164,7 @@ Not the store. Too many people in and out. Anything that came for her there woul
 
 Her go-bag was by the door. She shouldered it. She took the Icom in its freezer bag out of the side pocket, put her thumb on the knob through the plastic and felt the click stop at off, then zipped it inside her float coat, against her ribs.
 
-The sat phone stayed on the bench. The gun stayed on his hip. His kit stayed where it was. None of it was hers.
+The sat phone stayed on the bench. The gun stayed on his hip, where his hand would find it before he was awake. His kit stayed where it was. None of it was hers. Nobody but the two of them knew this door, and nobody had come to it; whatever else was true, he was safer here asleep than she was anywhere with him.
 
 The book stayed open. If she went without a word, he'd think she'd been taken. He'd come out into the dark after her with a gun, and someone would get shot on the cove road. The open page would tell him she'd gone on her own, and why.
 
