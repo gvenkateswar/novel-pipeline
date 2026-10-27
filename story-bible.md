@@ -497,7 +497,7 @@ The sleet came across the car deck flat, the way it does when the wind has made 
 
 Then she put her hand on the reefer box.
 
-It was the wrong temperature. Not warm. Not the hard, wet cold of a box running continuous for live product, either. Just November. She looked up at the unit on the nose of the trailer. Six Thursdays a month for six years that Thermo King had droned across the deck like a second engine. Its display was dark.
+It was the wrong temperature. Not warm. Not the hard, wet cold of a box running continuous for live product, either. Just November. She looked up at the unit on the nose of the trailer. Every Thursday for six years that Thermo King had droned across the deck like a second engine. Its display was dark.
 
 Her hand stayed where it was for one breath longer than it needed to. Then she moved on to the next truck, because the next truck was what she did next, and Ned had them off the slip in eleven minutes, and nobody on that deck was going to watch her stop.
 
