@@ -580,7 +580,7 @@ Never use these in prose. Flag and replace on sight.
 
 **AI-sounding habits (ban the pattern, not just the words):**
 - tapestry, symphony of, dance (as a metaphor), palpable, unspoken, navigate (feelings), journey (emotional), delve, testament, resonate
-- "It wasn't X. It was Y." and "Not X, but Y." Allow at most one per chapter.
+- "It wasn't X. It was Y.", "Not X, but Y.", "I'm not doing X, I'm doing Y", and every other contrast construction. Banned outright, in narration and dialogue (author rule). State the point directly.
 - Groups of three adjectives or three parallel clauses. Allow at most one triplet per scene.
 - Ending a scene or chapter on a one-line aphorism or moral. The last line of a scene should be an action or a line of dialogue.
 - A beat / a long beat / after a beat, as a stage direction
