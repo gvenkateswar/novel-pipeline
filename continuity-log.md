@@ -359,6 +359,61 @@ Saturday, Dec 19, 11:40 p.m.: Denise reads the R.G. card aloud (glow night lane 
 
 ---
 
+## Chapter 08: Position Relief
+
+**POV:** Ray (S1–S5), Ellen (S6).
+
+**What happened:**
+- **Sun Feb 8, Arlene's apartment above the pharmacy.** Ray brings packing tape. Arlene moves into The Pines, Unit 2B, on March 1. The ledgers came with the building, so Ellen owns them, and she has lent Arlene the 1996 book: "1996 — LENT A. FORTIER 02/05 — DUE 03/01." In it, September 1996 reads "Key to R.G. / no charge," the only body line Arlene ever gave him. Her scanner reports the Ledoux boy off the road at the Dock Road bend.
+  - Ray: "You told me first crack," at her counter and at the Legion hall after Linda's funeral. Arlene: "I said it. Twice. I meant it both times… Voyons donc. You'd have kept the lineage at seven-fifty and Linda's ball in the locker… That one raised the price her first winter and lost two teams for it. I'll take my money from somebody who does that."
+  - "Does she know why you picked her?" / "She hasn't asked." Arlene asked for three rolls of tape, and Ray goes down for the third.
+- **Sat Feb 13, Kettle Lanes (Massachusetts vacation week).** Ellen texts: "Lane 4 table hanging on the respot… Work order. Rate per our agreement." Ray logs "02/13 / 1440 / LANE 04 / TABLE" and replaces the belt from a spare on the third nail. A boy on the approach asks, "Do you live back there?" Ray: "Saturdays." Ray: "Thank you, Mr. Gagnon." / "Ms. Daly." The Open clipboard has nine lines left.
+  - Linda's 187 card photo shows her mid-release; it is the only way Ray ever saw that string. He takes Linda's blue vinyl bag (zipper pull of his picture wire) out of locker 14 and leaves the door open.
+- **Feb 16 (approx.), Leclerc's law office.** Ray signs the RELEASE OF RIGHT OF FIRST REFUSAL. He still believes the Concord developer, but the right is "a jack post under her floor. She could make both of Judy's numbers and never know whether the building had stood on its own or on him." He fixes the lawyer's embosser hinge with a dime. Asked "Reason?" he says no. It will be recorded that afternoon and becomes public at the registry. He declines a copy to Ellen. Lawyer: "When will you tell her?" The bank letter goes in his coat pocket.
+- **Tue Feb 16, 11:30 p.m., Pine Ridge.** Taylor's Marina and the Legion bowled their league strings there. Hollis has Gagnon & Son's sheet at Kettle Lanes. Ray called Gil Sunday. Gil: the Marina paid late, and "I've wanted you on my lanes for thirty years."
+  - Rules: three strings, total pins, Gil's lane, a chipped gray house ball (not Linda's). Denise keeps the official paper sheet. Stakes: if Ray wins, the Marina bowls Tuesdays at Kettle Lanes at $12.50 starting the 23rd. If the 112 wins, Ray bowls Tuesdays at Pine Ridge with the Marina through April. The 112: "I've asked him for this since 1996." The Legion shares the van, so it goes where the Marina goes.
+  - Ray 84 / 117 / 133 = 334, the 112 108 / 115 / 109 = 332. Ray says "Holy mackerel" at a lofted ball. He wins on the last ball using Ellen's lesson ("Low. Let the lane have it," then "The wood stays on the lane. You play what's left"), with the fallen pin swinging like a gate.
+  - The 112: "Tuesday. Twelve-fifty. Don't expect me to like it… Thirty years of us, and you picked the Daly woman over the league."
+- **Wed Feb 17, 6:20 p.m., Gagnon & Son.** Ray gives Danny the store outright, papers to follow. Danny: "Whatever you're shopping for now, we don't carry it. I checked." Coffee has been a quarter that nobody has paid since 1990. Ray seats Normie on Linda's green-cushion stool. Normie: "the old man's out the door at six twenty-five with his coat buttoned wrong."
+- **Sat Feb 20, 7:15 a.m., Kettle Lanes (Ellen POV).** The whiteboard has Plans A–D (ice, storm, closed roads, no power). The pace sheet shows about $1,000 short on income and $1,250 short on cash. The Open sold out Thursday at 4:40 (OPEN, FULL). Both Tuesday teams phoned Wednesday and are back at $12.50; neither captain would say why.
+  - Hollis: a coastal low, Friday night into Saturday the 27th, two of three models. Over ten inches, his plow contract has him on back roads from 3 a.m., so Gagnon & Son is a man short in the final. Plan E is "we all go home."
+  - Denise tells Ellen about Pine Ridge and the store. Ellen's interior: she will never know how much of the $12.50 came back on its own. She believes Ray still holds the first refusal.
+  - MX: is blank under every plan. Ellen: "I don't have an answer." Denise pushes the counter phone to her: "Call him, honey. Or I will."
+
+**What changed:**
+- Ray has released the right of first refusal. It will be public at the registry, and Ellen doesn't know.
+- Ray has won both Tuesday teams back. Ellen knows from Denise, not from Ray.
+- Ray gave Danny the store and took Linda's bag out of locker 14.
+- The Open is sold out.
+- A storm is forecast for the 27th.
+- Ellen is short on both numbers and has no mechanic in any plan.
+
+**Who knows what:**
+- Ellen: Pine Ridge and the store (via Denise). She thinks Ray still holds the right, and she doesn't know about the release.
+- Ray: Arlene's reason for selling to Ellen.
+- Leclerc: the release (to be recorded).
+- Denise: was at Pine Ridge and kept the sheet.
+- Danny and the Bench: the store transfer.
+- Arlene: asked whether Ellen knows why she was picked.
+
+**Objects / details introduced:**
+- The Pines Unit 2B.
+- The 1996 ledger loan strip.
+- Arlene's magnifier on a chain, and her scanner.
+- Linda's blue vinyl bag; locker 14 left open.
+- Gil's wireless mic, the chipped gray house ball, lanes 15/16 resurfaced in 2008, Gil's carpet glue.
+- The Legion van.
+- The release document and the Leclerc embosser.
+- The whiteboard Plans A–D and the MX: blanks.
+- The OPEN, FULL sandwich board.
+- Hollis's plow contract (private drives from 3 a.m. if over 10 inches).
+
+**ATC phrases used:** "Stand by" (Ellen, S6).
+
+**Ends on:** Saturday, Feb 20, about 7:30 a.m. Denise pushes the counter phone to Ellen to call Ray.
+
+---
+
 ## Master Continuity Flags
 
 **Timeline:**
@@ -374,13 +429,14 @@ Saturday, Dec 19, 11:40 p.m.: Denise reads the R.G. card aloud (glow night lane 
 - Sat Jan 16: first sold-out Saturday; pace sheet on the line; kiss 1 at the sign pole, about 11 p.m.; ledger reconciliation 11:40 p.m. Sun Jan 17, 1:14 a.m.: "Sunday 1400" set.
 - Sun Jan 17: dawn bob-house; 2 p.m. ledger talk. Tue Jan 26 (after league): boiler fails 12:08 a.m.; kiss 2 at ~3 a.m. Wed Jan 27 (closed). Fri Jan 29: new boiler in. Thu Jan 28: store fight; WEDDING DATE row. Sun Jan 31, 7 a.m.: derby pitch. Tue Feb 2, 6:30 p.m.: league meeting (Ch 07).
 - Tue Feb 2: 5:34 p.m. the $55K offer, Ellen refuses, breakup "effective now"; 6:29–7:19 meeting (11–8; Taylor's Marina and the Legion leave); 11:04 p.m. Ellen's car starts.
+- Sun Feb 8: Ray at Arlene's. Sat Feb 13: lane 4 belt; locker 14. ~Mon/Tue Feb 15–16: release signed at Leclerc's. Tue Feb 16, 11:30 p.m.: Pine Ridge match, 334–332. Wed Feb 17: store to Danny; both teams phone in. Thu Feb 18, 4:40 p.m.: Open sells out. Sat Feb 20, 7:15 a.m.: whiteboard and MX blank. Sat Feb 27: storm forecast; the Open.
 
-**Character states at end of most recent chapter (Ch 07):**
-- Ellen: broken up with Ray; refused $55K; income projected $22K / cash $17K; lineage raised; two teams gone; the Open official. Wrecked in private, composed in public.
-- Ray: stood beside Ellen in public while disagreeing; abstained; keeps the $55K check (back to the bank in the morning), the right of first refusal, and his bank letter (to March 31). Gave the pool sheet to Denise Monday.
-- Denise: made the motion, doesn't love it, holds the pool sheet.
-- Verna: ran the meeting; noted the coach's first abstention since 1996.
-- Highway Department: stayed, angry. Taylor's Marina and the Legion: gone (to return grumbling in Ch 08).
+**Character states at end of most recent chapter (Ch 08):**
+- Ellen: about $1,000 and $1,250 short; the Open sold out; teams back without her doing; no mechanic in any plan. About to call Ray (the D-side ask, Ch 09). Believes Ray still holds the right.
+- Ray: released the right (recorded, public, untold); won the teams back; gave Danny the store; carries Linda's bag. Still has the bank letter in his coat. Coaches Gagnon & Son. Kept the breakup's terms.
+- Hollis: plowing private drives from 3 a.m. if over 10 inches, so Gagnon & Son is a man short.
+- Denise: knows everything except the release.
+- Arlene: moving March 1; "She hasn't asked."
 
 **Open threads (planted details needing payoff):**
 - Invoicing Ray's repairs → done in Ch 03 (per-call at Ellen's rate).
@@ -430,6 +486,14 @@ Saturday, Dec 19, 11:40 p.m.: Denise reads the R.G. card aloud (glow night lane 
 - The pool sheet now at the alley with Denise.
 
 **Notes for Ch 08 (from the Ch 07 cold read):** Ray at her left ("I don't agree with her") is the best moment in the book. Keep the tics retired (key ring, pause lines, "stood with that"). Don't end on a car, a light, or a lock again; vary the endings. The romance needs to feel broken so the repair matters.
+
+- The release is recorded and public: Ellen learns of it in Ch 09/10 (rule 23: it is never her reward at the finish line).
+- Linda's bag out of locker 14: Ch 09.
+- Gagnon & Son a man short for the final (Hollis plowing): the sanction card (Ch 03), Ch 09.
+- Arlene: "Does she know why you picked her?" / "She hasn't asked": Ch 10.
+- Ray's bank letter: still in his coat.
+
+**Notes for Ch 09 (from the Ch 08 cold read):** The reader fears a tidy ending in which Ellen receives Ray's gifts. Rule 23 governs. Ellen's ask must look hard. The storm forces a choice no plan covered. The numbers don't land by a cute margin. No checklist climax.
 
 **Notes for Ch 05 (from the Ch 04 cold read):** The reader wants to see Ellen "lose something she can't fix with a card on a pegboard" (rule 20). Vary dialogue length (rule 20). The Ray "fella" stories are close to wearing out: use at most one in Ch 05, or none.
 
