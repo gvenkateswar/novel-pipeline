@@ -252,7 +252,7 @@ At the back door he pulled it shut behind him and tried the handle twice. He wal
 
 At five past six the plow truck at the curb was still idling, and the Bench was up on its stools. Ray had the drawer in and the coffee on when his phone buzzed on the shelf under the register.
 
-A photograph: his card, on her desk, still tied to the clutch, the twist tie neat. Under his line she had added one more, in block capitals, smaller than his and perfectly level.
+A photograph: his card, on her desk, still tied to the clutch, the twist tie neat. Under his line she had added one more, smaller than his and perfectly level.
 
 REMARKS: INVOICE TO E. DALY.
 

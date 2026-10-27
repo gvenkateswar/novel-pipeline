@@ -136,7 +136,7 @@ Denise reached under the counter and slid a form across with the pen on top. LEA
 
 "Bowlers, in case anyone's counting." She glanced at the register. "Well."
 
-Ellen filled it in, in block capitals. Denise turned it with one finger and inspected it the way she inspected rental shoes after the spray.
+Ellen filled it in. Denise turned it with one finger and inspected it the way she inspected rental shoes after the spray.
 
 "You'll live."
 

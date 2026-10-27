@@ -238,7 +238,7 @@ On lane 6 Denise picked up her eighth-box spare with her second ball. Gil came p
 
 He was through the vestibule before she could answer.
 
-Ray bowled his tenth box of the third string and took nine. He sat down on the settee with Linda's ball in his lap and both hands over it. The right one shook once, the way hers had shaken on the drop light that morning, and went still. He left them there until the ball return had gone quiet.
+Ray bowled his tenth box of the third string and took nine. He sat down on the settee with Linda's ball in his lap and both hands over it. The right one shook once, the way Ellen's had shaken on the drop light that morning, and went still. He left them there until the ball return had gone quiet.
 
 Ellen's tenth box of the third string came up. Her first ball chopped the left side off clean. Her second took two more and left one pin standing tight against the right gutter, with a fallen pin lying on the deck behind it.
 

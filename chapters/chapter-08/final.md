@@ -263,7 +263,7 @@ The whiteboard leaned against the burnt-orange settee at lanes 1 and 2, four pla
 
 Across the top row of the strip board hung five strips in her capitals, one for each weekday of school vacation week. Each read 1200–1700 / VAC WK / ALL LANES / SOLD. In December Judy had asked what she had booked against that week, and she had said nothing yet. She had built it herself since then: kids' afternoons, family strings by the hour, and a block for the derby families. She had sold it on the derby's phone tree, and every family had paid ahead.
 
-Behind the register the pace sheet carried every dollar of it and still said what it had said all week. Eighteen hundred dollars short on Judy's first line, with the Open still to run. Twelve hundred and fifty short on her second.
+Behind the register the pace sheet carried every dollar of it and still said what it had said all week. The vacation package and the two Tuesday teams back on the sheet had made up most of what the league meeting cost her. Eighteen hundred dollars short on Judy's first line, with the Open still to run. Twelve hundred and fifty short on her second.
 
 "Short on both," Ellen said.
 

@@ -200,7 +200,7 @@ Ellen kept her eyes on the valve. "Is that wrench certified?"
 
 He hung it back on its nail.
 
-The plan, when she had it, went onto an index card from her vest pocket in block capitals. A certified oil-heat technician, two hours out, maybe more, on a no-heat call across the lake. Heaters from the rental yard at seven. Closed Wednesday. She would call the two bookings herself at eight.
+The plan, when she had it, went onto an index card from her vest pocket. A certified oil-heat technician, two hours out, maybe more, on a no-heat call across the lake. Heaters from the rental yard at seven. Closed Wednesday. She would call the two bookings herself at eight.
 
 He went up for the second flashlight. When he came back down she had the phone to her ear, on hold, and she held out her free hand. He put the flashlight in it. The line clicked, and a woman's voice came back on mid-sentence about a truck in Gilford.
 
@@ -234,7 +234,7 @@ Ray kept his eyes on the iron. "On paper."
 
 "How much on paper?"
 
-"New, commercial, put in on short notice?" He looked at the crack. "About what a plow truck costs. With the blade. I wouldn't count on less."
+"New, commercial, put in on short notice?" He looked at the crack. "About what a good used plow truck costs. With the blade. I wouldn't count on less."
 
 She nodded once.
 

@@ -274,7 +274,7 @@ She took the rotary phone off the office desk and stood in the doorway with it, 
 
 Ellen hung up and sat down on the counter stool.
 
-Then she reached up to the strip board and took down the Friday glow strip and the Saturday one. She printed CLOSED across each in block capitals and pinned them back.
+Then she reached up to the strip board and took down the Friday glow strip and the Saturday one. She printed CLOSED across each and pinned them back.
 
 His eye went along the board while she did it, out to the far end. 02/27 / 1800 / LGM / 10. REMARKS was blank.
 

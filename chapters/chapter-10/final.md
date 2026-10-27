@@ -60,7 +60,7 @@ The lawyer handed the wire confirmation across to Arlene. Arlene licked her thum
 
 "One," she said. "That's all of it."
 
-She took the 1996 ledger out of her tote and set it in front of Ellen, the loan strip still standing up out of the pages. DUE 03/01. Ellen uncapped her pen and printed RETD 03/01 underneath it in block capitals.
+She took the 1996 ledger out of her tote and set it in front of Ellen, the loan strip still standing up out of the pages. DUE 03/01. Ellen uncapped her pen and printed RETD 03/01 underneath it.
 
 The lawyer brought the embosser down on the last page.
 
@@ -88,7 +88,7 @@ Ellen offered her arm at the top of the stairs. Arlene went down one step at a t
 
 Denise had the pool sheet out on the counter and her pen uncapped.
 
-"December first, nobody. February second. 'They split.' Somebody's idea of a joke. I drew the line through it that night. March first, nobody. All winter, nobody." She wrote across the top of the sheet in pen. NO WINNER. POT TO DERBY KIDS DIV. "There."
+"December first, nobody. February second. 'They split.' Somebody's idea of a joke. I drew the line through it that night. March first, nobody. Nobody won all winter." She wrote across the top of the sheet in pen. NO WINNER. POT TO DERBY KIDS DIV. "There."
 
 "It goes in HELD."
 
