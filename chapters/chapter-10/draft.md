@@ -1,6 +1,6 @@
 # Chapter 10 — First Boat
 
-**Days 9 to 11 — Saturday to Monday**
+**Day 9 to Day 11 — Saturday to Monday**
 
 *Day 9, noon*
 
