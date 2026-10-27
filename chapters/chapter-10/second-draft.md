@@ -14,7 +14,7 @@ Ellen had not taken the chair. "Saturday's receipts went into the floor safe. Th
 
 "I have the slip." Judy squared it with the others. "The rule's the one I gave you in December. On deposit on the twenty-eighth, or taken in by then and documented. The underwriter decides what documented means, and he wasn't in your office Saturday night." She picked up the phone. "You were. I'm putting him on speaker, and you're going to tell him."
 
-For thirteen weeks every number in the building had been Ellen's to move, and she had moved them. This one would be settled by a man at the main office she had never met, and all she could put on his desk was her voice. It would sound fine. It always sounded fine. This time she had the paper under it.
+For thirteen weeks every number in the building had been Ellen's to move, and she had moved them. This one would be settled by a man at the main office she had never met, and all she could put on his desk was her voice. It would sound fine. It always did. This time she had paper under it.
 
 Judy dialed. The underwriter came on with his last name and nothing else, and Judy gave him Ellen's.
 
@@ -40,7 +40,7 @@ The line stayed quiet long enough for Judy to turn a page.
 
 Judy took the pen off the second circle and made the check mark.
 
-"Twenty-five thousand at closing, and monthly reports to me against your seasonal budget through next February." She didn't soften it. "Closing's at one, at Leclerc's."
+"Twenty-five thousand at closing, and monthly reports to me against your seasonal budget through next February. Closing's at one, at Leclerc's."
 
 "Twenty-five at closing. Monthly reports through next February. Accepted."
 
@@ -64,7 +64,7 @@ She took the 1996 ledger out of her tote and set it in front of Ellen, the loan 
 
 The lawyer brought the embosser down on the last page.
 
-Ellen had carried the question since December. She had two guesses and liked neither. Arlene might have picked her for the size of the check, or for not being Ray. 
+Ellen had carried the question since December.
 
 "Arlene. Why me?"
 
@@ -92,7 +92,7 @@ Denise had the pool sheet out on the counter and her pen uncapped.
 
 "It goes in HELD."
 
-"Honey, I know where it goes. December was men with snowblowers that wouldn't start. February was the hopeful ones. They gave you long enough to break something expensive, and you did, and you didn't fold." She capped the pen.
+"Honey, I know where it goes. December was men with snowblowers that wouldn't start. February was the hopeful ones. They gave you long enough to break something expensive, and you did." She capped the pen.
 
 She folded the sheet in thirds so the bottom row stayed on the outside. WEDDING DATE. She slid it back under the crossword.
 
@@ -110,7 +110,7 @@ The drop light hung on its hook over lane 7. Under the raised table the ten pins
 
 "Fourteen minutes, Mrs. Daly."
 
-He had been saving it. She could tell by the way he waited, eyebrows up, for the correction. She let it go by, and she was smiling before she looked at her watch.
+He had been saving it. He waited, eyebrows up, for the correction. She let it go by, and she was smiling before she looked at her watch.
 
 "Fifteen and a half, Mr. Gagnon."
 
@@ -190,7 +190,7 @@ He didn't say anything to that. He picked up the ladder from where it leaned by 
 
 The commitment letter had run out on March 31 in his coat pocket. On April 1 a woman from the lender called to ask whether he'd like another extension, and he told her no, thank you. She asked if there was a reason, for her form. He told her he was spoken for, and heard her type it.
 
-At dusk the ladder stood against the pole at the road. The electrician from the sign shop in Laconia, in a hard hat, opened the disconnect at the foot of the pole and went up, and Ellen held the ladder with both hands. Ray took the old transformer when it came down and handed the new one up. The electrician made up the connections and climbed down.
+At dusk the ladder stood against the pole at the road. The electrician from the sign shop opened the disconnect at the foot of the pole and went up, and Ellen held the ladder with both hands. Ray took the old transformer when it came down and handed the new one up.
 
 Ray keyed the radio on his collar. "Counter, Gagnon. Throw the sign."
 
@@ -203,3 +203,11 @@ The sign buzzed and caught. From the foot of the pole all Ray could see was the 
 Ellen walked out into the road and looked up at it.
 
 "Both words."
+
+---
+## Edit log
+- Interiority cut: "Ellen had two guesses and liked neither. Arlene might have picked her for the size of the check, or for not being Ray." removed (it was a contrast guess and explained the question)
+- Explained feeling cut: "She didn't soften it." removed; Judy's covenant line now runs straight into the closing time
+- Filler: "She could tell by the way he waited" became "He waited"; electrician logistics and the hard hat cut; Denise's "and you didn't fold" cut; "It always sounded fine" became "It always did"
+- Contrast constructions: none found in Ch 10
+- Left untouched: Ellen's speaker case and "Not one dollar crossed over," the covenant, the declaration and "It was you first," the shared "Mrs. Daly" tease, "I eat supper at a quarter past five," "Both words"

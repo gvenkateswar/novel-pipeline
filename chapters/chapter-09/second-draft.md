@@ -18,7 +18,7 @@ The handheld on the counter clicked on channel 2.
 
 The whiteboard leaned against the settee at lanes 1 and 2. Ellen circled B in red. At the foot of every column, A through D, the line that had read MX: for a week now read MX: R.G. in her capitals. She had made that call herself on the twentieth, with Denise watching, and booked him by work order at the agreed rate.
 
-"Fryer first." Kate came out of the snack bar in scrub pants and a Kettle Lanes sweatshirt she had taken off the merchandise hook without paying. She had driven up Friday on her days off to see the thing, and her body still ran on nights. "Thermostat says three-fifty and it's running hotter. You can smell it on the basket. I turned it down to three-twenty-five, so leave it there." She turned to the whiteboard. "Who's R.G.?"
+"Fryer first." Kate came out of the snack bar in scrub pants and a Kettle Lanes sweatshirt she had taken off the merchandise hook without paying. She had driven up Friday on her days off, and her body still ran on nights. "Thermostat says three-fifty and it's running hotter. I turned it down to three-twenty-five. Leave it there." She turned to the whiteboard. "Who's R.G.?"
 
 "The mechanic."
 
@@ -32,7 +32,7 @@ Kate read the board column by column, the way she read a chart.
 
 Ellen looked at the radar. The comma had not moved.
 
-She had never told Kate how her calm behaved on a bad day. It sounded right on every call, right up to the moment it was too late, and nobody listening could hear the difference, including her.
+She had never told Kate how her calm behaved on a bad day. It sounded right on every call, right up to the moment it was too late.
 
 "Ask me at six," Ellen said.
 
@@ -44,7 +44,7 @@ Kate gave her one more second, then went to the 40-cup urn. She pulled the baske
 
 * * *
 
-At 10:40 Ellen came out of the office and counted on her way to the counter. A hundred and forty-seven, in snow boots. Coolers stood three deep at the end of lane 10. The Open's early rounds ran on all ten lanes, and the waiting list on the strip board was three cards deep.
+At 10:40 Ellen came out of the office and counted on her way to the counter. A hundred and forty-seven, in snow boots. Coolers stood three deep at the end of lane 10. The Open's early rounds ran on all ten lanes, with three cards on the waiting list.
 
 The league teams were paying in for the championship round. The 112 laid his money on the counter one bill at a time.
 
@@ -52,15 +52,13 @@ The league teams were paying in for the championship round. The 112 laid his mon
 
 Denise rang it in. "You drove forty minutes each way to Gil's place in Halsey Falls. Shoes on your left."
 
-Behind her the fryer had three tickets hanging and the popcorn machine was going. So was the space heater under the counter. Ellen had heard that pair trip the breaker twice this winter.
+Behind her the popcorn machine was going, and so was the space heater under the counter. Ellen had heard that pair trip the breaker twice this winter.
 
 "Ground stop on the snack bar," Ellen said. "No new orders for fifteen minutes. Popcorn off."
 
 Denise switched it off with the back of her wrist and pulled the next ticket. "I mentioned the breaker in December."
 
 Down on lane 9 the table hung on the reset. A man in a Highway Department jacket stood at the foul line with his ball and looked sixty feet down the lane at it.
-
-The steel door by lane 10 stuck. Ellen put her shoulder into it on the second try.
 
 In the pit the drop light hung on its hook over lane 3. Ray had the cover off and one arm inside the machine to the elbow.
 
@@ -92,7 +90,7 @@ He took the drop light off its hook and held it out to her by the handle.
 
 "Nine first. Three holds another hour if nobody throws hard." He was already walking down the catwalk. "Then three."
 
-She carried the light to lane 9 and held it where he pointed, over the table, while he got the cover off. Her hand shook, and the light moved on the steel. He worked in it. Out front the PA hummed.
+She carried the light to lane 9 and held it where he pointed, over the table, while he got the cover off. Her hand shook, and the light moved on the steel. He worked in it.
 
 "Ellen to lane ten," Denise said over the whole house. "The fish are here."
 
@@ -106,10 +104,6 @@ Hollis had come in off the plow with snow standing on both shoulders. Judy Ostro
 
 "Twenty-seven and a quarter inches."
 
-"Depth?"
-
-"Thirty-eight feet, off the second point. Live smelt."
-
 He wrote it in the waterproof notebook with the golf pencil.
 
 Judy unzipped the top of the suit and nodded to Ellen. "I'm here as a fisherman today."
@@ -120,7 +114,7 @@ The radio clipped to Hollis's coat spoke in the town dispatcher's voice. He turn
 
 Ellen looked at the whiteboard on its settee. Plan C closed the roads before the doors opened. The house was full now.
 
-"Half your six o'clock people are already standing in this building," Denise said. She had come down from the counter with a pencil behind each ear. "Keep the evening. They slept on those settees in January and lived."
+"Half your six o'clock people are already standing in this building," Denise said, coming down from the counter with a pencil behind each ear. "Keep the evening. They slept on those settees in January and lived."
 
 "The raffle's drawn at six." The treasurer put a hand flat on the cash box. "It says six on eleven hundred tickets."
 
@@ -132,7 +126,7 @@ Ellen keyed the handheld. "Ray. Lanes 3 and 9."
 
 The handheld clicked off.
 
-At seven that morning the tape had projected both of Judy's lines, with the evening and Sunday on it. Without them she could not say where she would land until she ran it tonight. She uncapped the red marker.
+At seven that morning the tape had cleared both of Judy's lines, with the evening and Sunday on it. Without them she would not know where she landed until she ran it tonight. She uncapped the red marker.
 
 "The final bowls at two-thirty on 5 and 6," she said. "Raffle at two. Departures begin at two-fifteen, and the building is empty at four. Every six o'clock ticket is refunded in full. Sunday is closed."
 
@@ -144,7 +138,7 @@ Hollis turned his cap over in his hands.
 
 "The draw time is my building's call," Ellen said. "Mr. Pike called the ice."
 
-The treasurer sat back down with the box on his knees, still owed an hour that nobody on lane 10 could give him.
+The treasurer sat back down with the box on his knees.
 
 Hollis zipped his coat. "Back at five-thirty for your lot."
 
@@ -220,13 +214,11 @@ Ellen handed her daughter the departure list. Kate looked up from it at Ray, all
 
 "Your color's good." She went back to the list. "Fine. She put you on the strip board in her own capitals. I'm thirty-one, and I've never been on the strip board."
 
-Ray looked at the floor and rubbed his jaw.
-
 Ellen took a house ball off the rack behind lane 8 and walked down toward lane 5. Behind her the counter phone rang. Kate had it on the first ring.
 
 * * *
 
-Thirty-one people were left on the burnt-orange settees, coats in their laps. The Linda Gagnon Memorial stood on the scorer's table between lanes 5 and 6, and Verna kept the official sheet beside it with her watch face up. Gil Arsenault had paid an entry for the morning round and stayed in his overcoat to watch.
+Thirty-one people were left on the burnt-orange settees, coats in their laps. The Linda Gagnon Memorial stood on the scorer's table between lanes 5 and 6, and Verna kept the official sheet beside it with her watch face up. Gil Arsenault stayed in his overcoat to watch.
 
 Ray unzipped the blue bag on the settee and took out Linda's ball. It was the size of every house ball in the building and darker than any of them, worn dull on one side from Linda's grip. He held it in both hands until the table came down on lane 5.
 
@@ -238,9 +230,9 @@ Ellen's first ball of the final sailed past the lob line and came down twice.
 
 Denise, waiting her turn on lane 6 for the Lakeview Diner, graded it to the room. "Pretty height. Doesn't count. You'll live." Ellen finished the string at sixty-one. Ray finished it at 109.
 
-By the second string her ball stayed on the lane. Denise converted every spare she left across the pair, all four of them. Going into the third, Gagnon & Son trailed by more than any one bowler could make up, and everyone on the settees could do that arithmetic.
+By the second string her ball stayed on the lane. Denise converted every spare she left across the pair, all four of them. Going into the third, Gagnon & Son trailed by more than one bowler could make up.
 
-On lane 6 Denise picked up her eighth-box spare with her second ball. Gil came past the scorer's table on his way to the door, the last Halsey Falls coat in the building, a car already warming in the lot.
+On lane 6 Denise picked up her eighth-box spare with her second ball. Gil came past the scorer's table on his way to the door, the last Halsey Falls coat in the building.
 
 "Mrs. Lavoie. Second ball, eighth box. I counted it."
 
@@ -268,7 +260,7 @@ The thirty-one stood up off the settees and clapped, the Highway Department loud
 
 That one went too. She put her free hand flat over her mouth and kept it there.
 
-Kate left at 3:58, the last line on the departure list, in Denise's car, because Denise lived past the narrows and the camp was on her way. At the vestibule door she turned around, came back across the wet mat in her boots, and held on to her mother once, hard, with the list still in her hand.
+Kate left at 3:58, the last line on the departure list, in Denise's car. At the vestibule door she turned around, came back across the wet mat, and held on to her mother once, hard, with the list still in her hand.
 
 Out in the lot Denise leaned on the horn.
 
@@ -280,7 +272,7 @@ VAC WK 02/22–26 . . . 3,900.00
 
 OPEN 02/27, LESS REFUNDS . . . 2,650.00
 
-The total printed at $30,850 against Judy's $30,000. She ran it again from the top and got the same figure, then ran the cash and got $25,600 against $25,000. Eight hundred and fifty over on one line and six hundred on the other, and the evening she had handed back across the counter in envelopes would have covered either one.
+The total printed at $30,850 against Judy's $30,000. She ran it again from the top and got the same figure, then ran the cash and got $25,600 against $25,000. Eight hundred and fifty over on one line and six hundred on the other. The evening she had handed back across the counter in envelopes would have covered either.
 
 Judy would read the paper Monday with the underwriter's rules open beside it.
 
@@ -288,7 +280,7 @@ She stayed on her feet. She took the 02/27 strip down from the far end of the bo
 
 * * *
 
-Ray had spent an hour putting lane 9's table right, now that nobody was waiting on it. The lanes were dark. Snow still ticked against the glass block, and the building had gone quiet enough to hear the baseboard cool. Linda's trophy had gone down Kettle Road at two minutes to four, in the back seat of Denise's car. He had carried it out to her himself.
+Ray had spent an hour putting lane 9's table right, now that nobody was waiting on it. The lanes were dark. Snow still ticked against the glass block, and the building had gone quiet enough to hear the baseboard cool. Linda's trophy had gone down Kettle Road at two minutes to four, in the back seat of Denise's car. He had carried it out himself.
 
 At the pegboard by the pit door he filled in his card. He wrote 02/27, then 0640, the time he had let himself in that morning in the dark, then LANE 09. He held the pencil over REASON.
 
@@ -300,7 +292,7 @@ At the pegboard by the pit door he filled in his card. He wrote 02/27, then 0640
 
 "That one fit."
 
-He left it blank and followed her into the office. The tape lay torn off beside the adding machine, and the day's raffle cash sat squared in a stack next to it, rubber band and all, every ticket sold in the building since ten that morning. Hollis was due at five-thirty with the plow.
+He left it blank and followed her into the office. The tape lay torn off beside the adding machine, and the day's raffle cash sat squared in a stack next to it, rubber band and all, every ticket sold in the building since ten that morning.
 
 She pushed the whole stack across the desk to him.
 
@@ -316,7 +308,7 @@ He set the bag on the desk.
 
 He ran the zipper on the bag half an inch and back.
 
-"Six years was true," he said. "Hollis has had me on that pail every Sunday since the funeral, and he never once put her name in it. He never once put her name in it." He looked at her. "It landed."
+"Six years was true," he said. "Hollis has had me on that pail every Sunday since the funeral, and he never once put her name in it." He looked at her. "It landed."
 
 "Yes."
 
@@ -343,3 +335,14 @@ He looked at the key on the desk.
 Ellen picked the back-door key up off the desk, put it in his palm, and closed his fingers over it with her own hand.
 
 She sat down in the desk chair.
+
+---
+## Edit log
+- Trim (about 150 words cut, est. 3,890 to ~3,740; no word-count tool was available, so the figure is a hand tally): steel-door-sticks sentence, "PA hummed," Hollis's depth exchange with Judy, Kate's drive-home logistics, "Hollis was due at five-thirty," Kate's fryer detail, "to see the thing," Gil's "car already warming," Gil's entry fee, Ray rubbing his jaw
+- Explained meaning cut: "and nobody listening could hear the difference, including her" (removed); "still owed an hour that nobody on lane 10 could give him" (removed); "everyone on the settees could do that arithmetic" (removed)
+- Duplicate: "he never once put her name in it. He never once put her name in it." reduced to one
+- Verb: "the tape had projected both of Judy's lines" became "had cleared"
+- Contrast constructions: none found in Ch 09
+- Tics: all within budget (one count-the-room, one cap, no sign buzz, no "I'm aware," one "honey")
+- Left untouched: readback, D-side ask, "thinking you could still take it," "I'd like to be asked in," key in his palm, Ellen sitting down, $30,850 and $25,600, Diner by 23
+- Flag: Ellen's tenth-box line quotes "The wood stays on the lane" in full, and Ch 09 is its third allowed use. The Ch 03 and Ch 08 uses should be checked
