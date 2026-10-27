@@ -14,7 +14,7 @@ In the crew mess Russ leaned on the doorframe.
 
 Dane sat with his back to the bulkhead. He didn't take long.
 
-"The shot at the landing came off a gray skiff from away. Nobody saw the shooter. Quist's people tie that skiff to Arsenault. His sternman's Shane Doucette, and he's the one on the Harbor Road at night. Somebody talks him around on a radio."
+"The shot at the landing came off a gray skiff from away, and nobody saw the shooter, but Quist's people tie that skiff to Arsenault. His sternman is Shane Doucette, who is the man on the Harbor Road at night, and somebody talks him around on a radio."
 
 Russ looked at Beth.
 
@@ -22,11 +22,11 @@ Russ looked at Beth.
 
 "Jolene's cousin's boat," Russ said. "Last time there was trouble in my family I was the last man on Cutter to hear about it." He looked at Dane, not her. "Somebody ought to arrest somebody on this island before your people get here and do it for us. Might as well be the constable."
 
-"On what?" Dane said. "A pause on a radio. Take Tess tonight and Arsenault walks to his mooring and sails, and the man with the heel goes with him. We take them when they come. What do you carry, and who trained you?"
+"On what, so far? A pause on a radio," Dane said. "If you take Tess tonight, Arsenault walks down to his mooring and sails, and the man with the heel goes with him. We take them when they come to us. What do you carry, and who trained you to carry it?"
 
 "M&P. Part-time officer course at the academy, three summers back. I can arrest on Cutter. Never had to do it with the lights out." Russ touched his belt. "Cuffs."
 
-Dane looked at the hand on the belt and nodded once.
+Dane nodded once.
 
 Beth stood. "Up top."
 
@@ -40,11 +40,9 @@ He went and stood in it, and the shadow took all of him.
 
 "And the signal."
 
-"If the floods go dark, it's the water. The stern. There's nowhere else. Then I come down the inside companionway to the deck. I can work it blind. You can't."
+"Floods go dark, it's the water side. Russ, you stay on the pier."
 
-He had lost that one at half past three and didn't fight it again.
-
-"Take me through it once more," he said.
+"Take me through it once more," Dane said, "slower than you'd like."
 
 His left hand was tucked into the front of his soft-shell. He held out the right.
 
@@ -128,7 +126,7 @@ At eleven it opened.
 
 A clatter. Something knocked against the desk at the store end. Then the carrier, open and dead, and then not even that.
 
-Beth's palm lay flat on the console. The steel hummed with the generator below her.
+Beth's hand lay on the console. The steel hummed with the generator below her.
 
 *Water side.* Not the pier. The stern, and the port quarter ladder.
 
@@ -174,7 +172,7 @@ The floods went out.
 
 The lit frame at the end of the alley was gone, and so was everything else, the trucks and his own hand. She was coming down.
 
-He did not move. A man who moves blind on a deck he doesn't know makes noise, and noise was hers to use tonight, not his. Whatever came, he would not fire into a dark she was somewhere in. Standing still while she worked was the hardest order he had ever taken, and he had taken it from her, because she was the best hand on this boat and he had stopped pretending otherwise days ago.
+He did not move. A man who moves blind on a deck he doesn't know makes noise, and noise was hers to use tonight, not his. Whatever came, he would not fire into a dark she was somewhere in. Standing still while she worked was the hardest order he had ever taken, and he had taken it from her, because she was the best hand on this boat.
 
 Four years ago a woman had asked him for ten minutes, and he had given them to her. He kept his back on the cold aluminum.
 
@@ -248,7 +246,7 @@ She sat back and took him in hand over hand, the wet rope stiffening in the cold
 
 "Rung's at your right hand. Hold it."
 
-Behind her a ratchet clicked, and chain fell slack with a long rattle. He'd found the release one-handed. She had put his hand on that binder before dark.
+Behind her a ratchet clicked, and chain fell slack with a long rattle. He'd found the release one-handed, where she had put his hand before dark.
 
 Then his boots, fast along the port bulwark. He stopped at the gatepost, between her and the water. A holster snapped.
 
@@ -300,13 +298,13 @@ At first gray they ran the brow back out to the stone, and Russ walked Arsenault
 
 He walked him on the inside, one hand on the chain of the cuffs and the other at his elbow, his own holster side turned away. Arsenault went where he was put: clean-shaven, the good Musto jacket zipped to the chin. He said nothing.
 
-Tess came behind them in her red vest. Ned walked beside her, his hands in his pockets. He had sat the night in Russ's kitchen by the scanner and heard sixteen at midnight. At first light he'd walked down to the store, and he was on its step when Russ brought them out. A foot of cold air lay between his sleeve and hers, all the way down the pier.
+Tess came behind them in her red vest. Ned walked beside her, his hands in his pockets. He had sat the night in Russ's kitchen by the scanner and heard sixteen before midnight. At first light he'd walked down to the store, and he was on its step when Russ brought them out. A foot of cold air lay between his sleeve and hers, all the way down the pier.
 
 "Town office has no power," Russ said at the foot of the gangway. "You've got heat, light, steel, a lock and a federal officer."
 
-"He'd have had that back door covered," Dane said.
+"I'd have expected him to have that back door covered," Dane said.
 
-"It opens inward. A man inside hears it before you're through." Russ tipped his head up the hill. "There's a cellar bulkhead behind the propane cage. Every kid on Cutter has used it. Nobody from away knows it's there. The stair comes up behind her desk. He had both hands on the radio and his back to the stair. He had the cuffs on before he'd turned around."
+"It opens inward. A man inside hears it before you're through." Russ tipped his head up the hill. "There's a cellar bulkhead behind the propane cage. Every kid on Cutter has used it. Nobody from away knows it's there. The stair comes up behind her desk. He had the radio to his mouth and his back to the stair. He had the cuffs on before he'd turned around."
 
 He looked across the harbor at the *Margaret Ann*, white-lit on her mooring. "The second crewman's still aboard her with the lights on. He's not going anywhere. Marine Patrol can have him."
 
@@ -316,7 +314,7 @@ Dane took Arsenault from him at the brow and walked him down to the crew mess wi
 
 Tess stood at the foot of the gangway. A red band circled her right wrist, darker at the bone. Beth stood at the top. Twelve feet of aluminum brow lay between them.
 
-Tess's hand came up toward Beth's braid, the old reach, and stopped in the air between them, and came down.
+Tess's hand came up toward Beth's braid, the old reach, and came down empty.
 
 Beth didn't step back. She didn't step closer.
 
