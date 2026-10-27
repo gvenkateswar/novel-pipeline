@@ -6,13 +6,13 @@
 
 The strip's paper backing came away yellow and brittle, and the old glue under it smelled like a closed drawer.
 
-Beth laid it across the middle of the graze first. With her thumb she pushed the edges of the cut together, then pressed the strip down over them. The skin held. She had pressed the wound twice that morning and again at noon, and waited till it quit about two, because strips won't stick to a seeping cut.
+Beth laid it across the middle of the graze first. With her thumb she pushed the edges of the cut together, then pressed the strip down over them. The skin held. If she had said a name on Wednesday, it would be a clean arm. She had pressed the wound twice that morning and again at noon, and waited till it quit about two, because strips won't stick to a seeping cut.
 
 Dane sat on the edge of the cot with his left elbow braced on his knee. His right hand was clamped round his left wrist, holding his own arm still for her. His watch was on the end of the workbench by the cot. She'd had him take it off before she started. The arm would swell.
 
 Rain came at the shingles in bands. The window on the water side had gone the color of slate by half past three, and the lantern was lit on the workbench beside her father's red Pelican case.
 
-She'd boiled water on the drum, cooled it in a coffee can, cleaned a hand's width all round and dried the edges with gauze. Now the second strip. The third. The fourth came off its paper and wouldn't take, its glue gone to dust. So did the fifth. She turned the box over to the date. Four years past. She took the next one out anyway, and it held.
+She'd boiled water on the drum, cooled it in a coffee can, cleaned a hand's width all round and dried the edges with gauze. She laid two more strips. The next came off its paper and wouldn't take, its glue gone to dust, and so did the one behind it. She turned the box over to the date. Four years past. She took another out anyway, and it held.
 
 His breath was on the inside of her wrist each time she leaned in. He watched her hands. Not her face.
 
@@ -22,21 +22,21 @@ He leaned toward her to see. Her free palm went flat on his chest and stopped hi
 
 "It sticks wet."
 
-"Better tape than the Service issues."
+"It's better tape than the Service issues."
 
 She put the gauze pad over the strips and taped it round, not tight.
 
 "These hold it closed. They don't hold it if you work it. Nothing over your shoulder. No hard grip with that hand."
 
-"Arm down. Hand soft."
+"Then I'll keep it at my side and leave it alone, which is about all I had planned for it anyway."
 
 "Through Saturday at least."
 
-He nodded. "Pike says the system's in by dark. Nothing moves on the water till it blows through. Ferry's still Sunday."
+He nodded. "Pike says the system will be in by dark, and nothing moves on the water until it blows through. The ferry is still Sunday."
 
 She didn't ask what else Pike had said.
 
-"Wake me at eleven," he said. "Night call."
+"Wake me at quarter past eleven," he said. "I have the night call."
 
 "The watch can wake you."
 
@@ -60,9 +60,7 @@ The notebook. Yellow cover, face down, splayed.
 
 She bent for it. It had fallen open. At the top of the left-hand page, in a hand that wasn't hers or her father's, was her name: *CALLOWAY, E.* Under it, a dollar sign.
 
-She didn't put it back.
-
-She carried it to the workbench, turned the lantern up a quarter turn and held the page to the light. On purpose. It had her name on it.
+She carried it to the workbench instead of the pocket, turned the lantern up a quarter turn and held the page to the light. On purpose. It had her name on it.
 
 *D2 Sat 1000 — Quist. $9,000 cash deposited subject's acct, D1 a.m., w/ paycheck, via store bank bag. Hundreds. Teller flagged.*
 
@@ -74,7 +72,7 @@ Her eye went past *bank bag, D1, paycheck* to the top of the line. Saturday. He 
 
 Sunday in the Ashby generator shed, diesel on her hands, him at the filter asking about money. *Anything come in lately?* She'd told him about her father's boat. About the bank. She'd told him because she'd thought he wanted to know.
 
-On the cot he breathed slow and even. Six feet away. His holster was on his hip under the blanket. His watch lay on the end of the workbench by his head, set for eleven.
+On the cot he breathed slow and even. Six feet away. His holster was on his hip under the blanket. His watch lay on the end of the workbench by his head, set for a quarter past eleven.
 
 She turned back to the first page.
 
@@ -136,15 +134,21 @@ Day 4, it burned.
 
 Day 6, he set the landing time. Someone was waiting with a gun.
 
-The Ashby place and the landing time were in this book, in that hand, and the rest he had said aloud, on the phone, to the same people. She didn't have to decide which, him or the people he gave it to. The book went out either way. Every place she slept went up a phone to Portland, and from Portland it came back down to a man with a gun. Stay beside the phone, stay beside the pipe.
+The Ashby place and the landing time were in this book, in that hand, and the rest he had said aloud, on the phone, to the same people. Him or the people he gave it to: it came to the same thing. The book went out either way. Every place she slept went up a phone to Portland, and from Portland it came back down to a man with a gun. Stay beside the phone, stay beside the pipe.
 
-And he had written *assess*. After the shed. After the cot. He had asked her about money with his hands on her and written down the answers.
+And he had written *assess*. After the shed. After the cot. He had stood at the filter beside her asking about money, and then he had kissed her, and then he had written down the answers.
 
 The kettle he'd put on, the cup set by her hand. His hand stopping on the small of her back. The money questions, asked so gently she'd answered them. She couldn't sort it.
 
+There was another way to sort it. She didn't. *Calloway — home (phone)*, in Tess's round hand on the counter. *Local emergency management.* Cutter had one of those, and Beth had known her name with the hatchet in her hand.
+
+A man from away she could walk out on. Tess she would have to walk past every morning of her life.
+
+If it was him, it wasn't her.
+
 Her father had believed the bank.
 
-His watch said 10:58. She picked it up off the workbench by his head. She knew this watch. Last night she'd turned its face down. She found the side button and held it, and the alarm mark went off the dial. Her thumb didn't slip.
+His watch said 10:58. She picked it up. She knew this watch. Last night she'd turned its face down. She found the side button and held it, and the alarm mark went off the dial. Her thumb didn't slip.
 
 She set the watch back where it had been. Then she opened the notebook to the second page, the money, laid it on the workbench and squared its spine to the bench edge.
 
@@ -158,9 +162,9 @@ He was armed and trained, and he read people for a living. If he was the leak, t
 
 Now, then. The storm covered sound and kept people indoors. He was asleep and the alarm was dead. By daylight he'd read it in her face before she said a word.
 
-The ferry. Steel. Lit. A fixed VHF and a wheelhouse door that locked. Ned, who'd known her since before she could walk a deck.
+The ferry. Steel. Lit. A fixed VHF and a wheelhouse door that locked. Ned, who'd known her since before she could walk a deck. Ned, who ate supper at Tess's table every night of the week. She stepped over that like a coil of line in the dark.
 
-Not the store. Too many people in and out. Anything that came for her there would come at Tess. She thought of Tess going up the hill at one with Mrs. Dyer's soup, in any weather.
+Not the store. Too many people in and out, and a phone in the back office. She stopped there. She thought of Tess going up the hill at one with Mrs. Dyer's soup, in any weather, and kept her mind on the soup.
 
 Her go-bag was by the door. She shouldered it. She took the Icom in its freezer bag out of the side pocket, put her thumb on the knob through the plastic and felt the click stop at off, then zipped it inside her float coat, against her ribs.
 
@@ -168,7 +172,7 @@ The sat phone stayed on the bench. The gun stayed on his hip, where his hand wou
 
 The book stayed open. If she went without a word, he'd think she'd been taken. He'd come out into the dark after her with a gun, and someone would get shot on the cove road. The open page would tell him she'd gone on her own, and why.
 
-She turned the lantern down to a bead. She didn't feed the stove.
+She turned the lantern down to a bead and let the stove go.
 
 On the cot his right hand lay open on the blanket. His jaw was dark with a week's stubble. At the edge of the gauze her strips showed white.
 
@@ -178,13 +182,13 @@ At the door the cold came off the planks against her face. She put her hand on t
 
 "Beth," he said.
 
-She stopped. Didn't turn. His breathing hitched, and then it evened out, long and slow. Asleep. He'd said her name asleep.
+She stopped with her back to him. His breathing hitched, and then it evened out, long and slow. Asleep. He'd said her name asleep.
 
 "Deputy," she said, under her breath.
 
 He didn't hear it.
 
-She lifted the bar out of its brackets and lifted the door on its hinges, the way her father had taught her so it wouldn't scrape, and stepped out into the rain. She shut it behind her on the open book.
+She lifted the bar out of its brackets and lifted the door on its hinges, as her father had taught her so it wouldn't scrape, and stepped out into the rain. She shut it behind her on the open book.
 
 ---
 
@@ -208,7 +212,9 @@ A radio broke squelch on him. A burst, a low voice she couldn't make out, the hi
 
 She counted the gap between bursts. Twenty seconds. Twenty. Twenty-two. Steady, like somebody reading down a list.
 
-Her own Icom was off, in its bag, against her ribs. She kept her hand flat over it anyway.
+Her own Icom was off, in its bag, against her ribs. She kept her hand over it anyway.
+
+The gun and the phone were behind a door she had shut herself. Out here there was a woodpile, and nobody on the island who knew where she was.
 
 Her knees had gone numb in the bark. Her breath came short and she put her mouth into her sleeve so it wouldn't steam toward the road.
 
@@ -216,13 +222,13 @@ The light passed the church. Close enough that she could see the rain in the bea
 
 She stayed until her hands shook from the cold and not the other thing.
 
-She didn't go back to the road. She went down the bank behind the church on her heels and her hands, through dead bracken to the shore.
+Then she left the road to him and went down the bank behind the church on her heels and her hands, through dead bracken to the shore.
 
 Low water had been at five past ten. The tide had turned an hour since; the young flood was making, and the ledges under the Harbor Road were still out. The gravel spit below the church lay dry along its spine and wet at its edges, where the flood came over a sea at a time. Well over an hour before it covered.
 
-Rockweed slid under her boots. Barnacles took the skin off one knuckle. Nobody would walk this shore in this weather, and nobody watched it.
+Rockweed slid under her boots. Barnacles took the skin off the back of one hand. Nobody would walk this shore in this weather, and nobody watched it.
 
-She worked along it toward the stone pier with the store's lit windows above her and off to one side. She didn't climb to them.
+She worked along it toward the stone pier, keeping under the store's lit windows, which hung above her and off to one side.
 
 Under the pier the ledge was black and streaming. The iron ladder went up into the dark above her, rung by rung. Over the pier's lip the *North Reach* showed her deck lights, sodium orange through the rain.
 
@@ -230,11 +236,11 @@ Under the pier the ledge was black and streaming. The iron ladder went up into t
 
 *Day 8, two o'clock*
 
-She came up the ladder and waited in the shadow of the wrecked slip's tower, out of the floods. She didn't call him. Anyone with a set on in the harbor would have heard.
+She came up the ladder and waited in the shadow of the wrecked slip's tower, out of the floods. The Icom stayed zipped. Anyone with a set on in the harbor would hear a call.
 
 Ned did his pump rounds every two hours in a storm. At two a flashlight came aft along the car deck.
 
-She stepped into the gangway light. The gate was chained. His hearing aid would be off; it always was at night. She slapped the steel of the gate twice with her open palm.
+She stepped into the gangway light. The gate was chained. She slapped its steel twice with the heel of her hand, and it rang down the deck.
 
 The light swung onto her and held.
 
@@ -246,7 +252,7 @@ She couldn't get the float coat's zipper down. Her fingers wouldn't close on the
 
 The generator thrummed up through the deck plates into the bench.
 
-When she lifted her head Ned was in the doorway with two mugs. He thumbed his hearing aid on. He set her coffee down by her hand, not in it.
+When she lifted her head Ned was in the doorway with two mugs. He set her coffee down by her hand, not in it.
 
 "Where's your marshal?"
 
@@ -256,15 +262,15 @@ He waited. She gave him nothing else.
 
 "I want the wheelhouse," she said.
 
-His eyes went to the square of the Icom under her float coat. Then he worked a key off his ring, his thick fingers on the split ring, and held it out.
+He took in the square of the Icom under her float coat. Then he worked a key off his ring, his thick fingers on the split ring, and held it out.
 
-They went up the inside companionway. The wheelhouse smelled of burnt coffee and wet wool and warm electronics. The fixed set hissed on 16. Ned wiped the forward windows with the console rag and left them worse.
+They went up the inside companionway. The wheelhouse was warm with the electronics, and the fixed set hissed on 16.
 
 "Anybody know you came here?"
 
 "You."
 
-He looked at her for a while. Rain ran down the glass he'd smeared. Then he put one finger to his ear and turned the hearing aid off, and went down the ladder.
+His eyes stayed on her. Rain ran down the forward windows. Then he turned and went down the ladder.
 
 She turned the key in the lock.
 
@@ -272,8 +278,8 @@ She took the Icom out of its bag, switched it on and set it on the console besid
 
 Through the aft windows, past the lighting panel on the bulkhead, she watched his flashlight go along the car deck between the two chained trucks. It went to the gangway and stopped there. Then it went out.
 
-He was sitting in the dark at the only way aboard from the land. She couldn't tell if he was guarding it or waiting at it. Ned had known the Ashby place. He'd given her the key. And on Saturday he'd told Dane that dealer always ran his unit, when she'd had her palm on that box and it had been dead.
+He was sitting in the dark at the only way aboard from the land. She couldn't tell if he was guarding it or waiting at it. Ned had known the Ashby place. He'd given her the key. And on Saturday he'd told Dane that dealer always ran his unit, when she'd had her bare hand on that box and it had been dead.
 
-Out on the cove the lantern would be down to its bead, and then out. The stove would be cold iron. The book would be squared on the workbench, open at the page with her name and the money on it.
+Out on the cove the lantern would be down to its bead, and then out. The stove would be cold iron. The book would be lying open on the workbench at the page with her name and the money on it.
 
-He'd wake all at once, the way he had on the first night when the latch lifted, already sitting up, his hand already at his hip. And in the cold he'd find the matches, and light the lantern, and read his own handwriting.
+He'd wake all at once, as he had on the first night when the latch lifted, already sitting up, his hand already at his hip. And in the cold he'd find the matches, and light the lantern, and read his own handwriting.

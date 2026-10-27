@@ -18,7 +18,7 @@ At nine that night the float had been lit, the red hull alongside.
 
 Cash after hours wasn't a crime, and Tess needed the money. Eighteen hundred a month on the tank loan, and November was no month for gas.
 
-Tess glanced up from the register and saw where Beth was looking. She drew the ledger and the spiral check-in log to the counter's edge and lined them up with it, two square corners.
+Tess glanced up from the register and saw where Beth was looking. She drew the ledger and the spiral check-in log to the counter's edge and lined them up with it.
 
 Ned kept his eyes on the cans. "You somewhere warm?"
 
@@ -26,7 +26,7 @@ Ned kept his eyes on the cans. "You somewhere warm?"
 
 He nodded, as if that answered something. Then: "Ashby shed. Told them three years running that transfer switch was no good. Wrote it on the invoice. That shed's on a sill that's half sawdust. Walt'll tell you I said so."
 
-He reached up and turned his hearing aid off with one finger, took his cans and went out.
+He put one finger to his left ear, took his cans and went out.
 
 Nobody had asked him about the shed.
 
@@ -44,7 +44,7 @@ She picked it up and turned it over to the date before Beth could reach for it, 
 
 "Wouldn't want you to be."
 
-Tess bagged the kerosene and the batteries and the box. Then she reached under the counter and dropped a Hershey bar on top. "That one's free. That's from me." Her eyes went once to Dane's back at the propane card and came home to the register.
+Tess added it on the pad, then added it again. Every total, twice. She bagged the kerosene and the batteries and the box. Then she reached under the counter and dropped a Hershey bar on top. "That one's free. That's from me." Her eyes went once to Dane's back at the propane card and came home to the register.
 
 Dane came up beside Beth as she lifted the bag. He watched the box go into it.
 
@@ -52,7 +52,7 @@ Dane came up beside Beth as she lifted the bag. He watched the box go into it.
 
 Tess laughed, the big one, the one you could hear from the float.
 
-Outside on the store dock Beth looked back through the window. Tess stood at the counter with the green ledger squared to its edge, smoothing the cover flat with both palms, and then again. Behind Beth, across the dock, the *Margaret Ann*'s radio finished one song and started the next.
+Outside on the store dock Beth looked back through the window. Tess stood at the counter with both hands on the green ledger, smoothing the cover, and then again. Behind Beth, across the dock, the *Margaret Ann*'s radio finished one song and started the next.
 
 ---
 
@@ -60,7 +60,7 @@ Outside on the store dock Beth looked back through the window. Tess stood at the
 
 At noon the ramp to the town landing ran at an easy pitch on the half flood, and Beth went down it with one hand on the rail.
 
-The float boards were green with weed and gave under her boots. Outside the harbor mouth the ledges still threw white water, but in sets now, with flat gray between. The float lights stood dark on their timer pole. Daylight. That was right.
+The float boards were green with weed. Outside the harbor mouth the ledges still threw white water, but in sets now, with flat gray between. The float lights stood dark on their timer pole. Daylight. That was right.
 
 Russ was on the float bailing the skiff he rowed out to *Second Wind*, with a dented coffee can. Dane stayed at the head of the ramp, where he had the shore lane and the water both.
 
@@ -72,7 +72,7 @@ Russ was on the float bailing the skiff he rowed out to *Second Wind*, with a de
 
 He stopped. Took his cap off, looked into it, put it back on.
 
-"Arsenault's Jolene's cousin. Makes him family the way the town dump's family. You didn't pick it, it's there, and you try not to visit." He tipped the can over the side. "Woman called me Friday. Homeland Security, Portland, before the lines went. Said stay clear of that boat. So I stayed off that boat. I'm not a complicated man."
+"Jolene. My ex-wife. Arsenault's her cousin. Made him family the way the town dump's family, and the divorce didn't give him back. You didn't pick it, it's there, and you try not to visit." He tipped the can over the side. "Woman called me Friday. Homeland Security, Portland, before the lines went. Said stay clear of that boat. So I stayed off that boat. I'm not a complicated man."
 
 She watched his hands. They went back to the can and didn't hurry.
 
@@ -80,25 +80,19 @@ She watched his hands. They went back to the can and didn't hurry.
 
 "Till the sea says otherwise."
 
-He looked past her at the harbor mouth, at the sets on the ledges and the gaps between them, and his lips moved. Timing the gaps, the way anybody on a mooring would.
+He looked past her at the sets on the ledges, and his lips moved. Timing the gaps. Anybody on a mooring would.
 
-At the top she didn't take the lane straight off the ramp. She walked every way off a float before she needed it. Her father had, and the habit had outlived his boat. She ducked under the bait shed's roll-up door, half raised, into herring reek thick enough to coat her tongue. Between the totes. Through the dark. Out the back door onto the shore lane.
+At the top she didn't take the lane. She walked every way off a float before she needed it; her father had. She ducked under the bait shed's half-raised door into herring reek thick enough to coat her tongue. Between the totes, through the dark, out the back door onto the shore lane.
 
 From the back door to where the lane dropped behind the seawall: fourteen steps.
 
-Dane stood in the back doorway and watched her pace it. He didn't ask.
+Dane stood in the back doorway and watched her pace it. The frame was cut low. She ducked it coming back in, and in the shed's dark his hand came to the small of her back and stayed a breath after she'd cleared it.
 
-The frame was cut low, for men who'd been built shorter. She ducked it coming back in, and in the shed's dark his hand came to the small of her back and stayed a breath after she'd cleared it.
+He struck the wall beside the door with the side of his fist. It boomed thin.
 
-He rapped the wall beside the door with one knuckle. It boomed thin.
+"That's corrugated," he said. "It'll keep the weather off you, but it won't stop a round."
 
-"Corrugated," he said. "Stops weather. Not rounds."
-
-She filed that beside the fourteen.
-
-Then she went to the back door again and put her palm flat on the wall by the frame. The cold came through the metal into her hand. She looked down the shore lane toward the cove road, with Dane behind her in the dark of the shed. Then she pulled the door to.
-
-They came out under the roll-up door into the noon light. The cold of the wall stayed in her palm, and she kept that hand shut in her coat pocket all the way to the cove road, with the harbor gray and flat beyond the seawall.
+She laid her bare hand on the metal by the frame. The cold came straight through. Then she pulled the door to, and they went out under the roll-up door into the noon light, and she kept that hand shut in her coat pocket all the way to the cove road, with the harbor gray and flat beyond the seawall.
 
 ---
 
@@ -106,7 +100,7 @@ They came out under the roll-up door into the noon light. The cold of the wall s
 
 By half past three the light had gone thin over the cove, and the wind had come round west and was dropping.
 
-Beth split kindling on the block by the fish house door. Cedar, off her father's pile. Twenty feet above her, on the bare ledge with the spruce at his back, Dane stood with the Iridium's stub antenna pointed at open sky.
+Beth split kindling on the block by the fish house door. Cedar, off her father's pile. Twenty feet above her on the bare ledge, Dane stood with the Iridium's stub antenna pointed at open sky.
 
 The wind took half of what he said. The hatchet took more.
 
@@ -116,11 +110,11 @@ She set a round on the block and split it.
 
 "Your office coordinated with local emergency management for the landing. Understood." Then: "Quist. Go ahead."
 
-Local to him meant the mainland. Some county office in Pruett with a desk and a radio, the people who'd have to clear the ramp on that side. The island's version of that was Tess with a clipboard, and nobody in Portland phoned Tess. She split the halves into quarters.
+Local emergency management on Cutter wore a red vest and kept a pencil in her reading glasses. Beth didn't say it. She brought the hatchet down on the next round too hard, and the blade went through and bit into the block and stuck. She worked it free with both hands. Her fingers had locked on the haft and came off it one at a time. She split the halves into quarters, the quarters into sticks too thin to hold a flame, and kept on until he started down off the ledge.
 
-He came down the ledge with one hand on the rock and stopped by the block.
+He came down off the rock and stopped by the block.
 
-"Zero six hundred tomorrow. Coast Guard motor lifeboat at the town landing. Seas offshore under six feet by then. Next system's in by tomorrow evening." He watched her hands, not her face. "Miss this one and there isn't another before the ferry. A deputy meets us at the station. Safe site till Monday."
+"Zero six hundred tomorrow, a Coast Guard motor lifeboat at the town landing. Seas offshore will be under six feet by then, and the next system's in by tomorrow evening." He watched her hands, not her face. "If we miss this one, there isn't another before the ferry. A deputy meets us at the station, and you're at a safe site till Monday."
 
 Someone else's boat. Someone else's wheel, someone else's room with someone else's lock. She gathered the kindling into the crook of her arm.
 
@@ -130,11 +124,11 @@ Someone else's boat. Someone else's wheel, someone else's room with someone else
 
 "The lane's below the seawall. Nobody on the water sees it. The ramp, you see from every mooring in the harbor."
 
-"Lane. Back door. Look first." He nodded once. "You were right about the water. I'm not arguing about the landing."
+He nodded once. "Then we come in under the seawall and through the shed, and nobody sets foot on that ramp until you've had your look from the door. You've been right about the water every time, so I'm not going to argue with you about the landing."
 
 He climbed back to the ledge, faced the cove path, took out the notebook and wrote until the page ran out of light.
 
-She went inside and opened the stove and laid the kindling on the coals.
+She went inside and opened the stove and laid the kindling on the coals. The saltines were on the bench. She tore the sleeve open, looked at them, and folded it shut again.
 
 When he came in, the fire had caught and her hand was out.
 
@@ -148,7 +142,7 @@ At twenty past eleven Dane went out under the sky for his call. At twenty-six pa
 
 Beth watched the pocket close. Then she lifted the jacket off the door nail and hung it on the one in the post beside the stove, so the damp of the ledge would be out of it by four-thirty.
 
-She took the box out of the store bag and set it on the bench beside his watch. Tess's Hershey bar stayed in the bag. He read the end of the box, the way he read everything, and put it down.
+She took the box out of the store bag and set it on the bench beside his watch. Tess's Hershey bar stayed in the bag. He read the end of the box and put it down. He read everything.
 
 He didn't reach for her. He stood with the lantern low at his back and his hands open at his sides, and she watched them stay open.
 
@@ -202,7 +196,7 @@ He looked at the lantern for a while.
 
 "Four years ago," he said. "Boston. I had a witness."
 
-Ten minutes. He'd said that much in the Ashby shed, with diesel in his knuckles, and wiped his hands twice and given her nothing after. She'd let him keep the rest then.
+Ten minutes. He'd said that much in the Ashby shed, with diesel worked into his hands, and wiped them twice and given her nothing after. She'd let him keep the rest then.
 
 "Marisol Duarte. Twenty-four. She had a sister in Dorchester she hadn't seen in a year. It wasn't on the route." He breathed out. "I said yes."
 
@@ -240,7 +234,7 @@ On the float, tied short on the outside, lay a skiff. Gray fiberglass, high-side
 
 Dane was at her shoulder. He tipped the Icom to read its channel.
 
-"Float lights are out. Dragger's moved to where she can see the float, with her lights off. That skiff's from away with its leg down."
+"Float lights are out," she said. "Dragger's moved to where she can see the float, with her lights off. That skiff's from away with its leg down."
 
 He keyed the Icom. "Coast Guard motor lifeboat, this is Deputy Reyes on two-two alpha. Abort, abort. Landing is not secure. Do not approach. Over."
 
@@ -296,7 +290,7 @@ Through the open door she heard his side of it.
 
 She stood at the stove and laid it out in a row.
 
-She had heard him set the time. Zero six hundred, town landing. She had heard him say it back to Portland. The only people she knew of who had the hour and the place were the man on the ledge and the voices he gave his day to every night.
+She had heard him set the time. Zero six hundred, town landing. She had heard him say it back to Portland. The man on the ledge had the hour and the place, and so did the voices he gave his day to every night. So did one other. She left that one out of the row.
 
 Three days and a storm until the ferry. No other way off.
 

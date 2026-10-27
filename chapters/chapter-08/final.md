@@ -6,23 +6,23 @@
 
 The stove was cold.
 
-His hand found it before his eyes found anything, on the drum's lid in the dark, and the iron held no more heat than the planks. Dane lay still and let the room come to him, door first.
+His hand found it before his eyes found anything, on the drum's lid in the dark, and the iron held no more heat than the planks did. Dane lay still and let the room come to him, door first.
 
-One door, landward, its bar out of the brackets and leaned upright against the frame. The loft hatch shut. The water-side window black, and under it the cove slapping the ledge. The nail where her float coat had hung all week held nothing.
+There was one door, landward, and its bar had been lifted out of the brackets and leaned upright against the frame. The loft hatch was shut. The window on the water side was black, and under it the cove slapped at the ledge. The nail where her float coat had hung all week held nothing.
 
-He sat up, his left arm stiff under the strips. His watch lay on the end of the workbench: six past four, the alarm mark gone from the dial. He had set it at eleven with her watching. Nobody else could have switched it off. He was five hours late for Pike.
+He sat up with his left arm stiff under the strips. His watch lay on the end of the workbench at six past four, the alarm mark gone from the dial. He had set it at eleven with her watching, and nobody else could have switched it off. He was five hours late for Pike.
 
-The lantern had burnt dry. By flashlight: the Iridium on the bench, inside his reach. The Glock on his hip. Her father's red case, latched. Her bag gone from beside the door, and the Icom with it.
+The lantern had burnt dry, so he went over the room by flashlight. The Iridium was on the bench, inside his reach, and the Glock was on his hip. Her father's red case was latched. Her bag was gone from beside the door, and the Icom with it.
 
-The notebook lay open on the workbench at *CALLOWAY, E.* and the dollar sign, its spine squared to the bench edge. Rage would have fed it to the stove. Squared, it said she had read it with a level head, and decided.
+The notebook lay open on the workbench at *CALLOWAY, E.* and the dollar sign, its spine squared to the bench edge. Rage would have fed it to the stove. Left like that, it said she had read it with a level head, and decided.
 
-He read it cold, the way a stranger would. Her kitchen door to the minute. The Ashby place, and whose key. The landing time. Then *Do not disclose to subject*, and a column of *no change* in a hand that made no change look like suspicion. To anyone who didn't know what he knew, the pages proved that a man had slept beside her and written her down.
+He read it cold, as a stranger would. It had her kitchen door to the minute, the Ashby place and whose key it was, and the landing time. Then came *Do not disclose to subject*, and a column of *no change* in a hand that made no change look like suspicion. To anyone who didn't know what he knew, the pages proved that a man had slept beside her and written her down.
 
-Last, the D6 line, scored through. She had got none of it.
+The D6 line came last, scored through. She had got none of it.
 
 He didn't write the morning's entry. He zipped the book into his inside pocket and took the phone out onto the ledge, held the arm against his ribs and got the antenna into open sky. Pike answered on the first ring.
 
-"You missed eleven."
+"You missed eleven-twenty."
 
 "Yes."
 
@@ -30,7 +30,7 @@ Quist came on a minute after.
 
 He gave it in the order it had happened, because that was the only order that would stand up later.
 
-"The witness read the credibility log last night. She left the detail on her own at about twenty-three hundred, unarmed, carrying a handheld VHF." He waited out a gust. "Since the night of Day 4 I've been in a relationship with the protectee. I named it to her then. I'm naming it to you now. I'm asking to be relieved and taken off this detail on the first boat that can reach the island."
+"The witness read the credibility log last night. She left the detail on her own at about twenty-three hundred, unarmed, carrying a handheld VHF." He waited out a gust. "Since the night of Day 4 I've been in a relationship with the protectee. I named it to her then. I'm naming it to you now. There is also one location we've used since that night that I kept out of the log, and I'm telling you that I kept it out, not where it is. I'm asking to be relieved and taken off this detail on the first boat that can reach the island."
 
 The line hissed.
 
@@ -44,11 +44,13 @@ The line hissed.
 
 "Coast Guard station. And Ops called the local emergency management contact. I don't have the name in front of me. I'll have it for you at seven."
 
+He stayed out on the ledge after the line went dead. He had handed Pike the detail and Quist the case, and handed Moreau a deputy any defense lawyer would be glad to meet, and all it had bought him was the right to tell her he had done it before she heard it from someone else.
+
 Back inside, he laid out what he had, in hands.
 
-The nine thousand had come in the store's bank bag. He had watched it cross the rail on the morning of Day 1: Tess Marr in her red vest handing it up, and a big captain who wouldn't look at a marshal taking it below. Two pairs of hands. The Ashby key had come from the captain too, and on Saturday the captain had lied to his face about the reefer.
+The nine thousand had come in the store's bank bag. He had watched it cross the rail on the morning of Day 1: Tess Marr in her red vest handing it up, and a big captain who wouldn't look at a marshal tucking it inside his jacket. That was two pairs of hands. The Ashby key had come from the captain too, and on Saturday the captain had lied to his face about the reefer.
 
-Not the store, and not her house, watched since the first night. She'd go where she was good. Steel, a fixed radio, a door that locked, and a man who had taught her the boat. She would call that safety.
+She would not go to the store, and she would not go to her house, which had been watched since the first night. She would go where she was good: steel, a fixed radio, a door that locked, and a man who had taught her the boat. She would call that safety, and he thought she would be half right, and that she would not let him aboard to tell her which half.
 
 When the window went to slate he shouldered the go-bag on his good side, drew the Glock and held it low, and went up the grown-over path through the alders.
 
@@ -68,7 +70,7 @@ She took the fixed set's mic off its clip and backed toward the open door until 
 
 "Come in."
 
-The door opened on wet wool and the burnt coffee from the pot below, and Ned stopped one step inside.
+The door let in diesel from below and the warmth of the mess, and Ned stopped one step inside.
 
 He looked at the mic, then at the open door behind her and the gray beyond it. His finger went up to his ear.
 
@@ -78,7 +80,7 @@ He lowered his hand.
 
 "He doesn't always run his unit," she said. "I had my palm on that box. The panel was dark. And the Ashby shed. Transfer switch, three years of invoices, a sill gone to sawdust, ask Walt. Nobody asked you about the shed."
 
-He put one hand flat on the chart table, the whole spread of it.
+He set one big hand on the chart table and leaned his weight into it.
 
 "A year," he said. "About. Unit off, weights wrong. Sternman from away loading, never the same one twice."
 
@@ -98,21 +100,19 @@ She didn't answer.
 
 The fixed set hissed. Ned had never once in her life filled a silence, and he filled this one.
 
-"She gets everything. Always has. Supper, then I go home." He folded the rag into a square and opened it again. "Runs that pump after dark for the loan. I knew. Her business." The rag went over the glass. "She's scared, Beth. Since the storm she's scared all the time."
+"She gets everything. Always has. Supper, then I go home." He worked the glass again. "Runs that pump after dark for the loan. I knew. Her business. She's scared, Beth. Since the storm she's scared all the time."
 
 He stopped wiping.
 
 "Sleeps in the back office now, in her chair by that booster, light on. I thought she was waiting on you to call." Lower: "Morning net, she ticks your line. Every day since the lines went."
 
-Beth looked at the smeared glass. Through it the store was a bar of yellow across the harbor.
+Beth looked out past him. Across the harbor the store was a bar of yellow.
 
 Ned turned, unasked, and went down the companionway. She heard his boots on the steel treads and a mug knock below. He came back up, set it on the chart table by her left hand and stepped back to the door.
 
 She didn't pick it up. She reached over and clipped the mic onto its hook.
 
-He watched it go on. His finger went halfway to his ear and stopped there.
-
-He left it on.
+He watched it go on, and stayed where he was.
 
 ---
 
@@ -122,23 +122,29 @@ Beth took the Icom out of its freezer bag, switched it on and turned it from six
 
 Nobody. Their old channel. Tess on the store's set, Beth fourteen on the *Ruthie C*: *Tell your father his coffee's on, two sugars.*
 
-She counted to eleven and turned back to sixteen. She hadn't keyed it.
+She let it hiss and turned back to sixteen. She hadn't keyed it.
 
-The green ledger, squared to the counter's edge. *Island Girl,* 3:52, and white lines under it to the foot of the page. The spiral log beside it: *Calloway — home (phone)*, written down before the back door was tried.
+*Tess doesn't count.* She had told herself that at the bread rack on Saturday, and every day since, and it had held because she was the only one saying it. Now Ned had said it, red in the face, as an excuse. In his mouth it sounded like what it was.
 
-*Local emergency management.* She had thought of Tess with a clipboard. Then she had split the round, and decided nobody in Portland phoned Tess.
+She quit holding the pieces apart.
 
-The bank bag. Thursday at four she had slid her paycheck across that counter for the morning boat, and Tess's initials had gone on the tag. She had read *via store bank bag* in his hand and gone straight past it. Only one pair of hands closed that bag.
+The spiral log on the counter. *Calloway — home (phone)*, in Tess's hand, six hours before the latch lifted.
 
-Her hand went to the end of her braid. On Tuesday Tess's hands had been on the register, the ledger, the box held out across the counter. Not once on Beth's arm. Tess had touched her every day of her life.
+The bank bag. Thursday at four she had slid her paycheck across that counter for the morning boat, and Tess's initials had gone on the tag. Only one pair of hands closed that bag.
 
-*Secondary location, B's family property, not disclosed.* He'd kept the fish house out of his own book. Every place he reported had come back as a man with a gun. The one place that went nowhere had had nothing come to it in four days but weather. If it had been him, the fish house would have burned first.
+Tess's hands on Tuesday: on the register, the ledger, the box held out across the counter. Not once on Beth's arm. Tess had touched her every day of her life.
 
-The winter of the tank loan, Tess had added the store's column twice every night. On the second total the pencil went through the paper.
+The winter of the tank loan, Tess adding the store's column twice every night. On the second total the pencil went through the paper.
 
-Beth sat down in the helm chair because her legs decided it. She picked up Ned's mug. The coffee had gone cold. She drank it, all of it, then switched the Icom off and bagged it.
+And Wednesday. *Local emergency management.* She had known whose name that was before the words were out of his mouth, and she had kept it behind her teeth.
 
-Through the smeared glass a figure came down the pier road, one arm held against his ribs, a bag on the other shoulder. He walked the line of the pier wall first, then turned for the gangway. She knew the walk.
+Beth sat down in the helm chair because her legs decided it. She picked up Ned's mug. The coffee had gone cold. She drank it, all of it.
+
+"Tess," she said, out loud, to the empty wheelhouse.
+
+Nothing came back but the hiss on sixteen. She switched the Icom off and bagged it.
+
+Through the glass a figure came down the pier road, one arm held against his ribs, a bag on the other shoulder. He walked the line of the pier wall first, then turned for the gangway. She knew the walk.
 
 He stopped at the head of the gangway. Below her the deckhouse door banged open, and Ned stepped out onto the aluminum brow and stood in his way.
 
@@ -164,69 +170,81 @@ Ned unfolded his arms and stepped down onto the deck by the gate, and stayed the
 
 In the crew mess wet gear steamed on the heater rail. Ned's green wool jacket lay balled at the end of the settee where he'd slept. Beth sat at the steel table, and Dane set the go-bag down and sat across from her.
 
-She held out her hand. He gave her the notebook from his inside pocket, and she put it on the table under her palm.
+She held out her hand. He took the notebook from his inside pocket and gave it to her, and she laid it on the table and kept her hand on the cover.
 
-"Who told you to write me down?"
+"You wrote *assess*." Her voice came out low, from the chest. "After the shed. You asked me about the money. Then you kissed me. Then you wrote it down."
 
-"Quist asked. Pike ordered. Saturday."
+"I did all of that." He didn't look away. "Quist asked for the log on Saturday and Pike ordered it, and the woman I told them didn't know, under the eave, was you. On Sunday I asked you about your account, and then I kissed you, and that night I wrote down what you'd told me. I wanted to know you anyway. That's true, and it doesn't help, because only one of those went in the book."
 
-"'She doesn't know.' Saturday, under the eave."
+The heater ticked.
 
-"That was you."
+"I could have told you on Saturday and taken the consequences. I didn't. That was mine. The order didn't choose it for me, and I'd like to tell you Boston did—"
 
-"Why didn't you tell me?"
-
-"Telling you could be called coaching. Coaching ends your testimony."
-
-"The money."
-
-"Pike's office gave me the emergency management name at seven. Teresa Marr." He said all of it, the way it would go in the record. "The bag went from her hands to Ned's to the credit union. The teller found it under your slip. Under her tag."
-
-Her hand stayed on the cover.
-
-"I wrote *no indication* Sunday night. I believed you from then on."
-
-"Sunday. The shed."
-
-"Quist wanted the money asked about. I wanted to know you anyway." His eyes stayed on hers. "Both were true. One went in the book."
-
-"Wednesday's line. What was under it."
-
-He didn't pretend not to understand. "*Subject and I.*" He stopped. "That's as far as I got. I wasn't putting you in Quist's book that way. I said it out loud this morning, to Pike."
-
-"You could have told me Saturday."
-
-"Telling you meant bending the order. The last rule I bent for a woman, she died in a parking lot." His voice stayed level. "After that I didn't trust myself to choose which ones."
-
-She looked at the black tape on his sleeve. She didn't ask what the call had cost.
-
-He told her anyway.
-
-"I reported that you read the log. I reported us. Both by name. I'm off this detail when relief lands, and off the case. Quist has to tell Moreau why. There'll be a referral to internal affairs." He set his good hand on the table. "Moreau has to hand it to the defense. A lawyer can stand up at trial and put it to you under oath. I'd rather you get asked than have it found."
-
-"You wrote *assess*." Her voice came out low, from the chest. "After."
-
-He didn't look away.
-
-"Your hands were on me. You were asking about the money."
-
-Nothing.
-
-"The parking lot's yours. You carry her. Not me."
+"The parking lot's yours." She didn't raise her voice either. "You carry her. Not me."
 
 He took it. Then he lifted his left arm onto the table with his good hand and laid it beside the other, both hands open where she could see them.
 
-Beth took her hand off the notebook and slid it back across the steel to him. He left it on his side.
+Beth opened the book herself. She went past her kitchen door and the Ashby key and the landing, back to Monday.
 
-Her left palm stayed on the table between them, scar up. His hand came across and stopped an inch short of it, and waited. She left hers where it was.
+*D4 2200 — Ashby compromised (fire). Moved: secondary location, B's family property, not disclosed.*
+
+She put her finger under *not disclosed*.
+
+"Why didn't you write it?"
+
+"Because it was the one place I decided Portland didn't need," he said, "and I thought that if anyone ever asked, I could defend the decision. Nobody asked. I told Pike this morning that I'd kept it back, so that's in the record now too, everything except where it is."
+
+She held it against what she had. Her kitchen door, in this book: the latch. The Ashby place: fire. The landing: a gun. The fish house he'd kept out, and in four days nothing had come to it but weather. Last night she had left him asleep there with the bar off the door, and nobody had come.
+
+If it had been him, the fish house would have burned first.
+
+She turned the page. Wednesday's line, scored to the paper.
+
+"What was under it?"
+
+"*Subject and I.*" He let it stand. "I got that far and decided you weren't going in Quist's book that way. I said it to Pike instead, at four this morning."
+
+"And Pike gave you a name back."
+
+"She gave it to me at seven. Teresa Marr, the emergency management director, was the one asked to keep the landing clear. The bag went from her hands to Ned's to the credit union, and the teller found the money under your slip, under her tag."
+
+"I know."
+
+She closed the book and slid it back across the steel to him. He left it on his side.
+
+"Nothing about me goes in that book or up that phone that I haven't heard first."
+
+"All right." He didn't make her wait for it. "Pike won't like it. She'll say I'm reading my reports to the witness, which is near enough to coaching that a defense lawyer won't bother with the difference. I'll do it anyway, and I'll tell her I'm doing it."
+
+"Then start with this morning."
+
+He gave it to her in the order he had given it to Pike. "I reported that you read the log and left the detail on your own. I reported us, both by name, from Monday night. I'm off this detail when relief lands, and off the case. Quist has to tell Moreau why, and there'll be a referral to internal affairs. Moreau hands all of it to the defense, so a lawyer can stand up at trial and put it to you under oath." His voice stayed level. "I'd rather you get asked than have it found."
+
+A gust leaned on the deckhouse. Beth looked up at the overhead, and the wheelhouse above it.
+
+"I've had a hundred-ton master's license three years," she said. "Never used it."
+
+"What would you run?"
+
+"This. Someday." She kept her eyes on the steel. "If Ned would ever be old."
+
+"Ned will be old the day somebody he trusts asks him for the wheel," Dane said, "and not one day before."
+
+"My mother dispatched for the Lowell police for twenty-six years, and every cruiser in the city knew the number of my father's bus. If he was late home she'd put it out as a welfare check, and some patrolman would pull up beside him at a light on Bridge Street and tell him to call his wife."
+
+The laugh got out of her before she knew it was there. It hurt on the way out, low in the ribs.
+
+Her left hand lay on the table between them, scar up. His came across and stopped an inch short of it, and waited.
+
+She closed the inch.
 
 "The heel was on the Harbor Road at one this morning," she said. "By the church. Somebody was talking him along on a radio."
 
-Ned took the green jacket off the settee and shrugged into it, filling the doorway.
+Ned came in off the deck for the green jacket and shrugged into it, filling the doorway.
 
 "Somebody's got to get Russ," he said. "I can walk the Harbor Road and nobody looks twice."
 
-"He's ashore with a radio and somebody on the other end of it," Dane said. "He knows your face."
+"He's ashore with a radio and somebody on the other end of it," Dane said, "and he knows your face."
 
 "Nobody shoots the ferry captain on his own road in daylight."
 
@@ -234,81 +252,9 @@ Ned took the green jacket off the settee and shrugged into it, filling the doorw
 
 ---
 
-*Day 8, one o'clock*
-
-She woke in the lower bunk to gray light on the overhead. Two hours.
-
-She opened the door. He was on the deck plates outside it, his back to the bulkhead, his left arm across his lap. He looked up.
-
-She brought him in by his good hand, his bag after him, shut the door and sat him on the edge of the bunk. He went where she put him.
-
-She laid his left arm along the bunk rail. Black tape over gauze, her strips gone gray at the edges.
-
-"It stays there."
-
-"Yes."
-
-"Tell me when it hurts."
-
-"I'll tell you after."
-
-She stood between his knees and looked at him. Porthole light on him. All week she'd had him by lantern, or in the dark. The stubble had gone most of the way to a beard, darker than his hair. More gray at the temple than she'd thought. The white knot on his right knuckles. She learned him like a chart she'd have to run at night with no light on it.
-
-He let her.
-
-"This is in the record now," he said. "All of it. You still want it?"
-
-"Then let them ask me." She pulled her sweater over her head. "I'll tell them I chose it. In daylight." She waited. "You?"
-
-"Yes."
-
-The box was where she'd tucked it on Wednesday, in the lid pocket of his bag. She set it on the blanket.
-
-Her bibs hung on the hook by her spare oilskins. She toed off her boots and stepped out of her canvas pants, and the cold off the deck plates came up her bare legs.
-
-The bulkhead was cold through her undershirt when she knelt up on the bunk, and colder when the undershirt was gone. The upper berth sat low over them, and she had to bend her head under it. He put his good hand on her waist and turned them so the steel was at his back instead, and took the cold of it with a breath through his teeth.
-
-The navy blanket scratched. Past the porthole the fenders squealed on the stone, and the boat leaned and came back.
-
-She kissed him with her hands on either side of his face. The beard was soft now, past stubble. His hand went up her back and found the end of her braid and worked it loose, the elastic lost somewhere in the blanket.
-
-Somewhere in Portland this was a line in a file now. Some day a lawyer would ask her about it, and she'd tell him: this, with her eyes open.
-
-She got his jeans open, and he lifted his hips for her, careful of the rail. Light from the porthole lay across his chest, gray and moving, and she could see all of him and he could see her, and neither of them looked away.
-
-She rolled the condom onto his cock and lowered herself onto him. His breath came short through his nose, and he shut his eyes and opened them again at once, as if he meant to miss none of it.
-
-The bunk wouldn't let it be anything but slow. She had to fold close to fit under the upper berth, her breasts against his chest and her mouth at his temple, near enough that she felt each breath he took before she heard it.
-
-She set the pace. He let her have it. His left arm lay where she'd put it on the rail, and once that hand closed hard, and she stopped.
-
-"After," he said. "I said after."
-
-She moved again.
-
-Under the deck plates the bilge pump started, ran, and stopped. Somewhere forward a binder rang against a truck and went quiet. The boat lifted to a sea and settled, and the lift went through both of them. Tonight there would be the dark again, and the deck, and somebody in it who knew her name. Now there was this, and nothing in the cabin she had to listen for.
-
-His left hand came up off the rail toward her hip.
-
-"That arm, Dane, stays on the rail."
-
-He put it back.
-
-She came with her forehead against the cold steel above his head and her knees tight on his hips. A moment after, his good hand went slack on her back, and the bunk rail rang once where his wrist knocked it.
-
-She lay along him on the narrow bunk with her back to the bulkhead now, his good arm around her and her hand on his ribs. Through the porthole the slot of sky thinned from gray to clear daylight while she watched it, and a gull went across it, the first she'd seen since Wednesday. The fenders had quit their squealing. Out past the pier the wind was coming round into the north.
-
-She watched it a long time.
-
-"I need the boat tonight," she said. "And my own voice on the radio."
-
-He went still under her hand.
-
----
-
 *Day 8, half past three*
 
-The glass had come up four since noon. Beth tapped it with one knuckle on her way past and went to the forward windows.
+The glass had come up four since noon. Beth read it on her way past and went to the forward windows.
 
 Out on the harbor the northwest was laying the chop flat in long streaks. Across the water the store's windows were lit and the *Margaret Ann*'s deck lights burned again.
 
@@ -330,21 +276,25 @@ He didn't raise his voice. "You're the witness. Pike says I'm still the detail, 
 
 "He sails. Tess is the one left to talk. Waiting kills her."
 
-"You go down on that deck, the case goes with you. If she's in danger tonight, I can call it on twenty-two alpha myself and let the people whose job it is go in. That keeps you out of it, and it keeps your testimony clean."
+"If you go down on that deck, the case goes with you. If she's in danger tonight, I can call it on twenty-two alpha myself and let the people whose job it is go in. That keeps you out of it, and it keeps your testimony clean."
 
 "Blue lights, he walks back up the road. Nobody comes down that pier unless Tess hears my voice."
 
 "Then I hold the boat. The gangway and the car deck are the only ways on from the pier, and I can cover both of them. I don't need two arms to hold a door."
 
-"Either one, I can reach blind."
+"Either one, I can reach blind. If the floods go dark, I come down the inside ladder to the car deck."
+
+"I'd rather you were behind a locked door when that happens, where anyone who wants you has to get past me first."
+
+"In the dark you can't find that deck. I can."
 
 He looked down at the arm, then across the water at the store.
 
-"Pike hears it from me first," he said. "Before anything happens. Not after."
+"Pike hears it from me first," he said, "before anything happens, and not after."
 
 "Then go call Pike."
 
-Far down the pier road two figures were coming in the last light, one big and stooped, one wide in a ball cap.
+Far down the pier road Ned was coming in the last light, big and stooped, alone. Russ would come the other way, along the ledges under the pier where the store's windows couldn't see.
 
 Beth took the Icom out of its freezer bag and set it on the chart table beside the fixed set, its knob still on sixteen.
 

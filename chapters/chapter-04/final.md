@@ -12,7 +12,7 @@ Twenty-two boats where there should be twenty-four. Then she had the other two: 
 
 The wet had come through her bibs at the knees and hips. Behind them the woods path dropped back into spruce. Anybody looking for her would watch the north road, because it was the only road.
 
-Dane lay a body-length above her where the granite humped, so he could see the path mouth over his shoulder. His right side was clear of the rock. He shifted, and something in his boot squelched.
+Dane lay a body-length above her where the granite humped, so he could see the path mouth over his shoulder. He shifted, and something in his boot squelched.
 
 "These were sold to me as waterproof," he said.
 
@@ -34,7 +34,7 @@ The skiff nosed in at the fish pier ladder. The man made fast, climbed, and star
 
 Head down. Left leg favored. The right heel coming down hard every step, as if the planks owed him something.
 
-Her free hand went flat on the granite.
+Her free hand closed on a fistful of lichen.
 
 "That's him."
 
@@ -42,13 +42,11 @@ Dane didn't move. "What makes him the one?"
 
 "The walk. Thursday night, off the ramp, he walked like that." She kept the glasses up. "You saw the heel yesterday. I didn't say it matched. I wanted to watch him walk before I said."
 
-"Left leg, right heel, and you waited a day to see him do it twice." He said it to the harbor, not to her.
+"So you wanted to see it twice before you put your name to it." He said it to the harbor, not to her.
 
-He didn't ask why she'd sat on it. She heard him not ask, and she knew he'd put it somewhere.
+"Hold them still for me."
 
-"Hold them still."
-
-He slid down the rock beside her. She braced the glasses on her knuckles and he pressed his phone lens to the right eyepiece. His cheek was an inch from hers. His breath was the warmest thing on the hill. She didn't move.
+He slid down the rock beside her. She braced the glasses on the granite and he pressed his phone lens to the right eyepiece. His cheek was an inch from hers. His breath was the warmest thing on the hill. She didn't move.
 
 The shutter clicked four times.
 
@@ -84,19 +82,19 @@ The day Beth's mother left, Tess had driven her down to the boat in a borrowed t
 
 The wind dropped. Dane's voice came in off the granite.
 
-"Sternman. Left leg. She picked him out at six hundred yards."
+"It's the sternman, the one who favors his left leg. She picked him out at six hundred yards."
 
 Wind. Then: "Yes."
 
 A long gap. "I'll ask her."
 
-Six hundred yards was her. *I'll ask her* was her. On the phone he called her *she*, the way he had on Saturday: *She doesn't know.* She set the two side by side and didn't ask.
+Six hundred yards was her. *I'll ask her* was her. On the phone he called her *she*, as he had on Saturday: *She doesn't know.* She set the two side by side and left them there.
 
-He came back into the trees with his collar dark from spray. "Quist ran the boat." He read her face. "Case agent, Homeland Security. Whatever I see on this island goes to her. Gloucester registry, Arsenault the owner, two crew listed. Her people take the boat when the sea goes down, and until then she'd prefer we do nothing clever."
+He came back into the trees with his collar dark from spray. "Quist ran the boat." He read her face. "She's the case agent, Homeland Security, and whatever I see on this island goes to her. She has a Gloucester registry, Arsenault as owner and two crew listed. Her people take the boat when the sea goes down, and until then she'd prefer we do nothing clever."
 
 "He's as stuck as we are."
 
-"He is." He zipped the phone inside his jacket. "I could walk down there and find him by lunch. Then you'd be up here alone, with one of me gone and no way off this rock. If I go after him, I've left you. He isn't my job. You are." He looked down at the red hull. "What I can do is make sure he never sees you."
+"He is." He zipped the phone inside his jacket. "I could walk down there and have him by lunch, and then you'd be up here alone, with the only one of me on this island gone and no way off the rock. If I go after him, I've left you, and he isn't my job. You are." He looked down at the red hull. "What I can do is make sure he never sees you."
 
 He nodded at the radio. "Who's that?"
 
@@ -122,11 +120,9 @@ The path came out on the old camp road, two ruts and a grass hump. Russ's pickup
 
 "Calloway." He looked at Dane and then at the bucket. "Checking camps. Somebody's got to make sure the summer people's pipes freeze in an orderly way." He tipped his head at the hill. "You come down off the top? *Margaret Ann* still tied up at Tess's?" Nobody had answered him. "Course she is. Nobody's going anywhere."
 
-Dane stepped left so his right side came clear of her. He didn't look at Russ's face. He looked at Russ's hands, lying easy on the tailgate, the left ring finger short a tip.
+Dane didn't look at Russ's face. He looked at Russ's hands, lying easy on the tailgate, the left ring finger short a tip.
 
 "Heard a Generac running out on the point last night," Russ said. "Ned doesn't usually start the Ashby one till the power's been out a week."
-
-He took his cap off, looked into it, and put it back on.
 
 "Who else would notice?" Dane said.
 
@@ -134,15 +130,17 @@ Russ thought about it. "Anybody up the north road with ears. That's four houses.
 
 He pushed off the tailgate. "Walked your shore path yesterday. Alders to the ledge, ledge to the cove road. He knew the way. Rain had the rest." He opened the door. "Still mine, Calloway. You need anything, I'm on 68. Or the town office. Mostly I'm in this truck." He got in and went bumping off toward the next camp with the tailgate rattling.
 
-They walked out along the ruts. Dane kept his eyes on the spruce on the uphill side.
+They walked out along the ruts. Dane watched the spruce on the uphill side.
 
 "A man who tells you he knows where you sleep is doing one of two things. He's warning you, or he's watching what your face does when he says it. I watched him the whole time, and I couldn't tell you which one that was."
 
 "Russ has known where everybody on this island sleeps since he was twelve."
 
+"Then four houses with ears know it too," Dane said, "and we can't take back a generator we've already run. If it runs again after dark, we move."
+
 "He knows where you are."
 
-"He knows where the generator is. Out here that's the same thing."
+"He knows where the generator is. Out here, as far as I can tell, that comes to the same thing."
 
 ---
 
@@ -162,11 +160,11 @@ He found it and cracked it.
 
 "Primer lever. On the side of the pump. Work it."
 
-He worked it. She counted. Eight. Twelve. Foam came up around the screw, then spit, then foam again. Nineteen. Twenty-four. At thirty the diesel came up clean and steady with no bubbles in it.
+He worked it. Foam came up around the screw, then spit, then foam again, and he kept at it until the fuel ran clean and steady with no bubbles in it.
 
 "Close it."
 
-He closed it. Diesel had gotten into the cracks of his knuckles. She took the wrench and went down to the injector lines and cracked the first nut half a turn. Fuel ran over her own fingers, cold enough to ache.
+He closed it. Diesel had worked into the creases of his fingers. She took the wrench and went down to the injector lines and cracked the first nut half a turn. Fuel ran over her own fingers, cold enough to ache.
 
 "Walk me through what the ferry pays," he said.
 
@@ -178,39 +176,39 @@ She did the second nut. She decided.
 
 "His stove. His paint." She wiped the wrench. "I've got a hundred-ton master's license in a drawer."
 
-"You've never used it."
+"And I'd guess it has stayed in that drawer since the day it came."
 
 "Asking Ned for the wheel is asking him to be old."
 
-He took that and said nothing to it. Then he came at it again, from the side. "Anything come in lately? Insurance. A settlement. Anything."
+He took that and said nothing to it. Then he came at it again, from the side. "Has anything come in lately that you weren't expecting? An insurance payment, a settlement, anything at all."
 
 She laughed. It came out of her short and real, and it fogged in the cold. "Who'd send me money?"
 
-He looked at her a while. She wiped the wrench a second time, slower than it needed, and let him look.
+He looked at her a while. She wiped the wrench a second time and let him look.
 
 "You ask a lot about money," she said, "for a man who hasn't said where he's from."
 
 He looked at the door, and then back at her.
 
-"Lowell." He wiped the primer lever with the rag, though it didn't need it. "My father came up from Ponce and drove a city bus for thirty years. He knows every pothole in Lowell personally, and if you get in his car he'll introduce you. My mother dispatched for the Lowell police. Her radio sat on the kitchen table at supper. I knew how to do this work before I knew it was work."
+"I'm from Lowell." He wiped the primer lever with the rag, though it didn't need it. "My father came up from Ponce and drove a city bus there for thirty years. My mother dispatched for the Lowell police, and her radio sat on the table at supper, so I knew how this work was done a long time before I understood that it was work."
 
 "Does he know what you do now?"
 
-"He thinks a marshal is a cowboy. Every Christmas he asks me if they've given me a horse yet." He turned the rag over. "I tell him I've put in for one."
+"He thinks a marshal is a cowboy, so every Christmas he asks me whether they've given me a horse yet, and every Christmas I tell him I've put in for one."
 
 She laughed again, softer.
 
-"My Spanish is fine with him. On the phone I sound like a tourist." He folded the rag. "Somebody has to stand between the person who saw it and the people who'd rather she hadn't. My mother did it with a radio. I do it in other people's sheds."
+"My Spanish holds up when I'm across a table from him, and it falls apart on the phone." He turned the rag over in his hands. "Somebody has to stand between the person who saw a thing and the people who would rather she hadn't seen it. My mother did that with a radio in her own kitchen, and I do it in other people's sheds."
 
 "You ever lose one?"
 
-He wiped his hands on the rag. Then again, longer than diesel needs.
+He wiped his hands on the rag, and kept wiping them after they were clean.
 
-"Once."
+"I lost one, four years ago."
 
 She waited.
 
-"She asked for ten minutes. I gave them to her."
+"She asked me for ten minutes, and I gave them to her."
 
 He said nothing else, and she didn't ask. She put the wrench in his hand.
 
@@ -218,15 +216,15 @@ He said nothing else, and she didn't ask. She put the wrench in his hand.
 
 He held the switch over. The starter ground. Fuel spat clean at the nuts, and she ran them down one after another, and the diesel coughed, caught and came up into a steady hammering run that filled the shed to the rafters. The bulb overhead came on.
 
-She put her palm on the housing and felt it settle. Even. No miss.
+She stood with her hip against the housing and felt it settle. Even. No miss.
 
 She turned round. He was nearer than she'd thought.
 
-She caught the loose end of the rag he was holding. There was diesel across his right knuckles, and under it the old knot of scar, pale and raised. She wiped it off him slowly. Her thumb stayed on the scar.
+She caught the loose end of the rag he was holding. Diesel had run across the back of his right hand, and under it lay the old knot of scar on his knuckles, pale and raised. She wiped it off him slowly. Her thumb stayed on the scar.
 
 "What was this?"
 
-"A door." He looked at her thumb. "It won."
+"A door, a few years back." He looked at her thumb. "I went through it, and that's what it left me with."
 
 She lifted her face, and he was already coming down to it. It wasn't careful. His mouth was cold and then it wasn't, and his stubble scraped her chin, and she tasted coffee and cold air and smelled diesel on both of them.
 
@@ -248,13 +246,11 @@ He let go of the rag. He was at the door with his hand on the frame when she sai
 
 "Dane."
 
-He stopped in the doorway and looked back as if she'd handed him something he'd have to carry in both arms.
-
-Then he picked up the heavier jug and walked ahead of her down the path to the house, watching the drive both ways.
+He stopped in the doorway and looked back as if she'd handed him something he'd have to carry in both arms. Then he went out ahead of her down the path to the house, watching the drive both ways.
 
 ---
 
-The furnace ticked on at ten past eleven. She lay on the couch in the room off the kitchen and counted it through: on, eleven minutes, off. Mothballs and cold wallpaper.
+The furnace ticked on at ten past eleven. She lay on the couch in the room off the kitchen and listened to it run and quit. Mothballs and cold wallpaper.
 
 At eleven-twenty the porch door went. Last night she'd only heard it. She got up and went through to the dark front room and stood back from the window. Through the gap where the sheet didn't meet the frame she saw him on the porch with the Iridium up, the stub antenna to the sky. A minute, no more. Then he put the phone away and took out the notebook and wrote in it standing, facing the road.
 
@@ -264,19 +260,19 @@ He closed the notebook. He didn't hurry it. He put it in the inside pocket of hi
 
 "Pike?"
 
-"Pike."
+"That was Pike."
 
 "What does Pike want every night?"
 
-"To know you're alive."
+"She wants to know you're alive."
 
 "What do you write?"
 
-"Where you were, and when." He looked down the drive, not at her. "If something happens to me, somebody has to be able to find you."
+"I write down where you've been, and at what time." He looked down the drive, not at her. "If something happens to me, somebody has to be able to find you."
 
-The wind had eased. Three hundred and forty steps of gravel ran pale from the porch into the dark toward the north road.
+The wind had eased. The gravel ran pale from the porch a long way into the dark toward the north road.
 
-"Lace those or go in," he said. "The boards are iced from the step to the rail."
+"You should lace those or go back in," he said. "The boards are iced from the step to the rail."
 
 A man had walked round the back of her empty house this morning. On Cutter an empty house was something somebody asked about by supper.
 
