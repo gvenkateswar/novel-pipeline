@@ -8,17 +8,19 @@ Ellen stayed on her feet. Judy's office had glass on three sides, and through th
 
 "Here's how the underwriter sees you. Your other nine months net out to about nothing. Spring leagues pay for summer and summer people pay for fall. It washes. So the winter is the year."
 
-She tapped the paper. "The new loan costs about twenty-four thousand a year. The committee wants a quarter more than that coming in, so there's room for one bad thing. Thirty thousand, net operating income, December first through February twenty-eighth. Twenty-five thousand in the bank on the twenty-eighth, so one bad month doesn't sink you."
+She tapped the paper. "The new loan costs about twenty-four thousand a year. The committee wants a quarter more than that coming in, so there's room for one bad thing. Thirty thousand, net operating income, December first through February twenty-eighth. Twenty-five thousand cash on the twenty-eighth, so one bad month doesn't sink you. That means on deposit here by close of business that day. Or taken in by then and documented, with register reports dated by then and a deposit slip."
 
 "And if I come in at twenty-nine?"
 
 "Then the committee says no, and I say I'm sorry, and I mean it." Judy started unwrapping the butterscotch. "I like you. The underwriter has never met you. He's met Arlene's last three winters."
 
-Ellen looked at the circles. Thirty thousand over thirteen weeks was $2,308 a week, every week, until the end of February. So far she was three hundred dollars under zero. She had done that arithmetic twice in the car on the way over, and she did it a third time now, standing up.
+Ellen looked at the circles. Thirteen weeks, and she was starting from three hundred dollars under zero.
 
 "There's forty-one thousand in the account today," she said.
 
-"Everybody passes the cash test in December," Judy said. "People fail it in February."
+"Everybody passes the cash test in December," Judy said. "People fail it in February. You've got school vacation week at the end of it, our week, the last one. What have you got booked against it?"
+
+"Nothing yet."
 
 Behind Judy's head hung a framed photograph of Judy in a snowmobile suit, on ice, holding a lake trout nearly as long as her leg.
 
@@ -72,9 +74,9 @@ Ray took a pad of Gagnon & Son sales slips out of his jacket, licked the carpent
 
 "It took two hours and forty minutes on a cold catwalk. I have your card." She took the pencil out of his hand, crossed out his number, and wrote one above it.
 
-He looked at the new number and then at her. "That's too much, Mrs. Daly."
+He looked at the new number and then at her. "That's too much."
 
-"Ms. It's what the work costs."
+"It's what the work costs."
 
 He didn't argue it. He tore off the white copy, held it out between two fingers until she took it, and put the pad away.
 
@@ -96,7 +98,7 @@ He took out his ring, threaded the key on beside the brass one with Arlene's ora
 
 "These machines need somebody who knows them," he said. "I'll keep them running. Whoever has this building on March second is going to want them running."
 
-"I'm aware who you mean."
+"I know who you mean."
 
 He tipped his head at the work order. It had the electrician's letterhead and a pencil drawing of the ten lanes, with a total at the bottom. "What's that?"
 
@@ -116,23 +118,23 @@ He pinned the order back where it had been. Then he pulled the first carton towa
 
 * * *
 
-On Thursday at two-thirty an electrician stood on a ladder over lane 6 with three screws in his mouth and a black-light fixture held up against the ceiling tile. Denise had the crossword folded on the counter and did not look up from it.
+On Thursday at two-thirty an electrician stood on a ladder over lane 6 with three screws in his mouth and a black-light fixture held up against the ceiling tile. Denise had the crossword folded on the counter.
 
-"He says six o'clock, which means eight, which means tomorrow at four you're up that ladder yourself in your good shirt, and don't look at me, I don't do ladders. Roger did ladders. Roger's my ex-husband, he's got a dental hygienist in Laconia now, she can hold his ladder." She filled in an answer. "You can't bowl."
+"He says six o'clock, which means eight, which means tomorrow at four you're up that ladder yourself in your good shirt, and don't look at me, I don't do ladders. Roger did ladders. Roger's my ex-husband, he's got a dental hygienist in Laconia now, she can hold his ladder. Anyway. You can't bowl."
 
-"I'm aware."
+"Yes."
 
-"The league's aware. They watched your first ball go into lane 6, and they will not respect an owner who can't bowl. They'll be polite to her, which is worse."
+"The league knows it too. They watched your first ball go into lane 6, and they will not respect an owner who can't bowl. They'll be polite to her, which is worse."
 
 "Who's going to teach me?"
 
 "Honey, who do you think has been fixing your machines?"
 
-Denise reached under the counter without looking and slid a form across with the pen on top. LEAGUE SANCTION CARD. "Fill it out. So you're legal if they're ever short."
+Denise reached under the counter and slid a form across with the pen on top. LEAGUE SANCTION CARD. "Fill it out. So you're legal if they're ever short."
 
 "Short of what?"
 
-"Bowlers, honey, in case anyone's counting." She glanced at the register. "Well."
+"Bowlers, in case anyone's counting." She glanced at the register. "Well."
 
 Ellen filled it in, in block capitals. Denise turned it with one finger and inspected it the way she inspected rental shoes after the spray.
 
@@ -148,7 +150,7 @@ Between HOT DOG and FRIE, where the S had fallen out years ago, a clean ghost of
 
 Ellen turned to the strip board. Two office parties wanted lanes 1 through 4 at seven on Wednesday, one on top of the other.
 
-"Office parties want five to seven," Denise said, to the crossword. "So the husbands and wives can come after work and the boss can leave before anybody gets loud. Arlene put them at seven and wondered why they never came back."
+"Office parties want five to seven," Denise said. "So the husbands and wives can come after work and the boss can leave before anybody gets loud. Arlene put them at seven and wondered why they never came back."
 
 Ellen took down both strips, changed them to five o'clock, put the second party on lanes 7 through 10, and printed PER D. LAVOIE along the bottom of each. She pinned them back where Denise could read them.
 
@@ -170,11 +172,11 @@ Denise pointed her pen at Ellen and wrote in the next answer.
 
 * * *
 
-By ten to nine on Friday all ten lanes were running under black light, and the waiting list was on its own strip with four names on it. Denise worked the register and corrected it from memory twice without looking down.
+By ten to nine on Friday all ten lanes were running under black light, and the waiting list was on its own strip with four names on it. Denise worked the register and corrected it from memory twice.
 
 "Snack bar's done a league night's business and it's not nine," she said. "Don't get excited. And the popcorn machine and the space heater can't both be on, so somebody's going to be cold or somebody's going to be hungry, and I've made my choice."
 
-Ellen walked the floor from lane 1 to lane 10 and back. Fifty-two, under her breath. Fifty-two people bowling in a building that had refunded three lineages ten days ago.
+Ellen walked the floor from lane 1 to lane 10 and back. Fifty-two people bowling in a building that had refunded three lineages ten days ago.
 
 At 9:40 lane 3's table started coming down late. She watched it twice to be sure, then switched it off, apologized to the birthday party on it, and moved them to the top of the waiting list with a free basket of fries.
 
@@ -244,7 +246,13 @@ Ray, in his own shoes, studied the clipboard.
 
 He handed her a house ball. Four and a half inches across, no holes, weighing nothing she could feel through her wrist.
 
-Her first throw sailed past the lob line and touched down twice more, at intervals she could have timed with a watch. The foul light came on and the pins didn't count. So did the second. So did the third, which also cleared the head pin and three others, none of which counted either.
+Her first throw sailed past the lob line and touched down twice more, at intervals she could have timed with a watch.
+
+"Lob," Ray said. "Pins don't count."
+
+He called the second one the same. The third also cleared the head pin and three others.
+
+"Lob. None of those count either."
 
 She wrote each one down.
 
@@ -272,19 +280,19 @@ He let go first.
 
 In her whole working life nobody had watched her be bad at anything. Her calm had been that good. The mistakes reached people afterward, typed up, with times on them. Now she was bad in plain sight, in the cold, with a man three feet away who knew what good looked like. She kept her face level. It cost her more than a Friday evening of Logan arrivals.
 
-The next ball stayed on the lane. It took the front pins off in a clean chop and left a cluster standing at the back of the deck, with two fallen pins lying across the boards in front of them.
+The next ball stayed on the lane. It took the front pins off in a clean chop and left two small groups standing out at the sides of the deck, nothing in the middle, and a fallen pin lying across the boards in front of the group on the right.
 
 "Can we re-rack that?"
 
 "The wood stays on the lane. You play what's left."
 
-He pointed at the fallen pin nearest the cluster. "Hit that. Let it do the work." He glanced at the leave. "That's a spread eagle. Don't let the name scare you."
+He pointed at the fallen pin. "Hit that. Let it do the work." He glanced at the leave. "That's a spread eagle. Don't let the name scare you."
 
 She missed it. She wrote that down too.
 
 Wednesday she left the clipboard in the car.
 
-On Friday she brought it in and laid it face down on the orange settee. Her second ball went low and long, struck the fallen pin, and sent it skidding into the cluster, and three pins went down with it. One stayed up, at the far left corner of the deck. She took her third ball, let it go low, and took that one down too.
+On Friday she brought it in and laid it face down on the orange settee. Her second ball went low and long, struck a fallen pin, and sent it skidding into the group on the right, and three pins went down with it. Two stood at the left, one behind the other. She took her third ball, let it go low, and took them both down.
 
 Ray didn't say anything. He lifted the next ball off the return before it had stopped rolling and held it out.
 
@@ -316,17 +324,6 @@ On the two shelves above the desk, Arlene's green ledgers ran from 1971 to this 
 
 Then she wrote one more. 02/27 / 1800 / LGM / 10. She left REMARKS blank and pinned it at the far end of the board.
 
----
 ## Edit log
-- Filler: "Here's the thing, though. You can't bowl." → "You can't bowl."
-- Filler: "He handed her a house ball. It was four and a half inches across, no holes, and weighed nothing..." → "Four and a half inches across, no holes, weighing nothing..."
-- Filler: "He took that in. Behind her the ball return rumbled..." → "Behind her the ball return rumbled..."
-- Triplet: "Spring leagues pay for summer, summer people pay for fall, and it all washes." → "Spring leagues pay for summer and summer people pay for fall. It washes."
-- Explaining ending: "She had worked at that margin for thirty-one years. At eighty-eight percent you either got ahead of the work or the work got ahead of you." → cut; the Judy-in-December line now follows directly.
-- Tidy last line (S4): "He was already bent back into the table, waiting on the next drop." → cut; scene ends on "Seven."
-- Tidy last line (S5): "...and she was already reaching for it." → cut; ends mid-motion on Ray holding out the ball.
-- Tidy last line (S6): "She left the pen uncapped beside it and turned off the counter lights." and "past everything else" → cut; chapter ends on the pinned strip. This also removes the bookend with the opening uncapped pen.
-- Forbidden phrases: none found. Em dashes in narration: none beyond the R.G. card label.
-- Left untouched as instructed: the promise, the wood line, the handshake passage, all ATC phrases (readback, negative; none added), money figures.
-- Flag, no change made: S1 has Ellen driving ("twice in the car on the way over"). It carries the arithmetic beat, so it was left.
-- Flag: the building now ends S5 and S6 close to still, but only S1 (form slid under glass) and S6 (pinned strip) land on placed objects. S2 and S3 end mid-motion. Within rule 18.
+
+- Second draft (Oct 27): external-review revision; see reviews/2026-10-27-external/. Draft-1 final archived as final-draft1.md.

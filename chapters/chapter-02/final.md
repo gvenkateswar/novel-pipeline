@@ -28,7 +28,7 @@ Danny came back, saw the box open, and went to the coffee pot without saying any
 
 Behind the register, at the height of a man's eyes, the pool sheet was tacked to the paneling with four pushpins. KETTLE LANES. NEW OWNER. HOW LONG? Somebody had added two more rows along the bottom in a different marker when the first ones filled. The first square, DEC 1, was empty, and nobody was going to buy it now. Nearly every square after it held initials. The last, down in the right-hand corner, was empty. MARCH 1.
 
-The bank's commitment letter on an SBA loan was folded in quarters behind his driver's license. Its date fell eight days after Arlene shook Ellen Daly's hand at her kitchen table. He knew the date without unfolding it, the way he still knew his late wife Linda's average. If Ellen Daly couldn't refinance by March first, she would have to sell, and the paper Arlene had signed at closing said any sale came to him first. Paper carried like that wore through at the folds. He had carried it every day since anyway, the way a man keeps a part for a machine that's already been sold.
+The bank's commitment letter on an SBA loan was folded in quarters behind his driver's license. Its date fell eight days after Arlene shook Ellen Daly's hand at her kitchen table. He knew the date without unfolding it, the way he still knew his late wife Linda's average. If Ellen Daly couldn't refinance by March first, she would have to sell, and the paper Arlene had recorded at closing let him match any offer she took. Paper carried like that wore through at the folds. He had carried it every day since anyway, the way a man keeps a part for a machine that's already been sold.
 
 "Last one, Ray." Normie had come up to the counter. He held the pen out across it, the one that lived in the cup by the sheet, cap end first. "Five dollars. You know the date better than anybody."
 
@@ -72,7 +72,7 @@ Ray opened his eyes. Ellen hadn't touched the phone. It lay dead still on the co
 
 "Play it again?" Ellen said.
 
-"No need." He tapped the counter once beside the phone. "That's not the table. That's the clutch letting go a half second late. What you smelled was the facing. Motor quit to save itself."
+"No need." He tapped the counter once beside the phone. "That's your clutch letting go a half second late. What you smelled was the facing. Motor quit to save itself."
 
 "The clutch."
 
@@ -84,11 +84,7 @@ She looked at the forum list, at the highlighted lines.
 
 "Understood."
 
-"Leave the breaker on seven off, Mrs. Daly."
-
-"Ms."
-
-"Nobody reaches into the pit after a pin. Not a kid, not a captain. And nobody tries it once to see." He waited.
+"Leave the breaker on seven off. Nobody reaches into the pit after a pin. Not a kid, not a captain. And nobody tries it once to see." He waited.
 
 "The breaker on seven stays off," Ellen said. "No one reaches into the pit. No one runs it to see."
 
@@ -142,7 +138,7 @@ She took the phone out and looked at it and stayed on her feet. "Kate. You're ea
 
 Ray put his pin tray in order. Nothing in it had been out of order.
 
-"I'm aware," Ellen said. She listened a while. "Ray Gagnon. The man with the right of first refusal. He's offered to buy me out." A pause. "Yes. Exactly what I paid."
+"I know," Ellen said. She listened a while. "Ray Gagnon. The man with the right of first refusal. He's offered to buy me out." A pause. "Yes. Exactly what I paid."
 
 Kate went on for some time, fast. He couldn't make out a word.
 
@@ -172,7 +168,7 @@ Ray stood up. His left knee told him about the mat. He took the three new rings 
 
 She closed her hand on them.
 
-He weighed his own ring once, and the keys jingled against the orange tag, every key on it still good for something except one. Then he pocketed it, shut the kit, and snapped both latches.
+He shut the kit and snapped both latches.
 
 "Then I'll see you March first," he said.
 
@@ -182,9 +178,9 @@ At twenty to six the store was shut and dark down the aisles. Only the lamp over
 
 Danny had the drawer out and was counting twenties onto the counter in stacks of five. Ray sat on the stool behind the register. The other stool, the one with the cracked green cushion, stood beside it where it always stood.
 
-On the counter in front of Ray lay the Thursday league schedule, folded open to this week. Lane 7 had a match on it. The Highway Department and the Lakeview Diner.
+On the counter in front of Ray lay the Thursday league schedule, folded open to this week. Lane 7 had a match on it. The Highway Department and the Lakeview Diner, three strings apiece, ten boxes to a string, and no machine to set the pins for any of them.
 
-"You going to fix it?" Danny said, without looking up from the twenties.
+"You going to fix it?" Danny said to the twenties.
 
 "Fella I knew in Tilton," Ray said. "Kept his neighbor's furnace going all one winter. Neighbor was a miserable old so-and-so. Wouldn't wave. Fella went over there every week and bled the lines and cleaned the nozzle and never got a thank-you."
 
@@ -250,7 +246,7 @@ He punched a hole in the corner with the tip of his pocketknife, ran a twist tie
 
 On the way out he turned off the counter lights.
 
-At the back door he pulled it shut behind him and tried the handle twice. Out at the road the sign buzzed on its pole. He walked to the truck with his hands in his jacket pockets, and in the right one, among the others, was Arlene's key, which opened nothing.
+At the back door he pulled it shut behind him and tried the handle twice. He walked to the truck with his hands in his jacket pockets.
 
 * * *
 
@@ -262,11 +258,11 @@ REMARKS: INVOICE TO E. DALY.
 
 He looked at it for a while. Then he typed with one thumb.
 
-I didn't fix it for you. Thursday league's got a match.
+Thursday league's got a match.
 
 He sent it.
 
-"That her?" said Normie, who had come up to the counter for a refill and was reading upside down.
+"That her?" said Normie, who had come up to the counter for a refill and was reading over Ray's shoulder.
 
 From down the plumbing aisle, where he was restocking elbows out of a carton, Danny said, "You going to bill her?"
 
@@ -276,16 +272,6 @@ He looked up at the pool sheet behind the register. The squares were nearly all 
 
 The bell went. A plow driver came stamping in with a key in his hand and snow on his shoulders. Ray turned from the sheet, took a blank off the board, and started the cutter.
 
----
 ## Edit log
-- Word count: about 3,330 by hand count (no shell was available, so I could not run `wc -w`). Please run it on the text above this line to confirm the 3,200 to 3,450 band.
-- Must-fix items from issues.md (1, 2, 12, 16): all confirmed resolved in the draft and left intact (Danny's hedged lock IDs, Dec 1 square empty, Highway Department / Lakeview Diner, "where Arlene's had been"). One consistency tweak: S1 now reads "Nearly every square after it held initials. The last... was empty," so it agrees with S6's "nearly all full."
-- Filler opener cut: "It was dated eight days after..." → "Its date fell eight days after..."; "It was a photograph. His card..." → "A photograph: his card..."; "There was nothing in it to put in order" → "Nothing in it had been out of order."
-- Repeated phrase: "Danny came in on the next ring of the bell" (second bell in four lines) → "Danny came in next with his tablet..."; "pushed the drawer shut with his hip" (Ellen holds the door with her hip two scenes earlier) → "Danny shut the drawer."
-- Figure of speech / triplet: "the orange settees she had said for twenty years were the color of a traffic cone" beside the edge-of-a-tool figure → "the orange settees she had grumbled about for twenty years were still orange." The "Her card, her ball in locker 14, the orange settees" list became two clauses.
-- Trims: "burrs came off in a fine gold dust" → "burrs came off"; "bright as a dime" cylinder sentences cut; "The paper was printed off a computer" folded into the forum-printout sentence; "woke it" and "one at a time" (salt bags) cut; "came around the end of the counter" cut; the baseboard / "last night's burn" sentence reduced to "The building was cold already, the baseboard ticking along the wall."; "He still had his own ring hanging from his fingers" → "He weighed his own ring once..."; Ray's last three beats at the front door merged so three paragraphs no longer open "He... / Then he... / He...".
-- Clarity: Ray now carries the old clutch from the bench to the counter on the page ("He carried the old clutch up to the counter, took an index card...").
-- Left alone on purpose: Ray's interior passages (the commitment letter, Linda's settees and the edge of a tool, "She kept what still had a use...", and the pool-square line), the Bench's running call, and Ellen's "Unable" speech.
-- Scene endings: S1 action (pen and kit), S2 action (out to the truck), S3 dialogue ("Then I'll see you March first"), S4 quip ("Not yours"), S5 image (Arlene's key), S6 action (the cutter). One quip, one near-quip; well under half.
-- Em dashes in narration: two, both inside labels ("R.G. — 1996", "CLUTCH — SLIPPING"). Forbidden-phrase sweep: no hits. ATC phrases: "Unable" in dialogue, "readback" in narration; no scene exceeds one. Jingle appears once.
-- Flags, no change made: (1) The bible's money table dates Ch 02 as Dec 3, but the text implies Wednesday Dec 2 (rekey) and Thursday Dec 3 (league). Consistent as written; mention only if the continuity log says otherwise. (2) "The last... was empty" and "so was the one in the corner" both depend on Ellen not having bought a square; no plot change needed.
+
+- Second draft (Oct 27): external-review revision; see reviews/2026-10-27-external/. Draft-1 final archived as final-draft1.md.

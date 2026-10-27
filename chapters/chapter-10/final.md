@@ -2,47 +2,49 @@
 
 The check mark went in beside the first circle, small and square, in blue ballpoint.
 
-Judy Ostrowski had her glasses down off her head and Ellen's books squared in front of her: register reports, bank statements, the tape from Saturday night. On top lay the sheet from December with its two circled numbers. The butterscotch bowl sat where it had sat in December. So did the lake trout on the wall, eleven pounds four ounces.
+Judy Ostrowski had her glasses down off her head and Ellen's books squared in front of her: register reports, bank statements, the tape from Saturday night. On top lay the sheet from December with its two circled numbers. The lake trout on the wall still weighed eleven pounds four ounces.
 
 She set the pen beside the second circle and left it there.
 
 "I'm a banker today," she said.
 
-Judy turned the February statement around and laid one finger under the last line. Twenty-two thousand one hundred forty dollars, on the twenty-eighth.
+Judy turned the February statement around and laid one finger under the last line. Twenty-one thousand nine hundred twenty dollars, on the twenty-eighth.
 
-Ellen had not taken the chair. "Saturday's receipts went into the floor safe. Three thousand four hundred sixty dollars. The roads closed at four, and Sunday I was closed. They came in through your drive-up at eight this morning."
+Ellen had not taken the chair. "Saturday's receipts went into the floor safe. The roads closed at four, and Sunday I was closed. They came in through your drive-up at eight this morning." She set three things on the desk in a row: Saturday's register report, the morning's deposit slip, and the HELD statements, December through February, clipped at the corner. "Three thousand six hundred eighty dollars."
 
-"I have the slip." Judy didn't look at it. "Here's the rule, so we're reading the same one. The commitment says cash on hand on February twenty-eighth. The underwriter reads 'on hand' as money he can see. On Sunday he couldn't see your safe."
+"I have the slip." Judy squared it with the others. "The rule's the one I gave you in December. On deposit on the twenty-eighth, or taken in by then and documented. The underwriter decides what documented means, and he wasn't in your office Saturday night." She picked up the phone. "You were. I'm putting him on speaker, and you're going to tell him."
 
-"I could."
+For thirteen weeks every number in the building had been Ellen's to move, and she had moved them. This one would be settled by a man at the main office she had never met, and all she could put on his desk was her voice. It would sound fine. It always did. This time she had paper under it.
 
-"I know you could."
+Judy dialed. The underwriter came on with his last name and nothing else, and Judy gave him Ellen's.
 
-Ellen looked at the statement. Every figure on it was correct. She had made that number herself, at twenty to five on Saturday, on the adding machine.
+"Ms. Daly. I've got a deposit dated March first against a February test. Tell me why that's February money."
 
-"I do not have an answer for that," she said.
+Ellen picked up the register report. "The report closes at four-forty on the twenty-seventh. The date and time are printed at the head. The refunds are one line, and that line matches the refund sheet, envelope by envelope, with every bowler's initials. Gross less refunds is what went in the safe. This morning's slip is the same figure, to the dollar."
 
-"I didn't think you would." Judy picked up the phone. "I'm going to call him."
+"Judy?"
 
-She pointed at the door with the receiver, and Ellen went out.
+"To the dollar," Judy said.
 
-Through the glass Judy listened and wrote. The pen went back to the second circle and stayed. For thirteen weeks every number had been Ellen's to move, and she had moved them. This one was down to a phone call between Judy and a man Ellen had never met. Her reflection in the glass looked calm, and would go on looking calm if Judy shook her head. There were nineteen butterscotch candies in the bowl. She counted them under her breath.
+"You ran a raffle through that building Saturday. And a snack bar. How do I know the safe isn't carrying somebody else's money?"
 
-Judy opened the door with the receiver held against her cardigan.
+"The raffle belongs to the derby," Ellen said. "The derby's raffle money went into the HELD bag in the floor safe Saturday night, counted twice, and across your drive-up this morning on its own slip, and the meals tax went with it. HELD has been open since the first week of December. The house's venue fee is its own line on the register report. Judy has three months of HELD statements in front of her. Every deposit into HELD matches a line on a register report, and nothing has come out of it except to the state and to the derby."
 
-"One question. Did any of what was in your safe belong to somebody else?"
+Judy ran her pen down three months of the HELD statement, one deposit at a time. The speaker hissed on the desk.
 
-"Negative. None of it." Ellen kept her hands at her sides. "The derby's half of the raffle went into HELD on its own slip, same window, same minute. The meals tax has been in HELD since December. You have both slips."
+"Not one dollar crossed over," Ellen said.
 
-Judy ran her pen down three months of the HELD statement, one deposit at a time.
+The line stayed quiet long enough for Judy to turn a page.
 
-"Not one dollar crossed over," she said. "I'll read him that part."
+"I'll take it," the underwriter said. "Approved, with the condition. Judy has it." The line clicked off.
 
-She went back in. Six minutes later she came out without the phone.
+Judy took the pen off the second circle and made the check mark.
 
-"He'll take the safe because your register report and this morning's slip match to the dollar. Approved. With a condition. You keep twenty-five thousand minimum on deposit, reported to me monthly, through next February. He wants to see the safe from now on." She didn't soften it. "Closing's at one, at Leclerc's."
+"Twenty-five thousand at closing, and monthly reports to me against your seasonal budget through next February. Closing's at one, at Leclerc's."
 
-"Accepted," Ellen said.
+"Twenty-five at closing. Monthly reports through next February. Accepted."
+
+Ellen took a butterscotch out of the bowl, the first one she had touched in two visits, and put it in her vest pocket for later.
 
 Judy held out her hand, and Ellen shook it.
 
@@ -60,9 +62,9 @@ The lawyer handed the wire confirmation across to Arlene. Arlene licked her thum
 
 She took the 1996 ledger out of her tote and set it in front of Ellen, the loan strip still standing up out of the pages. DUE 03/01. Ellen uncapped her pen and printed RETD 03/01 underneath it in block capitals.
 
-The lawyer brought the embosser down on the last page. Its hinge went down and came up without a sound.
+The lawyer brought the embosser down on the last page.
 
-Ellen had carried the question since December. She had two guesses and liked neither. Arlene might have picked her for the size of the check, or for not being Ray. Either answer made the winter something done to her.
+Ellen had carried the question since December.
 
 "Arlene. Why me?"
 
@@ -84,23 +86,21 @@ Ellen offered her arm at the top of the stairs. Arlene went down one step at a t
 
 * * *
 
-Denise had the pool sheet out from under the crossword and her pen uncapped, and she didn't look up.
+Denise had the pool sheet out on the counter and her pen uncapped.
 
 "December first, nobody. February second. 'They split.' Somebody's idea of a joke. I drew the line through it that night. March first, nobody. All winter, nobody." She wrote across the top of the sheet in pen. NO WINNER. POT TO DERBY KIDS DIV. "There."
 
 "It goes in HELD."
 
-"Honey, I know where it goes. December was men with snowblowers that wouldn't start. February was the hopeful ones. They gave you long enough to break something expensive, and you did, and you didn't fold." She capped the pen.
+"Honey, I know where it goes. December was men with snowblowers that wouldn't start. February was the hopeful ones. They gave you long enough to break something expensive, and you did." She capped the pen.
 
-She folded the sheet in thirds so the bottom row stayed on the outside. WEDDING DATE. She slid it back under the crossword and filled in seventeen across.
+She folded the sheet in thirds so the bottom row stayed on the outside. WEDDING DATE. She slid it back under the crossword.
 
 Ellen went to the pegboard by the pit door. Ray's card had a new line at the bottom in his square capitals.
 
 03/01 / 1540 / LANE 07 / WAITING
 
-Lane 7 was the first machine that had died on her, at eight-eleven on the first night.
-
-"He hasn't run a machine back there," Denise said, still in seventeen across. "I'd have heard it."
+"He hasn't run a machine back there," Denise said. "I'd have heard it."
 
 Ellen was already walking toward the steel door by lane 10.
 
@@ -110,7 +110,11 @@ The drop light hung on its hook over lane 7. Under the raised table the ten pins
 
 "Fourteen minutes, Mrs. Daly."
 
-She looked at her watch. "Fifteen and a half."
+He had been saving it. He waited, eyebrows up, for the correction. She let it go by, and she was smiling before she looked at her watch.
+
+"Fifteen and a half, Mr. Gagnon."
+
+He grinned down at the pins.
 
 "Arlene count it?"
 
@@ -136,7 +140,7 @@ He didn't get up.
 
 Ellen came to the end of the catwalk and crouched on the step above him. She had said this once already, to her own windshield.
 
-"At your truck I put it in the wrong order," she said. "It was you first. I wanted you before I knew whether I could carry this building. You said you'd have known it was you. I'd have spent the rest of my life running that tape, and you'd have had to watch me do it. I love you."
+"At your truck I put it in the wrong order," she said. "It was you first. The night of the boiler I had my sweater on inside out, and you saw it and said nothing. Next time, say so. I'd like to be told. I love you."
 
 He sat there. The drop light hummed on its hook.
 
@@ -174,7 +178,7 @@ He turned the box so the tag faced her. She put her glasses on and read it, ever
 
 "Thank you," she said, and let the glasses down on their cord. "Denise. I'd like a square on the wedding row."
 
-Denise slid the sheet out from under the crossword. It was still folded with that row on the outside. NORMIE, JUNE 12. D. LAVOIE, NEVER, PAID IN FULL. DANNY, OCT.
+Denise slid the sheet out from under the register. It was still folded with that row on the outside. NORMIE, JUNE 12. D. LAVOIE, NEVER, PAID IN FULL. DANNY, OCT.
 
 "Honey, you don't get to bet on your own wedding." She put the sheet back. "Danny's had October since January."
 
@@ -186,7 +190,7 @@ He didn't say anything to that. He picked up the ladder from where it leaned by 
 
 The commitment letter had run out on March 31 in his coat pocket. On April 1 a woman from the lender called to ask whether he'd like another extension, and he told her no, thank you. She asked if there was a reason, for her form. He told her he was spoken for, and heard her type it.
 
-At dusk the ladder stood against the pole at the road. The electrician from the sign shop in Laconia, in a hard hat, opened the disconnect at the foot of the pole and went up, and Ellen held the ladder with both hands. Ray took the old transformer when it came down and handed the new one up. The electrician made up the connections and climbed down.
+At dusk the ladder stood against the pole at the road. The electrician from the sign shop opened the disconnect at the foot of the pole and went up, and Ellen held the ladder with both hands. Ray took the old transformer when it came down and handed the new one up.
 
 Ray keyed the radio on his collar. "Counter, Gagnon. Throw the sign."
 
@@ -201,22 +205,7 @@ Ellen walked out into the road and looked up at it.
 "Both words."
 
 ---
-## Edit log
-- Filler/restatement cut: "The settee bolts on lane 7 had been tightened. So had the hook the drop light hung from, the hinge on the machine's cover, and the screw on the catwalk rail beside her hand." → "The settee bolts on lane 7 had been tightened." (Ellen's readback now carries the list.)
-- Quip-button cut (Denise): "…and they're sore about it." She capped the pen. "Normie's sorest." → ends at "you didn't fold." Also cut her "You want to know what the dates tell you?" lead-in.
-- Quip-button cut (Danny, via Denise): "Says it's his slow month after roof rakes, and he can spare the help." → cut.
-- Voice fix (Denise): "bet on your own flight" → "bet on your own wedding" (flight was Ellen's idiom, not Denise's).
-- Scene ending: Denise's "I'd have heard it" moved ahead of Ellen's walk to the steel door, so the scene ends on motion, not Denise's line.
-- Explained meaning / stated feeling: "Ellen's own face, in the glass, would look exactly like this right up until Judy shook her head." → "Her reflection in the glass looked calm, and would go on looking calm if Judy shook her head."
-- Explained meaning: "Either way the whole winter would turn out to be something that had been done to her." → "Either answer made the winter something done to her." Guesses merged to one sentence.
-- Filler cut: "He nodded as though that were news." Cut. "Behind him the ten pins stood under the table in their triangle." Cut (pins already staged above).
-- Tic/tripling: "listened and wrote and listened" → "listened and wrote." Transformer tag list ("the shop, the date, the man's initials, BENCH TESTED, the voltage, OK") → "every line, down to OK."
-- Clarity: coda "He" was ambiguous between Hollis and Ray → "Ray came in with the transformer box." "Hollis called it:" → "Hollis was the judge:". Paragraph of 130+ words split into two.
-- Detail fix: "red light on the snowbank" → "red light on the wet gravel" (mid-April, post ice-out; avoids snow-on-cue imagery).
-- Em dashes: narration has none. The only one left is inside the key-tag text, "R.G. — 1996."
-- Checked and left alone: Judy's wobble and approval; "I do not have an answer for that"; Arlene's "You asked me the name of my boiler man"; Denise's pool-sheet scene; Ray's and Ellen's declarations; kiss 3; the knee line; the coda and "Both words." The last line is a literal answer to a literal question, caused on the page by the new transformer, and it ends the book on dialogue, not an aphorism. Left alone.
-- Forbidden phrases, contrast constructions, ATC cap ("Negative" is the only Ellen phrase): no violations found.
-- Revision notes at the end of draft-revised.md were not carried over.
-- Flag, no change: Ch 10 coda says the town called the place "Ettle's" "for seven years." The bible gives the K dead since 2019, so confirm the book's present year makes that seven rather than eight.
 
-- Orchestrator cold-read triage (autopilot): Arlene's reason aligned with Ch 08 (the league price); key line clarified; Pine Ridge acknowledged in the pit; Ellen's declaration trimmed of the Ch 07 recap; cut the "Ettle's for seven years" line that explained the last line.
+## Edit log
+
+- Second draft (Oct 27): external-review revision; see reviews/2026-10-27-external/. Draft-1 final archived as final-draft1.md.

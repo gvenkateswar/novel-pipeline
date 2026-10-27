@@ -1,12 +1,12 @@
 # Chapter Seven: Loss of Separation
 
-At 5:34 a pair of headlights came up the drive and stopped under the lot light, nose out. Ellen counted it through the vestibule door glass as one vehicle. At 5:45 it was still one vehicle, exhaust standing up white in the cold, and nobody had got out.
+At 5:34 a pair of headlights came up the drive and stopped under the lot light, nose out. Ellen watched it through the vestibule door glass. At 5:45 it was still one vehicle, exhaust standing up white in the cold, and nobody had got out.
 
-Ray coached Gagnon & Son on Tuesdays and Thursdays. He had pulled into this lot at six-fifteen every league night since 1996, by Denise's account, and never once before six.
+Ray coached the league on Tuesdays and Thursdays. He had pulled into this lot at five-fifteen every league night since 1996, by Denise's account, and never once sat in it with the engine running.
 
 She went out in her vest.
 
-Fourteen degrees. The plowed bank on the northwest side stood higher than the truck's hood, and behind her the sign buzzed at the road. She stopped at the driver's window with her hands in her pockets.
+Fourteen degrees. The plowed bank on the northwest side stood higher than the truck's hood. She stopped at the driver's window with her hands in her pockets.
 
 Ray looked at her through the glass. Then he shut the engine off and got out, which put him a head above her, close enough that she could see the pencil behind his ear.
 
@@ -28,9 +28,11 @@ The figures down the middle were Ray's, in carpenter's pencil. Down the margin, 
 
 She read the pencil column to the bottom. He had carried the interest out to the dollar and rounded nothing in his own favor. The last figure was circled twice.
 
-"Twenty-three thousand nine hundred fifty," Ellen said. "My projection is twenty-four thousand."
+"Your new income bar is twenty-three thousand nine hundred fifty," Ray said. "You're projecting twenty-four thousand."
 
-"So you're over."
+She put her thumb on the circle.
+
+"So you're over," he said.
 
 "By fifty dollars." She folded the tape on its crease. "Fifty dollars is inside the error on my tape."
 
@@ -92,7 +94,7 @@ Ellen stood at the steel desk. Her watch said 6:07, set Sunday against the atomi
 
 Out front somebody was dragging settees into rows. The PA hummed when an elbow found the gooseneck, and stopped.
 
-It had been the end of a midnight shift, after two evenings and two days, a few minutes past two in the morning. Two arrivals for Logan, fifteen miles west. She had descended one into the other's altitude. An alarm sounded, and she turned them both and told each pilot where the other was. They passed closer than the rules allowed. Nobody was hurt. One loss of separation in thirty-one years, and it was hers.
+It had happened during a midnight shift, after two evenings and two days, a few minutes past two in the morning. Two arrivals for Logan, fifteen miles west. She had descended one into the other's altitude. An alarm sounded, and she turned them both and told each pilot where the other was. They passed closer than the rules allowed. Nobody was hurt. One loss of separation in thirty-one years, and it was hers.
 
 Her voice on the frequency never changed. Every pilot said thank you. She filed the report herself. Two days off the boards. A week of retraining.
 
@@ -148,11 +150,7 @@ Verna opened the binder to a page she had already marked with a strip of paper.
 
 The 112 sat down. Around him the room shifted and creaked. Ray didn't move.
 
-"New business," Verna said. "Mrs. Daly, under Article Four you have three minutes."
-
-"Ms."
-
-"The chair stands corrected." She picked up the watch, pressed its stem, and laid it flat again.
+"New business," Verna said. "Ms. Daly, under Article Four you have three minutes." She picked up the watch, pressed its stem, and laid it flat again.
 
 "Starting tonight, lineage is twelve-fifty a bowler," Ellen said. "The house share of the prize fund goes from five dollars to two."
 
@@ -176,7 +174,7 @@ The Highway Department captain was on his feet before the gavel stopped ringing.
 
 He had a voice for job sites, and he used all of it.
 
-"Every one of us. Cash, at that counter, in September, the price that was on the sign. Twenty-two years of Thursdays I've paid at that counter. Twenty-two years. And Arlene Fortier never once, not one time—" He climbed onto the end of the settee so the back rows could see him. "Nobody asked you to buy it!"
+"Every one of us. Cash, at that counter, in September, the price that was on the sign. Nineteen years of Thursdays I've paid at that counter. Nineteen years. And Arlene Fortier never once, not one time—" He climbed onto the end of the settee so the back rows could see him. "Nobody asked you to buy it!"
 
 The room went quiet. A popcorn bag crackled in somebody's lap and stopped. He stood up there with his cap crushed in one fist.
 
@@ -204,7 +202,7 @@ The 112 looked at the front door.
 
 Denise spoke from the end of the counter. "I move the Linda Gagnon Memorial be bowled as the final round of the Kettle Open on the twenty-seventh, all ten lanes, and I want it in the minutes I don't love it."
 
-Hollis took his cap off and put it back on.
+Hollis put one hand up.
 
 "Second."
 
@@ -230,6 +228,8 @@ The Legion captain reached for his. "Tuesdays," he said, to nobody in particular
 
 Ellen had him on a tape in her vest pocket, staying.
 
+She opened the register, counted his prepaid weeks back out of the drawer, tonight through April, and put the bills in his hand across the counter. He folded them into his shirt pocket without counting.
+
 They started gathering coats. The 112 got as far as the door and turned with his hand on the push bar.
 
 "Ray. It's your league. You coming?"
@@ -252,7 +252,7 @@ Ellen already had the gooseneck pulled down and the pairings in her other hand.
 
 * * *
 
-At 10:50 Verna came past the counter last of all, zipped to the chin, the binder under her arm.
+At 10:50 Verna came past the counter last of all, the binder under her arm.
 
 "Three minutes and four seconds," she said. "The chair let the four go."
 
@@ -260,17 +260,17 @@ At 10:50 Verna came past the counter last of all, zipped to the chin, the binder
 
 Verna went out into the cold with the cushion under her other arm.
 
-Tuesday had bowled on nine lanes, one team against a blind score per the bylaws. The lanes were dark and the sweeps were down, with only the counter lights and the snack-bar fluorescent on.
+Tuesday bowled on eight lanes. Lanes 9 and 10 stayed dark. Now the sweeps were down all the way across, with only the counter lights and the snack-bar fluorescent on.
 
 Denise slid the pool sheet out from under her crossword to settle the night's cash against it. Until Monday it had hung on the wall behind Ray's register.
 
-"Ray took it down himself and drove it up here Monday morning," Denise said. "Handed it across this counter like somebody returning a hammer he borrowed and never used. Said it was mine to hold and always had been." She folded it back under the crossword. "You want to know what I think of tonight, honey, ask me Thursday."
+"Ray took it down himself and drove it up here Monday morning," Denise said. "Handed it across this counter like somebody returning a hammer he borrowed and never used. Said it was mine to hold and always had been." She folded it and slid it under the register drawer. "You want to know what I think of tonight, honey, ask me Thursday."
 
 She put on the hat with the earflaps and went out the front.
 
 Ellen took the folded tape out of her vest pocket and opened it on the counter beside the night's register report. The tape had the Highway Department on it where the Legion should have been. The total came out within forty dollars either way. Twenty-two thousand in income against Judy's thirty. Seventeen in the bank on the twenty-eighth against her twenty-five. Two thousand worse on each line than she had stood at breakfast.
 
-The steel door by lane 10 scraped. Ray came up out of the pit with the drop light. Denise had texted him at nine-forty about lane 9's table running late in the third string. He went to the pegboard and wrote his time out on his card, hung the drop light on its hook, and put his coat on.
+The steel door by lane 10 scraped. Ray came up out of the pit with the drop light. Denise had texted him at nine-forty about lane 8's table running late in the third string. He went to the pegboard and wrote his time out on his card, hung the drop light on its hook, and put his coat on.
 
 He was halfway to the back door when she said it.
 
@@ -294,7 +294,7 @@ She picked the key up. She missed. She missed again. Her breath fogged the winds
 
 It came out too loud for the inside of a car. Then she said the other half, the half she had put in the wrong order at his window. Alone in the car she got every word of it where it belonged, and there was nobody to hear it. The sound she made after that had no words in it. She pressed the back of her glove against her mouth and held it there until it stopped.
 
-The truck door didn't open. She had said effective now, and he had heard her.
+The truck door didn't open.
 
 At 11:04 and forty seconds the key went in. Six minutes, twenty-eight seconds. Merrimack had been four.
 
@@ -302,23 +302,6 @@ She turned it. The engine caught. She wiped a patch of glass clear with her glov
 
 Behind her the truck's headlights came on and swung out onto the drive.
 
----
 ## Edit log
-- Pause tic: "She didn't reach for it. After a while he laid it on the hood" → "She didn't reach for it. He laid it on the hood"
-- Pause tic: "She had no answer for that. She didn't try to find one." → "She had no answer for that."
-- Pause tic: "put his hand flat on the hood beside the check and kept it there" → "laid his hand palm down on the hood beside the check" (also removes the doubled "flat" after his mouth)
-- Pause tic: "Denise looked at her a moment longer than the question needed." → "Denise looked at her."
-- Pause tic: "Hollis took his cap off. He looked at it for a while. He put it back on." → "Hollis took his cap off and put it back on."
-- Pause tic: "He was halfway to the back door when she said it. She was standing." → "She was standing." cut
-- Filler: "Her watch said 6:07. She had set it Sunday against the atomic clock, and it agreed with her phone to the second." → "Her watch said 6:07, set Sunday against the atomic clock."
-- Filler: popcorn machine/space heater sentence cut; "in the order she had written it" cut; "She said it to him exactly as she had said everything to Ellen" cut; "Zippers and bag straps" cut
-- Filler: "a head above her and close enough…" tightened; the driver's-window paragraph merged and shortened; the tape retrieval from the dashboard condensed to one sentence
-- Tightening: Verna's 1987 precedent → "The Tuesday start moved from seven o'clock to six forty-five. Carried." (the "two objections recorded" clause cut); January motion list reduced from three items to two ("the floor, the coffee, and the arrangements for sleeping")
-- Tightening: Highway captain after Verna's ruling → "He got down, red to the collar, and stayed standing at the end of the settee."; Denise's text about lane 9 and the lane-lights sentence condensed
-- Paragraph split: the 140-word tape paragraph now breaks at "The Legion she left in."
-- Left alone as instructed: the car scene (key, timing, "Fifty dollars," the wordless sound), "I don't!", Ray's truck protest, "I don't agree with her," the Highway captain's shout, the ATC phrases, the money, the vote and walkout.
-- Flag, not changed: "Forty minutes ago she had shouted in her own parking lot" (office scene, 6:07). The confrontation ran roughly 5:45 to 5:55, so the interval is closer to twenty minutes. Author or continuity pass to decide.
-- Flag, not changed: The Legion captain's "Thursdays" is ambiguous (reads as a Thursday-only departure). Plot-level, so left as is.
-- Flag: no contrast constructions or stated feelings remained beyond the interior passages that World rule 10 requires; I found nothing to rewrite there. Word count is estimated at roughly 3,400, since no counting tool was available.
 
-- Orchestrator: fixed both flags (Forty → Twenty minutes; Legion is a Tuesday team per Ch 01, so "Tuesdays").
+- Second draft (Oct 27): external-review revision; see reviews/2026-10-27-external/. Draft-1 final archived as final-draft1.md.

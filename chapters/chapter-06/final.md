@@ -2,7 +2,7 @@
 
 Hollis had the ladle in the near hole. He skimmed, then knocked the skin of ice off against the rim of the bait bucket.
 
-Ray sat on the overturned pail in the corner. It had held joint compound in about 1971 and had been his ever since. Sundays at first light were his time on it. The propane heater hissed at head height, and down at his boots it was maybe ten degrees. Through the little window the tip-ups stood in their row with the flags folded down, and somewhere toward the far shore the ice boomed once and let it go.
+Ray sat on the overturned pail in the corner. It had held joint compound in about 1971 and had been his ever since. The propane heater hissed at head height, and down at his boots it was maybe ten degrees. Through the little window the tip-ups stood in their row with the flags folded down, and somewhere toward the far shore the ice boomed once and let it go.
 
 "You courting her, or just fixing her machines a lot?"
 
@@ -16,13 +16,15 @@ Ray sat on the overturned pail in the corner. It had held joint compound in abou
 
 The Sunday after Linda's funeral, Ray had sat on this pail from dark to noon, and Hollis had not asked him one question in five hours. Ray came back the next Sunday and every Sunday after.
 
-Hollis looked out the window at the sky over the narrows before he asked the next one.
+Hollis drew the line up and checked the bait.
 
 "She know you're keeping the letter?"
 
 "Told her last night."
 
-Hollis grunted and fed a smelt onto the hook.
+He did not mention the rest of last night, and Hollis, who missed nothing, let him not.
+
+Hollis fed a smelt onto the hook.
 
 "Legion's booked for a bean supper the last Saturday in February," he said. "Town hall holds sixty."
 
@@ -44,7 +46,7 @@ Out on the ice a flag snapped up on its spring. Hollis was already off the coole
 
 * * *
 
-Denise had the crossword folded to a square. She didn't look up.
+Denise was spraying a pair of rental shoes, toe and heel.
 
 "Office. She's been standing since noon."
 
@@ -66,9 +68,11 @@ He set the book down and ran the tape through his fingers to the minus at the bo
 
 "I need it now."
 
-"They paid in September." He set the tape down. "They paid for a season at the September price. You don't change the price in the middle. People quit over a lot less, and Pine Ridge is forty minutes up the road with the lights on."
+"They paid in September."
 
-Ellen looked at the tape and didn't answer it.
+"They paid their entry fees in September. Lineage comes across my counter every league night."
+
+"At the September price." He set the tape down. "They signed up for a season at that price. You don't change the price in the middle. People quit over a lot less, and Pine Ridge is forty minutes up the road with the lights on."
 
 "If I raised it Tuesday and nobody quit," she said after a while, "I'd be close. Close is short."
 
@@ -82,17 +86,81 @@ Ray looked at it a long time.
 
 "I did. All of it."
 
-He could hear a second half to it, somewhere under the first.
-
 He laid the tape across the ledger, square to her strip.
 
 "I've got a lock to look at for the Lakeview Diner at three."
 
 "All right," Ellen said.
 
-He went back out through the building. At the counter Denise held out a pencil without lifting her eyes from the crossword, and he took it going by.
+He went back out through the building. At the counter Denise held a pencil out over the crossword, and he took it going by.
 
 "She ran that tape four times since six this morning, I counted, and the fourth time she said 'Well' out loud to nobody, which, Ray, in seven weeks I have not once heard that woman—"
+
+* * *
+
+Friday at six Ray carried a twenty-pound bag of rock salt up the steps of the rented camp past the narrows. Somebody had chipped the steps clean to the treads. He salted them on the way up regardless.
+
+Ellen opened the door with a dish towel over one shoulder and no vest.
+
+"I chipped those at four."
+
+"They face north."
+
+"Denise has the counter until eight-thirty," she said. "Glow doesn't start till nine. Leave it by the boot tray. Thank you." She stood aside. "Nobody says the word ledger tonight. That includes me."
+
+The camp belonged to a family from Andover who came up in July: one room under a sleeping loft, a loon clock over the stove. The owners had labeled their cupboards in marker: GLASSES. MUGS. DO NOT USE GOOD BOWLS. Under each one Ellen had added a strip of masking tape in block capitals. Under the good bowls her strip said AGREED.
+
+A pan of American chop suey sat on the back burner.
+
+"I make one supper," she said. "Since 1991. It has never failed."
+
+"What do you make the second night?"
+
+"That one."
+
+She filled two plates and stayed at the counter with hers. There were two chairs at the little table by the window. He looked at them.
+
+"I eat standing up. Thirty-one years of eating on a break." She tipped her fork at the chairs. "Sit if you want."
+
+He brought his plate over and stood next to her, at a counter built for a shorter family.
+
+For six years he had eaten supper standing at the store counter after Danny went home, and thought nobody knew. Danny had known the whole time. Here was a woman who did it on purpose, and she had set out two plates.
+
+The cupboard marked MUGS hung a quarter inch low. He opened it, looked at the hinge, and shut it.
+
+"That's the landlord's hinge," Ellen said.
+
+"Stripped screw. Golf tee and a little glue." He shut it again. "I'm leaving it be."
+
+"You've opened it three times."
+
+"Can I ask you something that isn't your building?"
+
+"You can ask."
+
+"Ms.," he said. "You fix it every time."
+
+"I was divorced twenty years ago. Nicely. I kept Daly because Kate has it." She laid the fork across her plate. "I gave back the Mrs."
+
+He counted back the Mrs.'s he had handed her across a counter.
+
+"Linda died on a Wednesday," he said. "She bowled the night before. Ninety-six. Said lane four pulled left and complained about it the whole way home."
+
+Ellen kept her eyes on the window.
+
+"Four pulls left," she said. "Three-quarters of a board at the far end. I put a strip on it in December."
+
+Ray laughed out loud, and the loon clock ticked along under it.
+
+"She'd have wanted that in writing," he said.
+
+"It's in writing."
+
+At the door, with his coat on, she reached up and turned his collar down where it had folded under, and smoothed it once with the flat of her hand.
+
+"Golf tee," he said. "And a little glue."
+
+"Leave my hinge alone, Ray," she said, and held the door for him.
 
 * * *
 
@@ -120,7 +188,7 @@ He took the drop light off its hook and went through the office to the top of th
 
 "Stay off the wet floor. I'm on my way."
 
-He had a key to this building because of the machines. In twenty years he had never gone down those stairs without Arlene's say-so, and tonight he had got a woman out of bed at ten past twelve to ask whether he could walk down eleven steps.
+In twenty years he had never gone down those stairs without Arlene's say-so, and tonight he had got a woman out of bed at ten past twelve to ask whether he could walk down eleven steps.
 
 She came down at 12:30 with a flashlight, in her navy vest over a sweater. The sweater was on inside out. He could see the seams along her shoulders and the tag at the back of her neck, and he didn't mention it.
 
@@ -134,7 +202,7 @@ He hung it back on its nail.
 
 The plan, when she had it, went onto an index card from her vest pocket in block capitals. A certified oil-heat technician, two hours out, maybe more, on a no-heat call across the lake. Heaters from the rental yard at seven. Closed Wednesday. She would call the two bookings herself at eight.
 
-He went up for the second flashlight. When he came back down she had the phone to her ear, on hold, and she held out her free hand without looking. He put the flashlight in it. The line clicked, and a woman's voice came back on mid-sentence about a truck in Gilford.
+He went up for the second flashlight. When he came back down she had the phone to her ear, on hold, and she held out her free hand. He put the flashlight in it. The line clicked, and a woman's voice came back on mid-sentence about a truck in Gilford.
 
 * * *
 
@@ -160,8 +228,6 @@ She kept the light where it was.
 
 "You've got it on a card."
 
-She considered that.
-
 "This is good for you," she said.
 
 Ray kept his eyes on the iron. "On paper."
@@ -186,7 +252,7 @@ He thought about it.
 
 "Arlene gave me a key for the machines. You gave me one for the back door and a card to write on. Neither one says anything about a cellar." He turned his flashlight over in his hands. "It's your building."
 
-She stood up on her stair to steady the light, and with him sitting two steps up, they were level. The beam still shook. He watched it shake on the iron and kept his hands where they were.
+She stood up on her stair to steady the light, and with him sitting two steps up, they were level. The beam still shook on the iron. He kept his hands where they were.
 
 "You can say it," she said.
 
@@ -200,7 +266,7 @@ She stood up on her stair to steady the light, and with him sitting two steps up
 
 She bent and set the flashlight on the stair beside her. It rolled a quarter turn and stopped, still lit. Cold came up off the concrete through the soles of their boots. He put his hand on her sleeve, and the wool was cold through.
 
-He kissed her, or she kissed him. Afterward he couldn't have sworn to which. Her nose was cold against his cheek. Her bare hand closed on the front of his work jacket and held a fistful of canvas, and somewhere in it the shaking quit. He noticed that later.
+He kissed her, or she kissed him. Afterward he couldn't have sworn to which. Her nose was cold against his cheek. Her bare hand closed on the front of his work jacket and held a fistful of canvas, and somewhere in it the shaking quit.
 
 Headlights swung across the window well at 3:22 and lit the frost on the glass. Ellen was up the stairs before the knock, and he could hear her at the top already giving it from the beginning before she had the back door open. Ray picked up her flashlight from the stair and went up after her.
 
@@ -216,8 +282,6 @@ Ellen came in with a folder under her arm. The sweater under her vest was on rig
 
 Neither of them took it any further. She laid the technician's invoice on the counter, and beside it a stapled plan, four pages. She didn't take her coat off.
 
-The Bench stools were empty and the coffee pot was off.
-
 "Twenty-four thousand five hundred," she said. "Paid by check Wednesday. The new one goes in tomorrow."
 
 Ray looked at the invoice and didn't touch it.
@@ -226,9 +290,9 @@ Ray looked at the invoice and didn't touch it.
 
 She turned the plan to face him.
 
-"Saturday the twenty-seventh. All ten lanes. The Linda Gagnon Memorial, bowled for by the league's top teams, as the final round. Nothing glowing." She turned the page. "The public pays entries to bowl the early rounds. Spectators pay at the door. There's a raffle, split with the derby. If Hollis calls the ice, the derby's indoor events come to me."
+"Saturday the twenty-seventh. All ten lanes. The Linda Gagnon Memorial, bowled for by the league's top teams, as the final round. Nothing glowing." She turned the page. "The public pays entries to bowl the early rounds. Spectators pay at the door. The derby's raffle sells at my counter. If Hollis calls the ice, the derby's indoor events come to me, for a venue fee."
 
-"Who's printing your raffle tickets?"
+"Who's printing the raffle tickets?"
 
 "I haven't asked."
 
@@ -266,7 +330,7 @@ Ellen didn't step back. Her hand stayed flat on the plan.
 
 "You did not hear the condition," she said, "because you do not hear anything that would change that league. You have not heard one new thing in six years. The whole town knows it. They like you too much to say so."
 
-Out on Main Street a plow radio crackled in a parked truck. Ellen's mouth opened on the next word and closed.
+Ellen's mouth opened on the next word and closed.
 
 "Ray. That was—"
 
@@ -286,25 +350,19 @@ He turned the plan face down and reached past the register for the light switch.
 
 Normie had added a row at the bottom while Ray was out at the rental yard Wednesday, in his big careful capitals. WEDDING DATE. Three squares were already bought, with names in them. NORMIE, JUNE 12. D. LAVOIE, NEVER, PAID IN FULL. And in the third square, in a neat hand Ray had taught to write invoices, DANNY, OCT.
 
-He read the row twice. Then he switched off the counter lights, locked the front, and drove around the cove to coach a league bowling in parkas around two rented heaters. Halfway up Kettle Road he had the truck's heater on high and was still turning the knob.
+He read the row twice. Then he switched off the counter lights, locked the front, and drove around the cove to coach a league bowling in parkas around two rented heaters.
 
 * * *
 
 Sunday at 6:55 Hollis came in out of the cold with the spud bar and set it in the corner.
 
-"Committee's coming," he said. "So's she."
-
-Ray looked up from his pail.
-
-"She called Thursday night. I gave her Sunday at seven." Hollis took his cap off and put it back on. "You can go."
+"Committee's coming," he said. "So's she. She called Thursday night, and I gave her seven. You can go."
 
 Ray stayed where he was.
 
-The committee came first and took the two buckets: the Sportsmen's Club treasurer, with a gray cash box on his knees he didn't put down, and the woman who ran the raffle, with a roll of tickets and a mitten in her teeth. Hollis sat them facing the window and went back out to the public access to meet Ellen.
+The committee took the two buckets: the Sportsmen's Club treasurer, with a gray cash box on his knees, and the woman who ran the raffle, with a roll of tickets and a mitten in her teeth. Hollis went out to meet Ellen.
 
-Hollis didn't let her off the shore until he'd chipped a hole. Every twenty yards on the way out he stopped, worked the spud bar, and ran his tape down into the ice. Ray could read the numbers off the way Hollis stood up from each hole.
-
-At the door Hollis read them out. "Eleven inches out to here, eight of black and three of white. You can walk it and you can sled it, and those trucks are wrong."
+At the door he read off the numbers. "Eleven inches out to here, eight of black and three of white. You can walk it and you can sled it, and those trucks are wrong."
 
 "Name."
 
@@ -318,71 +376,47 @@ At the door Hollis read them out. "Eleven inches out to here, eight of black and
 
 "Fifteen minutes with your committee."
 
-"Lines in the water?"
-
-"None."
-
-"Fishing license?"
-
-She handed it over, printed, on top of a stapled plan. Hollis read the date on the license and wrote it in his notebook. "Plan if the ice goes?"
+"Plan if the ice goes?"
 
 "Page two."
 
-She came in and her lips moved once. Four. He had watched her count every room she walked into since December.
+Ellen stood and gave them the part of the Open that touched the derby, in about a minute and a half. Hollis let her finish.
 
-Ellen stood, since there was nowhere to sit, and gave them the Open in about a minute and a half, the part that touched the derby and nothing else. Hollis let her finish. Then he took his cap off.
+The raffle woman took the mitten out of her teeth. "And the raffle. I'm not against it. I don't think I'm against it. Only it's our raffle, is the thing, we sell eleven hundred out of the pharmacy alone, and I'd want the board to see where the money sits before anybody—"
 
-"Who opens your building if you're laid up?"
-
-"Denise Lavoie."
-
-"She know that?"
-
-"She will by noon."
-
-Hollis wrote it down and put his cap back on.
-
-"Weigh-in's been at the town dock forty years," the treasurer said. "Longer. My father weighed in at that dock. He had the pickerel in '71 they all said was a pike, and they sent to Concord for a man to look at it."
-
-"The weigh-in stays at the dock unless Hollis calls the ice," Ellen said. "I won't argue it."
-
-The raffle woman took the mitten out of her teeth. "And the split. I'm not against it. I don't think I'm against it. Only fifty-fifty of whose tickets, is the thing, because we sell eleven hundred out of the pharmacy alone, and I'd want the board to see the, the account, I'd think, before anybody—"
-
-Outside the window a flag snapped up on its spring.
+A flag snapped up outside the window.
 
 "Hollis," the raffle woman said. "That's your flag."
 
 Hollis didn't move. He was looking at Ellen.
 
-"Stand by," Ellen said, and turned to page three. "The derby's half goes into its own account the day each ticket sells. The bank's letter is stapled behind."
+"Stand by," Ellen said, and turned to page three. "Every raffle dollar is the derby's. It goes into an account I keep marked HELD the day the ticket sells, and out to your treasurer every Monday. The house takes the venue fee at the bottom of this page and nothing else. The bank's letter is stapled behind."
 
-Hollis tipped his head at the door without taking his eyes off the page. The treasurer set the cash box on the floor for the first time all morning and went out without his hat. Through the glass Ray watched him kneel at the hole and haul hand over hand, too fast.
+Hollis tipped his head at the door. The treasurer set the cash box on the floor for the first time all morning and went out without his hat.
 
-He came back in red to the ears. "Lost him at the hole. Felt like a good one."
+He came back in red to the ears. "Lost him. Felt like a good one."
 
-Hollis wrote that down too. Then he looked out the window at the sky over the narrows a while.
+"Twenty-six derbies I've chaired," he said. "Nobody ever walked out here and handed me the fallback typed." He turned to the committee. "Indoor fallback. All in favor."
 
-"Twenty-two derbies I've chaired," he said. "Nobody ever walked out here and handed me the fallback typed. Legion's got their bean supper that night, and the town hall holds sixty. That's the whole of it." He turned to the committee. "Indoor fallback. All in favor."
+Two hands went up. The treasurer kept both of his on the cash box. "Weigh-in stays at the dock unless you call it."
 
-Two hands went up. The treasurer had the cash box back on his knees and kept both hands on it. "Dock weigh-in stays."
+"So noted," Hollis said. "Raffle stays the derby's, venue fee as written. All in favor."
 
-"So noted. Raffle?"
+The raffle woman put her hand up. The treasurer lifted two fingers off the box.
 
-"I'd say pending," the raffle woman said. "I think. If that's all right." She looked at the ticket roll in her lap. "And the kids' division would bowl free, I'd assume. I'd want to assume."
+"And the kids' division would bowl free, I'd assume," the raffle woman said. "I'd want to assume."
 
 Ellen didn't answer right away. Ray watched her run it, the lanes and the hours and what a free string cost, with her eyes on the window.
 
 "Free," Ellen said.
 
-Hollis wrote *pending* and *kids free*. Ellen sat down on the bait bucket. Ray saw her do it.
+Hollis wrote *venue fee* and *kids free*. Ellen sat down on the bait bucket. Ray saw her do it.
 
-She was up again a minute later, zipping her parka. At the door she stopped by Ray's pail.
+At the door she stopped by Ray's pail. "League meeting's Tuesday at six-thirty. I'm on under Article Four."
 
-"League meeting's Tuesday at six-thirty. I'm on under Article Four."
+He nodded. She went out.
 
-He nodded. She went out across the ice Hollis had measured.
-
-Hollis shut the door. He turned to Ray with the notebook still open and the golf pencil ready.
+Hollis shut the door and turned to Ray with the golf pencil ready.
 
 "Name."
 
@@ -400,15 +434,4 @@ Ray opened his mouth.
 
 ## Edit log
 
-Word count is an estimate (no counter was available), roughly 3,520 to 3,560, down from 3,704.
-
-- Cut tidy interpretation: "He had run the league the same way since, with her trophy on the center shelf." → removed.
-- Cut stated feeling and symbol: "The boiler would cost her about what he figured, and every dollar of it moved the building closer to him." → removed. The "I still have the letter" exchange carries it.
-- Cut stated feeling: "It was another thing to be one of the four." → removed. The count stays.
-- Rule 21 (no re-staging): Ray's quoted four-sound recital to Ellen → "He gave her the four sounds in the order he'd heard them." The "Say again the second sound" and "Pop. Like a knuckle." exchange stays.
-- Checklist call-and-response: "saying each step to the phone before she did it and each result after. Red switch. Feed valve by the gauge, a quarter turn clockwise." → "worked the shutdown from the top of the stairs down, red switch first, then the feed valve by the gauge."
-- Cellar kiss: removed the second "flashlight lay on the step, lit, pointed at the crack" (the first mention stays) and "and kept it." Cut the checklist recital in the technician's arrival ("switch, valve, the time of the pop...").
-- Scene endings: removed "The inner door swung shut on the rest of it." so scene 2 ends on Denise's cut-off line. Cut "The boiler was dead and cooling." and "He thought about how to give it to her in order." → "He thought about it."
-- Filler trims: the pail's history, the space heater under the desk, "turned back a page, and forward two, and kept turning," the treasurer's chalk-board line, and "walked back toward the access" were all tightened or cut.
-- Left alone on purpose: the raised voice and Ellen's reply, the wrench, the inside-out sweater, the kiss, the WEDDING DATE row, the flag let go during the pitch, the license questions, the dentist line, the closing hook. ATC phrases are two ("Say again," "Stand by"). The machine simile is kept at one. Hollis's sky check is used twice.
-- Flag: I found no contrast constructions or forbidden phrases in the draft, so none were replaced. Nothing here needs plot-level changes. Denise's "in seven weeks" in scene 2 is a fact I left unchanged. Dec 1 to Jan 31 is closer to nine weeks, so the author may want to check it.
+- Second draft (Oct 27): external-review revision; see reviews/2026-10-27-external/. Draft-1 final archived as final-draft1.md.

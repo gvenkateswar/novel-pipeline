@@ -14,7 +14,7 @@ Arlene turned the ledger toward him and laid the rim of her magnifier under a li
 
 The scanner on the counter clicked and spoke, low. A plow truck off the road at the bend on Dock Road, driver out and walking.
 
-"That's the Ledoux boy." Arlene didn't turn her head. "He takes that bend like it owes him money. His father took it the same way in 1988 and took the town's mailbox with him." She tapped the page. "Where was I."
+"That's the Ledoux boy." Arlene didn't turn her head. "His father took that bend the same way in 1988 and took the town's mailbox with him." She tapped the page. "Where was I."
 
 "The margins."
 
@@ -30,13 +30,11 @@ Arlene looked up.
 
 "I said it," Arlene said. "Twice. I meant it both times."
 
-The building on Kettle Road was the last room Linda had been in that nobody had rearranged. Since December he had practiced what he would say to an eighty-four-year-old woman in a cardigan, and not one line of it had made it up her stairs with the tape.
+The building on Kettle Road was the last room Linda had been in that nobody had rearranged. Since December he had practiced what he would say to an eighty-four-year-old woman in a cardigan. None of it had made it up her stairs with the tape.
 
 Arlene took a tissue from her sleeve, looked at it, and put it back.
 
 "Everybody on Main Street knew your bank was coming. I knew before you did. I sold to her anyway." She folded the magnifier shut on its chain. "Voyons donc. You'd have kept the lineage at seven-fifty and Linda's ball in the locker, and lost money every league night polishing that trophy case, the same as Normand and I did for thirty years. She asked me what the league paid before she asked me the price of the building. I knew she'd raise it, and she did, her first winter, and lost two teams for it. I'll take my money from somebody who does that."
-
-The radiator clanked twice under the window.
 
 "Does she know why you picked her?" Ray said.
 
@@ -52,7 +50,7 @@ Ray was already on the stairs, going down for the third.
 
 The text had come at 2:31.
 
-*Lane 4 table hanging on the respot. 3x since noon. Lane closed. Work order. Rate per our agreement.*
+*Lane 4 table hanging on the reset. 3x since noon. Lane closed. Work order. Rate per our agreement.*
 
 Ray came in the back door at 2:40, past a lot full of Massachusetts plates. He wrote 02/13 / 1440 / LANE 04 / TABLE on the card by the pit door.
 
@@ -92,7 +90,7 @@ At the counter he laid a Gagnon & Son slip in front of her. She read it, wrote t
 
 Seventeen days ago she had held a fistful of his jacket on her own cellar stairs.
 
-The Open clipboard sat by the register, and he read it upside down while she wrote. Nine lines left.
+The Open clipboard sat by the register, and he read it across the counter while she wrote. Nine lines left.
 
 He put the check in his shirt pocket and went down the side of the snack bar toward lane 1, as far as the trophy case.
 
@@ -102,7 +100,7 @@ Linda would have entered the Open the first day the clipboard went up. She'd hav
 
 Locker 14 was beside the case. He lifted the latch. Her bag sat where she had set it, blue vinyl, the zipper pull a loop of his picture wire. He took it out by the handles and left the locker door standing open.
 
-He walked back up past the snack bar and the counter. Denise sprayed a pair of size nines, toe, heel. Ellen had the phone at her ear and a pencil on the strip board, and she didn't look up.
+He walked back up past the snack bar and the counter. Denise sprayed a pair of size nines, toe, heel. Ellen had the phone at her ear and a pencil on the strip board.
 
 "Lane four," she said. "Three-fifteen. Four bowlers."
 
@@ -114,15 +112,11 @@ The release lay on the desk, RELEASE OF RIGHT OF FIRST REFUSAL typed across the 
 
 Ray took out his wallet and slid the license from behind its window. The bank's commitment letter came out with it, folded in quarters and soft at the creases since December. The lawyer picked it up to move it, read the letterhead, and laid it beside the license.
 
-The developer in Concord was a real man with a real phone number, and Ray still believed every word he had said about him in her parking lot. But as long as his name sat on that right at the registry, there was a jack post under her floor. She could make both of Judy's numbers and never know whether the building had stood on its own or on him.
+The developer in Concord was a real man with a real phone number, and Ray still believed every word he had said about him in her parking lot. But as long as his name sat on that right at the registry, there was a jack post under her floor.
 
 He signed at the first flag. The radiator under the window banged once. He signed at the second, and it banged again.
 
-The lawyer brought out the embosser. It was cast iron and older than she was, and she had to stand to get her weight on it. The hinge rocked under her hand.
-
-"Hang on."
-
-Ray took a dime from his coat pocket, set it in the slot of the hinge screw, and gave it a turn and a quarter. She inked the date stamp while he did it. When she bore down again, the jaws met square.
+The lawyer brought out the embosser. It was cast iron and older than she was, and she had to stand to get her weight on it.
 
 "There's a line here for the reason," she said. "It isn't required."
 
@@ -152,8 +146,7 @@ He had called Gil on Sunday, and Gil had let him finish the whole sentence.
 
 "The Marina has bowled one Tuesday for me and paid for it on the Friday," Gil had said. "And I've wanted you on my lanes for thirty years, Ray. Bring your shoes."
 
-Denise sat at the scorer's table with a Kettle Lanes paper sheet and her own pencil. Linda's bag sat on the carpet by her feet. The Legion van was parked across two spaces out front.
-
+Denise sat at the scorer's table with a Kettle Lanes paper sheet and her own pencil. Linda's bag sat on the carpet by her feet.
 Gil came down the approach in his overcoat with the wireless mic in his gloved hand.
 
 "House rules, Ray. Three strings, total pins, my lane, my house ball. You'll forgive the ball." Gil's audience was eight bowlers, Denise, and Ray, and his voice came out of every speaker in the building.
@@ -168,13 +161,13 @@ The Legion captain raised a hand off his knee. "We came up in the one van. If th
 
 Ray's first ball left his hand high and came down a yard past where he meant it.
 
-Nothing had ridden on a string of his in six years, not since Linda. Her ball sat four feet away in the bag he had carried in himself. Gil's rules gave him a gray one with a chip in it.
+Nothing had ridden on a string of his in six years, not since Linda. Her ball sat four feet away in the bag he had carried in himself.
 
-In the sixth frame he lofted the first ball again and heard it land.
+In the sixth box he lofted the first ball again and heard it land.
 
 "Holy mackerel."
 
-He heard himself say it. Denise wrote a zero in the box and didn't look up. Ray finished the string at 84. The 112 had 108.
+He heard himself say it. Denise wrote a zero in the box. Ray finished the string at 84. The 112 had 108.
 
 Between strings the 112 went to Gil. "I want fifteen. Sixteen's pulling left."
 
@@ -186,17 +179,15 @@ He stopped at the scorer's table on his way back. "Mrs. Lavoie. I watched you pi
 
 In the second string Ray stood on the approach with the gray ball and looked at the lane.
 
-*Low. Let the lane have it.*
-
 He brought his hand down six inches and let the ball go along the boards. It ran true. He finished the string at 117. The 112 had 115.
 
-By the third string Ray was taking back a pin or two a frame, and by the tenth he was inside a dozen. He waited on the approach while Denise ran the column twice with her pencil.
+By the third string Ray was taking back a pin or two a box. The 112 bowled his tenth, took three, and sat down on the stools with his total. Ray stood on the approach for his own tenth while Denise ran the column twice with her pencil.
 
-"Nine," she said.
+"Nine to win," she said.
 
 His first ball chopped. It took four off the right side and left two pins lying flat on the deck. His second took three more. Three still stood at the left edge in a crooked line, and in front of them lay one fallen pin, crossways, its head pointed toward the far side of the deck.
 
-*The wood stays on the lane. You play what's left.*
+He stood with the third ball against his hip and looked at that fallen pin until the 112 shifted on his stool.
 
 He put the third ball low along the left boards, at the base of the fallen pin. The ball caught it square and the pin swung like a gate, slid across the deck on its side, and cut the back two out from under themselves. The ball went on through and took the last one.
 
@@ -206,7 +197,7 @@ The 112 looked from the screen to the paper and back. They matched.
 
 "Well," the Legion captain said, and zipped his jacket. "That's the van, then."
 
-The 112 had his coat on and was halfway to the door, the Marina behind him, the Legion captain digging for the van keys.
+The 112 was halfway to the door with his coat on, the Marina behind him.
 
 "Tuesday. Twelve-fifty," the 112 said over his shoulder. "Don't expect me to like it." He stopped with a hand on the push bar. "Thirty years of us," he said to Ray, "and you picked the Daly woman over the league."
 
@@ -218,7 +209,7 @@ Ray sat down to unlace his shoes.
 
 "Giving," Ray said. "Outright. Papers to follow."
 
-The key cutter sat idle at the end of the counter. Out front a plow radio crackled in a truck with its engine running, and somebody's dispatcher said the Kettle Road hill was greasy.
+The key cutter sat idle at the end of the counter.
 
 Normie had his hand flat on his chest. The other two leaned on their stools by the coffee pot.
 
@@ -234,7 +225,23 @@ Linda's stool was still beside his at the counter, with its cracked green cushio
 
 A box of hinge screws sat open on the counter by his elbow. He left it there.
 
-Ray put on his coat. Danny waited until his father had both arms in the sleeves.
+Danny set the tablet down on the counter and kept his hand on it.
+
+"Four years I've been waiting for you to say that," he said. "You picked six-twenty on a Wednesday, in front of the Bench." He looked at the tablet. "You coming in tomorrow?"
+
+"Some."
+
+"Call first. I'm moving things. The bolt bins go to the back wall, and the plow parts come up front. I've had it drawn up since 2023."
+
+Ray looked down the first aisle. His father had built those bins out of pine the year the store opened, and the lids had a dip worn in each one where sixty years of hands had reached in.
+
+"Your grandfather built those."
+
+"I know who built them, Dad. They're moving twelve feet."
+
+Ray opened his mouth and shut it again. He reached for the box of hinge screws, and Danny slid it out of his reach along the counter.
+
+"Twelve feet," Ray said, and put on his coat. Danny waited until he had both arms in the sleeves.
 
 "Dad. Whatever you're shopping for now, we don't carry it." He tapped the tablet. "I checked."
 
@@ -250,11 +257,13 @@ Ray pulled the door shut.
 
 * * *
 
-Ellen had counted the room twice. Three people, counting herself, at 7:15 on a Saturday with the doors still locked.
+At 7:15 on a Saturday the doors were still locked, and there were three of them in the building.
 
 The whiteboard leaned against the burnt-orange settee at lanes 1 and 2, four plans in red marker, A through D, for ice, storm, closed roads, and no power. D was the shortest column. Everybody in the room had been here on the seventh of January.
 
-Behind the register the pace sheet said what it had said all week. A thousand dollars short on Judy's first line. Twelve hundred and fifty short on her second.
+Across the top row of the strip board hung five strips in her capitals, one for each weekday of school vacation week. Each read 1200–1700 / VAC WK / ALL LANES / SOLD. In December Judy had asked what she had booked against that week, and she had said nothing yet. She had built it herself since then: kids' afternoons, family strings by the hour, and a block for the derby families. She had sold it on the derby's phone tree, and every family had paid ahead.
+
+Behind the register the pace sheet carried every dollar of it and still said what it had said all week. Eighteen hundred dollars short on Judy's first line, with the Open still to run. Twelve hundred and fifty short on her second.
 
 "Short on both," Ellen said.
 
@@ -286,7 +295,7 @@ Hollis wrote it down in the notebook with the golf pencil.
 
 Ellen looked at the Tuesday column on the pace sheet.
 
-He had won her two teams back forty minutes up the road and hadn't told her. Eighteen days ago he had stood at her left in front of eighty-one people. He still held the first refusal, and if she missed by a thousand dollars he would own the building those teams had come back to. At his truck she had asked to find out what she could carry. Now she would never know how much of the twelve-fifty had come back on its own.
+He had won her two teams back forty minutes up the road and hadn't told her. Eighteen days ago he had stood at her left in front of eighty-one people. If she missed Judy's lines she would have to sell, and he still held the first refusal and a bank letter on the building those teams had come back to. At his truck she had asked to find out what she could carry. Now she would never know how much of the twelve-fifty had come back on its own.
 
 Hollis had come around the counter to read the board column by column.
 
@@ -300,19 +309,12 @@ Ellen looked at the four colons. She had planned for the ice, the roads, the pow
 
 "I don't have an answer," she said.
 
-Denise capped her crossword pen.
+Denise capped the pen.
 
 "Call him, honey. Or I will, and I'll enjoy it." She pushed the counter phone across to Ellen by its cord.
 
 ---
-## Edit log
-- Filler opener: "There was one man in the county qualified to stand in that pit" → "One man in the county was qualified to stand in that pit"
-- Paragraph split (over 100 words, store scene): the Lucien/stool/tablet paragraph → split after "the way Lucien left it."
-- Repeated paragraph openers: "In the third string Ray took back a pin or two a frame" → "By the third string Ray was taking back a pin or two a frame"
-- Redundancy: "the rest of the Marina behind him, and the Legion captain was already digging for the van keys" → "the Marina behind him, the Legion captain digging for the van keys"
-- Clunky "though": "...beat Ray Gagnon, though, and Gil had the lanes" → "...beat Ray Gagnon, and Gil had the lanes"
-- Tidy last lines: "Ray pulled the door shut on the rest of it." → "Ray pulled the door shut."; "...and went back to seventeen across." cut, scene now ends on the phone pushed across the counter.
-- Checked and left unchanged: Ray's jack-post release passage, Arlene's "Voyons donc" line, Pine Ridge finish and scores (84/117/133 vs 108/115/109), the boy's "Saturdays," Danny's invoice lines, Ellen's MX section and closing passage, all money and dates. No forbidden phrases, contrast constructions, or stated emotions found. Key ring and Hollis cap absent, per triage.
-- Flag (not changed, plot-level): Ch 08 shows Ray's score total as 334 for a string-sum comparison, consistent with the draft. No continuity issues found.
 
-- Orchestrator (manuscript read): letter folded in quarters (matches Ch 02); Arlene's reason grounded in what she knew at the sale (Ellen asked what the league paid), matching Ch 10.
+## Edit log
+
+- Second draft (Oct 27): external-review revision; see reviews/2026-10-27-external/. Draft-1 final archived as final-draft1.md.

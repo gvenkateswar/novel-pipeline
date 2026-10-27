@@ -4,7 +4,7 @@ The blade had dug in at an angle, and the truck had swung around on it like a ga
 
 Ray heard it from lane 6. First the scrape of steel on the drive, steady, then the engine climbing with nothing under it. A plow that's moving drops its voice on a downgrade. This one climbed and stayed up there. He had his coat half on by the vestibule and left his hat on the settee.
 
-Hollis's truck sat crossways at the foot of the drive with its nose toward the lake and the blade buried. The amber light went around on the cab roof. It turned the falling snow orange and then gave it back. Up the hill behind him the sign buzzed in the cold, and from down here it read ETTLE LANES, the way it had for seven years.
+Hollis's truck sat crossways at the foot of the drive with its nose toward the lake and the blade buried. The amber light went around on the cab roof. It turned the falling snow orange and then gave it back. Up the hill behind him the sign read ETTLE LANES, the way it had for seven years.
 
 He rapped on the driver's window. Hollis cranked it down an inch.
 
@@ -22,7 +22,7 @@ From his chest pocket he took a little green notebook, the waterproof kind, and 
 
 "Hose?" Ray said.
 
-"Angle ram hose, left side." Hollis kicked the blade with the side of his boot. "I told the man at the parts counter in Laconia, that's the original hose, and he said they're all original, Hollis, and sold me a fitting. So I come off the top angled right and she lets go, and the blade swings and grabs, and around we go." He took off his cap to look at the blade and put it back on. "Ellen's paying me to keep her lot open on league nights. I didn't figure on doing it crossways." He looked at Ray's hands. "That shovel for me or for Ellen?"
+"Angle ram hose, left side." Hollis kicked the blade with the side of his boot. "I told the man at the parts counter in Laconia, that's the original hose, and he said they're all original, Hollis, and sold me a fitting. So I come off the top angled right and she lets go, and the blade swings and grabs, and around we go." He looked up the drive. "Ellen's paying me to keep her lot open on league nights. I didn't figure on doing it crossways." He looked at Ray's hands. "That shovel for me or for Ellen?"
 
 Ray looked down at it. He had taken it from the vestibule on the way out, and nobody had asked him for it.
 
@@ -70,7 +70,7 @@ Ellen was already walking back up the drive with the flashlight.
 
 Ellen counted the room at 9:20 on Thursday, January 7. Hollis stamped in on the vestibule mat halfway through, and she started over. Ray watched her lips move from lane 1 to lane 10 and back. He counted with her and came out where she did. Thirty-six.
 
-Every lane was lit and nobody was bowling. The Thursday league sat along the orange settees in their coats with their boots dripping salt onto the floor. Verna Tibbetts, in her lavender parka zipped to the chin, had taken the scorer's table at lane 1 and set her binder square on it.
+Every lane was lit and nobody was bowling. The Thursday league sat along the orange settees in their coats with their boots dripping salt onto the floor. Verna Tibbetts had taken the scorer's table at lane 1 and set her binder square on it.
 
 From the office came the rotary dial, going around and coming back. Ellen's voice through the half-open door was level. Thirty-six people. A heated building with food and water. Nobody hurt. "Understood. We'll stay put."
 
@@ -110,7 +110,7 @@ The Highway Department got up first. Four of them went down the settees to the c
 
 One of the Highway Department men stayed on the lane 8 settee. When he stood, he left his wallet in his pocket.
 
-"My boy's home with a sitter. She's sixteen and stuck there all night the same as I'm stuck here, and I'm paying her by the hour to watch him sleep." He didn't need the PA. "Twenty-two years I've bowled Thursdays in this building. Nobody ever charged me for a snowstorm."
+"My boy's home with a sitter. She's sixteen and stuck there all night the same as I'm stuck here, and I'm paying her by the hour to watch him sleep." He didn't need the PA. "Nineteen years I've bowled Thursdays in this building. Nobody ever charged me for a snowstorm."
 
 Ellen looked at him across the counter. "The phone is free, sir. Call the sitter."
 
@@ -166,7 +166,7 @@ He knew exactly what he would do with the building on March second. Nothing. The
 
 "On whose money?" Ellen said.
 
-"Mine." He gave the screw the rest of its turn and put the dime in his pocket. "Bank letter says so. Those people out there have bowled Thursdays in this building since before you could drive. They'll be bowling Thursdays a year from now. Pine Ridge is forty minutes up the road, and nobody there ever charged them for a snowstorm."
+"Mine." He gave the screw the rest of its turn and put the dime in his pocket. "Bank letter says so. Those people out there have bowled Thursdays in this building since before you could drive. They'll be bowling Thursdays a year from now. Pine Ridge is forty minutes off, Gil Arsenault's place up in Halsey Falls, and nobody there ever charged them for a snowstorm."
 
 Ellen looked down at the tape in her hand and kept looking at it. The door swung in against Ray's shoulder.
 
@@ -198,7 +198,7 @@ On the way down the building he touched the trophy-case glass with one knuckle. 
 
 Ellen tore a strip of masking tape off the roll in her vest, printed on it, and pressed it over the switch. HANDS IN PIT.
 
-The deck had ten spots painted on it, worn down to gray circles. Above the cushion the table hung with its jaws open. Ray took a length of two-by-four off the workbench, wedged it upright under the table rail, and leaned his whole weight on it. That left room under the table for two people sitting up on the side boards with their knees drawn in.
+The deck had ten spots painted on it, worn down to gray circles. Above the cushion the table hung where it had stopped, high and empty. Ray took a length of two-by-four off the workbench, wedged it upright under the table rail, and leaned his whole weight on it. That left room under the table for two people sitting up on the side boards with their knees drawn in.
 
 "Pins stay down between balls," Ray said. "We clear after the third. While the ball's coming, you're up on the boards with your feet up."
 
@@ -240,7 +240,7 @@ When he had his breath he rolled the pin off his knees and onto its spot.
 
 She waited.
 
-"February of '98. A Thursday. This table quit in the ninth frame of Linda's string. I came back and set her tenth by hand. Sitting right here." He touched the board under him. "That was the 187. I heard it from back here. Three balls. I could tell by the wood."
+"February of '98. A Thursday. This table quit in the ninth box of Linda's string. I came back and set her tenth by hand. Sitting right here." He touched the board under him. "That was the 187. I heard it from back here. Three balls. I could tell by the wood."
 
 This pit was the closest he had been to that night in twenty-eight years. Same ten spots, a shade grayer. He had never told anyone that he hadn't seen it, not Denise and not Danny.
 
@@ -268,7 +268,7 @@ Verna sat at the lane 1 scorer's table where she had sat down eight hours before
 
 The adding machine was dead with everything else, so Ellen ran the night down the back of a score sheet in pencil.
 
-Ray stood across the counter from her and read it upside down. Before the lights went the night had beaten any Saturday on her board. At the bottom of the sheet the season's running total said $11,800. On December 19 it had been $5,600. She drew a line under it.
+Ray stood across the counter from her and read it line by line. Before the lights went the night had beaten any Saturday on her board. At the bottom of the sheet the season's running total said $11,800. On December 19 it had been $5,600. She drew a line under it.
 
 She took the rotary phone off the office desk and stood in the doorway with it, the cord stretched as far as it went. She dialed the utility. Ray could hear the recording from where he was. Kettle Road, Ambrose. Estimated restoration Saturday evening.
 
@@ -298,7 +298,7 @@ The snow had stopped. The sky over the lake was just going gray, low and the col
 
 Hollis's truck sat where it had come to rest, drifted to the door handles on the lake side. They dug the blade out without talking much. When it was clear, Hollis laid the tape on the hood one more time.
 
-"Twenty-two. Done." He wrote it down.
+"Twenty-one. Done." He wrote it down.
 
 The town plow came along Kettle Road throwing a wave off its wing. The driver lifted two fingers off the wheel going by, and Hollis lifted two back.
 
@@ -320,15 +320,6 @@ Hollis climbed in and the engine caught. He backed the truck off the bank of sno
 
 Hollis leaned out the window. "You going home now?"
 
----
 ## Edit log
-- Contrast construction: "Staying is free. Bowling is what I charge for." / "If it were yours tonight," she said → cut the restated line (it repeated "Sleeping is free / Bowling costs what bowling costs") and merged into one beat: "She spoke slower now, and quieter, and he had to lean in. "If it were yours tonight, what would you do?"" Her slowing down and quieter delivery are kept.
-- Filler: "There was a sheet cake in the break room." → "The break room had a sheet cake."
-- Repeated phrase: "Out front a breaker snapped over" (second "Out front" within two lines) → "At the panel by the shoe rack a breaker snapped over."
-- Tidy line cut: "He didn't say it twice." (after "It's my pit.")
-- Tidy ending, Scene 1: "Hollis went on telling Ray about the narrows." cut; scene now ends on Ellen already walking away.
-- Tidy ending, Scene 2: Verna's "The chair will be here at six, Mrs. Daly." cut; scene ends on "Verna was already writing."
-- Clarity: final line was attributed ambiguously ("He leaned out the window") → "Hollis leaned out the window." Chapter still ends on the unanswered "You going home now?"
-- Kept as triage required: Ray winning the office argument with Ellen silent after "On whose money?"; Highway Department bowler's pushback; Hollis's hose ramble; Verna's long ruling; two fella stories; ATC phrases ("ground stop," "Traffic, twelve o'clock, one mile"); $5,600, $11,800, $2,640, March 31; marble cake; 187 story; the Denise coffee skepticism line.
-- Checked and left alone: forbidden-phrase sweep found no hits; no em dashes; "ETTLE LANES" appears once; Ray's key ring does not appear; Ellen's ATC phrases within cap.
-- Flag (no change made): "You paid for machines" and "Sleeping is free" repeat the Ellen/Ray charging argument in two scenes. This is intentional, but the cold reader may call it redundant. Word count is about 3,455, within 3% of the draft.
+
+- Second draft (Oct 27): external-review revision; see reviews/2026-10-27-external/. Draft-1 final archived as final-draft1.md.
