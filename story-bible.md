@@ -10,6 +10,7 @@
 4. Ellen lives in a rented winterized camp on the lake.
 5. Clean rules stand as written: four kisses at most, no swearing, and "Cripes" and "Jeez" are banned.
 6. Facts marked **Confirm** in the research notes get checked before drafting the chapter that uses them.
+7. **Post-review changes (approved Oct 26):** the book is 10 chapters. Ray has no square in the pool on Ellen's failure date, never enters the building uninvited, and stands beside Ellen when the teams walk out in Ch 07. Ellen's promise in Ch 03 is conditional. Ellen asks Ray to share the position before the outcome is known. The ending includes a clear declaration and a kiss. The Ch 06 boiler fails from age, not cold. The outline is authoritative for these beats.
 
 ---
 
@@ -30,7 +31,7 @@ Dry, warm, brisk.
 - Not a villain story. Nobody is a villain: not Ray, not Arlene, not the bank, not the league, not Kate. The conflict comes from two people who each want something reasonable for the same building.
 
 **Target prose register:**
-Close third person, past tense, one POV per section (odd chapters Ellen, even chapters Ray; exceptions as in the outline). Short-to-mid sentences with an occasional long one for momentum. Comedy comes from precision, juxtaposition, and understatement, not from exclamation, slapstick narration, or characters laughing at their own jokes. Dialogue carries at least half of every scene. Metaphors come from the POV character's world: Ellen thinks in sequences, intervals, headings, and numbers. Ray thinks in tolerances, wear, grain, and weather. One figure of speech per paragraph at most, and many paragraphs have none. Enter scenes late and leave early. Never summarize the previous chapter at the top of a new one. Specific nouns beat adjectives: "a 1979 Bowl-Mor table" rather than "an old machine."
+Close third person, past tense, one POV per section (alternating Ellen and Ray; the outline's POV plan is authoritative). Short-to-mid sentences with an occasional long one for momentum. Comedy comes from precision, juxtaposition, and understatement, not from exclamation, slapstick narration, or characters laughing at their own jokes. Dialogue carries at least half of every scene. Metaphors come from the POV character's world: Ellen thinks in sequences, intervals, headings, and numbers. Ray thinks in tolerances, wear, grain, and weather. One figure of speech per paragraph at most, and many paragraphs have none. Enter scenes late and leave early. Never summarize the previous chapter at the top of a new one. Specific nouns beat adjectives: "a 1979 Bowl-Mor table" rather than "an old machine."
 
 ---
 
@@ -93,7 +94,7 @@ Close third person, past tense, one POV per section (odd chapters Ellen, even ch
 ### Denise Lavoie
 
 - **Age, appearance:** 61. Small and wiry, with a dark-dyed pixie cut that's growing out. Cat-eye readers. A red Kettle Lanes polo from 2011, faded pink at the shoulders. In Ch 06 she bowls in a hat with earflaps.
-- **Background:** Has worked the Kettle Lanes counter for 22 years, since 2004 (the same year the league's lineage was frozen; she knows why and has never said). Divorced from Roger, who remarried a dental hygienist in Laconia; she is entirely over it and enjoys proving so. Best woman bowler in town. Her team has finished second in the championship four times, twice to Linda's team. She holds the hardware-store pool sheet on Ellen. **Book 2 lead.** Seed only: one exchange with Gil Arsenault in Ch 08.
+- **Background:** Has worked the Kettle Lanes counter for 22 years, since 2004. Divorced from Roger, who remarried a dental hygienist in Laconia; she is entirely over it and enjoys proving so. Best woman bowler in town. Her team has finished second in the championship four times, twice to Linda's team. She holds the hardware-store pool sheet on Ellen. **Book 2 lead.** Seed only: one exchange with Gil Arsenault in Ch 08.
 - **Wound:** Twenty-two years of being the most competent person in a building she doesn't own, for an owner who never asked her opinion. Always second.
 - **Want:** To win the Linda Gagnon trophy before her knees give out.
 - **Need:** To be asked. Ellen is the first owner who asks her anything, and Denise's skepticism dissolves the moment Ellen takes one of her suggestions and gives her the credit.
@@ -213,12 +214,11 @@ Close third person, past tense, one POV per section (odd chapters Ellen, even ch
 
 ---
 
-### Other walk-on names (no speaking weight; use only if needed)
+### Walk-ons (no speaking weight; keep unnamed on the page unless a name is needed)
 
 - **Frances Leclerc:** Arlene's lawyer, Main Street. Notarizes Ray's release in Ch 08.
-- **Paul Bolduc:** anchor of the two defecting teams. Ray's opponent in the side match at Pine Ridge.
-- **Captain Doug Rennick:** regional-airline captain and party dad in Ch 05.
-- **The counter regulars at the hardware store ("the Bench"):** Normie Dube, Russ Kimball, and Teddy Paquette. They call the Ch 02 standoff like a broadcast.
+- **The defecting teams' anchor** (unnamed on the page; "the 112 average"): Ray's opponent in the side match at Pine Ridge.
+- **The counter regulars at the hardware store ("the Bench"):** three retired men who call the Ch 02 standoff like a broadcast. Refer to them as a group; name at most one (Normie) on the page.
 
 ---
 
@@ -229,7 +229,7 @@ Close third person, past tense, one POV per section (odd chapters Ellen, even ch
 - **Ellen → Denise:** First an obstacle with a crossword, then her best adviser. Ellen earns her by acting on what Denise says and saying so in front of people.
 - **Denise → Ellen:** "Another owner who'll never ask me anything." Until Ellen asks. After that, fiercely loyal and still sarcastic.
 - **Ray → Denise:** Old friends. She was Linda's rival and friend, and she's the only person who teases him about Linda without his flinching.
-- **Denise → Ray:** She holds the pool sheet with his square on it, and she's been waiting six years for him to want something new.
+- **Denise → Ray:** She holds the pool sheet (he refused to buy a square, which she respects), and she's been waiting six years for him to want something new.
 - **Ray → Hollis:** Best friends since grade school. Hollis asks the questions Ray won't ask himself.
 - **Hollis → Ellen:** He treats her like a well-run operation: high praise, delivered as questions. He's the first in town to take her side, because her derby plan has contingencies.
 - **Ellen → Hollis:** A fellow safety professional. They understand each other in a few words, which makes Ray jealous for a reason he can't name.
@@ -325,14 +325,14 @@ A town in its off-season, keeping itself going. Summer cottages shuttered with p
 3. **The calendar is fixed** (see outline). Dec 1 is a Tuesday, Feb 27 a Saturday, March 1 a Monday. League nights are Tuesdays and Thursdays. Christmas is off the page.
 4. **The league:** the Kettle Lanes Winter League, sanctioned under the state candlepin association and ICBA. It bowls in two divisions, Tuesday and Thursday nights, about 40 bowlers each (ten teams of four, plus substitutes), three strings per bowler, two teams per lane pair. Verna Tibbetts is secretary; Ray is the coach and unofficial commissioner. The championship (the Linda Gagnon Memorial) has traditionally been held on the last Saturday of February, with the top teams from both divisions on all ten lanes.
 5. **Candlepin rules are real** (see Research notes). No one bowls 300. Nobody beats 245.
-6. **Weather behaves like Lakes Region weather.** Nor'easters, −20°F cold snaps, and February storms are all normal. When the power goes out, the oil boiler goes out too (it needs electricity for the burner and circulator), so the building starts cooling.
+6. **Weather behaves like Lakes Region weather.** Nor'easters and February storms are normal. The book uses exactly two weather crises: the Ch 04 nor'easter and the Ch 09 storm. Cold is texture, never a third crisis. When the power goes out, the oil boiler goes out too (it needs electricity for the burner and circulator), so the building starts cooling.
 7. **No secrets carried for more than a chapter.** Ellen tells Ray about the ledger at the start of Ch 06. The reader sees Ray's release in Ch 08, and Ellen learns of it in Ch 09.
 8. **Nobody dies, falls ill, or has an accident to move the plot.** Linda's death is six years past and stays there.
 9. **No villain.** The two teams who quit are hurt, not wicked. Gil is fair. The bank is the bank.
 
 **Clean rules (binding):**
 - **Closed door, and more.** Ellen and Ray never spend a night together, on or off the page, and nothing implies they do. The Ch 04 overnight is chaperoned by the 31 stranded bowlers and the story should make that plain and funny. Nobody goes into a bedroom together.
-- **Kisses only.** No more than four on-page kisses in the book: first kiss (Ch 05), at most one more before the break, the reconciliation (Ch 09), and optionally one in the coda. Describe them through context and consequence (mittens, the neon buzz, who speaks first), not through mouths, tongues, bodies pressed together, or heat. One embrace per kiss scene at most. No lingering descriptions of bodies; physical attraction is noticing hands, competence, a laugh.
+- **Kisses only.** No more than four on-page kisses in the book: first kiss (Ch 05), the second at 3 a.m. waiting for the technician (Ch 06), the declaration (Ch 10), and optionally one in the coda. The outline's romance-beats table is authoritative. Describe them through context and consequence (mittens, the neon buzz, who speaks first), not through mouths, tongues, bodies pressed together, or heat. One embrace per kiss scene at most. No lingering descriptions of bodies; physical attraction is noticing hands, competence, a laugh.
 - **No innuendo** beyond the gentlest double meaning that a 75-year-old church reader would smile at. No "pins" or "balls" jokes. Check every bowling sentence for accidental double meanings.
 - **No swearing at all.** No "damn," "hell," "crap," or "God" or "Lord" or "Jesus" used as exclamations (including "Oh my God," "Lord knows," "Jeez," "Geez," "Cripes," and "Jeezum crow"). No censored swears ("f—"), and no "she swore" or "he cursed under his breath."
   - **Ellen's substitutes:** understatement and procedure. "Well. That's suboptimal." "Unable." "Negative." In real extremity: "Oh, for crying out loud." She says "Good grief" only when someone else has already said it.
@@ -453,7 +453,7 @@ Arlene never booked Ray's labor, so her ledgers understated the loss by about $1
 | NH meals and rooms tax 8.5% | Verified (rate cut from 9% in 2021) | [Kintsugi NH tax guide 2026](https://trykintsugi.com/sales-tax-guides/usa/new-hampshire). Snack bar collects it |
 | NH oil-heat technicians: the state's certification is voluntary | Verified (rule title) | [Saf-C 4900, Voluntary Certification of Oil Heating Technicians](https://gc.nh.gov/rules/state_agencies/saf-c4900.html). **Fix:** Ellen hires "a certified oil-heat technician." Don't say the license is legally required |
 | Commercial oil boiler replacement cost | Supports raising to ~$24,500 | [Oxmaint 2026 commercial boiler cost guide](https://oxmaint.com/industries/hvac/boiler-replacement-cost-2026-commercial-pricing-btu-fuel-efficiency) |
-| −20°F cold snaps in the Lakes Region in late January | Verified (general climate) | Normal. The boiler cracking under that load is plausible for an old cast-iron unit |
+| Old cast-iron oil boilers can crack from age and thermal stress | Verified (general) | Ch 06: it fails from age on an ordinary January night, not in a cold snap (author decision: two weather crises only) |
 | Power cut stops an oil boiler (burner and circulator are electric) | Verified (general) | Use in Ch 04: the building cools through the night, which is why everyone sleeps in parkas |
 | Exit and emergency lights run on battery for about 90 minutes | Plausible (general code) | Ch 04: the exit signs glow, then flashlights |
 | Presidents' Day Feb 15, 2027; **Massachusetts February vacation Feb 15–19** | Verified (date); MA vacation is Presidents' week | [OfficeHolidays](https://www.officeholidays.com/holidays/usa/massachusetts/presidents-day). Massachusetts families with lake houses come up that week, which fits Ch 08 |
