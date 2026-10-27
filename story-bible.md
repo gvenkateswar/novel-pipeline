@@ -197,7 +197,7 @@ Close third person, past tense, one POV per section (alternating Ellen and Ray; 
 - **Behavior:** Welcomes the defecting teams warmly and is happy to see Kettle Lanes struggle, though he'd never say it. He referees the side match scrupulously because his reputation matters more to him than two teams. He compliments Denise's spare conversions instead of anything about her appearance, and she notices.
 - **Speech:** Smooth, formal, a salesman's warmth with real manners under it.
 - **Sample lines:**
-  - "House rules, Ray. Three strings, total pins, my lane, my balls. You'll forgive the ball."
+  - "House rules, Ray. Three strings, total pins, my lanes, my house balls. You'll forgive the house balls; they're older than you."
   - "Mrs. Lavoie. I watched you pick up a four-horse with your third ball in 2015. I still think about it."
   - "Nobody's stealing anyone. They drove here. I just kept the lights on."
 
