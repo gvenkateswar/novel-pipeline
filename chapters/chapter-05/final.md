@@ -28,7 +28,7 @@ She climbed to the rock below him and looked up at the house. The drive ran from
 
 "Only road out," she said. "If I wanted someone in this house, I'd wait at the end of that."
 
-He looked at the drive the way he'd looked at Russ's hands on the tailgate. "Whitcomb walked this Saturday."
+He looked at the drive the way he'd looked at Russ's hands on the tailgate. "Your constable walked this Saturday. Whitcomb."
 
 "At low water, in daylight, with a constable's reason. Nobody sets a watch on the bar, and nobody tries it on a flood." She turned him by the sleeve toward the head of the cove. A shingled shed sat up on granite blocks above the wrack line, buoys hung under the eave, the paint gone pale. "That's the fish house. The one I pay taxes on."
 
@@ -54,7 +54,7 @@ Dane watched from the mudroom doorway without a word. He went away and came back
 
 Then he went back to the kitchen.
 
-On Friday he'd have kept his things on his own side of any room. She looked at the two piles longer than she needed to.
+On Friday he'd have kept his things on his own side of any room. She looked at the two piles, then at the door.
 
 They ate canned chowder heated on the propane range, standing at the counter until he carried his bowl to the sheeted dining table. He sat with his back to the wall and his right side clear. She took the other chair without being asked.
 
@@ -178,7 +178,7 @@ She pulled his head up and kissed him so she'd stop thinking it. A gust came dow
 
 "Yes." She covered his hand with her own and pushed it down. "That's the answer. Don't make me give it twice."
 
-He didn't. His fingers found her clit, and she was wet, and his calluses caught on her and she made a sound she'd never heard from herself. Wind worked in the shingles. He watched her face the whole time, the way he watched people's hands.
+He didn't. His fingers found her clit, and she was wet, and his calluses caught on her and she said his name, once, like a complaint. Wind worked in the shingles. He watched her face the whole time, the way he watched people's hands.
 
 Once he looked past her at the workbench. At the gun. Then back at her, and he stayed.
 
