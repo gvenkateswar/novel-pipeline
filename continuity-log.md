@@ -58,23 +58,58 @@ After each new entry, also update the Master Continuity Flags section at the bot
 
 ---
 
+## Chapter 02: Right of First Refusal
+
+**What happened:** Wednesday, Dec 2, at the store. Ray cuts a plow driver's key while the Bench (Normie and two others) narrates. The pool sheet hangs behind the register: DEC 1 and MARCH 1 are empty, and Normie offers Ray the March 1 square, which he declines. At 7:30 Ellen comes in for salt (Kettle Lanes account, her cell number added) and plays the lane 7 video. Ray diagnoses a slipping clutch with a glazed facing; Bowl-Mor clutches aren't made anymore. He tells her to keep the breaker off and that a spare hangs on a nail in her pit (third from left, his tape, salvaged in 2011). She writes it on a card instead of reading it back.
+
+At 8 a.m. Ray rekeys all three doors (two Schlage five-pin; the old Corbin bulkhead is replaced with a new cylinder) and hands her 3 rings of 3 keys. His old key with the orange tag no longer turns. Kneeling at the front door, he offers to buy her out at exactly what she paid and take over Arlene's note. Kate calls mid-offer. Ellen refuses ("Unable"): a federal statute ended her career, this is the first thing she's chosen, and she won't sell on day two. Ray: "Then I'll see you March first."
+
+That evening at the store, Ray tells Danny a "Fella I knew in Tilton" story (the neighbor's furnace, shared wall). He texts Ellen asking to fix lane 7 for Thursday league, and she replies "2100. Back door. I'll unlock it." At 9 p.m. she lets him in and leaves; she doesn't give him a key. He finds the M slot empty in the card file, touches the trophy glass, replaces the clutch, and tests it (seven-second cycles). He leaves the old clutch on her desk tagged in her strip format: "07 / 2340 / MX / 1 / CLUTCH — SLIPPING. REPLACED." Thursday, 6:05 a.m.: she texts a photo with her added line "REMARKS: INVOICE TO E. DALY." Ray replies, "I didn't fix it for you. Thursday league's got a match."
+
+**What changed:** Lane 7 works. Ellen has refused the buyout, which ends Act 1. Ray has helped her with her knowledge and at her invitation. A billing relationship is implied but not agreed.
+
+**Who knows what:**
+- Ellen: the clutch diagnosis; that Ray fixed lane 7; that he still won't buy a pool square (implied).
+- Ray: Ellen's age, her retirement story, that Kate calls every morning after her shift, Ellen's cell number.
+- Danny: Ray is "a yes." The Bench knows about the offer, but not the refusal.
+
+**Objects / details introduced:**
+- Ray's bank commitment letter on an SBA loan, kept folded behind his driver's license and dated 8 days after Arlene's handshake.
+- The pool sheet behind the store register, with extra rows added and a pen in the cup.
+- Ledoux Plowing's account.
+- The Thursday league includes the Highway Department and the Lakeview Diner (on lane 7 this week).
+- The old Corbin cylinder, now gone.
+- The new keys: 3 rings of 3, front/back/bulkhead. Graphite in the bulkhead.
+- Ray's old orange-tag key, which opens nothing.
+- The salvaged spare clutch, now installed. The old clutch is tagged on Ellen's desk.
+- Linda's ball is in locker 14. The orange settees.
+- The stool with the cracked green cushion beside Ray's at the store (Linda's).
+- The steel door by lane 10 sticks.
+- Ellen's car starts on the second try.
+
+**Ends on:** Thursday, Dec 3, about 6:10 a.m. Ray at the store, cutting a key, having sent "Thursday league's got a match."
+
+---
+
 ## Master Continuity Flags
 
 **Timeline:**
 - Tue Dec 1: Ellen's first day; deed recorded 9:40 a.m.; lane 7 dies 8:11 p.m.
-- Wed Dec 2, 8 a.m.: rekey booked with Gagnon & Son.
+- Wed Dec 2: 7:30 Ellen at store; 8 a.m. rekey + buyout refused; 9 p.m. Ray repairs lane 7 (done 11:40 p.m.).
+- Thu Dec 3, 6:05 a.m.: Ellen's photo text; Ray's reply.
 
 **Character states at end of most recent chapter:**
-- Ellen: owner for one day, money down on night one, hasn't bowled again, knows the town is betting on her.
-- Ray: still holds Arlene's key until the 8 a.m. rekey; refused to fix lane 7; has no square in the pool; waited until her car started.
+- Ellen: refused the buyout; has 9 new keys; knows Ray fixed lane 7; added INVOICE TO E. DALY.
+- Ray: rekeyed out; his old key opens nothing; buyout refused; fixed lane 7 at her invitation; billing unresolved; still no pool square.
 - Denise: skeptical, watching; she's the one who showed Ellen the pool.
 - Hollis: friendly; he set up the ceremonial ball.
 - Verna: noted the refund in the minutes.
 
 **Open threads (planted details needing payoff):**
-- Lane 7's failure (Ellen has video) → Ch 02 diagnosis and repair.
-- The rekey and Ray's key → Ch 02 rekey, Ch 03 key deal, Ch 09 return.
-- The empty March 1 square and why Ray won't buy one → Ch 02 (his register).
+- Invoicing Ray's repairs → Ch 03 per-call deal.
+- Ray's key: rekeyed out (Ch 02) → Ch 03 key deal (she gives him one, visits logged) → Ch 09 return.
+- The empty March 1 square (Ray declined it on page, Ch 02) → coda payoff with the "wedding date" square.
+- Linda's ball in locker 14 → Ch 08.
 - Linda's trophy and the house record → Ch 04, Ch 08, Ch 09.
 - The dead K in the sign → Ch 10 coda.
 - Lane 3's dead spot → optional.
