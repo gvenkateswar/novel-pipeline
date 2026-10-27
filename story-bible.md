@@ -334,6 +334,8 @@ A town in its off-season, keeping itself going. Summer cottages shuttered with p
 12. **Vary scene endings.** No more than half the scenes in a chapter end on a quip or a punchline. The others end on an image, an action, a silence, or an unanswered question.
 13. **Distinct voices.** Dry deadpan belongs to Ellen and Ray. Denise is talky and salty, Hollis asks questions and measures things, Danny is quick and transactional, Verna is formal and procedural, Arlene is blunt. If you could swap two speakers' lines without noticing, rewrite one of them.
 14. **No convenient coincidences.** When chance helps or hurts the leads, a character must have arranged it. Example: Hollis puts Ellen on lane 5 for the ceremonial ball because Ray is on 6, on purpose.
+15. **Every chapter moves the stakes on the page (added after the Ch 02 cold read).** Each chapter must visibly change the money, the deadline, or the town's opinion, in a scene, not in narration. Every scene needs a comic beat somewhere in its middle, not only at the end. Quiet, sad stretches run no longer than a page.
+16. **Don't explain what a scene has shown.** Never end a scene or a paragraph with a line that states its meaning ("A man who meant to buy a building didn't…"). Trust the reader.
 
 **Clean rules (binding):**
 - **Closed door, and more.** Ellen and Ray never spend a night together, on or off the page, and nothing implies they do. The Ch 04 overnight is chaperoned by the 31 stranded bowlers and the story should make that plain and funny. Nobody goes into a bedroom together.

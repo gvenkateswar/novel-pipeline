@@ -6,7 +6,7 @@ The plow driver on the other side of the counter had snow in his eyebrows and ha
 
 "Clean through the third cut," said Normie, from his stool by the coffee pot. "No chatter. That's a veteran move, folks."
 
-"He's slowing down on the tip," said the one beside him.
+"He's slowing down on the tip," said Russ, beside him, in the Carhartt with the sleeves gone white at the cuffs.
 
 "He's always slowed down on the tip. That's style."
 
@@ -28,7 +28,7 @@ Danny came back, saw the box open, and went to the coffee pot without saying any
 
 Behind the register, at the height of a man's eyes, the pool sheet was tacked to the paneling with four pushpins. KETTLE LANES. NEW OWNER. HOW LONG? Somebody had added two more rows along the bottom in a different marker when the first ones filled. The first square, DEC 1, was empty, and nobody was going to buy it now. Nearly every square after it held initials. The last, down in the right-hand corner, was empty. MARCH 1.
 
-The bank's commitment letter on an SBA loan was folded in quarters behind his driver's license. Its date fell eight days after Arlene shook Ellen Daly's hand at her kitchen table. He knew the date without unfolding it. He still knew Linda's average, too. Paper carried like that wore through at the folds. He had carried it every day since anyway, the way a man keeps a part for a machine that's already been sold.
+The bank's commitment letter on an SBA loan was folded in quarters behind his driver's license. Its date fell eight days after Arlene shook Ellen Daly's hand at her kitchen table. He knew the date without unfolding it, the way he still knew his late wife Linda's average. If Ellen Daly couldn't refinance by March first, she would have to sell, and the paper Arlene had signed at closing said any sale came to him first. Paper carried like that wore through at the folds. He had carried it every day since anyway, the way a man keeps a part for a machine that's already been sold.
 
 "Last one, Ray." Normie had come up to the counter. He held the pen out across it, the one that lived in the cup by the sheet, cap end first. "Five dollars. You know the date better than anybody."
 
@@ -120,7 +120,7 @@ He sat in the lot with the engine running. At ten to eight her car pulled in bes
 
 Through the door glass the building ran away dark to the far wall. Down past the snack bar, a little gray light from the glass-block window band lay on the trophy case. Ellen came out of the office in her vest and unlocked the door from the inside, and only then did Ray pick up the kit.
 
-He did the back door first, because it was the one Arlene always did first. Schlage, five-pin, as Danny had guessed. Cylinder out, plug pushed through onto the follower so the springs stayed in their chambers, old pins tipped into the tray. New pins in from Danny's twists, one chamber at a time, until the new key lifted every stack flush with the plug. The bulkhead was the Corbin, rusted into its housing. It came out only with a punch and would not be going back in. He put Danny's new cylinder in its place, tried the key six times, and left it.
+He did the back door first, because it was the one Arlene always did first. Schlage, five-pin, as Danny had guessed. Old pins out, Danny's new ones in, until the new key lifted every stack flush. The bulkhead was the Corbin, rusted into its housing. It came out only with a punch and would not be going back in. He put Danny's new cylinder in its place, tried the key six times, and left it.
 
 The front door he saved for last. Ellen held it open with her hip and stood inside it.
 
@@ -146,7 +146,7 @@ Ray put his pin tray in order. Nothing in it had been out of order.
 
 Kate went on for some time, fast. He couldn't make out a word.
 
-"Scale of one to ten," Ellen said, "I'm a three."
+"On a scale of one to ten for reckless," Ellen said, "I'd call it a three."
 
 More.
 
@@ -158,7 +158,7 @@ She put the phone back in her vest and did not look at it again.
 
 He looked up at her then.
 
-"I worked thirty-one years," Ellen said. She said it slowly, with a space after each sentence. "I did not decide when to stop. A federal statute decided. I was fifty-six at the end of the month and I was done that day. This building is the first thing I have chosen since. I have owned it for one day. I am not going to sell it back to you on the second."
+"Mr. Gagnon." She said it slowly, with a space after each sentence. "For thirty-one years somebody else picked my days. This one I picked. I have owned it for one day. I am not going to sell it back to you on the second."
 
 He had heard her talk like this once, on the step, over the note. It made each word sound like it had been checked.
 
@@ -198,9 +198,9 @@ Danny wrote a number on the bank bag. "I asked a yes-or-no question."
 
 "About pipes." Danny started on the tens. "Part's on the nail. You're the only one who can put it on." He squared the tens. "I'll put you down as a yes."
 
-Ray pulled the tablet over, found the Kettle Lanes account, and copied her cell number into his phone. He typed, I can fix lane 7 if you want. He looked at it and deleted it. He typed, That clutch is a two hour job. He deleted that too.
+Ray pulled the tablet over, found the Kettle Lanes account, and copied her cell number into his phone. He typed with one thumb, slowly, the way he wrote a sales slip.
 
-What he sent was: Thursday league needs lane 7. I can do it tonight if you'll let me in.
+Thursday league needs lane 7. I can do it tonight if you'll let me in.
 
 He put the phone face down on the schedule. Danny counted fives.
 
@@ -272,7 +272,7 @@ From down the plumbing aisle, where he was restocking elbows out of a carton, Da
 
 Ray didn't answer either one.
 
-He looked up at the pool sheet behind the register. The squares were nearly all full, across and down. The first was empty, and so was the one in the corner. MARCH 1. The pen stood in its cup where he had left it, uncapped end down. A man who meant to buy a building didn't put five dollars on the day it came up for sale.
+He looked up at the pool sheet behind the register. The squares were nearly all full, across and down. The first was empty, and so was the one in the corner. MARCH 1. The pen stood in its cup where he had left it, uncapped end down.
 
 The bell went. A plow driver came stamping in with a key in his hand and snow on his shoulders. Ray turned from the sheet, took a blank off the board, and started the cutter.
 
