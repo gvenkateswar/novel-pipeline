@@ -110,7 +110,7 @@ Ellen opened the door with a dish towel over one shoulder and no vest.
 
 "Leave it by the boot tray. Thank you." She stood aside. "Nobody says the word ledger tonight. That includes me."
 
-The camp belonged to a family from Andover who came up in July. It was one room under a sleeping loft, with a loon clock over the stove and pencil marks up the bathroom doorframe where somebody had measured children until 2011. The owners had labeled their cupboards in marker: GLASSES. MUGS. DO NOT USE GOOD BOWLS. Under each one Ellen had added a strip of masking tape in block capitals. Under the good bowls her strip said AGREED.
+The camp belonged to a family from Andover who came up in July. It was one room under a sleeping loft, with a loon clock over the stove. The owners had labeled their cupboards in marker: GLASSES. MUGS. DO NOT USE GOOD BOWLS. Under each one Ellen had added a strip of masking tape in block capitals. Under the good bowls her strip said AGREED.
 
 A pan of American chop suey sat on the back burner.
 
@@ -124,9 +124,9 @@ She filled two plates and stayed at the counter with hers. There were two chairs
 
 "I eat standing up. Thirty-one years of eating on a break." She tipped her fork at the chairs. "Sit if you want."
 
-He brought his plate over and stood next to her. The counter had been built for a shorter family. They ate facing the window over the sink, the narrows gone gray under the last of the light and one porch lamp lit on the far shore.
+He brought his plate over and stood next to her. The counter had been built for a shorter family. They ate facing the window over the sink and the gray of the narrows.
 
-For six years he had eaten supper standing at the store counter after Danny went home, out of a pharmacy bag, and thought nobody knew. Danny had known the whole time. Now here was a woman who did it on purpose, and she had set out two plates.
+For six years he had eaten supper standing at the store counter after Danny went home, and thought nobody knew. Danny had known the whole time. Here was a woman who did it on purpose, and she had set out two plates.
 
 The cupboard marked MUGS hung a quarter inch low. He opened it, looked at the hinge, and shut it.
 
@@ -144,8 +144,6 @@ He picked his fork back up.
 
 "Ms.," he said. "You fix it every time."
 
-She finished what was on her fork first.
-
 "I was divorced twenty years ago. Nicely. I kept Daly because Kate has it." She laid the fork across her plate. "I gave back the Mrs."
 
 He thought of every time he had said Mrs. to her across a counter, and how he had meant it every time.
@@ -161,10 +159,6 @@ Ray laughed. It came out of him loud in the little kitchen, and the loon clock t
 "She'd have wanted that in writing," he said.
 
 "It's in writing."
-
-The timer on the stove went off. Ellen silenced it with one finger, took a pan of brownies out of the oven, and read the side of the box before she set the pan down.
-
-"It says twenty-eight to thirty minutes," she said. "I chose twenty-eight."
 
 At the door, with his coat on, she reached up and turned his collar down where it had folded under, and smoothed it once with the flat of her hand.
 
