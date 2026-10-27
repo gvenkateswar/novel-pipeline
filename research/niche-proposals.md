@@ -276,3 +276,19 @@ No angle in either set escapes the pattern by itself. The two angles that come c
 3. **A rescan in a non-Halloween week of Gothic, Dark, Paranormal and Monster/SF Romance.** The Oct 26 file warns that October inflates Gothic, monster and Halloween romance. If A4 and A2's short-book counts fall sharply, A2 and A4 drop. If they hold, A4 could move above A3.
 
 Smaller check: whether the three Historical Romance indie books (all under 300 ratings) are self-published. If they are, B3 is less closed than it looks, though still a 3-book sample.
+
+---
+
+## Deep check update (October 27, 2026, after review mining)
+
+The orchestrator mined 2-, 3- and 5-star Amazon reviews for six comps per angle on A1 and A3 (`research/raw/review-notes-a1.md`, `research/raw/review-notes-a3.md`), and comp-reader wrote `research/comps-angle-A1.md` and `research/comps-angle-A3.md`. What changed:
+
+**A1 — heat norm settled, and it narrows the angle.** The short books charting in Second Chances and Later in Life are plot-first betrayal dramas. Their reviewers argue about angst, grovel and forgiveness speed; none mention heat either way. The explicitly steamy over-40 second-chance books do exist (Silver Seconds, 40 and (No Longer) Fighting It) with a few hundred ratings each, spice rated by fans at about 3 of 5, and complaints about flat chemistry and poor proofreading. So the category is open, but the open-door slice of it is smaller than the counts implied. The recurring complaints across A1 comps: make-up too fast with no grovel (five reviewers); pacing sag and repetition in the long comp (five); heavy swearing (three). Heat 3 fits; heat 4 is untested. Heat alone will not sell here.
+
+**A3 — heat is native, complaints are design-fixable, length unproven.** Nobody on this shelf complains about heat being present; they complain about heat replacing plot. Recurring complaints: heroine makes senseless choices in danger (eight-plus reviewers); suspense collapses or turns absurd in the second half (three books); heat replaces plot (two books); blurb oversold the darkness or the romance payoff (three books). Every one of these is addressed by the A3 premise as written: competent heroine, fixed ten-day deadline, suspect inside the cast, honest PG-13 blurb. The open risk is unchanged: no short open-door book is charting in Romantic Suspense, and the one comp that drew "missing depth" complaints was the shortest.
+
+**Revised combined ranking:** A3 moves to first. A1 stays close second. The order is now A3, A1, A2, B1, A4, B2, B3.
+
+Reasoning: A1's remaining advantage is openness, but the openness belongs mostly to the betrayal template, which the brief and the premise reject. A3's heat level is the category norm, its reader complaints map one-to-one onto things an outline can fix, and its sales depth is the best of the neutral set. B1 (South Asian romantic suspense) inherits all of A3's findings and adds the Multicultural shelf, so it rises with A3 and sits directly behind it; the gap between A3 and B1 is only that B1 has no supply evidence at all.
+
+**Still open:** a 30,000-word opener has no charting comp on the Romantic Suspense shelf. The three-book launch plan from the section above remains the only lever the evidence supports for any angle.
