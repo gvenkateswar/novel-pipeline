@@ -18,7 +18,7 @@ The handheld on the counter clicked on channel 2.
 
 The whiteboard leaned against the settee at lanes 1 and 2. Ellen circled B in red. At the foot of every column, A through D, the line that had read MX: for a week now read MX: R.G. in her capitals. She had made that call herself on the twentieth, with Denise watching, and booked him by work order at the agreed rate.
 
-"Fryer first." Kate came out of the snack bar in scrub pants and a Kettle Lanes sweatshirt she had taken off the merchandise hook without paying. She had driven up Friday on her days off to see the thing, and her body still ran on nights. "Thermostat says three-fifty and it's running hotter. You can smell it on the basket. I turned it down to three-twenty-five, so leave it there. Second, your burn gel is from 2014. Replace it." She turned to the whiteboard. "Who's R.G.?"
+"Fryer first." Kate came out of the snack bar in scrub pants and a Kettle Lanes sweatshirt she had taken off the merchandise hook without paying. She had driven up Friday on her days off to see the thing, and her body still ran on nights. "Thermostat says three-fifty and it's running hotter. You can smell it on the basket. I turned it down to three-twenty-five, so leave it there." She turned to the whiteboard. "Who's R.G.?"
 
 "The mechanic."
 
@@ -44,7 +44,7 @@ Kate gave her one more second, then went to the 40-cup urn. She pulled the baske
 
 * * *
 
-At 10:40 Ellen came out of the office and counted on her way to the counter. A hundred and forty-seven, in snow boots. Coolers stood three deep at the end of lane 10. Every coat in the building was wet at the shoulders, and the floor mats had gone gray with salt. The Open's early rounds ran on all ten lanes, and the waiting list on the strip board was three cards deep.
+At 10:40 Ellen came out of the office and counted on her way to the counter. A hundred and forty-seven, in snow boots. Coolers stood three deep at the end of lane 10. The Open's early rounds ran on all ten lanes, and the waiting list on the strip board was three cards deep.
 
 The league teams were paying in for the championship round. The 112 laid his money on the counter one bill at a time.
 
@@ -230,7 +230,7 @@ Thirty-one people were left on the burnt-orange settees, coats in their laps. Th
 
 Ray unzipped the blue bag on the settee and took out Linda's ball. It was the size of every house ball in the building and darker than any of them, worn dull on one side from Linda's grip. He held it in both hands until the table came down on lane 5.
 
-His first ball ran low along the right boards and took seven. He watched the deadwood settle before he turned around. His second took two of the three left standing, and his third tipped the last one over backward into the pit. In the next box he left pins on both edges with nothing between them, cleared the left side with his second ball, and missed the right with his third by the width of a pencil. He nodded at the lane as if it had told him something he already knew. Between balls he wiped the ball on his pant leg, two strokes, the same two every time.
+His first ball ran low along the right boards and took seven. He watched the deadwood settle before he turned around. His second took two of the three left standing, and his third tipped the last one over backward into the pit. In the next box he left pins on both edges with nothing between them, cleared the left side with his second ball, and missed the right with his third by the width of a pencil. Between balls he wiped the ball on his pant leg, two strokes, the same two every time.
 
 Ellen's first ball of the final sailed past the lob line and came down twice.
 

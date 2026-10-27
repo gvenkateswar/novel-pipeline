@@ -236,13 +236,13 @@ Danny set the tablet down on the counter and kept his hand on it.
 
 "Some."
 
-"Call first. I'm moving things. The bolt bins go to the back wall, and the plow parts come up front where a man can find them at five in the morning. I've had it drawn up since 2023."
+"Call first. I'm moving things. The bolt bins go to the back wall, and the plow parts come up front. I've had it drawn up since 2023."
 
 Ray looked down the first aisle. His father had built those bins out of pine the year the store opened, and the lids had a dip worn in each one where sixty years of hands had reached in.
 
 "Your grandfather built those."
 
-"I know who built them, Dad. They're coming with us. Twelve feet."
+"I know who built them, Dad. They're moving twelve feet."
 
 Ray opened his mouth and shut it again. He reached for the box of hinge screws, and Danny slid it out of his reach along the counter.
 
@@ -268,7 +268,7 @@ At 7:15 on a Saturday the doors were still locked, and there were three of them 
 
 The whiteboard leaned against the burnt-orange settee at lanes 1 and 2, four plans in red marker, A through D, for ice, storm, closed roads, and no power. D was the shortest column. Everybody in the room had been here on the seventh of January.
 
-Across the top row of the strip board hung five strips in her capitals, one for each weekday of school vacation week, Monday the twenty-second through Friday the twenty-sixth. Each read 1200–1700 / VAC WK / ALL LANES / SOLD. In December Judy had asked what she had booked against that week, and she had said nothing yet. She had built it herself since then: kids' afternoons, family strings by the hour, and a block for the derby families, who would be in town that week whatever the ice did. She had sold it at the pharmacy counter and on the derby's phone tree, and every family had paid ahead.
+Across the top row of the strip board hung five strips in her capitals, one for each weekday of school vacation week. Each read 1200–1700 / VAC WK / ALL LANES / SOLD. In December Judy had asked what she had booked against that week, and she had said nothing yet. She had built it herself since then: kids' afternoons, family strings by the hour, and a block for the derby families. She had sold it on the derby's phone tree, and every family had paid ahead.
 
 Behind the register the pace sheet carried every dollar of it and still said what it had said all week. A thousand dollars short on Judy's first line. Twelve hundred and fifty short on her second.
 
