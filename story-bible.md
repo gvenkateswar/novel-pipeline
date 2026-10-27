@@ -344,6 +344,43 @@ A town in its off-season, keeping itself going. Summer cottages shuttered with p
 22. **The book raises its voice (added after the Ch 06 cold read).** The big confrontations (Ch 06 store, Ch 07 teams walking out, Ch 09 storm day) need at least one moment where someone loses their composure: a raised voice, a line they can't take back. Keep the clean rules, no swearing. Machine similes for Ray ("the way he'd feel a belt for glazing") are capped at one per chapter. Never repeat a kiss sentence from an earlier chapter, and never let a kiss be forgotten in the next scene. Big wins come from something a character did earlier, never from luck in the moment (see rule 14).
 23. **The climax belongs to Ellen (added after the Ch 08 cold read).** In Ch 09–10 the decisive moves are Ellen's own, and at least one of them costs her something she can feel. Ray's earlier gestures (the release, the teams) make the ending possible, but they never settle it, and she doesn't learn of them as a reward at the finish line. Asking Ray for help (the D-side ask) is her move and must look hard for her. The numbers don't land by a cute margin like fifty dollars, and the plans on the whiteboard are not ticked off in order like a checklist: the storm forces a choice none of them covered.
 
+### Second-draft fact corrections (Oct 27, from the external reviews; see reviews/2026-10-27-external/synthesis.md)
+- **Ellen's age is 58, and the page must say so once.** Do it in Ch 01: two years into a retirement she didn't choose.
+- **The purchase right works as described in "Why the default gives Ray the alley."** If Ellen can't refinance, she has to sell, and Ray can match any offer she accepts. He has financing, so he's the likely buyer. Never write that the building "goes to him" automatically.
+- **The derby owns its raffle, all of it.** Kettle Lanes earns an agreed **venue fee** from the derby for hosting the indoor events (set at the bob-house in Ch 06), plus ordinary bowling and food sales. Raffle money passes through HELD and goes to the derby. The Ch 09 totals don't change: the venue fee sits inside the OPEN line.
+- **The bank's cash test is set in Ch 03:** $25,000 on deposit on Feb 28, *or* receipts taken by then and documented by register reports and a deposit slip. Ch 10's question is whether the safe receipts are verifiable. Ellen proves it herself, in the room.
+- **The covenant after closing:** $25,000 at closing, plus monthly cash reports to Judy against a seasonal budget through next February. There is no year-long minimum balance.
+- **NH school vacation week (Feb 22–26):** Judy mentions it in Ch 03 ("What have you got booked against it?" "Nothing yet."). In Ch 08 Ellen builds and sells a vacation-week daytime package, and that's her decision. The $3,900 on the Ch 09 tape comes from it.
+- **League money:** teams pay a season sanction or entry fee in September, and lineage is paid weekly at the counter. A team that leaves forfeits nothing it hasn't bowled. The Legion captain prepaid his lineage through April, so Ellen refunds his unused weeks when the Legion leaves (one line, Ch 07).
+- **Tuesday after Ch 07:** eight teams on eight lanes, with lanes 9 and 10 dark until the teams return (Ch 08).
+- **Denise anchors the Lakeview Diner** in the Thursday league and bowls when the counter allows. Plant this in Ch 01 or Ch 02.
+- **Names are planted early:** Hollis *Pike* (Ch 01); Gil *Arsenault* of Pine Ridge Lanes in *Halsey Falls* (Ch 04, where Pine Ridge is first named).
+- **Candlepin terms:**
+  - A turn is a **box** ("frame" is tenpin; at most an outsider's word). A game is a **string**.
+  - A lob is **called by an official** (Verna, Hollis, or the scorer); it isn't signaled by the foul light.
+  - The pinsetter **sets** or **resets**. Never "respot," never "jaws."
+  - A spread eagle is two separated side groups. It is never a cluster at the back.
+  - Three balls that clear all ten is a **ten box**, not a spare.
+  - A tenth-box strike gets its fill balls.
+- **ATC:** the 2 a.m. incident happened *during* a midnight shift, not at its end.
+
+### Tic budget (whole book, second draft)
+- **Ellen counting the room:** 8 or fewer in the whole book.
+- **Denise and the crossword:** 8 or fewer.
+- **The sign buzzing:** 3 or fewer.
+- **Hollis's cap:** 4 or fewer.
+- **"I'm aware":** 3 or fewer.
+- **"Upside down":** 2 or fewer.
+- **"Without looking" and "didn't look up":** 4 or fewer.
+- **Verna's full costume** ("lavender parka zipped to the chin"): once.
+- **The number 22:**
+  - It stays only for Denise's years at the counter.
+  - The Highway Department captain's years become 19.
+  - Hollis's derbies become 26.
+  - Storm night's snow total becomes 21 inches.
+- **"Mrs. Daly":** Ch 01 (corrected), once in anger in Ch 04, and the Ch 10 tease, which both of them must plainly enjoy.
+- **"The wood stays on the lane":** spoken in Ch 03 and by Ellen in Ch 09. Ray's Ch 08 echo becomes a physical action only.
+
 **Clean rules (binding):**
 - **Closed door, and more.** Ellen and Ray never spend a night together, on or off the page, and nothing implies they do. The Ch 04 overnight is chaperoned by the 31 stranded bowlers and the story should make that plain and funny. Nobody goes into a bedroom together.
 - **Kisses only.** No more than four on-page kisses in the book: first kiss (Ch 05), the second at 3 a.m. waiting for the technician (Ch 06), the declaration (Ch 10), and optionally one in the coda. The outline's romance-beats table is authoritative. Describe them through context and consequence (mittens, the neon buzz, who speaks first), not through mouths, tongues, bodies pressed together, or heat. One embrace per kiss scene at most. No lingering descriptions of bodies; physical attraction is noticing hands, competence, a laugh.
@@ -414,7 +451,7 @@ Arlene never booked Ray's labor, so her ledgers understated the loss by about $1
 | 09 | Feb 28 | **$30,850** | Final | **$25,600** | Final | Storm-day Open, derby indoor events, NH vacation week (Feb 22–26 in many districts) |
 
 **Writing notes on money:**
-- Cash on hand for the bank must exclude money Ellen is only holding: **NH meals tax** collected at the snack bar (8.5%, remitted monthly), the leagues' prize-fund money, and the derby's half of the raffle. Ellen keeps all three in a separate account from day one, and Judy notices and approves in Ch 10. That's a good competence beat and it prevents a reader from "catching" the math.
+- Cash on hand for the bank must exclude money Ellen is only holding: **NH meals tax** collected at the snack bar (8.5%, remitted monthly), the leagues' prize-fund money, and the derby's raffle money (all of it; the alley earns a venue fee instead). Ellen keeps all three in a separate account from day one, and Judy notices and approves in Ch 10. That's a good competence beat and it prevents a reader from "catching" the math.
 - Prices appear on the page rarely. Two or three per chapter at most, and only when they matter to a decision.
 - Ellen takes no salary (her FERS pension covers her). Say this once, early.
 
