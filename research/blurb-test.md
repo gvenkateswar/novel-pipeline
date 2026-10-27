@@ -6,9 +6,9 @@
 
 Beth Calloway has worked the Cutter Island ferry for eleven years and never once looked at what the night crews unload. The one time she does, two men see her do it.
 
-Deputy US Marshal Cal Reyes is sent to keep her alive until she can testify. The plan is simple: one week at a safe house on the mainland. Then a November storm shuts the ferry down, the island is cut off for ten days, and the safe house becomes Beth's own cottage with a stranger sleeping on the couch.
+Deputy US Marshal Dane Reyes is sent to keep her alive until she can testify. The plan is simple: one week at a safe house on the mainland. Then a November storm shuts the ferry down, the island is cut off for ten days, and the safe house becomes Beth's own cottage with a stranger sleeping on the couch.
 
-Cal is careful, quiet, and better at reading her than anyone has been in years. He is also the only person who knew where she would be the night someone tried the back door.
+Dane is careful, quiet, and better at reading her than anyone has been in years. He is also the only person who knew where she would be the night someone tried the back door.
 
 Ten days. One way off the island. And the man she can't stop wanting may be the reason the men who want her dead keep finding her.
 

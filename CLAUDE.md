@@ -74,7 +74,7 @@ Do not act on the cold reader's notes yourself unless **autopilot mode** is on (
 
 ## Autopilot mode (ON — author instruction, Oct 26, 2026, carried over to Book 2)
 
-The author wants the book produced with as little of their input as possible. While autopilot is on:
+The author wants the book produced with as little of their input as possible. On October 27, 2026 the author approved the outline and all six open decisions (recorded at the end of `outline.md`) and asked for the full exercise to run through the manuscript read with minimal manual input. The orchestrator approves the bible draft on the author's behalf unless it conflicts with the outline, and uses original style samples written by bible-builder, as Book 1 did. While autopilot is on:
 - Run chapters back to back without asking for approval between steps or chapters.
 - After each cold read, the orchestrator triages the notes. Clear, small fixes (clarity, a missing line, voice, pacing trims) are applied directly to `final.md`. If the notes show a structural problem (a scene that doesn't work, a broken beat), run one prose-writer revision plus a voice-editor pass, then move on. At most one revision round per chapter.
 - If a fix reveals a rule that should apply to all chapters, add it to the bible's World rules.
