@@ -471,6 +471,33 @@ Saturday, Dec 19, 11:40 p.m.: Denise reads the R.G. card aloud (glow night lane 
 
 ---
 
+## Chapter 10: Ice-Out
+
+**POV:** Ellen (S1–S4), Ray (S5 coda).
+
+**What happened:**
+- **Mon Mar 1, Granite Lakes Savings Bank.** Judy checks the first circle. The February statement shows $22,140 on the 28th: Saturday's $3,460 sat in the floor safe until the 8 a.m. drive-up deposit. The underwriter reads "cash on hand" as money he can see. Ellen: "I do not have an answer for that." Judy calls him, and Ellen waits outside, counting 19 butterscotches. The question that settles it: did any of the safe money belong to someone else? The HELD account (meals tax since December; the derby's raffle half deposited on its own slip) shows not one dollar crossed over. **Approved**, with a covenant: $25,000 minimum on deposit, reported monthly, through next February. Closing at 1 p.m. at Leclerc's. Judy: "Don't celebrate until it funds."
+- **Closing at Leclerc's.** Funded at 2:11. Arlene counts the one-page wire confirmation. The 1996 ledger is returned and Ellen marks it "RETD 03/01." Ellen asks "Why me?" Arlene: "You asked me what the league paid. Nobody had asked me that since Normand." Arlene's ring now holds THE PINES 2B and the brass R.G. — 1996 key with its orange tag. Ray returned it Sunday, Feb 28: "a man shouldn't carry a key to a door it doesn't open." The Pines van takes her. "Voyons donc."
+- **The counter, afternoon.** Denise closes the pool: Dec 1 nobody; Feb 2 "They split" (somebody's joke, lined through that night); March 1 nobody. She writes NO WINNER. POT TO DERBY KIDS DIV. (It goes in HELD.) She folds the sheet with the WEDDING DATE row outside. Ray's card reads "03/01 / 1540 / LANE 07 / WAITING."
+- **The pit behind lane 7 (kiss 3, the declaration).** Ray has been waiting 15½ minutes and tightened everything loose. "You bowled Pine Ridge for my Tuesdays." / "On Gil's house ball. Chipped. I'll still invoice you."
+  - Ray's declaration: Tuesdays out front bowling with the team, supper at 5:15, he'll fix the hinges on anything she owns and log each one, "I love you."
+  - Ellen's: "At your truck I put it in the wrong order. It was you first. I wanted you before I knew whether I could carry this building. You said you'd have known it was you. I'd have spent the rest of my life running that tape, and you'd have had to watch me do it. I love you."
+  - She kisses him (her hand on his jaw; the drop light swings). Her knee pops ("It's from 2009. We don't discuss it."). Ray laughs out loud.
+- **Coda, Sat Apr 17 (Ray POV).** Ice-out was called Thursday at 6:10 by Hollis from his boat. Ellen bought Monday the 12th and missed by 2 days, 21 hours, 10 minutes. The bob-houses were off by April 1.
+  - A new strip on the board: "MX / R.G.", no end date.
+  - Linda's 187 card stays in the case ("a record was a record"). Ray now bowls Linda's ball in Tuesday league.
+  - Ellen: "Is that transformer certified?" It carries the Laconia sign shop's test tag. Ellen asks Denise for a wedding square. Denise: "Honey, you don't get to bet on your own wedding. Danny's had October since January." Ray: "You figure on asking me first, then?" Ellen: "I'd like to get the order right this time."
+  - Ray's commitment letter expired March 31. He declined an extension on April 1: "spoken for."
+  - At dusk the sign-shop electrician replaces the transformer and Ellen holds the ladder. "Counter, Gagnon. Throw the sign." / "Thrown." Ellen, in the road: "Both words."
+
+**What changed:** The refinance closed and Arlene is paid and moved. Ellen and Ray have declared their love. Ray is staff ("MX / R.G."), a Tuesday bowler, and spoken for. The K is lit. Ellen implies she will propose.
+
+**ATC phrases used:** "Negative," "Counter, Gagnon" (radio call). "Readback" is not used.
+
+**Series seeds left open:** Denise (Book 2 lead) holds the Memorial; Hollis–Judy (both fishermen); Danny's OCT square; Ellen's proposal.
+
+---
+
 ## Master Continuity Flags
 
 **Timeline:**
