@@ -76,7 +76,7 @@ Close third person, past tense, one POV per section (alternating Ellen and Ray; 
 - **Want:** To own Kettle Lanes and keep it exactly as it was.
 - **Need:** To see that a museum isn't loyalty. Linda would have entered the Open on day one. He needs to want to be asked more than he wants to own.
 - **Greatest strength / how it's also their flaw:** Steadiness and loyalty. He shows up, every time, with the right part. The flaw: he says what he feels by fixing things instead of saying it. He helps everyone and lets nothing change. He will repair a machine at midnight rather than have one honest conversation at noon.
-- **What they would never do:** Leave a machine broken on league night. Profit from someone else's mistake on purpose. Lie, even to be kind (he goes quiet instead). Speak against Ellen in public; his silence in Ch 07 is the most he will ever do. Bowl in anything but his own shoes.
+- **What they would never do:** Leave a machine broken on league night. Profit from someone else's mistake on purpose. Lie, even to be kind (he goes quiet instead). Speak against Ellen in public. In Ch 07 he disagrees with her and still walks over to stand beside her at the counter when the teams leave. Bowl in anything but his own shoes.
 - **Speech pattern:** New Hampshire understatement. Few words, and the important ones come last. He answers personal questions with a story about somebody else ("Fella I knew in Tilton..."). He asks questions he already knows the answers to. He diagnoses things by sound. He calls Ellen "Mrs. Daly" when he's irritated, which she corrects to "Ms." every time, until the day she doesn't. **No phonetic dialect** in his dialogue: no dropped g's spelled out, and "ayuh" no more than once in the whole book.
 - **Sample dialogue lines:**
   - "Not my alley. I just know where it hurts."
@@ -93,7 +93,7 @@ Close third person, past tense, one POV per section (alternating Ellen and Ray; 
 
 ### Denise Lavoie
 
-- **Age, appearance:** 61. Small and wiry, with a dark-dyed pixie cut that's growing out. Cat-eye readers. A red Kettle Lanes polo from 2011, faded pink at the shoulders. In Ch 06 she bowls in a hat with earflaps.
+- **Age, appearance:** 61. Small and wiry, with a dark-dyed pixie cut that's growing out. Cat-eye readers. A red Kettle Lanes polo from 2011, faded pink at the shoulders. In Ch 07's boiler-outage league night she bowls in a hat with earflaps.
 - **Background:** Has worked the Kettle Lanes counter for 22 years, since 2004. Divorced from Roger, who remarried a dental hygienist in Laconia; she is entirely over it and enjoys proving so. Best woman bowler in town. Her team has finished second in the championship four times, twice to Linda's team. She holds the hardware-store pool sheet on Ellen. **Book 2 lead.** Seed only: one exchange with Gil Arsenault in Ch 08.
 - **Wound:** Twenty-two years of being the most competent person in a building she doesn't own, for an owner who never asked her opinion. Always second.
 - **Want:** To win the Linda Gagnon trophy before her knees give out.
@@ -138,7 +138,7 @@ Close third person, past tense, one POV per section (alternating Ellen and Ray; 
 ### Arlene Fortier
 
 - **Age, appearance:** 84. Five feet tall and straight as a broom. White hair set every Friday. A cardigan with tissues up the sleeve and a magnifier on a chain. Moves slowly and decides fast.
-- **Background:** Bought Kettle Lanes in 1971 with her husband, Normand, who died in 1989. She ran it alone for 37 years, knowing it was slowly losing ground. She promised Ray, more than once and loosely, that he'd "get first crack." She sold to Ellen anyway. To make up for it, she made a right of first refusal for Ray a condition of the sale. She is carrying a $250,000 note with a March 1 balloon because her continuing-care community entrance fee is due when her unit opens. She is not a series lead; her thread closes when she's paid and moves (Ch 09).
+- **Background:** Bought Kettle Lanes in 1971 with her husband, Normand, who died in 1989. She ran it alone for 37 years, knowing it was slowly losing ground. She promised Ray, more than once and loosely, that he'd "get first crack." She sold to Ellen anyway. To make up for it, she made a right of first refusal for Ray a condition of the sale. She is carrying a $250,000 note with a March 1 balloon because her continuing-care community entrance fee is due when her unit opens. She is not a series lead; her thread closes when she's paid and moves (Ch 10).
 - **Wound:** She watched the alley go stale under her own hand, and she watched Ray turn into the alley's curator after Linda died. She could not bring herself to sell to either kind of standing still.
 - **Want:** Her money on March 1, a clean conscience, and the alley alive after her.
 - **Need:** To tell Ray the truth about why she chose Ellen. She does, in Ch 08.
@@ -171,7 +171,7 @@ Close third person, past tense, one POV per section (alternating Ellen and Ray; 
 ### Danny Gagnon (minor)
 
 - **Age, appearance:** 35. Shorter than Ray, built like Linda. Fleece jacket and a tablet under his arm. He has run Gagnon & Son day to day for four years.
-- **Role:** Ch 02 (the store), Ch 08 (Ray gives him the store outright).
+- **Role:** Ch 01 (by phone), Ch 02 (the store), Ch 08 (Ray gives him the store outright).
 - **Behavior:** Patient with his father in a way that's beginning to wear thin. He has quietly modernized the store (an inventory system, online orders for plow parts), and Ray keeps "checking" what Danny has already done. He wants his father to have a life that isn't the store or the alley.
 - **Speech:** Even, practical, a little dry. Talks in inventory.
 - **Sample lines:**
@@ -182,7 +182,7 @@ Close third person, past tense, one POV per section (alternating Ellen and Ray; 
 ### Judy Ostrowski (minor)
 
 - **Age, appearance:** 54. Commercial loan officer at Granite Lakes Savings Bank for 19 years. Gray bob, reading glasses on top of her head, a cardigan the color of a manila folder. She ice-fishes and has a framed photo of a lake trout in her office.
-- **Role:** Ch 03 (two circled numbers) and Ch 09 (the approval).
+- **Role:** Ch 03 (two circled numbers), Ch 09 (beside Hollis at the lane 10 weigh-in; she ice-fishes; the Book 3 seed), and Ch 10 (the approval).
 - **Behavior:** Warm and immovable. She likes Ellen and says so, then explains that her liking doesn't count. She works to the rules and tells you exactly what the rules are, which Ellen finds deeply attractive in a banker.
 - **Speech:** Plain, kind, numerical. Says "the committee" or "the underwriter" when she means "no."
 - **Sample lines:**
@@ -193,7 +193,7 @@ Close third person, past tense, one POV per section (alternating Ellen and Ray; 
 ### Gil Arsenault (minor)
 
 - **Age, appearance:** 63. Owner of Pine Ridge Lanes, forty minutes away. Widowed four years. Tall, with a good wool overcoat and a bowling glove he has no need for. Courtly, competitive, and pleased with his sixteen lanes.
-- **Role:** Ch 08 cameo, hosting the side match and making one exchange with Denise (the Book 2 seed).
+- **Role:** Ch 08 cameo, hosting the side match and making one exchange with Denise (the Book 2 seed). One line at the Open in Ch 09 when Denise wins.
 - **Behavior:** Welcomes the defecting teams warmly and is happy to see Kettle Lanes struggle, though he'd never say it. He referees the side match scrupulously because his reputation matters more to him than two teams. He compliments Denise's spare conversions instead of anything about her appearance, and she notices.
 - **Speech:** Smooth, formal, a salesman's warmth with real manners under it.
 - **Sample lines:**
@@ -400,7 +400,7 @@ Arlene never booked Ray's labor, so her ledgers understated the loss by about $1
 | 09 | Feb 28 | **$30,850** | Final | **$25,600** | Final | Storm-day Open, derby indoor events, NH vacation week (Feb 22–26 in many districts) |
 
 **Writing notes on money:**
-- Cash on hand for the bank must exclude money Ellen is only holding: **NH meals tax** collected at the snack bar (8.5%, remitted monthly), the leagues' prize-fund money, and the derby's half of the raffle. Ellen keeps all three in a separate account from day one, and Judy notices and approves in Ch 09. That's a good competence beat and it prevents a reader from "catching" the math.
+- Cash on hand for the bank must exclude money Ellen is only holding: **NH meals tax** collected at the snack bar (8.5%, remitted monthly), the leagues' prize-fund money, and the derby's half of the raffle. Ellen keeps all three in a separate account from day one, and Judy notices and approves in Ch 10. That's a good competence beat and it prevents a reader from "catching" the math.
 - Prices appear on the page rarely. Two or three per chapter at most, and only when they matter to a decision.
 - Ellen takes no salary (her FERS pension covers her). Say this once, early.
 
