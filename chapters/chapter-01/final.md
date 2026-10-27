@@ -108,7 +108,7 @@ The ramp came up empty. Ned brought them around for home, and the car deck behin
 
 ---
 
-She wrote it in pencil at the kitchen table, on the back of the ferry district's tide calendar, in order, plain as a line in the fuel log.
+She wrote it in pencil at the kitchen table, on the back of the ferry district's tide calendar, plain as a line in the fuel log.
 
 *8:40 p.m. Cutter slip. Reefer, nose to ramp. Unit off. Display dark. Box not cold.*
 
@@ -120,7 +120,7 @@ She wrote it in pencil at the kitchen table, on the back of the ferry district's
 
 *9:44 p.m. Pruett Harbor ramp.* She copied the plate off the photograph letter by letter, then the trailer number under it, then checked both against the screen, twice.
 
-The woodstove was banked low and ticking. In the front room her father's clock went on with what it did. Passing the kitchen door, she tapped the barometer with one knuckle. The needle dropped a hair and settled. A thousand. Down four since supper.
+The woodstove was banked low. In the front room her father's clock went on with what it did. Passing the kitchen door, she tapped the barometer with one knuckle. The needle dropped a hair and settled. A thousand. Down four since supper.
 
 At the window the harbor lay black except for the float, still lit. She watched it with her hands in her bib pockets. At twenty to one the light went out. A minute later the *Margaret Ann*'s deck lights slid off the float, swung, and settled on the guest mooring, dead below the house.
 
@@ -190,7 +190,7 @@ The line hissed.
 
 "I'll work it short," Ned said.
 
-That was all. She waited, with the cord wound once around her fingers, for the why. It never came.
+That was all. She stood with the cord wound once around her fingers for the why. It never came.
 
 "I'll get Kenny out of bed," he said.
 

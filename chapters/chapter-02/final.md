@@ -10,7 +10,7 @@ While the boat was still a hundred yards out he read the people at the head of t
 
 A man held a phone up at arm's length, screen to the sky, getting nothing. Two women with coffee cups had come down to see. At the head of the ramp a man in a canvas coat stood with his arms folded, and he was the one Dane would look at twice.
 
-Seven people had turned out on a November morning for one pickup, a pallet and a man in a soft-shell jacket, and he did not flatter himself that it was the pallet.
+That many people had turned out on a November morning for one pickup, a pallet and a man in a soft-shell jacket, and he did not flatter himself that it was the pallet.
 
 There was no deckhand. The ramp came down from the wheelhouse controls and rang on the transfer bridge, and the captain came down the outside ladder himself, big and slow, one hand on the rail for every rung. He threw the bow line to one of the men in orange and worked the spring alone, favoring a hip.
 
@@ -32,7 +32,7 @@ The Harbor Road climbed from the slip between a stone wall and a row of fish hou
 
 Someone stood in that window. Then the window was empty.
 
-The front door opened while he was still three steps from it. She stood in the doorway in a black watch cap, one hand on the frame, and her eyes went to his hands before they came to his face, which was what he would have done in her place and what almost nobody did. She had watched him the whole way up. He had expected someone frightened, and she looked instead like a woman who had made up her mind about him and would let him try to prove her wrong.
+The front door opened while he was still three steps from it. She stood in the doorway in a black watch cap, one hand on the frame, and her eyes went to his hands before they came to his face, which was what he would have done in her place and what almost nobody did. He had expected someone frightened, and she looked instead like a woman who had made up her mind about him and would let him try to prove her wrong.
 
 ---
 
@@ -68,21 +68,17 @@ Below the window the *North Reach* was backing out of the slip, her stern swingi
 
 "The other deputy can't be at Pruett before two forty-five, and I won't sit you in an open terminal lot for five hours with one gun." His hand, on the counter near hers, stopped on the word *lot*. Then it went on as if it hadn't. "May I use your phone?"
 
-She didn't know what the hand meant.
-
-He dialed from memory. She fed the stove a split of maple and listened to his half. "Reyes. I'm with her. Two o'clock, Pruett, two forty-five. Yes. Understood."
+He dialed from memory. She fed the stove a split of maple and listened to his half. "Reyes. I'm at the house and she's with me. We're holding for the two o'clock, and I'll want the car at Pruett at two forty-five. Yes. Understood."
 
 He hung up. She tapped the barometer. Nine ninety-two.
 
 "It won't run," she said. "Pack if you want. You'll be unpacking by two."
 
-"Why?"
+"Tell me why you think so."
 
 "Wind's backed northeast. The glass is down four since breakfast. And Ned won't put her into that slip on a falling tide with the sea building."
 
-"If the wind's backed and the glass is down that far, then the two o'clock is already dead."
-
-He didn't say she was right. "I'd like to walk the house."
+"I'll plan on the two o'clock until the captain cancels it, because that's his call to make, and I'd rather unpack a bag than need one I didn't pack." He glanced down the hall. "In the meantime I'd like to walk the house."
 
 She took him through it. Upstairs, two rooms under the eaves nobody slept in. Her own room off the downstairs hall. He looked at every window from the side, never straight on. In the mudroom he stopped.
 
@@ -94,7 +90,7 @@ He put two fingers under the latch, lifted it the little the chair allowed, and 
 
 "It sticks," she said.
 
-"I heard."
+"I heard it," he said, "and I expect the whole house does."
 
 ---
 
@@ -106,7 +102,7 @@ The woodbox was half empty and it would be dark by four. She pulled the chair ou
 
 Three armloads from under the lean-to, sleet already in the bark. She was stacking the third when he came around the house and saw the chair.
 
-"Can that stay off?" he said.
+"I'd like that chair to stay off the door, if you can live with it," he said.
 
 She straightened with a split in each hand. "Front door opens on the road. Anybody comes that way, a chair under this latch shuts us in."
 
@@ -144,7 +140,7 @@ By half past five it had been dark for more than an hour. The shades were down i
 
 At four, filling the lamp, she'd told him the rule. At six Tess ran the check-in net on 68. Miss it and Walt Grindle's fire crew was on your porch by seven, and everybody on the net heard every name.
 
-"Then I'd rather nobody heard yours," he'd said.
+"Then I'd rather your name didn't go out to everyone on the island with a radio," he'd said.
 
 "Leave it to me."
 
@@ -178,7 +174,7 @@ Channel 9 was a girl in the wheelhouse of the *Ruthie C* with the mic in both ha
 
 She hung up and stood with her hand on the phone. The front door opened and the cold came in ahead of him. He shook sleet off his shoulders onto the mat.
 
-"The shades are good from the road."
+"The shades are good from the road. I couldn't tell which room the lamp was in."
 
 "I've taken care of the check-in."
 
@@ -226,7 +222,7 @@ At eleven-forty the latch lifted.
 
 It stuck. It dropped back a hair. It lifted again.
 
-Lift and shove, one motion. A hand that knew the latch never waited between. This hand lifted and waited, lifted and waited, like someone trying a door in a house they had never been inside.
+Lift and shove was one motion to a hand that knew this latch. This hand was trying it in pieces.
 
 She didn't reach for the lamp or the flashlight. She put her feet on the cold boards and her shoulder on the wall so the floor wouldn't talk. Four steps to her door. Seven down the hall. Dane was already sitting up on the couch, boots on, his right hand off his knee and at his hip.
 

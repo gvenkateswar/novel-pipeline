@@ -12,7 +12,7 @@ The older of two deputies met Dane at the brow and read from a sheet, flat. Supe
 
 "Understood," Dane said.
 
-He handed it over in his own order, left hand tucked into his soft-shell. "The witness is aboard and unhurt. The cottage on the Harbor Road was compromised the first night, the Ashby place on Monday and the town landing on Thursday, and all three went through the same back office, which Agent Quist will want before anyone sweeps it. Two prisoners are in the crew mess. The weapon is on the car deck against the chock where it fell."
+He gave his own handover, left hand tucked into his soft-shell. "The witness is aboard and unhurt. The cottage on the Harbor Road was compromised the first night, the Ashby place on Monday and the town landing on Thursday, and all three went through the same back office, which Agent Quist will want before anyone sweeps it. Two prisoners are in the crew mess. The weapon is on the car deck against the chock where it fell."
 
 His eyes never once went to the rail.
 
@@ -22,7 +22,7 @@ He put it in the bag.
 
 "It goes to Moreau," Quist said. "All of it goes to the defense, Reyes."
 
-"I know. So does she."
+"I know it does, and so does she."
 
 Marine Patrol walked Doucette across first, stiff on the bad leg in a borrowed sweatshirt, then Arsenault, chin down in the Musto collar. The *Margaret Ann*'s second crewman already sat in the patrol boat's stern, cuffed.
 
@@ -32,7 +32,7 @@ Quist ran her thumb along the seal. Dane's hand went back to his inside pocket, 
 
 *Day 9, early afternoon*
 
-The stove ticked in the passenger cabin. Somebody had brought Tess coffee in a paper cup, and it sat on the bench beside her with a skin on it.
+The passenger cabin stove was going. Somebody had brought Tess coffee in a paper cup, and it sat on the bench beside her with a skin on it.
 
 She sat where Russ had put her, upright, in the red vest. The band on her right wrist had gone purple at the bone. Her glasses were up in her hair with no pencil in them.
 
@@ -72,7 +72,7 @@ Beth crossed the cabin and picked up the cup. She tipped it over the rail outsid
 
 Quist cuffed her in front and set the right cuff clear of the bruise, and checked it with one finger.
 
-The deputy walked her down the brow. Ned stood at the pier end with his hands in his jacket pockets, and Tess passed him with a foot of air between them. Her hands lifted against the chain, an inch toward his sleeve, and came down. His stayed where they were.
+The deputy walked her down the brow. Ned stood at the pier end with his hands in his jacket pockets, and Tess passed within reach of him. Her hands lifted against the chain, an inch toward his sleeve, and came down. His stayed where they were.
 
 ---
 
@@ -112,11 +112,7 @@ Her father's clock in the front room had run down at twenty past four on some da
 
 Behind her the mudroom door shut. Dane lifted the latch and shoved, one motion, and the iron dropped home with a clack.
 
-He'd learned it.
-
 She waited for her shoulders to come up at the sound. They didn't. She stood with the poker in her hand and listened to the house, and the house had nothing to tell her. The refrigerator hummed. The clock went on. A little wind at the gable end, and under the window the harbor, flat, with nobody on it.
-
-She kept reaching for the next sound. There wasn't one.
 
 She raised the shade. Below, the guest mooring ball rode alone on black water, the town's lights laid across it. Half the harbor could see into her lit kitchen, the older deputy included. She pulled the shade down again. Not for fear. For the deputy.
 
@@ -146,17 +142,31 @@ Her back went down into the mattress and stayed there.
 
 He lay with his face in her hair until his breathing evened. Then he turned his head.
 
-"Pike hears tonight that I came up here, from me, on the porch, before it's anywhere else. You're hearing it first. It will probably be a suspension. I've asked for Portland, whatever else they decide to do with me."
+"Pike hears about tonight from me, on the porch, before it's anywhere else, and you're hearing that first."
 
-"Moreau's going to ask me about you on Monday."
+"I know."
 
-"He has to, and I'd think less of him if he didn't."
+The clock went on down the hall. She found his hand on the quilt.
 
-She found his hand on the quilt. "Whatever he asks me about you, you'll hear my answer before he does. That's yours. I'm giving it back."
+"What's Christmas in Lowell?"
 
-"Then I'm listening."
+"My father drove the Bridge Street route for thirty years and retired last spring, and he still goes in for the Christmas shift, because the depot is short and he's done it every year so the young drivers can be home. He wears a Santa hat the transit authority has asked him in writing not to wear. My mother starts the ham at five in the morning, cloves in rows you could sight down, and keeps her old scanner on the counter so she can tell the table where his bus is." His thumb found the scar on her palm. "I'd like to put you on that bus, front seat on the right, where he'll tell you who used to live on every corner and be wrong about half of them."
 
-"Yes," she said. "I'll tell him yes. You can read the rest in the transcript."
+"Christmas is two runs," she said. "Kenny'd cover. I'd need a reason."
+
+"The ham is eleven pounds, and there are three of us."
+
+"That's not a reason. That's a load."
+
+"Then here's the reason. I'd like to stand in my mother's kitchen on Christmas morning with you in it, and not have to describe you to anybody."
+
+She lay there a while.
+
+"Hand me my watch."
+
+He reached across her with his good arm and found it on the nightstand. She tipped the face to the gap under the shade and read the date, which she already knew.
+
+"Kenny owes me two," she said.
 
 He laughed into the pillow. Then he got up, pulled on his jeans, took the Iridium out of his jacket and went down the hall, and she heard the front door open on the cold and didn't get up to see who it was.
 
@@ -182,9 +192,9 @@ She backed her straight out into open water and came ahead and around. The *Marg
 
 Ned drank his coffee. He ate a saltine, then another. He said nothing about the reefer, or Tess, or her father standing in this wheelhouse eleven years ago asking him to take on his girl.
 
-At Pruett the sodiums still burned over the ramp in the half-dark. She brought the *North Reach* into the slip, lowered the ramp, and climbed down to the trucks. Propane first. Handle up, tension off, the chain out of its D-ring and into the bin.
+At Pruett the sodiums still burned over the ramp, pale in the daylight. She brought the *North Reach* into the slip, lowered the ramp, and climbed down to the trucks. Propane first. Handle up, tension off, the chain out of its D-ring and into the bin.
 
-Quist stood at the ramp head in the orange light, steadier on land.
+Quist stood at the ramp head under the sodiums, steadier on land.
 
 "Doucette fired both rounds at the landing. The second crewman ran the skiff's outboard, and he's been talking since Marine Patrol took him off yesterday."
 
@@ -210,7 +220,7 @@ He took her bare hand in his good one, in front of Quist and both deputies, and 
 
 The grand jury room on Federal Street was too warm and smelled of radiator dust. No judge, nobody for the other side, a woman at a machine taking every word.
 
-She gave Moreau the night freight in the order she'd written it on the tide calendar, down to fourteen cartons, that she saw, and the plate at 9:44 at the Pruett ramp.
+She gave Moreau the night freight as she'd written it on the tide calendar, down to fourteen cartons, that she saw, and the plate at 9:44 at the Pruett ramp.
 
 He set a copy of a credit union deposit slip in front of her. Her paycheck on the first line, in her own hand. Under it, *Cash — $9,000.00*, pressed so hard the copier had caught the dents as shadow. Nineteen years of store receipts. She knew that hand.
 
@@ -244,7 +254,7 @@ Below him Beth walked the trucks with her gloves off, her bare hand going to eac
 
 Since the first of the month she'd stood relief watches at the wheel on the Sunday runs, on her own license. Ned had asked the district board. Russ had told Dane that on the float last Friday, and added that Ned would go to his grave before he told her.
 
-At Christmas she had two days off, and she was coming to Lowell, where his father would ask, as he had every year since Dane was nine and wanted to be a cowboy, whether he had a horse yet.
+At Christmas Kenny was taking her two runs, and she was coming to Lowell to ride the Bridge Street bus in the front seat on the right. His father had called twice already to ask whether she would mind the hat.
 
 Quist stood beside him, seasick and upright, and opened her jacket far enough to show him the edge of a manila envelope.
 
@@ -264,6 +274,6 @@ The *North Reach* came into the Cutter slip under the ramp sodiums. The transfer
 
 "Do I want to spend the winter in a cold room reading Tess Marr's arithmetic with a federal agent who can't stand up on a float?" Russ said. "No. I'll have my traps out by Tuesday."
 
-Dane had spent most of his working life watching people decide things with their hands, and Russ had decided somewhere around *three harbors*. His hand had come off the piling then, and it closed on the envelope now as if it had been waiting there all along. Up the hill the fuel float at the store was dark, the way it should be after six.
+Russ had decided somewhere around *three harbors*. His hand had come off the piling then, and it closed on the envelope now as if it had been waiting there all along. Up the hill the fuel float at the store was dark, the way it should be after six.
 
 Beth went down the lane to let the trucks go, and told him to bring the light, and he brought it.

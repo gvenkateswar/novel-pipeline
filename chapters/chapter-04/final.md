@@ -42,7 +42,7 @@ Dane didn't move. "What makes him the one?"
 
 "The walk. Thursday night, off the ramp, he walked like that." She kept the glasses up. "You saw the heel yesterday. I didn't say it matched. I wanted to watch him walk before I said."
 
-"So you wanted to see it twice before you put your name to it." He said it to the harbor, not to her.
+"Most witnesses I've had would have said it on the first look and been sorry for it later." He said it to the harbor, not to her.
 
 "Hold them still for me."
 
@@ -94,13 +94,13 @@ He came back into the trees with his collar dark from spray. "Quist ran the boat
 
 "He's as stuck as we are."
 
-"He is." He zipped the phone inside his jacket. "I could walk down there and have him by lunch, and then you'd be up here alone, with the only one of me on this island gone and no way off the rock. If I go after him, I've left you, and he isn't my job. You are." He looked down at the red hull. "What I can do is make sure he never sees you."
+"He is." He zipped the phone inside his jacket. "I could walk down there and have him by lunch, and then you'd be up here alone, with the only one of me on this island gone and no way off the rock. If I go after him, I've left you, and he isn't the job they sent me out here to do. You are." He looked down at the red hull. "What I can do is make sure he never sees you."
 
 He nodded at the radio. "Who's that?"
 
 "Tess."
 
-"She's good at that."
+"She keeps that whole net talking without once sounding like she's in charge of it."
 
 "She's good at everybody."
 
@@ -110,7 +110,7 @@ Beth switched the handheld off and clipped it inside her float coat, and they st
 
 ---
 
-She heard the truck before the trees opened. A Ford with a lifter ticking, idling rough in the cold. Russ's.
+She heard the truck before the trees opened. A Ford with a lifter tapping, idling rough in the cold. Russ's.
 
 Dane put a hand out. She shook her head.
 
@@ -120,11 +120,11 @@ The path came out on the old camp road, two ruts and a grass hump. Russ's pickup
 
 "Calloway." He looked at Dane and then at the bucket. "Checking camps. Somebody's got to make sure the summer people's pipes freeze in an orderly way." He tipped his head at the hill. "You come down off the top? *Margaret Ann* still tied up at Tess's?" Nobody had answered him. "Course she is. Nobody's going anywhere."
 
-Dane didn't look at Russ's face. He looked at Russ's hands, lying easy on the tailgate, the left ring finger short a tip.
+Dane stopped in the near rut and watched him. Russ's free hand lay easy on the tailgate, the left ring finger short a tip.
 
 "Heard a Generac running out on the point last night," Russ said. "Ned doesn't usually start the Ashby one till the power's been out a week."
 
-"Who else would notice?" Dane said.
+"Who else on this end of the island would have noticed it?" Dane said.
 
 Russ thought about it. "Anybody up the north road with ears. That's four houses. Two of them are deaf."
 
@@ -190,7 +190,7 @@ He looked at her a while. She wiped the wrench a second time and let him look.
 
 He looked at the door, and then back at her.
 
-"I'm from Lowell." He wiped the primer lever with the rag, though it didn't need it. "My father came up from Ponce and drove a city bus there for thirty years. My mother dispatched for the Lowell police, and her radio sat on the table at supper, so I knew how this work was done a long time before I understood that it was work."
+"I'm from Lowell. My father came up from Ponce and drove a city bus there for thirty years. My mother dispatched for the Lowell police, and her radio sat on the table at supper, so I knew how this work was done a long time before I understood that it was work."
 
 "Does he know what you do now?"
 
@@ -224,19 +224,17 @@ She caught the loose end of the rag he was holding. Diesel had run across the ba
 
 "What was this?"
 
-"A door, a few years back." He looked at her thumb. "I went through it, and that's what it left me with."
+"A door, a few years back." His eyes came up to hers. "I went through it, and that's what it left me with."
 
 She lifted her face, and he was already coming down to it. It wasn't careful. His mouth was cold and then it wasn't, and his stubble scraped her chin, and she tasted coffee and cold air and smelled diesel on both of them.
 
 His hand came up the back of her neck under the braid, spread wide at the base of her skull, and held her there as if he meant to stay. She got a fistful of his soft-shell at the hip and pulled him the last inch in, and round, until the housing hummed at her back and the door was behind him. She wanted him on the concrete with the engine going, and she'd have told him so.
 
-His hand stopped.
-
-The fingers on her neck went still. He lifted his mouth off hers and looked over his shoulder at the open door. The driveway. The spruce. He'd had his back to it the whole time.
+He lifted his mouth off hers and looked over his shoulder at the open door. The driveway. The spruce.
 
 He stepped back. He still had one end of the rag, and she had the other, and he didn't let go of it.
 
-"I can't keep you alive with my hands on you." He said it slower than he'd said anything all day. "That's not no. Not with that door open behind me."
+"I can't keep you alive with my hands on you." He said it slower than he'd said anything all day. "That isn't a no. It's a not yet, and with that door open behind me I can't afford it."
 
 Her face burned in the cold. She turned back to the generator and put two fingers on the bleed screw she'd watched him close. Tight. She checked it anyway.
 
@@ -250,7 +248,7 @@ He stopped in the doorway and looked back as if she'd handed him something he'd 
 
 ---
 
-The furnace ticked on at ten past eleven. She lay on the couch in the room off the kitchen and listened to it run and quit. Mothballs and cold wallpaper.
+The furnace came on at ten past eleven. She lay on the couch in the room off the kitchen and listened to it run and quit. Mothballs and cold wallpaper.
 
 At eleven-twenty the porch door went. Last night she'd only heard it. She got up and went through to the dark front room and stood back from the window. Through the gap where the sheet didn't meet the frame she saw him on the porch with the Iridium up, the stub antenna to the sky. A minute, no more. Then he put the phone away and took out the notebook and wrote in it standing, facing the road.
 
@@ -260,11 +258,11 @@ He closed the notebook. He didn't hurry it. He put it in the inside pocket of hi
 
 "Pike?"
 
-"That was Pike."
+"That was Pike, my supervisor in Portland."
 
 "What does Pike want every night?"
 
-"She wants to know you're alive."
+"She wants to hear that you're still alive, and she wants to hear it from me."
 
 "What do you write?"
 

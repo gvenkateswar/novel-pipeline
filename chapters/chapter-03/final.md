@@ -18,13 +18,13 @@ The door knocked, then stopped knocking. Dane came out with two mugs and stood w
 
 "He didn't get what he came for. And he ran for the shore path, not the road. He knows where it goes."
 
-He looked at the print, then at her boot beside it, then at the alders where the tracks had gone in. He looked at the heel longest. He didn't say anything about it.
+He looked at the print, then at her boot beside it, then at the alders where the tracks had gone in. He looked at the heel longest.
 
 Below them the harbor was gray rain with boats in it. A quarter mile, then nothing. The guest mooring ball bobbed bare in the slop, tipping to every sea. She counted the boats she could see, left to right. Nine. The red hull wasn't one of them.
 
 Eight left on Ned's ten, if the state found a barge.
 
-"We move tonight," Dane said.
+"We move tonight," Dane said, "while he still thinks you're in this house."
 
 "Ned caretakes houses. Three are shut and close enough. The Lathams' on the cove road. Hallorans' up behind the church. The Ashby place on the north point."
 
@@ -42,7 +42,7 @@ He'd asked about the door, not the house. She'd have picked a mooring on the sam
 
 She set her mug on the step. "Hiding gets noticed out here. Being seen is normal. I'm going to the store."
 
-"A room full of people who all know you, around a stove I can't see past." He didn't move from the eave. "In daylight, then, and before noon. You stay where I can see you, and you tell me who in that room is from away."
+"That's a room full of people who all know you, around a stove I can't see past." He didn't move from the eave. "In daylight, then, and before noon. You stay where I can see you, and you tell me who in that room is from away."
 
 Those were good terms. "Okay."
 
@@ -74,21 +74,19 @@ He came in with his shoulders dark from the rain and his voice exactly where it 
 
 Then she thought about it.
 
-He looked at her hands around the mug, and not at the mug. She didn't move them.
-
 Out the window a pickup came down the Harbor Road at a crawl, wipers going. Russ, on his storm rounds. She was up and into her float coat.
 
 "The fewer people who know someone tried that door—"
 
 "Somebody saw his tracks. Or saw a man from away on my porch at midnight." She zipped the coat. "By supper it's a story, and there's no constable in it. Tell Russ, it's his business. Don't, it's everybody's."
 
-He heard it. She watched him hear it. He followed her out and stood at the corner of the dooryard where he could see the road both ways.
+He followed her out and stood at the corner of the dooryard where he could see the road both ways.
 
 She walked into the road with one hand up. The truck stopped and the window came down. Russ leaned his forearm on the door frame as if sitting up straight were optional. His beard was dark with wet.
 
 "Calloway. You're out in it."
 
-She gave it to him in order. Eleven-forty. The back latch, tried twice. One man, toward the shore path. A print under the eave, gone now, but she had the picture. She held the phone to the window and he looked at it a long time.
+She gave it to him like a log entry. Eleven-forty. The back latch, tried twice. One man, toward the shore path. A print under the eave, gone now, but she had the picture. She held the phone to the window and he looked at it a long time.
 
 "Big foot," he said. "So I'll write down that a big-footed man is walking around Cutter at night. That narrows it to about forty of us." He handed the phone back. "I'll walk the shore path this afternoon. Somebody tries your door, that's mine. I mean it."
 
@@ -98,7 +96,7 @@ He looked past her at Dane. Took him in, boots to hair, and asked nothing at all
 
 "She's covered," Dane said from the dooryard, "and the fewer people who know where, the longer that stays true."
 
-Russ took his cap off, looked into it, and put it back on. He smiled as if that answered his question too.
+Russ took his cap off, looked into it, and put it back on.
 
 "Asking because somebody will," he said, and let the truck roll.
 
@@ -110,7 +108,7 @@ Dane went to the stove and put his back to the post office wall, where he had th
 
 Tess came around it before she got there. A hand on Beth's arm, a tug on the braid. "Bethie. Out in public. Generator's eating forty a day, and I've got half the north road on credit till the barge."
 
-On the back corner of the stove a soup pot ticked under its lid. Mrs. Dyer's. Tess carried it up the hill at one.
+On the back corner of the stove a soup pot rattled its lid. Mrs. Dyer's. Tess carried it up the hill at one.
 
 Ned sat on the stool by the stove in his green Johnson Woolen jacket, telling it to the room like a forecast. "Sea came in under her. Lifted the whole boat." A long pause. "Then the cables went. Both of them. Like a goddamn rifle shot." Another. "Seaward end went down. Twisting, going down."
 
@@ -144,6 +142,8 @@ Tess came back through the curtain, sliding her phone into her vest.
 
 "It isn't. That's why I like it."
 
+Beth's eyes went from the phone in Tess's vest to the log on the counter: *Calloway — home (phone)*, and on Saturday's 0800 a tick for a call she had never made.
+
 *Tess knew I stayed.*
 
 It came whole, the way green water comes over a bow. Beth stepped back from the counter and turned her face to the bread rack by the door, and she read the bags. Country Kitchen white. Two of rye. The end of the last boat.
@@ -170,13 +170,13 @@ He took the cigarettes and went out, and the bell rang after him.
 
 "From away," she said at Dane's elbow. "The dragger's his."
 
-"She hails out of Gloucester. I read her transom yesterday." He didn't look up from the cup. His eyes went to Ned's hands, then the door. She couldn't tell what he made of either.
+"She hails out of Gloucester, which I read off her transom yesterday." He didn't look up from the cup. His eyes went to Ned, then the door. She couldn't tell what he made of either.
 
-He went back to the stove. Four feet off, under the generator, she heard him ask it. "Thursday. When you loaded the dealer's truck. Was the reefer running?"
+He went back to the stove. Four feet off, under the generator, she heard him ask it. "On Thursday, when you loaded the dealer's truck, was the reefer running?"
 
 "He always runs his unit." Ned, to the window. "Always has. Thermo King, it's a good one, they run all night on those."
 
-"Then it was running Thursday, the same as always," Dane said.
+"Then I'll put down that it was running," Dane said.
 
 Beth's palm went cold. She'd had her hand on that box. A dark display. A door seal no colder than November. She'd known Ned's tell since she was twenty-two, as well as she knew the *North Reach*'s engine note: more than anybody asked for meant he was lying. Kenny had worked the Thursdays since last winter. Ned had seen that truck every week she hadn't.
 
@@ -212,9 +212,9 @@ He worked a key off his ring without a question, a brass Schlage with a paper ta
 
 He put the key in her palm and kept his hand around hers. Big, cold, rough as pot warp. "You stay off my boat till this is done."
 
-She heard a man looking after her. She told him she would.
+She told him she would.
 
-Neither of them said *reefer*. They both noticed.
+Neither of them said *reefer*.
 
 She walked the cylinder to the back door and handed Dane the key without a word. He put it in the inside pocket of his jacket and zipped it.
 
@@ -222,7 +222,7 @@ She walked the cylinder to the back door and handed Dane the key without a word.
 
 "He lied about the truck. That's a man who looks the other way for money, which is different from a man who tries doors." Dane watched the store's back window. "Nobody tries a door he has a key to. And every other house on this island, somebody besides Ned knows where the key is."
 
-He shouldered the cylinder. "I asked Portland for a boat this morning. Coast Guard won't put a crew in that sea till it lies down. We're here. I'd rather be in the one house only Ned knows I asked about."
+He shouldered the cylinder. "I asked Portland for a boat this morning, and the Coast Guard won't put a crew in that sea until it lies down, so for now we're here. I'd rather be in the one house only Ned knows I asked about."
 
 ---
 
@@ -244,7 +244,7 @@ She reached past him and held the crank switch over.
 
 The starter ground once on the low battery. Twice. The diesel caught and came up to a roar, and the bulb in the ceiling came on, and there they were, lit, closer than the dark had let them be.
 
-He stepped back first. His free hand came up toward her and stopped. It went to the shed door instead. He held it open against the wind, and when she went past him he had already picked up the heavier jug from beside the pad.
+He stepped back first. His free hand came up toward her and went to the shed door instead. He held it open against the wind, and when she went past him he had already picked up the heavier jug from beside the pad.
 
 Halfway across the yard, with the generator going behind them, she asked him. She'd decided to.
 
@@ -258,6 +258,6 @@ She could hear that it was true. It went as far as it went.
 
 The house smelled of mothballs and cold wallpaper. Every shape in it wore a sheet. They kept one room lit at the back with the shades down, and he went through the front rooms in the dark to see what the drive could see. She pulled the sheet off a couch in the room off the kitchen, where she had the back door in sight, and sat.
 
-At eleven-twenty she heard the porch door and his boots, then his voice, low under the generator, too far off for words. She didn't get up. *Daily. Understood.* It sat in her head in his voice, beside the man in the shed whose hand had stopped in the air. She didn't try to make them agree.
+At eleven-twenty she heard the porch door and his boots, then his voice, low under the generator, too far off for words. She didn't get up. *Daily. Understood.* It sat in her head in his voice, beside the man in the shed whose hand had gone to the door instead of to her. She didn't try to make them agree.
 
 She got up off the couch and set her XtraTufs by the back door with the toes facing out, as her father had left his when he went to sea. Then she lay down again in her clothes, with the voice on the porch still going.
