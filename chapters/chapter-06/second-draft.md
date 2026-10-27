@@ -368,9 +368,7 @@ Sunday at 6:55 Hollis came in out of the cold with the spud bar and set it in th
 
 Ray stayed where he was.
 
-The committee came first and took the two buckets: the Sportsmen's Club treasurer, with a gray cash box on his knees, and the woman who ran the raffle, with a roll of tickets and a mitten in her teeth. Hollis went back out to the public access to meet Ellen.
-
-Every twenty yards on the way out he stopped, worked the spud bar, and ran his tape down into the ice. Ray could read the numbers off the way Hollis stood up from each hole.
+The committee came first and took the two buckets: the Sportsmen's Club treasurer, with a gray cash box on his knees, and the woman who ran the raffle, with a roll of tickets and a mitten in her teeth. Hollis went back out to the public access to meet Ellen and spudded a hole every twenty yards on the way out.
 
 At the door Hollis read them out. "Eleven inches out to here, eight of black and three of white. You can walk it and you can sled it, and those trucks are wrong."
 
@@ -390,17 +388,7 @@ At the door Hollis read them out. "Eleven inches out to here, eight of black and
 
 "Page two."
 
-Ellen stood and gave them the part of the Open that touched the derby, in about a minute and a half. Hollis let her finish. Then he took his cap off.
-
-"Who opens your building if you're laid up?"
-
-"Denise Lavoie."
-
-"She know that?"
-
-"She will by noon."
-
-Hollis wrote it down and put his cap back on.
+Ellen stood and gave them the part of the Open that touched the derby, in about a minute and a half. Hollis let her finish. Then he took his cap off to think, and put it back on.
 
 "Weigh-in's been at the town dock forty years," the treasurer said. "My father weighed in at that dock."
 
