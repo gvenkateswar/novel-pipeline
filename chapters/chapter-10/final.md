@@ -196,7 +196,7 @@ At Pruett the sodiums still burned over the ramp, pale in the daylight. She brou
 
 Quist stood at the ramp head under the sodiums, steadier on land.
 
-"Doucette fired both rounds at the landing. The second crewman ran the skiff's outboard, and he's been talking since Marine Patrol took him off yesterday."
+"Doucette fired both rounds at the landing. The second crewman ran the skiff's outboard, and he's been talking since Marine Patrol took him off yesterday. Doucette lit the Ashby shed on Arsenault's order and sat at the end of the drive in the store's pickup, keys off the hook in Ms. Marr's office. The first night, at your back door, Arsenault talked him down your shore path on a handheld from the boat, the same way he talked him past the church."
 
 "You thought I took the money," Beth said.
 

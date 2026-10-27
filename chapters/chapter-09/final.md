@@ -22,7 +22,7 @@ Russ looked at Beth.
 
 "Jolene's cousin's boat," Russ said. "Last time there was trouble in my family I was the last man on Cutter to hear about it." He looked at Dane, not her. "Somebody ought to arrest somebody on this island before your people get here and do it for us. Might as well be the constable."
 
-"On what, so far? A pause on a radio," Dane said. "If you take Tess tonight, Arsenault walks down to his mooring and sails, and the man with the heel goes with him. We take them when they come to us. What do you carry, and who trained you to carry it?"
+"On what, so far? A pause on a radio," Dane said. "And there's a man sitting in that back office with her. If you walk in the front door tonight, you're the thing that gets her killed or taken to sea. You go in by the bulkhead when they start across, and not before. What do you carry, and who trained you to carry it?"
 
 "M&P. Part-time officer course at the academy, three summers back. I can arrest on Cutter. Never had to do it with the lights out." Russ touched his belt. "Cuffs."
 
@@ -304,7 +304,7 @@ Tess came behind them in her red vest. Ned walked beside her, his hands in his p
 
 "I'd have expected him to have that back door covered," Dane said.
 
-"It opens inward. A man inside hears it before you're through." Russ tipped his head up the hill. "There's a cellar bulkhead behind the propane cage. Every kid on Cutter has used it. Nobody from away knows it's there. The stair comes up behind her desk. He had the radio to his mouth and his back to the stair. He had the cuffs on before he'd turned around."
+"It opens inward. A man inside hears it before you're through." Russ tipped his head up the hill. "So I took the bulkhead, the way Beth sent word. The stair comes up behind the desk. He had the radio to his mouth and his back to the stair. He had the cuffs on before he'd turned around."
 
 He looked across the harbor at the *Margaret Ann*, white-lit on her mooring. "The second crewman's still aboard her with the lights on. He's not going anywhere. Marine Patrol can have him."
 

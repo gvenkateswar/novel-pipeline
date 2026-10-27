@@ -160,7 +160,7 @@ Not the store. Too many people in and out, and a phone in the back office. She s
 
 Her go-bag was by the door. She shouldered it. She took the Icom in its freezer bag out of the side pocket, switched it on through the plastic, rolled the volume down to a whisper and set it scanning. She could listen. She wouldn't key it. She zipped it inside her float coat, against her ribs.
 
-The sat phone stayed on the bench. The gun stayed on his hip, where his hand would find it before he was awake. None of it was hers. Nobody but the two of them knew this door, and nobody had come to it. He'd be safe here asleep. She wasn't safe anywhere with him.
+The sat phone stayed on the bench. The gun stayed on his hip, where his hand would find it before he was awake. None of it was hers. Nobody but the two of them knew this door, and nobody had come to it. So he hadn't sold this place. That cleared one line. It didn't clear the rest of the book, and she couldn't stay in a room with the man who wrote it. He'd be safe here asleep.
 
 The book stayed open. If she went without a word, he'd think she'd been taken. He'd come out into the dark after her with a gun, and someone would get shot on the cove road. The open page would tell him she'd gone on her own, and why.
 

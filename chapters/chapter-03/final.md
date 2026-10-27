@@ -190,7 +190,7 @@ Beth picked up the bag of jugs. "I need a tank filled," she said, to nobody.
 
 ---
 
-The propane cage stood behind the store with the generator ten feet off it, exhaust heat on her left cheek and the cold on her right. She stood with her back to the roar so it would cover what she said.
+The propane cage stood behind the store with the generator ten feet off it, exhaust heat on her left cheek and the cold on her right. She stood with her back to the roar so it would cover what she said. Past the cage the old cellar bulkhead lay slantwise against the sills, two plank doors gone green. Every kid on Cutter had come up that stair into the back office at least once, and been sent back down it.
 
 Ned came out after her without being asked, the cage key on its orange float. She held the padlock while he worked it. Rust came off on her fingers. He hooked a twenty-pound cylinder to the bulk tank and watched the gauge, because it was something to do with his hands.
 

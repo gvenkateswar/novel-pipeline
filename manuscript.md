@@ -668,7 +668,7 @@ Beth picked up the bag of jugs. "I need a tank filled," she said, to nobody.
 
 ---
 
-The propane cage stood behind the store with the generator ten feet off it, exhaust heat on her left cheek and the cold on her right. She stood with her back to the roar so it would cover what she said.
+The propane cage stood behind the store with the generator ten feet off it, exhaust heat on her left cheek and the cold on her right. She stood with her back to the roar so it would cover what she said. Past the cage the old cellar bulkhead lay slantwise against the sills, two plank doors gone green. Every kid on Cutter had come up that stair into the back office at least once, and been sent back down it.
 
 Ned came out after her without being asked, the cage key on its orange float. She held the padlock while he worked it. Rust came off on her fingers. He hooked a twenty-pound cylinder to the bulk tank and watched the gauge, because it was something to do with his hands.
 
@@ -1780,7 +1780,7 @@ Not the store. Too many people in and out, and a phone in the back office. She s
 
 Her go-bag was by the door. She shouldered it. She took the Icom in its freezer bag out of the side pocket, switched it on through the plastic, rolled the volume down to a whisper and set it scanning. She could listen. She wouldn't key it. She zipped it inside her float coat, against her ribs.
 
-The sat phone stayed on the bench. The gun stayed on his hip, where his hand would find it before he was awake. None of it was hers. Nobody but the two of them knew this door, and nobody had come to it. He'd be safe here asleep. She wasn't safe anywhere with him.
+The sat phone stayed on the bench. The gun stayed on his hip, where his hand would find it before he was awake. None of it was hers. Nobody but the two of them knew this door, and nobody had come to it. So he hadn't sold this place. That cleared one line. It didn't clear the rest of the book, and she couldn't stay in a room with the man who wrote it. He'd be safe here asleep.
 
 The book stayed open. If she went without a word, he'd think she'd been taken. He'd come out into the dark after her with a gun, and someone would get shot on the cove road. The open page would tell him she'd gone on her own, and why.
 
@@ -2176,6 +2176,8 @@ Dane looked at him a long moment.
 
 "Then go now, while it's daylight, on the open road where the houses can see you, not the shore. Take the wheelhouse spare and leave it on sixteen, because the constable keeps his scanner on sixteen in his kitchen. If anyone comes near you, key it and say your name and where you're standing, and the whole harbor will have heard it before he's decided what to do with you. And tell Russ to come along the top of the riprap under the pier at dusk, where the store can't see him."
 
+"If it comes to the store," Beth said, "he goes in the way the kids do. Bulkhead behind the propane cage. Not the front."
+
 Ned went up the companionway for the spare. He came down with it in his fist, turned the knob to sixteen in front of them both, and went out across the brow.
 
 ---
@@ -2214,7 +2216,9 @@ He came up the companionway. She gave it to him, the hose through the roll.
 
 He took the binoculars from her and looked at the float a long time, then at the store windows.
 
-"Then I'm calling Pike now," he said, "from the wing, with the door open, and you'll hear my side of it. I'll give you hers word for word when I'm off."
+"So I call her back on nine," Beth said. "Tell her I'm alone on the boat tonight. My voice. Not Ned's. Not yours. She passes it on. He has to come here before he sails."
+
+"Then I'm calling Pike now," he said, "from the wing, with the door open, and you'll hear my side of it. She hears that plan from me as you've just put it, before either of us agrees to it, and I'll give you her answer word for word when I'm off."
 
 ---
 
@@ -2222,23 +2226,21 @@ He took the binoculars from her and looked at the float a long time, then at the
 
 He came in off the wing and shut the door on the wind. He didn't sit.
 
-"Here is what she said, as near as I have it. The patrol boat and the Coast Guard's are both at their mainland stations, and neither will run the ledge field across the bay in the dark with the swell that's left, so first light is the earliest anyone from the mainland sets foot on Cutter. The state police won't cross until the boats do. If anyone runs blue lights up to that store, Arsenault is off the float with Tess aboard before they're past the church, and we never see either of them again. She's authorized me to hold this boat and let them come to me if they come. She told me, and I'm giving it to you the way she said it, that she has not authorized bait."
+"Here is what she said, as near as I have it. The patrol boat and the Coast Guard's are both at their mainland stations, and neither will run the ledge field across the bay in the dark with the swell that's left, so first light is the earliest anyone from the mainland sets foot on Cutter. The state police won't cross until the boats do. If anyone runs blue lights up to that store, Arsenault is off the float with Tess aboard before they're past the church, and we never see either of them again. She's authorized me to hold this boat and let them come to me if they come. To the call on nine her first answer was that she has not authorized bait. You heard what I told her after that, about the roll and the fuel hose, and that if we sit behind that door till daylight, Tess has until dark. She was quiet long enough that I thought I'd lost the satellite, and then she said this, and these are her words: 'Calloway stays behind the locked wheelhouse door unless the floods go dark. You hold the deck. Whitcomb goes for Marr the moment anyone starts across. And I'm logging it as my decision, Deputy, not yours.'"
+
+"Why not send Russ up there now?"
+
+"Because somebody is already sitting with her, and you heard him on the roll. If Russ walks up to that front door alone, he's the thing that gets her killed, or put aboard that boat and taken to sea. The only time nobody in that store is watching its own doors is when Arsenault has his eyes and his men on this pier, and that's what your call on nine buys her."
+
+"Then he goes in by the bulkhead. The minute they start across."
 
 Beth looked across the water. The *Margaret Ann* had cast off from the float and gone back out to her mooring off the fish pier, deck lights burning, to wait for dark.
 
-"Then we don't go to him," she said. "He comes to us."
-
-"Go on."
-
-"I call Tess on nine. Tell her I'm alone on the boat tonight. My voice. Not Ned's. Not yours. She passes it on. He has to come here before he sails."
-
-"Why the boat?"
-
-"Steel. I know it blind." She looked aft through the glass, down at the deck going blue in the last light. "Foot of this ladder to the stern gate is thirty-four steps. Eleven years in the dark. He's never stood on it."
+"So we don't go to him," she said. "He comes to us. Steel. I know it blind." She looked aft through the glass, down at the deck going blue in the last light. "Foot of this ladder to the stern gate is thirty-four steps. Eleven years in the dark. He's never stood on it."
 
 He looked down at the deck, at the two trucks in their chains and the open lane beside them.
 
-"If I put you behind that door with me and we wait for daylight, Tess has until dark. If we do it your way, whoever comes has to cross thirty-four steps of dark steel that you know and he doesn't, to reach a door I'm standing in front of. That's the hold Pike authorized, with the door left where he can find it, and it's as near her line as I'm willing to go." He turned from the glass. "Then here is what I want. When we know they're coming, the brow comes in and gets chained, so the only way aboard is from the water. The floods stay on, and the breakers for them are on that panel, behind this lock, where nobody but you can reach them. A man coming over the stern under those lights is a man I can see."
+"Whoever comes has to cross thirty-four steps of dark steel that you know and he doesn't, to reach a door I'm standing in front of. That's the hold Pike put her name to." He turned from the glass. "Then here is what I want. When we know they're coming, the brow comes in and gets chained, so the only way aboard is from the water. The floods stay on, and the breakers for them are on that panel, behind this lock, where nobody but you can reach them. A man coming over the stern under those lights is a man I can see."
 
 "And when we know it's the water, they go dark. Then he comes over the stern blind." She put her hand on the panel. "If the floods go dark, I come down the inside ladder to the car deck."
 
@@ -2254,7 +2256,7 @@ He looked at his arm, then across the water at the store, and didn't answer that
 
 "I'm planning not to watch anybody drown off this boat."
 
-"Pike hears all of it from me before anything happens," he said, "and you'll be standing beside me when she does."
+"Pike hears the rest of it from me before anything happens," he said, "and you'll be standing beside me when she does."
 
 Far down the pier road Ned was coming in the last light, big and stooped, alone, the spare radio in his fist.
 
@@ -2284,7 +2286,7 @@ Russ looked at Beth.
 
 "Jolene's cousin's boat," Russ said. "Last time there was trouble in my family I was the last man on Cutter to hear about it." He looked at Dane, not her. "Somebody ought to arrest somebody on this island before your people get here and do it for us. Might as well be the constable."
 
-"On what, so far? A pause on a radio," Dane said. "If you take Tess tonight, Arsenault walks down to his mooring and sails, and the man with the heel goes with him. We take them when they come to us. What do you carry, and who trained you to carry it?"
+"On what, so far? A pause on a radio," Dane said. "And there's a man sitting in that back office with her. If you walk in the front door tonight, you're the thing that gets her killed or taken to sea. You go in by the bulkhead when they start across, and not before. What do you carry, and who trained you to carry it?"
 
 "M&P. Part-time officer course at the academy, three summers back. I can arrest on Cutter. Never had to do it with the lights out." Russ touched his belt. "Cuffs."
 
@@ -2566,7 +2568,7 @@ Tess came behind them in her red vest. Ned walked beside her, his hands in his p
 
 "I'd have expected him to have that back door covered," Dane said.
 
-"It opens inward. A man inside hears it before you're through." Russ tipped his head up the hill. "There's a cellar bulkhead behind the propane cage. Every kid on Cutter has used it. Nobody from away knows it's there. The stair comes up behind her desk. He had the radio to his mouth and his back to the stair. He had the cuffs on before he'd turned around."
+"It opens inward. A man inside hears it before you're through." Russ tipped his head up the hill. "So I took the bulkhead, the way Beth sent word. The stair comes up behind the desk. He had the radio to his mouth and his back to the stair. He had the cuffs on before he'd turned around."
 
 He looked across the harbor at the *Margaret Ann*, white-lit on her mooring. "The second crewman's still aboard her with the lights on. He's not going anywhere. Marine Patrol can have him."
 
@@ -2788,7 +2790,7 @@ At Pruett the sodiums still burned over the ramp, pale in the daylight. She brou
 
 Quist stood at the ramp head under the sodiums, steadier on land.
 
-"Doucette fired both rounds at the landing. The second crewman ran the skiff's outboard, and he's been talking since Marine Patrol took him off yesterday."
+"Doucette fired both rounds at the landing. The second crewman ran the skiff's outboard, and he's been talking since Marine Patrol took him off yesterday. Doucette lit the Ashby shed on Arsenault's order and sat at the end of the drive in the store's pickup, keys off the hook in Ms. Marr's office. The first night, at your back door, Arsenault talked him down your shore path on a handheld from the boat, the same way he talked him past the church."
 
 "You thought I took the money," Beth said.
 
