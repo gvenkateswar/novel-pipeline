@@ -80,7 +80,7 @@ He hung up. She tapped the barometer. Nine ninety-two.
 
 "Wind's backed northeast. The glass is down four since breakfast. And Ned won't put her into that slip on a falling tide with the sea building."
 
-He took that in without hurrying it. "If the wind's gone northeast and the glass has dropped four since breakfast, then the two o'clock is dead already."
+"If the wind's backed and the glass is down that far, then the two o'clock is already dead."
 
 He didn't say she was right. "I'd like to walk the house."
 
@@ -110,7 +110,7 @@ Three armloads from under the lean-to, sleet already in the bark. She was stacki
 
 She straightened with a split in each hand. "Front door opens on the road. Anybody comes that way, a chair under this latch shuts us in."
 
-"That's one reason, and it's a good one." He laid his hand on the door, not the latch. "But the latch is a better alarm than a chair, because nobody lifts it quietly."
+"That's one reason." He laid his hand on the door, not the latch. "But the latch is a better alarm than a chair, because nobody lifts it quietly."
 
 "I'd hear it from my bed." She carried the chair to the stove and set it there.
 
@@ -178,7 +178,7 @@ Channel 9 was a girl in the wheelhouse of the *Ruthie C* with the mic in both ha
 
 She hung up and stood with her hand on the phone. The front door opened and the cold came in ahead of him. He shook sleet off his shoulders onto the mat.
 
-"The shades are good. From the road you can't tell which room is lit."
+"The shades are good from the road."
 
 "I've taken care of the check-in."
 
@@ -194,7 +194,7 @@ Then a sound she had never heard and knew anyway: steel cable parting, a shriek 
 
 At the slip the *North Reach*'s deck floods were still burning, swinging as she surged. In their light the transfer bridge's seaward end hung down and twisted, half in the water, the sea going over it white.
 
-Her float coat was off the hook and one arm in it before she had decided anything. Ned was alone down there. She stopped with her arm in the sleeve. A witness running down the Harbor Road in the dark was what somebody was waiting for, and the radio would tell her more than the slip could. She took the coat off and hung it up. Dane had watched her do it. He said nothing.
+Her float coat was off the hook and one arm in it before she had decided anything. Ned was alone down there. She stopped with her arm in the sleeve. A witness running down the Harbor Road in the dark was what somebody was waiting for, and the radio would tell her more than the slip could. She took the coat off and hung it up. Dane had watched her do it, and said nothing.
 
 The handheld opened on 16, then again on 13, the same words twice. "All stations, all stations, this is the Cutter Island ferry *North Reach*. The Cutter Island transfer bridge is damaged. The vessel is secure. There will be no further service. *North Reach* standing by one-six and one-three."
 
@@ -210,7 +210,7 @@ He came in ten minutes later and sat across from her, and spoke slower than he h
 
 "Ned says ten days."
 
-"Ten days from today, with today in it, is Sunday the twenty-second, which leaves us one day to spare." He let it sit. "If the ferry's back Sunday, we're on it. If it isn't, I'll find another way, and it won't be a neighbor's boat. Pike calls back at eleven-twenty every night, and I'll be on the porch when she does."
+"Ten days with today in it is Sunday the twenty-second, which leaves one to spare." He let it sit. "If the ferry's back Sunday, we're on it. If it isn't, I'll find another way, and it won't be a neighbor's boat. Pike calls back at eleven-twenty every night, and I'll take it on the porch."
 
 Beth got up and tapped the barometer. Nine eighty-six. Under it the subpoena lay against the wall, the date showing.
 
