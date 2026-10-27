@@ -96,7 +96,7 @@ He set one big hand on the chart table and leaned his weight into it.
 
 "You sent me home."
 
-"Tried to." He took the rag off the console and wiped the forward glass, hard, and left a gray smear the width of his arm. "I'd have worked it short."
+"Tried to." He took the rag off the console and wiped the forward glass, hard. "I'd have worked it short."
 
 She kept the mic where it was. "The Ashby place. Who did you tell?"
 
@@ -114,7 +114,7 @@ He stopped wiping.
 
 Beth looked out past him. Across the harbor the store was a bar of yellow.
 
-Ned turned, unasked, and went down the companionway. She heard his boots on the steel treads and a mug knock below. He came back up, set it on the chart table by her left hand and stepped back to the door.
+Ned went down the companionway unasked and came back with a mug. He set it on the chart table by her left hand and stepped back to the door.
 
 She didn't pick it up. She reached over and clipped the mic onto its hook.
 
@@ -178,13 +178,13 @@ Ned unfolded his arms and stepped down onto the deck by the gate, and stayed the
 
 In the crew mess wet gear steamed on the heater rail. Ned's green wool jacket lay balled at the end of the settee where he'd slept. Beth sat at the steel table, and Dane set the go-bag down and sat across from her.
 
-She held out her hand. He took the notebook from his inside pocket and gave it to her, and she laid it on the table and kept her hand on the cover.
+She held out her hand. He gave her the notebook from his inside pocket, and she laid it on the table and kept her hand on the cover.
 
 "You wrote *assess*." Her voice came out low, from the chest. "After the shed. You asked me about the money. Then you kissed me. Then you wrote it down."
 
-"I did all of that, in that order." He didn't look away. "Quist asked for the log on Saturday and Pike ordered it, and the woman under the eave I told them didn't know was you. I wanted to know you anyway. That's true, and it doesn't help, because only the questions went in the book."
+"I did all of that." He didn't look away. "Quist asked for the log on Saturday and Pike ordered it, and the woman under the eave I told them didn't know was you. I wanted to know you anyway. That's true, and it doesn't help, because only the questions went in the book."
 
-She waited.
+She said nothing.
 
 "I could have told you on Saturday and taken the consequences. I didn't. That was mine. The order didn't choose it for me, and I'd like to tell you Boston did—"
 
@@ -226,7 +226,7 @@ She closed the book and slid it back across the steel to him. He left it on his 
 
 "Then start with last night."
 
-He gave it to her the way he had given it to Pike. "I reported that you read the log and left the detail on your own. I reported us, by name, from Monday night. I'm off this detail when relief lands, and off the case. Quist has to tell Moreau why, and there'll be a referral to internal affairs, which most likely ends in a suspension without pay. When I've served it I'm going to ask for a transfer to the District of Maine, which has been short of deputies all month. Moreau hands all of it to the defense, so a lawyer can put it to you under oath. Pike ordered me to hold the fish house until first light and not come looking for you in the dark. I did, and it wasn't easy." His voice stayed level. "I'd rather you get asked than have it found."
+He gave it to her the way he had given it to Pike. "I reported that you read the log and left the detail on your own. I reported us, by name, from Monday night. I'm off this detail when relief lands, and off the case. Quist has to tell Moreau why, and there'll be a referral to internal affairs, which most likely ends in a suspension without pay. When I've served it I'm going to ask for a transfer to the District of Maine, which has been short of deputies all month. Moreau hands all of it to the defense, so a lawyer can put it to you under oath. Pike ordered me to hold the fish house until first light and not come looking for you in the dark. I did, and it wasn't easy. I'd rather you get asked than have it found."
 
 A gust leaned on the deckhouse.
 
@@ -250,7 +250,7 @@ She looked up at the overhead, and the wheelhouse above it.
 
 "This. Someday." She kept her eyes on the steel. "If Ned would ever be old."
 
-"Ned will be old the day somebody he trusts asks him for the wheel," Dane said, "and not one day before. Until then he'll mind you whether you like it or not, the way my mother minded my father. She dispatched for the Lowell police for twenty-six years, and every cruiser in the city knew the number of his bus. If he was late home she'd put it out as a welfare check, and some patrolman would pull up beside him at a light on Bridge Street and tell him to call his wife."
+"Ned will be old the day somebody he trusts asks him for the wheel," Dane said, "and not one day before. Until then he'll mind you, the way my mother minded my father. She dispatched for the Lowell police for twenty-six years, and every cruiser in the city knew the number of his bus. If he was late home she'd put it out as a welfare check, and some patrolman would pull up beside him at a light on Bridge Street and tell him to call his wife."
 
 The laugh got out of her before she knew it was there. It hurt on the way out, low in the ribs.
 
@@ -308,7 +308,7 @@ He came up the companionway. She gave it to him, the hose through the roll.
 
 "She read my name. On the air. In a voice that isn't hers."
 
-He took the binoculars from her and looked a long time, at the float and then at the store windows.
+He took the binoculars from her and looked a long time, then at the store windows.
 
 "Then I'm calling Pike now," he said, "from the wing, with the door open, and you'll hear my side of it. I'll give you hers word for word when I'm off."
 
@@ -326,7 +326,7 @@ Beth looked across the water. The *Margaret Ann* had cast off from the float and
 
 "Go on."
 
-"I call Tess on nine. Tell her I'm alone on the boat tonight. My voice. Not Ned's. Not yours. She passes it on. He has to come here before he sails. Not us there."
+"I call Tess on nine. Tell her I'm alone on the boat tonight. My voice. Not Ned's. Not yours. She passes it on. He has to come here before he sails."
 
 "Why the boat?"
 
