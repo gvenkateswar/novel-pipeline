@@ -298,6 +298,67 @@ Saturday, Dec 19, 11:40 p.m.: Denise reads the R.G. card aloud (glow night lane 
 
 ---
 
+## Chapter 07: Loss of Separation
+
+**POV:** Ellen.
+
+**What happened:**
+- **The offer (Tue Feb 2, 5:34–5:55 p.m., the lot).**
+  - Ray arrives early, which he never does (he coaches Gagnon & Son on Tuesdays and Thursdays and has arrived at 6:15 since 1996). He lays a Granite Lakes Savings cashier's check for $55,000, payable to Kettle Lanes, on his hood. $48,000 pays Arlene's note down and the rest goes into Ellen's bank account. Danny ran it twice on the store machine off the plan Ellen left on Ray's counter, and wrote in the margin of the tape: "CALL IT EQUITY. SHE'D OWN LESS. SAY THAT PART." Ray's tape shows $23,950 against Ellen's $24,000 projection. Ellen: "By fifty dollars. Fifty dollars is inside the error on my tape."
+  - Ray: Hollis asked his "purpose of visit" Sunday, he got his mouth open, "That's the rest of it."
+  - Ellen: "If I take it, I'll never know whether I could have carried it. And you would always— Whether it was you I—" "That came out in the wrong order." Ray: "So I stand at that counter for four weeks and watch you go under. To prove something to yourself… For Pete's sake, Ellen… Who's left?" Ellen shouts "I don't!" (two early bowlers hear it).
+  - Ray: "I'd have known it was me." He is keeping the right of first refusal: a Concord developer would have it in condos by June. "I'll be the somebody." Ellen: "Then we want the same building." / "Yes." / "We should stop. Effective now." Ray: "I think you're wrong. For the record." He keeps the check.
+- **The office (6:07).**
+  - Backstory: Ellen's one loss of separation came at the end of a midnight shift, a few minutes past 2 a.m., with two Logan arrivals. She descended one into the other's altitude, an alarm sounded, and she turned them. They passed closer than the rules allowed and nobody was hurt. She filed the report herself and got two days off the boards and a week of retraining. Afterward, in the Merrimack lot, it took her four minutes to get her key into the ignition. She timed it.
+  - Ellen projects two teams leaving: Taylor's Marina and the Highway Department. She counts on the Legion staying, since its captain prepaid through April.
+  - Denise agrees to make the motion: "I don't like it."
+- **The meeting (6:29–7:19).**
+  - 81 present. The house is thanked for storm night (the Jan 8 motion carries).
+  - The 112 is Taylor's Marina's anchor. Verna cites Jan 13, 1987, when the Tuesday start moved mid-season.
+  - Under Article Four, Ellen announces lineage of $12.50 starting tonight and the house prize-fund share cut from $5 to $2, then gives the Open in summary. To "Is this Ray's idea?" she answers "Negative." She is cut off at time.
+  - The Highway Department captain stands on a settee: "We paid in September! … Twenty-two years of Thursdays … Nobody asked you to buy it!" The Legion captain, hedging, says it's a lot all at once. Ray: "I said mine to her. I'll leave it there."
+  - The 112 moves to reject the rate. Verna rules it out of order under Article Two: the price is set by the house.
+  - Denise moves the Memorial as the Open's final round on the 27th ("I want it in the minutes I don't love it"). Hollis seconds. Captains vote under Article Three: 20 present, carried 11–8. Ray abstains, the first abstention by the coach since 1996.
+  - Taylor's Marina goes to Pine Ridge on Tuesdays ("I called Gil at supper"). The **Legion** also leaves, a surprise ("Tuesdays… It's a lot all at once"). The Highway Department stays. The 112 asks "Ray. You coming?" Ray walks to Ellen's left, on her side of the counter: "I don't agree with her." Eight bowlers leave. 73 remain.
+- **The close (10:50–11:05).**
+  - Verna: "Three minutes and four seconds. The chair let the four go."
+  - Tuesday bowled on 9 lanes with one blind score.
+  - Ray brought the pool sheet to the alley Monday and gave it to Denise ("mine to hold and always had been"). Denise: "ask me Thursday."
+  - Ellen's tape: $22,000 income against $30,000, and $17,000 cash on the 28th against $25,000. Both are $2,000 worse than at breakfast.
+  - Ray, on a logged call for lane 9's table: "I ended it at your truck window like a shift briefing." / "I was there."
+  - In her car Ellen can't get the key in from 10:58:12 to 11:04:40 (6 min 28 sec; Merrimack was 4). She says "Fifty dollars" out loud, then says the second half of her sentence properly to no one, and cries into her glove. Ray's truck stays dark and his door doesn't open. His headlights follow her down the drive only after she starts the car.
+
+**What changed:**
+- Ellen and Ray have broken up ("effective now"). She refused the $55K.
+- Lineage is $12.50 and the house share is $2.
+- The Open is official, with the Memorial as its final round.
+- Two teams are gone: Taylor's Marina (to Pine Ridge) and the Legion.
+- Ray publicly stood beside Ellen, disagreeing. He is keeping his right of first refusal and his bank letter.
+- Income projects to $22K and cash to $17K.
+
+**Who knows what:**
+- Ellen: Ray's reasons; Danny's role; that she was wrong about which teams would go.
+- Ray: Ellen shouted "I don't!"; he heard "effective now"; he did not see her in the car.
+- Denise: holds the pool sheet; reserving judgment until Thursday.
+- The league: the rate, the Open, Ray's abstention and where he stood.
+- Gil at Pine Ridge: has Taylor's Marina.
+
+**Objects / details introduced:**
+- The $55,000 cashier's check (Ray keeps it).
+- Danny's tape with the margin note.
+- Verna's wristwatch timer, binder, plaid cushion, and the Grange gavel.
+- The Articles: Two (the house sets the price), Three (the captains decide the championship), Four (owner's time).
+- The 112 (Taylor's Marina anchor).
+- The Legion captain (prepaid through April, now left).
+- The Highway Department captain (22 years of Thursdays).
+- The pool sheet now lives under Denise's crossword at the alley.
+
+**ATC phrases used (1 of 3):** "Negative." (The "loss of separation" backstory is narration.)
+
+**Ends on:** Tuesday, Feb 2, about 11:05 p.m. Ellen drives down the drive with Ray's headlights following.
+
+---
+
 ## Master Continuity Flags
 
 **Timeline:**
@@ -312,13 +373,14 @@ Saturday, Dec 19, 11:40 p.m.: Denise reads the R.G. card aloud (glow night lane 
 - Thu Jan 7: nor'easter; 36 stranded; outage at 1:52 a.m.; 22 inches total. Fri Jan 8, 5:41 a.m.: Verna adjourns. NOI $11,800. Fri Jan 8 and Sat Jan 9 closed (power back Sat evening est.). Bank extension email read at dawn Jan 8.
 - Sat Jan 16: first sold-out Saturday; pace sheet on the line; kiss 1 at the sign pole, about 11 p.m.; ledger reconciliation 11:40 p.m. Sun Jan 17, 1:14 a.m.: "Sunday 1400" set.
 - Sun Jan 17: dawn bob-house; 2 p.m. ledger talk. Tue Jan 26 (after league): boiler fails 12:08 a.m.; kiss 2 at ~3 a.m. Wed Jan 27 (closed). Fri Jan 29: new boiler in. Thu Jan 28: store fight; WEDDING DATE row. Sun Jan 31, 7 a.m.: derby pitch. Tue Feb 2, 6:30 p.m.: league meeting (Ch 07).
+- Tue Feb 2: 5:34 p.m. the $55K offer, Ellen refuses, breakup "effective now"; 6:29–7:19 meeting (11–8; Taylor's Marina and the Legion leave); 11:04 p.m. Ellen's car starts.
 
-**Character states at end of most recent chapter (Ch 06):**
-- Ellen: boiler paid; cash projected $19K against $25K; has the Open plan and the derby fallback; takes it to the league Tuesday under Article Four. She said something unkind to Ray and didn't take it back.
-- Ray: angry and hurt; concedes he may not have heard the condition; won't help or oppose. Still keeping the letter. Two kisses in. Hasn't answered Hollis's "purpose of visit."
-- Hollis: on Ellen's side on the fallback; pressing Ray.
-- Denise: backup opener, to be told.
-- Danny: bought WEDDING DATE, OCT.
+**Character states at end of most recent chapter (Ch 07):**
+- Ellen: broken up with Ray; refused $55K; income projected $22K / cash $17K; lineage raised; two teams gone; the Open official. Wrecked in private, composed in public.
+- Ray: stood beside Ellen in public while disagreeing; abstained; keeps the $55K check (back to the bank in the morning), the right of first refusal, and his bank letter (to March 31). Gave the pool sheet to Denise Monday.
+- Denise: made the motion, doesn't love it, holds the pool sheet.
+- Verna: ran the meeting; noted the coach's first abstention since 1996.
+- Highway Department: stayed, angry. Taylor's Marina and the Legion: gone (to return grumbling in Ch 08).
 
 **Open threads (planted details needing payoff):**
 - Invoicing Ray's repairs → done in Ch 03 (per-call at Ellen's rate).
@@ -360,6 +422,14 @@ Saturday, Dec 19, 11:40 p.m.: Denise reads the R.G. card aloud (glow night lane 
 - Ray's answer to "Purpose of visit": open.
 
 **Notes for Ch 07 (from the Ch 06 cold read):** Sameness is the main risk ("never raises its voice"; rule 22). Don't re-stage the Open plan (rule 21): the league hears it, the reader gets the reaction. Ration motifs: index cards, the key ring, "Ms.", readbacks, Hollis's notebook. Verna carries Ch 07's comedy (outline).
+
+- Taylor's Marina (to Pine Ridge, Gil) and the Legion left → return grumbling in Ch 08.
+- Ray's $55K check: returned to the bank. The offer could resurface only if the outline allows; don't invent it.
+- The breakup ("effective now") → repair needs real cost (Ch 08–10).
+- Ellen's "I'd have known it was me" problem: her sentence's second half, said only alone in the car.
+- The pool sheet now at the alley with Denise.
+
+**Notes for Ch 08 (from the Ch 07 cold read):** Ray at her left ("I don't agree with her") is the best moment in the book. Keep the tics retired (key ring, pause lines, "stood with that"). Don't end on a car, a light, or a lock again; vary the endings. The romance needs to feel broken so the repair matters.
 
 **Notes for Ch 05 (from the Ch 04 cold read):** The reader wants to see Ellen "lose something she can't fix with a card on a pegboard" (rule 20). Vary dialogue length (rule 20). The Ray "fella" stories are close to wearing out: use at most one in Ch 05, or none.
 
