@@ -166,7 +166,7 @@ She laughed into his shoulder, and he laughed too, low, and it shook them both.
 
 "Hands, then," she said.
 
-"Hands."
+"That's more than I expected to get tonight," he said, "and I'm not going to argue with it."
 
 They got to the cot with her shirt on the floor and her canvas pants half off, one leg still around her ankle, heavy with the bar. The cot side of the room was cold, the stove side hot. He put his hands on her ribs, cold too, and she held them there until they weren't.
 

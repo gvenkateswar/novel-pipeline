@@ -2,33 +2,37 @@
 
 **Day 1 — Friday**
 
-The *North Reach* came into Cutter with the sea on her bow and spray coming back over the ramp in sheets. Dane stood aft of the passenger cabin with his back to the bulkhead and his right side clear, and the diesel came up through the deck into the soles of his boots. They were the wrong boots. He had known it since the first wet deck plate at Pruett Harbor, and there was nothing to be done about it now except keep a hand near the rail.
+The *North Reach* came into Cutter with the sea on her bow and spray coming back over the ramp in sheets. Dane stood aft of the passenger cabin with his back to the bulkhead and his right side clear, and the diesel came up through the deck into the soles of his boots. They were the wrong boots. He had known it since the first wet deck plate at Pruett Harbor.
 
 Below the rail the car deck held one pickup and a pallet of wood pellets under a tarp, and it smelled of cold hydraulic oil. The sky had come down to the hill, the color of wet slate.
 
-While the boat was still a hundred yards out he read the people at the head of the slip, because anyone who came down to meet a ferry in this weather had a reason, and the reasons told him more than the faces would. Two men in orange bib pants stood by a handcart with their hands in their pockets; they were cold, and they were there for the pallet. An old woman in a plastic rain hat had both hands on the head of a cane, waiting for something with her name on it. A man held a phone up at arm's length, screen to the sky, getting nothing. Two women with coffee cups weren't waiting for anything; they had come down to see. At the head of the ramp a man in a canvas coat stood with his arms folded, and that was the one Dane would want a second look at.
+While the boat was still a hundred yards out he read the people at the head of the slip, because anyone who met a ferry in this weather had a reason. Two men in orange bib pants stood by a handcart with their hands in their pockets, cold and there for the pallet. An old woman in a plastic rain hat had both hands on the head of a cane, waiting for something with her name on it.
+
+A man held a phone up at arm's length, screen to the sky, getting nothing. Two women with coffee cups had come down to see. At the head of the ramp a man in a canvas coat stood with his arms folded, and he was the one Dane would look at twice.
 
 Seven people had turned out on a November morning for one pickup, a pallet and a man in a soft-shell jacket, and he did not flatter himself that it was the pallet.
 
 There was no deckhand. The ramp came down from the wheelhouse controls and rang on the transfer bridge, and the captain came down the outside ladder himself, big and slow, one hand on the rail for every rung. He threw the bow line to one of the men in orange and worked the spring alone, favoring a hip.
 
-A short woman in a red vest came down the ramp from the road, laughing over her shoulder, reading glasses pushed up into cropped gray hair. She handed a canvas zip bag with a seal tag up over the rail, and the captain put it inside his jacket. A town without a bank sent its money across on the boat, which told him something about the town and nothing he needed today, and he moved on.
+A short woman in a red vest came down the ramp from the road, laughing over her shoulder, reading glasses pushed up into cropped gray hair. She handed a canvas zip bag with a seal tag up over the rail, and the captain put it inside his jacket. A town without a bank sent its money across on the boat. He moved on.
 
-The captain looked at him then: at the soft-shell, wet through at the shoulders, at the boots, at the bag, the ramp and the sky, everywhere but Dane's face. It was the look of a man who had been told on the phone before dawn who would be on his boat, and had decided he would not be the one to say so. That was fine. Dane didn't need it said, though a man who kept quiet about one thing generally kept quiet about others, and that was worth remembering about the only captain on the island.
+The captain looked at him then: at the soft-shell, wet through at the shoulders, at the boots, at the bag, the ramp and the sky, everywhere but Dane's face. It was the look of a man who had been told on the phone before dawn who would be on his boat, and had decided he would not be the one to say so. That was fine. A man who kept quiet about one thing usually kept quiet about others, which was worth knowing about the only captain on the island.
 
-Under the hill, alone on a mooring, lay a steel dragger with a red hull and a white wheelhouse. Her stern had swung to the wind, and he read the transom: MARGARET ANN. GLOUCESTER, MASS. An out-of-state boat on a guest mooring, the morning after a trooper pulled a lobster truck over on Route 1, might mean nothing. Her deck lights were burning in full daylight, and that he liked less.
+Under the hill, alone on a mooring, lay a steel dragger with a red hull and a white wheelhouse. Her stern had swung to the wind, and he read the transom: MARGARET ANN. GLOUCESTER, MASS. An out-of-state boat on a guest mooring the morning after a trooper pulled a lobster truck over on Route 1 might mean nothing, but her deck lights were burning in full daylight, and that he liked less.
 
 He would write it down tonight. He would remember it either way.
 
-Before he stepped off he ran the day once more. If the weather let them, they would be back aboard for the two o'clock, with a second deputy waiting at Pruett with a car and ninety minutes of road between there and the site, and the whole thing would be over by dark. They had called it a one-day job, and he had stopped trusting that phrase years ago, because the jobs that went wrong were mostly the ones somebody had called simple. What this one came to was a woman he had never met and a date in Portland, and his work was to get the first to the second with nothing in between that a lawyer could use. The subpoena was in his inside pocket against the notebook, and it would stay dry if he kept his elbows in.
+Before he stepped off he ran the day once more. They would be back aboard for the two o'clock, a second deputy would meet them at Pruett with a car, and the site was ninety minutes up the road from there. Pike had called it a one-day job, and in his experience the jobs that went wrong were the ones somebody had called simple.
+
+This one came down to a woman he had never met and a date in Portland, and his work was to get her there with nothing on the way that a lawyer could use. The subpoena was in his inside pocket against the notebook, and it would stay dry if he kept his elbows in.
 
 He walked off behind the pallet. The man with the folded arms watched him to the top of the ramp. The old woman looked at his boots.
 
-The Harbor Road climbed from the slip between a stone wall and a row of fish houses, and he read it as he went for who could see what. From the head of the slip you had the first two hundred yards. From the store dock, where a fuel float ran out under a dark light pole, you had the road as far as the church, and from the church the top of the hill. At the top stood a gray-shingled Cape with a big center chimney, and its kitchen window looked down on all of them.
+The Harbor Road climbed from the slip between a stone wall and a row of fish houses, and he read it as he went for who could see what. From the head of the slip you had the first two hundred yards; from the store dock, where a fuel float ran out under a dark light pole, the road as far as the church; from the church, the top of the hill. At the top stood a gray-shingled Cape with a big center chimney, and its kitchen window looked down on all of them.
 
 Someone stood in that window. Then the window was empty.
 
-The front door opened while he was still three steps from it. She stood in the doorway in a black watch cap, one hand on the frame, and her eyes went to his hands before they came to his face, which was what he would have done in her place and what almost nobody did. She had watched him the whole way up. He had expected someone frightened, and instead she looked like a woman who had already made up her mind about him and was willing, for the moment, to let him prove her wrong.
+The front door opened while he was still three steps from it. She stood in the doorway in a black watch cap, one hand on the frame, and her eyes went to his hands before they came to his face, which was what he would have done in her place and what almost nobody did. She had watched him the whole way up. He had expected someone frightened, and she looked instead like a woman who had made up her mind about him and would let him try to prove her wrong.
 
 ---
 
@@ -66,7 +70,7 @@ Below the window the *North Reach* was backing out of the slip, her stern swingi
 
 She didn't know what the hand meant.
 
-He dialed from memory. She fed the stove a split of maple and listened to his half. "Reyes. I'm with her. We'll be on the two o'clock, and I'll want the car at Pruett at two forty-five. Yes. Understood."
+He dialed from memory. She fed the stove a split of maple and listened to his half. "Reyes. I'm with her. Two o'clock, Pruett, two forty-five. Yes. Understood."
 
 He hung up. She tapped the barometer. Nine ninety-two.
 
