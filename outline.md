@@ -22,7 +22,7 @@ Ellen spent 31 years making sure nothing unexpected ever happened. Ray has spent
 
 ### The two wants (they can't both be fully met)
 - **Ellen** wants to make Kettle Lanes pay **on her own** by March 1. Mandatory retirement at 56 was the one big change in her life she didn't choose. This is the first one she did choose, and she needs to know she can carry it. To make it pay, she has to change the alley.
-- **Ray** wants to **own the alley and keep it as it was.** It was meant to be his next chapter once his son took over the hardware store. It is also the last place where things are still the way they were when his wife Linda was alive. His financing came through eight days after the alley was sold to Ellen. If she defaults, his right of first refusal gives him the alley.
+- **Ray** wants to **own the alley and keep it as it was.** It was what he'd planned for the rest of his life once his son took over the hardware store. It is also the last place where things are still the way they were when his wife Linda was alive. His financing came through eight days after the alley was sold to Ellen. If she defaults, his right of first refusal gives him the alley.
 
 Neither of them is the villain, and no single honest conversation dissolves the conflict. By Chapter 07 they have had that conversation, and they still want incompatible things.
 
@@ -31,25 +31,25 @@ Neither of them is the villain, and no single honest conversation dissolves the 
 ## The deadline (money and the championship)
 
 **How the purchase works** (the bible-builder should check plausibility; see the research notes):
-- The purchase price was about $390,000. Ellen paid roughly $140,000 down from savings and the sale of her house. Arlene, the former owner, **carries a $250,000 note with a balloon payment due March 1.** She needs the cash for her entrance fee at a continuing-care retirement community, which is why the term is short.
+- The purchase price was about $390,000. Ellen paid roughly $140,000 down from savings and the sale of her house. Arlene, the former owner, **carries a $250,000 note, interest-only at 6% ($1,250 a month), with the balloon due March 1.** She needs the cash for her entrance fee at a continuing-care retirement community, which is why the term is short.
 - Ellen's plan is to refinance with Granite Lakes Savings Bank. The banker will write the loan only if two things are true:
   1. **The winter quarter (Dec 1 to Feb 28) produces at least $30,000 in net operating income.** Last winter under Arlene it produced about $21,000.
   2. **Ellen has at least $25,000 in cash on hand on Feb 28** (a working-capital requirement). She starts with $42,000.
-- If she misses either one, the note defaults, the alley goes back to Arlene, and **Ray's right of first refusal** lets him buy it. The whole town knows this.
+- If she misses either one, she can't pay Arlene on March 1, so she has to sell, and **Ray's recorded right of first refusal** means any sale goes to him first. He's the only buyer with financing ready. The town's version: "If she misses, she has to sell, and Ray gets first crack."
 - **The championship** is the league's final night, traditionally the last Saturday of February (Feb 27). It is the Linda Gagnon Memorial, Ray's late wife's trophy, and it is the last big revenue night before the bank looks at the numbers.
 
-**How it tightens, chapter by chapter**
+**How it tightens, chapter by chapter** (the bible's revised Money table is authoritative for every figure; the cash column below has been updated to match it)
 
 | Ch | Net income pace vs. $30K | Cash vs. $25K floor | What moved it |
 |----|----------------------------|----------------------|---------------|
 | 01 | Starts at 0, 13 weeks left | $42,000 | Lane 7 dies on night one, and league fees for that lane are refunded |
 | 02 | Behind | $41,000 | Lane 7 is down for two days |
-| 03 | About 90% of pace | $39,500 | Ellen starts paying Ray as a mechanic, a real cost Arlene never booked. December office parties and the new Friday glow night add revenue |
-| 04 | About 95% | $40,000 | The snowed-in league night turns a profit, but the storm closes the alley for two days |
-| 05 | About 102%, a false victory | $41,500 | The sold-out holiday Saturday. **Then the ledger:** league nights lose about $700 a week because the lineage rate has been frozen since 2004 and the alley pays the prize-fund extras. Projected finish: about $26,000 |
-| 06 | Projected about $24,000 | Projected **$19,000** | The boiler fails in a −20°F cold snap. Replacement costs $16,500 in cash, plus emergency heaters and a closed day. Ellen moves the championship into a public "Kettle Open" on derby weekend, with paid entries, spectators, and a raffle split with the derby |
-| 07 | Projected about $22,000 | About $19,000 | She raises league lineage and two teams quit in protest, which means lost league revenue |
-| 08 | Projected about $29,000 | Projected about $23,500 | Ray brings both teams back. Open entries sell out. February vacation week is strong. A storm forecast puts derby weekend at risk |
+| 03 | About 90% of pace | $34,300 | Ellen starts paying Ray as a mechanic, a real cost Arlene never booked. December office parties and the new Friday glow night add revenue |
+| 04 | About 95% | $36,650 | The snowed-in league night turns a profit, but the storm closes the alley for two days |
+| 05 | About 99% of pace, a false victory | $38,800 (projected ~$45,000) | The sold-out holiday Saturday. **Then the ledger:** league nights lose about $700 a week because the lineage rate has been frozen since 2004 and the alley pays the prize-fund extras. Projected finish: about $26,000 |
+| 06 | Projected about $24,000 | $15,150 actual; projected **$19,000** | The boiler fails in a −20°F cold snap. Replacement costs $24,500 in cash, plus emergency heaters and a closed day. Ellen moves the championship into a public "Kettle Open" on derby weekend, with paid entries, spectators, and a raffle split with the derby |
+| 07 | Projected about $22,000 | $15,150 actual; projected about $17,000 | She raises league lineage and two teams quit in protest, which means lost league revenue |
+| 08 | Projected about $29,000 | Projected about $23,750 | Ray brings both teams back. Open entries sell out. February vacation week is strong. A storm forecast puts derby weekend at risk |
 | 09 | **Final: $30,850** | **Final: $25,600** | The storm-day Open. The derby's indoor events move to the alley, as planned in Ch 06. The bank approves on March 1 |
 
 The final margin is small, and every dollar of it comes from something Ellen decided earlier: pricing, the glow night, the derby partnership, and the league rate. No windfall closes the gap and nobody rescues her. Ray never puts money in.
@@ -107,14 +107,14 @@ The final margin is small, and every dollar of it comes from something Ellen dec
 | **POV / dates** | Ray. Wednesday–Thursday, December 2–3 |
 | **Target words** | 3,300 |
 | **Purpose** | The rival's side. Ray's want, made sympathetic. The end of Act 1 and the point of no return |
-| **Opens with** | 6 a.m. at Gagnon & Son Hardware. Ray is cutting a key for a plow driver. The SBA approval letter is folded in his shirt pocket, dated eight days after Arlene accepted Ellen's offer. |
+| **Opens with** | 6 a.m. at Gagnon & Son Hardware. Ray is cutting a key for a plow driver. The bank's commitment letter on an SBA loan is folded in his shirt pocket, dated eight days after Arlene accepted Ellen's offer. |
 | **Key event** | Ray offers to buy Ellen out at exactly what she paid, so she loses nothing and walks away clean. It is a fair, sensible offer, and Kate tells her by phone to take it. Ellen refuses. She tells him the truth: retiring at 56 was federal law, not her choice, and this is the first thing she has chosen in two years. Ray: "Then I'll see you March first." That night he lets himself in with his key and fixes lane 7 anyway, "for the Thursday league." He leaves the broken part on her desk with a tag written in her own strip format. |
 | **What changes** | The lines are drawn: both of them want the same building, and both say so out loud. Ellen is committed past the point of a clean exit. Ray has helped her, and he can't explain to himself why. |
 | **Emotional beat** | Sympathy for the man who lost by eight days, and pleasure at the tag on the desk. |
 | **Chapter promise** | Why is Ray helping the woman whose failure gets him what he wants? |
 | **Set piece** | Ellen comes into the hardware store with a parts list printed from a candlepin forum. She reads back every instruction Ray gives her like a clearance. He puts her "in holding" behind three plow guys buying rock salt, while the regulars at the counter call the match like a broadcast. |
 | **Romance beat** | Hostility with respect showing underneath. The first time each of them is honest with the other. |
-| **Get right** | Hardware-store realities in a lake town in winter: rock salt, roof rakes, plow parts, key cutting. SBA 7(a) approval timing. How a right of first refusal works when it's tied to a seller-carried note. ATC readback and hearback. Which pinsetter parts are scarce, and that they get scavenged from closed alleys. |
+| **Get right** | Hardware-store realities in a lake town in winter: rock salt, roof rakes, plow parts, key cutting. SBA 7(a) lender commitment timing. How a right of first refusal works when it's tied to a seller-carried note. ATC readback and hearback. Which pinsetter parts are scarce, and that they get scavenged from closed alleys. |
 | **Pacing flag** | Act 1 ends at about 22%, slightly early. That works because the purchase happens before page one, but Ch 01 has to carry a lot of setup without dumping it. If Ch 01 runs long, move the pool-sheet reveal to the opening of Ch 02 from Ray's side. |
 
 ---
@@ -133,6 +133,7 @@ The final margin is small, and every dollar of it comes from something Ellen dec
 | **Chapter promise** | Can Ellen keep the promise and still hit the number? |
 | **Set piece** | 7 a.m. lessons. Ellen brings a clipboard and calculates entry angles. Ray tells her to stop doing math at the pins. Her lofted balls skip like stones. Ray teaches her what to do with deadwood: "The wood stays on the lane. You play what's left." She keeps a strip board at the counter, and every party booking gets a flight strip. |
 | **Romance beat** | Forced proximity, part 1. Their first touch is him correcting her release. |
+| **Plants (required)** | Judy orders the appraisal and environmental review now, so a March 1 same-day closing is possible. Denise makes Ellen buy a league sanction card "so you're legal if they're ever short" (pays off in Ch 09). |
 | **Get right** | Candlepin technique: hitting the 1–3 pocket versus the headpin, "chop," using deadwood. Named leaves (four-horse, spread eagle, half worcester; verify). Strike, spare, and ten-box scoring. The perfect game is 300 and has never been bowled; the record is 245 (verify, and see Open questions). Small-business bank refinance criteria: debt service coverage and liquidity. Paper flight strips and strip bays (Ellen's tower years). |
 
 ---
@@ -145,13 +146,13 @@ The final margin is small, and every dollar of it comes from something Ellen dec
 | **Target words** | 3,500 |
 | **Purpose** | The forced-proximity peak. Ray falls, and knows it. |
 | **Opens with** | Hollis's plow stuck sideways at the bottom of Kettle Lanes' driveway with the blade down, at 8:50 p.m., while snow comes down faster than he can push it. |
-| **Key event** | A nor'easter closes the roads during the Thursday league, and 31 bowlers are stranded overnight. Ellen declares a ground stop, assigns sleeping spots in sequence, runs the snack bar on rations, and turns the night into a paid all-night marathon for the prize fund. Then the power goes out. With no pinsetters, Ray and Ellen get into the pit behind lane 5 and set pins by hand while Denise bowls by flashlight. He tells her about Linda's 1998 record on the wall. She tells him about her last day on the scope. |
-| **What changes** | They are friends. Ray realizes he's been rooting for her for weeks. The night made money even with the storm. |
+| **Key event** | A nor'easter closes the roads during the Thursday league, and 31 bowlers are stranded overnight. Ellen declares a ground stop, assigns sleeping spots in sequence, runs the snack bar on rations, and turns the night into a paid all-night marathon: the house keeps the lineage and the snack bar and adds a set amount to the prize fund. Then the power goes out. With no pinsetters, Ray and Ellen get into the pit behind lane 5 and set pins by hand while Denise bowls by flashlight. He tells her about Linda's 1998 record on the wall. She tells him about her last day on the scope. |
+| **What changes** | They are friends. Ray knows now that he's been rooting for her for weeks. The night made money even with the storm. |
 | **Emotional beat** | Warmth, laughter, and the first ache of tenderness. |
 | **Chapter promise** | What happens to these two when the snow stops? |
 | **Set piece** | "Candlepin by candlelight." Two people around 60 in the pit, dodging flying wood, while 31 bowlers in parkas heckle them. Their first real laugh together comes when a deadwood pin rolls into Ray's lap and Ellen calls "traffic, twelve o'clock, one mile." |
 | **Romance beat** | Forced proximity, part 2. First real laugh together. |
-| **Get right** | Hand-setting candlepins (pinspotter history, pin deck positions). What happens to a pinsetter in a power cut. Nor'easter behavior in the Lakes Region. Municipal versus contract plowing. Ground-stop and flow-control language. The FAA 2-2-1 "rattler" shift schedule (her last day). NH emergency-shelter norms (don't overdo them). |
+| **Get right** | Hand-setting candlepins (pinspotter history, pin deck positions). What happens to a pinsetter in a power cut. Nor'easter behavior in the Lakes Region. Municipal versus contract plowing. Ground-stop language (Ch 04 is not a set piece: three ATC phrases at most). The FAA 2-2-1 "rattler" shift schedule (her last day). NH emergency-shelter norms (don't overdo them). |
 
 ---
 
@@ -167,7 +168,7 @@ The final margin is small, and every dollar of it comes from something Ellen dec
 | **What changes** | The story turns. Ellen now has to choose between the alley and the promise to the man she just kissed. |
 | **Emotional beat** | Elation, then a cold drop. |
 | **Chapter promise** | Will she tell him, and what will he do when she does? |
-| **Set piece** | Three birthday parties, a youth hockey team, the Rotary, and the retirement party for the Ambrose Elementary lunch staff, all at once. Ray is on the machines and they talk over handheld radios ("Kettle Maintenance, say intentions." / "Intentions are to quit."). One party dad is a regional-airline captain. Ellen recognizes his voice from her frequency years ago and reminds him, in front of his son, that he once busted an altitude over Gardner. |
+| **Set piece** | Three birthday parties, a youth hockey team, the Rotary, and the retirement party for the Ambrose Elementary lunch staff, all at once. Ray is on the machines and they talk over handheld radios ("Kettle Maintenance, say intentions." / "Intentions are to quit."). One party dad is a regional-airline captain. Ellen recognizes his voice from her frequency years ago and reminds him, in front of his son, that he once missed an altitude fifteen miles west of Logan. |
 | **Romance beat** | First kiss |
 | **Get right** | League economics: what lineage is, how prize funds and sanction fees work, and typical current lineage versus a 2004 rate (verify the figures). Birthday-party pricing at small alleys. Arrival-push sequencing and miles-in-trail. Whether controllers recognize regular pilots' voices (yes, but verify how plausible a 10-year gap is). |
 | **Note** | No withheld secret. Ellen decides by the last line of the chapter to tell him tomorrow, and she does it in Ch 06. |
@@ -178,17 +179,17 @@ The final margin is small, and every dollar of it comes from something Ellen dec
 
 | Field | Content |
 |-------|---------|
-| **POV / dates** | Ray. January 23 – February 1 |
+| **POV / dates** | Ray. Sunday, January 17 – February 1 |
 | **Target words** | 3,300 |
 | **Purpose** | Escalating complications. The conflict comes into the open, and a cost shock forces Ellen to act. |
-| **Opens with** | Dawn in Hollis's bob-house on Great Kettle Lake. The auger hole is skimming over, a tip-up flag is down, and Hollis asks whether Ray is "courting." |
-| **Key event** | Ellen tells Ray about the ledger plainly: "Your league costs me $700 a week." He takes it hard and offers to raise rates next season, but she needs it now. Then a −20°F cold snap cracks the alley's oil-fired boiler. Ellen works a checklist, not a toolbox: a licensed technician, rented heaters, pipe protection, one closed day, and $16,500 out of her cash. With her cash projection now below the floor, she signs a deal with Hollis's derby committee. On Feb 27 the championship becomes the final round of a public "Kettle Open" on derby weekend, with entries, spectators, and a shared raffle. If the ice is unsafe, the derby's indoor events move to the alley. She tells Ray before anyone else, and asks him to help her sell it to the league. He says no. |
+| **Opens with** | Dawn on Sunday, January 17, the morning after the kiss, in Hollis's bob-house on Great Kettle Lake. The auger hole is skimming over, a tip-up flag is down, and Hollis asks whether Ray is "courting." |
+| **Key event** | Ellen tells Ray about the ledger plainly: "Your league costs me $700 a week." He takes it hard and offers to raise rates next season, but she needs it now. Then a −20°F cold snap cracks the alley's oil-fired boiler. Ellen works a checklist, not a toolbox: a certified oil-heat technician, rented heaters, pipe protection, one closed day, and $24,500 out of her cash. With her cash projection now below the floor, she signs a deal with Hollis's derby committee. On Feb 27 the championship becomes the final round of a public "Kettle Open" on derby weekend, with entries, spectators, and a shared raffle. If the ice is unsafe, the derby's indoor events move to the alley. She tells Ray before anyone else, and asks him to help her sell it to the league. He says no. |
 | **What changes** | Ellen has broken her promise to Ray, openly and for a reason. Ray has to decide what the alley is to him. |
 | **Emotional beat** | Tension and rueful humor, with the floor dropping out from under them. |
 | **Chapter promise** | Can they still be together if they want opposite things for the same place? |
 | **Set piece** | Ellen walks out onto the ice to pitch the derby committee in Hollis's bob-house, carrying a printed plan with contingencies. Two tip-up flags pop mid-pitch, she says "Stand by" to a fish, and she lands it. Back at the alley, the boiler-outage league night: everyone bowls in parkas and mittens, and Denise posts a 112 in a hat with earflaps. |
 | **Romance beat** | Courtship in the open (the pool sheet gets a new square: "wedding date"), then the first real break |
-| **Get right** | NH ice-fishing rules: lines per angler, bob-house removal deadlines, species. How an ice-fishing derby runs, with weigh-ins and safety calls (do not copy the real Meredith derby). Oil-fired boiler failure and replacement cost and timing. NH licensing for oil-burner technicians. Freeze protection for a commercial building. |
+| **Get right** | NH ice-fishing rules: lines per angler, bob-house removal deadlines, species. How an ice-fishing derby runs, with weigh-ins and safety calls (do not copy the real Meredith derby). Oil-fired boiler failure and replacement cost and timing. NH oil-heat technician certification (voluntary; never call it a required license). Freeze protection for a commercial building. |
 | **Pacing flag** | This chapter is the most crowded: the ledger talk, the boiler, and the derby deal. If it runs long, move the boiler to the end of Ch 05 after the ledger, or open Ch 06 the morning after the boiler fails. |
 
 ---
@@ -200,7 +201,7 @@ The final margin is small, and every dollar of it comes from something Ellen dec
 | **POV / dates** | Ellen. Tuesday, February 2 |
 | **Target words** | 3,200 |
 | **Purpose** | The dark moment, coming from the leads' conflicting wants. The end of Act 2. |
-| **Opens with** | 5:45 p.m. Ray is sitting in his truck in the Kettle Lanes lot with the engine running and a cashier's check for $40,000 on the dashboard. |
+| **Opens with** | 5:45 p.m. Ray is sitting in his truck in the Kettle Lanes lot with the engine running and a cashier's check for $55,000 on the dashboard. |
 | **Key event** | Ray offers to buy in as an equity partner. The money would close the gap, keep league rates as they are, and save the championship. He admits it's both: he wants her, and he still wants the alley, and he can't separate the two. Ellen refuses. If she takes it, she'll never know whether she could carry it, and he'll never know whether she wanted him or needed his money. Ray is just as honest: then he is keeping his right of first refusal, because if she fails, someone has to keep the alley open. "Then we want the same building," she says, and she ends it. At the league meeting an hour later she announces the new lineage rate and the Open. Ray says nothing, and the room reads his silence. Two teams walk out to bowl at the rival alley forty minutes away. |
 | **What changes** | Ellen has lost Ray and two teams, and her projection is worse than before. She is alone in the airspace she chose. |
 | **Emotional beat** | Grief, made worse because both of them are right. |
@@ -219,14 +220,14 @@ The final margin is small, and every dollar of it comes from something Ellen dec
 | **POV / dates** | Ray, with one short Ellen section. February 8–20 |
 | **Target words** | 3,300 |
 | **Purpose** | Act 3 begins. Ray's turn, the private half of his grand gesture, and Ellen rebuilding on her own. |
-| **Opens with** | Arlene's apartment above the pharmacy. Half-packed boxes are labeled for the retirement community, and Arlene is holding Ray's original 1996 key tag. |
-| **Key event** | Arlene tells Ray why she sold to Ellen even knowing his offer was coming: "You'd have kept it a museum. I wanted it to live." Ray stands at the trophy case looking at Linda's 1998 record and realizes Linda would have entered the Open on day one. He signs a release of his right of first refusal at Arlene's lawyer's office. Then he drives to the rival alley and wins the two teams back. He tells Danny the hardware store is his. In the Ellen section, she, Denise, and Hollis build the derby-weekend contingency plan while the forecast turns ugly. |
+| **Opens with** | Arlene's apartment above the pharmacy. Half-packed boxes are labeled for The Pines, and Arlene has her 1996 ledger open to the line where she wrote "key to R.G." |
+| **Key event** | Arlene tells Ray why she sold to Ellen even knowing his offer was coming: "You'd have kept it a museum. I wanted it to live." Ray stands at the trophy case looking at Linda's 1998 record and knows Linda would have entered the Open on day one. He signs a release of his right of first refusal at Arlene's lawyer's office. Then he drives to the rival alley and wins the two teams back. He tells Danny the hardware store is his. In the Ellen section, she, Denise, and Hollis build the derby-weekend contingency plan while the forecast turns ugly. |
 | **What changes** | Ray has given up his path to owning the alley and his hold on keeping it the same. The league is whole again, and Open entries sell out. Ellen doesn't know what Ray did yet, and the story doesn't hide it from the reader. |
 | **Emotional beat** | Hope that has been earned, and a lump in the throat. |
 | **Chapter promise** | Will Ray tell her, and will the weather let any of this happen? |
 | **Set piece** | Ray at Pine Ridge Lanes in the next town. He bowls a side match against the defectors' anchor with a borrowed house ball: if Ray wins, they come back. He hasn't bowled under pressure since Linda died. He starts terribly and wins the tenth on deadwood, playing what's left. (This is also the one-exchange seed between Denise and Gil Arsenault.) In the Ellen section: a Plan A–D whiteboard. Hollis asks, "What's Plan E?" Ellen: "Plan E is we all go home." |
 | **Romance beat** | The grand gesture, private half |
-| **Get right** | Releasing a right of first refusal (who signs, and whether it's recorded). Candlepin match etiquette between rival houses. NH February school vacation week dates. Position relief briefing (the chapter title and Ray's speech to the league when he hands over the trophy). |
+| **Get right** | Releasing a right of first refusal (who signs, and whether it's recorded). Candlepin match etiquette between rival houses. Massachusetts February vacation week (Feb 15–19) brings visitors. |
 
 ---
 
@@ -238,13 +239,13 @@ The final margin is small, and every dollar of it comes from something Ellen dec
 | **Target words** | 3,800 |
 | **Purpose** | Climax, resolution, and an earned payoff. Every thread closes. |
 | **Opens with** | 4:10 a.m. Saturday. Ellen is at the counter with the radar loop on her phone. Snow is blowing sideways under the parking-lot lights, and Hollis's voice on the radio is calling the derby's outdoor day. |
-| **Key event** | The storm cancels fishing, and the indoor events move to the alley exactly as planned in Ch 06. Ellen runs the day like a storm day at the TRACON: holding lists, sequencing, and a ground stop on the snack bar. In the Ray section, before the final he gives her back the key he refused to surrender in Ch 01, along with the signed release. He tells her he doesn't want to own it; he wants to be asked. He also gives Linda's trophy to the Open. Hollis is stuck plowing, so Ray's team is a bowler short, and they ask Ellen to fill in. She bowls the tenth frame and leaves nothing on the lane she could have used: first ball chops, second leaves wood, third uses the deadwood. Ray's team still loses to Denise's, and Denise finally takes the trophy. On Monday, Judy approves the refinance at $30,850 net income and $25,600 cash. Ellen, now debt-free of Arlene and needing no one, asks Ray to take the D-side and share the position. |
+| **Key event** | The storm cancels fishing, and the indoor events move to the alley exactly as planned in Ch 06. Ellen runs the day like a storm day at the TRACON: holding lists, sequencing, and a ground stop on the snack bar. In the Ray section, before the final he gives her back the key he refused to surrender in Ch 01, along with the signed release. He tells her he doesn't want to own it; he wants to be asked. He also gives Linda's trophy to the Open. Hollis is stuck plowing, so Ray's team is a bowler short, and they ask Ellen to fill in. She bowls the tenth frame and leaves nothing on the lane she could have used: first ball chops, second leaves wood, third uses the deadwood. Ray's team still loses to Denise's, and Denise finally takes the trophy. On Monday, Judy approves the refinance at $30,850 net income and $25,600 cash. Ellen asks Ray to take the D-side and share the position. |
 | **What changes** | The alley is saved by her own decisions. The couple comes together by choice, not need. Arlene is paid and Kate comes around. |
 | **Emotional beat** | Joyful, funny, and earned. Tears at the key, laughter at the coda. |
 | **Chapter promise** | Resolved. Coda: April ice-out on Great Kettle Lake. The town's ice-out pool replaces the pool on when Ellen would fold. Ellen bought a square and loses. The "K" in the sign is lit. |
 | **Set piece** | The derby weigh-in at a bowling alley: lake trout in coolers on lane 10, a raffle drawn from a ball return, and 150 people in snow boots. Ray's PA call to Ellen in her own phraseology: "Kettle Lanes, Gagnon. Request." She answers, "Gagnon, say request." |
 | **Romance beat** | The grand gesture, public half, and Ellen's answering gesture |
-| **Get right** | How a derby's weather call is made and announced. Candlepin league-championship formats (total pins versus head-to-head, handicap). Substitute rules for a short-handed team. Refinance closing timeline (can the bank approve and close by March 1?). How a seller note is paid off. Ice-out traditions in the Lakes Region (invent our own method). |
+| **Get right** | How a derby's weather call is made and announced. Position relief briefing (Ray's words when he hands over the trophy, and Ellen's D-side ask: "At the Center they call it the D-side. We borrowed their words when ours weren't good enough."). Candlepin league-championship formats (total pins versus head-to-head, handicap). Substitute rules for a short-handed team. Refinance closing timeline (can the bank approve and close by March 1?). How a seller note is paid off. Ice-out traditions in the Lakes Region (invent our own method). |
 | **Pacing flag** | This chapter is the most at risk of overstuffing: the storm, the Open, the key, the last frame, the bank, and the coda. **Option:** split it into 10 chapters, with Ch 09 as championship day and a ~1,800-word Ch 10 covering the bank, the D-side ask, and ice-out. That would bring the total to about 32,000. My recommendation is to keep 9 unless the drafted Ch 09 runs past 4,200. |
 
 ---
