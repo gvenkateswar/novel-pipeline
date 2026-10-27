@@ -36,7 +36,9 @@ After each new entry, also update the Master Continuity Flags section at the bot
 - Flight-strip labels on the lane-light switches (format: lane / time / LG / count / remarks).
 - The pegboard strip board with the TUES LEAGUE card and the LOCKSMITH / 0800 card.
 - Arlene's rotary phone on the office desk, and the Ambrose directory with a Rotary wheel on the cover.
-- A January 2019 fuel-oil calendar, now in the desk drawer.
+- Ellen first saw the alley on a Sunday in September (FOR SALE BY OWNER sign; watched Arlene run a birthday party for two hours).
+- Lineage is $7.50 a head for three strings.
+- Danny suspects an old Corbin lock on the bulkhead.
 - Arlene's rooster recipe-box card file, with a MECHANIC / R.G. card that Ellen keeps in her vest pocket.
 - Ray's key ring with the orange paper tag. The breaker labeled PINSETTER 7 in green ink is now off.
 - Ellen's phone video of lane 7's failure.
@@ -75,5 +77,4 @@ After each new entry, also update the Master Continuity Flags section at the bot
 - The empty March 1 square and why Ray won't buy one → Ch 02 (his register).
 - Linda's trophy and the house record → Ch 04, Ch 08, Ch 09.
 - The dead K in the sign → Ch 10 coda.
-- The January 2019 fuel-oil calendar in the drawer → possible boiler foreshadowing (Ch 06).
 - Lane 3's dead spot → optional.

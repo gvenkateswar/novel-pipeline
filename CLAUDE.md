@@ -51,7 +51,17 @@ Run in this exact order:
 7. Add a summary entry for the chapter to `continuity-log.md` and update its Master Continuity Flags
 8. Report to the author: final file path, word count, any unresolved continuity flags, and the cold reader's main points (especially "where I got bored" and "what I want to know next")
 
-Do not act on the cold reader's notes yourself. They go to the author, who decides what to revise.
+Do not act on the cold reader's notes yourself unless **autopilot mode** is on (see below).
+
+## Autopilot mode (ON — author instruction, Oct 26, 2026)
+
+The author wants the book produced with as little of their input as possible. While autopilot is on:
+- Run chapters back to back without asking for approval between steps or chapters.
+- After each cold read, the orchestrator triages the notes. Clear, small fixes (clarity, a missing line, voice, pacing trims) are applied directly to `final.md`. If the notes show a structural problem (a scene that doesn't work, a broken beat), run one prose-writer revision plus a voice-editor pass, then move on. At most one revision round per chapter.
+- If a fix reveals a rule that should apply to all chapters, add it to the bible's World rules.
+- Stop and ask the author only for: a change to the approved outline's plot (who wins, who ends up together, what happens), anything that breaks the bible's clean rules, or a choice with no reasonable default.
+- Report progress at milestones: after Ch 03, Ch 06, and the full draft. Send the chapters with a short summary of cold-reader verdicts.
+- Commit and push after every step.
 
 ## Pipeline: Manuscript read (run once all chapters are done)
 

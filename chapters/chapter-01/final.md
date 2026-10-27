@@ -8,10 +8,6 @@ She wrote new ones in block capitals, five columns, the way she had once written
 
 Beside the shoe cubbies she screwed a square of pegboard to the paneling, dead level, and pushed one index card onto a peg at eye height. TUES LEAGUE / 1830 / 40 / ALL LANES.
 
-For thirty-one years the FAA had picked her shifts, her airspace, and finally the month she stopped. This building was the first thing she had ever chosen on nobody's schedule but her own. Arlene said that on league nights all ten lanes ran at once. Forty people in one room, every one of them needing to go somewhere in order, and somebody at the counter to put them there.
-
-In the office she lifted a fuel-oil calendar off its nail, JANUARY 2019, and dropped it in the desk drawer.
-
 At 4:30 the vestibule door opened, and somebody stamped salt off a pair of boots, four times, hard.
 
 "Two," Ellen said, under her breath.
@@ -28,7 +24,7 @@ She read all ten, then the foul row, and straightened.
 
 "Lane three has no remarks."
 
-"Lane three's got a dead spot on the approach, and the settee's got a crack that'll pinch you right through your slacks. Ask Bev Dubois. She's a ninety-four, and she won't sit on that settee anymore, she stands all three strings like she's waiting on a bus." Denise folded the readers. "But sure. Dash."
+"Lane three's got a dead spot on the approach, and the settee's got a crack that'll pinch you right through your slacks. Ask Bev Dubois. She's a ninety-four, and she won't sit on that settee anymore, she stands the whole night like she's waiting on a bus." Denise folded the readers. "But sure. Dash."
 
 "Noted."
 
@@ -55,6 +51,10 @@ She read all ten, then the foul row, and straightened.
 "Twice." Denise reached past Ellen's elbow and found the lane 4 toggle by feel, without lowering her eyes. "Twenty-two years these've had numbers on them. I could do them in the dark. Some Thursdays I about have."
 
 She flipped it. Down the building, the lights over lane 4 hummed and came on, and Denise went to start the coffee urn without waiting to see what Ellen would say.
+
+For thirty-one years the FAA had picked her shifts, her airspace, and finally the month she stopped. This building was the first thing she had ever chosen on nobody's schedule but her own. She had come in on a Sunday in September for a cup of coffee, because the sign out front said ETTLE LANES and FOR SALE BY OWNER, and she had stayed two hours watching Arlene run a nine-year-old's birthday party with a pencil, a bad hip, and no list at all. Twelve children, ten lanes, one adult who could not keep up. She had driven home already doing the sequencing in her head.
+
+That week she read up on candlepin, which was the only kind of bowling anyone up here seemed to mean by the word. The ball was four and a half inches across with no holes. You got three throws to a frame instead of two, and every pin you knocked down stayed on the lane where it fell, for your next ball to use or trip over. Forty people in one room on a league night, every one of them needing to go somewhere in order. Somebody at the counter to put them there.
 
 * * *
 
@@ -116,7 +116,7 @@ Ellen looked at the vestibule. Ray Gagnon was standing on her mat with his hands
 
 "He's here."
 
-"Figured. This is Danny." More tapping. "Kettle Lanes, rekey, three exterior doors, eight a.m. tomorrow. Three keys a door. More?"
+"Figured. This is Danny." More tapping. "Kettle Lanes. Those doors are Schlage, I think, unless Arlene's still got the old Corbin on the bulkhead, in which case I'm bringing a cylinder, because nobody's made that pin since Reagan. Rekey, three exterior, eight a.m. tomorrow. Three keys a door. More?"
 
 "No. Three."
 
@@ -182,7 +182,7 @@ Lanes 5 and 6 belonged to the Ambrose Fire Auxiliary and Gagnon and Son. On 6, R
 
 The big man waved the Auxiliary bowler back to his seat and put a house ball in Ellen's hands.
 
-She had read up on candlepin in October, the week she made the offer. A ball four and a half inches across with no holes, three throws to a frame instead of two, and every pin you knocked down stayed on the lane where it fell, for your next ball to use or trip over. Sixty feet of honey-colored maple ran away from her shoes, dented near the line. The pins at the far end were as thin as their name. She swung her arm back and let go late and high.
+The ball was the size of a grapefruit and heavier than it looked. Sixty feet of honey-colored maple ran away from her shoes, dented near the line. The pins at the far end were as thin as their name. She swung her arm back and let go late and high.
 
 The ball came down well past the painted line ten feet out, and a red light came on over the lane. Then it jumped the gutter with a crack like a dropped plate and ran into lane 6, where it went through Ray's three pins and the fallen one he had angled across the deck. All of it went into the pit.
 
@@ -258,7 +258,7 @@ He sat down and took the pencil from behind his ear.
 
 Ellen stayed on her feet at the counter. Denise watched her over the top of the crossword.
 
-"Nine lanes," Ellen said. "And seven gets its lineage back."
+"Nine lanes," Ellen said. "And seven gets its lineage back." Lineage was what each bowler paid the house for a night's three strings, seven-fifty a head.
 
 "Honey, that's the Grange team. They'd have finished on eight and said thank you. They say thank you to the plow guy when he buries their mailbox. You start handing back money on night one, and every time a table hiccups from here to March somebody's going to be standing at my counter with their hand out."
 
