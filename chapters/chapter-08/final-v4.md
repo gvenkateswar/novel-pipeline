@@ -308,7 +308,7 @@ He came up the companionway. She gave it to him, the hose through the roll.
 
 "She read my name. On the air. In a voice that isn't hers."
 
-He took the binoculars from her and looked a long time, then at the store windows.
+He took the binoculars from her and looked at the float a long time, then at the store windows.
 
 "Then I'm calling Pike now," he said, "from the wing, with the door open, and you'll hear my side of it. I'll give you hers word for word when I'm off."
 
@@ -334,7 +334,7 @@ Beth looked across the water. The *Margaret Ann* had cast off from the float and
 
 He looked down at the deck, at the two trucks in their chains and the open lane beside them.
 
-"If I put you behind that door with me and we wait for daylight, Tess has until dark. If we do it your way, whoever comes has to cross thirty-four steps of dark steel that you know and he doesn't, to reach a door I'm standing in front of. That's the hold Pike authorized, with the door left where he can find it, and it's as near her line as I'm willing to go." He turned from the glass. "Then here is what I want. When we know they're coming, the brow comes in and gets chained, so the pier is shut and the only way aboard is from the water. The floods stay on, and the breakers for them are on that panel, behind this lock, where nobody but you can reach them. A man coming over the stern under those lights is a man I can see."
+"If I put you behind that door with me and we wait for daylight, Tess has until dark. If we do it your way, whoever comes has to cross thirty-four steps of dark steel that you know and he doesn't, to reach a door I'm standing in front of. That's the hold Pike authorized, with the door left where he can find it, and it's as near her line as I'm willing to go." He turned from the glass. "Then here is what I want. When we know they're coming, the brow comes in and gets chained, so the only way aboard is from the water. The floods stay on, and the breakers for them are on that panel, behind this lock, where nobody but you can reach them. A man coming over the stern under those lights is a man I can see."
 
 "And when we know it's the water, they go dark. Then he comes over the stern blind." She put her hand on the panel. "If the floods go dark, I come down the inside ladder to the car deck."
 
