@@ -1,0 +1,8 @@
+## Edit log
+- Voice (Sample 1 alignment): "The plumber's van behind it had a chain lying a little slack at the forward D-ring." → "…had a chain lying slack at the forward D-ring." (hedge cut)
+- Hedge/filler: "It was November, the same as the bulwark, the same as her hand." → "Just November, the same as the bulwark, the same as her hand." (echoes Sample 1's "Just November")
+- Clarity: "…went from orange to black with a red glow and a green at its edges." → "…went from orange to black, a red glow on one side and a green on the other." (running lights, port/starboard, no new fact)
+- Rhythm: "Then she reached over the register to tug Beth's braid like Beth was nine." → "Then Tess reached over the register and tugged Beth's braid like Beth was nine." (subject made clear; sentence tightened)
+- Tightening: "She could hear his heater fan running and smell his cigarette" → "She could hear his heater fan and smell his cigarette"; "turned up, toward the wheelhouse windows" → "turned up toward the wheelhouse windows".
+- Forbidden-phrase sweep: none found; no "seemed to/appeared to," no "a beat," no stated-emotion lines remaining. All 13 continuity fixes (six years, 22 minutes, deckhouse wall, ten feet, Pruett 8:00 boat, tank loan, heading, etc.) preserved verbatim in substance.
+- Flag (no change made): the closing scene's "so this window sat square above it" is an intentional end on exposure, not a question, so it complies with the ban on question endings. The bible's own Sample 1 has the chain "give a quarter turn it shouldn't have" on the reefer's front binder, while the chapter puts the slack chain on the plumber's van; left as revised, since this is a continuity-passed fact, but the author may want the sample aligned.
