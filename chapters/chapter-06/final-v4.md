@@ -112,15 +112,13 @@ She set a round on the block and split it.
 
 Local emergency management on Cutter wore a red vest and kept a pencil in her reading glasses. Beth didn't say it. She brought the hatchet down on the next round too hard, and the blade went through and bit into the block and stuck. She worked it free with both hands. Her fingers had locked on the haft and came off it one at a time. She split the halves into quarters, the quarters into sticks too thin to hold a flame, and kept on until he started down off the ledge.
 
-He came down off the rock and stopped by the block.
-
-"Zero six hundred tomorrow, a Coast Guard motor lifeboat at the town landing. Seas offshore will be under six feet by then, and the next system's in by tomorrow evening." He watched her hands, not her face. "If we miss this one, there isn't another before the ferry. A deputy meets us at the station, and you're at a safe site till Monday."
+"Zero six hundred tomorrow, a Coast Guard motor lifeboat at the town landing. Seas offshore will be under six feet by then, and the next system's in by tomorrow evening. If we miss this one, there isn't another before the ferry. A deputy meets us at the station, and you're at a safe site till Monday."
 
 Someone else's boat. Someone else's wheel, someone else's room with someone else's lock. She gathered the kindling into the crook of her arm.
 
 "Shore lane," she said. "Back of the bait shed. We look from the front door before anybody puts a foot on that ramp."
 
-"Why the back?"
+"Why the back of the shed and not the ramp?"
 
 "The lane's below the seawall. Nobody on the water sees it. The ramp, you see from every mooring in the harbor."
 
@@ -144,13 +142,13 @@ Beth watched the pocket close. Then she lifted the jacket off the door nail and 
 
 She took the box out of the store bag and set it on the bench beside his watch. Tess's Hershey bar stayed in the bag. He read the end of the box and put it down.
 
-He didn't reach for her. He stood with the lantern low at his back and his hands open at his sides, and she watched them stay open.
+He didn't reach for her. He stood with the lantern low at his back and his hands open at his sides.
 
-"You can stop it anywhere," he said. "Halfway. After. Anywhere."
+"You can stop this at any point," he said, "halfway or after, and I'll stop."
 
 "I know."
 
-"Then say it."
+"Then I'd like to hear you say it."
 
 "Yes." She took him by the front of the fleece. "Come here."
 
@@ -170,7 +168,7 @@ He lifted his head. "Yes."
 
 She found the box by feel on the cot rail, tore one loose and put it in his hand.
 
-He came into her slowly, and though she was wet and he was hard it still took her a breath to make room. She said "there," and he stopped and waited, and she moved first.
+He came into her slowly, and though she was wet and he was hard it still took her a breath to make room. She said "there," and he held still, and she moved first.
 
 Above them a hank of her father's net twine hung from a rafter nail and swung each time the frame took their weight. She watched it swing, then shut her eyes.
 
@@ -184,7 +182,7 @@ She didn't know where it was. Behind her head, or past the stove, or off her fee
 
 He didn't. He kept it slow when she didn't want slow, until she did, and the cot frame knocked the wall planks, slow, then not. The lantern hissed on its low wick. She came with both arms locked around him and her heels dug into the canvas, no sound in her at all. He followed, breath stopped against her ear, and let go of everything at once.
 
-He saw to the condom and came back under the blanket. Her fingers found the inside of his wrist and stayed there, two of them, where she'd take a man's pulse on deck.
+He saw to the condom and came back under the blanket. Her fingers found the inside of his wrist and stayed there.
 
 "Who are you?"
 
@@ -194,21 +192,21 @@ He saw to the condom and came back under the blanket. Her fingers found the insi
 
 He looked at the lantern for a while.
 
-"Four years ago," he said. "Boston. I had a witness."
+"Four years ago, in Boston," he said, "I had a witness."
 
 Ten minutes. He'd said that much in the Ashby shed, wiping the diesel off his hands, and given her nothing after. She'd let him keep the rest then.
 
-"Marisol Duarte. Twenty-four. She had a sister in Dorchester she hadn't seen in a year. It wasn't on the route." He breathed out. "I said yes."
+"Her name was Marisol Duarte, and she was twenty-four. She had a sister in Dorchester she hadn't seen in a year, and the sister's street wasn't on the route." He breathed out. "I said yes."
 
 Beth kept her fingers where they were.
 
-"Parking lot," he said. "Before I had the engine off."
+"It was in the parking lot," he said, "before I had the engine off."
 
 Under her fingers his pulse went on slow and level, the same at the end as at the start. It was the truth, all of it, and she stopped reading him and left her hand there because his wrist was warm.
 
 He turned his head on the blanket and looked at her. He opened his mouth as if there was more. Then he closed it, and leaned in, and kissed her instead, at the corner of her mouth first and then properly.
 
-She slept with his arm across her because the cot was too narrow for anything else. By six there would be the lane, the bait shed, the ramp, in that order. The drum burned down to coals and smelled of hot oil and old rust. His watch lay face down on the bench, running toward four-thirty, and on its nail by the stove his jacket gave up the damp of the ledge.
+She slept with his arm across her because the cot was too narrow for anything else. By six there would be the lane, the bait shed, the ramp. The drum burned down to coals and smelled of hot oil and old rust. His watch lay face down on the bench, running toward four-thirty, and on its nail by the stove his jacket gave up the damp of the ledge.
 
 ---
 
@@ -272,11 +270,11 @@ Inside the fish house she sat him on the bench, put his own right hand back over
 
 He held it. The blood had run to his wrist and was drying there.
 
-"I have to report."
+"I have to report this now."
 
 "You're bleeding."
 
-"It only works outside." He stood, and took the sat phone out onto the ledge under the low sky. The wind had already backed.
+"I know, and the phone still only works outside." He stood, and took the sat phone out onto the ledge under the low sky. The wind had already backed.
 
 Through the open door she heard enough. The lifeboat had stood off until the shot went out on the air, and then its rules had taken it home: no landing under fire, no second try with a system coming in by dark. The window was shut.
 
