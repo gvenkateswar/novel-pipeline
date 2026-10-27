@@ -16,7 +16,7 @@ The notebook lay open on the workbench at *CALLOWAY, E.* and the dollar sign, it
 
 He read it as a stranger would: her kitchen door to the minute, the Ashby key, the landing, *Do not disclose to subject*, and a column of *no change* in a hand that made no change look like suspicion. To anyone who didn't know what he knew, the pages proved that a man had slept beside her and written her down.
 
-He went out onto the ledge with the flashlight off. The grown-over path, the cove road beyond the alders, the shore below him: all of it black, and none of it would tell him which way she had gone. She had a quarter of an hour on him, on an island she had walked since she could walk, and he had one arm and boots that slid on wet rock. With a light he would show anyone on that road a marshal going where his witness was. Without one he would find the rain.
+He went out onto the ledge with the flashlight off. The grown-over path, the cove road beyond the alders, the shore below him: all of it black, and none of it would tell him which way she had gone. She had a quarter of an hour on him, on an island she had walked since she could walk, and he had one arm and boots that slid on wet rock.
 
 At twenty past eleven he got the antenna into open sky. Pike answered on the first ring.
 
@@ -54,7 +54,7 @@ He had handed Pike the detail and Quist the case, and handed Moreau a deputy any
 
 Back inside he fed the stove and left the bar where she had leaned it.
 
-The nine thousand had ridden the store's bank bag. He had watched it cross the rail on the morning of Day 1: Tess Marr in her red vest handing it up, a big captain who wouldn't look at a marshal tucking it inside his jacket. The Ashby key had come from the captain too, and on Saturday the captain had lied to his face about the reefer. Now she had gone to that man's boat. She would call it safety, and he thought she would be half right, and that she would not let him aboard to tell her which half.
+The Ashby key had come from the captain, and on Saturday the captain had lied to his face about the reefer. On the morning of Day 1 he had watched the store's bank bag, with the nine thousand in it, go from Tess Marr's hands inside that same captain's jacket. Now she had gone to his boat. She would call it safety, and he thought she would be half right, and that she would not let him aboard to tell her which half.
 
 He sat the night on the low bench facing the door, with the Glock on his knee and the stove going, and it was the longest he had kept still since Boston.
 
