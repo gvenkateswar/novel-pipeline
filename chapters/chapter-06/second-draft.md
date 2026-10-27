@@ -136,8 +136,6 @@ The cupboard marked MUGS hung a quarter inch low. He opened it, looked at the hi
 
 "You've opened it three times."
 
-He picked his fork back up.
-
 "Can I ask you something that isn't your building?"
 
 "You can ask."
@@ -388,7 +386,7 @@ At the door Hollis read them out. "Eleven inches out to here, eight of black and
 
 "Page two."
 
-Ellen stood and gave them the part of the Open that touched the derby, in about a minute and a half. Hollis let her finish. Then he took his cap off to think, and put it back on.
+Ellen stood and gave them the part of the Open that touched the derby, in about a minute and a half. Hollis let her finish.
 
 "Weigh-in's been at the town dock forty years," the treasurer said. "My father weighed in at that dock."
 
@@ -404,7 +402,7 @@ Hollis didn't move. He was looking at Ellen.
 
 "Stand by," Ellen said, and turned to page three. "Every raffle dollar is the derby's. It goes into an account I keep marked HELD the day the ticket sells, and out to your treasurer every Monday. The house takes the venue fee at the bottom of this page and nothing else. The bank's letter is stapled behind."
 
-Hollis tipped his head at the door. The treasurer set the cash box on the floor for the first time all morning and went out without his hat. Through the glass Ray watched him kneel at the hole and haul hand over hand, too fast.
+Hollis tipped his head at the door. The treasurer set the cash box on the floor for the first time all morning and went out without his hat.
 
 He came back in red to the ears. "Lost him at the hole. Felt like a good one."
 
