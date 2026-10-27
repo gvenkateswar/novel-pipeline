@@ -6,7 +6,7 @@
 
 Ned brought Russ over the gangway and didn't follow him aboard.
 
-He stood at the pier end of the brow with his duffel on his good side and looked up once at the wheelhouse glass. Then he turned and went up the stone pier at his hip's pace, past the wreck of the slip, and on up the Harbor Road in the last of the daylight. Anyone on the hill with binoculars would see the captain walk off his own boat with his bag. He had put the floods on before he went, though the sun wasn't down. The ramp sodiums over the raised bow stayed dark, the way he kept them when the boat wasn't working. The two trucks stood chained in the white light, the fire company's propane truck and the store's box truck, and nobody was on deck.
+He stood at the pier end of the brow with his duffel on his good side and looked up once at the wheelhouse glass. Then he turned and went up the stone pier at his hip's pace and on up the Harbor Road in the last of the daylight. Anyone on the hill with binoculars would see the captain walk off his own boat with his bag. He had put the floods on before he went, though the sun wasn't down. The ramp sodiums over the raised bow stayed dark, the way he kept them when the boat wasn't working. The two trucks stood chained in the white light, the fire company's propane truck and the store's box truck, and nobody was on deck.
 
 In the crew mess Russ leaned on the doorframe.
 
@@ -60,7 +60,7 @@ Her thumb was on the fixed set's channel knob.
 
 She turned it down from sixteen, click by click, and stopped on nine.
 
-Not the Icom. The fixed set carried, and it sounded like a boat. Half the scanners on the island would carry it too, and that was fine; the only one who would do anything with it was Tess. She lifted the mic off its hook.
+Not the Icom. The fixed set carried, and it sounded like a boat. Half the island's scanners would carry it too. Fine. Only Tess would act on it. She lifted the mic off its hook.
 
 Her own voice. Low. No hurry in it.
 
@@ -74,7 +74,7 @@ The set opened almost before she'd let go.
 
 "Count me for six, Tess. Keep it off the air."
 
-*Keep it off the air.* The Day 1 words. Tess had carried them once already. She'd carry them again.
+*Keep it off the air.* The Day 1 words. Tess had carried them once already.
 
 "Course I will. Where are you?"
 
@@ -104,7 +104,7 @@ One more thing to say, and it wasn't for whoever stood behind Tess.
 
 She let go of the key. Her thumb stayed on it.
 
-The speaker hissed. Somebody at the store had keyed and was holding it. The carrier ran open, a dry empty rush, the sound of a woman in a back office with the mic up at her mouth and nothing coming out.
+The speaker hissed. Somebody at the store had keyed and was holding it. The carrier ran open, the sound of a woman in a back office with the mic up at her mouth and nothing coming out.
 
 Beth wiped the grille of the mic on her sleeve.
 
@@ -116,7 +116,7 @@ Beth wiped the grille of the mic on her sleeve.
 
 Then the wait.
 
-She did what a woman alone on watch would do. She wiped the forward windows with Ned's rag and left them smeared, gray arcs the width of her arm. She opened the bilge pump panel, read the run lights and shut it. She braided her hair again and tied it off with a bit of marline from the chart table. She sat in Ned's chair, which had his shape and not hers, and put her boots on the rail.
+She did what a woman alone on watch would do. She wiped the forward windows with Ned's rag and left them smeared, gray arcs the width of her arm. She opened the bilge pump panel, read the run lights and shut it. She sat in Ned's chair, which had his shape and not hers, and put her boots on the rail.
 
 Outside it had gone clear and bitter. The harbor lay flat. The *Margaret Ann* sat on her mooring off the fish pier with her deck lights burning white, and up the hill the store had one window lit, the generator's. The stars came out over the northwest wind, so many and so sharp the sky looked crowded.
 
@@ -148,9 +148,7 @@ He was off the brow and running up the stone pier, his boots slapping, one hand 
 
 What Tess had just done would get her killed tonight. And two could hold a boat whose only open door was now the stern.
 
-She went back in and opened the lighting panel on the aft bulkhead. She put her hand on the car-deck flood breakers.
-
-She threw them, and below her the deck went black. With the same hand she killed the wheelhouse lights, sat down on the top tread of the companionway in the dark and worked off her boots, heel against toe.
+She went back in, opened the lighting panel on the aft bulkhead and threw the car-deck flood breakers. Below her the deck went black. She killed the wheelhouse lights, sat on the top tread of the companionway in the dark and worked off her boots, heel against toe.
 
 ---
 
@@ -158,15 +156,15 @@ She threw them, and below her the deck went black. With the same hand she killed
 
 The box truck's aluminum was cold through two layers at his back, and Dane let it be cold.
 
-She had put him here, and here was good. The alley ran fore and aft between the two trucks. From its after mouth he had the stern gate as a lit rectangle of steel and chain, the black water beyond it. To his left, past the propane tank, the deckhouse door and the foot of the outside ladder. A man coming over the port quarter would have to come forward past that mouth to reach either one, close enough to touch.
+She had put him here, and here was good. From the alley's after mouth he had the stern gate as a lit rectangle of steel and chain, the black water beyond it. To his left, past the propane tank, the deckhouse door and the foot of the outside ladder. A man coming over the port quarter would have to come forward past that mouth to reach either one, close enough to touch.
 
 Hiking boots on steel plate. Wrong for a deck, and he'd known it all week.
 
-The left arm lay inside his soft-shell where he had zipped it, useless above the shoulder, the hand at the end of it good for nothing that needed a grip. The Glock was in his right hand, low along his thigh, his finger laid straight along the frame.
+The left arm lay zipped inside his soft-shell, useless above the shoulder, the hand good for nothing that needed a grip. The Glock was in his right hand, low along his thigh, his finger laid straight along the frame.
 
 He heard Russ go. Boots on the brow, then on stone, at a run, going away up the pier. Russ was not a man who ran for nothing. Dane didn't know why, and stayed where he was.
 
-Out on the flat water an outboard was running, well off, a small engine pushing a light boat. Over water this still, a man could hear a cough a mile away. The note came steadily nearer and then cut.
+Out on the flat water an outboard ran, well off, a small engine pushing a light boat. Over water this still a man could hear a cough a mile away. The note came nearer and cut.
 
 Quiet, and wind.
 
@@ -174,13 +172,13 @@ Then a stroke. A paddle going in clean and coming out, and the drip off the blad
 
 The floods went out.
 
-The lit frame at the end of the alley was gone, and so was everything else, the trucks, his own hand. Someone had warned her, then, and she had done what she'd said she would do. She was coming down.
+The lit frame at the end of the alley was gone, and so was everything else, the trucks, his own hand. Someone had warned her, then. She was coming down.
 
 He did not move. A man who moves blind on a deck he doesn't know makes noise, and noise was hers to use tonight, not his. Whatever came, he would not fire into a dark she was somewhere in.
 
 Four years ago a woman had asked him for ten minutes, and he had given them to her. He kept his back on the cold aluminum.
 
-Shane Doucette, twenty-nine, Arsenault's sternman, with a bad left leg, had been talked along the Harbor Road by radio in the small hours because he didn't know the island.
+Shane Doucette, twenty-nine, Arsenault's sternman, with a bad left leg, had been talked along the Harbor Road by radio because he didn't know the island.
 
 He didn't know this boat either.
 
@@ -256,7 +254,7 @@ She sat back and took him in hand over hand, the wet rope stiffening in the cold
 
 Behind her a ratchet clicked, and chain fell slack with a long rattle. He'd found the release one-handed. She had put his hand on that binder before dark.
 
-Then his boots, fast along the port bulwark, the way she had walked him. He stopped at the gatepost, between her and the water. A holster snapped.
+Then his boots, fast along the port bulwark. He stopped at the gatepost, between her and the water. A holster snapped.
 
 "Marshal." Dane's voice, level, no louder than in her kitchen. "Both hands on the rung, Shane."
 
@@ -276,17 +274,17 @@ The Icom woke in her float coat.
 
 She keyed. "Whitcomb, *North Reach*. Go ahead."
 
-"I have one in custody at the store. Lyle Arsenault. Taken at the back door with the store's radio still in his hand. Over."
+"I have one in custody at the store. Lyle Arsenault. Taken at the back door with the store's radio in his hand. Over."
 
 Dane, beside her in the dark, let out a breath through his nose.
 
 "*North Reach* copies one in custody. Say the status of Tess Marr. Over."
 
-"Tess Marr is okay. She was on the office floor with the mic cord round her wrist. She's sitting up and talking. Over."
+"Tess Marr is unhurt. Found on the office floor with the mic cord round her wrist. Sitting up and talking. Over."
 
-"Copy okay. *North Reach* has one aboard, Doucette, in cuffs. No injuries. Over."
+"Copy unhurt. *North Reach* has one aboard, Doucette, in cuffs. No injuries. Over."
 
-"Copy. Holding mine here till daylight. Whitcomb standing by one-six."
+"Copy. Holding my prisoner at the store till daylight. Whitcomb standing by one-six."
 
 "*North Reach* standing by one-six."
 
@@ -294,7 +292,7 @@ Dane's good hand came up to her jaw, cold, and he kissed her once and let her go
 
 She walked forward to the deckhouse door, found the ramp-light switch by touch and pushed it up.
 
-The sodiums over the ramp warmed slowly, dull pink and then orange, and the light came back down the car deck. Doucette shaking under the navy blanket at the stern gate, his wrists cuffed behind him. The gun against a chock. The chain in the box truck's tie-down, slack between the binder and the D-ring, still ringing faintly.
+The sodiums over the ramp warmed slowly, dull pink and then orange, and the light came back down the car deck. Doucette shaking under the navy blanket at the stern gate, his wrists cuffed behind him. The gun against a chock. The chain in the box truck's tie-down, still ringing faintly.
 
 ---
 
@@ -304,7 +302,7 @@ Toward three, with Doucette asleep by the heater in the crew mess, Dane stood on
 
 At first gray Russ walked Arsenault down the stone pier.
 
-He walked him on the inside, away from the edge, one hand on the chain of the cuffs and the other at his elbow, his own holster side turned away. Arsenault went where he was put: clean-shaven, the good Musto jacket zipped to the chin. He said nothing at all.
+He walked him on the inside, one hand on the chain of the cuffs and the other at his elbow, his own holster side turned away. Arsenault went where he was put: clean-shaven, the good Musto jacket zipped to the chin. He said nothing at all.
 
 Tess came behind them in her red vest. Ned walked beside her, his duffel gone, his hands in his pockets. He didn't touch her. A foot of cold air lay between his sleeve and hers, all the way down the pier.
 
@@ -312,9 +310,9 @@ Tess came behind them in her red vest. Ned walked beside her, his duffel gone, h
 
 "How'd it go?" Dane said.
 
-"Back door was open. I stood off it, out of the light, where he'd have to come through." Russ shifted his weight. "He had the cuffs on before he'd turned around."
+"Back door was open. I stood off it, out of the light, where he'd have to come through. He had the cuffs on before he'd turned around."
 
-He looked across the harbor at the *Margaret Ann*, white-lit on her mooring. "Other hand's still aboard her with the lights on. He's not going anywhere. Marine Patrol can have him."
+He looked across the harbor at the *Margaret Ann*, white-lit on her mooring. "The second crewman's still aboard her with the lights on. He's not going anywhere. Marine Patrol can have him."
 
 Dane took Arsenault from him at the brow and walked him down to the crew mess, where Doucette sat by the heater under the blanket, and stayed with them both.
 
