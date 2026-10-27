@@ -18,9 +18,7 @@ Russ looked at Beth.
 
 "Tess," she said. "The back door. The Ashby place. The landing. All of it went through the store."
 
-Russ took off his cap, looked into it a while, and put it back on.
-
-"Jolene's cousin's boat," he said. "Last time there was trouble in my family I was the last man on Cutter to hear about it." He looked at Dane, not her. "Somebody ought to arrest somebody on this island before your people get here and do it for us. Might as well be the constable."
+"Jolene's cousin's boat," Russ said. "Last time there was trouble in my family I was the last man on Cutter to hear about it." He looked at Dane, not her. "Somebody ought to arrest somebody on this island before your people get here and do it for us. Might as well be the constable."
 
 "What do you carry," Dane said, "and who trained you?"
 
@@ -62,7 +60,7 @@ Her thumb was on the fixed set's channel knob.
 
 She turned it down from sixteen, click by click, and stopped on nine.
 
-Not the Icom. The fixed set carried, and it sounded like a boat. She lifted the mic off its hook.
+Not the Icom. The fixed set carried, and it sounded like a boat. Half the scanners on the island would carry it too, and that was fine; the only one who would do anything with it was Tess. She lifted the mic off its hook.
 
 Her own voice. Low. No hurry in it.
 
@@ -204,19 +202,15 @@ The foot of the outside ladder was under her left hand. From here to the stern g
 
 A heel rang on the plates aft. A soft drag. The heel again. Heavy on the right. The left leg coming after, careful, never trusted.
 
-She knew the walk.
-
 He was coming forward along the port bulwark, toward where she had told the whole island she would be.
 
 She went down on one knee and put her palm on the plate. A binder rang, struck by a passing shin. He stopped. He came on.
 
 He was at the alley mouth.
 
-Dane came out of the dark. Body against body. A grunt. Both of them down, hard. Chain jumped and rang in the box truck's tie-downs, and kept ringing.
+Dane came out of the dark. Body against body. A grunt. Both of them down, hard. Chain jumped and rang in the box truck's tie-downs.
 
-Somebody was fighting the chain one-handed and losing, a sleeve fouled in the binder run.
-
-The ringing changed. A man was getting up off the plates. Only one.
+A man was getting up off the plates. Only one. Heavy on the right. The chain kept ringing where the other lay fouled.
 
 Beth was already moving: forward along the deckhouse wall, across the open lane ahead of the trucks to the port bulwark, then aft along it with the box truck's flank between her and the chains. Her right hand rode the cap. A bin lip. The seam in the plate where they'd welded a patch the winter her father died. She stopped well aft of the trucks.
 
@@ -232,7 +226,7 @@ Black. A ringing in her ears.
 
 She didn't answer him.
 
-The heel came after her, fast and uneven. She backed along the cap, her feet reading the plates. The ring buoy bracket went past under her fingers.
+The heel came after her, fast and uneven. A second shot at sound was a guess, and its flash would show the marshal where to aim. He wanted his hands on her. She backed along the cap, her feet reading the plates. The ring buoy bracket went past under her fingers.
 
 The gatepost hit her hip. She turned her shoulder to the sound.
 
@@ -262,45 +256,67 @@ She sat back and took him in hand over hand, the wet rope stiffening in the cold
 
 Behind her a ratchet clicked, and chain fell slack with a long rattle. He'd found the release one-handed. She had put his hand on that binder before dark.
 
-A holster snapped. He came aft along the bulwark by feel, and his hand found her shoulder, then the line.
+Then his boots, fast along the port bulwark, the way she had walked him. He stopped at the gatepost, between her and the water. A holster snapped.
 
-Doucette couldn't climb. They lay flat, took him under the arms and brought him up the rungs between them and over the gate chain. He lay on the plates shaking so hard his teeth clattered.
+"Marshal." Dane's voice, level, no louder than in her kitchen. "Both hands on the rung, Shane."
 
-Dane knelt on his back and cuffed him one-handed, the ratchet of the cuffs loud and small.
+He said it once.
+
+"Knee on the bottom rung," Beth said. "Now the next."
+
+She took Doucette under the arms and hauled. Dane's good hand came down past her shoulder and found the hood, and between them they got him up the rungs and over the gate chain. He lay on the plates shaking so hard his teeth clattered.
+
+Dane rolled him onto his face, knelt on his back and cuffed him one-handed, the ratchet of the cuffs loud and small.
 
 Beth fetched the navy blanket off the lower bunk in the dark and put it over him.
 
 The Icom woke in her float coat.
 
-"*North Reach*, Whitcomb." Russ, clipped and formal. "One in custody at the store. Tess Marr is unhurt. Over."
+"*North Reach*, *North Reach*, Whitcomb." Russ, clipped and formal, his breath still short under it.
 
-She keyed. "Whitcomb, *North Reach*. Copy. One in custody aboard. Standing by one-six."
+She keyed. "Whitcomb, *North Reach*. Go ahead."
+
+"I have one in custody at the store. Lyle Arsenault. Taken at the back door with the store's radio still in his hand. Over."
+
+Dane, beside her in the dark, let out a breath through his nose.
+
+"*North Reach* copies one in custody. Say the status of Tess Marr. Over."
+
+"Tess Marr is okay. She was on the office floor with the mic cord round her wrist. She's sitting up and talking. Over."
+
+"Copy okay. *North Reach* has one aboard, Doucette, in cuffs. No injuries. Over."
+
+"Copy. Holding mine here till daylight. Whitcomb standing by one-six."
+
+"*North Reach* standing by one-six."
 
 Dane's good hand came up to her jaw, cold, and he kissed her once and let her go.
 
 She walked forward to the deckhouse door, found the ramp-light switch by touch and pushed it up.
 
-The sodiums over the ramp warmed slowly, dull pink and then orange, and the light came back down the car deck. Doucette shaking under the navy blanket at the stern gate. The gun against a chock. The chain in the box truck's tie-down, slack between the binder and the D-ring, still ringing faintly.
+The sodiums over the ramp warmed slowly, dull pink and then orange, and the light came back down the car deck. Doucette shaking under the navy blanket at the stern gate, his wrists cuffed behind him. The gun against a chock. The chain in the box truck's tie-down, slack between the binder and the D-ring, still ringing faintly.
 
 ---
 
-*Day 9, one in the morning, then first light*
+*Day 9, three in the morning, then first light*
 
-Russ brought Lyle Arsenault down the stone pier in cuffs.
+Toward three, with Doucette asleep by the heater in the crew mess, Dane stood on the open deck under the stars with the Iridium and gave Pike the night in order. Relief would come the first hour the sea allowed. The sea already allowed it.
 
-Clean-shaven. The good Musto jacket, zipped to the chin. He walked like a man going to look at a boat he might buy, and he said nothing at all.
+At first gray Russ walked Arsenault down the stone pier.
 
-Tess walked beside them in her red vest. Ned walked on her other side, his duffel gone, his hands in his pockets. He didn't touch her. A foot of cold air lay between his sleeve and hers, all the way down the pier.
+He walked him on the inside, away from the edge, one hand on the chain of the cuffs and the other at his elbow, his own holster side turned away. Arsenault went where he was put: clean-shaven, the good Musto jacket zipped to the chin. He said nothing at all.
+
+Tess came behind them in her red vest. Ned walked beside her, his duffel gone, his hands in his pockets. He didn't touch her. A foot of cold air lay between his sleeve and hers, all the way down the pier.
 
 "Town office has no power," Russ said at the foot of the gangway. "You've got heat, light, steel, a lock and a federal officer."
 
 "How'd it go?" Dane said.
 
-"He had her by the wrist and the radio by its cord." Russ shifted his weight. "I asked him for both."
+"Back door was open. I stood off it, out of the light, where he'd have to come through." Russ shifted his weight. "He had the cuffs on before he'd turned around."
 
 He looked across the harbor at the *Margaret Ann*, white-lit on her mooring. "Other hand's still aboard her with the lights on. He's not going anywhere. Marine Patrol can have him."
 
-Dane took Arsenault down to the crew mess, where Doucette sat by the heater under the blanket, and stayed with them both.
+Dane took Arsenault from him at the brow and walked him down to the crew mess, where Doucette sat by the heater under the blanket, and stayed with them both.
 
 "She isn't under arrest," Russ said, low, to Beth. "I'm not sure what she is."
 
@@ -312,9 +328,7 @@ Beth didn't step back. She didn't step closer.
 
 "Russ, put her in the passenger cabin. The stove's lit."
 
-Toward three, with Russ in the mess doorway, Dane stood on the open deck under the stars with the Iridium and gave Pike the night in order. Relief would come the first hour the sea allowed. The sea already allowed it.
-
-At first gray Ned climbed the ladder to the wheelhouse. He hadn't brought coffee.
+When the sun cleared the hill Ned climbed the ladder to the wheelhouse. He hadn't brought coffee.
 
 The harbor lay flat, the northwest wind dropping to nothing. Through the smeared glass Beth could see down into the passenger cabin window. Tess sat upright on the bench by the stove with her hands in her lap, looking out at the water.
 
