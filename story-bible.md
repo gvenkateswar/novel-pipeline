@@ -487,6 +487,12 @@ Never print the year. Weekdays may appear ("a Friday in December"). Thanksgiving
 
 ---
 
+### Rules added from cold reads (orchestrator, autopilot)
+
+- **Romance must register every chapter from Ch 03 on.** The Ch 01–02 cold reads said the suspense works and the romance barely registers. In an open-door book that is the main risk. From Ch 03 onward, every chapter carries at least one beat of physical awareness or charged contact between Beth and Dane that a reader would call attraction (a touch that lasts, a look held, a line said too close), placed where the beat sheet has them alone. Not a kiss before Ch 04; the heat map stands.
+- **Beth and Dane must not sound alike.** Both cold reads flagged that the leads share one voice and both count things. Counting is Beth's habit only. Dane reads people and distances; he does not count. Beth's sentences are shorter and bodily; Dane's run a little longer and sit in judgment of people. The voice editor checks this.
+- **Vary scene endings.** No more than two scenes per chapter may end on a one-line "button" or a barometer reading.
+
 ## STYLE REFERENCE
 
 *As in Book 1, these are original sample passages written for this book, not excerpts from published novels. The prose-writer and voice-editor match their register, sentence length and level of detail. The author may replace or add published paragraphs at any time.*

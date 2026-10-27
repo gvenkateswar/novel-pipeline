@@ -98,7 +98,7 @@ He put two fingers under the latch, lifted it the little the chair allowed, and 
 
 By half past eleven the sleet was back, a dry rattle on the north windows. The Icom handheld sat on the kitchen table on 16 and 13.
 
-Dane walked the property while she stood at the kitchen window with a dish rag and washed nothing. He stayed longest at the corner of the yard where the guest mooring lined up with her bedroom window. She'd lined that one up herself at dawn.
+Dane walked the property while she stood at the kitchen window with a dish rag and washed nothing. He stayed longest at the corner of the yard where the guest mooring lined up with the window she stood at. She'd lined that one up herself at dawn.
 
 The woodbox was half empty and it would be dark by four. She pulled the chair out from under the latch, put her shoulder to the door and shoved the latch up. It stuck. "Damn thing," she said, and shoved again, and it gave.
 
@@ -130,7 +130,7 @@ He went through it out loud, the way she'd run a checklist, and closed each one.
 
 "LifeFlight lands on the ballfield," she said.
 
-He looked at the brick in the middle of the house. "I thought about moving you tonight. I don't have a house I've walked. This one has a chimney a round won't go through, and a door I can hear. We stay here tonight. Nobody outside my office knows where. Nobody will."
+He looked at the brick in the middle of the house. "I thought about moving you tonight. I don't have a house I've walked. This one has a chimney a round won't go through, and a door I can hear. We stay here tonight. Half this island watched me walk up your road. Nobody knows you stayed. Nobody will."
 
 She didn't need his reasons. Past the breakwater the bay was white to the horizon. Nothing small was getting out of that harbor today.
 
@@ -206,7 +206,7 @@ Dane lifted the wall phone and listened. She could hear it from the table: a fas
 
 He came in ten minutes later and sat across from her, and spoke slower than he had all day.
 
-"That was Pike. My supervisor in Portland. Monday's the last day the grand jury sits before his hearing deadline. If they don't indict Pelletier that day, he gets a hearing by Friday, and the case starts coming apart. The defense won't give us more time."
+"That was Pike. My supervisor in Portland. Monday's the last day the grand jury sits in time. If they don't indict Pelletier that day, he gets a hearing by Friday, and the case starts coming apart. The defense won't give us more time."
 
 "Ned says ten days."
 
