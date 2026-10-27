@@ -34,7 +34,7 @@ He gave it in the order it had happened, because that was the only order that wo
 
 The line hissed.
 
-"All of that goes to Moreau, Deputy," Quist said, meaning the Assistant US Attorney running the grand jury. "And from Moreau to the defense. You know that."
+"All of that goes to Moreau," Quist said. The Assistant US Attorney, the man who would put Beth in front of the grand jury. "And from Moreau to the defense, Deputy. You know that."
 
 "Yes."
 
@@ -118,11 +118,11 @@ He left it on.
 
 *Day 8, twenty to seven*
 
-Beth took the Icom out of its freezer bag and switched it on. She turned the Icom from sixteen to nine.
+Beth took the Icom out of its freezer bag, switched it on and turned it from sixteen to nine.
 
 Nobody. Their old channel. Tess on the store's set, Beth fourteen on the *Ruthie C*: *Tell your father his coffee's on, two sugars.*
 
-She counted. At eleven she turned the Icom back to sixteen. She hadn't keyed it.
+She counted to eleven and turned back to sixteen. She hadn't keyed it.
 
 The green ledger, squared to the counter's edge. *Island Girl,* 3:52, and white lines under it to the foot of the page. The spiral log beside it: *Calloway — home (phone)*, written down before the back door was tried.
 
@@ -134,7 +134,7 @@ Her hand went to the end of her braid. On Tuesday Tess's hands had been on the r
 
 *Secondary location, B's family property, not disclosed.* He'd kept the fish house out of his own book. Every place he reported had come back as a man with a gun. The one place that went nowhere had had nothing come to it in four days but weather. If it had been him, the fish house would have burned first.
 
-The tank-loan winter, Tess had added the store's columns twice every night and pressed through the paper on the second total.
+The winter of the tank loan, Tess had added the store's column twice every night. On the second total the pencil went through the paper.
 
 Beth sat down in the helm chair because her legs decided it. She picked up Ned's mug. The coffee had gone cold. She drank it, all of it, then switched the Icom off and bagged it.
 
@@ -202,17 +202,17 @@ She looked at the black tape on his sleeve. She didn't ask what the call had cos
 
 He told her anyway.
 
-"I reported that you read the log. I reported us. Both by name. I'm off this detail when relief lands, and off the case. Quist has to tell Moreau why. There'll be a referral to internal affairs." He set his good hand on the table. "It's in the record now. Moreau has to hand it to the defense. A lawyer can stand up at trial and put it to you under oath. I'd rather you get asked than have it found."
+"I reported that you read the log. I reported us. Both by name. I'm off this detail when relief lands, and off the case. Quist has to tell Moreau why. There'll be a referral to internal affairs." He set his good hand on the table. "Moreau has to hand it to the defense. A lawyer can stand up at trial and put it to you under oath. I'd rather you get asked than have it found."
 
-"You wrote *assess*." Her voice came out low. "After."
+"You wrote *assess*." Her voice came out low, from the chest. "After."
 
 He didn't look away.
 
-"You asked me about the money with your hands on me."
+"Your hands were on me. You were asking about the money."
 
 Nothing.
 
-"And the parking lot's yours. Carry her. Don't set her down on me."
+"The parking lot's yours. You carry her. Not me."
 
 He took it. Then he lifted his left arm onto the table with his good hand and laid it beside the other, both hands open where she could see them.
 
@@ -222,7 +222,7 @@ Her left palm stayed on the table between them, scar up. His hand came across an
 
 "The heel was on the Harbor Road at one this morning," she said. "By the church. Somebody was talking him along on a radio."
 
-Ned filled the doorway.
+Ned took the green jacket off the settee and shrugged into it, filling the doorway.
 
 "Somebody's got to get Russ," he said. "I can walk the Harbor Road and nobody looks twice."
 
@@ -231,8 +231,6 @@ Ned filled the doorway.
 "Nobody shoots the ferry captain on his own road in daylight."
 
 "He's right," Beth said.
-
-Ned took the green jacket off the settee, shook it out and shrugged into it. His boots went along the deck and onto the brow, and the aluminum rang under each one, and then the pier took them and the ringing stopped.
 
 ---
 
@@ -312,13 +310,13 @@ He went still under her hand.
 
 The glass had come up four since noon. Beth tapped it with one knuckle on her way past and went to the forward windows.
 
-Out on the harbor the northwest was laying the chop flat in long streaks. Across the water the store's windows were lit, and the *Margaret Ann* sat on her mooring with her deck lights burning again.
+Out on the harbor the northwest was laying the chop flat in long streaks. Across the water the store's windows were lit and the *Margaret Ann*'s deck lights burned again.
 
-"They have to get to me before Sunday's boat," she said. "Once your relief lands tomorrow, they've lost."
+"They have to get to me before Sunday's boat," she said. "Once relief lands, they've lost."
 
 Dane stood by the lighting panel on the aft bulkhead. "Go on."
 
-"By morning the sea's down, and Arsenault can sail. The island end of it walks off with him. Whatever I say on nine gets passed on. It has to be my voice. Not Ned's. Not yours."
+"By morning he can sail. What I say on nine gets passed on. My voice. Not Ned's. Not yours."
 
 "Saying what?"
 
@@ -326,19 +324,19 @@ Dane stood by the lighting panel on the aft bulkhead. "Go on."
 
 "Why the boat?"
 
-"It's steel. I know it blind and they don't." She looked aft through the glass, down at the deck going blue in the last light. "From the foot of this ladder to the stern gate is thirty-four steps. I've walked them in the dark for eleven years. I pick the ground. Not them."
+"Steel. I know it blind." She looked aft through the glass, down at the deck going blue in the last light. "Foot of this ladder to the stern gate is thirty-four steps. Eleven years in the dark. I pick the ground."
 
-He didn't raise his voice. "You're the witness. Pike says I'm still the detail, and I'm taking her at her word. We lock that door with both of us behind it. Relief's here by noon."
+He didn't raise his voice. "You're the witness. Pike says I'm still the detail, and I'm taking her at her word. We lock that door with both of us behind it, and relief is here by noon. Nobody on this island has to be a target between now and then."
 
-"If we sit tight and he sails, there's one person left on this island who can put him away. Tess. She's in that store tonight with whoever's in it with her. You think he sails and leaves her behind to talk? Waiting kills Tess. And this way you don't get it from Ned or a phone log. You get it from her mouth."
+"He sails. Tess is the one left to talk. Waiting kills her."
 
-"You go down on that deck, the case goes with you. I can call it on twenty-two alpha myself."
+"You go down on that deck, the case goes with you. If she's in danger tonight, I can call it on twenty-two alpha myself and let the people whose job it is go in. That keeps you out of it, and it keeps your testimony clean."
 
-"He sees blue lights and walks back up the road. Nobody comes down that pier unless Tess hears my voice."
+"Blue lights, he walks back up the road. Nobody comes down that pier unless Tess hears my voice."
 
-"Then I hold the boat alone."
+"Then I hold the boat. The gangway and the car deck are the only ways on from the pier, and I can cover both of them. I don't need two arms to hold a door."
 
-"Car deck and gangway, with one arm? I can reach either blind."
+"Either one, I can reach blind."
 
 He looked down at the arm, then across the water at the store.
 
@@ -348,6 +346,6 @@ He looked down at the arm, then across the water at the store.
 
 Far down the pier road two figures were coming in the last light, one big and stooped, one wide in a ball cap.
 
-Dane took the Iridium out of his jacket and went out the door onto the wheelhouse wing. The northwest wind took his collar. He turned his face up to the clearing sky, put the phone to his ear and began to report.
+Beth took the Icom out of its freezer bag and set it on the chart table beside the fixed set, its knob still on sixteen.
 
-Inside the glass, Beth took the Icom out of its freezer bag and set it on the chart table beside the fixed set, its knob still on sixteen.
+Dane took the Iridium out of his jacket and went out the door onto the wheelhouse wing. Through the glass she watched the northwest wind take his collar. He turned his face up to the clearing sky, put the phone to his ear and began to report.
