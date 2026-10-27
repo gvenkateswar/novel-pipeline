@@ -6,7 +6,7 @@
 
 The strip's paper backing came away yellow and brittle, and the old glue under it smelled like a closed drawer.
 
-Beth laid it across the middle of the graze first. With her thumb she pushed the edges of the cut together, then pressed the strip down over them. The skin held. If she had said a name on Wednesday, it would be a clean arm. She had pressed the wound twice that morning and again at noon, and waited till it quit about two, because strips won't stick to a seeping cut.
+Beth laid it across the middle of the graze first. With her thumb she pushed the edges of the cut together, then pressed the strip down over them. The cut had quit seeping about two, after she'd held pressure on it all morning and again at noon. The skin held. If she had said a name on Wednesday, it would be a clean arm.
 
 Dane sat on the edge of the cot with his left elbow braced on his knee. His right hand was clamped round his left wrist, holding his own arm still for her. His watch was on the end of the workbench by the cot. She'd had him take it off before she started. The arm would swell.
 
@@ -14,35 +14,33 @@ Rain came at the shingles in bands. The window on the water side had gone the co
 
 She'd boiled water on the drum, cooled it in a coffee can, cleaned a hand's width all round and dried the edges with gauze. She laid two more strips. The next came off its paper and wouldn't take, its glue gone to dust, and so did the one behind it. She turned the box over to the date. Four years past. She took another out anyway, and it held.
 
-His breath was on the inside of her wrist each time she leaned in. He watched her hands. Not her face.
+His breath was on the inside of her wrist each time she bent to the arm. He leaned toward her to see. Her free palm went flat on his chest and held him off. Under it his heart went steady, slow, nothing in it she could use. She left her hand there and laid the next strip.
 
-He leaned toward her to see. Her free palm went flat on his chest and stopped him. Under it his heart went steady, slow, nothing in it she could use. She left her hand there and laid the next strip.
-
-"Electrical tape," he said, when she reached past the gauze for the roll. "Your father had opinions."
+"Electrical tape," he said, when she reached past the gauze for the roll.
 
 "It sticks wet."
 
-"It's better tape than the Service issues."
+"Then it's better than anything the Service has ever issued me."
 
 She put the gauze pad over the strips and taped it round, not tight.
 
 "These hold it closed. They don't hold it if you work it. Nothing over your shoulder. No hard grip with that hand."
 
-"Then I'll keep it at my side and leave it alone, which is about all I had planned for it anyway."
+"Then I'll keep it at my side and leave it alone."
 
 "Through Saturday at least."
 
-He nodded. "Pike says the system will be in by dark, and nothing moves on the water until it blows through. The ferry is still Sunday."
+He nodded. "Pike says the system will be in by dark and nothing moves on the water until it has blown through, so the ferry is still Sunday."
 
 She didn't ask what else Pike had said.
 
-"Wake me at quarter past eleven," he said. "I have the night call."
+"Wake me at a quarter past eleven, would you? I have the night call to make."
 
 "The watch can wake you."
 
 He picked the watch up off the workbench, set it with his thumb, put it back. Then he lay down on the cot with his bad arm across his stomach. His soft-shell lay on the plank floor where he'd dropped it, a dark heap by the stove.
 
-He was asleep inside five minutes. His mouth went slack. He'd been up since half past four, and he'd bled into his sleeve on the run home.
+He was asleep inside five minutes. He'd been up since half past four, and he'd bled into his sleeve on the run home.
 
 She swept the strip papers off the workbench into her palm and fed them to the stove. Then she sat on the low bench across the room, where she had the door, and was still sitting there when the window went black.
 
@@ -54,13 +52,13 @@ At twenty to eleven the wind had found every gap in the shingles. Rain drove aga
 
 Beth got up to feed it and stepped on his jacket.
 
-Soaked through. She lifted it to hang on the nail by the stove, where it had hung last night to dry. It came up heavier on one side. She got the collar over the nail. The jacket swung open at the inside pocket, zipper still down from the last call on the ledge, and something slid out and hit the planks.
+Soaked through. She lifted it to hang on the nail by the stove. It came up heavier on one side. She got the collar over the nail. The jacket swung open at the inside pocket, zipper still down from the last call on the ledge, and something slid out and hit the planks.
 
 The notebook. Yellow cover, face down, splayed.
 
 She bent for it. It had fallen open. At the top of the left-hand page, in a hand that wasn't hers or her father's, was her name: *CALLOWAY, E.* Under it, a dollar sign.
 
-She carried it to the workbench instead of the pocket, turned the lantern up a quarter turn and held the page to the light. On purpose. It had her name on it.
+She carried it to the workbench instead of the pocket, turned the lantern up a quarter turn and held the page to the light. It had her name on it.
 
 *D2 Sat 1000 — Quist. $9,000 cash deposited subject's acct, D1 a.m., w/ paycheck, via store bank bag. Hundreds. Teller flagged.*
 
@@ -80,7 +78,7 @@ She turned back to the first page.
 
 *Day 7, before eleven*
 
-The paper was slick under her thumb, nothing like the soft pulp of her father's tide tables. Above the bench his paint cans stood in a row. BOTTOM. TRIM. HULL GRAY. Square capitals, every letter its own box. The hand in the notebook was small and slanted and quick, and it leaned forward as if it had somewhere to be.
+The paper was slick under her thumb. Above the bench her father's paint cans stood in a row. BOTTOM. TRIM. HULL GRAY. Block capitals, every letter its own box. The hand in the notebook was small and slanted and quick, and it leaned forward as if it had somewhere to be.
 
 *D1 — subject's res., Harbor Rd. 2340 back door tried. Unk. subject fled on foot.*
 
@@ -114,19 +112,19 @@ She turned the book over. Pages ran from the back cover, upside down, a second b
 
 *D5 — no change.*
 
-Saturday, under the eave, his voice through the rain. *No. She doesn't know.* A gap. *Daily. Understood.* She had carried that for five days with no place to set it down. It turned over now and landed the right way up. The she was her.
+Saturday, under the eave, his voice through the rain. *No. She doesn't know.* A gap. *Daily. Understood.* She had carried that for five days. It turned over now and landed the right way up. The she was her.
 
 Financial questions. The shed had been an interview.
 
 *Fuck.*
 
-Under D5, one more line. D6. Struck through so hard the pen had scored the paper. She tipped the page to the lantern. Ink on ink. Nothing she could read. Last night, on the cot, he had opened his mouth to say something and closed it and kissed her instead. She'd taken that for tenderness.
+Under D5, one more line. D6. Struck through so hard the pen had scored the paper. She tipped the page to the lantern. Ink on ink. Last night, on the cot, he had opened his mouth to say something and closed it and kissed her instead. She'd taken that for tenderness.
 
 Every place she had slept was in this book in his hand, and every one had gone up a phone to Portland and come back down with a man at the door. Him, or the people he gave it to. It came to the same thing.
 
-And he had written *assess*. After the shed. After the cot. He had stood at the filter beside her asking about money, and then he had kissed her, and then he had written down the answers.
+And he had written *assess*. After the shed. After the cot.
 
-The kettle he'd put on, the cup set by her hand. His hand stopping on the small of her back. The money questions, asked so gently she'd answered them. She couldn't sort it.
+The kettle he'd put on, the cup set by her hand. His hand on the small of her back. She couldn't sort it.
 
 There was another way to sort it. She didn't. *Calloway — home (phone)*, in Tess's round hand on the counter. *Local emergency management.* Cutter had one of those, and Beth had known her name with the hatchet in her hand.
 
@@ -146,7 +144,7 @@ She set the watch back where it had been. Then she opened the notebook to the se
 
 She did not wake him.
 
-He was armed and trained, and he read people for a living. If he was the leak, telling him she knew was the worst thing she could do. If he wasn't, he'd explain, and she couldn't check an explanation. She could check a binder by its handle. A fight she couldn't win would tell him one thing. That she knew.
+He was armed and trained, and he read people for a living. If he was the leak, telling him she knew was the worst thing she could do. If he wasn't, he'd explain, and she couldn't check an explanation. She could check a binder by its handle.
 
 Now, then, while the storm covered sound and kept people indoors. By daylight he'd read it in her face before she said a word.
 
@@ -154,15 +152,15 @@ Seventeen minutes. On the cove road he'd have her before the bend, one arm or no
 
 The ferry, then. Steel, lit, moored to stone. A fixed VHF with the power to reach the mainland. A wheelhouse door that locked from the inside.
 
-She wouldn't call from it in the dark. Sixteen was open to every set in the harbor, and the *Margaret Ann* kept hers on. A woman alone on a lit boat at night who had just told the whole harbor where she was would be bait. She would lock the door and wait. At first light she'd call the Coast Guard on sixteen and ask for the marshals in Portland. For Pike, by name. It was in his book. Daylight, and witnesses, and half the bay listening to a woman who was still alive.
+She wouldn't call from it in the dark. Sixteen was open to every set in the harbor, and the *Margaret Ann* kept hers on. A woman alone on a lit boat at night who had just told the whole harbor where she was would be bait. She would lock the door and wait. At first light she'd call the Coast Guard on sixteen and ask for the marshals in Portland. For Pike, by name. It was in his book. Portland could leak it if it liked. By then half the bay would have heard it, in daylight, with witnesses, from a woman who was still alive.
 
-Ned. Ned had told Dane that dealer always ran his unit, when she'd had her bare hand on the box and it was dead. Ned ate supper at Tess's table every night of the week. She held both of those and didn't step over them. Ned could have the boat. He couldn't have the wheelhouse unless she opened it.
+Ned. Ned had told Dane that dealer always ran his unit, when she'd had her bare hand on the box and it was dead. Ned ate supper at Tess's table every night of the week. She held both of those and didn't step round them. Ned could have the boat. He couldn't have the wheelhouse unless she opened it.
 
 Not the store. Too many people in and out, and a phone in the back office. She stopped there. She thought of Tess going up the hill at one with Mrs. Dyer's soup, in any weather, and kept her mind on the soup.
 
 Her go-bag was by the door. She shouldered it. She took the Icom in its freezer bag out of the side pocket, switched it on through the plastic, rolled the volume down to a whisper and set it scanning. She could listen. She wouldn't key it. She zipped it inside her float coat, against her ribs.
 
-The sat phone stayed on the bench. The gun stayed on his hip, where his hand would find it before he was awake. His kit stayed where it was. None of it was hers. Nobody but the two of them knew this door, and nobody had come to it; whatever else was true, he was safer here asleep than she was anywhere with him.
+The sat phone stayed on the bench. The gun stayed on his hip, where his hand would find it before he was awake. None of it was hers. Nobody but the two of them knew this door, and nobody had come to it. He'd be safe here asleep. She wasn't safe anywhere with him.
 
 The book stayed open. If she went without a word, he'd think she'd been taken. He'd come out into the dark after her with a gun, and someone would get shot on the cove road. The open page would tell him she'd gone on her own, and why.
 
@@ -176,7 +174,7 @@ At the door the cold came off the planks against her face. She put her hand on t
 
 "Beth," he said.
 
-She stopped with her back to him. His breathing hitched, and then it evened out, long and slow. Asleep. He'd said her name asleep.
+She stopped with her back to him. His breathing hitched, and then it evened out, long and slow. He'd said her name asleep.
 
 "Deputy," she said, under her breath.
 
@@ -194,7 +192,7 @@ At a quarter past eleven she was round the first point, under the bank below the
 
 None came.
 
-It was slow. What the road did in forty minutes the shore did in two hours: ledges to cross on her hands, the brook mouth to wade, the flood coming a sea at a time over rock she'd walked dry at eleven. Barnacles took the skin off the back of one hand. By the time the Union Church showed pale on the bank above her, the flood had been making three hours, and the point below the church was going under. She climbed through dead bracken to cross it by the churchyard and drop down on the harbor side.
+Slow going. What the road did in forty minutes the shore did in two hours: ledges to cross on her hands, the brook mouth to wade, the flood coming a sea at a time over rock she'd walked dry at eleven. Barnacles took the skin off the back of one hand. By the time the Union Church showed pale on the bank above her, the flood had been making three hours, and the point below the church was going under. She climbed through dead bracken to cross it by the churchyard and drop down on the harbor side.
 
 She was at the churchyard wall when a light came along the Harbor Road from the store end.
 
@@ -220,17 +218,17 @@ The light passed the church. Close enough that she could see the rain in the bea
 
 She stayed until her hands shook from the cold and not the other thing.
 
-Then she went down the bank on the harbor side on her heels and her hands, through bracken to the shore. Half tide and making. Between the church and the pier the ledges under the Harbor Road were going under one by one, and she kept to the top of the riprap where the rock was still dry. Nobody would walk this shore in this weather, and nobody watched it.
+Then she went down the bank on the harbor side on her heels and her hands, through bracken to the shore. Half tide and making. Between the church and the pier the ledges under the Harbor Road were going under one by one, and she kept to the top of the riprap where the rock was still dry.
 
-She worked along toward the stone pier, keeping under the store's lit windows, which hung above her and off to one side.
+She worked along toward the stone pier, below the store's lit windows.
 
-Under the pier the ledge was black and streaming, the flood already at its foot. She stepped from the last dry rock to the iron ladder and went up it into the dark, rung by rung. Over the pier's lip the *North Reach* showed her deck lights, sodium orange through the rain.
+Under the pier the ledge was black and streaming, the flood already at its foot. She stepped from the last dry rock to the iron ladder and went up it into the dark. Over the pier's lip the *North Reach* showed her deck lights, sodium orange through the rain.
 
 ---
 
 *Day 8, two o'clock*
 
-She came up the ladder and waited in the shadow of the wrecked slip's tower, out of the floods. The Icom stayed zipped and silent against her.
+She came off the ladder and kept to the shadow of the wrecked slip's tower, out of the floods. The Icom stayed zipped and silent against her.
 
 Ned did his pump rounds every two hours in a storm. At two a flashlight came aft along the car deck.
 
@@ -240,7 +238,7 @@ The light swung onto her and held.
 
 He looked at her a long time from behind it. On Saturday he'd told her to stay off his boat until this was done. His eyes went past her to the empty pier. Then he unhooked the chain.
 
-In the crew mess he switched on the heater. It gave off the smell of burnt dust. He went out without a word.
+In the crew mess he switched on the heater. It smelled of burnt dust. He went out without a word.
 
 She couldn't get the float coat's zipper down. Her fingers wouldn't close on the tab. She sat on the bench, put her forearms on the table and her forehead on her forearms, and the sound that came out of her went into the wet sleeve, and kept going there.
 
@@ -252,31 +250,31 @@ When she lifted her head Ned was in the doorway with two mugs. He set her coffee
 
 "Asleep."
 
-He waited. She gave him nothing else.
+She gave him nothing else.
 
 "I want the wheelhouse," she said.
 
-He took in the square of the Icom under her float coat. Then he worked a key off his ring, his thick fingers on the split ring, and held it out.
+He took in the lump of the Icom under her float coat. Then he worked a key off his ring, his thick fingers on the split ring, and held it out.
 
 "That the only one?"
 
 "Mate's is in Pruett with the mate."
 
-They went up the inside companionway. The wheelhouse was warm with the electronics, and the fixed set hissed on 16.
+They went up the inside companionway. The wheelhouse was warm with the electronics, and the fixed set hissed on sixteen.
 
 "Anybody know you came here?"
 
 "You."
 
-His eyes stayed on her. Rain ran down the forward windows. Then he turned and went down the ladder.
+His eyes stayed on her. Rain ran down the forward windows. Then he turned and went back down.
 
 She turned the key in the lock.
 
-She took the Icom out of its bag, brought the volume up a notch and set it scanning on the console beside the fixed set. She didn't touch either mic. Inside companionway. Outside ladder. The door she'd just locked.
+Through the plastic she brought the Icom's volume up a notch and left it scanning, zipped inside her coat. She didn't key either set. Inside companionway. Outside ladder. The door she'd just locked.
 
 Through the aft windows, past the lighting panel on the bulkhead, she watched his flashlight go along the car deck between the two chained trucks. It went to the gangway and stopped there. Then it went out.
 
-He was sitting in the dark at the only way aboard from the land. She couldn't tell if he was guarding it or waiting at it. Either way he was down there and the key was in her pocket.
+He was sitting in the dark at the only way aboard from the land. She couldn't tell if he was guarding it or waiting at it. Either way he was down there, and she had the key.
 
 First light was a little after six. Four hours.
 
