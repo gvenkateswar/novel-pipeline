@@ -12,9 +12,7 @@ Denise stood at the shoe cubbies with the spray can. Toe, heel. She handed the p
 
 Toe, heel.
 
-"You'll live."
-
-She held up a pair of nines, brown and white, cracked across the top. "Those were a seven in 2004. They're a four now. You'll live."
+She held up a pair of nines, brown and white, cracked across the top. "Those were a seven in 2004. They're a four now."
 
 "What's a seven?" a girl said.
 
@@ -28,7 +26,7 @@ The radio hissed. Then Ray's voice came from the far end of the building, throug
 
 The birthday mother at the front of the line heard it come out of Ellen's collar and laughed out loud.
 
-The radio clicked again. Nobody had called it. "Four's table is fine. I can hear it from here."
+The radio clicked again, though she hadn't called him. "Four's table is fine. I can hear it from here."
 
 Ellen pressed the key. "I need the radio to know you're there."
 
@@ -36,7 +34,7 @@ He didn't come back on.
 
 Behind the counter the strip board was full from end to end, every card in her capitals. Three birthday parties, the youth hockey team, the Rotary, and the Ambrose Elementary lunch staff, retiring one of their own, stacked on every lane from ten o'clock to close.
 
-Twenty-six children who would not stay in line, and six parties butted against each other to the minute. Nobody had needed her to put a room in order since the afternoon of the marble cake, and she had sold a house to buy one that would. Her hands were steady on the pencil. She noted it the way she'd note the vestibule thermometer, and kept writing.
+Twenty-six children who would not stay in line, and six parties butted against each other to the minute. Nobody had needed her to put a room in order since the afternoon of the marble cake, and she had sold a house to buy one that would.
 
 Lane 2 still had the nine o'clock walk-ins, two brothers in their forties who bowled as if they were paid by the frame. The older one was on his tenth.
 
@@ -58,7 +56,7 @@ They stood in two towers on the snack bar counter, and grease from the bottom bo
 
 "I asked for them twenty minutes in trail," Ellen said. "Twelve. Twelve-twenty. Twelve-forty."
 
-"Honey, that's Kevin Pelletier." Denise was already lifting the top box and reading the ticket taped to it. "Kevin is the driver. Kevin is the only driver, he's been the only driver since his brother-in-law went to the Market Basket in Tilton, and he drives an Impala with one headlight because in 2016 he took the car before that one out on the ice off the town dock in March to show his cousin it would hold, and it didn't, and Hollis had to go out with a rope. So Kevin makes one trip." She set the box on the hot-dog roller's warming shelf. "Bisson party's on top, they eat first. Durant's under. Lapointe goes last."
+"Honey, that's Kevin Pelletier." Denise was already lifting the top box and reading the ticket taped to it. "Kevin is the only driver, and he drives an Impala with one headlight, and he doesn't like the hill. So Kevin makes one trip." She set the box on the hot-dog roller's warming shelf. "Bisson party's on top, they eat first. Durant's under. Lapointe goes last."
 
 She had the shelf loaded in party order before she finished talking.
 
@@ -82,7 +80,7 @@ Ellen walked over with the strip in her hand. "We have a team booked on these la
 
 The head of the lunch staff was in her sixties, in a sweatshirt that said AMBROSE ELEMENTARY CAFETERIA in iron-on letters. She didn't get up.
 
-"Well. I don't believe we'll be doing that." She folded her hands in her lap. "She's in her ninth frame. She worked that line for forty-one years, and she fed every one of those boys over there, and their coach before them, and his brother as well, the one who went into the Navy. I expect she would have fed your daughter, had you been living in town at the time. She will be finishing her string on the lane she started it on. After that there will be cake, and the staff has a card for her. Those young men are welcome to sit where they are and watch somebody finish something."
+"Well. I don't believe we'll be doing that." She folded her hands in her lap. "She's in her ninth frame. She worked that line forty-one years and fed every one of those boys over there, and their coach before them. She will be finishing her string on the lane she started it on. Then there's cake."
 
 The retiree threw her third ball in the middle of this and didn't look around.
 
@@ -95,6 +93,16 @@ She gave the hockey team lanes 9 and 10 early. That bumped the Rotary twenty-fiv
 "Honey, you don't move the lunch ladies."
 
 The coach paid at the register and went down to 9 and 10 without saying thank you.
+
+At 1:20 the lunch staff cut the cake on the lane 1 scorer's table. Ellen watched them from the counter and keyed the radio before she had decided to.
+
+"Kettle Maintenance. Cake on lane one."
+
+The radio hissed. "What kind?"
+
+"Marble."
+
+Nothing came back for a while. Then: "Save me a corner."
 
 At 1:25 lane 8's ball return jammed for the third time, and Ray came up front with a screwdriver in his back pocket. He had put that return back together after the Highway Department took it apart on storm night, and a morning of children had found the one piece he hadn't replaced. He knelt beside it and pulled the cover.
 
@@ -110,7 +118,7 @@ She knew exactly what she had said on December eleventh, and where the sweep had
 
 "Your lanes will be ready in twenty-five minutes," she said.
 
-Ray set the cover back on. On his way to the pit door he touched the trophy-case glass with one knuckle.
+Ray set the cover back on and went back through the pit door.
 
 The Rotary man followed her to the counter. "And the banquet, same night? My wife wants to know. She'll need the start time for her calendar."
 
@@ -142,7 +150,7 @@ For thirty-one years she had known men by their voices. Two words in her headset
 
 At the pole he stopped and tipped his head toward the sign.
 
-"Tube on the K's fine. Hear it?"
+"Tube on the K's fine. It's the transformer. Hear it?"
 
 She heard a buzz. "It's on my list."
 
@@ -166,11 +174,15 @@ He stood there. Across the road the town beach lay flat and white out to the edg
 
 He didn't add to it. She didn't ask him to.
 
-"I'm keeping the letter," he said. "And I'd like to kiss you, if you're agreeable."
+"I'm keeping the letter," he said.
+
+He looked across at the beach for a while, and back at her.
+
+"And I'd like to kiss you, if you're agreeable."
 
 The sign buzzed. A truck went along the far shore, a pair of headlights a mile off.
 
-"I'm aware of the letter," Ellen said. "I'm aware it runs to March thirty-first. And I'm aware you asked."
+"I'm aware of the letter," Ellen said. "And I'm aware you asked."
 
 She leaned the sandwich board against the pole.
 
@@ -186,7 +198,7 @@ When he straightened up she looked down at the beam.
 
 Headlights came over the top of the drive. Denise's car rolled down the hill slowly, stopped beside them, and the window came down.
 
-"I have nothing to report." She kept her foot on the brake. "I want that on the record. I sat up there nine minutes because the defrost on this thing takes nine minutes, and I come down the hill with my lights on, which is the law, and I have no comment, so neither of you look at me like I'm about to give one. Goodnight, Ray. Goodnight, honey. Lock the front, the front sticks."
+"Defrost takes nine minutes," she said, and kept her foot on the brake. "Goodnight, Ray. Lock the front, honey. The front sticks."
 
 The window went up. She drove off toward town.
 
@@ -198,7 +210,7 @@ Ellen bent for the sandwich board. Ray reached for it at the same time.
 
 At 11:40 Ellen sat down at the steel desk with the adding machine.
 
-The strip had been pinned above the desk since December nineteenth. JAN / RECONCILE / ARLENE / LEAGUE. She had scheduled it for the night the first half of January closed, and January had closed on the push. The space heater ran under the desk. Behind the closed lanes the baseboard ticked as it cooled.
+The strip had been pinned above the desk since December nineteenth. JAN / RECONCILE / ARLENE / LEAGUE. She had scheduled it for the night the first half of January closed, and January had closed on the push. At closing Arlene's lawyer had sent three years of summary statements, one line for lanes and one for the snack bar, and Ellen had bought the building on those. The green books had stayed on their shelf. The space heater ran under the desk. Behind the closed lanes the baseboard ticked as it cooled.
 
 She took down three of Arlene's ledgers and laid them open side by side. 1979. 2004. 2025.
 
@@ -208,19 +220,19 @@ The 2004 book, the September page, in green ink: *Lineage stays $7.50. Per leagu
 
 She took down the books after it. 2009. 2014. 2019. The same figure every fall, entered without comment.
 
-The 1979 book, October: *N. says house adds to the prize fund. Good for the league.* After that came a line every few years, a quarter here, fifty cents there, until the house was putting in more than the bowlers did.
+The 1979 book, October: *N. says house adds to the prize fund. Good for the league.* N. was Normand, Arlene's husband. After that came a line every few years, a quarter here, fifty cents there, until the house was putting in more than the bowlers did.
 
 Every spring the same three entries. Banquet. Trophies. Free strings, secretary and captains. Paid by the house.
 
 Down the margins, year after year, in a smaller hand: *R.G., no charge, wouldn't take it. R.G., no charge, wouldn't take it.* In March of 2011: *R.G., no charge, tried to give him a ham.*
 
-Beside the 2004 lineage line, smaller still, Arlene had written *Voyons donc.*
+Beside the 2004 lineage line, smaller still, Arlene had written *Voyons donc*, her mother's French for *oh, come on*.
 
-Ellen read it twice. Arlene had known.
+Ellen read it twice. Arlene had known what the league cost her, every fall for twenty years.
 
 She pulled the adding machine over and built one week of league nights the way Arlene never had. Lineage in. Snack bar in. Staff, heat and lights until eleven, the prize money, the banquet, wear on the machines, and Ray's invoices at the rate she had written in herself over his. The tape curled out of the top with a minus at the bottom. Seven hundred dollars a week. She ran it again with a lower heat figure and got nearly the same number, and got to her feet.
 
-February went on the tape standing up. No office parties. Nothing on the board like today. Six league weeks left. The seven hundred was already in her actuals; what December and January had were the parties and the holiday weeks that covered it, and February had none of either. She ran the season out to the end of February, and the tape said about $26,000 against Judy's circle.
+February went on the tape standing up. No office parties. Nothing on the board like today. Six league weeks left. The seven hundred was already in her actuals. In December and January the parties and the holiday weeks had covered it. February had neither. She ran the season out to the end of February, and the tape said about $26,000 against Judy's circle.
 
 The hole in her winter had two days of the week on it, Tuesday and Thursday. It was his league.
 
@@ -229,8 +241,6 @@ She worked the alternatives one at a time. Glow nights were priced and full thro
 She reached into the box for a blank index card and put it back.
 
 *Unless the numbers say otherwise.* The numbers said otherwise now, in green ink and on a curl of paper, and she had said those words out loud in her own pit. She also knew which half he had heard, and that she had not asked for the readback. This afternoon he had said the first half to a customer, and she had let it stand.
-
-Two hours ago she had been the calmest person in the building, her pencil point resting on the straight line. The number had been two shelves above her head the whole time.
 
 She tore the tape off the adding machine and folded it once. At the counter she found the strip at the far end of the board. 02/27 / 1800 / LGM / 10. She uncapped her Sharpie over the empty REMARKS box, held it there, and put the cap back on.
 
@@ -246,11 +256,7 @@ On the back of a score sheet she wrote the conversation out in order, the way sh
 
 Leading with the promise sounded like an excuse. She crossed it out.
 
-The second version put the money first and read like a bill. That went too.
-
 The third began *Mr. Gagnon*, and she drew a line through it before she reached the comma.
-
-She picked up her phone, typed a line, and deleted it. Typed another. Deleted that.
 
 What she sent said: *Sunday 1400. Here. About the league.*
 
@@ -258,7 +264,7 @@ She set the phone face up on the score sheet. It lit forty seconds later, at 1:1
 
 *ok*
 
-Ellen picked it up. Her thumb went to the keyboard and stayed there.
+Ellen turned the phone face down, took the flashlight off its hook, and went out to the vestibule to find the switch for the sign.
 
 ---
 ## Edit log
@@ -276,3 +282,5 @@ Ellen picked it up. Her thumb went to the keyboard and stayed there.
 - ATC phrases counted (cap 6, set piece): say intentions, number two, in trail, stand by, readback (scene 4; "readback" recurs in the same thought), "One" count is plain English. Five phrases, none added.
 - Left untouched as instructed: kiss, ledger numbers ($7.50, $700, $26,000), the bank-extension reveal, the promise passage, the "Sunday 1400" text, and the longer dialogue lines.
 - Flag, no change: scene 3 ends mid-motion and scene 4 on a placed object (the capped Sharpie). Scene 5 ends on an action, so the chapter is within rule 18. The "Intentions are to quit" and "You'll live" bits are in character; "You'll live" now runs three times in the opening, so the next chapter should retire it.
+
+- Orchestrator cold-read triage (autopilot): cut repeated "You'll live" and trophy-glass touch; trimmed Denise/lunch-staff/car speeches; clarified radio, K transformer, Normand, Voyons donc, ledger blind spot (Arlene's summary statements); split Ray's letter/kiss line; cut summary lines and type-and-delete; added the marble-cake radio beat before 1:25; new last line (Ellen goes to switch off the sign).

@@ -176,6 +176,52 @@ Saturday, Dec 19, 11:40 p.m.: Denise reads the R.G. card aloud (glow night lane 
 
 ---
 
+## Chapter 05: The Push
+
+**POV:** Ellen.
+
+**What happened:**
+- **The sold-out Saturday (Jan 16).** It's the first sold-out Saturday: three birthday parties, the youth hockey team, the Rotary, and the Ambrose Elementary lunch staff retirement party (the retiree worked the line 41 years). Ellen bought four handheld radios on Thursday. Over the radio: "Kettle Maintenance, say intentions." / "Intentions are to quit." Denise sprays shoes and says "You'll live."
+- **Pizza and the lunch ladies.** Kevin Pelletier, the town's only pizza driver (an Impala with one headlight), brings all 14 pizzas at 12:05, and Denise sorts them into party order. The hockey coach (a game in Gilford at 4) wants lanes 1–2 at 1:15. The lunch-staff head won't move her retiree mid-string, and Ellen gives in ("Finish your string"). Hockey gets lanes 9–10 early, the Rotary is bumped 25 minutes, and the 4:30 walk-in slot is lost. Denise: "Honey, you don't move the lunch ladies."
+- **Marble cake.** At 1:20, Ellen radios Ray that there's marble cake. He answers, "Save me a corner."
+- **"She gave her word."** At 1:25, Ray fixes lane 8's ball return, the piece he missed after storm night. The Rotary man asks whether the championship is still the last Saturday in February. Ray says, "Last Saturday in February. All ten lanes. She gave her word." Ellen, three feet away, lets it stand.
+- **After close.** At 10:52, the pace sheet (graph paper taped by the register) is on the straight line for the first time. Ray was booked on a work order for the day at his per-call rate but logged it anyway: "01/16 / 0930 / 2255 / ALL / PUSH." He hands back his radio.
+- **The kiss (kiss 1 of 4).** The two of them walk down the drive, Ellen for the sandwich board and Ray to his truck on the Kettle Road shoulder. At the sign pole Ray says, "Tube on the K's fine. It's the transformer." Ellen cuts off a "Fella I knew in Meredith" story with "No." Ray tells her the bank extended his letter through March 31 and that he asked on December 14. Ellen: "The morning of my first lesson." Ray: "I'm keeping the letter." Then, after a pause: "And I'd like to kiss you, if you're agreeable." Ellen: "I'm aware of the letter. And I'm aware you asked." She puts her mitten on the GAGNON & SON stitching and goes up on her toes on her bad knee (he's seven inches taller). She kisses him once. Her flashlight stays on the ditch the whole time ("I saw."). Denise drives down the hill and sees them: "Defrost takes nine minutes." Ray: "She's going to say something."
+- **The ledger.** At 11:40, the JAN / RECONCILE strip. Ellen bought on summary statements from Arlene's lawyer (one line for lanes, one for the snack bar) and had never opened the green books. Here is what they show:
+  - Lineage stayed at $7.50 "per league" from 2004.
+  - 1979: "N. says house adds to the prize fund" (N. = Normand). The house share grew until it was more than the bowlers paid.
+  - The banquet, trophies, and free strings for the secretary and captains have been paid by the house every spring.
+  - The margins say "R.G., no charge, wouldn't take it." In March 2011: "R.G., no charge, tried to give him a ham."
+  - Beside the 2004 line: "Voyons donc." Arlene knew.
+- **The numbers.** Ellen costs a league week at minus $700. In December and January the parties and holiday weeks covered it, and February has neither (she called every Rotary office and booked one baby shower). With six league weeks left, the season projects to about $26,000 against $30,000. Higher lineage still comes up short. The only tape that gets near the target sells the last Saturday in February, all ten lanes, to anyone who will pay. She knows which half of the promise Ray heard. She uncaps her Sharpie over REMARKS on the 02/27 strip and caps it again.
+- **The text.** At 1:10 a.m., after crossing out drafts, she texts: "Sunday 1400. Here. About the league." Ray replies "ok" at 1:14 a.m. She goes out to turn off the sign she forgot.
+
+**What changed:** The first kiss has happened. Ray has told Ellen about his extension; she knows, and he's keeping the letter. Ellen knows the league is the hole, and that the fix is to sell the championship Saturday, which breaks the half of the promise Ray heard. The Sunday 2 p.m. meeting is set.
+
+**Who knows what:**
+- Ellen: the ledger, $700 a week, the $26K projection, Arlene's free ride for the league, Ray's no-charge history, and the extension.
+- Ray: the kiss. He believes the promise is unconditional and said so in public. He doesn't know about the ledger.
+- Denise: saw the kiss.
+- The Rotary man (and his wife): told the championship and banquet are as always.
+
+**Objects / details introduced:**
+- 4 handheld radios with chargers.
+- The pace sheet on graph paper by the register.
+- Kevin Pelletier, the pizza driver.
+- The lunch-staff head's AMBROSE ELEMENTARY CAFETERIA sweatshirt.
+- The sandwich board: FULL. NEXT LANE 7:40.
+- The K: the tube is fine, the transformer is the problem.
+- Arlene's summary statements versus the green books.
+- The 2011 ham.
+- "Voyons donc" (Arlene's mother's French).
+- Normand.
+
+**ATC phrases used (5 of 6):** say intentions, number two, in trail, stand by, readback (in narration).
+
+**Ends on:** Sunday, Jan 17, about 1:15 a.m. Ellen goes out to switch off the sign. The meeting is Sunday at 2 p.m.
+
+---
+
 ## Master Continuity Flags
 
 **Timeline:**
@@ -188,14 +234,13 @@ Saturday, Dec 19, 11:40 p.m.: Denise reads the R.G. card aloud (glow night lane 
 - Sat Dec 19: NOI $5,600, cash $34,300 (88% of pace).
 - Mon Dec 14: Ray asks his lender to extend the commitment (the morning of the first lesson).
 - Thu Jan 7: nor'easter; 36 stranded; outage at 1:52 a.m.; 22 inches total. Fri Jan 8, 5:41 a.m.: Verna adjourns. NOI $11,800. Fri Jan 8 and Sat Jan 9 closed (power back Sat evening est.). Bank extension email read at dawn Jan 8.
+- Sat Jan 16: first sold-out Saturday; pace sheet on the line; kiss 1 at the sign pole, about 11 p.m.; ledger reconciliation 11:40 p.m. Sun Jan 17, 1:14 a.m.: "Sunday 1400" set.
 
-**Character states at end of most recent chapter (Ch 04):**
-- Ellen: lost two nights and the parties; held her line on charging; lost the office argument to Ray; part of the Thursday league resents her. She has shared her last-day story with Ray. She doesn't know about Ray's extension.
-- Ray: closer to Ellen (the pit, the 187), still plans to own the alley on March 2, bank commitment extended to March 31. He hasn't told her about the extension. He watches her lot from the store.
-- Denise: openly skeptical of the free coffee, still backs Ellen in practice, voided the sit-out strings without being asked.
-- Hollis: plows for Ellen, runs the derby on championship weekend, knows about Ray's extension.
-- Verna: ruled the marathon not league play; a motion of thanks is pending.
-- Highway Department man (unnamed, 22 years of Thursdays): sat out unpaid with two others.
+**Character states at end of most recent chapter (Ch 05):**
+- Ellen: has kissed Ray; knows the extension; knows the league costs $700 a week and the season projects to about $26K; sees that selling the championship Saturday is the only fix; knows Ray heard only the first half and that she let it stand twice. Meeting set for Sunday at 2 p.m.
+- Ray: kissed Ellen; told her about the extension and is keeping the letter; still believes the championship is untouchable and said so to the Rotary.
+- Denise: saw the kiss.
+- Hollis: not on page (derby poster now over the lost mittens).
 
 **Open threads (planted details needing payoff):**
 - Invoicing Ray's repairs → done in Ch 03 (per-call at Ellen's rate).
@@ -214,14 +259,21 @@ Saturday, Dec 19, 11:40 p.m.: Denise reads the R.G. card aloud (glow night lane 
 - Glow fixture over the trophy-case wall; "Nothing glowing" for the championship.
 - Wood line: used 1 of 3.
 
-- Ray's bank commitment extended to March 31 (asked Dec 14). Ellen doesn't know → reveal later (Ch 05–07, as the outline allows).
-- Arlene "never charged the league for a lot of things" → Ch 05 ledger (lineage frozen since 2004).
+- Ray's bank commitment extended to March 31 (asked Dec 14). Revealed to Ellen in Ch 05 before the kiss; he's keeping it.
+- Arlene "never charged the league for a lot of things" → paid off in Ch 05 ledger.
 - Derby on the same weekend as the championship → Ch 06 derby/Open deal.
 - Ray never saw Linda's 187 (he set it by hand) → Ch 08/09.
 - Lane 8 ball return half apart.
 - The Highway Department sit-out → league goodwill, Ch 07 rate fight.
 - Verna's pending motion of thanks.
 - "Fella who bought a bowling alley": Ray said "Don't know him."
+
+- Sunday Jan 17, 2 p.m.: Ellen tells Ray about the ledger (Ch 06 opens with the bob-house at dawn first).
+- Ray told the Rotary "She gave her word" in public; the Rotary banquet is the same night.
+- The "fella in Meredith" story was cut off.
+- The 2011 ham.
+
+**Notes for Ch 06 (from the Ch 05 cold read):** The reader is now hooked ("more than after any earlier chapter"). Cut side-character monologues (one short speech per character per chapter). Ration signature lines (rule 17). Don't end on another type-and-delete or held gesture.
 
 **Notes for Ch 05 (from the Ch 04 cold read):** The reader wants to see Ellen "lose something she can't fix with a card on a pegboard" (rule 20). Vary dialogue length (rule 20). The Ray "fella" stories are close to wearing out: use at most one in Ch 05, or none.
 
