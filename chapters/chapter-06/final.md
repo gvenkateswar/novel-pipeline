@@ -222,7 +222,7 @@ She slept with his arm across her because the cot was too narrow for anything el
 
 At ten to six the bait shed smelled the way it had at noon, only colder.
 
-Beth stood inside the roll-up door, raised to her waist, with her back to the wall. Dane had the Icom low at his ear on 22A. Outside, the harbor was the gray that comes before color. Three hours past low water and coming in, and the ramp ran steep to the float.
+Beth stood inside the roll-up door, raised to her waist, with her back to the wall. Dane had the Icom low at his ear on 22A. Outside, the harbor was the gray that comes before color. Two hours past high water and going out, and the ramp ran steep to the float.
 
 At 5:52 the lifeboat's lights showed off the harbor mouth, white over red, lifting and settling on what was left of the swell.
 
