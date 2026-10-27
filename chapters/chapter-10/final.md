@@ -68,13 +68,13 @@ Ellen had carried the question since December. She had two guesses and liked nei
 
 Arlene was buttoning her cardigan. She did not stop.
 
-"You asked me the name of my boiler man. I wrote it on the back of your offer."
+"You asked me what the league paid. Nobody had asked me that since Normand."
 
 She stood and got into her coat. Her keys came out of the cardigan pocket with the tissues. A new key on a white paper tag read THE PINES 2B. Beside it hung a brass key with an orange tag, R.G. — 1996, in her own green hand.
 
 Ellen looked at it.
 
-"Raymond brought it back yesterday, with more tape than I'll ever use," Arlene said. "He said it was a loan."
+"Raymond brought it back yesterday, with more tape than I'll ever use," Arlene said. "He said a man shouldn't carry a key to a door it doesn't open."
 
 Down on Main Street the van from The Pines tapped its horn.
 
@@ -124,7 +124,9 @@ The settee bolts on lane 7 had been tightened.
 
 "It was loose this morning."
 
-He looked at his hands. "I'll still invoice you."
+"You bowled Pine Ridge for my Tuesdays."
+
+"On Gil's house ball." He looked at his hands. "Chipped. I'll still invoice you."
 
 "I'd expect it."
 
@@ -134,7 +136,7 @@ He didn't get up.
 
 Ellen came to the end of the catwalk and crouched on the step above him. She had said this once already, to her own windshield.
 
-"At your truck I put it in the wrong order," she said. "It was you first. I wanted you before I knew whether I could carry this building. If I had taken that check, you would always have wondered whether it was you I wanted or the fifty-five thousand dollars. You told me you would have known it was you. I believe you. I would have spent the rest of my life running that tape, and you would have had to watch me. I love you."
+"At your truck I put it in the wrong order," she said. "It was you first. I wanted you before I knew whether I could carry this building. You said you'd have known it was you. I'd have spent the rest of my life running that tape, and you'd have had to watch me do it. I love you."
 
 He sat there. The drop light hummed on its hook.
 
@@ -184,7 +186,7 @@ He didn't say anything to that. He picked up the ladder from where it leaned by 
 
 The commitment letter had run out on March 31 in his coat pocket. On April 1 a woman from the lender called to ask whether he'd like another extension, and he told her no, thank you. She asked if there was a reason, for her form. He told her he was spoken for, and heard her type it.
 
-At dusk the ladder stood against the pole at the road. The electrician from the sign shop in Laconia, in a hard hat, opened the disconnect at the foot of the pole and went up, and Ellen held the ladder with both hands. Ray took the old transformer when it came down and handed the new one up. The electrician made up the connections and climbed down. The town had called the place Ettle's for seven years.
+At dusk the ladder stood against the pole at the road. The electrician from the sign shop in Laconia, in a hard hat, opened the disconnect at the foot of the pole and went up, and Ellen held the ladder with both hands. Ray took the old transformer when it came down and handed the new one up. The electrician made up the connections and climbed down.
 
 Ray keyed the radio on his collar. "Counter, Gagnon. Throw the sign."
 
@@ -216,3 +218,5 @@ Ellen walked out into the road and looked up at it.
 - Forbidden phrases, contrast constructions, ATC cap ("Negative" is the only Ellen phrase): no violations found.
 - Revision notes at the end of draft-revised.md were not carried over.
 - Flag, no change: Ch 10 coda says the town called the place "Ettle's" "for seven years." The bible gives the K dead since 2019, so confirm the book's present year makes that seven rather than eight.
+
+- Orchestrator cold-read triage (autopilot): Arlene's reason aligned with Ch 08 (the league price); key line clarified; Pine Ridge acknowledged in the pit; Ellen's declaration trimmed of the Ch 07 recap; cut the "Ettle's for seven years" line that explained the last line.
