@@ -44,7 +44,7 @@ He went and stood in it, and the shadow took all of him.
 
 He had lost that one at half past three and didn't fight it again.
 
-"Walk me through it," he said.
+"Take me through it once more," he said.
 
 His left hand was tucked into the front of his soft-shell. He held out the right.
 
@@ -262,7 +262,7 @@ She took Doucette under the arms and hauled. Dane's good hand came down past her
 
 Dane rolled him onto his face, knelt on his back and cuffed him one-handed, the ratchet of the cuffs loud and small.
 
-Beth fetched the navy blanket from the mess locker in the dark and put it over him.
+Beth fetched a navy blanket from the mess locker in the dark and put it over him.
 
 The Icom woke in her float coat.
 

@@ -10,7 +10,7 @@ His hand found it before his eyes found anything, on the drum's lid in the dark,
 
 There was one door, landward, and its bar had been lifted out of the brackets and leaned upright against the frame. The loft hatch was shut. The window on the water side was black, and under it the cove slapped at the ledge. The nail where her float coat had hung all week held nothing.
 
-He sat up with his left arm stiff under the strips. His watch lay on the end of the workbench at six past four, the alarm mark gone from the dial. He had set it at eleven with her watching, and nobody else could have switched it off. He was five hours late for Pike.
+He sat up with his left arm stiff under the strips. His watch lay on the end of the workbench at six past four, the alarm mark gone from the dial. He had set it for a quarter past eleven with her watching, and nobody else could have switched it off. He was five hours late for Pike.
 
 The lantern had burnt dry, so he went over the room by flashlight. The Iridium was on the bench, inside his reach, and the Glock was on his hip. Her father's red case was latched. Her bag was gone from beside the door, and the Icom with it.
 

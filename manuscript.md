@@ -610,7 +610,7 @@ Ned looked at his hands. "District says they've got a crane barge—"
 
 "I'll put it out at noon," Ned said.
 
-It hadn't been on the radio. He'd called the district from Tess's back office, the only phone on the island now, and he told Tess everything. The whole island knew that.
+It hadn't been on the radio. He'd called the district on the booster phone in Tess's back office, the only phone on the island still working, and he told Tess everything. The whole island knew that.
 
 Tess bagged jugs, cans, coffee, batteries, matches. Enough for a house with its water shut off. While she worked, Beth read the spiral log open on the counter, upside down. Friday, 1800 net, a column of names in Tess's round hand, and halfway down: *Calloway — home (phone).* Saturday's 0800 column had a tick beside her name. No call from her this morning, not with the line dead. Tess had counted her anyway.
 
@@ -738,7 +738,7 @@ Halfway across the yard, with the generator going behind them, she asked him. Sh
 
 "Why are you out here alone?"
 
-He answered without making her wait. "It was a one-day job. I'm on loan to Portland because they were short this month. Take a witness off on the morning boat, hand her and the paperwork to a second deputy at Pruett, and be back at the motel by supper."
+He answered without making her wait. "It was a one-day job. I'm on loan to Portland because they were short this month. Take a witness off on the two o'clock boat, hand her and the paperwork to a second deputy at Pruett, and be back at the motel by supper."
 
 The wind pulled at the jug, and he shifted it. "The storm came twelve hours early, and nobody's come out since. I packed these boots for a parking lot, and I knew it when I packed them."
 
@@ -891,7 +891,7 @@ They walked out along the ruts. Dane watched the spruce on the uphill side.
 
 "Russ has known where everybody on this island sleeps since he was twelve."
 
-"Then four houses with ears know it too," Dane said, "and we can't take back a generator we've already run. If it runs again after dark, we move."
+"Then four houses with ears know it too," Dane said, "and we can't take back a generator we've already run. If anybody comes up that lane asking about it, we move."
 
 "He knows where you are."
 
@@ -1052,7 +1052,7 @@ She turned and walked back.
 
 Dane stood at the top of the ledge where the shore path came out of the alders. He'd put himself where he could see the alders and the house at once.
 
-"Walk me through it," he said when she reached the ledge foot. "Like I've never seen water."
+"Tell it to me like I've never seen water," he said when she reached the ledge foot.
 
 "You've seen it. You just don't believe it."
 
@@ -1953,7 +1953,7 @@ His hand found it before his eyes found anything, on the drum's lid in the dark,
 
 There was one door, landward, and its bar had been lifted out of the brackets and leaned upright against the frame. The loft hatch was shut. The window on the water side was black, and under it the cove slapped at the ledge. The nail where her float coat had hung all week held nothing.
 
-He sat up with his left arm stiff under the strips. His watch lay on the end of the workbench at six past four, the alarm mark gone from the dial. He had set it at eleven with her watching, and nobody else could have switched it off. He was five hours late for Pike.
+He sat up with his left arm stiff under the strips. His watch lay on the end of the workbench at six past four, the alarm mark gone from the dial. He had set it for a quarter past eleven with her watching, and nobody else could have switched it off. He was five hours late for Pike.
 
 The lantern had burnt dry, so he went over the room by flashlight. The Iridium was on the bench, inside his reach, and the Glock was on his hip. Her father's red case was latched. Her bag was gone from beside the door, and the Icom with it.
 
@@ -2292,7 +2292,7 @@ He went and stood in it, and the shadow took all of him.
 
 He had lost that one at half past three and didn't fight it again.
 
-"Walk me through it," he said.
+"Take me through it once more," he said.
 
 His left hand was tucked into the front of his soft-shell. He held out the right.
 
@@ -2510,7 +2510,7 @@ She took Doucette under the arms and hauled. Dane's good hand came down past her
 
 Dane rolled him onto his face, knelt on his back and cuffed him one-handed, the ratchet of the cuffs loud and small.
 
-Beth fetched the navy blanket from the mess locker in the dark and put it over him.
+Beth fetched a navy blanket from the mess locker in the dark and put it over him.
 
 The Icom woke in her float coat.
 

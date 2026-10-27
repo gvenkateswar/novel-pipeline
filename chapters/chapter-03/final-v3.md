@@ -122,7 +122,7 @@ Ned looked at his hands. "District says they've got a crane barge—"
 
 "I'll put it out at noon," Ned said.
 
-It hadn't been on the radio. He'd called the district from Tess's back office, the only phone on the island now, and he told Tess everything. The whole island knew that.
+It hadn't been on the radio. He'd called the district on the booster phone in Tess's back office, the only phone on the island still working, and he told Tess everything. The whole island knew that.
 
 Tess bagged jugs, cans, coffee, batteries, matches. Enough for a house with its water shut off. While she worked, Beth read the spiral log open on the counter, upside down. Friday, 1800 net, a column of names in Tess's round hand, and halfway down: *Calloway — home (phone).* Saturday's 0800 column had a tick beside her name. No call from her this morning, not with the line dead. Tess had counted her anyway.
 
@@ -250,7 +250,7 @@ Halfway across the yard, with the generator going behind them, she asked him. Sh
 
 "Why are you out here alone?"
 
-He answered without making her wait. "It was a one-day job. I'm on loan to Portland because they were short this month. Take a witness off on the morning boat, hand her and the paperwork to a second deputy at Pruett, and be back at the motel by supper."
+He answered without making her wait. "It was a one-day job. I'm on loan to Portland because they were short this month. Take a witness off on the two o'clock boat, hand her and the paperwork to a second deputy at Pruett, and be back at the motel by supper."
 
 The wind pulled at the jug, and he shifted it. "The storm came twelve hours early, and nobody's come out since. I packed these boots for a parking lot, and I knew it when I packed them."
 

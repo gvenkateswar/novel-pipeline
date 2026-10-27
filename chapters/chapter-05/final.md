@@ -12,7 +12,7 @@ She turned and walked back.
 
 Dane stood at the top of the ledge where the shore path came out of the alders. He'd put himself where he could see the alders and the house at once.
 
-"Walk me through it," he said when she reached the ledge foot. "Like I've never seen water."
+"Tell it to me like I've never seen water," he said when she reached the ledge foot.
 
 "You've seen it. You just don't believe it."
 

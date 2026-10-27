@@ -136,7 +136,7 @@ They walked out along the ruts. Dane watched the spruce on the uphill side.
 
 "Russ has known where everybody on this island sleeps since he was twelve."
 
-"Then four houses with ears know it too," Dane said, "and we can't take back a generator we've already run. If it runs again after dark, we move."
+"Then four houses with ears know it too," Dane said, "and we can't take back a generator we've already run. If anybody comes up that lane asking about it, we move."
 
 "He knows where you are."
 
