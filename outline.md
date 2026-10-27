@@ -279,15 +279,17 @@ The final margin is small, and every dollar of it comes from something Ellen dec
 
 ---
 
-## Open questions for the author
+## Author decisions (approved October 26, 2026)
 
-1. **Names.** All provisional: Ellen Daly (58), Ray Gagnon (61), Denise Lavoie, Hollis Pike, Arlene Fortier, Danny Gagnon, Kate Daly, Judy Ostrowski, Gil Arsenault. The surnames lean Franco-American and Irish to match New Hampshire and candlepin country.
-2. **Town.** I invented Ambrose, New Hampshire, on Great Kettle Lake (Lakes Region). The alley is Kettle Lanes (1958, ten lanes). The rival is Pine Ridge Lanes, forty minutes away. Keep New Hampshire, or move to southern Maine?
-3. **Ages and history.** Ellen is 58 and divorced about 20 years ago, amicably. Her ex is never on the page. Ray is 61, and his wife Linda died six years ago (off-page illness, not plot-driving). Is that all right?
-4. **The "450" in the brief.** I believe the candlepin maximum is 300, never achieved, with a record of 245. The outline uses that. Please confirm before the bible locks it in.
-5. **The ending.** As written, Ellen saves the alley alone, then asks Ray to share running it (the "D-side"), and ownership stays hers. Would you prefer that she offers him a share at fair value after the refinance, or that there is no business tie at all?
-6. **Ellen bowls the last frame and her team loses.** I chose the loss to avoid a convenient win. Denise takes the trophy. Do you want that, or a win?
-7. **April coda.** The brief says December to February. The coda steps briefly into April for ice-out, which bookends the betting pool. Keep it or cut it?
-8. **Christmas.** Placed off-page between Ch 03 and Ch 04, so the book avoids a holiday-romance feel. Should it get a scene?
-9. **9 or 10 chapters.** See the pacing flag on Ch 09.
-10. **Title.** *The Last Frame* fits the climax and the deadwood theme. Keep it?
+The outline is approved as written, with these answers to the open questions:
+
+1. **Names:** Ellen Daly (58), Ray Gagnon (61), Denise Lavoie, Hollis Pike, Arlene Fortier, Danny Gagnon, Kate Daly, Judy Ostrowski, Gil Arsenault. Keep all of them.
+2. **Town:** Ambrose, New Hampshire, on Great Kettle Lake. Kettle Lanes (1958, ten lanes). The rival is Pine Ridge Lanes. Keep all of them.
+3. **Backstories:** Ellen divorced amicably about 20 years ago, and her ex is never on the page. Ray's wife Linda died six years ago. Keep both.
+4. **Candlepin score:** the maximum is 300, which has never been bowled. The record is reported as 245; verify it in the bible.
+5. **Ending:** Ellen keeps ownership and asks Ray to share running the alley (the D-side). There is no ownership stake for Ray in book 1.
+6. **Final:** Ellen's team loses and Denise's team wins the trophy.
+7. **April coda:** keep it, and keep it short.
+8. **Christmas:** stays off the page.
+9. **Chapters:** 9. Split into 10 only if the drafted Ch 09 runs past 4,200 words.
+10. **Title:** *The Last Frame*. Check Amazon for clashing titles before publishing.
