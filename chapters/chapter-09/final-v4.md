@@ -186,7 +186,7 @@ Aluminum touched steel at the port quarter: a soft knock, and the scrape of a hu
 
 *Day 8, ten past eleven*
 
-She came down the inside companionway with her boots in her hand, set them inside the deckhouse door and stepped out in her wool socks. Her gloves went in her float coat pocket, against the Icom.
+She came down the inside companionway with her boots in her hand, set them inside the deckhouse door and stepped out in her wool socks. She took the Icom off the console and zipped it into her float coat pocket with her gloves.
 
 Steel under her soles. Cold enough to ache.
 

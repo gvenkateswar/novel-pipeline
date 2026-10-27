@@ -230,8 +230,6 @@ She lifted her face, and he was already coming down to it. It wasn't careful. Hi
 
 His hand came up the back of her neck under the braid, spread wide at the base of her skull, and held her there as if he meant to stay. She got a fistful of his soft-shell at the hip and pulled him the last inch in, and round, until the housing hummed at her back and the door was behind him. She wanted him on the concrete with the engine going, and she'd have told him so.
 
-His hand stopped.
-
 He lifted his mouth off hers and looked over his shoulder at the open door. The driveway. The spruce.
 
 He stepped back. He still had one end of the rag, and she had the other, and he didn't let go of it.
