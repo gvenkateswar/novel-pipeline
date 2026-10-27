@@ -1,10 +1,10 @@
 # Chapter Nine: The Last Frame
 
-At 4:10 the radar on Ellen's phone showed the storm as a green comma with a yellow core, and the core sat over Great Kettle Lake. Under the lot lights the snow went sideways. The glass-block band along the front was going white from the bottom up, one row at a time.
+At 4:10 a.m. the radar on Ellen's phone showed the storm as a green comma with a yellow core, and the core sat over Great Kettle Lake. Under the lot lights the snow went sideways. The glass-block band along the front was going white from the bottom up, one row at a time.
 
 The handheld on the counter clicked on channel 2.
 
-"Kettle Lanes, Pike. You've got eleven inches at the town garage and—" The wind took the rest of it, and the plow's engine with it.
+"Kettle Lanes, it's Hollis. You've got eleven inches at the town garage and—" The wind took the rest of it, and the plow's engine with it.
 
 "Say again."
 
@@ -18,7 +18,7 @@ The handheld on the counter clicked on channel 2.
 
 The whiteboard leaned against the settee at lanes 1 and 2. Ellen circled B in red. At the foot of every column, A through D, the line that had read MX: for a week now read MX: R.G. in her capitals. She had made that call herself on the twentieth, with Denise watching, and booked him by work order at the agreed rate.
 
-"Fryer first." Kate came out of the snack bar in scrub pants and a Kettle Lanes sweatshirt she had taken off the merchandise hook without paying. She had driven up Friday on her days off to see the thing, and her body still ran on nights. "Thermostat says three-fifty and it's running hotter, you can smell it on the basket. Second, your burn gel is from 2014. Replace it." She turned to the whiteboard. "Who's R.G.?"
+"Fryer first." Kate came out of the snack bar in scrub pants and a Kettle Lanes sweatshirt she had taken off the merchandise hook without paying. She had driven up Friday on her days off to see the thing, and her body still ran on nights. "Thermostat says three-fifty and it's running hotter. You can smell it on the basket. I turned it down to three-twenty-five, so leave it there. Second, your burn gel is from 2014. Replace it." She turned to the whiteboard. "Who's R.G.?"
 
 "The mechanic."
 
@@ -32,7 +32,7 @@ Kate read the board column by column, the way she read a chart.
 
 Ellen looked at the radar. The comma had not moved.
 
-She had bought the building for days like this one, a room that would fill with people who needed putting in order, and she had picked it herself off a sign on a Sunday in September. She had never told Kate how her calm behaved on a bad day. It sounded right on every call, right up to the moment it was too late, and nobody listening could hear the difference, including her.
+She had never told Kate how her calm behaved on a bad day. It sounded right on every call, right up to the moment it was too late, and nobody listening could hear the difference, including her.
 
 "Ask me at six," Ellen said.
 
@@ -50,13 +50,13 @@ The league teams were paying in for the championship round. The 112 laid his mon
 
 "Twelve-fifty," he said, "to bowl in a blizzard."
 
-Denise didn't look up from the register. "Gil charged you forty minutes each way and you thanked him for the carpet. Shoes on your left."
+Denise didn't look up from the register. "You drove forty minutes each way to Gil's place in Halsey Falls. Shoes on your left."
 
 Behind her the fryer had three tickets hanging and the popcorn machine was going. So was the space heater under the counter. Ellen had heard that pair trip the breaker twice this winter.
 
 "Ground stop on the snack bar," Ellen said. "No new orders for fifteen minutes. Popcorn off."
 
-Denise switched it off with the back of her wrist and pulled the next ticket. "That's the first thing you've said all winter I'd have said myself."
+Denise switched it off with the back of her wrist and pulled the next ticket. "I mentioned the breaker in December."
 
 Down on lane 9 the table hung on the respot. A man in a Highway Department jacket stood at the foul line with his ball and looked sixty feet down the lane at it.
 
@@ -66,11 +66,9 @@ In the pit the drop light hung on its hook over lane 3. Ray had the cover off an
 
 "One hundred forty-seven in the building," Ellen said. "Lane 3, clutch slipping since nine-fifty. Lane 9, table hanging on the respot, twice since ten. Snack bar stopped until five past eleven. Hollis on the back roads since three. Weigh-in at noon on lane 10. Final at six on 5 and 6."
 
-It came out in the voice. Every item stood in its place, and nothing in it shook. She had given a relief briefing at the end of every shift for thirty-one years and had never once left anything out.
-
 Ray took his arm out of the machine and wiped his hand on the rag from his back pocket. He waited.
 
-She had turned down his fifty-five thousand dollars in her own parking lot to find out what she could carry. After today she would never know. If she missed Judy's lines by a single dollar, the building went to the man in front of her, and she was going to ask him anyway.
+She had worked the next sentence out at the counter at seven, and again at nine. If she missed Judy's lines by a single dollar, the building went to the man in front of her, and she was going to ask him anyway.
 
 "I cannot hold the floor by myself today."
 
@@ -78,7 +76,7 @@ It had gone. She heard it go, somewhere around "floor," and she could not find w
 
 Ray didn't move.
 
-"At the Center they call it the D-side." She said it slowly, one word after the other, the way she had once read numbers to a pilot who was lost. "We borrowed their words when ours were not good enough. It is a second controller on the same scope."
+"The long-range controllers call it the D-side." She said it slowly, one word after the other, the way she had once read numbers to a pilot who was lost. "We borrowed the word from them, in the approach rooms, when ours was not good enough. It is a second controller on the same scope."
 
 The drop light buzzed.
 
@@ -112,7 +110,7 @@ Hollis had come in off the plow with snow standing on both shoulders. Judy Ostro
 
 "Thirty-eight feet, off the second point. Live smelt."
 
-He wrote thirty-eight in the waterproof notebook with the golf pencil. Then he wrote the whole fish again on the next line, weight, length, depth, point, and smelt.
+He wrote it in the waterproof notebook with the golf pencil.
 
 Judy unzipped the top of the suit and nodded to Ellen. "I'm here as a fisherman today."
 
@@ -130,7 +128,7 @@ Ellen looked at the whiteboard on its settee. Plan C closed the roads before the
 
 Ellen keyed the handheld. "Ray. Lanes 3 and 9."
 
-"Three and nine hold till four." The pit made his voice small. "Not past four."
+"Three and nine hold till four." The pit made his voice small.
 
 The handheld clicked off.
 
@@ -140,23 +138,19 @@ At seven that morning the tape had projected both of Judy's lines, with the even
 
 She took the 02/27 strip off the board, crossed out 1800, and wrote 1430 above it. REMARKS she left as it was.
 
-The treasurer stood up.
-
-"Five to six is our door!" It went down the lanes and stopped two games. "That's the year, Hollis! You called our ice at four o'clock this morning and now you're calling our draw!"
+The treasurer stood up. "Five to six is our door, Hollis! You called our ice at four o'clock this morning and now you're calling our draw!" It went down the lanes and stopped two games.
 
 Hollis turned his cap over in his hands.
 
 "The draw time is my building's call," Ellen said. "Mr. Pike called the ice."
 
-"Then who pays the club for that hour?"
-
-She had nothing to give him. He was right about the hour, and everybody on lane 10 knew it. She held his eye until he sat back down with the box on his knees.
+The treasurer sat back down with the box on his knees, still owed an hour that nobody on lane 10 could give him.
 
 Hollis put the cap on. "Back at five-thirty for your lot."
 
 She pulled the gooseneck down.
 
-"Kettle Lanes, your attention. Families with children, you're first. Coats on now, and stop at the counter on your way out. Halsey Falls, you're number two. Six o'clock tickets, Denise Lavoie has your money at the counter. All of it."
+"Kettle Lanes, your attention. Families with children first. Coats on now, and stop at the counter on your way out. Halsey Falls, you're number two. Six o'clock tickets, your money is at the counter. All of it."
 
 When she got back to the counter Denise was already licking envelopes, the refund sheet pinned under her elbow.
 
@@ -164,9 +158,11 @@ When she got back to the counter Denise was already licking envelopes, the refun
 
 "Then label the envelopes."
 
-Kate stood at the end of the counter, looking from the whiteboard to the refund sheet and back. "Scale of one to ten," she said. "That's about a six." She took the masking tape off the register and started on the envelopes.
+Kate pulled the masking tape off the register and tore the first strip with her teeth.
 
 * * *
+
+At five of two Ray came out of the pit door and opened locker 14. He took out the blue bag and stood at the trophy case beside it, the bag hanging from one hand, looking at the Memorial on its center shelf. He stood there through a whole frame on lane 1. Then he carried the bag down and set it on the settee at lane 5.
 
 The raffle came off lane 7's ball return at two. A girl in a purple snowsuit reached into the well to the shoulder and came out with one stub. A man by the vestibule, boots already on, heard his number and came back in for his ice auger.
 
@@ -174,7 +170,7 @@ Ellen picked up the counter phone on its first ring.
 
 "Kettle Lanes. We close at four today. Nobody drives after four."
 
-She hung up. Ray had come up the side of the snack bar from the pit door. He walked around the end of the counter onto her side, where he had stood on the second of February, and leaned down to her gooseneck.
+She hung up. Ray had come up the side of the snack bar. He walked around the end of the counter onto her side, where he had stood at the league meeting, and leaned down to her gooseneck.
 
 "Kettle Lanes, Gagnon. Request."
 
@@ -212,7 +208,7 @@ Ellen looked at the blank on Verna's sheet where an average belonged.
 
 "I don't leave the counter in a rush," Denise said, before anyone could ask her. "Twenty-two years, honey. There's forty people in that line want their coats and their envelopes, and the envelopes go in an order, and I wrote the order. Who else in this building knows the refund sheet?"
 
-Kate came around the end of the counter and slid the refund sheet out from under Denise's elbow. "I do. I read it over your shoulder for an hour." She moved Denise aside with one hip. "Go win something."
+Kate came around the end of the counter and slid the refund sheet out from under Denise's elbow. "I do. I read it over your shoulder for an hour." She moved Denise aside with one hip. "Go bowl."
 
 Ellen handed her daughter the departure list. Kate looked up from it at Ray, all of him, boots to crew cut, the way she would look at someone coming in on a stretcher.
 
@@ -220,7 +216,7 @@ Ellen handed her daughter the departure list. Kate looked up from it at Ray, all
 
 "Yes."
 
-"Your color's good." She went back to the list. "Fine. She put you on the strip board in her own capitals. I'm thirty-one. I have never been on the strip board. I've been on a refrigerator."
+"Your color's good." She went back to the list. "Fine. She put you on the strip board in her own capitals. I'm thirty-one, and I've never been on the strip board."
 
 Ray looked at the floor and rubbed his jaw.
 
@@ -238,7 +234,7 @@ By the second string her ball stayed on the lane. Denise converted every spare s
 
 On lane 6 Denise picked up her eighth-frame spare with her second ball. Gil came past the scorer's table on his way to the door, the last Halsey Falls coat in the building, a car already warming in the lot.
 
-"Mrs. Lavoie. Second ball, eighth frame. I counted it right this time."
+"Mrs. Lavoie. Second ball, eighth frame. I counted it."
 
 He was through the vestibule before she could answer.
 
@@ -262,21 +258,29 @@ The thirty-one stood up off the settees and clapped, the Highway Department loud
 
 That one went too. She put her free hand flat over her mouth and kept it there.
 
-Ellen had put her own daughter on the departure list at 3:58, the last line, in Denise's car, because Denise lived past the narrows and the camp was on her way. Kate zipped her parka at the vestibule door.
-
-"You were great," she said. "You were annoying all day, and you were great."
+Kate left at 3:58, the last line on the departure list, in Denise's car, because Denise lived past the narrows and the camp was on her way. At the vestibule door she turned around, came back across the wet mat in her boots, and held on to her mother once, hard, with the list still in her hand.
 
 Out in the lot Denise leaned on the horn.
 
-At 4:40 Ellen stood at the steel desk in the office and ran the tape with the refunds out, Sunday at zero, and only the house's half of the raffle on it. She ran it again from the top. Both runs came out at $30,850 and $25,600, over both of Judy's circles on paper. Judy would read the paper Monday with the underwriter's rules open beside it.
+At 4:40 Ellen stood at the steel desk in the office and ran the tape with the refunds out, Sunday at zero, and only the house's half of the raffle on it. She had penciled a label beside each subtotal as it came up.
+
+THROUGH 02/20 . . . 24,300.00
+
+VAC WK 02/22–26 . . . 3,900.00
+
+OPEN 02/27, LESS REFUNDS . . . 2,650.00
+
+The total printed at $30,850 against Judy's $30,000. She ran it again from the top and got the same figure, then ran the cash and got $25,600 against $25,000. Eight hundred and fifty over on one line and six hundred on the other, and the evening she had handed back across the counter in envelopes would have covered either one.
+
+Judy would read the paper Monday with the underwriter's rules open beside it.
 
 She stayed on her feet. She took the 02/27 strip down from the far end of the board and printed under REMARKS: WX. MOVED FROM 1800. LAKEVIEW DINER / D. LAVOIE.
 
 * * *
 
-It had taken Ray an hour to put lane 9's table right properly, now that nobody was waiting on it. The lanes were dark. Snow still ticked against the glass block, and the building had gone quiet enough to hear the baseboard cool.
+Ray had spent an hour putting lane 9's table right, now that nobody was waiting on it. The lanes were dark. Snow still ticked against the glass block, and the building had gone quiet enough to hear the baseboard cool. Linda's trophy had gone down Kettle Road at two minutes to four, in the back seat of Denise's car. He had carried it out to her himself.
 
-At the pegboard by the pit door he wrote on the card. 02/27. 0640. LANE 09. He held the pencil over REASON.
+At the pegboard by the pit door he filled in his card. He wrote 02/27, then 0640, the time he had let himself in that morning in the dark, then LANE 09. He held the pencil over REASON.
 
 "Your reason column's blank," Ellen said from the office door.
 
@@ -286,9 +290,13 @@ At the pegboard by the pit door he wrote on the card. 02/27. 0640. LANE 09. He h
 
 "That one fit."
 
-He left it blank and followed her into the office. The tape lay torn off beside the adding machine. The day's raffle cash sat squared in a stack next to it, rubber band and all, every ticket sold in the building since ten that morning. Hollis was due at five-thirty to plow the lot and take her to the camp in the plow cab, with Ray's truck behind the blade.
+He left it blank and followed her into the office. The tape lay torn off beside the adding machine, and the day's raffle cash sat squared in a stack next to it, rubber band and all, every ticket sold in the building since ten that morning. Hollis was due at five-thirty with the plow.
 
-The ring came out of his coat. The back-door key came off under his thumbnail, and he laid it on the steel desk. Arlene's brass key stayed on the ring with its orange tag, and the ring went back in his pocket. Beside the key he laid his copy of the release. The registry's stamp sat in the corner with its book and page, and the date over his signature was February sixteenth.
+The rubber band came off the raffle cash. She split the stack with the edge of her hand and pushed half of it across the desk to him.
+
+"That's the derby's half. It goes in the HELD bag tonight. Count it twice."
+
+He counted it twice, standing up, and zipped it into the bag. Then the ring came out of his coat. The back-door key came off under his thumbnail, and he laid it on the steel desk. Arlene's brass key stayed on the ring with its orange tag, and the ring went back in his pocket. Beside the key he laid his copy of the release. The registry's stamp sat in the corner with its book and page, and the date over his signature was February sixteenth.
 
 She put her glasses on and read the date, then the stamp, then the date again.
 
@@ -296,38 +304,28 @@ She put her glasses on and read the date, then the stamp, then the date again.
 
 "Yes."
 
-She read the stamp a third time, book and page. Then she took her glasses off by the cord and let them hang against her vest. Her eyes had gone wet.
+She started on the stamp a third time and stopped at the book number. She took her glasses off by the cord and let them hang against her vest, and for a while she looked at the adding machine.
 
-Ray waited.
+"I asked you this morning," she said, "thinking you could still take it."
 
-"I want to be asked," he said finally.
+"I know."
 
-She picked the back-door key up off the desk, put it in his palm, and closed his fingers over it with her own hand.
+He looked at the key on the desk.
 
-Linda's trophy had gone down Kettle Road at two minutes to four, in the back seat of Denise's car, and he had handed it over himself. There was something he meant to say to Ellen. It would keep until she had slept.
+"I'd like to be asked in," he said. "Here. With you running it."
+
+Ellen picked the back-door key up off the desk, put it in his palm, and closed his fingers over it with her own hand.
 
 She sat down in the desk chair. He had not seen her sit once all day.
 
-The rubber band came off the raffle cash. She split the stack with the edge of her hand and pushed half of it across the desk to him.
-
-"That's the derby's half. It goes in the HELD bag tonight. Count it twice."
-
 ---
 ## Edit log
-
-- Side-character speech, Kate: "Second, the women's room has one hand dryer and it's the loud kind. Third, your burn gel is from 2014. Replace it." → "Second, your burn gel is from 2014. Replace it." (cuts the triplet and the list-of-complaints speech)
-- Triplet: "lake trout laid on snow, two cusk in a bait bucket, a pickerel a boy carried in his arms like a cat" → "lake trout laid on snow, a pickerel a boy carried in his arms like a cat"
-- Side-character speech, treasurer: "That's the year, Hollis! The whole year is that hour! You called our ice…" → "That's the year, Hollis! You called our ice…" (his lost composure stays)
-- Side-character speech, Kate: "Your color's good, and you came up the side out of the traffic, so you know how a room moves." → "Your color's good."
-- Tic ("said nothing" x5): Ray "He said nothing else" → "The handheld clicked off."; Hollis "said nothing" → "turned his cap over in his hands" (and "put the cap on" for his exit, which keeps his cap tic); Ray "said nothing" → "His hand came up to his jacket pocket and went back down."; Ray "didn't answer" → "looked at the floor and rubbed his jaw"; "Ray kept quiet." → "Ray waited." (the pit already uses "He waited," so this is a deliberate echo; revert if unwanted)
-- Tic, "Nobody said anything about it" (second use after the fish-notebook line) → cut; the strike line stands alone.
-- Stated feeling / narrator gloss: "She was an owner with an average nobody had ever written down, about to bowl in front of everybody left in her building." → "Ellen looked at the blank on Verna's sheet where an average belonged."
-- Filler: "He straightened up and gave no reason." → "He straightened up."
-- Filler/wordiness: "Without them she could not say which side of either line she would land on, and she would not know until she ran it tonight." → "Without them she could not say where she would land until she ran it tonight."
-- Side-character speech, Denise: "Who wrote the order? I wrote the order." → "and I wrote the order." (her "Who else in this building knows the refund sheet?" stays as Kate's cue)
-- Same-word echo: Kate "zipped her parka to the chin" (Verna already has the chin) → "zipped her parka at the vestibule door."
-- Tidy last line: scene ending "Then she pinned it back where it had hung since December." → cut; the scene now ends on the printed remark.
-- Em dashes: none in narration (the two in dialogue are cut-off speech). Key ring appears once, in the ending key beat.
-- Flags, not fixed: (1) Kate says "Fryer first" and then goes to the coffee urn for the basket and filters; the fryer is never revisited. A plot-level continuity point for the orchestrator. (2) Verna's Feb 1983 bylaw should be recorded in the bible, as the revision notes said. (3) The "Tuesday teams" paying in on a Saturday is unexplained in the draft.
-
-- Orchestrator: "Tuesday teams" → "league teams… championship round". Fryer flag left (Kate's safety sweep, no payoff needed). Verna's Feb 1983 bylaw recorded in the continuity log.
+- Quip-button cut (Denise): "You drove forty minutes each way to Gil's place in Halsey Falls and thanked him for the carpet. Shoes on your left." → "...Gil's place in Halsey Falls. Shoes on your left."
+- Quip-button cut (Denise): "Oh, now she hears the breaker. I only mentioned it in December." → "I mentioned the breaker in December."
+- Quip-button cut (Kate): "I have never been on the strip board. I've been on a refrigerator." → "and I've never been on the strip board." Also "Go win something." → "Go bowl."
+- Quip-button cut (Gil): "I counted it right this time." → "I counted it."
+- Contrast fragment cut (Ray): "Three and nine hold till four." / "Not past four." → "Three and nine hold till four."
+- Tightened (Kate, fryer): "...so I turned it down. It's at three-twenty-five, leave it there." → "I turned it down to three-twenty-five, so leave it there."
+- Filler cut: "It had taken Ray an hour to put lane 9's table right properly" → "Ray had spent an hour putting lane 9's table right"
+- Checked and left: all triage items (D-side ask and readback, tape lines, Ray at the trophy case, "thinking you could still take it," "asked in," key in palm, last line, Denise's broken speech), ATC phrase count, forbidden phrases, em dashes. No violations found beyond the above.
+- Flag, no change made: Ellen's "Ground stop" and "Say again" and "Plan B" calls plus the D-side stay within the six-phrase set-piece cap.

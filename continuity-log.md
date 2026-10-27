@@ -414,6 +414,63 @@ Saturday, Dec 19, 11:40 p.m.: Denise reads the R.G. card aloud (glow night lane 
 
 ---
 
+## Chapter 09: The Last Frame
+
+**POV:** Ellen (S1–S5), Ray (S6).
+
+**What happened:**
+- **Sat Feb 27, 4:10 a.m.** Hollis radios that 11 inches are down at the town garage, with 8–10 more and gusts to 40. "Outdoor day's off. Indoor events go to you." That's Plan B. He'll run the weigh-in between plow passes and won't bowl. The whiteboard reads "MX: R.G." under every plan: Ellen called Ray on Feb 20 and booked him by work order.
+  - Kate (31, a nurse, up since Friday on her days off) turns the fryer down from 350 to 325 and says the 2014 burn gel needs replacing. "Who's R.G.?" / "The mechanic." / "Who wanted to buy it." / "Yes." Kate: "How much of today is one person?" Ellen: "Ask me at six."
+- **10:40 a.m.** 147 people are in the building and the Open's early rounds are running on all ten lanes. The 112: "Twelve-fifty, to bowl in a blizzard." Denise names Halsey Falls as Gil's town. Ellen calls a 15-minute ground stop on the snack bar and turns the popcorn off (it shares a breaker).
+  - In the pit, Ellen gives Ray her relief briefing (147 in the building; lane 3's clutch; lane 9's table; the snack bar stopped; Hollis on back roads; the weigh-in at noon; the final at six). She knows that if she misses by a dollar, the building goes to Ray, and she asks anyway. "I cannot hold the floor by myself today." Her voice goes. She explains the D-side (a word borrowed from the long-range controllers: a second controller on the same scope). "I am asking you to share the position. Today. And after today, whatever Judy says Monday." Lane 9's sweep covers her last four words.
+  - Ray reads it all back: "You can't hold the floor by yourself today. I share the position. Today, and after. Whatever Judy says Monday." He hands her the drop light. Her hand shakes on lane 9.
+- **Noon, the weigh-in on lane 10.** Judy, in a red snowmobile suit, weighs a 7 lb 6 oz lake trout (26¼ inches, 38 feet, off the second point, live smelt). "I'm here as a fisherman today." (This is the Hollis–Judy seed.) The town is pulling its trucks off Kettle Road at 4, with four-foot drifts at the Dock Road bend. Hollis: "I don't want anybody in a car after four."
+  - Plan C didn't cover a full house when the roads close. Ellen's choice: the final moves to 2:30 on lanes 5–6, the raffle to 2:00, departures start at 2:15, the building is empty by 4, every six o'clock ticket is refunded in full ($1,140), and Sunday is closed. The 02/27 strip is changed from 1800 to 1430.
+  - The treasurer shouts "Five to six is our door, Hollis!" and stops two games. Ellen: "The draw time is my building's call. Mr. Pike called the ice." Denise and Kate run the refund envelopes.
+- **~2:00 p.m.** Ray takes Linda's bag from locker 14, stands at the trophy case for a whole frame, and sets the bag on the lane 5 settee. The raffle is drawn at 2 from lane 7's ball return. At the counter, on the PA: "Kettle Lanes, Gagnon. Request." / "Gagnon, say request." / "The Linda Gagnon Memorial goes to the Open. This year and every year after. Anybody who pays the entry." / "Yes." Verna records it as a gift to the Open in perpetuity.
+  - Verna cites the bylaw of February 1983 (after the Legion's cousin from Laconia): no blind score in a championship final, and a substitute must be a sanctioned bowler on no other roster this season. Gagnon & Son has 3 bowlers (Hollis is plowing and Danny is minding the store). Ray: "Gagnon and Son forfeits."
+  - Ellen produces her sanction card from the drawer behind the first-aid kit, dated Dec 10: "Gagnon and Son doesn't forfeit." Under the 1991 rule she bowls at the league average for a bowler with none. Kate takes over the refund sheet ("Go bowl") and sizes Ray up: "You're R.G. … Your color's good… I've never been on the strip board."
+- **2:30 p.m., the final.** 31 people remain. Ray bowls with Linda's ball. Gil paid an entry and stays to watch. Ellen's first string is 61, with a lob foul (Denise: "You'll live"). Denise converts every spare. In Ellen's tenth frame of the third string, she plays the deadwood ("The wood stays on the lane. You play what's left."; use 3 of 3) and takes the last standing pin into the fallen one.
+  - Denise strikes in her tenth. **The Lakeview Diner wins by 23 pins with handicap.** Ray hands Denise the Memorial. Her speech breaks ("Well, it's a nice enough—"), and she covers her mouth. Gil, leaving: "Second ball, eighth frame. I counted it."
+  - Kate leaves at 3:58 in Denise's car and hugs Ellen once, hard. The trophy goes in Denise's back seat.
+- **4:40 p.m., the tape.** THROUGH 02/20 24,300; VAC WK 02/22–26 3,900; OPEN 02/27 LESS REFUNDS 2,650. That gives **NOI $30,850 against $30,000, and cash $25,600 against $25,000**: $850 and $600 over. The refunded evening would have covered either margin. Judy reads it Monday. The 02/27 strip's REMARKS reads: "WX. MOVED FROM 1800. LAKEVIEW DINER / D. LAVOIE."
+- **After 4:40 (Ray POV).** Ray logs his card: 02/27 / 0640 / LANE 09, with REASON left blank ("Didn't have one that fit"). Hollis is due at 5:30 with the plow. Ellen splits the raffle cash; Ray counts the derby's half twice into the HELD bag. He takes the back-door key off his ring (Arlene's brass orange-tag key stays on it) and lays it beside his copy of the recorded release, dated Feb 16.
+  - Ellen: "This is dated the sixteenth." / "Yes." "I asked you this morning thinking you could still take it." / "I know." Ray: "I'd like to be asked in. Here. With you running it." She puts the key in his palm and closes his fingers over it, then sits down. It is the first time she has sat all day.
+
+**What changed:**
+- Ellen made both numbers on paper, pending Judy and the underwriter on Monday.
+- Ellen asked for help (the D-side) and Ray read it back.
+- The Memorial is open to anybody, in perpetuity.
+- Denise won the Memorial.
+- Ellen knows about the release.
+- Ray has the back-door key again, now by her asking.
+- The breakup is effectively over, though not yet spoken.
+
+**Who knows what:**
+- Ellen: the release (dated the 16th), the numbers, Ray's readback.
+- Ray: that she asked believing he could still take it.
+- Kate: has met R.G.
+- Judy: was at the alley as a fisherman.
+- The town: saw the PA exchange.
+
+**Objects / details introduced:**
+- Kate's sweatshirt, taken from the merchandise hook.
+- The 2014 burn gel.
+- The fryer, now set at 325.
+- Judy's red snowmobile suit and her trout.
+- Verna's bylaws of Feb 1983 and 1991.
+- The refund envelopes ($1,140).
+- The HELD bag.
+- Ray's copy of the recorded release (book and page).
+- Arlene's brass key, still on Ray's ring.
+- The 02/27 strip REMARKS, filled in.
+
+**ATC phrases used:** "Say again," "ground stop," "relief briefing" (narration), "D-side," "say request." 5 of 6.
+
+**Ends on:** Saturday, Feb 27, about 5 p.m., in the office. Ray holds the back-door key, and Ellen is sitting down.
+
+---
+
 ## Master Continuity Flags
 
 **Timeline:**
@@ -429,14 +486,16 @@ Saturday, Dec 19, 11:40 p.m.: Denise reads the R.G. card aloud (glow night lane 
 - Sat Jan 16: first sold-out Saturday; pace sheet on the line; kiss 1 at the sign pole, about 11 p.m.; ledger reconciliation 11:40 p.m. Sun Jan 17, 1:14 a.m.: "Sunday 1400" set.
 - Sun Jan 17: dawn bob-house; 2 p.m. ledger talk. Tue Jan 26 (after league): boiler fails 12:08 a.m.; kiss 2 at ~3 a.m. Wed Jan 27 (closed). Fri Jan 29: new boiler in. Thu Jan 28: store fight; WEDDING DATE row. Sun Jan 31, 7 a.m.: derby pitch. Tue Feb 2, 6:30 p.m.: league meeting (Ch 07).
 - Tue Feb 2: 5:34 p.m. the $55K offer, Ellen refuses, breakup "effective now"; 6:29–7:19 meeting (11–8; Taylor's Marina and the Legion leave); 11:04 p.m. Ellen's car starts.
-- Sun Feb 8: Ray at Arlene's. Sat Feb 13: lane 4 belt; locker 14. ~Mon/Tue Feb 15–16: release signed at Leclerc's. Tue Feb 16, 11:30 p.m.: Pine Ridge match, 334–332. Wed Feb 17: store to Danny; both teams phone in. Thu Feb 18, 4:40 p.m.: Open sells out. Sat Feb 20, 7:15 a.m.: whiteboard and MX blank. Sat Feb 27: storm forecast; the Open.
+- Sun Feb 8: Ray at Arlene's. Sat Feb 13: lane 4 belt; locker 14. ~Mon/Tue Feb 15–16: release signed at Leclerc's. Tue Feb 16, 11:30 p.m.: Pine Ridge match, 334–332. Wed Feb 17: store to Danny; both teams phone in. Thu Feb 18, 4:40 p.m.: Open sells out. Sat Feb 20, 7:15 a.m.: whiteboard and MX blank. Sat Feb 27: storm, the Open. 4:10 a.m. Plan B; 10:40 a.m. the D-side ask; noon weigh-in and road closure (4 p.m.); 2:30 p.m. final (the Diner by 23); 4:40 p.m. tape $30,850 / $25,600; about 5 p.m. release and key.
+- Sun Feb 28: closed. Mon Mar 1: Judy, closing, Arlene's payoff (Ch 10).
 
-**Character states at end of most recent chapter (Ch 08):**
-- Ellen: about $1,000 and $1,250 short; the Open sold out; teams back without her doing; no mechanic in any plan. About to call Ray (the D-side ask, Ch 09). Believes Ray still holds the right.
-- Ray: released the right (recorded, public, untold); won the teams back; gave Danny the store; carries Linda's bag. Still has the bank letter in his coat. Coaches Gagnon & Son. Kept the breakup's terms.
-- Hollis: plowing private drives from 3 a.m. if over 10 inches, so Gagnon & Son is a man short.
-- Denise: knows everything except the release.
-- Arlene: moving March 1; "She hasn't asked."
+**Character states at end of most recent chapter (Ch 09):**
+- Ellen: both numbers made on paper ($850 / $600 over); knows about the release; asked Ray in; hasn't said the second half of her parking-lot sentence to him.
+- Ray: holds the back-door key again (asked in); Arlene's brass key still on his ring; bank letter in his coat (expires Mar 31, moot); the Memorial given to the Open.
+- Denise: won the Memorial; the trophy is in her car.
+- Kate: met Ray; approves.
+- Judy: read the numbers Monday.
+- Hollis: plowed all day.
 
 **Open threads (planted details needing payoff):**
 - Invoicing Ray's repairs → done in Ch 03 (per-call at Ellen's rate).
@@ -494,6 +553,13 @@ Saturday, Dec 19, 11:40 p.m.: Denise reads the R.G. card aloud (glow night lane 
 - Ray's bank letter: still in his coat.
 
 **Notes for Ch 09 (from the Ch 08 cold read):** The reader fears a tidy ending in which Ellen receives Ray's gifts. Rule 23 governs. Ellen's ask must look hard. The storm forces a choice no plan covered. The numbers don't land by a cute margin. No checklist climax.
+
+**Notes for Ch 10 (from the Ch 09 cold read):**
+- Judy's real verdict should carry a chance it could fail.
+- Ellen says to Ray, out loud, the full sentence she only got right alone in her car (Ch 07).
+- Close March 1 fast: the pool square, Arlene's brass key, the K on the sign, Danny's OCT square, and Arlene's "Does she know why you picked her?"
+- No more speeches about putting rooms in order.
+- Kiss 3 (the declaration, the pit behind lane 7) and an optional coda kiss.
 
 **Notes for Ch 05 (from the Ch 04 cold read):** The reader wants to see Ellen "lose something she can't fix with a card on a pegboard" (rule 20). Vary dialogue length (rule 20). The Ray "fella" stories are close to wearing out: use at most one in Ch 05, or none.
 
