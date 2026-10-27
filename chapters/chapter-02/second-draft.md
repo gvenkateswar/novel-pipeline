@@ -168,7 +168,7 @@ Ray stood up. His left knee told him about the mat. He took the three new rings 
 
 She closed her hand on them.
 
-He weighed his own ring once, and the keys jingled against the orange tag, every key on it still good for something except one. Then he pocketed it, shut the kit, and snapped both latches.
+He shut the kit and snapped both latches.
 
 "Then I'll see you March first," he said.
 
@@ -246,7 +246,7 @@ He punched a hole in the corner with the tip of his pocketknife, ran a twist tie
 
 On the way out he turned off the counter lights.
 
-At the back door he pulled it shut behind him and tried the handle twice. He walked to the truck with his hands in his jacket pockets, and in the right one, among the others, was Arlene's key, which opened nothing.
+At the back door he pulled it shut behind him and tried the handle twice. He walked to the truck with his hands in his jacket pockets.
 
 * * *
 
@@ -258,7 +258,7 @@ REMARKS: INVOICE TO E. DALY.
 
 He looked at it for a while. Then he typed with one thumb.
 
-I didn't fix it for you. Thursday league's got a match.
+Thursday league's got a match.
 
 He sent it.
 

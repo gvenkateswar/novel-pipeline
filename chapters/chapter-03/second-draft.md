@@ -8,7 +8,7 @@ Ellen stayed on her feet. Judy's office had glass on three sides, and through th
 
 "Here's how the underwriter sees you. Your other nine months net out to about nothing. Spring leagues pay for summer and summer people pay for fall. It washes. So the winter is the year."
 
-She tapped the paper. "The new loan costs about twenty-four thousand a year. The committee wants a quarter more than that coming in, so there's room for one bad thing. Thirty thousand, net operating income, December first through February twenty-eighth. Twenty-five thousand cash on the twenty-eighth, so one bad month doesn't sink you. That means on deposit here by close of business that day. Or taken in by then and documented, with register reports and a deposit slip, both dated."
+She tapped the paper. "The new loan costs about twenty-four thousand a year. The committee wants a quarter more than that coming in, so there's room for one bad thing. Thirty thousand, net operating income, December first through February twenty-eighth. Twenty-five thousand cash on the twenty-eighth, so one bad month doesn't sink you. That means on deposit here by close of business that day. Or taken in by then and documented, with register reports dated by then and a deposit slip."
 
 "And if I come in at twenty-nine?"
 

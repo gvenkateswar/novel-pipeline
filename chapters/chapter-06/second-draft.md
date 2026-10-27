@@ -22,6 +22,8 @@ Hollis looked out the window at the sky over the narrows before he asked the nex
 
 "Told her last night."
 
+He did not mention the rest of last night, and Hollis, who missed nothing, let him not.
+
 Hollis grunted and fed a smelt onto the hook.
 
 "Legion's booked for a bean supper the last Saturday in February," he said. "Town hall holds sixty."
@@ -107,6 +109,8 @@ Ellen opened the door with a dish towel over one shoulder and no vest.
 "I chipped those at four."
 
 "They face north."
+
+"Denise has the counter until eight-thirty," she said. "Glow doesn't start till nine."
 
 "Leave it by the boot tray. Thank you." She stood aside. "Nobody says the word ledger tonight. That includes me."
 

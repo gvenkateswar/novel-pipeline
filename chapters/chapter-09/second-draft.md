@@ -104,7 +104,7 @@ Hollis had come in off the plow with snow standing on both shoulders. Judy Ostro
 
 "Seven pounds, six ounces," Hollis said.
 
-"Twenty-six and a quarter inches."
+"Twenty-seven and a quarter inches."
 
 "Depth?"
 
@@ -162,7 +162,7 @@ Kate pulled the masking tape off the register and tore the first strip with her 
 
 * * *
 
-At five of two Ray came out of the pit door and opened locker 14. He took out the blue bag and stood at the trophy case beside it, the bag hanging from one hand, looking at the Memorial on its center shelf. He stood there through a whole box on lane 1. Then he carried the bag down and set it on the settee at lane 5.
+At five of two Ray came out of the pit door and opened locker 14. He took out the blue bag he had hung back in it Wednesday and stood at the trophy case beside it, the bag hanging from one hand, looking at the Memorial on its center shelf. He stood there through a whole box on lane 1. Then he carried the bag down and set it on the settee at lane 5.
 
 The raffle came off lane 7's ball return at two. A girl in a purple snowsuit reached into the well to the shoulder and came out with one stub. A man by the vestibule, boots already on, heard his number and came back in for his ice auger.
 
@@ -192,7 +192,7 @@ Then she stood, binder open to a page marked with a strip of paper, and came to 
 
 "Gagnon and Son shows three bowlers. Under the bylaw adopted February 1983, there is no blind score in a championship final, and a substitute must be a sanctioned bowler on no other roster this season." She turned the page. "The bylaw followed a final in which the Legion substituted a cousin from Laconia who had bowled that same afternoon in Laconia under his brother's name. The chair will not go into the brother."
 
-"Danny's the only fourth I had, and Danny's minding the store through the storm," Ray said. "Everybody else sanctioned in this building's on a roster. Gagnon and Son forfeits."
+"Hollis is on the plow till dark. Danny's the only fourth I had, and Danny's minding the store through the storm," Ray said. "Everybody else sanctioned in this building's on a roster. Gagnon and Son forfeits."
 
 Verna uncapped her pen.
 
@@ -316,7 +316,7 @@ He set the bag on the desk.
 
 He ran the zipper on the bag half an inch and back.
 
-"Six years was true," he said. "Hollis has been telling me that on the ice since the funeral, a little every Sunday. He never once put her name in it." He looked at her. "It landed."
+"Six years was true," he said. "Hollis has had me on that pail every Sunday since the funeral, and he never once put her name in it. He never once put her name in it." He looked at her. "It landed."
 
 "Yes."
 
@@ -342,4 +342,4 @@ He looked at the key on the desk.
 
 Ellen picked the back-door key up off the desk, put it in his palm, and closed his fingers over it with her own hand.
 
-She sat down in the desk chair. He had not seen her sit once all day.
+She sat down in the desk chair.

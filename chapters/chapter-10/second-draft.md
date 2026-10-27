@@ -28,7 +28,7 @@ Ellen picked up the register report. "The report closes at four-forty on the twe
 
 "You ran a raffle through that building Saturday. And a snack bar. How do I know the safe isn't carrying somebody else's money?"
 
-"The raffle belongs to the derby," Ellen said. "The derby's raffle money went into my HELD account Saturday night on its own slip, and the meals tax went with it. HELD has been open since the first of December. The house's venue fee is its own line on the register report. Judy has three months of HELD statements in front of her. Every deposit into HELD matches a line on a register report, and nothing has come out of it except to the state and to the derby."
+"The raffle belongs to the derby," Ellen said. "The derby's raffle money went into the HELD bag in the floor safe Saturday night, counted twice, and across your drive-up this morning on its own slip, and the meals tax went with it. HELD has been open since the first week of December. The house's venue fee is its own line on the register report. Judy has three months of HELD statements in front of her. Every deposit into HELD matches a line on a register report, and nothing has come out of it except to the state and to the derby."
 
 Judy ran her pen down three months of the HELD statement, one deposit at a time. The speaker hissed on the desk.
 
@@ -64,7 +64,7 @@ She took the 1996 ledger out of her tote and set it in front of Ellen, the loan 
 
 The lawyer brought the embosser down on the last page.
 
-Ellen had carried the question since December. She had two guesses and liked neither. Arlene might have picked her for the size of the check, or for not being Ray. Either answer made the winter something done to her.
+Ellen had carried the question since December. She had two guesses and liked neither. Arlene might have picked her for the size of the check, or for not being Ray. 
 
 "Arlene. Why me?"
 

@@ -2,7 +2,7 @@
 
 At 5:34 a pair of headlights came up the drive and stopped under the lot light, nose out. Ellen watched it through the vestibule door glass. At 5:45 it was still one vehicle, exhaust standing up white in the cold, and nobody had got out.
 
-Ray coached Gagnon & Son on Tuesdays and Thursdays. He had pulled into this lot at six-fifteen every league night since 1996, by Denise's account, and never once before six.
+Ray coached the league on Tuesdays and Thursdays. He had pulled into this lot at five-fifteen every league night since 1996, by Denise's account, and never once sat in it with the engine running.
 
 She went out in her vest.
 
@@ -294,7 +294,7 @@ She picked the key up. She missed. She missed again. Her breath fogged the winds
 
 It came out too loud for the inside of a car. Then she said the other half, the half she had put in the wrong order at his window. Alone in the car she got every word of it where it belonged, and there was nobody to hear it. The sound she made after that had no words in it. She pressed the back of her glove against her mouth and held it there until it stopped.
 
-The truck door didn't open. She had said effective now, and he had heard her.
+The truck door didn't open.
 
 At 11:04 and forty seconds the key went in. Six minutes, twenty-eight seconds. Merrimack had been four.
 

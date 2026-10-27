@@ -166,7 +166,7 @@ A big man in a blaze-orange watch cap came to the counter and waited until she l
 
 "No. For thirty-one years I told the people who do where to go. Then I turned fifty-six and the government gave me a sheet cake."
 
-She was fifty-eight now, two years into a retirement she hadn't chosen. The cake had been vanilla.
+She was fifty-eight now, two years into a retirement she hadn't chosen. The cake had been marble.
 
 He nodded once, as if she had shown him a valid license. "Arlene threw the first ball every opening night since 1971. Tonight's yours. You going to throw one?"
 
@@ -276,8 +276,6 @@ At the scorer's table, the tiny woman with the binder had watched all three pile
 
 "Let the minutes reflect," she said, writing, "that on the first of December the house refunded lineage for mechanical failure. The secretary is aware of no precedent since 1979."
 
-Down the building, nine lanes clattered on. Lane 7 sat dark between 6 and 8, its table still hanging a foot off the deck.
-
 * * *
 
 At 10:55 the lanes were dark and only the counter lights were on. Denise worked down the last row of rental shoes with the spray can, toe and heel, two counts each, and passed sentence on every pair.
@@ -342,7 +340,7 @@ Lane 6's score sheet lay on top of the stack. Ray's 7 had gone through the paper
 
 Ellen did the building in order. The fryer, off and cooling. The back door, then the front, with the lock Ray's key would open until eight in the morning. She tried the handle twice.
 
-Out at the road the sign was buzzing on its pole. Its K was dark, and ETTLE LANES hung over the plow bank for whoever drove by, which at that hour was nobody.
+The sign hung lit red over the plow bank for whoever drove by, which at that hour was nobody.
 
 Ray had gone out with the last of the league at ten-thirty, but his pickup still sat beside the pole, engine running, a thread of exhaust going up past the cab. She brushed the snow off her windshield. The pickup stayed where it was. Her engine caught on the second try, and she switched on her headlights.
 

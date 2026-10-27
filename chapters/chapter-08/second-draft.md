@@ -182,8 +182,6 @@ He stopped at the scorer's table on his way back. "Mrs. Lavoie. I watched you pi
 
 In the second string Ray stood on the approach with the gray ball and looked at the lane.
 
-*Low. Let the lane have it.*
-
 He brought his hand down six inches and let the ball go along the boards. It ran true. He finished the string at 117. The 112 had 115.
 
 By the third string Ray was taking back a pin or two a box. The 112 bowled his tenth, took three, and sat down on the stools with his total. Ray stood on the approach for his own tenth while Denise ran the column twice with her pencil.
@@ -270,7 +268,7 @@ The whiteboard leaned against the burnt-orange settee at lanes 1 and 2, four pla
 
 Across the top row of the strip board hung five strips in her capitals, one for each weekday of school vacation week. Each read 1200–1700 / VAC WK / ALL LANES / SOLD. In December Judy had asked what she had booked against that week, and she had said nothing yet. She had built it herself since then: kids' afternoons, family strings by the hour, and a block for the derby families. She had sold it on the derby's phone tree, and every family had paid ahead.
 
-Behind the register the pace sheet carried every dollar of it and still said what it had said all week. A thousand dollars short on Judy's first line. Twelve hundred and fifty short on her second.
+Behind the register the pace sheet carried every dollar of it and still said what it had said all week. Eighteen hundred dollars short on Judy's first line, with vacation week already on the board and the Open still to run. Twelve hundred and fifty short on her second.
 
 "Short on both," Ellen said.
 
