@@ -44,7 +44,7 @@ She picked it up and turned it over to the date before Beth could reach for it, 
 
 "Wouldn't want you to be."
 
-Tess bagged the kerosene and the batteries and the box. Then she reached under the counter and dropped a Hershey bar on top. "That one's free. That's from me." Her eyes went once to Dane's back at the propane card and came home to the register.
+Tess added it on the pad, then added it again, the way she did every total, and bagged the kerosene and the batteries and the box. Then she reached under the counter and dropped a Hershey bar on top. "That one's free. That's from me." Her eyes went once to Dane's back at the propane card and came home to the register.
 
 Dane came up beside Beth as she lifted the bag. He watched the box go into it.
 

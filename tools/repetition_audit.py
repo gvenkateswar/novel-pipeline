@@ -34,7 +34,7 @@ TRACKED = {
 }
 
 def chapters():
-    files = sorted(glob.glob(os.path.join(ROOT, "chapters", "chapter-*", "final.md")))
+    files = sorted(glob.glob(os.path.join(ROOT, "chapters", "chapter-*", os.environ.get("AUDIT_FILE","final.md"))))
     out = []
     for f in files:
         n = re.search(r"chapter-(\d+)", f).group(1)
@@ -76,7 +76,7 @@ def main():
             last = sents[-1] if sents else ""
             words = len(last.split())
             lines.append(f"- Ch {n} sc {i} ({words}w): {last[:140]}")
-    out = os.path.join(ROOT, "reviews", "repetition-audit.md")
+    out = os.path.join(ROOT, "reviews", os.environ.get("AUDIT_OUT","repetition-audit.md"))
     open(out, "w", encoding="utf-8").write("\n".join(lines) + "\n")
     print(out)
 

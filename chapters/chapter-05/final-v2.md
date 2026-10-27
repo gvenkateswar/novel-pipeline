@@ -200,7 +200,7 @@ He spoke first, to the hatch overhead. "They knew the Ashby place."
 
 "And me."
 
-She lay with her palm flat on his chest. She could keep believing it was him alone. She had for four days, because one man was a man she could watch.
+She lay with her palm flat on his chest. She had kept believing it was him alone. Since the bread rack she had worked at it, because one man was a man she could watch.
 
 She took her hand off his chest.
 

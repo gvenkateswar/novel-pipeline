@@ -4,7 +4,7 @@
 
 *Day 8, quarter to four*
 
-Ned brought Russ over the gangway and didn't follow him aboard.
+Russ came up the seaward ladder from the ledges under the pier, where the store's windows couldn't see. A minute later Ned came over the gangway alone and didn't stay.
 
 He stood at the pier end of the brow with his duffel on his good side and looked up once at the wheelhouse glass. Then he turned and went up the stone pier at his hip's pace and on up the Harbor Road in the last of the daylight. Anyone on the hill with binoculars would see the captain walk off his own boat with his bag. He had put the floods on before he went, though the sun wasn't down. The ramp sodiums over the raised bow stayed dark, the way he kept them when the boat wasn't working. The two trucks stood chained in the white light, the fire company's propane truck and the store's box truck, and nobody was on deck.
 
@@ -19,6 +19,8 @@ Russ looked at Beth.
 "Tess," she said. "The back door. The Ashby place. The landing. All of it went through the store."
 
 "Jolene's cousin's boat," Russ said. "Last time there was trouble in my family I was the last man on Cutter to hear about it." He looked at Dane, not her. "Somebody ought to arrest somebody on this island before your people get here and do it for us. Might as well be the constable."
+
+"On what?" Dane said. "A pause on a radio. Take Tess tonight and Arsenault walks to his mooring and sails, and the man with the heel goes with him. We take them when they come."
 
 "What do you carry," Dane said, "and who trained you?"
 
@@ -106,7 +108,7 @@ One more thing to say, and it wasn't for whoever stood behind Tess.
 
 She let go of the key. Her thumb stayed on it.
 
-The speaker hissed. Somebody at the store had keyed and was holding it. Tess's breath, close on the mic. Under it another one, slower, farther off. A chair creaked at the store end and went still.
+The speaker hissed. Somebody at the store had keyed and was holding it. Tess's breath, close on the mic. A chair creaked at the store end and went still.
 
 Beth wiped the grille of the mic on her sleeve.
 
@@ -272,7 +274,7 @@ She took Doucette under the arms and hauled. Dane's good hand came down past her
 
 Dane rolled him onto his face, knelt on his back and cuffed him one-handed, the ratchet of the cuffs loud and small.
 
-Beth fetched the navy blanket off the lower bunk in the dark and put it over him.
+Beth fetched the navy blanket from the mess locker in the dark and put it over him.
 
 The Icom woke in her float coat.
 
@@ -280,7 +282,7 @@ The Icom woke in her float coat.
 
 She keyed. "Whitcomb, *North Reach*. Go ahead."
 
-"I have one in custody at the store. Lyle Arsenault. Taken in the back office with the store's radio in his hand. Over."
+"I have one in custody at the store. Lyle Arsenault. Taken in the back office with the store's radio in his hand. He was calling the skiff back. Doucette had his handheld off, for quiet. Over."
 
 Dane, beside her in the dark, let out a breath through his nose.
 

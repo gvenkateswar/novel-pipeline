@@ -162,7 +162,6 @@ The bell. A tall man in a good Musto jacket. Clean-shaven. No one on a dragger w
 
 "Rough night to be from away." The man looked at Dane once, about the length of a handshake. Dane didn't look away.
 
-*She doesn't know.*
 
 Tess rang the Golds wrong, said "Hell's bells," voided it and rang them again. Her fingers went slow on the drawer with a man standing over it.
 

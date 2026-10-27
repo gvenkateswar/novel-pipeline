@@ -6,7 +6,7 @@
 
 The strip's paper backing came away yellow and brittle, and the old glue under it smelled like a closed drawer.
 
-Beth laid it across the middle of the graze first. With her thumb she pushed the edges of the cut together, then pressed the strip down over them. The skin held. She had pressed the wound twice that morning and again at noon, and waited till it quit about two, because strips won't stick to a seeping cut.
+Beth laid it across the middle of the graze first. With her thumb she pushed the edges of the cut together, then pressed the strip down over them. The skin held. If she had said a name on Wednesday, it would be a clean arm. She had pressed the wound twice that morning and again at noon, and waited till it quit about two, because strips won't stick to a seeping cut.
 
 Dane sat on the edge of the cot with his left elbow braced on his knee. His right hand was clamped round his left wrist, holding his own arm still for her. His watch was on the end of the workbench by the cot. She'd had him take it off before she started. The arm would swell.
 
@@ -36,7 +36,7 @@ He nodded. "Pike says the system's in by dark. Nothing moves on the water till i
 
 She didn't ask what else Pike had said.
 
-"Wake me at eleven," he said. "Night call."
+"Wake me at quarter past eleven," he said. "Night call."
 
 "The watch can wake you."
 
@@ -138,11 +138,11 @@ Day 6, he set the landing time. Someone was waiting with a gun.
 
 The Ashby place and the landing time were in this book, in that hand, and the rest he had said aloud, on the phone, to the same people. She didn't have to decide which, him or the people he gave it to. The book went out either way. Every place she slept went up a phone to Portland, and from Portland it came back down to a man with a gun. Stay beside the phone, stay beside the pipe.
 
-And he had written *assess*. After the shed. After the cot. He had asked her about money with his hands on her and written down the answers.
+And he had written *assess*. After the shed. After the cot. He had stood at the filter beside her asking about money, and then he had kissed her, and then he had written down the answers.
 
 The kettle he'd put on, the cup set by her hand. His hand stopping on the small of her back. The money questions, asked so gently she'd answered them. She couldn't sort it.
 
-There was another way to sort it. *Calloway — home (phone)*, in Tess's round hand on the counter. *Local emergency management.* Cutter had one of those, and Beth had known her name with the hatchet in her hand.
+There was another way to sort it. She didn't. *Calloway — home (phone)*, in Tess's round hand on the counter. *Local emergency management.* Cutter had one of those, and Beth had known her name with the hatchet in her hand.
 
 A man from away she could walk out on. Tess she would have to walk past every morning of her life.
 

@@ -56,7 +56,7 @@ Quist wrote it down.
 
 Then Tess looked at Beth.
 
-"The first days I believed him. Scare you off Monday, nobody hurt." Her thumb went to the purple band. "After the landing I didn't. Thursday noon I told him at my back door I was done. He said the *North Reach* would burn at the pier with Ned asleep aboard her, and I'd stand on the float and watch."
+"The first days I believed him. Scare you off before the grand jury, nobody hurt." Her thumb went to the purple band. "After the landing I didn't. Thursday noon I told him at my back door I was done. He said the *North Reach* would burn at the pier with Ned asleep aboard her, and I'd stand on the float and watch."
 
 Beth didn't come off the door.
 
@@ -68,7 +68,7 @@ Nobody said anything after that. The stove ticked. Tess looked at the cup beside
 
 "Make Ned eat something that isn't coffee."
 
-Beth crossed the cabin and picked up the cup. She tipped it over the rail outside and came back with a sleeve of saltines from the store bag on the locker, and put it in her float coat pocket where Tess could see. Tess's mouth moved and made nothing.
+Beth crossed the cabin and picked up the cup. She tipped it over the rail outside and came back with a sleeve of saltines from the mess locker, and put it in her float coat pocket where Tess could see. Tess's mouth moved and made nothing.
 
 Quist cuffed her in front and set the right cuff clear of the bruise, and checked it with one finger.
 
@@ -106,7 +106,7 @@ At the top of the hill one window stayed dark. Hers. She had switched that light
 
 The older deputy walked her house at dusk with a flashlight, every room and both doors, and went back down to the boat. From the wheelhouse he had her kitchen window; from the gate, the Harbor Road.
 
-The kitchen was the way she'd left it the morning they went. The dish towel he'd dried his hair with, still over the back of the chair. She put the overhead light on, the switch she'd turned off with the dragger watching, and stood under it. Then she relit the stove: birch bark, kindling, two splits of maple from the woodbox. The draft took. The iron began to tick.
+The kitchen was the way she'd left it the evening they went. The dish towel he'd dried his hair with, still over the back of the chair. She put the overhead light on, the switch she'd turned off with the dragger watching, and stood under it. Then she relit the stove: birch bark, kindling, two splits of maple from the woodbox. The draft took. The iron began to tick.
 
 Her father's clock in the front room had run down at twenty past four on some day she hadn't been home. She wound it with the key from the shelf and set it going by her watch.
 
@@ -132,7 +132,7 @@ He stood up into it. His mouth tasted of the boat's coffee. His good hand went t
 
 In her room off the hall she worked the fleece off his bad arm first, because he couldn't lift it, and he held still for it as he had for the strips. Her own sweater she did herself. The flannel sheets were cold enough that she laughed out loud getting in, and he laughed too, and that was what let the last of her go: nobody in the house to hear them.
 
-He took one from Tess's box, out of his jacket on the chair. Neither of them said her name.
+He took one from Tess's box. Neither of them said her name.
 
 He came down over her on his good arm. She took his left hand and put it on her breast and held it there until his thumb found her nipple, and then she let go. When he pushed into her she was wet and it was easy, and the ease of it was the strangest thing yet. No cot. No boots by the bed, no ear left out on the dark. His cock inside her, slow, her knees up around him, her own mattress, the clock in the front room.
 
@@ -228,7 +228,7 @@ One tall window held plain gray daylight over the roofs.
 
 "Thank you, Ms. Calloway. That's all."
 
-On Tuesday, at the Pruett slip on the morning freight, her phone found one bar and rang, and Dane read her the indictment the way it was written, without hurrying any of the names: Pelletier on four counts, and Arsenault, Doucette and Teresa Marr in a second, returned that morning. She heard it out with her bare hand on a binder, and when he was done she let the binder go.
+On Tuesday, at the Pruett slip on the morning freight, her phone found one bar and rang, and Dane read her the indictment the way it was written, without hurrying any of the names: Pelletier on four counts, voted Monday before the jurors went home, and Arsenault, Doucette and Teresa Marr in a second, returned that morning. She heard it out with her bare hand on a binder, and when he was done she let the binder go.
 
 ---
 

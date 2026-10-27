@@ -22,7 +22,7 @@ Last, the D6 line, scored through. She had got none of it.
 
 He didn't write the morning's entry. He zipped the book into his inside pocket and took the phone out onto the ledge, held the arm against his ribs and got the antenna into open sky. Pike answered on the first ring.
 
-"You missed eleven."
+"You missed eleven-twenty."
 
 "Yes."
 
@@ -46,7 +46,7 @@ The line hissed.
 
 Back inside, he laid out what he had, in hands.
 
-The nine thousand had come in the store's bank bag. He had watched it cross the rail on the morning of Day 1: Tess Marr in her red vest handing it up, and a big captain who wouldn't look at a marshal taking it below. Two pairs of hands. The Ashby key had come from the captain too, and on Saturday the captain had lied to his face about the reefer.
+The nine thousand had come in the store's bank bag. He had watched it cross the rail on the morning of Day 1: Tess Marr in her red vest handing it up, and a big captain who wouldn't look at a marshal tucking it inside his jacket. Two pairs of hands. The Ashby key had come from the captain too, and on Saturday the captain had lied to his face about the reefer.
 
 Not the store, and not her house, watched since the first night. She'd go where she was good. Steel, a fixed radio, a door that locked, and a man who had taught her the boat. She would call that safety.
 
@@ -172,9 +172,9 @@ In the crew mess wet gear steamed on the heater rail. Ned's green wool jacket la
 
 She held out her hand. He took the notebook from his inside pocket and gave it to her, and she laid it on the table and kept her hand on the cover.
 
-"You wrote *assess*." Her voice came out low, from the chest. "After the shed. Your hands were on me. You were asking about the money."
+"You wrote *assess*." Her voice came out low, from the chest. "After the shed. You asked me about the money. Then you kissed me. Then you wrote it down."
 
-"I was." He didn't look away. "Quist asked for the log on Saturday and Pike ordered it, and the woman I told them didn't know, under the eave, was you. On Sunday I asked you about your account with my hands on you, and that night I wrote down what you'd told me. I wanted to know you anyway. That's true, and it doesn't help, because only one of those went in the book."
+"I was." He didn't look away. "Quist asked for the log on Saturday and Pike ordered it, and the woman I told them didn't know, under the eave, was you. On Sunday I asked you about your account, and then I kissed you, and that night I wrote down what you'd told me. I wanted to know you anyway. That's true, and it doesn't help, because only one of those went in the book."
 
 The heater ticked.
 
@@ -294,7 +294,7 @@ He looked down at the arm, then across the water at the store.
 
 "Then go call Pike."
 
-Far down the pier road two figures were coming in the last light, one big and stooped, one wide in a ball cap.
+Far down the pier road Ned was coming in the last light, big and stooped, alone. Russ would come the other way, along the ledges under the pier where the store's windows couldn't see.
 
 Beth took the Icom out of its freezer bag and set it on the chart table beside the fixed set, its knob still on sixteen.
 
