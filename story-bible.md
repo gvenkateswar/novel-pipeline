@@ -93,7 +93,7 @@ Close third person, past tense, one POV per section (alternating Ellen and Ray; 
 
 ### Denise Lavoie
 
-- **Age, appearance:** 61. Small and wiry, with a dark-dyed pixie cut that's growing out. Cat-eye readers. A red Kettle Lanes polo from 2011, faded pink at the shoulders. In Ch 07's boiler-outage league night she bowls in a hat with earflaps.
+- **Age, appearance:** 61. Small and wiry, with a dark-dyed pixie cut that's growing out. Cat-eye readers. A red Kettle Lanes polo from 2011, faded pink at the shoulders. She owns a hat with earflaps and wears it to bowl when the building is cold.
 - **Background:** Has worked the Kettle Lanes counter for 22 years, since 2004. Divorced from Roger, who remarried a dental hygienist in Laconia; she is entirely over it and enjoys proving so. Best woman bowler in town. Her team has finished second in the championship four times, twice to Linda's team. She holds the hardware-store pool sheet on Ellen. **Book 2 lead.** Seed only: one exchange with Gil Arsenault in Ch 08.
 - **Wound:** Twenty-two years of being the most competent person in a building she doesn't own, for an owner who never asked her opinion. Always second.
 - **Want:** To win the Linda Gagnon trophy before her knees give out.
@@ -499,11 +499,11 @@ Arlene never booked Ray's labor, so her ledgers understated the loss by about $1
 >
 > "So, no."
 >
-> He put the ring in his jacket pocket and walked past her toward lane seven, listening. Halfway down the approach he stopped. "Your table on seven's slipping."
+> He put the ring in his jacket pocket and stayed where he was, on the mat, head tilted toward lane seven. "Seven's going to give you trouble tonight."
 >
 > "Is that an estimate or a threat?"
 >
-> "It's a Tuesday," Ray said, and kept walking.
+> "It's a Tuesday," Ray said, and didn't move off the mat.
 
 **Sample 2 — Ellen's interiority**
 *Use for: the inside of a precise, controlled mind; specific nouns; humor from order*
