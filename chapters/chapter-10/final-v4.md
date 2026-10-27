@@ -154,7 +154,7 @@ The clock went on down the hall. She found his hand on the quilt.
 
 "What's Christmas in Lowell?"
 
-"My father drove the Bridge Street route for thirty years, and he's retired, and every Christmas he still takes the holiday shift so the young drivers can be home. He wears a Santa hat the transit authority has asked him in writing not to wear. My mother starts the ham at five in the morning, cloves in rows you could sight down, and keeps her old scanner on the counter so she can tell the table where his bus is." His thumb found the scar on her palm. "I'd like to put you on that bus, front seat on the right, where he'll tell you who used to live on every corner and be wrong about half of them."
+"My father drove the Bridge Street route for thirty years and retired last spring, and he still goes in for the Christmas shift, because the depot is short and he's done it every year so the young drivers can be home. He wears a Santa hat the transit authority has asked him in writing not to wear. My mother starts the ham at five in the morning, cloves in rows you could sight down, and keeps her old scanner on the counter so she can tell the table where his bus is." His thumb found the scar on her palm. "I'd like to put you on that bus, front seat on the right, where he'll tell you who used to live on every corner and be wrong about half of them."
 
 "Christmas is two runs," she said. "Kenny'd cover. I'd need a reason."
 
