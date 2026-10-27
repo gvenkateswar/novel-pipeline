@@ -34,7 +34,7 @@ He gave it in the order it had happened, because that was the only order that wo
 
 The line hissed.
 
-"All of that goes to Moreau, Deputy," Quist said. "And from Moreau to the defense. You know that."
+"All of that goes to Moreau, Deputy," Quist said, meaning the Assistant US Attorney running the grand jury. "And from Moreau to the defense. You know that."
 
 "Yes."
 
@@ -118,13 +118,13 @@ He left it on.
 
 *Day 8, twenty to seven*
 
-Beth took the Icom out of its freezer bag and switched it on. She turned the knob off sixteen, click by click, to nine.
+Beth took the Icom out of its freezer bag and switched it on. She turned the Icom from sixteen to nine.
 
 Nobody. Their old channel. Tess on the store's set, Beth fourteen on the *Ruthie C*: *Tell your father his coffee's on, two sugars.*
 
-She counted. At eleven she turned it back to sixteen. She hadn't keyed it.
+She counted. At eleven she turned the Icom back to sixteen. She hadn't keyed it.
 
-The green ledger, squared to the counter's edge. *Island Girl,* 3:52, and white lines under it to the foot of the page. The spiral log beside it: *Calloway — home (phone)*, the first name the back door came for.
+The green ledger, squared to the counter's edge. *Island Girl,* 3:52, and white lines under it to the foot of the page. The spiral log beside it: *Calloway — home (phone)*, written down before the back door was tried.
 
 *Local emergency management.* She had thought of Tess with a clipboard. Then she had split the round, and decided nobody in Portland phoned Tess.
 
@@ -134,7 +134,7 @@ Her hand went to the end of her braid. On Tuesday Tess's hands had been on the r
 
 *Secondary location, B's family property, not disclosed.* He'd kept the fish house out of his own book. Every place he reported had come back as a man with a gun. The one place that went nowhere had had nothing come to it in four days but weather. If it had been him, the fish house would have burned first.
 
-The day her mother left, Tess had driven her down to the boat in a borrowed truck and bought her a hot chocolate in Pruett Harbor, and let her hold it till it went cold.
+The tank-loan winter, Tess had added the store's columns twice every night and pressed through the paper on the second total.
 
 Beth sat down in the helm chair because her legs decided it. She picked up Ned's mug. The coffee had gone cold. She drank it, all of it, then switched the Icom off and bagged it.
 
@@ -204,6 +204,18 @@ He told her anyway.
 
 "I reported that you read the log. I reported us. Both by name. I'm off this detail when relief lands, and off the case. Quist has to tell Moreau why. There'll be a referral to internal affairs." He set his good hand on the table. "It's in the record now. Moreau has to hand it to the defense. A lawyer can stand up at trial and put it to you under oath. I'd rather you get asked than have it found."
 
+"You wrote *assess*." Her voice came out low. "After."
+
+He didn't look away.
+
+"You asked me about the money with your hands on me."
+
+Nothing.
+
+"And the parking lot's yours. Carry her. Don't set her down on me."
+
+He took it. Then he lifted his left arm onto the table with his good hand and laid it beside the other, both hands open where she could see them.
+
 Beth took her hand off the notebook and slid it back across the steel to him. He left it on his side.
 
 Her left palm stayed on the table between them, scar up. His hand came across and stopped an inch short of it, and waited. She left hers where it was.
@@ -242,7 +254,7 @@ She laid his left arm along the bunk rail. Black tape over gauze, her strips gon
 
 "I'll tell you after."
 
-She stood between his knees and looked at him. Daylight. All week she'd had him by lantern, or in the dark. The stubble had gone most of the way to a beard, darker than his hair. More gray at the temple than she'd thought. The white knot on his right knuckles. She learned him like a chart she'd have to run at night with no light on it.
+She stood between his knees and looked at him. Porthole light on him. All week she'd had him by lantern, or in the dark. The stubble had gone most of the way to a beard, darker than his hair. More gray at the temple than she'd thought. The white knot on his right knuckles. She learned him like a chart she'd have to run at night with no light on it.
 
 He let her.
 
@@ -254,7 +266,7 @@ He let her.
 
 The box was where she'd tucked it on Wednesday, in the lid pocket of his bag. She set it on the blanket.
 
-Her bibs hung on the hook by her spare oilskins. She toed off her boots and stepped out of her jeans, and the cold off the deck plates came up her bare legs.
+Her bibs hung on the hook by her spare oilskins. She toed off her boots and stepped out of her canvas pants, and the cold off the deck plates came up her bare legs.
 
 The bulkhead was cold through her undershirt when she knelt up on the bunk, and colder when the undershirt was gone. The upper berth sat low over them, and she had to bend her head under it. He put his good hand on her waist and turned them so the steel was at his back instead, and took the cold of it with a breath through his teeth.
 
@@ -262,11 +274,11 @@ The navy blanket scratched. Past the porthole the fenders squealed on the stone,
 
 She kissed him with her hands on either side of his face. The beard was soft now, past stubble. His hand went up her back and found the end of her braid and worked it loose, the elastic lost somewhere in the blanket.
 
-Somewhere in Portland this was a line in a file now. Some day a lawyer would ask her about it, and she'd tell him: this, in daylight, with her eyes open.
+Somewhere in Portland this was a line in a file now. Some day a lawyer would ask her about it, and she'd tell him: this, with her eyes open.
 
 She got his jeans open, and he lifted his hips for her, careful of the rail. Light from the porthole lay across his chest, gray and moving, and she could see all of him and he could see her, and neither of them looked away.
 
-She rolled the condom onto his cock and lowered herself onto him. His breath came short through his nose, and he shut his eyes and opened them again at once, as if daylight were something he didn't mean to waste.
+She rolled the condom onto his cock and lowered herself onto him. His breath came short through his nose, and he shut his eyes and opened them again at once, as if he meant to miss none of it.
 
 The bunk wouldn't let it be anything but slow. She had to fold close to fit under the upper berth, her breasts against his chest and her mouth at his temple, near enough that she felt each breath he took before she heard it.
 
@@ -286,7 +298,7 @@ He put it back.
 
 She came with her forehead against the cold steel above his head and her knees tight on his hips. A moment after, his good hand went slack on her back, and the bunk rail rang once where his wrist knocked it.
 
-She lay along him on the narrow bunk with her back to the bulkhead now, his good arm around her and her hand on his ribs. Through the porthole the slot of sky thinned from gray to something paler while she watched it, and a gull went across it, the first she'd seen since Wednesday. The fenders had quit their squealing. Out past the pier the wind was coming round into the north.
+She lay along him on the narrow bunk with her back to the bulkhead now, his good arm around her and her hand on his ribs. Through the porthole the slot of sky thinned from gray to clear daylight while she watched it, and a gull went across it, the first she'd seen since Wednesday. The fenders had quit their squealing. Out past the pier the wind was coming round into the north.
 
 She watched it a long time.
 
@@ -318,13 +330,17 @@ Dane stood by the lighting panel on the aft bulkhead. "Go on."
 
 He didn't raise his voice. "You're the witness. Pike says I'm still the detail, and I'm taking her at her word. We lock that door with both of us behind it. Relief's here by noon."
 
-"If we sit tight and he sails, there's one person left on this island who can put him away. Tess. She's in that store tonight with whoever's in it with her. You think he sails and leaves her behind to talk?"
+"If we sit tight and he sails, there's one person left on this island who can put him away. Tess. She's in that store tonight with whoever's in it with her. You think he sails and leaves her behind to talk? Waiting kills Tess. And this way you don't get it from Ned or a phone log. You get it from her mouth."
 
-He didn't answer.
+"You go down on that deck, the case goes with you. I can call it on twenty-two alpha myself."
 
-"Waiting kills Tess. And this way you don't get it from Ned or a phone log. You get it from her mouth."
+"He sees blue lights and walks back up the road. Nobody comes down that pier unless Tess hears my voice."
 
-He looked across the water at the store.
+"Then I hold the boat alone."
+
+"Car deck and gangway, with one arm? I can reach either blind."
+
+He looked down at the arm, then across the water at the store.
 
 "Pike hears it from me first," he said. "Before anything happens. Not after."
 
