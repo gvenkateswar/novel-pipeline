@@ -152,7 +152,7 @@ Ellen kept her eyes on the window and gave it the same attention she gave everyt
 
 "Four pulls left," she said. "Three-quarters of a board at the far end. I put a strip on it in December."
 
-Ray laughed. It came out of him loud in the little kitchen, and the loon clock ticked along under it.
+Ray laughed out loud, and the loon clock ticked along under it.
 
 "She'd have wanted that in writing," he said.
 

@@ -302,7 +302,7 @@ Hollis wrote it down in the notebook with the golf pencil.
 
 Ellen looked at the Tuesday column on the pace sheet.
 
-He had won her two teams back forty minutes up the road and hadn't told her. Eighteen days ago he had stood at her left in front of eighty-one people. He still held the first refusal, and if she missed by a thousand dollars he would own the building those teams had come back to. At his truck she had asked to find out what she could carry. Now she would never know how much of the twelve-fifty had come back on its own.
+He had won her two teams back forty minutes up the road and hadn't told her. Eighteen days ago he had stood at her left in front of eighty-one people. If she missed by a thousand dollars she would have to sell, and he still held the first refusal and a bank letter on the building those teams had come back to. At his truck she had asked to find out what she could carry. Now she would never know how much of the twelve-fifty had come back on its own.
 
 Hollis had come around the counter to read the board column by column.
 
