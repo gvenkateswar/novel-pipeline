@@ -295,7 +295,7 @@ A town in its off-season, keeping itself going. Summer cottages shuttered with p
   - Sound: The propane heater's hiss. A weather radio. Ice booming and cracking across the lake as it settles in the cold, a sound that alarms newcomers and reassures locals.
   - Smell: Propane, bait smelt in a bucket, coffee from a thermos, and wet wool drying.
   - Feel: Warm at head height, freezing at the ankles.
-  - Meaning: Where Ray tells the truth, because Hollis doesn't let him leave until he does. Where Ellen wins the derby committee, by landing a fish while saying "Stand by."
+  - Meaning: Where Ray tells the truth, because Hollis doesn't let him leave until he does. Where Ellen wins the derby committee with a written contingency plan, and lets a flag go unanswered rather than stop her pitch.
 
 - **Arlene's apartment above Ambrose Pharmacy.** Main Street, up a steep, narrow stairway from a side door.
   - Sight: Half-packed boxes labeled in green-ledger script for "THE PINES — UNIT 2B" (the invented continuing-care community). Fifty years of photographs face down for packing. A window over Main Street looking down to the frozen lake.
