@@ -216,6 +216,10 @@ Neither of them said *reefer*. They both noticed.
 
 She walked the cylinder to the back door and handed Dane the key without a word. He put it in the inside pocket of his jacket and zipped it.
 
+"He lied to you about the reefer," she said, low. "And I just took his key."
+
+"He lied about the truck. That makes him a man who looks the other way for money." Dane watched the store's back window. "It doesn't make him the one who tried your door. Nobody tries a door he has a key to. And every other house on this island, somebody besides Ned knows where the key is." He shouldered the cylinder. "I asked Portland for a boat this morning. Coast Guard won't put a crew in that sea till it lies down. We're here. I'd rather be in the one house only Ned knows I asked about."
+
 ---
 
 The drive was three hundred and forty steps from the north road to the Ashby porch. She'd counted them in the dark with a jug in each hand.
