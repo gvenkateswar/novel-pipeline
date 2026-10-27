@@ -479,7 +479,7 @@ Arlene never booked Ray's labor, so her ledgers understated the loss by about $1
 4. **Anne Tyler, *Redhead by the Side of the Road*.** A precise, routine-bound protagonist observed with affection; ordinary detail made exact. *Take:* the comedy of a person who orders the world, and the plain, specific sentences. Best for Ellen's interiority.
 5. **Fredrik Backman, *A Man Called Ove*.** An exacting older person, deadpan comedy, tenderness under exasperation. *Take:* deadpan precision and running gags that pay off. *Caution:* avoid its sentimental crescendos, which are exactly the "Hallmark" risk this book must dodge.
 
-**Original style samples (written for this book; pending author approval).** These four samples set the voice. Match their rhythm, sentence length, and kind of humor, but don't reuse their lines or details in the manuscript.
+**Original style samples (written for this book; approved by the author October 26, 2026).** These four samples set the voice. Match their rhythm, sentence length, and kind of humor, but don't reuse their lines or details in the manuscript.
 
 **Sample 1 — Banter (Ellen POV)**
 *Use for: dialogue rhythm, how the two leads spar, comedy from literal answers*
