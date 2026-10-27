@@ -104,7 +104,7 @@ He stopped wiping.
 
 Beth looked at the smeared glass. Through it the store was a bar of yellow across the harbor.
 
-Ned went past her without being asked, down the companionway, and she heard his boots on the steel treads and a mug knock below. He came back up and set it on the chart table by her left hand, and stepped back to the door.
+Ned turned without being asked and went down the companionway behind him, and she heard his boots on the steel treads and a mug knock below. He came back up and set it on the chart table by her left hand, and stepped back to the door.
 
 She didn't pick it up. She reached over and clipped the mic onto its hook.
 
