@@ -124,7 +124,7 @@ She filled two plates and stayed at the counter with hers. There were two chairs
 
 "I eat standing up. Thirty-one years of eating on a break." She tipped her fork at the chairs. "Sit if you want."
 
-He brought his plate over and stood next to her. The counter had been built for a shorter family. They ate facing the window over the sink and the gray of the narrows.
+He brought his plate over and stood next to her, at a counter built for a shorter family.
 
 For six years he had eaten supper standing at the store counter after Danny went home, and thought nobody knew. Danny had known the whole time. Here was a woman who did it on purpose, and she had set out two plates.
 
@@ -366,9 +366,9 @@ Sunday at 6:55 Hollis came in out of the cold with the spud bar and set it in th
 
 Ray stayed where he was.
 
-The committee came first and took the two buckets: the Sportsmen's Club treasurer, with a gray cash box on his knees, and the woman who ran the raffle, with a roll of tickets and a mitten in her teeth. Hollis went back out to the public access to meet Ellen and spudded a hole every twenty yards on the way out.
+The committee came first and took the two buckets: the Sportsmen's Club treasurer, with a gray cash box on his knees, and the woman who ran the raffle, with a roll of tickets and a mitten in her teeth. Hollis went back out to meet Ellen and spudded the ice every twenty yards on the way.
 
-At the door Hollis read them out. "Eleven inches out to here, eight of black and three of white. You can walk it and you can sled it, and those trucks are wrong."
+At the door he read off the numbers. "Eleven inches out to here, eight of black and three of white. You can walk it and you can sled it, and those trucks are wrong."
 
 "Name."
 
@@ -388,11 +388,7 @@ At the door Hollis read them out. "Eleven inches out to here, eight of black and
 
 Ellen stood and gave them the part of the Open that touched the derby, in about a minute and a half. Hollis let her finish.
 
-"Weigh-in's been at the town dock forty years," the treasurer said. "My father weighed in at that dock."
-
-"The weigh-in stays at the dock unless Hollis calls the ice," Ellen said. "I won't argue it."
-
-The raffle woman took the mitten out of her teeth. "And the raffle. I'm not against it. I don't think I'm against it. Only it's our raffle, is the thing, we sell eleven hundred out of the pharmacy alone, and I'd want the board to see where the, the money sits, I'd think, before anybody—"
+The raffle woman took the mitten out of her teeth. "And the raffle. I'm not against it. I don't think I'm against it. Only it's our raffle, is the thing, we sell eleven hundred out of the pharmacy alone, and I'd want the board to see where the money sits before anybody—"
 
 Outside the window a flag snapped up on its spring.
 
@@ -404,15 +400,15 @@ Hollis didn't move. He was looking at Ellen.
 
 Hollis tipped his head at the door. The treasurer set the cash box on the floor for the first time all morning and went out without his hat.
 
-He came back in red to the ears. "Lost him at the hole. Felt like a good one."
+He came back in red to the ears. "Lost him. Felt like a good one."
 
 Hollis wrote that down too.
 
 "Twenty-six derbies I've chaired," he said. "Nobody ever walked out here and handed me the fallback typed." He turned to the committee. "Indoor fallback. All in favor."
 
-Two hands went up. The treasurer kept both of his on the cash box. "Dock weigh-in stays."
+Two hands went up. The treasurer kept both of his on the cash box. "Weigh-in stays at the dock unless you call it."
 
-"So noted. Raffle stays the derby's, venue fee as written. All in favor."
+"So noted," Hollis said. "Raffle stays the derby's, venue fee as written. All in favor."
 
 The raffle woman put her hand up. The treasurer lifted two fingers off the box.
 
