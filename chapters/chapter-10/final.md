@@ -58,7 +58,7 @@ Tess's hands came off her lap and lay flat on her knees.
 
 Quist told her she was under arrest, and for what, and that she could have a lawyer. Her voice didn't change for any of it.
 
-Tess didn't wait to be asked. "Back office floor, by the booster shelf. The board lifts. Gallon freezer bag. Every boat. Every gallon. I add it twice."
+Tess didn't wait to be asked. "Back office floor, by the booster shelf. The board lifts. Gallon freezer bag. Every boat. Every gallon. I add it twice." She looked at her knees. "Two winters of diesel after six. Cash. It was the tanks or the store, and I kept both."
 
 Quist wrote it down.
 
@@ -210,6 +210,8 @@ Moreau had nothing after it. In the second row a juror wrote something down and 
 
 "Thank you, Ms. Calloway. That's all."
 
+The indictment came down at ten past four. Dane read it to her off his phone in the courthouse lot, flat, the way he read everything: Pelletier, four counts; Arsenault, Doucette and Teresa Marr named in the second. Beth watched the gulls on the light poles while he read.
+
 ---
 
 *Three weeks later, a Friday*
@@ -228,7 +230,7 @@ Since the first of the month she'd stood relief watches at the wheel on the Sund
 
 At Christmas she had two days off, and she was coming to Lowell, where his father would ask, as he had every year since Dane was nine and wanted to be a cowboy, whether he had a horse yet.
 
-Quist stood beside him, seasick and upright, the ring on its chain tucked inside her collar. She opened her jacket far enough to show him the edge of a manila envelope.
+Quist stood beside him, seasick and upright. She opened her jacket far enough to show him the edge of a manila envelope.
 
 "You're off it, so you can know this much. Her ledger. Two years of night fuelings, three harbors, one account on the mainland. Every column added twice. I have never seen a cleaner fucking ledger in my life."
 
@@ -236,11 +238,11 @@ Beth came up the outside ladder in her float coat with frost on her cap and stoo
 
 "I love you," he said.
 
-"Hand me—" She stopped. Her hand stayed where it was. "I love you."
+"Hand me—" She stopped, her hand out for the next strap, and left it in his instead. "I love you."
 
 Her hand didn't move on his. Then she turned her face up and he kissed her, cold mouth, cold nose, brief, in the spill of the floods.
 
-The *North Reach* came into the Cutter slip under the ramp sodiums. The transfer bridge hung level on its new cables, the steel still bright. Russ stood on the float with his cap in his hand. When the ramp came down Quist went off it and held the envelope out to him. Her voice carried up flat across the still water.
+The *North Reach* came into the Cutter slip under the ramp sodiums. The transfer bridge hung level on its new cables, the steel still bright. Russ stood on the float with his cap in his hand. When the ramp came down Quist went off it and held the envelope out to him, and said the rest low, at his shoulder, where only the three of them and the still water heard it.
 
 "Three harbors. One account. And you know every boat in this bay by its exhaust note."
 
