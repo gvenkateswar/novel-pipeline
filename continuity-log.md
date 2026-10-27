@@ -222,6 +222,82 @@ Saturday, Dec 19, 11:40 p.m.: Denise reads the R.G. card aloud (glow night lane 
 
 ---
 
+## Chapter 06: Holding Pattern
+
+**POV:** Ray.
+
+**What happened:**
+- **Sun Jan 17, dawn, Hollis's bob-house.** Ray sits on his joint-compound pail (his since about 1971). Sundays at first light are his standing time there. He started coming the Sunday after Linda's funeral, when he sat from dark to noon and Hollis asked nothing for five hours.
+  - Hollis: "You courting her, or just fixing her machines a lot?" Ray's "Fella I knew in Wolfeboro" story is killed by Hollis: "It was you, and it was 1983, and she married a dentist."
+  - Ray told Ellen last night that he's keeping the letter.
+  - Hollis's problem: the Legion is booked for a bean supper on the last Saturday in February, and the town hall holds 60. There's no indoor fallback for 1,200 people if the ice goes.
+- **Sun Jan 17, 2 p.m., Ellen's office.**
+  - Ellen hands Ray the 2004 ledger: "Your league costs me seven hundred dollars a week." Ray: "Linda took the ham." He offers to raise lineage next season himself. Ellen: "I need it now." Ray: they paid at the September price, you don't change it mid-season, and Pine Ridge is 40 minutes away.
+  - Ellen: "If I raised it Tuesday and nobody quit, I'd be close. Close is short." She lays the 02/27 strip on the ledger: "That's the next line on the tape." Ray: "You gave your word." Ellen: "I did. All of it."
+  - Ray leaves for a lock job at the Lakeview Diner at 3. Denise: Ellen ran the tape four times since six a.m. and said "Well" out loud.
+- **Tue Jan 26, after Tuesday league, the boiler.**
+  - Ray is on a logged call (01/26 / 2310 / 03 / CLUTCH). At 12:08 a.m. he hears the boiler fail: the baseboard stops, a pop, a hiss, the burner cuts out. The store's boiler went the same way in 1994.
+  - He phones Ellen at 12:10 and asks permission to look. She says, "Look. Don't touch." From the third step he sees water spreading toward the floor drain and a crack in the third cast-iron section.
+  - Ellen arrives at 12:30 in her navy vest, sweater on inside out. She works the shutdown (red switch, feed valve). Ray grabs the pipe wrench; Ellen: "Is that wrench certified?" He hangs it back.
+  - Her card: a certified oil-heat technician two hours out; heaters from the rental yard at 7; closed Wednesday; she'll call two bookings at 8.
+- **Wed Jan 27, ~2:40–3:22 a.m., the cellar stairs (kiss 2 of 4).**
+  - The vestibule reads 55°. Ellen sits on the third stair from the bottom with her flashlight on the crack, Ray two stairs above. She predicts the technician will say "Well," then "replace."
+  - Ray guesses a new commercial boiler costs about as much as a plow truck with the blade. "I still have the letter." / "I know."
+  - Her bare hand shakes and Ray doesn't offer to help. Asked why he called first: Arlene's key was for the machines, Ellen's for the back door and a card, "Neither one says anything about a cellar. It's your building."
+  - She stands so they're level and says, "You can say it." She sets the flashlight on the stair and they kiss (who started it, unclear). Her hand fists in his canvas jacket and the shaking stops.
+  - The technician arrives at 3:22.
+- **Thu Jan 28, ~5 p.m., Gagnon & Son (the fight).**
+  - The kiss is acknowledged in one line ("Wednesday. On the stairs. I—" / "Yes.").
+  - Ellen brings the technician's invoice ($24,500, paid by check Wednesday; the new boiler goes in Friday) and a four-page plan for the **Kettle Open**: Saturday Feb 27, all ten lanes. The public pays entries for the early rounds. The Linda Gagnon Memorial stays as the final round for the league's top teams ("Nothing glowing"). Door admission, a raffle split with the derby, and the derby's indoor events if Hollis calls the ice.
+  - Projected cash on Feb 28 is $19,000 against Judy's $25,000. Ray says the derby bought raffle tickets from him in 2019 and still owes for half.
+  - Ellen: "I gave it with a condition." Ray: "I never heard any condition." He reconstructs it and can't swear there was nothing under the sweep. "You let me tell the Rotary." Ellen: "I watched you not hear it. I let it go. I let it go again on the sixteenth."
+  - Ray told Verna at the Christmas social and Hollis on the ice. He shouts: "I have been walking all over this town vouching for you! … And the whole time you had Linda's name on a plan with an entry fee."
+  - Ellen: "You do not hear anything that would change that league. You have not heard one new thing in six years. The whole town knows it. They like you too much to say so." She starts "Ray. That was—" and doesn't finish.
+  - Ray: "I won't help you sell it. I won't stand up against it either." Ellen: "Then I'll start with Hollis."
+  - Alone, Ray sees the new WEDDING DATE row on the pool sheet in Normie's capitals: NORMIE, JUNE 12; D. LAVOIE, NEVER, PAID IN FULL; DANNY, OCT. He drives to coach Thursday league in parkas around two rented heaters.
+- **Sun Jan 31, 7 a.m., bob-house (derby pitch).**
+  - Hollis measures the ice to the access: 11 inches (8 black, 3 white). His license check: name, address (the rented winterized camp past the narrows), purpose of visit, lines in the water (none), fishing license (printed, on top of the stapled plan), plan if the ice goes ("Page two").
+  - Ellen gives the Open in about 90 seconds. Hollis asks who opens her building if she's laid up: Denise Lavoie. "She know that?" / "She will by noon."
+  - The treasurer (gray cash box, his father's pickerel of '71): the weigh-in stays at the dock. Ellen agrees unless Hollis calls the ice.
+  - The raffle woman hedges on the split. The pharmacy sells 1,100 tickets, and she wants the board to see the account.
+  - A flag goes up mid-pitch and Ellen keeps going ("Stand by"). Her page three: the derby's half goes into its own account the day each ticket sells, with a bank letter stapled behind. The treasurer goes to the flag and loses the fish at the hole.
+  - Hollis (22 derbies chaired): "Nobody ever walked out here and handed me the fallback typed." Indoor fallback passes, 2 in favor, the treasurer holding out for the dock weigh-in. The raffle split is pending. Ellen agrees the kids' division bowls free.
+  - Ellen: "League meeting's Tuesday at six-thirty. I'm on under Article Four." Hollis turns his license check on Ray: "Purpose of visit." Ray opens his mouth (chapter ends).
+
+**What changed:**
+- The boiler is replaced ($24,500), and cash is projected at about $19,000 for Feb 28.
+- The Kettle Open exists as a plan. The derby's indoor fallback goes to Kettle Lanes if the ice fails.
+- Ray and Ellen have fought openly, and both said things that land. Ray won't help or oppose.
+- Kiss 2 has happened.
+- The town is betting on a wedding date.
+
+**Who knows what:**
+- Ray: the full promise (now concedes it may have been said), the ledger, the Open plan, cash of $19K against $25K. He knows Danny bought a wedding-date square.
+- Ellen: Ray won't help. She has the derby fallback, has asked Verna for time at Tuesday's meeting under Article Four, and has named Denise as backup opener.
+- Hollis: the Open plan, the fallback, Ray's feelings (asked directly).
+- Denise: named as backup opener (told "by noon").
+- Verna: asked for three minutes Tuesday, reason not given.
+
+**Objects / details introduced:**
+- Ray's pail.
+- Hollis's ladle, smelt bait, tip-ups, and spud bar.
+- The orange bob-house door.
+- The new boiler (installed Fri Jan 29).
+- Two rented heaters.
+- The Kettle Open four-page plan.
+- The derby still owes Ray for half of the 2019 raffle tickets.
+- The WEDDING DATE row and its three squares.
+- The treasurer's gray cash box.
+- The raffle woman's ticket roll.
+- Ellen's printed fishing license.
+- The Lakeview Diner lock job.
+
+**ATC phrases used (2 of 3):** "Say again," "Stand by."
+
+**Ends on:** Sunday, Jan 31, about 7:30 a.m., in the bob-house. Hollis asks Ray "Purpose of visit," and Ray opens his mouth.
+
+---
+
 ## Master Continuity Flags
 
 **Timeline:**
@@ -235,12 +311,14 @@ Saturday, Dec 19, 11:40 p.m.: Denise reads the R.G. card aloud (glow night lane 
 - Mon Dec 14: Ray asks his lender to extend the commitment (the morning of the first lesson).
 - Thu Jan 7: nor'easter; 36 stranded; outage at 1:52 a.m.; 22 inches total. Fri Jan 8, 5:41 a.m.: Verna adjourns. NOI $11,800. Fri Jan 8 and Sat Jan 9 closed (power back Sat evening est.). Bank extension email read at dawn Jan 8.
 - Sat Jan 16: first sold-out Saturday; pace sheet on the line; kiss 1 at the sign pole, about 11 p.m.; ledger reconciliation 11:40 p.m. Sun Jan 17, 1:14 a.m.: "Sunday 1400" set.
+- Sun Jan 17: dawn bob-house; 2 p.m. ledger talk. Tue Jan 26 (after league): boiler fails 12:08 a.m.; kiss 2 at ~3 a.m. Wed Jan 27 (closed). Fri Jan 29: new boiler in. Thu Jan 28: store fight; WEDDING DATE row. Sun Jan 31, 7 a.m.: derby pitch. Tue Feb 2, 6:30 p.m.: league meeting (Ch 07).
 
-**Character states at end of most recent chapter (Ch 05):**
-- Ellen: has kissed Ray; knows the extension; knows the league costs $700 a week and the season projects to about $26K; sees that selling the championship Saturday is the only fix; knows Ray heard only the first half and that she let it stand twice. Meeting set for Sunday at 2 p.m.
-- Ray: kissed Ellen; told her about the extension and is keeping the letter; still believes the championship is untouchable and said so to the Rotary.
-- Denise: saw the kiss.
-- Hollis: not on page (derby poster now over the lost mittens).
+**Character states at end of most recent chapter (Ch 06):**
+- Ellen: boiler paid; cash projected $19K against $25K; has the Open plan and the derby fallback; takes it to the league Tuesday under Article Four. She said something unkind to Ray and didn't take it back.
+- Ray: angry and hurt; concedes he may not have heard the condition; won't help or oppose. Still keeping the letter. Two kisses in. Hasn't answered Hollis's "purpose of visit."
+- Hollis: on Ellen's side on the fallback; pressing Ray.
+- Denise: backup opener, to be told.
+- Danny: bought WEDDING DATE, OCT.
 
 **Open threads (planted details needing payoff):**
 - Invoicing Ray's repairs → done in Ch 03 (per-call at Ellen's rate).
@@ -274,6 +352,14 @@ Saturday, Dec 19, 11:40 p.m.: Denise reads the R.G. card aloud (glow night lane 
 - The 2011 ham.
 
 **Notes for Ch 06 (from the Ch 05 cold read):** The reader is now hooked ("more than after any earlier chapter"). Cut side-character monologues (one short speech per character per chapter). Ration signature lines (rule 17). Don't end on another type-and-delete or held gesture.
+
+- The Kettle Open, Feb 27: Ch 07 league vote, Ch 08 sells out, Ch 09 storm day.
+- Derby raffle split pending; the derby owes Ray for half the 2019 tickets.
+- WEDDING DATE squares (Normie June 12, Denise NEVER, Danny OCT): coda.
+- Denise as backup opener.
+- Ray's answer to "Purpose of visit": open.
+
+**Notes for Ch 07 (from the Ch 06 cold read):** Sameness is the main risk ("never raises its voice"; rule 22). Don't re-stage the Open plan (rule 21): the league hears it, the reader gets the reaction. Ration motifs: index cards, the key ring, "Ms.", readbacks, Hollis's notebook. Verna carries Ch 07's comedy (outline).
 
 **Notes for Ch 05 (from the Ch 04 cold read):** The reader wants to see Ellen "lose something she can't fix with a card on a pegboard" (rule 20). Vary dialogue length (rule 20). The Ray "fella" stories are close to wearing out: use at most one in Ch 05, or none.
 
