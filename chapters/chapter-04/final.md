@@ -118,7 +118,7 @@ Dane put a hand out. She shook her head.
 
 "Duck into the trees and he sees the tracks after and wonders. Walk past and he waves."
 
-The path came out on the old camp road, two ruts and a grass hump. Russ's pickup sat in the ruts with its exhaust hanging low and blue in the spruce. Russ leaned on the tailgate as if standing were optional. A pipe wrench and a bucket in the bed.
+The path came out on the old camp road, two ruts and a grass hump. Russ's pickup sat in the ruts with its exhaust hanging low and blue in the spruce. Russ leaned on the tailgate with a thermos cap of coffee going cold in his hand. A pipe wrench and a bucket in the bed.
 
 "Calloway." He looked at Dane and then at the bucket. "Checking camps. Somebody's got to make sure the summer people's pipes freeze in an orderly way." He tipped his head at the hill. "You come down off the top? *Margaret Ann* still tied up at Tess's?" Nobody had answered him. "Course she is. Nobody's going anywhere."
 
@@ -238,7 +238,7 @@ The fingers on her neck went still. He lifted his mouth off hers and looked over
 
 He stepped back. He still had one end of the rag, and she had the other, and he didn't let go of it.
 
-"I can't keep you alive with my hands on you." He said it slower than he'd said anything all day. "That's not a no. It's a not yet I can't afford."
+"I can't keep you alive with my hands on you." He said it slower than he'd said anything all day. "That's not no. Not with that door open behind me."
 
 Her face burned in the cold. She turned back to the generator and put two fingers on the bleed screw she'd watched him close. Tight. She checked it anyway.
 
