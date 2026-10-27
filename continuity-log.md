@@ -91,25 +91,81 @@ That evening at the store, Ray tells Danny a "Fella I knew in Tilton" story (the
 
 ---
 
+## Chapter 03: Deadwood
+
+**What happened:** First week of December, at Granite Lakes Savings Bank. Judy circles the bank's two numbers: $30,000 net operating income for Dec 1–Feb 28, and $25,000 cash on Feb 28. She explains them (the winter is the year; the new loan costs about $24K a year, plus a cushion). She warns, "Everybody passes the cash test in December. People fail it in February." Ellen orders the appraisal and environmental review the same day and opens a second account named HELD. NOT MINE. for meals tax and the league prize fund. Ray brings two cartons of Bowl-Mor parts from a closed alley past Plymouth; Ellen pays by check. They agree on per-call invoices. He writes the price of a key cut for the lane 7 repair; she crosses it out and writes a fair rate. She gives him one back-door key and pins up the R.G. — AFTER HOURS card (DATE / TIME IN / TIME OUT / LANE / REASON). He reads back the rule ("Back door. After close. Write it on the card. Every time."). He says he'll keep the machines running for "whoever has this building on March second." She shows him the $5,400 glow-night work order out of her own cash. A fixture is planned over the trophy-case wall.
+
+Thursday, Dec 10: the electrician installs black lights. Denise makes Ellen fill out a league sanction card ("so you're legal if they're ever short"). She tells Ellen she can't bowl and the league won't respect that, and points to Ray as the teacher. Ellen moves two Wednesday office parties to 5 p.m. and marks them PER D. LAVOIE. Under the full black light, Linda Gagnon's house-record card glows white in the trophy case.
+
+Friday, Dec 11: glow night, 52 bowlers, a waiting list. Lane 3's table runs late at 9:40; Ellen shuts it off and comps the birthday party fries. Denise texts Ray. At 11:20 he logs in on the card (12/11, 2320, lane 03, TABLE LATE) and tests lane 3. His glowing tape strips line the pit wall ("Nobody told me the tape did that"). His price for the lessons: the championship stays as always, last Saturday in February, all ten lanes, the Linda Gagnon Memorial, "Nothing glowing." Ellen: "You have my word. The championship stays as it is, the last Saturday in February, all ten lanes, unless the numbers say otherwise." The sweep covers the end of her sentence, and Ray is counting the cycle. She chooses not to ask for a readback and shakes his hand.
+
+Mon Dec 14, Wed 16, Fri 18, 7 a.m. lessons on lanes 5–6. She lob-fouls three times and writes down the misses. Ray: "Nobody's ever bowled a 300. Best anybody's done is 245." He gives her the first touch: he turns her wrist and lowers her hand six inches, "Low. Let the lane have it." "The wood stays on the lane. You play what's left." (use 1 of 3). She misses the spread eagle Monday. Wednesday she leaves the clipboard in the car. Friday she uses the deadwood to clear the leave.
+
+Saturday, Dec 19, 11:40 p.m.: Denise reads the R.G. card aloud (glow night lane 3; Tue lane 9 belt; Thu lane 3 again, underlined; Fri lane 6 "Glow light bracket. Not mine. Checked anyway."). The store pool has a new later row, and Ray still won't buy a square (Denise offered him March 1 at cost). The appraiser came Wednesday and studied the boiler without writing anything. Ellen's tape: NOI $5,600, cash $34,300, 88% of a straight-line pace ($6,333). December had the parties and holiday weeks; January has none booked. League nights (Tue and Thu) are the thinnest columns, and she doesn't know why. She pins JAN / RECONCILE / ARLENE / LEAGUE and a strip 02/27 / 1800 / LGM / 10 with REMARKS blank.
+
+**What changed:** The bank's targets are explicit, and Ellen is behind on income. Ray has a key, logs his visits, and is paid per call. Glow nights exist on Fridays and Saturdays. Ellen is learning to bowl from Ray. The conditional promise has been made, and Ray didn't hear the tail.
+
+**Who knows what:**
+- Ellen: the full promise, including that Ray didn't say it back (she chose not to ask). League nights earn the least, cause unknown.
+- Ray: thinks the promise is "the championship stays as it is, last Saturday in February, all ten lanes." He knows about the glow-night spend.
+- Denise: has seen the R.G. card and the strip handwriting. She knows Ray is teaching Ellen and that he still refuses a pool square.
+- Judy: the appraisal and environmental review are ordered. She knows of the HELD account (she approves it in Ch 10).
+
+**Objects / details introduced:**
+- Judy's circled sheet. Her ice-fishing photo (11 lb 4 oz lake trout on a certified scale). The loon calendar. The drive-up tube.
+- HELD. NOT MINE. account.
+- Gagnon & Son sales-slip pad. Ray's carpenter's pencil. The per-call invoice at Ellen's rate. "Ms." correction.
+- R.G. — AFTER HOURS card on the pegboard by the pit door.
+- The back-door key on Ray's ring, beside Arlene's orange-tag brass key (which opens nothing).
+- Electrician's work order, $5,400: black lights, LED lane lighting, sound. Six fixtures, one over the trophy-case wall.
+- League sanction card filled out by Ellen (pays off in Ch 09).
+- Denise's ex-husband Roger (now with a dental hygienist in Laconia). Her red polo with his mustard handprint (Fourth of July, 2011).
+- Menu board: FRIE (the S is missing). The ghost S glows under black light.
+- Ray's glowing tape strips in the pit (PIN ELEVATOR 4, BELT, SPARE, DON'T).
+- Popcorn machine and space heater can't run at once.
+- Ellen's lesson clipboard, protractor diagram, and "300 over 245."
+- Arlene's green ledgers, 1971 to the present, on two shelves above the desk.
+- Strips: JAN / RECONCILE / ARLENE / LEAGUE; 02/27 / 1800 / LGM / 10 (REMARKS blank).
+
+**ATC phrases used (2 of 3):** "Readback," "Negative."
+
+**Ends on:** Saturday, Dec 19, about midnight. Ellen alone at the desk, the championship strip pinned at the far end of the board with REMARKS blank.
+
+---
+
 ## Master Continuity Flags
 
 **Timeline:**
 - Tue Dec 1: Ellen's first day; deed recorded 9:40 a.m.; lane 7 dies 8:11 p.m.
 - Wed Dec 2: 7:30 Ellen at store; 8 a.m. rekey + buyout refused; 9 p.m. Ray repairs lane 7 (done 11:40 p.m.).
 - Thu Dec 3, 6:05 a.m.: Ellen's photo text; Ray's reply.
+- First week of Dec: Judy meeting (appraisal + enviro ordered); key deal and per-call invoices; parts from the Plymouth-area alley.
+- Thu Dec 10: black lights installed. Fri Dec 11: first glow night, 52 bowlers; the promise in the pit after close.
+- Mon Dec 14 / Wed 16 / Fri 18, 7 a.m.: lessons. Wed Dec 16: appraiser visits, looks at the boiler.
+- Sat Dec 19: NOI $5,600, cash $34,300 (88% of pace).
 
-**Character states at end of most recent chapter:**
-- Ellen: refused the buyout; has 9 new keys; knows Ray fixed lane 7; added INVOICE TO E. DALY.
-- Ray: rekeyed out; his old key opens nothing; buyout refused; fixed lane 7 at her invitation; billing unresolved; still no pool square.
-- Denise: skeptical, watching; she's the one who showed Ellen the pool.
-- Hollis: friendly; he set up the ceremonial ball.
-- Verna: noted the refund in the minutes.
+**Character states at end of most recent chapter (Ch 03):**
+- Ellen: behind on income (88%) and knows January is empty; learning candlepin from Ray; made the conditional promise and knowingly skipped the readback; curious why league nights earn so little.
+- Ray: has a back-door key, logs visits on the R.G. card, paid per call; still plans to own the alley on March 2; still no pool square; believes the championship is guaranteed unchanged.
+- Denise: on Ellen's side in practice, still calls her "honey"; texted Ray about lane 3.
+- Judy: friendly but bound by the committee.
+- Verna, Hollis: not on the page in Ch 03.
 
 **Open threads (planted details needing payoff):**
-- Invoicing Ray's repairs → Ch 03 per-call deal.
-- Ray's key: rekeyed out (Ch 02) → Ch 03 key deal (she gives him one, visits logged) → Ch 09 return.
+- Invoicing Ray's repairs → done in Ch 03 (per-call at Ellen's rate).
+- Ray's key: rekeyed out (Ch 02) → Ch 03 back-door key, visits logged on the R.G. card → Ch 09 return.
 - The empty March 1 square (Ray declined it on page, Ch 02) → coda payoff with the "wedding date" square.
 - Linda's ball in locker 14 → Ch 08.
 - Linda's trophy and the house record → Ch 04, Ch 08, Ch 09.
 - The dead K in the sign → Ch 10 coda.
 - Lane 3's dead spot → optional.
+- The conditional promise (Ch 03): Ray heard everything up to "all ten lanes" → Ch 05 Ellen knows which half he heard → Ch 06 argument.
+- League nights are the thinnest columns → Ch 05 ledger reconciliation (lineage frozen since 2004).
+- JAN / RECONCILE strip and 02/27 LGM strip with REMARKS blank → Ch 05, Ch 09.
+- Sanction card → Ch 09.
+- HELD. NOT MINE. account → Ch 10 (Judy approves).
+- The appraiser looked at the boiler → Ch 06 failure (from age, not foreshadowed further).
+- Glow fixture over the trophy-case wall; "Nothing glowing" for the championship.
+- Wood line: used 1 of 3.
+
+**Notes for Ch 04 (from the Ch 03 cold read):** The reader will quit if Ch 04 is "another chapter of pleasant competence." Per World rule 19, Ray and Ellen must want opposite things on the page. Retire the readback-amazement bit (rule 17). Vary the scene endings (rule 18).
