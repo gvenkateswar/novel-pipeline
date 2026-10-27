@@ -4,15 +4,13 @@ The deed had carried Ellen's name since nine-forty that morning, and by twenty t
 
 A row of ten lane-light toggles ran along the inside lip of the counter, each wearing a scrap of masking tape gone the color of weak tea, with a number in green ink and nothing else. Ellen peeled them left to right. Under number 6 she found an older scrap, and under that a third, in a hand that wasn't Arlene's.
 
-She tore fresh tape against the edge of the roll and wrote in block capitals, five columns, the way she had once written flight strips: lane, time, league or open, count, remarks. The Sharpie squeaked on every downstroke. 04 / 1830 / LG / 4 / —. By lane 7 she had the spacing right. By lane 10 she wanted to redo the first three.
-
-Below them, the foul-light switches got a red stripe each and a smaller label, FOUL 1 through FOUL 10, so nobody reaching in a hurry would put a lane in the dark.
+She wrote new ones in block capitals, five columns, the way she had once written flight strips: lane, time, league or open, count, remarks. 04 / 1830 / LG / 4 / —. By lane 7 she had the spacing right. By lane 10 she wanted to redo the first three.
 
 Beside the shoe cubbies she screwed a square of pegboard to the paneling, dead level, and pushed one index card onto a peg at eye height. TUES LEAGUE / 1830 / 40 / ALL LANES.
 
-The baseboard heat ticked as it came up. The building smelled of lane dressing and last night's fryer oil. Low sun came through the glass-block band and laid pale squares on the approaches to 1 and 2.
+For thirty-one years the FAA had picked her shifts, her airspace, and finally the month she stopped. This building was the first thing she had ever chosen on nobody's schedule but her own. Arlene said that on league nights all ten lanes ran at once. Forty people in one room, every one of them needing to go somewhere in order, and somebody at the counter to put them there.
 
-In the office she lifted a fuel-oil company calendar off its nail. JANUARY 2019. A covered bridge, and a delivery number printed in red along the bottom. She looked at the number for a while. Then she dropped the calendar in the desk drawer and shut it with her hip.
+In the office she lifted a fuel-oil calendar off its nail, JANUARY 2019, and dropped it in the desk drawer.
 
 At 4:30 the vestibule door opened, and somebody stamped salt off a pair of boots, four times, hard.
 
@@ -30,7 +28,7 @@ She read all ten, then the foul row, and straightened.
 
 "Lane three has no remarks."
 
-"Three's got a dead spot on the approach and a settee with a crack that pinches you through your slacks." Denise folded the readers. "But sure. Dash."
+"Lane three's got a dead spot on the approach, and the settee's got a crack that'll pinch you right through your slacks. Ask Bev Dubois. She's a ninety-four, and she won't sit on that settee anymore, she stands all three strings like she's waiting on a bus." Denise folded the readers. "But sure. Dash."
 
 "Noted."
 
@@ -42,11 +40,11 @@ She read all ten, then the foul row, and straightened.
 
 "Forty is the number Arlene gave me."
 
-"Arlene gave you forty because it's round. Arlene know you're doing all this?"
+"Arlene gave you forty because forty's round and Arlene likes a round number. Some nights it's forty-three with the subs. Forty-four if Gerry Pelletier's hip is better, which it isn't. Arlene know you're doing all this?"
 
 "Arlene signed six hours and fifty minutes ago. She's at the pharmacy. You could ask her."
 
-"I've been asking Arlene things for twenty-two years, honey. She's a wall with a cardigan on." Denise hung her parka on the hook behind the cubbies and looked Ellen over the long way, from shoes to haircut. "Who's working the fryer while you label things?"
+"I've been asking Arlene things for twenty-two years, honey, and what I get back is a wall. A wall with a cardigan on and a tissue up the sleeve." Denise hung her parka on the hook behind the cubbies and looked Ellen over the long way, from shoes to haircut. "So who's working the fryer while you label things? Because it isn't me. I've got the counter and the shoes, and that's two hands' worth already, and the phone makes three."
 
 "I am. From six-fifteen."
 
@@ -54,15 +52,15 @@ She read all ten, then the foul row, and straightened.
 
 "I've read the manual. Twice."
 
-Denise didn't answer that. She reached past Ellen's elbow, found the lane 4 toggle by feel without lowering her eyes, and flipped it. Down the building, the lights over lane 4 hummed and came on.
+"Twice." Denise reached past Ellen's elbow and found the lane 4 toggle by feel, without lowering her eyes. "Twenty-two years these've had numbers on them. I could do them in the dark. Some Thursdays I about have."
 
-"Twenty-two years," Denise said. "They've had numbers on them."
+She flipped it. Down the building, the lights over lane 4 hummed and came on, and Denise went to start the coffee urn without waiting to see what Ellen would say.
 
 * * *
 
 Three knocks on the door glass at 5:15, a second apart.
 
-Ellen came around the counter. Through the glass she could see the lot, plowed down the middle and not at the edges, and a pickup parked by the sign pole, snow already collecting on its hood. A tall man stood on the step in a brown canvas jacket, snow on his cap and sleeves. GAGNON & SON was stitched over the pocket. His right hand was closed at his side, and an orange paper tag showed between two knuckles.
+Ellen came around the counter. Through the glass she saw a pickup parked by the sign pole and a tall man on the step in a brown canvas jacket, snow on his cap and sleeves. GAGNON & SON was stitched over the pocket. His right hand was closed at his side, and an orange paper tag showed between two knuckles.
 
 She opened the door. Cold came in low across the linoleum and went for her ankles.
 
@@ -92,19 +90,13 @@ He looked at her for a moment, and then at the snow starting to collect on the s
 
 "You can wait inside," Ellen said. "You can't open anything."
 
-He wiped his boots on the outer mat, left and then right, and stepped over the sill onto the rubber mat in the vestibule. The door eased shut behind him. Between his boots an old cigarette burn showed through a split in the rubber. He went no farther.
+He wiped his boots on the outer mat, left and then right, and stepped over the sill onto the rubber mat in the vestibule. He went no farther.
 
-At the counter, Denise wrote something into her crossword. "Ray."
-
-"Denise."
-
-"Cold out?"
+At the counter, Denise wrote something into her crossword. "Ray. You've got half the lot on your hat. Cold out?"
 
 "Some."
 
-Ellen went behind the counter and took the Ambrose directory off the shelf under the register, forty stapled pages with a Rotary wheel on the cover. She ran a finger down the yellow section. LANDSCAPING. LIQUIDATORS. LOCKSMITH. One listing.
-
-She carried the directory to the office doorway, where Arlene's rotary phone sat on the corner of the desk, close enough to reach without losing sight of the mat. She looked at the stitching on his jacket and dialed. The dial whirred back after every digit. Seven digits, seven whirs.
+Arlene's rotary phone sat on the corner of the office desk, close enough to reach without losing sight of the mat. Ellen looked at the stitching on his jacket and dialed.
 
 "Gagnon and Son." A younger voice, level.
 
@@ -124,11 +116,11 @@ Ellen looked at the vestibule. Ray Gagnon was standing on her mat with his hands
 
 "He's here."
 
-"I figured. This is Danny." More tapping. "Okay. Kettle Lanes, rekey, three exterior doors. Eight a.m. tomorrow. Three new keys per door unless you want more. Do you want more?"
+"Figured. This is Danny." More tapping. "Kettle Lanes, rekey, three exterior doors, eight a.m. tomorrow. Three keys a door. More?"
 
 "No. Three."
 
-"Three per door. Invoice to Kettle Lanes, attention E. Daly." He said it the way he would type it, punctuation included. "Anything else?"
+"Three a door. Invoice to Kettle Lanes, attention E. Daly." He said it the way he would type it, punctuation included. "Anything else?"
 
 "Nothing."
 
@@ -136,7 +128,7 @@ Ellen looked at the vestibule. Ray Gagnon was standing on her mat with his hands
 
 At the counter, Denise's pen made one short stroke.
 
-Ellen took a fresh index card and printed LOCKSMITH / 0800 / GAGNON / EXT DOORS. She pushed it onto the pegboard under the league card, at the height of a tall man's eyes, squarely in line with the mat.
+Ellen took a fresh index card and printed LOCKSMITH / 0800 / GAGNON / EXT DOORS. She pushed it onto the pegboard under the league card, at a tall man's eye height, in line with the mat.
 
 Ray read it from where he stood. He didn't need to lower his glasses.
 
@@ -168,9 +160,9 @@ From the far end: "Kettle Tower, requesting a hot dog."
 
 Ellen leaned to the microphone. "Hot dogs are on the roller at the snack bar. Relish is in the squeeze bottle. You'll need to walk over."
 
-"Five out of ten," Denise said, without looking up from her crossword. "He bowls a ninety-one. He's done better."
+"Five out of ten," Denise said, without looking up from her crossword. "That's Paulie Roy on ten, he's a ninety-one, he's been working on that one at my counter since Thanksgiving. He's done better. Not lately, but he has."
 
-A big man in a blaze-orange watch cap came to the counter and waited until she looked at him. He had a white beard trimmed square and glasses mended with electrical tape. He took the cap off, held it in both hands, and studied her over the top of it. Then he put it back on.
+A big man in a blaze-orange watch cap came to the counter and waited until she looked at him. He had a white beard trimmed square and glasses mended with electrical tape. He took the cap off and studied her over the top of it. Then he put it back on.
 
 "You fly?"
 
@@ -180,33 +172,35 @@ He nodded once, as if she had shown him a valid license. "Arlene threw the first
 
 "I've never bowled."
 
-"Think Arlene ever hit anything?"
+"Think Arlene ever hit anything? Fifty-five openings. Head pin twice. I kept a count." He took his cap off again and looked down the building, past the middle pairs, to the tall man in the brown jacket at the line on lane 6. The cap went back on. "Lane five suit you?"
 
-"I wouldn't know."
+"Lane one is closer."
 
-"No," he said. "Lane five?"
+"Lane one's got the Legion on it. Ray's on six." He said it the way he might give a wind speed. "You want him to hear about you, or see you?"
 
-Lanes 5 and 6 belonged to Gagnon and Son and the Ambrose Fire Auxiliary. On 6, Ray stood at the line with his third ball, studying what was left: three pins standing toward the back and one lying across the deck at an angle that looked arranged. On 5 the Auxiliary's leadoff had just finished his frame, and the machine had set a fresh rack.
+Lanes 5 and 6 belonged to the Ambrose Fire Auxiliary and Gagnon and Son. On 6, Ray stood at the line with his third ball, studying what was left: three pins standing toward the back and one lying across the deck at an angle that looked arranged. On 5 the machine had set a fresh rack.
 
 The big man waved the Auxiliary bowler back to his seat and put a house ball in Ellen's hands.
 
-Her ball had no finger holes and a weight that settled into her palm and stayed there. Sixty feet of honey-colored maple ran away from her shoes, dented near the line. The pins at the far end were as thin as their name. She had watched forty people do this for twenty minutes. She swung her arm back and let go late and high.
+She had read up on candlepin in October, the week she made the offer. A ball four and a half inches across with no holes, three throws to a frame instead of two, and every pin you knocked down stayed on the lane where it fell, for your next ball to use or trip over. Sixty feet of honey-colored maple ran away from her shoes, dented near the line. The pins at the far end were as thin as their name. She swung her arm back and let go late and high.
 
-The ball came down well past the painted line ten feet out. A red light came on over the lane. It struck the boards once, jumped the gutter with a crack like a dropped plate, and ran into lane 6, where it went through Ray's three pins and the fallen one he had angled across the deck. All of it went into the pit.
+The ball came down well past the painted line ten feet out, and a red light came on over the lane. Then it jumped the gutter with a crack like a dropped plate and ran into lane 6, where it went through Ray's three pins and the fallen one he had angled across the deck. All of it went into the pit.
 
 Nobody made a sound for one second by her watch. Then forty bowlers did, and her ears went hot.
+
+Her face would be showing nothing. On the worst night of her career she had sounded perfect on the frequency, and nobody in the room knew anything was wrong until she wrote it up herself. Half this town gave her until spring. If they were right, her face would look exactly like this up to the morning it happened.
 
 Ray stood at the line on 6 with his third ball in his hand, looking at an empty deck.
 
 Ellen walked back up to the counter and bent the gooseneck down. "Lane six, stand by."
 
-By the time she came back down the building, the big man and the Auxiliary's captain stood over the scorer's table between 5 and 6, and a tiny woman in a lavender parka zipped to the chin stood with them, a three-ring binder held against her chest.
+When she came back down the building, the big man and the Auxiliary's captain stood over the scorer's table between 5 and 6, and a tiny woman in a lavender parka zipped to the chin stood with them, a three-ring binder held against her chest.
 
-"Who invited her?" the big man said, and answered himself. "I did."
+"Touched down fourteen feet out. Four past the lob line," the big man said. "Crossed into six at about thirty-five feet. Verna, is that interference?"
 
-"Nobody's saying she wasn't invited, Hollis." The Auxiliary captain pointed down lane 6. "I'm asking where the ball went."
+"Hollis, it's a ball in Ray's lane." The Auxiliary captain pointed down 6. "Call it what you want."
 
-The woman in lavender looked at the empty deck, then at Ray, then at Ellen. "Re-rack," she said. "Lane six re-bowls the frame." She wrote one line in her binder and shut it.
+The woman in lavender looked at the empty deck, then at Ray, then at Ellen. "The secretary rules interference. Lane six will re-rack and re-bowl the frame in full. Lane five's ball is a foul and is not recorded." She wrote one line in her binder and shut it.
 
 On 6, the machine set a full rack. Ray bowled the frame again from the beginning. Three balls took down seven pins and left nothing lying where it could help him. He walked to the scorer's table and wrote the 7 into the box, pressing hard enough that Ellen could see the groove from where she stood. He looked at no one.
 
@@ -216,13 +210,13 @@ Ray came back up the approach and passed her on his way to the settee. "Lob line
 
 "Ms.," Ellen said.
 
-He was already sitting down.
+He sat down. Behind him, the ball she had thrown came back up the return on 6 with a long hollow rumble, rolled to the end of the rack, and stayed there. Nobody on either team reached for it.
 
 * * *
 
 At 8:10, in the second string, Ellen was squaring the house balls on the rack behind lane 8 when lane 7 lost its rhythm.
 
-She had been timing the machines since six-thirty without deciding to. Ball, crash, the thunk of the sweep, the table down and back up. Seven seconds, never more than seven and a half. Lane 7 took nine. Its next cycle took eleven, and the sweep paused at the bottom of its stroke before the table moved at all.
+She had been timing the machines since six-thirty without deciding to. Seven seconds a cycle, never more than seven and a half. Lane 7 took nine. Its next cycle took eleven, and the sweep paused at the bottom of its stroke before the table moved at all.
 
 Ellen took out her phone and started recording.
 
@@ -230,15 +224,15 @@ The next ball took out the headpin and two others. The sweep came down and the t
 
 One by one, the four bowlers on 7 turned around on the settee and looked at the counter.
 
-She stopped recording, walked up the aisle to the PA without hurrying, and bent the gooseneck down. When she spoke, she used the voice. Thirty-one years of it: low, level, every word given the same room as the one before.
+She stopped recording, walked up the aisle to the PA without hurrying, and bent the gooseneck down. When she spoke, she used the voice.
 
 "Lane seven is unable. Lane seven, you'll finish on lane eight with your opponents. Bring your sheets."
 
-They brought their sheets. A man on 8 slid down the settee to make room. Somebody on 3 laughed, and then didn't.
+They brought their sheets. Somebody on 3 laughed, and then didn't.
 
-In the office, Ellen opened the breaker panel, found the switch marked PINSETTER 7 in Arlene's green ink, and threw it off. Then she asked the captains on 8, 9, and 10 to hold their frames, took the flashlight from under the counter, and went through the steel door by lane 10.
+She threw the breaker marked PINSETTER 7 in Arlene's green ink, took the flashlight from under the counter, and went through the steel door by lane 10.
 
-The catwalk ran low behind the machines, and she kept her head down. At lane 7 she put the light on the machine. The table hung where it had stopped. The belt was still. One pin lay against the curtain at the back of the pit. She looked for a full minute and touched nothing. Then she walked back and pulled the steel door shut behind her.
+At lane 7 she put the light on the table where it hung, the belt gone still, one pin against the curtain at the back of the pit. She looked for a full minute and touched nothing.
 
 Arlene's card file sat at the end of the counter, a tin recipe box with a rooster on the lid. Under M, one card. MECHANIC, in green ink, and below it R.G. and a phone number.
 
@@ -250,7 +244,7 @@ He read the card. He didn't take it. "Arlene's mechanic was me, Mrs. Daly."
 
 "Ms."
 
-He took his key ring out of his jacket pocket and turned it over once in his palm. The keys jingled against each other, the orange tag among them. Then he closed his fist on the ring and put it away.
+He took his key ring out of his jacket pocket and turned it over once in his palm. The keys jingled against the orange tag. Then he closed his fist on the ring and put it away.
 
 "Not my alley," he said.
 
@@ -258,7 +252,7 @@ Beside him, Hollis studied the ceiling tiles.
 
 "Understood," Ellen said, and folded the card into her vest pocket.
 
-Ray stood and walked the length of the settees to the spare rack by lane 1. He took down a house ball, weighed it, and put it back for another. On his way back he passed the trophy case and, without turning his head, touched the glass with one knuckle. Ellen saw where: the center shelf, a trophy with a brass plate reading LINDA GAGNON MEMORIAL and beside it a framed card, WOMEN'S HOUSE HIGH SINGLE, 187, LINDA GAGNON, FEB. 1998.
+Ray stood and walked to the spare rack by lane 1 and back. Going by the trophy case he touched the glass with one knuckle, without turning his head. Ellen saw where: the center shelf, a trophy with a brass plate reading LINDA GAGNON MEMORIAL and beside it a framed card, WOMEN'S HOUSE HIGH SINGLE, 187, LINDA GAGNON, FEB. 1998.
 
 He sat down and took the pencil from behind his ear.
 
@@ -266,7 +260,7 @@ Ellen stayed on her feet at the counter. Denise watched her over the top of the 
 
 "Nine lanes," Ellen said. "And seven gets its lineage back."
 
-"Honey, they'd have finished on eight and said thank you."
+"Honey, that's the Grange team. They'd have finished on eight and said thank you. They say thank you to the plow guy when he buries their mailbox. You start handing back money on night one, and every time a table hiccups from here to March somebody's going to be standing at my counter with their hand out."
 
 "They paid for a lane. They got half of one."
 
@@ -282,7 +276,9 @@ She took the piles down to lane 8 herself and put each one into a hand.
 
 At the scorer's table, the tiny woman in the lavender parka had watched all three piles go by. Her name was printed at the top of the score sheet: V. TIBBETTS, SEC. She opened her binder and uncapped a pen.
 
-"Arlene never refunded anyone, Mrs. Daly," she said, writing. "I'll note it in the minutes."
+"Let the minutes reflect," she said, writing, "that on the first of December the house refunded lineage for mechanical failure. The secretary is aware of no precedent since 1979."
+
+Down the building, nine lanes clattered on. Lane 7 sat dark between 6 and 8, its table still hanging a foot off the deck.
 
 * * *
 
@@ -290,7 +286,7 @@ At 10:55 the lanes were dark and only the counter lights were on. Denise worked 
 
 "You'll live. You'll live. These, I'd burn."
 
-Ellen squared the score sheets and fed the night into the adding machine, refunds and all. The machine chattered. The last line came out in red. She tore off the tape and folded it once.
+Ellen squared the score sheets and fed the night into the adding machine, refunds and all. The last line came out in red.
 
 "How bad?" Denise said.
 
@@ -302,13 +298,13 @@ Ellen squared the score sheets and fed the night into the adding machine, refund
 
 Denise set the spray can under the counter, zipped her parka, and took out her phone. She thumbed through it and turned the screen toward Ellen.
 
-The photograph showed a sheet of paper tacked to a wall behind a cash register, with a board of key blanks hanging beside it. The sheet was hand-ruled into squares, one date to a square, from the first week of December on. Most squares held initials, one of them in pencil. Across the top, in marker: KETTLE LANES. NEW OWNER. HOW LONG?
+The photograph showed a sheet of paper tacked to a wall behind a cash register. The sheet was hand-ruled into squares, one date to a square. Most held initials. Across the top, in marker: KETTLE LANES. NEW OWNER. HOW LONG?
 
 "Honey," Denise said, "this town's had a pool on you since word got out Arlene was selling. I'm just the one holding the sheet."
 
 "That's the hardware store."
 
-"Best foot traffic in town."
+"Best foot traffic in town. Everybody's in there for salt this time of year, and they stand in line ten minutes with nothing to look at but that wall. It filled by lunch."
 
 "How much is a square?"
 
@@ -316,7 +312,7 @@ The photograph showed a sheet of paper tacked to a wall behind a cash register, 
 
 "Who has tonight?"
 
-"Nobody had tonight. Most people figured you'd make it to New Year's." Denise scrolled with her thumb. "You want to know who's got Christmas Eve?"
+"Nobody had tonight, which I'll be honest surprised me. Gerry almost took it and then went with the twelfth, because that's his anniversary and he's sentimental. Most people figured you'd make it to New Year's." Denise scrolled with her thumb. "You want to know who's got Christmas Eve?"
 
 "Negative."
 
@@ -334,43 +330,35 @@ Ellen took the phone out of Denise's hand, put two fingers on the screen, and sp
 
 "Why not?"
 
-"Ask him. It's his wall." Denise took the phone back and put it in her pocket. "Back door first. Arlene always did the back door first."
+"Ask him. It's his wall." Denise took the phone back and put it in her pocket. "Back door first. Arlene always did the back door first, don't ask me why, she just did, forty years."
 
 "I have a list."
 
 "Course you do." The vestibule door shut behind her, and the cold came across the floor and went away again.
 
-Ellen did the building in order. Every switch against its label. The fryer, off and cooling. The back door, then the front, with the lock Ray's key would open until eight in the morning. She tried the handle twice.
+"One," Ellen said, to the building.
+
+Lane 6's score sheet lay on top of the stack. Ray's 7 had gone through the paper and left its shape on the sheet underneath. He had put all of it into a pencil and none of it into his voice, and then touched the trophy glass as lightly as a man checking a stove he already knew was off. She knew something about keeping a voice level.
+
+Ellen did the building in order. The fryer, off and cooling. The back door, then the front, with the lock Ray's key would open until eight in the morning. She tried the handle twice.
 
 Out at the road the sign was buzzing on its pole. Its K was dark, and ETTLE LANES hung over the plow bank for whoever drove by, which at that hour was nobody.
 
-Ray had gone out with the last of the league at ten-thirty. His pickup still sat beside the pole, engine running, a thread of exhaust going up past the cab. She brushed the snow off her own windshield and rear window. The pickup stayed where it was. She got in, turned the key, and the engine caught on the second try. She switched on her headlights.
+Ray had gone out with the last of the league at ten-thirty, but his pickup still sat beside the pole, engine running, a thread of exhaust going up past the cab. She brushed the snow off her windshield. The pickup stayed where it was. Her engine caught on the second try, and she switched on her headlights.
 
 Across the lot, the pickup's lights came on. It rolled down to Kettle Road and turned toward town, and its taillights got smaller until the trees took them.
 
 ---
 ## Edit log
-
-Final word count: about 3,480 (hand count, no counter available; confident within about 100 words). Original draft ran about 4,100.
-
-- Length: cut about 620 words by compressing narration, not dialogue. Largest cuts: Scene 3 logistics and ball-throw paragraphs, Scene 4 catwalk walk (190 → about 115 words), Scene 5 closing-up list.
-- Triplet/list: "She read all ten. She read the foul row. She straightened." → "She read all ten, then the foul row, and straightened."
-- Triplet/list: "Ten lane-light switches, each one checked against its label. The foul row. The fryer... The coffee urn... The back door, then the front" → "Every switch against its label. The fryer, off and cooling. The back door, then the front"
-- Repeated paragraph openers: "The deed" / "The lane-light toggles" and three consecutive "The" openers in Scene 3 → "A row of ten lane-light toggles..." and "Her ball had no finger holes..."
-- Filler opener: "It was no bigger than a grapefruit" → "Her ball had no finger holes" (also removes a second figure of speech from that paragraph).
-- Filler opener: "It was a photograph of a sheet of paper" → "The photograph showed a sheet of paper"
-- Hedge: "an angle he appeared to have arranged" → "an angle that looked arranged"
-- Hedge/voice: "Seven seconds, give or take half of one" → "Seven seconds, never more than seven and a half" (Ellen's exact-number rule).
-- Issue 16 (Sample 1 echoes): snow "on both shoulders" → "snow on his cap and sleeves"; "Arlene gave me this." → "She gave me this herself."
-- Issue 21 (unconfirmed term): "jumped the gutter cap" → "jumped the gutter"
-- Issue 17 (ATC cap): cut "Nobody's in the air" from the lane 7 announcement so Scene 4 has one ATC phrase ("unable"). Chapter total is five. The line is a good joke, so the author can restore it if the Scene 4 cap is relaxed.
-- Issue 23 (safety): Ellen now asks the captains on 8, 9 and 10 to hold their frames before entering the catwalk, replacing the walk past three running machines.
-- Warmth: "Then forty bowlers did." → "Then forty bowlers did, and her ears went hot." / "Understood," Ellen said. → "Understood," Ellen said, "and folded the card into her vest pocket." Both give her a visible human reaction under the precision.
-- Internal consistency: pool sheet "from the first week of December to the last of February" → "from the first week of December on," so it no longer contradicts the final square reading MARCH 1.
-- Scene breaks: `<p align="center">* * *</p>` → plain `* * *`.
-- Em dashes: none in narration. The only one is inside the strip label "04 / 1830 / LG / 4 / —".
-- Revision notes block removed.
-
-Flags (not fixed, not mine to change):
-- (Resolved by orchestrator: the truck is parked, not idling, at 5:15; at close a line places Ray leaving with the league at 10:30 and waiting in the lot.)
-- Hollis's "Who invited her?" / "I did." works as a self-answered joke, but "her" is Ellen, and the Auxiliary captain's reply is what makes that clear. Fine as is, noting it in case the cold reader stumbles.
+- Length: cut setup, movement, and closing-up routine. Roughly 280 words out in all. Word count could not be run (no shell available), so the total is a hand estimate of about 3,800. Please run `wc -w` on the text above the edit log to confirm.
+- Setup cut: foul-light red-stripe paragraph; "The baseboard heat ticked... last night's fryer oil"; "shut the drawer with her hip."
+- Scene 2 trims: "plowed down the middle and not at the edges, and a pickup parked by the sign pole, snow already collecting on its hood" → "she saw a pickup parked by the sign pole"; directory lookup ("LIQUIDATORS. LOCKSMITH. One listing.") and the dial-whirr lines removed.
+- Continuity fix: the cigarette-burn sentence ("Between his boots an old cigarette burn showed through a split in the rubber") cut. The bible puts the 1974 burn in the linoleum, not the mat.
+- Scene 3 clarity and trim: "It struck the boards once, jumped the gutter..." → "and a red light came on over the lane. Then it jumped the gutter..." (the pronoun was ambiguous after the red light). "By the time she came back down the building" → "When she came back down the building." Removed the Auxiliary leadoff clause.
+- Scene 4 trims: breaker, flashlight, and the steel door joined into one sentence; the "captains hold their frames" instruction and the man sliding down the settee removed; the catwalk-description sentence folded into the lane 7 look; "Ellen walked back up to the counter" cut before the closing image.
+- Scene 5 trims: tape-tearing, key-blank board, "from the first week of December on," "one of them in pencil," and "Every switch against its label" cut; windshield/engine sentences merged.
+- Scene endings: the draft already had only one quip ending in five scenes ("He's punctual"). The others close on an action, two images, and the taillights, so nothing was changed.
+- Preserved intact: Ellen's three interior passages, the candlepin line, and Hollis's "hear about you, or see you?"
+- Em dashes: none in narration. The only dash is the "—" inside the strip-format label "04 / 1830 / LG / 4 / —."
+- Forbidden-phrase sweep: no hits. ATC phrases stay at five (say again, cleared to bowl, stand by, unable, negative), under the set-piece cap of six. Key-ring jingle appears once.
+- Flag, no change made: the fuel-oil calendar is dropped in the desk drawer in this chapter, as the bible expects for the Ch 02 return. The 4:30 vestibule scene never mentions Ellen's own key and rekey timing beyond Danny's 8 a.m. call. Nothing needs a plot fix.
