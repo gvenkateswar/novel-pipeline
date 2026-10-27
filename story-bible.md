@@ -627,3 +627,9 @@ He looked at her for a long moment. Then he said yes, and put his cold mouth on 
 5. **Character specifics.** Beth is 33, holds an AB endorsement and an unused 100-ton master's license, and did one year at Maine Maritime. Dane is 38, from Lowell, with a Puerto Rican father; he is D. Mass. on temporary duty in Portland. The lost witness is Marisol Duarte, 24. **Default:** accept. The author may want to choose the hero's heritage personally.
 
 **Resolution (October 27, 2026):** the author asked for the full exercise to run with minimal input and approved the orchestrator's defaults. All five questions are resolved to the defaults above. The pen name stays a placeholder until publication setup; it is the one item the author must set personally.
+
+---
+
+## Revision rules (October 27, 2026)
+
+`revision-brief.md` sections A and B are binding for the second draft: the Tess timeline (A1), Beth's early suspicion (A2), the Ch 08 repair and the moved third scene (A3), the Ch 09 fixes (A4), Ch 10 (A5), the two-voice profiles (B1), whole-book repetition caps (B2), scene-ending limit (B3), heat position (B4: steamy 3), and the revised heroine rule (B5: her choices follow from what she knows; her blind spots are emotionally credible; her mistakes have costs).

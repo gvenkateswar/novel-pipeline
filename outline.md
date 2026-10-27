@@ -390,3 +390,9 @@ The author approved the orchestrator's defaults on all six open questions. These
 5. **Tess's warning.** Kept. Tess says "water side" on channel 9 in Chapter 09. It is her one act for Beth and it does not undo what she did.
 6. **Ned's fate.** He cooperates, keeps his license, and loses the freight contract. Anything further is book-2 material.
 7. **Pacing flags** on Chapters 03, 06 and 08 are left to plot-architect and cold-reader at drafting time; the outline is not reworked now.
+
+---
+
+## Revision decisions (approved October 27, 2026)
+
+The author approved a second-draft revision after three external review panels. `revision-brief.md` is binding where it differs from this outline. Summary: Tess acts under duress from Day 7 (Arsenault threatens Ned and the North Reach after she tries to quit); the $9,000 was brought to her by Arsenault at 6:15 am Day 1 after Pelletier's 4 am call failed; Beth suspects Tess from Ch 03 and refuses it; the Ch 08 crew-cabin scene is replaced by a fuller repair and sex scene 3 moves to Ch 10, Day 9 night, in Beth's cottage; Ned spends Day 8 night in Russ's kitchen; the brow is hauled in before Russ leaves; Beth's descent is part of the plan; the indictment comes Tuesday; Russ is divorced from Jolene; the Book 2 hook is Quist recruiting Russ to work the ledger.
