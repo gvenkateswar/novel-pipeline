@@ -133,6 +133,49 @@ Saturday, Dec 19, 11:40 p.m.: Denise reads the R.G. card aloud (glow night lane 
 
 ---
 
+## Chapter 04: Ground Stop
+
+**POV:** Ray.
+
+**What happened:** It is Thursday, January 7, during a nor'easter, on the Thursday league night.
+- **The plow:** Hollis's plow jams crossways at the foot of the drive (the angle ram hose on the left side failed). Ellen pays him to keep her lot open on league nights. Kettle Road is closed, the town pulled its trucks at 8:30, and nobody tows tonight. Ray heard it from lane 6 and came down with a shovel from the vestibule. Ellen declares that nobody leaves.
+- **The derby:** Hollis's derby is the last weekend of February, the same weekend as the championship, with about 1,200 people in a good year. His poster is in Ellen's vestibule.
+- **Ground stop:** At 9:20 Ellen counts 36 people, calls in on the rotary phone ("We'll stay put"), and announces a ground stop over the PA. She sets the sleeping places: married couples on the 3/4 settees, Highway Department on 7/8, Lakeview Diner on 5/6, everyone else on 1, 2 and 9, Ray and Hollis on 10 by the pit door. She runs a marathon at the usual rates. Sleeping and the phone are free, and the house adds a set amount per string to the league prize fund. Verna rules under Article Six that the strings aren't league play and logs the house money as a gift.
+- **The pushback:** A Highway Department man (22 years of Thursdays, a son at home with a sixteen-year-old sitter) refuses to pay. Two men sit with him and Denise voids their strings, so nobody bowls on lane 8 that night. Ray doesn't buy a string. Denise grumbles about the cost of the free coffee. Ray's story about Merle Tardif of Gilford (a 4WD stuck on a snowbank in the '78 blizzard) keeps a Diner bowler from driving.
+- **The office argument:** Ray says Arlene opened the alley free for three days in February 1978 and "never charged the league for a lot of things," and Ellen glances at the ledgers. Denise trips a breaker (the popcorn machine against the space heater) and resets it at the panel by the shoe rack. Ellen asks what he'd do if it were his. Ray: open it free, eat the cost. Ellen: "On whose money?" Ray: "Mine. Bank letter says so." The league will bowl there a year from now, and Pine Ridge, 40 minutes away, never charged them for a snowstorm. Ellen has no answer. Denise interrupts because the Highway Department has taken apart lane 8's ball return.
+- **The outage:** At 1:52 a.m., with 19 inches down, a pine takes out the lines on Kettle Road. The lanes go dark mid-string (the last ball is on lane 9), the boiler burner and circulator stop, and the exit signs run on battery. Ellen: "Everyone in this building is a guest." Ray hand-sets lane 5. Its table stopped high, he props it with a 2x4 and switches its breaker off, and Ellen tapes HANDS IN PIT over the switch. She insists on coming into the pit ("It's my pit"). Bowlers call "Ball!" and Denise throws early, so a pin flies over Ellen's head. Someone asks for a "fella who bought a bowling alley" story, and Ray says, "Don't know him." A pin lands in Ray's lap, and Ellen says, "Traffic, twelve o'clock, one mile." He laughs until he has to brace himself.
+- **Linda's 187:** In February 1998, on a Thursday, lane 5's table quit in the ninth frame of Linda's string. Ray set her tenth by hand from the pit and heard the 187 without seeing it. He has never told anyone he didn't see it.
+- **Ellen's last day:** A day shift, the month she turned 56. She signed off at 3:00 and handed the headset to a man she'd trained. There was a sheet cake, marble, with her name spelled right.
+- **Morning:** At 5:40 a.m. Verna adjourns at 5:41. Ellen's pencil tally on a score sheet shows the season's NOI at $11,800 (it was $5,600 on Dec 19). The utility estimates power back Saturday evening, so Ellen marks the Friday glow and Saturday strips CLOSED. Ray sees the 02/27 LGM strip. He has been counting the cars in her lot from the store's back window on Fridays since mid-December and has told no one. He says to rebook the eleven parties free; Ellen says no ($2,640 lost) and starts calling the Friday party list.
+- **Dawn:** With 22 inches down, Ray and Hollis dig out the blade. Ray's lender email extends the commitment letter through March 31. He asked for it on Dec 14, the morning of her first lesson. Hollis: "She know?" Ray: "She knows I've got one." Hollis: "You going home now?" There's no answer.
+
+**What changed:** Ellen lost two of her best nights and $2,640 in parties. NOI is $11,800. She lost the argument with Ray and lost goodwill with part of the Thursday league (the lane 8 sit-out). Ray's bank commitment now runs to March 31. Ray and Ellen shared the pit and their two private stories.
+
+**Who knows what:**
+- Ellen: Ray's 187 secret, that he set Linda's tenth by hand and didn't see it. She knows Arlene "never charged the league for a lot of things" (it points at the ledgers). She does not know about the extension or that Ray asked for it the day of her first lesson.
+- Ray: Ellen's last-day story and the marble cake. He knows her NOI ($11,800) and the cancelled parties. He has watched her lot on Fridays. He holds the extension.
+- Hollis: knows about Ray's extension. The derby and the championship share a weekend.
+- The Thursday league: some resent being charged. Verna's ruling makes the house contribution a gift.
+
+**Objects / details introduced:**
+- Hollis: plows Ellen's lot on league nights; a green waterproof notebook and golf pencil (snow totals 11, 19, 22); a scanner; the derby poster in the vestibule.
+- The sign reads ETTLE LANES from the drive, as it has for seven years.
+- Ray's habit of fixing hinges with a dime.
+- The breaker panel by the shoe rack; the popcorn machine and space heater can't both be on.
+- Lane 5: HANDS IN PIT tape over its breaker; the 2x4 prop; the ten gray spots.
+- Lane 8's ball return was half disassembled by the Highway Department (Ray needs to look at it).
+- Pine Ridge, a rival alley 40 minutes away.
+- Merle Tardif of Gilford (fella story).
+- The '78 blizzard free weekend (Arlene).
+- Verna's Article Six ruling, recorded in the minutes; a motion of thanks is pending.
+- $2,640 in party revenue lost (11 parties).
+
+**ATC phrases used (2 of 3):** "ground stop," "Traffic, twelve o'clock, one mile." The league's "Kettle Tower, Highway Two" mock doesn't count.
+
+**Ends on:** Friday, Jan 8, at dawn at the foot of Ellen's drive. Hollis asks Ray, "You going home now?" Ray doesn't answer.
+
+---
+
 ## Master Continuity Flags
 
 **Timeline:**
@@ -143,13 +186,16 @@ Saturday, Dec 19, 11:40 p.m.: Denise reads the R.G. card aloud (glow night lane 
 - Thu Dec 10: black lights installed. Fri Dec 11: first glow night, 52 bowlers; the promise in the pit after close.
 - Mon Dec 14 / Wed 16 / Fri 18, 7 a.m.: lessons. Wed Dec 16: appraiser visits, looks at the boiler.
 - Sat Dec 19: NOI $5,600, cash $34,300 (88% of pace).
+- Mon Dec 14: Ray asks his lender to extend the commitment (the morning of the first lesson).
+- Thu Jan 7: nor'easter; 36 stranded; outage at 1:52 a.m.; 22 inches total. Fri Jan 8, 5:41 a.m.: Verna adjourns. NOI $11,800. Fri Jan 8 and Sat Jan 9 closed (power back Sat evening est.). Bank extension email read at dawn Jan 8.
 
-**Character states at end of most recent chapter (Ch 03):**
-- Ellen: behind on income (88%) and knows January is empty; learning candlepin from Ray; made the conditional promise and knowingly skipped the readback; curious why league nights earn so little.
-- Ray: has a back-door key, logs visits on the R.G. card, paid per call; still plans to own the alley on March 2; still no pool square; believes the championship is guaranteed unchanged.
-- Denise: on Ellen's side in practice, still calls her "honey"; texted Ray about lane 3.
-- Judy: friendly but bound by the committee.
-- Verna, Hollis: not on the page in Ch 03.
+**Character states at end of most recent chapter (Ch 04):**
+- Ellen: lost two nights and the parties; held her line on charging; lost the office argument to Ray; part of the Thursday league resents her. She has shared her last-day story with Ray. She doesn't know about Ray's extension.
+- Ray: closer to Ellen (the pit, the 187), still plans to own the alley on March 2, bank commitment extended to March 31. He hasn't told her about the extension. He watches her lot from the store.
+- Denise: openly skeptical of the free coffee, still backs Ellen in practice, voided the sit-out strings without being asked.
+- Hollis: plows for Ellen, runs the derby on championship weekend, knows about Ray's extension.
+- Verna: ruled the marathon not league play; a motion of thanks is pending.
+- Highway Department man (unnamed, 22 years of Thursdays): sat out unpaid with two others.
 
 **Open threads (planted details needing payoff):**
 - Invoicing Ray's repairs → done in Ch 03 (per-call at Ellen's rate).
@@ -167,5 +213,16 @@ Saturday, Dec 19, 11:40 p.m.: Denise reads the R.G. card aloud (glow night lane 
 - The appraiser looked at the boiler → Ch 06 failure (from age, not foreshadowed further).
 - Glow fixture over the trophy-case wall; "Nothing glowing" for the championship.
 - Wood line: used 1 of 3.
+
+- Ray's bank commitment extended to March 31 (asked Dec 14). Ellen doesn't know → reveal later (Ch 05–07, as the outline allows).
+- Arlene "never charged the league for a lot of things" → Ch 05 ledger (lineage frozen since 2004).
+- Derby on the same weekend as the championship → Ch 06 derby/Open deal.
+- Ray never saw Linda's 187 (he set it by hand) → Ch 08/09.
+- Lane 8 ball return half apart.
+- The Highway Department sit-out → league goodwill, Ch 07 rate fight.
+- Verna's pending motion of thanks.
+- "Fella who bought a bowling alley": Ray said "Don't know him."
+
+**Notes for Ch 05 (from the Ch 04 cold read):** The reader wants to see Ellen "lose something she can't fix with a card on a pegboard" (rule 20). Vary dialogue length (rule 20). The Ray "fella" stories are close to wearing out: use at most one in Ch 05, or none.
 
 **Notes for Ch 04 (from the Ch 03 cold read):** The reader will quit if Ch 04 is "another chapter of pleasant competence." Per World rule 19, Ray and Ellen must want opposite things on the page. Retire the readback-amazement bit (rule 17). Vary the scene endings (rule 18).
