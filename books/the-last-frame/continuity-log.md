@@ -65,7 +65,7 @@
 - "The Pines doesn't take half, dear"; Pines holds her place to March first (→ Ch 08, Ch 10)
 - The pool sheet; March first blank; Ray won't buy (→ Ch 10)
 - Ray: "he'll want somebody to hold the light" (→ Ch 02 flashlight)
-- Ray's lender commitment: not placed. Optional per beats and it did not fall out of the argument; Ch 04 must introduce it cold.
+- Ray's lender commitment: not placed. Optional per beats and it did not fall out of the argument; Ch 04 must renew it (planted in Ch 02 as good through the end of the year).
 **Plants paid:** none (← first chapter)
 **Numbers stated:** a quarter of a million (Arlene's note, $250,000); March first (balloon). Fifty-eight (Ellen's age, once). Eighty-four (Arlene). Ten lanes, nine running after lane 7. Forty-three people at the count. 1996 (key tag). A hundred and eighty-seven; locker fourteen (Linda). 1979 (Verna). Five hundred and twelve feet (altitude). Twenty years (Ray fixing Arlene's machines unpaid). "Eight days" (Denise, once). Eight bowlers on lane seven. Closing at eleven o'clock that morning, the Bench's sheet drawn at noon. Eight o'clock tomorrow (rekey). League bowls Tuesdays and Thursdays. No other money figure on the page. All match the NUMBERS LEDGER. The $60 refund and the winter shortfall stay off the page.
 **Ends on:** The pool sheet on the counter, Ellen's wallet open, March first blank. "Then who's holding it?" Denise: "Nobody. Ray won't." Last line is Denise's; no reaction beat after it.
@@ -76,7 +76,7 @@
 | Plant | Placed Ch | Pays off Ch | Status |
 |---|---|---|---|
 | Backup contract, "Appraised value. Not a dollar under." | 01 | 04, 07, 08 | Open |
-| Ray's lender commitment | not placed in 01 | 04 | Not planted; introduce cold in Ch 04 |
+| Ray's lender commitment | not placed in 01 | 04 | Not planted; renew (planted Ch 02) in Ch 04 |
 | Ray's 1996 key, orange tag R.G. 1996 | 01 | 02, 10 | Open |
 | Dead K / ETTLE LANES | 01 | 04, 08, 10 | Open |
 | Linda's 187 card; locker fourteen padlocked | 01 | 03, 10 | Open |
