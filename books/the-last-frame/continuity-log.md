@@ -72,24 +72,92 @@
 
 ---
 
+## Chapter 02 — Five O'Clock
+**What happened:** Wednesday, December 2, and Thursday, December 3, from Ray's side. At 7:30 Wednesday Ellen plays the lane 7 recording on the counter of Gagnon Hardware; Ray diagnoses it from the speaker (seven's clutch, a spare on a nail behind seven), she writes it down and asks his rate, he has none, and the Bench gives her "the veteran declines." At 8:00 he rekeys her door with her holding the light; talking to the cylinder, he lays out the backup contract, the at-cost offer ("Committee's Thursday at five. This is the once.") and the condo man from Concord, she answers none of it except to state the bank's bar (thirty thousand cleared, every dollar still in the account), and she takes Kate's call in front of him ("The house." / "Not the rest." / "I swear."). Her text at four (*Lane seven. Ten o'clock. The back door is open.*) brings him in at 10 p.m.: the back door is propped on cardboard on purpose, the spare clutch is on the bench with her tape beside his tag, he fixes seven overnight and leaves an envelope marked *R. Gagnon* unopened under the old clutch. Thursday at two minutes to five, with the signed credit union form under his hand, she lays one new front-door key on his counter without a word, watches the clock to five, and leaves. He never asks her again.
+**What changed:**
+- Lane 7 is fixed (Ray, overnight Wednesday, new clutch from his own spare; ran clean three times). Ten lanes running. No money or rate agreed.
+- The rekey is done: four new keys, two front, two back, "every one there is." Ray's 1996 front key is dead and back on his ring.
+- Ray's offer to buy at what she paid lapsed at five Thursday. She never answered it, so it is lapsed, not refused. Nobody can quote a "no."
+- Ellen has handed Ray one front-door key, so he can enter by the front without her. She holds three: one front, two back.
+- Ray has told her the whole mechanism of the backup contract and has told her the offer was his one ask of the store. He will not ask again.
+- Ellen has been seen by Ray to keep a count to herself, short held breaths, at the clock (he does not know what she was counting).
+**Who knows what:**
+- Ray: the Kate call, her side only, all of it ("The house." / "Not the rest." / "I swear."); the bank's bar (thirty thousand, every dollar still in the account); that she holds the winter cash to the rule; that she answered neither the offer nor the Concord man; that she propped the back door and left the clutch, flashlight and envelope for him; that the key is an answer to the offer, which answer he does not know.
+- Ellen: the contract mechanism and why Ray is the buyer (Arlene required a signed buyer, he was the only one who'd sign at appraised value); the at-cost offer and its deadline (Thursday at five); the Concord condo man. She was NOT told about Ray's Concord lender commitment, the credit union, the 'seventy-four story or Danny's signature; those are S4 narration in Ray's head only. She does not know the offer needed Danny and the committee.
+- Danny: signed the credit union form (his name is on the deed beside Ray's); the Bench: that Ellen came in at two minutes to five and left a key.
+- Normie and the Bench: Ellen's second visit, the key she laid down, the minute watched; Normie knows what the store nearly cost in 'seventy-four (he bowled with Lucien that winter).
+- Kate: (offstage) the house, not the rest; Ellen's oath.
+- Nobody on the page: what is in the *R. Gagnon* envelope (Ray has not opened it); what Ellen meant by the key.
+**Objects / details introduced:**
+- Gagnon Hardware: bell on the door, birdseed and cut brass, coffee pot on a plate, the Bench (three retired men on three stools: Normie plus two), the key cutter with a loose guard screw (tightened a last eighth in S4), the clock over the key cutter (minute hand moves in jumps), the credit union form under Ray's left hand.
+- Ellen's reading glasses on a cord, pad from her vest pocket, steel watch; she takes his pen from the cup. Her coffee for Ray on the counter at Kettle Lanes, black, because he said once how he took it, to a shoelace.
+- The old cylinder and its pins (small, brass, worn at the tips); Ray tips them into his shirt pocket, buttoned. The new key's smooth action; the orange R.G. tag on the dead key.
+- Kettle Lanes back door: storeroom latch that locks itself when it swings shut; propped on a folded square of cardboard in S3; the cardboard drops when Ray pulls the door to. The latch he pinned that morning takes behind him.
+- Pit: one caged bulb over the seven-and-eight pair; the spare clutch (Ray's tag still wired on, Ellen's strip of tape beside it, LANE SEVEN in black marker); flashlight left on aimed at seven's drive; envelope marked *R. Gagnon* in the same marker.
+- Sign: the K went out the winter Danny got his license; Arlene said the sign still said what it meant.
+- Pelletier girl's house key (the cut at four).
+- Normie's play-by-play lines ("it's awful quiet in the house"; "And the veteran declines"; "That's the bell").
+**Plants placed:** (→ pays off Ch __)
+- Kate's call, Ellen's half: "The house." / "Not the rest." / "I swear." (→ Ch 05 "And I swore to Kate," Ch 09 s5 she asks to break it, Ch 10 s3 "Kate said yes")
+- The liquidity rule in Ellen's mouth: "with every dollar it makes still sitting in the account" (→ Ch 10, Judy: "The winter's cash stays where it is. Anything else is new money.")
+- Lucien put the store up in 'seventy-four and nearly lost it; Ray asks it once and never twice (→ Ch 06, the check comes from Ray's own savings, never the store)
+- Credit union committee Thursdays at five; Danny's signature behind it (→ Ch 06)
+- The condo man from Concord, land value for the lot, for condos, never came inside (→ Ch 08 s2)
+- Ray's lender commitment: Concord lends what the appraiser says, through the end of the year (→ Ch 04 renewal to March first, Ch 07 "I keep it," Ch 08 lapses)
+- The new key laid on the counter, no tag, no ring, no word (→ Ch 07 laid on her counter, Ch 08 "Not yet," Ch 10)
+- Ray's 1996 key, dead, back on his ring (→ Ch 10 to Arlene)
+- Dead K dated: out since the winter Danny got his license (→ Ch 04, 08, 10)
+- Normand: "Nobody's cleared thirty in this building since Normand" / "Then it's been done." (→ Ch 08 s2 Normand 1971, Ch 10 Arlene's best winter)
+- Spare parts on nails with tags in Ray's hand; Ellen's tape label beside his tag (→ running friction)
+- Back door propped on cardboard on purpose; the latch self-locks (→ Ch 04 and later: how he gets in)
+- The *R. Gagnon* envelope, unopened, under the old clutch on the pit bench (→ Ch 04)
+- Danny's name on the store's deed beside Ray's (new fact; not in the bible)
+- Ray reads the key as her answer to the offer, "which answer" unknown (→ settle in a later chapter)
+- Ray talks to objects (cylinder, screw): twice in this chapter (running tic, cap)
+**Plants paid:** (← from Ch __)
+- ← Ch 01: lane 7 recording played on his counter
+- ← Ch 01: she finished the tape (eighth, ninth, tenth, pressed along the strip, torn on the panel edge) before coming down: Ray's first memory of her
+- ← Ch 01: "He'll want somebody to hold the light" (she holds it, bare-handed on the barrel, ahead of his hands)
+- ← Ch 01: rekey at eight, front and back, booked in public: done
+- ← Ch 01: Ray's 1996 key with the R.G. tag: goes dead in her new lock and goes back on the ring (the plant stays open for Ch 10)
+- ← Ch 01: lane 7 down, "Not my alley": he fixes it overnight (Ellen did not ask; she propped the door)
+- ← Ch 01 (log flag): "lender commitment not planted": now planted, as good through the end of the year
+**Numbers stated:** thirty thousand (the bank's bar, Ellen, S2; the one money figure on the page). March first (S2, offer and contract; Ray's farewell "I'll see you March first"). Thursday at five / five o'clock / two minutes to five (S2, S4). Twenty years ("Arlene never asked me for one in twenty years," Ray, S1). Two years (Arlene's listing). Sixty-some years (the old pins, narration, S2). Six years (Ray, interior, S1). Four keys: two front, two back (S2). "Seventy-four" ('seventy-four, Lucien put the store up, S4). "The end of the year" / "through the end of the year" (Concord's commitment, S4; the text of "December thirty-first" in Ellen's mouth was cut in revision and is not on the page). Ten o'clock (Ellen's text, S3). Eight o'clock (S1 exit line; S2 rekey). Twenty past eight (back door done). Half past seven (S1). Four (the text; the Pelletier key). Ten to ten (arrival). Three retired men on the Bench. Three runs of seven (once, then twice more). "Linda" is named once (S4, "since Linda"). No other figures. Matches the NUMBERS LEDGER, with the additions below.
+**Ends on:** Ellen turns and goes back down the aisle without a word; the bell rings behind her. Normie, last line: "That's the bell."
+
+---
+
 ## Plant ledger
 | Plant | Placed Ch | Pays off Ch | Status |
 |---|---|---|---|
 | Backup contract, "Appraised value. Not a dollar under." | 01 | 04, 07, 08 | Open |
-| Ray's lender commitment | not placed in 01 | 04 | Not planted; renew (planted Ch 02) in Ch 04 |
-| Ray's 1996 key, orange tag R.G. 1996 | 01 | 02, 10 | Open |
+| Ray's lender commitment (Concord, appraisal, through the end of the year; no renewal or fee said) | 02 (S4 narration) | 04 renewal to March 1, 07, 08 | Planted Ch 02. Ch 04 MUST renew it |
+| Ray's 1996 key, orange tag R.G. 1996 | 01 | 02, 10 | Paid Ch 02 (dead, back on ring); Ch 10 to Arlene still open |
 | Dead K / ETTLE LANES | 01 | 04, 08, 10 | Open |
 | Linda's 187 card; locker fourteen padlocked | 01 | 03, 10 | Open |
 | "Mrs. Daly" / "Ms." | 01 | 10 | Open |
 | Hollis Pike, full name | 01 | 06; Book 3 | Open |
 | Ray's three raps, glass rattles | 01 | 08 s5 | Open |
-| Ellen finishes the tape before coming down the ladder | 01 | 02 | Open |
-| Lane 7 noise recorded on Ellen's phone | 01 | 02 | Open |
+| Ellen finishes the tape before coming down the ladder | 01 | 02 | Paid Ch 02 (S1) |
+| Lane 7 noise recorded on Ellen's phone | 01 | 02 | Paid Ch 02 (S1, played on his counter) |
 | Masking-tape label moved from maple to steel | 01 | running | Open |
 | "The Pines doesn't take half, dear"; hold to March first | 01 | 08, 10 | Open |
 | Pool sheet; March first blank; Ray won't buy | 01 | 10 | Open |
-| "Hold the light" (Ray, locksmith) | 01 | 02 | Open |
+| "Hold the light" (Ray, locksmith) | 01 | 02 | Paid Ch 02 (S2) |
 | Denise heard the half-on-March-first offer | 01 | later, optional | Open |
+| Kate's call: "The house." / "Not the rest." / "I swear." | 02 | 05, 09 s5, 10 s3 | Open |
+| Liquidity rule: "every dollar it makes still sitting in the account" | 02 | 10 | Open |
+| Lucien put the store up in 'seventy-four; Ray asks once, never twice | 02 | 06 | Open |
+| Credit union committee Thursdays at five; Danny's signature | 02 | 06 | Open (this Thursday's offer lapsed unanswered) |
+| Condo man from Concord (land value for the lot) | 02 | 08 s2 | Open |
+| New front key laid on Ray's counter, no tag, no word | 02 | 07, 08, 10 | Open |
+| Dead K dated (winter Danny got his license) | 02 | 04, 08, 10 | Open (adds to the 01 K row) |
+| Normand: "Nobody's cleared thirty in this building since Normand" | 02 | 08 s2 (1971), 10 | Open |
+| Spare parts on nails with Ray's tags; Ellen's tape beside his tag | 02 | running | Open |
+| Back door propped on cardboard on purpose; latch self-locks | 02 | 04+ | Open |
+| Envelope "R. Gagnon" unopened under the old clutch on the pit bench | 02 | 04 | Open. Pay off Ch 04 |
+| Danny's name on the store deed beside Ray's | 02 | author call (bible) | Open |
+| Ray reads the key as her answer to the offer; which answer unknown | 02 | settle later | Open |
 
 ## Numbers ledger (running; copy from the bible and update as figures change)
 | Figure | Value | Ch |
@@ -111,6 +179,14 @@
 | Rekey | eight o'clock, Dec 2, front and back | 01 |
 | Closing | eleven o'clock, Dec 1 | 01 |
 | Lane 7 recording | twenty seconds | 01 |
+| Ellen's text to Ray | ten o'clock, Wed Dec 2 (text sent at four; back door open) | 02 |
+| Keys cut at the rekey | four: two front, two back; Ray's 1996 key dead. Ellen gives Ray one front key Thu Dec 3 at five, leaving her three (one front, two back) | 02 |
+| Age of the old lock's pins | "sixty-some years" | 02 |
+| Ray's Concord lender commitment | lends what the appraiser says, "through the end of the year" (Dec 31); first stated Ch 02 (S4 narration); no fee, amount or renewal said; Ch 04 renews | 02 |
+| Credit union committee | Thursdays at five; offer deadline Thu Dec 3, 5:00 | 02 |
+| Thirty thousand | the bank's bar: winter clear, every dollar still in the account (Ellen) | 02 |
+| Lucien put the store up | 'seventy-four | 02 |
+| Arlene's listing | two years | 02 |
 
 ## Master continuity flags
 - Denise Lavoie is introduced in Ch 01 on shift from before 6:06 p.m. until ringing out at a quarter to ten, working register and fryer, in a red Kettle Lanes polo washed pink at the shoulders. Do not introduce her or the polo again as new. The "2011" in the commitments block and the beat sheet is NOT on the page; it is still available.
@@ -127,4 +203,15 @@
 - Ch 01 does not state the lender commitment, the 33 stranded count (Ch 3 uses 33, not the bible's 31), or any winter-shortfall figure.
 - Motif counts used in Ch 01: counting the room 1 of 3, knuckle on trophy glass 1 of 3, "Mrs. Daly" 1, "The Pines doesn't take half" 1 of 2, pool sheet 1 appearance, "eight days" 1 of 3, dead K / "Ettle" 1, masking tape 3 appearances (toggles, labels; check the beat sheet cap of 4).
 - Ray's "business with it on March first" and "Appraised value" are in the doorway; the bible-compliant phrasing "the contract you signed sells it to me by suppertime" is used. No figure with it.
+- RESOLVED (Ch 02): the Ch 01 flag "lender commitment not planted" is closed. It is planted in Ch 02 S4 as Concord lending what the appraiser says "through the end of the year." Ch 04 must renew it (to March first; fee per ledger, $1,500). No fee, amount or renewal is on the page.
+- Ch 02 offer: Ray's offer to buy at what she paid lapsed at five on Thursday Dec 3. Ellen never answered it out loud. Treat as lapsed, not refused; nobody can quote a "no."
+- Ch 02: Ray is the backstop buyer because Arlene would not carry the note without a signed buyer and Ray was the only one who'd sign at appraised value. Ch 04 and Ch 08 must not contradict.
+- Ch 02, NEW FACT not in the bible: Danny's name is on the store's deed beside Ray's. Danny signed the credit union form. Author call whether the bible records it.
+- Ch 02 keys: four new keys (two front, two back), all cut by Ray ("That's every one there is"). Thursday Dec 3 at five Ellen gives Ray one front key (no tag, no ring); she holds three: one front, two back. Ray's 1996 front key is dead and back on his ring. Ray can enter by the front without her; the back opens only with Ellen's back keys or a prop.
+- Ch 02 back door: propped shut on folded cardboard on purpose by Ellen so Ray could come in Wed night; the latch self-locks when it swings shut and locked behind him. The cardboard fell to the step.
+- Ch 02: the envelope marked "R. Gagnon" (Ellen's marker) lies unopened on the pit bench under the old clutch. Pay off in Ch 04.
+- Ch 02: lane 7 fixed by Ray overnight Wed Dec 2 (new clutch from his spare on the nail); ten lanes running from Ch 03.
+- Ch 02: Ray reads the key as Ellen's answer to the offer but does not know which answer. A later chapter settles it.
+- Ch 02: Ray talks to objects twice (cylinder, screw); "Mrs. Daly" 1 and "Ms." 1 used (Ch 10 payoff); keep the motif low.
+- Ch 02 timeline: S1 Wed Dec 2 7:30 a.m.; S2 Wed 8:00 to ~8:20 (rekey); text at four; S3 Wed 9:50 to ~10 p.m.; S4 Thu Dec 3, form signed, key at 4:58 p.m., committee sits at five. Ch 02 final.md is 2,832 words.
 - Time: knock about 5:15 p.m. (inferred; not stated on the page, which keeps "a quarter past five" off); league arrives 6:06; PA at half past six; lane 7 dies at seven; PA lane 7 at 7:20; close at 9:45.
