@@ -89,7 +89,7 @@ A quiet scene is built on one want the reader can feel (she wants to stay; he wa
     5. "I said it."
     6. "If I take it, I'll never know which of us carried it."
   - *Afraid*
-    7. "Thirty-one cars on Kettle Road in this isn't a decision. It's a sequence of accidents. Nobody leaves."
+    7. "Thirty-one cars on Kettle Road in this is a sequence of accidents. Nobody leaves."
     8. "Don't be kind to me right now. I'll lose my place."
   - *Tender*
     9. "Read it back to me. I want to hear it in your voice."
