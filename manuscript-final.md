@@ -348,8 +348,6 @@ Ray had gone out with the last of the league at ten-thirty, but his pickup still
 
 Across the lot, the pickup's lights came on. It rolled down to Kettle Road and turned toward town, and its taillights got smaller until the trees took them.
 
-
-
 # Chapter Two: Right of First Refusal
 
 The key cutter whined up to speed, and Ray fed the blank in against the guide.
@@ -623,8 +621,6 @@ Ray didn't answer either one.
 He looked up at the pool sheet behind the register. The squares were nearly all full, across and down. The first was empty, and so was the one in the corner. MARCH 1. The pen stood in its cup where he had left it, uncapped end down.
 
 The bell went. A plow driver came stamping in with a key in his hand and snow on his shoulders. Ray turned from the sheet, took a blank off the board, and started the cutter.
-
-
 
 # Chapter Three: Deadwood
 
@@ -952,8 +948,6 @@ On the two shelves above the desk, Arlene's green ledgers ran from 1971 to this 
 
 Then she wrote one more. 02/27 / 1800 / LGM / 10. She left REMARKS blank and pinned it at the far end of the board.
 
-
-
 # Chapter Four: Ground Stop
 
 The blade had dug in at an angle, and the truck had swung around on it like a gate on a hinge.
@@ -1276,8 +1270,6 @@ Hollis climbed in and the engine caught. He backed the truck off the bank of sno
 
 Hollis leaned out the window. "You going home now?"
 
-
-
 # Chapter Five: The Push
 
 "Twenty-four," Ellen said under her breath. Then a boy in a Bruins hat ducked back out to the vestibule for a mitten, and two girls traded places so they could stand together, and she started again from the counter.
@@ -1543,8 +1535,6 @@ She set the phone face up on the score sheet. It lit forty seconds later, at 1:1
 *ok*
 
 Ellen turned the phone face down, took the flashlight off its hook, and went out to the vestibule to find the switch for the sign.
-
-
 
 # Chapter Six: Holding Pattern
 
@@ -1978,10 +1968,6 @@ Hollis shut the door and turned to Ray with the golf pencil ready.
 
 Ray opened his mouth.
 
----
-
-
-
 # Chapter Seven: Loss of Separation
 
 At 5:34 a pair of headlights came up the drive and stopped under the lot light, nose out. Ellen watched it through the vestibule door glass. At 5:45 it was still one vehicle, exhaust standing up white in the cold, and nobody had got out.
@@ -2285,8 +2271,6 @@ At 11:04 and forty seconds the key went in. Six minutes, twenty-eight seconds. M
 She turned it. The engine caught. She wiped a patch of glass clear with her glove and put the car in gear.
 
 Behind her the truck's headlights came on and swung out onto the drive.
-
-
 
 # Chapter Eight: Position Relief
 
@@ -2620,10 +2604,6 @@ Ellen looked at the four colons. She had planned for the ice, the roads, the pow
 Denise capped the pen.
 
 "Call him, honey. Or I will, and I'll enjoy it." She pushed the counter phone across to Ellen by its cord.
-
----
-
-
 
 # Chapter Nine: The Last Frame
 
@@ -2967,10 +2947,6 @@ Ellen picked the back-door key up off the desk, put it in his palm, and closed h
 
 She sat down in the desk chair.
 
----
-
-
-
 # Chapter Ten: Ice-Out
 
 The check mark went in beside the first circle, small and square, in blue ballpoint.
@@ -3176,8 +3152,4 @@ The sign buzzed and caught. From the foot of the pole all Ray could see was the 
 Ellen walked out into the road and looked up at it.
 
 "Both words."
-
----
-
-
 

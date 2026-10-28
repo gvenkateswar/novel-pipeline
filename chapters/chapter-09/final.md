@@ -340,7 +340,6 @@ Ellen picked the back-door key up off the desk, put it in his palm, and closed h
 
 She sat down in the desk chair.
 
----
 
 ## Edit log
 

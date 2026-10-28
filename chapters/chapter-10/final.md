@@ -204,7 +204,6 @@ Ellen walked out into the road and looked up at it.
 
 "Both words."
 
----
 
 ## Edit log
 

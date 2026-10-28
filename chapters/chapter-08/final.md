@@ -331,7 +331,6 @@ Denise capped the pen.
 
 "Call him, honey. Or I will, and I'll enjoy it." She pushed the counter phone across to Ellen by its cord.
 
----
 
 ## Edit log
 

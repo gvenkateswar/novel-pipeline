@@ -430,7 +430,6 @@ Hollis shut the door and turned to Ray with the golf pencil ready.
 
 Ray opened his mouth.
 
----
 
 ## Edit log
 
