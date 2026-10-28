@@ -4,7 +4,7 @@ An agentic writing pipeline using Claude Code subagents. One repo holds the pipe
 
 ```
 CLAUDE.md               orchestrator (read first)
-.claude/agents/         13 agents, shared by every book
+.claude/agents/         15 agents, shared by every book
 tools/audit.py          repetition, ear and AI-tells audit
 genre-maps/             structural defaults per genre (romance.md so far)
 reviews/                external review prompts
@@ -42,11 +42,13 @@ Three gates stop the pipeline even on autopilot: the author's own read of Ch 01,
 | story-architect | Outline against the genre map; sample synopsis | Opus | Setup, and when a gate sends work back |
 | plot-auditor | The skeptic: who knew, how it travelled, why not the safer option; story-level tells audit | Opus | Outline, manuscript, after revisions |
 | sample-reader | The reader who can quit: stop line, buy yes/no, pull per scene | Opus | Synopsis, Ch 01, sample mark, manuscript |
-| bible-builder | Bible with syntax profiles, motif caps, numbers ledger, both-temperature samples | Opus | Setup |
+| character-designer | The people first: wants apart from the plot, humor, syntax profiles, friction that is not the story | Opus | Setup |
+| bible-builder | The world around those people: locations, rules, motif caps, numbers ledger, both-temperature samples | Opus | Setup |
 | domain-checker | Law, money, sport, trade, procedure against the world, with sources | Opus | Bible, manuscript |
 | plot-architect | Beat sheet: want, turn, longing, laugh, floors, texture budget, plants, endings | Opus | Per chapter |
 | prose-writer | Draft and revision | Opus | Per chapter (twice) |
 | continuity-checker | Facts, timeline, ledger, plants; commitments after revisions | Sonnet / Opus | Per chapter; manuscript; after revisions |
+| dialogue-doctor | Every exchange for tactics, subtext, banter, two voices; may add lines | Opus | Per chapter |
 | voice-editor | Voice per POV, adds life, judgment tests, floors | Sonnet | Per chapter |
 | cold-reader | Pull, boredom, prediction, listener pass | Opus | Per chapter; manuscript |
 

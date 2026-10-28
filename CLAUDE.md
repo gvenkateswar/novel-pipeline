@@ -67,10 +67,11 @@ Research is never steered by what you know about the author. If the author wants
 2. @story-architect — builds `outline.md` against the genre map named in the brief. Show the author. Approval stop.
 3. @plot-auditor — runs the logic audit on `outline.md`, saves `reviews/outline-audit.md`. Any open item goes back to the architect. **Logic gate.**
 4. @sample-reader — reads the architect's one-page synopsis of Ch 1–3 (`reviews/sample-synopsis.md`) as a buyer. If "Buy: no", back to the architect before any bible work.
-5. @bible-builder — drafts `story-bible-draft.md`. Show the author the draft and the open questions.
-6. @domain-checker — checks every law, money, sport, trade and procedure fact the bible and outline depend on, with sources. Saves `research/domain-check.md`. Corrections go into the bible draft before approval.
-7. On approval, copy `story-bible-draft.md` over `story-bible.md`. This is the only time the orchestrator writes to `story-bible.md`.
-8. Style samples: the author pastes 3–5 paragraphs, or bible-builder writes original samples. Either way the samples must include one high-temperature passage and one quiet one. A bible whose samples are all restrained produces a restrained book.
+5. @character-designer — designs the people first (wants apart from the plot, humor, syntax profiles, the friction that is not the story, dialogue no one else could say). Saves `characters-draft.md`. Show the author the two leads.
+6. @bible-builder — builds the world around those people and folds `characters-draft.md` in unchanged. Saves `story-bible-draft.md`. Show the author the draft and the open questions.
+7. @domain-checker — checks every law, money, sport, trade and procedure fact the bible and outline depend on, with sources. Saves `research/domain-check.md`. Corrections go into the bible draft before approval.
+8. On approval, copy `story-bible-draft.md` over `story-bible.md`. This is the only time the orchestrator writes to `story-bible.md`.
+9. Style samples: the author pastes 3–5 paragraphs, or bible-builder writes original samples. Either way the samples must include one high-temperature passage and one quiet one. A bible whose samples are all restrained produces a restrained book.
 
 ## Pipeline: Chapter pipeline (once per chapter)
 
@@ -79,12 +80,13 @@ Research is never steered by what you know about the author. If the author wants
 3. **Orchestrator word check.** `wc -w` against the beat sheet's total. Over or under by more than 8%: send it back to the writer with the number before anything else runs.
 4. @continuity-checker — `issues.md` (facts, timeline, the numbers ledger, the plant list).
 5. @prose-writer — revises flagged passages only → `draft-revised.md`. No issues: copy `draft.md` across.
-6. @voice-editor — `final.md`. Edits against the per-POV profiles; may add life; may not cut below floors.
-7. **Orchestrator: `python3 tools/audit.py books/<slug>`** → `reviews/audit-chXX.md`. It runs on all chapters so far. Over-cap items and any scene with three or more tell groups go back to the voice editor (line items) or the writer (scene rewrite). Re-run until clean.
-8. @cold-reader — `reader-notes.md`, with the pull score, the prediction section and the listener pass.
-9. After Ch 01 and at the sample mark: @sample-reader on the finished chapters → `reviews/sample-read-chXX.md`. **Pull gate.** Then the **human gate**.
-10. Orchestrator: continuity-log entry (what happened, who knows what, objects introduced, plants paid or still open, numbers used, ends on). Update the Master Continuity Flags.
-11. Report to the author: file path, word count, open flags, the cold reader's pull score and "what I want to know next", and any boredom flag first.
+6. @dialogue-doctor — rewrites every exchange for tactics, subtext, banter and two voices; may add lines → `draft-dialogue.md`.
+7. @voice-editor — reads `draft-dialogue.md` → `final.md`. Edits against the per-POV profiles; may add life; may not cut below floors.
+8. **Orchestrator: `python3 tools/audit.py books/<slug>`** → `reviews/audit-chXX.md`. It runs on all chapters so far. Over-cap items and any scene with three or more tell groups go back to the voice editor (line items) or the writer (scene rewrite). Re-run until clean.
+9. @cold-reader — `reader-notes.md`, with the pull score, the prediction section and the listener pass.
+10. After Ch 01 and at the sample mark: @sample-reader on the finished chapters → `reviews/sample-read-chXX.md`. **Pull gate.** Then the **human gate**.
+11. Orchestrator: continuity-log entry (what happened, who knows what, objects introduced, plants paid or still open, numbers used, ends on). Update the Master Continuity Flags.
+12. Report to the author: file path, word count, open flags, the cold reader's pull score and "what I want to know next", and any boredom flag first.
 
 ## Autopilot mode
 
@@ -103,7 +105,7 @@ The author can switch this on per book in `book-brief.md`. While on:
 3. @plot-auditor in **manuscript mode**: the causal audit plus the story-level audit from `docs/ai-fiction-tells.md` Part 7. Saves `reviews/manuscript-audit.md`.
 4. @domain-checker on the manuscript. Saves `research/domain-check-manuscript.md`.
 5. @cold-reader full read → `manuscript-reader-notes.md`. @sample-reader whole-book pull curve → `reviews/pull-curve.md`.
-6. Orchestrator writes `reviews/revision-brief.md` from all of the above: binding, with completion questions a fresh reader must be able to answer from the page. Run one internal revision round (writer → continuity in **commitments mode** → voice → audit → cold read). Then the external review.
+6. Orchestrator writes `reviews/revision-brief.md` from all of the above: binding, with completion questions a fresh reader must be able to answer from the page. Run one internal revision round (writer → continuity in **commitments mode** → dialogue doctor → voice → audit → cold read). Then the external review.
 
 ## Pipeline: External review (before publishing)
 
@@ -111,7 +113,7 @@ Use `reviews/prompt-blind.md`. It is two messages.
 1. Build the clean manuscript. The author sends **message one** (blind: title, one-line genre label, the file; no design intent, no mention of AI) to 2–3 outside tools. It asks for behavior first (where you stop, buy yes or no), a boredom ledger, a pull curve, a comparison with a current bestseller's opening, and the audio test. Only after that verdict is recorded does the author send **message two**, the design intent, generated by the orchestrator from the bible so the facts are right, which asks for the editorial panel.
 2. Save results to `reviews/<date>-external/`. Synthesize into `synthesis.md` with a reliability column per panel (reviewers miscount words and quote stale text) and verify every claim against the text before acting.
 3. Enjoyment and craft are scored separately. Publishability may not exceed enjoyment.
-4. Write `revision-brief-N.md`, run one targeted round (writer → continuity in commitments mode → voice → audit → cold read).
+4. Write `revision-brief-N.md`, run one targeted round (writer → continuity in commitments mode → dialogue doctor → voice → audit → cold read).
 5. Later rounds send the new draft blind again with no fix list. Checklist verification belongs to the commitments check.
 6. Hard stop after two rounds. Then 3–5 human target readers get the sample with two questions: where did you stop, would you buy. Then a human copyedit.
 
@@ -128,7 +130,7 @@ Any reader-notes or review file names the exact draft it read.
 
 ## Rules
 
-- Never modify `story-bible.md` except in setup step 7 or when the author explicitly asks.
+- Never modify `story-bible.md` except in setup step 8 or when the author explicitly asks.
 - Never skip the continuity checker or the audit.
 - Never give the cold reader or the sample reader a planning file. Pass them chapter numbers only.
 - An agent that flags an unresolvable conflict with the bible stops the pipeline; report to the author.

@@ -1,6 +1,6 @@
 ---
 name: bible-builder
-description: Drafts the full story bible (core, characters with syntax profiles, relationships, world, world rules, motif caps, numbers ledger, style reference) from the chosen angle and approved outline. Writes a draft for the author to approve; never edits the live story-bible.md.
+description: Drafts the story bible (core, world, world rules, motif caps, numbers ledger, heat rules, style reference) from the chosen angle, the approved outline and the character designer's people. Folds characters-draft.md in unchanged. Writes a draft for the author to approve; never edits the live story-bible.md.
 tools: Read, Write, WebSearch
 model: opus
 ---
@@ -9,7 +9,7 @@ You build the bible every other agent relies on. It must be specific enough that
 
 ## When invoked
 
-1. Read `book-brief.md`, `research/chosen-angle.md`, `outline.md` (including its Author decisions) and the genre map the brief names.
+1. Read `book-brief.md`, `research/chosen-angle.md`, `outline.md` (including its Author decisions), the genre map the brief names, and `characters-draft.md` from the character designer.
 2. Read `story-bible.md`: it is the template from `books/_template/`. Keep its section order.
 3. For a real setting, period or community, use WebSearch for concrete, accurate detail. Do not invent facts about real places. Mark anything the domain checker should verify with `[CHECK]`.
 
@@ -17,15 +17,7 @@ You build the bible every other agent relies on. It must be specific enough that
 
 **The Core.** Premise, the emotional question, tone, what the story is not, the prose register at a high point and at a quiet one.
 
-**Characters.** A profile for everyone with a speaking role. Observable behavior ("answers a question with a question when cornered"), never abstract traits. Names chosen from the setting's culture, period and class, with the reason noted; never the model's defaults (`docs/ai-fiction-tells.md` 2.1). For each point-of-view character, a **syntax profile**:
-- typical sentence length and shape, and what changes it under pressure
-- what they notice first (hands, weather, money, exits, faces)
-- a habit of thought (counts things, judges people in full sentences, makes lists, deflects with a joke) given to that character alone
-- how they are funny, and at whom
-- three sample lines of dialogue and three of interior narration that could not be mistaken for the other lead's
-- what they want that has nothing to do with the other lead
-
-**Relationships.** One line per pair who share a scene, plus for the leads: what each finds attractive in the other, stated plainly, and the friction between them that is not the plot.
+**Characters and Relationships.** Copy `characters-draft.md` into these sections unchanged except for formatting. You may add a `[CHECK]` note where a character's trade or background needs a fact verified. If an outline event or a world rule you write conflicts with a character as designed, flag it in your report; do not quietly rewrite the person. The world is built around these people, so read them before you write a location.
 
 **World and setting.** Every location with three sensory details and one pleasure (something that smells, tastes or feels good there).
 

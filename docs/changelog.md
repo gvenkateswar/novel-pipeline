@@ -45,7 +45,7 @@ Every fix along the way had been written into one-off files (revision briefs, vo
 
 **Gates (apply on autopilot):** human gate (Ch 01, sample mark, Ch 03, in the format readers use); pull gate (sample reader); logic gate (plot auditor on the outline).
 
-**New agents:** `plot-auditor` (the skeptic; outline and manuscript modes; owns the tells Part 7 story-level audit), `sample-reader` (the reader who can quit; forced-choice outputs; prediction section), `domain-checker` (web-enabled; bible and manuscript modes).
+**New agents:** `character-designer` (the people before the world; split out of bible-builder because the bible spent its attention on money tables and calendars and the leads came out thin), `dialogue-doctor` (a pass between the continuity revision and the voice edit that rewrites every exchange for tactics, subtext, banter and two voices, and may add lines), `plot-auditor` (the skeptic; outline and manuscript modes; owns the tells Part 7 story-level audit), `sample-reader` (the reader who can quit; forced-choice outputs; prediction section), `domain-checker` (web-enabled; bible and manuscript modes).
 
 **New tool:** `tools/audit.py` combines Book 2's repetition script, the postmortem's ear check and the tells lint (Parts 2, 3, 5). Runs after every voice edit on all chapters so far; reports scene clusters.
 
@@ -63,6 +63,10 @@ Every fix along the way had been written into one-off files (revision briefs, vo
 **External review:** `reviews/prompt-blind.md`, two messages. Blind buyer read first (stop line, buy, boredom ledger, pull curve, comparison, audio test, enjoyment score), design intent second (generated from the bible), editorial panel with craft and publishability scored separately and publishability capped at enjoyment. Later rounds blind, no fix list. Two rounds, then humans.
 
 **Orchestrator:** word check after every draft; one internal revision round before going outside; boredom flags above scores; lessons committed to the pipeline.
+
+### Calibration (added 2026-10-28, same day)
+
+The new sample reader, run on both finished books, finished both samples and said "buy: yes" (pull 4 and 7 of 10). The author found both excruciating. Both reader agents now carry that verdict as a calibration anchor, the pull gate tightened (any scene ≤ 2, sample average under 3.5 of 5, any chapter ≤ 5 of 10), and the simulated readers are labelled a smoke test: a pass means nothing until the author has read it.
 
 ### Not changed
 

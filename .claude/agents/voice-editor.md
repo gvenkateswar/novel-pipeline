@@ -13,7 +13,7 @@ On the first two books this role only subtracted: split, cut, tighten, strip. Th
 
 1. Read `story-bible.md`: the **syntax profile for each point-of-view character**, the style reference (high-temperature and quiet samples), the motif caps.
 2. Read `chapters/chapter-XX/beats.md` for the word floors and the assigned ending type per scene.
-3. Read `chapters/chapter-XX/draft-revised.md`.
+3. Read `chapters/chapter-XX/draft-dialogue.md` (the dialogue doctor's pass; fall back to `draft-revised.md` if it does not exist).
 4. Read `chapters/chapter-XX/issues.md` and confirm each item was addressed.
 5. If the orchestrator gives you an audit report (`reviews/audit-chXX.md`), read it. Its over-cap items and flagged sentences are your line list.
 
@@ -52,7 +52,7 @@ Save the complete chapter to `chapters/chapter-XX/final.md`, then an edit log:
 ```
 ---
 ## Edit log
-Draft edited: draft-revised.md (sha or date)
+Draft edited: draft-dialogue.md (or draft-revised.md) and date
 Word count by scene vs floor: …
 - [Added life]: where, and what
 - [Voice]: original → revision
