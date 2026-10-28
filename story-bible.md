@@ -364,6 +364,8 @@ A town in its off-season, keeping itself going. Summer cottages shuttered with p
   - A tenth-box strike gets its fill balls.
 - **ATC:** the 2 a.m. incident happened *during* a midnight shift, not at its end.
 
+- **Kisses, final:** Book 1 has three (Ch 05, Ch 06, Ch 10). The four-kiss figure is a cap, not a target.
+
 ### Tic budget (whole book, second draft)
 - **Ellen counting the room:** 8 or fewer in the whole book.
 - **Denise and the crossword:** 8 or fewer.

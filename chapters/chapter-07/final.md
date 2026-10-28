@@ -268,7 +268,7 @@ Denise slid the pool sheet out from under her crossword to settle the night's ca
 
 She put on the hat with the earflaps and went out the front.
 
-Ellen took the folded tape out of her vest pocket and opened it on the counter beside the night's register report. The tape had the Highway Department on it where the Legion should have been. The total came out within forty dollars either way. Twenty-two thousand in income for the season against Judy's thirty. Seventeen in the bank on the twenty-eighth against her twenty-five. Two thousand worse on each line than she had stood at breakfast.
+Ellen took the folded tape out of her vest pocket and opened it on the counter beside the night's register report. The tape had the Highway Department on it where the Legion should have been. The total came out within forty dollars either way. She entered the new rate and the smaller house share, took the two teams out, and carried the Legion's refund into the cash. Neither line reached Judy's circle.
 
 The steel door by lane 10 scraped. Ray came up out of the pit with the drop light. Denise had texted him at nine-forty about lane 8's table running late in the third string. He went to the pegboard and wrote his time out on his card, hung the drop light on its hook, and put his coat on.
 
@@ -306,3 +306,4 @@ Behind her the truck's headlights came on and swung out onto the drive.
 
 - Second draft (Oct 27): external-review revision; see reviews/2026-10-27-external/. Draft-1 final archived as final-draft1.md.
 - Polish pass (round-2 reviews): labeled the $22,000 as a projection "for the season" (item 1); cut "honey" from Denise's ask-me-Thursday line (item 12).
+- Final-review fixes (Oct 27, round 3): see reviews/2026-10-27-external/round3-notes.md.

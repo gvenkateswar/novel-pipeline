@@ -1,7 +1,5 @@
 # The Last Frame
 
-*A novella. Final manuscript after two external review rounds, Oct 27, 2026. Pending: title decision and human copyedit.*
-
 # Chapter One: Cleared to Bowl
 
 The deed had carried Ellen's name since nine-forty that morning, and by twenty to four Arlene's tape was coming off the switches in curls.
@@ -2254,7 +2252,7 @@ Denise slid the pool sheet out from under her crossword to settle the night's ca
 
 She put on the hat with the earflaps and went out the front.
 
-Ellen took the folded tape out of her vest pocket and opened it on the counter beside the night's register report. The tape had the Highway Department on it where the Legion should have been. The total came out within forty dollars either way. Twenty-two thousand in income for the season against Judy's thirty. Seventeen in the bank on the twenty-eighth against her twenty-five. Two thousand worse on each line than she had stood at breakfast.
+Ellen took the folded tape out of her vest pocket and opened it on the counter beside the night's register report. The tape had the Highway Department on it where the Legion should have been. The total came out within forty dollars either way. She entered the new rate and the smaller house share, took the two teams out, and carried the Legion's refund into the cash. Neither line reached Judy's circle.
 
 The steel door by lane 10 scraped. Ray came up out of the pit with the drop light. Denise had texted him at nine-forty about lane 8's table running late in the third string. He went to the pegboard and wrote his time out on his card, hung the drop light on its hook, and put his coat on.
 
@@ -2573,7 +2571,7 @@ The television went off. "What do you need from me?"
 
 Ellen read the card number back, printed LAPLANTE / 5 / 9–10 on Monday's strip, and then on the four after it.
 
-Behind the register the pace sheet carried every dollar of it and still said what it had said all week. The vacation package and the two Tuesday teams back on the sheet had made up most of what the league meeting cost her. Massachusetts vacation week had filled the lot every afternoon from the thirteenth, and it had not been on any tape she ran in February. Eighteen hundred dollars short on Judy's first line, with the Open still to run. Twelve hundred and fifty short on her second.
+Behind the register the pace sheet carried every dollar of it and still said what it had said all week. The vacation package and the two Tuesday teams back on the sheet had made up most of what the league meeting cost her. Massachusetts vacation week had filled the lot every afternoon from the thirteenth, and it had not been on the tape she ran after the league meeting. Eighteen hundred dollars short on Judy's first line, with the Open still to run. Twelve hundred and fifty short on her second.
 
 "Short on both," Ellen said.
 
@@ -2601,7 +2599,7 @@ Hollis wrote it down in the notebook with the golf pencil.
 
 "Stand by," Ellen said.
 
-"—and I was at Pine Ridge Tuesday, so I'll tell you. He bowled an eighty-four, then a hundred and seventeen, then a hundred and thirty-three, on a house ball with a chip out of it. Gil in that overcoat called it on a microphone to eleven people, and the Legion came up in their van and went home in it, and that's your two teams."
+"—and I was at Pine Ridge Tuesday, so I'll tell you. He bowled an eighty-four, then a hundred and seventeen, then a hundred and thirty-three, on a house ball with a chip out of it. Gil in that overcoat called it on a microphone to a room of eleven, and the Legion came up in their van and went home in it, and that's your two teams."
 
 Ellen looked at the Tuesday column on the pace sheet.
 
@@ -2679,7 +2677,7 @@ The league teams were paying in for the championship round. The 112 laid his mon
 
 "Twelve-fifty," he said, "to bowl in a blizzard."
 
-Denise rang it in. "You drove to Gil's and back twice a week. Shoes on your left."
+Denise rang it in. "You drove to Gil's and back for two Tuesdays. Shoes on your left."
 
 Behind her the popcorn machine was going, and so was the space heater under the counter. Ellen had heard that pair trip the breaker twice this winter.
 
@@ -2867,7 +2865,7 @@ On lane 6 Denise picked up her eighth-box spare with her second ball. Gil came p
 
 He was through the vestibule before she could answer.
 
-Ray bowled his tenth box of the third string and took nine. He sat down on the settee with Linda's ball in his lap and both hands over it. The right one shook once, the way Ellen's had shaken on the drop light that morning, and went still. He left them there until the ball return had gone quiet.
+Ray bowled his tenth box of the third string and took nine. He sat down on the settee with Linda's ball in his lap and both hands over it. His right hand shook once and went still. He left them there until the ball return had gone quiet.
 
 Ellen's tenth box of the third string came up. Her first ball chopped the left side off clean. Her second took two more and left one pin standing tight against the right gutter, with a fallen pin lying on the deck behind it.
 
@@ -2941,9 +2939,7 @@ He ran the zipper on the bag half an inch and back.
 
 "Yes."
 
-"I heard you," Ray said.
-
-"Your daughter says my color's good."
+"I heard you," Ray said. "And your daughter says my color's good."
 
 "She said that to her pediatrician once. She was six."
 
@@ -2957,7 +2953,7 @@ She put her glasses on and read the date, then the stamp, then the date again.
 
 "Yes."
 
-She started on the stamp a third time and stopped at the book number. She took her glasses off by the cord and let them hang against her vest, and for a while she looked at the adding machine.
+She started on the stamp again and stopped at the book number. She took her glasses off by the cord and let them hang against her vest, and for a while she looked at the adding machine.
 
 "I asked you this morning," she said, "thinking you could still take it."
 

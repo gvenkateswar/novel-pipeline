@@ -50,7 +50,7 @@ The league teams were paying in for the championship round. The 112 laid his mon
 
 "Twelve-fifty," he said, "to bowl in a blizzard."
 
-Denise rang it in. "You drove to Gil's and back twice a week. Shoes on your left."
+Denise rang it in. "You drove to Gil's and back for two Tuesdays. Shoes on your left."
 
 Behind her the popcorn machine was going, and so was the space heater under the counter. Ellen had heard that pair trip the breaker twice this winter.
 
@@ -238,7 +238,7 @@ On lane 6 Denise picked up her eighth-box spare with her second ball. Gil came p
 
 He was through the vestibule before she could answer.
 
-Ray bowled his tenth box of the third string and took nine. He sat down on the settee with Linda's ball in his lap and both hands over it. The right one shook once, the way Ellen's had shaken on the drop light that morning, and went still. He left them there until the ball return had gone quiet.
+Ray bowled his tenth box of the third string and took nine. He sat down on the settee with Linda's ball in his lap and both hands over it. His right hand shook once and went still. He left them there until the ball return had gone quiet.
 
 Ellen's tenth box of the third string came up. Her first ball chopped the left side off clean. Her second took two more and left one pin standing tight against the right gutter, with a fallen pin lying on the deck behind it.
 
@@ -312,9 +312,7 @@ He ran the zipper on the bag half an inch and back.
 
 "Yes."
 
-"I heard you," Ray said.
-
-"Your daughter says my color's good."
+"I heard you," Ray said. "And your daughter says my color's good."
 
 "She said that to her pediatrician once. She was six."
 
@@ -328,7 +326,7 @@ She put her glasses on and read the date, then the stamp, then the date again.
 
 "Yes."
 
-She started on the stamp a third time and stopped at the book number. She took her glasses off by the cord and let them hang against her vest, and for a while she looked at the adding machine.
+She started on the stamp again and stopped at the book number. She took her glasses off by the cord and let them hang against her vest, and for a while she looked at the adding machine.
 
 "I asked you this morning," she said, "thinking you could still take it."
 
@@ -348,3 +346,4 @@ She sat down in the desk chair.
 
 - Second draft (Oct 27): external-review revision; see reviews/2026-10-27-external/. Draft-1 final archived as final-draft1.md.
 - Polish pass (round-2 reviews): Ray's PA gift now starts "from next year," and Verna records "from next season, in perpetuity" (item 2); added a three-line exchange about Kate's "your color's good" between the apology and the release (item 4); "It had gone. She heard it go..." became "Her voice broke on 'floor.'" (item 9); cut two "capitals" (whiteboard MX line; Kate's line now "in her own hand") (item 11); cut "honey" from Denise's twenty-two-years line (item 12); Denise's "forty minutes each way" became "to Gil's and back twice a week" (item 13).
+- Final-review fixes (Oct 27, round 3): see reviews/2026-10-27-external/round3-notes.md.

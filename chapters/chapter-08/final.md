@@ -281,7 +281,7 @@ The television went off. "What do you need from me?"
 
 Ellen read the card number back, printed LAPLANTE / 5 / 9–10 on Monday's strip, and then on the four after it.
 
-Behind the register the pace sheet carried every dollar of it and still said what it had said all week. The vacation package and the two Tuesday teams back on the sheet had made up most of what the league meeting cost her. Massachusetts vacation week had filled the lot every afternoon from the thirteenth, and it had not been on any tape she ran in February. Eighteen hundred dollars short on Judy's first line, with the Open still to run. Twelve hundred and fifty short on her second.
+Behind the register the pace sheet carried every dollar of it and still said what it had said all week. The vacation package and the two Tuesday teams back on the sheet had made up most of what the league meeting cost her. Massachusetts vacation week had filled the lot every afternoon from the thirteenth, and it had not been on the tape she ran after the league meeting. Eighteen hundred dollars short on Judy's first line, with the Open still to run. Twelve hundred and fifty short on her second.
 
 "Short on both," Ellen said.
 
@@ -309,7 +309,7 @@ Hollis wrote it down in the notebook with the golf pencil.
 
 "Stand by," Ellen said.
 
-"—and I was at Pine Ridge Tuesday, so I'll tell you. He bowled an eighty-four, then a hundred and seventeen, then a hundred and thirty-three, on a house ball with a chip out of it. Gil in that overcoat called it on a microphone to eleven people, and the Legion came up in their van and went home in it, and that's your two teams."
+"—and I was at Pine Ridge Tuesday, so I'll tell you. He bowled an eighty-four, then a hundred and seventeen, then a hundred and thirty-three, on a house ball with a chip out of it. Gil in that overcoat called it on a microphone to a room of eleven, and the Legion came up in their van and went home in it, and that's your two teams."
 
 Ellen looked at the Tuesday column on the pace sheet.
 
@@ -337,3 +337,4 @@ Denise capped the pen.
 
 - Second draft (Oct 27): external-review revision; see reviews/2026-10-27-external/. Draft-1 final archived as final-draft1.md.
 - Polish pass (round-2 reviews): added the Massachusetts vacation-week sentence to the pace-sheet passage (item 1); replaced part of the vacation-week summary with Ellen's phone sale to the Laplante family and trimmed two of Hollis's forecast lines to make room (item 3); "wrote a zero in the box" became "marked a zero for that ball" (item 8); cut three "capitals" (vacation strips, OPEN FULL board; ledger tape now "that hand") (item 11); two "forty minutes" became Halsey Falls and Gil's place (item 13).
+- Final-review fixes (Oct 27, round 3): see reviews/2026-10-27-external/round3-notes.md.
