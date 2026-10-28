@@ -137,3 +137,10 @@ After each new entry, also update the Master Continuity Flags section at the bot
 - Ch 08: Beth proposes the call on 9 before Dane phones Pike. Pike first refuses bait, then accepts with four conditions in her words: Beth behind the locked wheelhouse door unless the floods go dark; Dane holds the deck; Russ goes for Tess when anyone starts across; Pike logs it as her decision. Russ can't go to the store now because a man sits with Tess; Beth's call pulls Arsenault's eyes to the pier.
 - Ch 07: Beth sees the untouched fish-house door clears Dane of selling the hideout, not of the notebook.
 - Ch 10 (Quist): Doucette set the Ashby shed fire on Arsenault's order and sat at the end of the drive in the store's pickup (keys in Tess's back office). On Day 1 night Arsenault talked him down Beth's shore path on a handheld from the boat. New fact: the store has a pickup separate from the chained box truck.
+
+### Proof-level fixes after the third-draft panels (October 27, 2026)
+
+- Ch 02: the North Reach ran across light at dawn on Day 1 to make the 8 a.m. out of Pruett (she went home to Cutter Day 0 night).
+- Ch 05: Dane's Ashby list adds Russ, who heard the generator Saturday night (Ch 04).
+- Ch 09: the boats could cross at first light, but the two deputies had to drive up from Portland first; Pike put the landing at noon. Beth takes the Icom off the console before she comes down.
+- Ch 10: Dane crosses on the first ferry, Sunday at first light. Quist: Beth's photo of the print under the eave matches Doucette's boots. The district cut the winter schedule to four days a week after the dealer's contract ended.

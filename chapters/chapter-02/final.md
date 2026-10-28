@@ -2,7 +2,7 @@
 
 **Day 1 — Friday**
 
-The *North Reach* came into Cutter with the sea on her bow and spray coming back over the ramp in sheets. Dane stood aft of the passenger cabin with his back to the bulkhead and his right side clear, and the diesel came up through the deck into the soles of his boots. They were the wrong boots. He had known it since the first wet deck plate at Pruett Harbor.
+The *North Reach* came into Cutter with the sea on her bow and spray coming back over the ramp in sheets. She had run across light at dawn to make the eight o'clock out of Pruett. Dane stood aft of the passenger cabin with his back to the bulkhead and his right side clear, and the diesel came up through the deck into the soles of his boots. They were the wrong boots. He had known it since the first wet deck plate at Pruett Harbor.
 
 Below the rail the car deck held one pickup and a pallet of wood pellets under a tarp, and it smelled of cold hydraulic oil. The sky had come down to the hill, the color of wet slate.
 

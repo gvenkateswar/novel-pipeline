@@ -224,7 +224,7 @@ Beth reached over and switched off the kitchen light.
 
 **Day 1 — Friday**
 
-The *North Reach* came into Cutter with the sea on her bow and spray coming back over the ramp in sheets. Dane stood aft of the passenger cabin with his back to the bulkhead and his right side clear, and the diesel came up through the deck into the soles of his boots. They were the wrong boots. He had known it since the first wet deck plate at Pruett Harbor.
+The *North Reach* came into Cutter with the sea on her bow and spray coming back over the ramp in sheets. She had run across light at dawn to make the eight o'clock out of Pruett. Dane stood aft of the passenger cabin with his back to the bulkhead and his right side clear, and the diesel came up through the deck into the soles of his boots. They were the wrong boots. He had known it since the first wet deck plate at Pruett Harbor.
 
 Below the rail the car deck held one pickup and a pallet of wood pellets under a tarp, and it smelled of cold hydraulic oil. The sky had come down to the hill, the color of wet slate.
 
@@ -1220,9 +1220,9 @@ He spoke first, to the hatch overhead. "They knew the Ashby place."
 
 "Only Ned knew."
 
-"Ned knew it, and so did I."
+"Ned knew it, and so did I, and Russ heard the generator on Saturday night."
 
-She lay with her palm flat on his chest. She had kept believing it was him alone. Since the bread rack she had worked at it, because one man was a man she could watch.
+She lay with her palm flat on his chest. She had kept believing it was Ned alone. Since the bread rack she had worked at it, because one man was a man she could watch.
 
 She took her hand off his chest.
 
@@ -2450,7 +2450,7 @@ Aluminum touched steel at the port quarter: a soft knock, and the scrape of a hu
 
 *Day 8, ten past eleven*
 
-She came down the inside companionway with her boots in her hand, set them inside the deckhouse door and stepped out in her wool socks. She took the Icom off the console and zipped it into her float coat pocket with her gloves.
+She came down the inside companionway with her boots in her hand, set them inside the deckhouse door and stepped out in her wool socks. The Icom was zipped into her float coat pocket with her gloves; she had taken it off the console before she started down.
 
 Steel under her soles. Cold enough to ache.
 
@@ -2556,7 +2556,7 @@ The sodiums over the ramp warmed slowly, dull pink and then orange, and the ligh
 
 *Day 9, three in the morning, then first light*
 
-Toward three, with Doucette asleep by the heater in the crew mess, Dane stood on the open deck with the Iridium and Beth beside him, his head bent to hers so she had both ends of the line, and gave Pike the night from the beginning. Relief would come the first hour the sea allowed. That was first light, as Pike had said at half past three. Two deputies had to drive up from Portland to meet the boats.
+Toward three, with Doucette asleep by the heater in the crew mess, Dane stood on the open deck with the Iridium and Beth beside him, his head bent to hers so she had both ends of the line, and gave Pike the night from the beginning. Relief would come the first hour the sea allowed. The boats could cross at first light, as Pike had said at half past three, but the two deputies coming with them had to drive up from Portland first, and Pike put the landing at noon.
 
 At first gray they ran the brow back out to the stone, and Russ walked Arsenault down the pier.
 
@@ -2602,7 +2602,7 @@ Two engines came across a harbor so flat it held the sky, and quit at the pier.
 
 Marine Patrol lay outside the *North Reach*, the Coast Guard outside her. A tall woman came across first, black hair pulled back hard, navy raid jacket over a down vest, face the color of the pier stone. She stood on the granite until it quit moving for her, then found Beth at the rail and held the look until she was sure of her.
 
-The older of two deputies met Dane at the brow and read from a sheet, flat. Supervisory Deputy Pike's instructions. Deputy Reyes was relieved of the protective detail, effective now, and removed from the case. A referral had been made to internal affairs. He would cross on the first boat and report to Portland on landing.
+The older of two deputies met Dane at the brow and read from a sheet, flat. Supervisory Deputy Pike's instructions. Deputy Reyes was relieved of the protective detail, effective now, and removed from the case. A referral had been made to internal affairs. He would cross on the first ferry, Sunday at first light, and report to Portland on landing.
 
 "Understood," Dane said.
 
@@ -2790,7 +2790,7 @@ At Pruett the sodiums still burned over the ramp, pale in the daylight. She brou
 
 Quist stood at the ramp head under the sodiums, steadier on land.
 
-"Doucette fired both rounds at the landing. The second crewman ran the skiff's outboard, and he's been talking since Marine Patrol took him off yesterday. Doucette lit the Ashby shed on Arsenault's order and sat at the end of the drive in the store's pickup, keys off the hook in Ms. Marr's office. The first night, at your back door, Arsenault talked him down your shore path on a handheld from the boat, the same way he talked him past the church."
+"Doucette fired both rounds at the landing. The second crewman ran the skiff's outboard, and he's been talking since Marine Patrol took him off yesterday. Doucette lit the Ashby shed on Arsenault's order and sat at the end of the drive in the store's pickup, keys off the hook in Ms. Marr's office. The first night, at your back door, Arsenault talked him down your shore path on a handheld from the boat, the same way he talked him past the church. Your picture of the print under the eave matches the boots he had on, right heel and all."
 
 "You thought I took the money," Beth said.
 
@@ -2840,7 +2840,7 @@ From the passenger deck Dane had the whole car deck below him: the line of truck
 
 The frost had whitened the rail. His boots were XtraTufs now, bought in Pruett the first Friday, and Beth had looked at them and said nothing at all, which he had taken as the review.
 
-This was the island's own freight, propane and diesel and groceries. The dealer's Thursday boat was gone and wasn't coming back.
+This was the island's own freight, propane and diesel and groceries. The dealer's Thursday boat was gone and wasn't coming back. The district had cut the winter schedule to four days a week to cover it, and Ned had called that robbery and signed it.
 
 The costs had landed about where he'd told her they would: a suspension served without pay, a letter in his file that would still be there the day he retired, and a transfer to the District of Maine, which was short of deputies and had said so in writing. When he leaned on the rail the seam on his left arm pulled, pink and new.
 

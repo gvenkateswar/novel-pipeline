@@ -8,7 +8,7 @@ Two engines came across a harbor so flat it held the sky, and quit at the pier.
 
 Marine Patrol lay outside the *North Reach*, the Coast Guard outside her. A tall woman came across first, black hair pulled back hard, navy raid jacket over a down vest, face the color of the pier stone. She stood on the granite until it quit moving for her, then found Beth at the rail and held the look until she was sure of her.
 
-The older of two deputies met Dane at the brow and read from a sheet, flat. Supervisory Deputy Pike's instructions. Deputy Reyes was relieved of the protective detail, effective now, and removed from the case. A referral had been made to internal affairs. He would cross on the first boat and report to Portland on landing.
+The older of two deputies met Dane at the brow and read from a sheet, flat. Supervisory Deputy Pike's instructions. Deputy Reyes was relieved of the protective detail, effective now, and removed from the case. A referral had been made to internal affairs. He would cross on the first ferry, Sunday at first light, and report to Portland on landing.
 
 "Understood," Dane said.
 
@@ -196,7 +196,7 @@ At Pruett the sodiums still burned over the ramp, pale in the daylight. She brou
 
 Quist stood at the ramp head under the sodiums, steadier on land.
 
-"Doucette fired both rounds at the landing. The second crewman ran the skiff's outboard, and he's been talking since Marine Patrol took him off yesterday. Doucette lit the Ashby shed on Arsenault's order and sat at the end of the drive in the store's pickup, keys off the hook in Ms. Marr's office. The first night, at your back door, Arsenault talked him down your shore path on a handheld from the boat, the same way he talked him past the church."
+"Doucette fired both rounds at the landing. The second crewman ran the skiff's outboard, and he's been talking since Marine Patrol took him off yesterday. Doucette lit the Ashby shed on Arsenault's order and sat at the end of the drive in the store's pickup, keys off the hook in Ms. Marr's office. The first night, at your back door, Arsenault talked him down your shore path on a handheld from the boat, the same way he talked him past the church. Your picture of the print under the eave matches the boots he had on, right heel and all."
 
 "You thought I took the money," Beth said.
 
@@ -246,7 +246,7 @@ From the passenger deck Dane had the whole car deck below him: the line of truck
 
 The frost had whitened the rail. His boots were XtraTufs now, bought in Pruett the first Friday, and Beth had looked at them and said nothing at all, which he had taken as the review.
 
-This was the island's own freight, propane and diesel and groceries. The dealer's Thursday boat was gone and wasn't coming back.
+This was the island's own freight, propane and diesel and groceries. The dealer's Thursday boat was gone and wasn't coming back. The district had cut the winter schedule to four days a week to cover it, and Ned had called that robbery and signed it.
 
 The costs had landed about where he'd told her they would: a suspension served without pay, a letter in his file that would still be there the day he retired, and a transfer to the District of Maine, which was short of deputies and had said so in writing. When he leaned on the rail the seam on his left arm pulled, pink and new.
 

@@ -198,9 +198,9 @@ He spoke first, to the hatch overhead. "They knew the Ashby place."
 
 "Only Ned knew."
 
-"Ned knew it, and so did I."
+"Ned knew it, and so did I, and Russ heard the generator on Saturday night."
 
-She lay with her palm flat on his chest. She had kept believing it was him alone. Since the bread rack she had worked at it, because one man was a man she could watch.
+She lay with her palm flat on his chest. She had kept believing it was Ned alone. Since the bread rack she had worked at it, because one man was a man she could watch.
 
 She took her hand off his chest.
 

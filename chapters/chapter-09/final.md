@@ -186,7 +186,7 @@ Aluminum touched steel at the port quarter: a soft knock, and the scrape of a hu
 
 *Day 8, ten past eleven*
 
-She came down the inside companionway with her boots in her hand, set them inside the deckhouse door and stepped out in her wool socks. She took the Icom off the console and zipped it into her float coat pocket with her gloves.
+She came down the inside companionway with her boots in her hand, set them inside the deckhouse door and stepped out in her wool socks. The Icom was zipped into her float coat pocket with her gloves; she had taken it off the console before she started down.
 
 Steel under her soles. Cold enough to ache.
 
@@ -292,7 +292,7 @@ The sodiums over the ramp warmed slowly, dull pink and then orange, and the ligh
 
 *Day 9, three in the morning, then first light*
 
-Toward three, with Doucette asleep by the heater in the crew mess, Dane stood on the open deck with the Iridium and Beth beside him, his head bent to hers so she had both ends of the line, and gave Pike the night from the beginning. Relief would come the first hour the sea allowed. That was first light, as Pike had said at half past three. Two deputies had to drive up from Portland to meet the boats.
+Toward three, with Doucette asleep by the heater in the crew mess, Dane stood on the open deck with the Iridium and Beth beside him, his head bent to hers so she had both ends of the line, and gave Pike the night from the beginning. Relief would come the first hour the sea allowed. The boats could cross at first light, as Pike had said at half past three, but the two deputies coming with them had to drive up from Portland first, and Pike put the landing at noon.
 
 At first gray they ran the brow back out to the stone, and Russ walked Arsenault down the pier.
 
