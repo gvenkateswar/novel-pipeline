@@ -1,4 +1,4 @@
-# Audit — the-last-frame (chapters 01–02, 6,201 words)
+# Audit — the-last-frame (chapters 01–02, 6,092 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -88,7 +88,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - pulse: 0 (0.0/1k)
 - chest: 1 (0.2/1k)
 - hands? (stopped|stilled|went still|flat): 2 (0.3/1k)
-- shoulders?: 4 (0.6/1k)
+- shoulders?: 4 (0.7/1k)
 - gaze: 0 (0.0/1k)
 - tightened: 0 (0.0/1k)
 - swallowed: 0 (0.0/1k)
@@ -98,7 +98,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Ch | Words | Mean sent. | SD | ≤5-word share | Codes/1k | Numerals/1k | ALLCAPS/1k | Max opener run | Flags |
 |---|---|---|---|---|---|---|---|---|---|
 | 01 | 3,271 | 19.8 | 18.7 | 18% | 0.0 | 0.9 | 0.0 | 2 | mean short |
-| 02 | 2,930 | 19.8 | 15.5 | 16% | 0.0 | 0.3 | 0.7 | 4 | mean short openers |
+| 02 | 2,821 | 20.0 | 15.3 | 14% | 0.0 | 0.4 | 0.7 | 4 | mean openers |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -113,7 +113,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 - quiet: 2 (0.3/1k)
 - humm?(ing|ed)?: 1 (0.2/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 12 (1.9/1k)
+- still(ness)?: 12 (2.0/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 0 (0.0/1k)
@@ -141,7 +141,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | em dashes | 0 | 0 | 0 | 0.0 | 2.0/1k |  |
 | semicolons | 3 | 0 | 3 | 0.5 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 1 | 2 | 3 | 0.5 | 1.0/1k |  |
-| one-sentence paragraph | 6 | 13 | 19 | 3.1 | report |  |
+| one-sentence paragraph | 6 | 14 | 20 | 3.3 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 

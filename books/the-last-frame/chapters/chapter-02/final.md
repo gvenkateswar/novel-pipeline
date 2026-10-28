@@ -40,7 +40,7 @@ Ellen turned her head and looked along the three stools, one man at a time.
 
 Normie opened his mouth and closed it again. The man on the end set his cup down on his knee and studied it, and Ray thought of lane three last night, deciding whether it had been insulted.
 
-She put the glove in her pocket and picked up her phone and went down the aisle with the one hand bare. At the door she turned, with the bell already going over her head.
+She put the glove in her pocket and picked up her phone and went down the aisle. At the door she turned, with the bell already going over her head.
 
 "Eight o'clock, Mr. Gagnon," she said. "I'll hold the light."
 
@@ -58,15 +58,11 @@ He started the cylinder out. She held the light steady, which most people can't,
 
 He pushed the plug out, and the old pins came with it into his palm, small and brass and worn bright at the tips by sixty-some years of keys going in and out. The trash was two feet from his knee. He tipped them into his shirt pocket and buttoned the flap.
 
-"Way I've got it," he said to the cylinder, "you own the building, and Arlene's carrying the note, and if your bank hasn't paid Arlene off by March first, that paper you signed sells the building to me that afternoon at whatever the appraiser says it's worth, and I pay Arlene. Arlene gets paid either way. Only question's by who."
+"Way I've got it," he said to the cylinder, "you own the building, and Arlene's carrying the note, and if your bank hasn't paid Arlene by March first, that paper you signed sells it to me that afternoon at appraised value, so Arlene gets paid either way."
 
 "Correct," she said.
 
-"So come March," he told the lock, "it's appraised value, and I'd guess that comes in under what you paid, and the difference comes out of that house you sold down in Merrimack." He turned the old cylinder over in his fingers. "Or you sell it to me now, at what you paid. Every dollar back. The bank in Concord's good for what the appraiser says, through the end of the year, and the credit union lends me the rest against the store, if Danny signs, it being his name on the deed beside mine, and their committee sits Thursdays at five." He set the old cylinder down on the mat. "My father put the store up once, in 'seventy-four, and near lost it, and I've never asked it of the store since. I'm asking it once. This is the once."
-
-"Your bank in Concord is good through December thirty-first," she said. "The contract closes on March first. That leaves you two months with nothing behind you."
-
-"Concord renews," he told the cylinder. "They'll want a fee for the trouble, and they'll get it."
+"Arlene wouldn't carry the note without a buyer signed in behind it," he said, "and I was the only one around who'd sign at appraised, so that's how my name got on your paper." He turned the old cylinder over in his fingers. "Or you sell it to me now, at what you paid, and you get every dollar back, house and all." He set the old cylinder down on the mat. "Committee's Thursday at five. This is the once."
 
 She kept the light on the empty hole in the door. "You've said all of that to the lock."
 
@@ -110,9 +106,9 @@ Then she didn't answer, for as long as it took him to set a pin in the new plug 
 
 "I swear," she said. "Go to bed, Kate. Sunday at seven." She ended it there and put the phone away.
 
-She had told her daughter he was the locksmith, which he was. She had put her house into this and sworn the rest of what she had to her daughter, and he had just knelt on her mat and offered her the house back.
+She had told her daughter he was the locksmith, which he was.
 
-He seated the new cylinder and worked the new key twice, and it went over smooth both times. Then he counted the new keys into her bare palm, two for the front and two for the back, and she closed her hand on them.
+He seated the new cylinder and worked the new key twice, and it went over smooth both times. Then he counted the new keys into her palm, two for the front and two for the back, and she closed her hand on them.
 
 "That's every one there is," he said.
 
@@ -120,15 +116,15 @@ Then he took out his key ring and found the orange tag, gone soft at the corners
 
 He stood with the bag in his hand.
 
-"Offer stands till they sit," he said. "Committee's Thursday at five. After that, I'll see you March first."
+"Offer stands till they sit," he said. "After that, I'll see you March first."
 
 \* \* \*
 
-Her text came at four, while he was cutting a house key for the Pelletier girl, and he read it once standing at the machine. *Lane seven. Ten o'clock. The back door is open.* Three full stops, and not a question mark anywhere in it.
+Her text came at four, while he was cutting a house key for the Pelletier girl, and he read it once standing at the machine. *Lane seven. Ten o'clock. The back door is open.* Three periods, and not a question mark anywhere in it.
 
 At ten to ten he came along Kettle Road with the heater ticking, and the sign came up out of the dark on its pole with the first letter out. The K had gone out the winter Danny got his license, and nobody fixed it, because Arlene said the sign still said what it meant. He turned in under the dead K. Her car wasn't in the lot.
 
-The back door gave when he pulled it. She had left it shut on a folded square of cardboard, so the latch couldn't catch. In the pit the one caged bulb was on over the seven-and-eight pair, and the spare clutch had come down off its nail and lay on the workbench under it, with his old tag still wired to it and a strip of her tape stuck beside the tag, LANE SEVEN in black marker. A flashlight lay on the bench, switched on and aimed at seven's drive. Under it was an envelope with *R. Gagnon* on it in the same marker.
+The back door gave when he pulled it. She had propped it shut on a folded square of cardboard so the latch couldn't catch, and he saw that for what it was: she'd left it that way so he could come in and fix seven without either of them having to ask. In the pit the one caged bulb was on over the seven-and-eight pair, and the spare clutch had come down off its nail and lay on the workbench under it, with his old tag still wired to it and a strip of her tape stuck beside the tag, LANE SEVEN in black marker. A flashlight lay on the bench, switched on and aimed at seven's drive. Under it was an envelope with *R. Gagnon* on it in the same marker.
 
 He worked. The first bolt on the old clutch had been on since before Danny was born and didn't want to come, and he leaned on it, and on the third try it gave its first quarter-turn, and he felt it in his back teeth. He stood a second with his hand on the wrench and enjoyed it. He swapped the clutch bolt by bolt in the light she'd aimed for him. Then he ran her from the pit. Seven set clean, and the sweep came down and lifted with no knock under it.
 
@@ -140,21 +136,21 @@ The cardboard dropped to the step when he pulled the door to, and he heard the l
 
 \* \* \*
 
-The credit union's form lay on the counter under Ray's left hand, with Danny's signature across the bottom of the second page in blue ballpoint, and beside it a slip with the loan officer's number in carpenter's pencil. Danny was at the far register ringing up rock salt and hadn't said a word about it since he signed it. Ray squared the form to the edge of the counter for the third time since four and looked at the door. The phone by the register could ring all it liked.
+The credit union's form lay on the counter under Ray's left hand, with Danny's signature on the second page, since it was Danny's name on the deed beside his. Concord would lend him what the appraiser said, through the end of the year, and the credit union would lend the rest against the store if its committee said so at five. His father had put the store up once, in 'seventy-four, and near lost it. Danny was at the far register ringing up rock salt and hadn't said a word about it since he signed. Ray squared the form to the edge of the counter and looked at the door.
 
-The guard on the key cutter had a screw that had worked loose sometime in the fall, and he took a screwdriver out of the cup and went after it. "You've been backing out on me since Thanksgiving," he told it, "and I've let you, and that's on me." He gave it another eighth of a turn. "There."
+The guard on the key cutter had a screw that had worked loose sometime in the fall, and he took a screwdriver out of the cup and went after it. "You've been backing out on me since Thanksgiving," he told it, "and I've let you." He gave it another eighth of a turn.
 
-The Bench was on its stools. Normie had bowled with Lucien in 'seventy-four, the winter the store was on the line, and knew to the dollar what it had nearly cost, and he hadn't called a thing all afternoon.
+The Bench was on its stools. Normie had bowled with Lucien that winter and knew what it had nearly cost, and he hadn't called a thing all afternoon.
 
 The clock over the key cutter moved in small jumps, the minute hand sitting and sitting and then going all at once. It said two minutes to five when the bell on the door went.
 
 Ellen came in, and the Bench stopped calling anything at all. The coffee pot ticked on its plate. Somebody set a cup down beside it with great care, and at the far register Danny held a bag of rock salt in the air and left it there.
 
-She came down the center aisle and stopped across the counter from him. She took her right glove off to get at her vest pocket, and he watched the bare hand come out of it. She laid one new key on his counter, no tag, no ring, no word. It lay between his hand and Danny's signature, bright from his own cutter, and he knew the cut without picking it up: one of the two for the front door.
+She came down the center aisle and stopped across the counter from him. She took her right glove off to get at her vest pocket, and he watched her hand come out of it. She laid one new key on his counter, no tag, no ring, no word. It lay between his hand and Danny's signature, bright from his own cutter, and he knew the cut without picking it up: one of the two for the front door.
 
 She looked up at the clock over the key cutter, and so did he.
 
-The minute hand sat on the last line before the twelve. Ray kept his hand flat on the form. People had been setting things down on this counter for him since he was tall enough to see over it, money and returns and complaints and every broken thing in Ambrose, and he could not think of one that anybody had put there without his asking since Linda. What she had put there was a key to the front door of the building he was under contract to buy. He could ask her now. She had never answered him on the mat, and an offer nobody had answered stood until the committee sat, and there was a minute left. He could say it again and she would have to answer him out loud in front of the Bench. He had sworn after 'seventy-four, at his father's kitchen table, that he would never ask the store twice, and he had asked it once, yesterday, on one knee on her mat, and so he wouldn't.
+The minute hand sat on the last line before the twelve. Ray kept his hand flat on the form. People had been setting things down on this counter for him since he was tall enough to see over it, money and returns and complaints and every broken thing in Ambrose, and he could not think of one that anybody had put there without his asking since Linda. A front-door key, from the woman who'd had the locks changed against him yesterday morning: she was handing him the way into her building without asking him in, and without selling it to him either. That was her answer to the offer, he knew that much. He didn't know yet which answer. He could ask her now. The offer stood until the committee sat, and there was a minute left. He could say it again, and she would have to answer him out loud in front of the Bench. He had sworn after that winter, at his father's kitchen table, that he would never ask the store twice, and he had asked it once, yesterday, on one knee on her mat, and so he wouldn't.
 
 He watched her watch the clock. Her face was as calm as any he'd ever seen across this counter, and her breathing was all wrong for it, short and held and let go and held again, the breath of somebody keeping a count to herself. Her bare hand lay on the counter an inch from the key. The minute hand sat, and sat. Down the counter Danny lowered the bag of rock salt at last, and the minute hand jumped and stood on the twelve.
 

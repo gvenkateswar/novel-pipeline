@@ -22,3 +22,24 @@ Word count by scene vs target: S1 650, S2 1,050, S3 450, S4 650 targets; edits t
   - Issue 5: log four keys, Ray cut all, Ellen holds three after Dec 3 at five.
   - Danny's name on the deed is a new fact; the bible does not record it.
 - [Pattern pair for the rules]: Stop pairing a symptom with a sentence that says what the hand "didn't" do; do give the hand one position and let Ray's next thought carry the meaning.
+
+## Revision after cold read
+
+Read: reader-notes.md (cold read of final.md v2, Oct 28). Revised by prose-writer, 2026-10-28. New length about 2,825 words with the heading (hand count; please confirm with `wc -w`), down from 2,941. Band 2,576–3,024.
+
+1. S2 money speech: cut from about 250 words to about 128. Kept the one plain exchange (she owns it, Arlene carries the note, unpaid by March first means the contract sells it to Ray at appraised value and Arlene gets paid either way, then "Correct."). Added Ray's line on why he's the backstop: Arlene wouldn't carry the note without a buyer signed in behind it, and he was the only one around who'd sign at appraised. Kept the offer (sell now at what she paid, every dollar back, "house and all") and "Committee's Thursday at five. This is the once." Cut from S2: Concord's terms, the credit union, Danny on the deed, 'seventy-four, Ellen's December thirty-first line, and "Concord renews... they'll get it" (this also closes the voice editor's renewal flag). The flashlight paragraph is unchanged, and the pins paragraph still sits between it and the speech.
+2. S2 close: "Committee's Thursday at five." taken out of the parting line, since it now lives in the speech. The line reads "Offer stands till they sit... After that, I'll see you March first."
+3. S4 opening: it now carries the financing in three sentences: Danny signed because it's his name on the deed beside Ray's; Concord lends what the appraiser says through the end of the year; the credit union lends the rest against the store if the committee says so at five; Lucien put the store up in 'seventy-four and nearly lost it. Cut the loan officer's slip, "third time since four" and the phone line. Trimmed the screw ("and that's on me," "There.") and the Bench line ("that winter," no dollar figure). The opening comes in at about the same length as before.
+4. S4 key: added Ray's reading of it. It's a front-door key from the woman who had the locks changed against him yesterday morning, handing him the way into her building without asking him in and without selling it. He knows it's her answer to the offer and doesn't yet know which answer. Changed "She had never answered him on the mat, and an offer nobody had answered stood" to "The offer stood" so the paragraph doesn't argue with itself. Changed "after 'seventy-four" in the vow to "after that winter," since the year is now named at the top of the scene.
+5. S3 back door: the cardboard is now deliberate ("propped"), and Ray sees it for what it is: she left it that way so he could come in and fix seven without either of them having to ask. The lane lights and envelope stay where they were in the paragraph, and the latch still locks behind him.
+6. Talking to objects: now twice in Ch 02, the cylinder ("he said to the cylinder") and the screw ("he told it"). Removed "he told the lock" and "he told the cylinder." Kept "You've said all of that to the lock." / "Lock's the one I'm working on." because it's the chapter's laugh and Ray is answering Ellen there, not talking to the lock.
+7. S3: "Three full stops" changed to "Three periods."
+8. S2: cut the paragraph explaining Kate's call. Kept "She had told her daughter he was the locksmith, which he was."
+9. Bare hand: cut "with the one hand bare" (S1), "her bare palm" became "her palm" (S2), and "the bare hand" became "her hand" (S4). Two remain: "bare-handed" in the untouched flashlight paragraph, and "Her bare hand lay on the counter" at the clock.
+
+**Commitments**
+- New fact: Arlene would not carry Ellen's note without a buyer signed in behind it, and Ray was the only one who would sign at appraised value. That is why he is the backstop buyer. Later chapters (Ch 08 Arlene, Ch 04 renewal) must not contradict it.
+- Concord's commitment runs "through the end of the year." It's still planted (S4 opening) for Ch 04's renewal. The page no longer says that Concord renews or what it charges, so the Ch 04 renewal stays a choice.
+- Danny's name is on the store's deed beside Ray's. This was already in the chapter; it's now stated in S4 and still isn't in the bible.
+- Ellen propped the back door for Ray on purpose (cardboard, lights on, envelope on the bench). The envelope stays unopened under the old clutch and has to be paid off later (Ch 04).
+- Ray reads the key as Ellen's answer to his offer without knowing which answer. A later chapter needs to settle what she meant by it.
