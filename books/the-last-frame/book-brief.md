@@ -34,3 +34,7 @@ Everything in `docs/changelog.md` under "Book 1" and the postmortem. The short v
 - outline.md revision 3.1 (logic gate PASS after three rounds; synopsis pull 3.56). "Open for the author" items 1–4 approved at their defaults; items 1 and 2 go to the domain checker on the manuscript.
 - characters-draft.md: all seven "confirm" items at their defaults.
 - story-bible.md = story-bible-draft.md as built. The K's date is winter 2007–08. The stranded count in Ch 3 is 33, not 31 (frees "thirty-one" for Ellen's career and Kate's age).
+
+## Human gate log
+
+- **Ch 01, Oct 28, 2026, 8:04 a.m.:** the author read the whole chapter. No drift through the opening or the room count (the two passages both simulated readers flagged). Verdict: "already better, more interesting than the last one" and "still better" at the end. Gate passed. The pull gate had failed the same chapter at 3.25 (cold reader 5/10). Readers' notes kept for the sample-mark revision: the contract line reads muddled; the 70- and 100-word sentences; Ellen's ordering habit as a device. Next human gate: after Ch 03 (sample mark).
