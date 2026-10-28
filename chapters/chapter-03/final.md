@@ -1,6 +1,6 @@
 # Chapter Three: Deadwood
 
-Judy Ostrowski wrote two numbers on a clean sheet of paper, uncapped a blue pen, and drew a circle around each one.
+Judy Ostrowski uncapped a blue pen, wrote two numbers on a clean sheet, and drew a circle around each one.
 
 "Two numbers," she said. "I'll circle them so neither of us can pretend later. Sit down, Ellen."
 
@@ -54,7 +54,7 @@ The steel door by lane 10 gave on the second shove, and Ray came through it side
 
 "Place up past Plymouth closed in October," he said. "Fella's daughter was selling the machines for scrap. I got there Monday before the truck did."
 
-He set the cartons on the workbench beside the coffee can of bolts. Half the parts in them already wore masking tape in his square capitals.
+He set the cartons on the workbench beside the coffee can of bolts. Half the parts in them already wore masking tape in his hand.
 
 "How much?"
 
@@ -306,7 +306,7 @@ At twenty to midnight on Saturday the Highway Department had gone home and the f
 
 "Put it back, please."
 
-"I'm putting it back." She did not move. "Honey, somebody added a new row to the sheet at the store this week. They're betting later now. And no, Ray still hasn't bought a square. I offered him the first of March at cost and he looked at me like I'd tried to sell him his own hammer." She put her hat on and pulled the flaps down. "Don't let it go to your head."
+"I'm putting it back." She did not move. "Somebody added a new row to the sheet at the store this week. They're betting later now. And no, Ray still hasn't bought a square. I offered him the first of March at cost and he looked at me like I'd tried to sell him his own hammer." She put her hat on and pulled the flaps down. "Don't let it go to your head."
 
 The vestibule door banged, and then her car went down the drive.
 
@@ -327,3 +327,4 @@ Then she wrote one more. 02/27 / 1800 / LGM / 10. She left REMARKS blank and pin
 ## Edit log
 
 - Second draft (Oct 27): external-review revision; see reviews/2026-10-27-external/. Draft-1 final archived as final-draft1.md.
+- Polish pass (round-2 reviews): Judy uncaps the pen before writing (item 7); "square capitals" on Ray's parts tape became "his hand" (item 11); cut "Honey" from Denise's pool-sheet line (item 12).

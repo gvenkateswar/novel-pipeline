@@ -16,7 +16,7 @@ The handheld on the counter clicked on channel 2.
 
 "Thank you, Hollis."
 
-The whiteboard leaned against the settee at lanes 1 and 2. Ellen circled B in red. At the foot of every column, A through D, the line that had read MX: for a week now read MX: R.G. in her capitals. She had made that call herself on the twentieth, with Denise watching, and booked him by work order at the agreed rate.
+The whiteboard leaned against the settee at lanes 1 and 2. Ellen circled B in red. At the foot of every column, A through D, the line that had read MX: for a week now read MX: R.G. She had made that call herself on the twentieth, with Denise watching, and booked him by work order at the agreed rate.
 
 "Fryer first." Kate came out of the snack bar in scrub pants and a Kettle Lanes sweatshirt she had taken off the merchandise hook without paying. She had driven up Friday on her days off, and her body still ran on nights. "Thermostat says three-fifty and it's running hotter. I turned it down to three-twenty-five. Leave it there." She turned to the whiteboard. "Who's R.G.?"
 
@@ -50,7 +50,7 @@ The league teams were paying in for the championship round. The 112 laid his mon
 
 "Twelve-fifty," he said, "to bowl in a blizzard."
 
-Denise rang it in. "You drove forty minutes each way to Gil's place in Halsey Falls. Shoes on your left."
+Denise rang it in. "You drove to Gil's and back twice a week. Shoes on your left."
 
 Behind her the popcorn machine was going, and so was the space heater under the counter. Ellen had heard that pair trip the breaker twice this winter.
 
@@ -70,7 +70,7 @@ She had worked the next sentence out at the counter at seven, and again at nine.
 
 "I cannot hold the floor by myself today."
 
-It had gone. She heard it go, somewhere around "floor," and she could not find where it had been. Out on the lanes someone threw a strike and a dozen people shouted about it.
+Her voice broke on "floor." Out on the lanes someone threw a strike and a dozen people shouted about it.
 
 Ray didn't move.
 
@@ -174,13 +174,13 @@ It came out of every speaker in the building. Ellen was a foot from him. She lea
 
 Thirty heads turned to look at two people a foot apart. Somebody on lane 6 laughed and got an elbow for it.
 
-"The Linda Gagnon Memorial goes to the Open," Ray said into the mic. "This year and every year after. Anybody who pays the entry."
+"From next year the Linda Gagnon Memorial goes to the Open," Ray said into the mic. "Anybody who pays the entry."
 
 He straightened up.
 
 "Yes," Ellen said.
 
-At the card table by lane 5 Verna wrote it down. "The chair records it as a gift," she said, as she had recorded the house's money in January, "to the Open, in perpetuity."
+At the card table by lane 5 Verna wrote it down. "The chair records it as a gift," she said, as she had recorded the house's money in January, "to the Open, from next season, in perpetuity."
 
 Then she stood, binder open to a page marked with a strip of paper, and came to the counter.
 
@@ -202,7 +202,7 @@ Ellen looked at the blank on Verna's sheet where an average belonged.
 
 "The chair notes," Verna said, "that the Lakeview Diner also shows three bowlers on the lanes, and its anchor behind the register."
 
-"I don't leave the counter in a rush," Denise said, before anyone could ask her. "Twenty-two years, honey. There's forty people in that line want their coats and their envelopes, and the envelopes go in an order, and I wrote the order. Who else in this building knows the refund sheet?"
+"I don't leave the counter in a rush," Denise said, before anyone could ask her. "Twenty-two years. There's forty people in that line want their coats and their envelopes, and the envelopes go in an order, and I wrote the order. Who else in this building knows the refund sheet?"
 
 Kate came around the end of the counter and slid the refund sheet out from under Denise's elbow. "I do. I read it over your shoulder for an hour." She moved Denise aside with one hip. "Go bowl. Your Diner's on six."
 
@@ -212,7 +212,7 @@ Ellen handed her daughter the departure list. Kate looked up from it at Ray, all
 
 "Yes."
 
-"Your color's good." She went back to the list. "Fine. She put you on the strip board in her own capitals. I'm thirty-one, and I've never been on the strip board."
+"Your color's good." She went back to the list. "Fine. She put you on the strip board in her own hand. I'm thirty-one, and I've never been on the strip board."
 
 Ellen took a house ball off the rack behind lane 8 and walked down toward lane 5. Behind her the counter phone rang. Kate had it on the first ring.
 
@@ -314,6 +314,12 @@ He ran the zipper on the bag half an inch and back.
 
 "I heard you," Ray said.
 
+"Your daughter says my color's good."
+
+"She said that to her pediatrician once. She was six."
+
+"I'll take it."
+
 Then the ring came out of his coat. The back-door key came off under his thumbnail, and he laid it on the steel desk. Arlene's brass key stayed on the ring with its orange tag, and the ring went back in his pocket. Beside the key he laid his copy of the release. The registry's stamp sat in the corner with its book and page, and the date over his signature was February sixteenth.
 
 She put her glasses on and read the date, then the stamp, then the date again.
@@ -341,3 +347,4 @@ She sat down in the desk chair.
 ## Edit log
 
 - Second draft (Oct 27): external-review revision; see reviews/2026-10-27-external/. Draft-1 final archived as final-draft1.md.
+- Polish pass (round-2 reviews): Ray's PA gift now starts "from next year," and Verna records "from next season, in perpetuity" (item 2); added a three-line exchange about Kate's "your color's good" between the apology and the release (item 4); "It had gone. She heard it go..." became "Her voice broke on 'floor.'" (item 9); cut two "capitals" (whiteboard MX line; Kate's line now "in her own hand") (item 11); cut "honey" from Denise's twenty-two-years line (item 12); Denise's "forty minutes each way" became "to Gil's and back twice a week" (item 13).

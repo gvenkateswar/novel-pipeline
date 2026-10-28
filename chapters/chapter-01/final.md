@@ -50,7 +50,7 @@ She read all ten, then the foul row, and straightened.
 
 She flipped it. Down the building, the lights over lane 4 hummed and came on, and Denise went to start the coffee urn without waiting to see what Ellen would say.
 
-For thirty-one years the FAA had picked her shifts, her airspace, and finally the month she stopped. This building was the first thing she had ever chosen on nobody's schedule but her own. She had come in on a Sunday in September for a cup of coffee, because the sign out front said ETTLE LANES and FOR SALE BY OWNER, and she had stayed two hours watching Arlene run a nine-year-old's birthday party with a pencil, a bad hip, and no list at all. Twelve children, ten lanes, one adult who could not keep up. She had driven home already doing the sequencing in her head.
+The FAA had picked her shifts, her airspace, and finally the month she stopped. This building was the first thing she had ever chosen on nobody's schedule but her own. She had come in on a Sunday in September for a cup of coffee, because the sign out front said ETTLE LANES and FOR SALE BY OWNER, and she had stayed two hours watching Arlene run a nine-year-old's birthday party with a pencil, a bad hip, and no list at all. Twelve children, ten lanes, one adult who could not keep up. She had driven home already doing the sequencing in her head.
 
 That week she read up on candlepin, which was the only kind of bowling anyone up here seemed to mean by the word. The ball was four and a half inches across with no holes. You got three balls to a turn, which they called a box up here, and every pin you knocked down stayed on the lane where it fell, for your next ball to use or trip over. Forty people in one room on a league night, every one of them needing to go somewhere in order. Somebody at the counter to put them there.
 
@@ -258,7 +258,7 @@ Ellen stayed on her feet at the counter. Denise watched her from the register.
 
 "Nine lanes," Ellen said. "And seven gets its lineage back." Lineage was what each bowler paid the house for a night's three strings, seven-fifty a head.
 
-"Honey, that's the Grange team. They'd have finished on eight and said thank you. They say thank you to the plow guy when he buries their mailbox. You start handing back money on night one, and every time a table hiccups from here to March somebody's going to be standing at my counter with their hand out."
+"That's the Grange team. They'd have finished on eight and said thank you. They say thank you to the plow guy when he buries their mailbox. You start handing back money on night one, and every time a table hiccups from here to March somebody's going to be standing at my counter with their hand out."
 
 "They paid for a lane. They got half of one."
 
@@ -349,3 +349,4 @@ Across the lot, the pickup's lights came on. It rolled down to Kettle Road and t
 ## Edit log
 
 - Second draft (Oct 27): external-review revision; see reviews/2026-10-27-external/. Draft-1 final archived as final-draft1.md.
+- Polish pass (round-2 reviews): cut "For thirty-one years" from the FAA interior line (item 14); cut "Honey" from the Grange-refund line (item 12).

@@ -6,7 +6,7 @@ Ray set the two rolls of packing tape on the kitchen table, between a stack of f
 
 He moved them off it. The 1996 book lay open on the oilcloth, its green cloth gone gray at the corners. A strip of masking tape ran down the spine in block capitals: 1996 — LENT A. FORTIER 02/05 — DUE 03/01.
 
-He knew those capitals from every strip on Ellen's board. The ledgers had come with the building, every one from 1971 on, so the book was Ellen's now. She had lent Arlene her own 1996 back, with a due date on it.
+He knew that hand from every strip on Ellen's board. The ledgers had come with the building, every one from 1971 on, so the book was Ellen's now. She had lent Arlene her own 1996 back, with a due date on it.
 
 Arlene turned the ledger toward him and laid the rim of her magnifier under a line halfway down September. *Key to R.G.* Below it, in the same ink, *no charge.*
 
@@ -140,7 +140,7 @@ Tuesday, eleven-thirty at night. Taylor's Marina and the Legion had finished the
 
 Ray laced his own shoes on a molded blue settee at the far end of the house. Back at Kettle Lanes, Hollis had Gagnon & Son's sheet. The place smelled of pizza and of the carpet glue Gil had been promising since 2008 would wear off.
 
-The two teams had walked over a price, and nobody on Main Street was going to talk them back to it. Every man on the Marina would drive forty minutes to watch the 112 beat Ray Gagnon, and Gil had the lanes.
+The two teams had walked over a price, and nobody on Main Street was going to talk them back to it. Every man on the Marina would drive to Halsey Falls to watch the 112 beat Ray Gagnon, and Gil had the lanes.
 
 He had called Gil on Sunday, and Gil had let him finish the whole sentence.
 
@@ -167,7 +167,7 @@ In the sixth box he lofted the first ball again and heard it land.
 
 "Holy mackerel."
 
-He heard himself say it. Denise wrote a zero in the box. Ray finished the string at 84. The 112 had 108.
+He heard himself say it. Denise marked a zero for that ball. Ray finished the string at 84. The 112 had 108.
 
 Between strings the 112 went to Gil. "I want fifteen. Sixteen's pulling left."
 
@@ -261,23 +261,41 @@ At 7:15 on a Saturday the doors were still locked, and there were three of them 
 
 The whiteboard leaned against the burnt-orange settee at lanes 1 and 2, four plans in red marker, A through D, for ice, storm, closed roads, and no power. D was the shortest column. Everybody in the room had been here on the seventh of January.
 
-Across the top row of the strip board hung five strips in her capitals, one for each weekday of school vacation week. Each read 1200–1700 / VAC WK / ALL LANES / SOLD. In December Judy had asked what she had booked against that week, and she had said nothing yet. She had built it herself since then: kids' afternoons, family strings by the hour, and a block for the derby families. She had sold it on the derby's phone tree, and every family had paid ahead.
+Across the top row of the strip board hung five strips, one for each weekday of school vacation week. Each read 1200–1700 / VAC WK / ALL LANES / SOLD. In December Judy had asked what she had booked against that week, and she had said nothing yet. She had built it herself since then and sold most of it on the derby's phone tree. The last block had gone Tuesday, on the counter phone.
 
-Behind the register the pace sheet carried every dollar of it and still said what it had said all week. The vacation package and the two Tuesday teams back on the sheet had made up most of what the league meeting cost her. Eighteen hundred dollars short on Judy's first line, with the Open still to run. Twelve hundred and fifty short on her second.
+"Hollis said to call you." A woman, with a television going behind her. "My husband and his brother are on the ice all vacation week, scouting for the derby. I've got four kids and a nephew and five afternoons."
+
+"Twelve to five, Monday through Friday," Ellen said. "Lanes nine and ten. Shoes, three strings a day, and a hot dog at two-thirty. Twenty dollars a child a day."
+
+"That's five hundred dollars."
+
+"Five hundred dollars. Pickup at the counter by five, from me or Denise Lavoie, and only by someone on your card."
+
+"Denise Lavoie's watching them?"
+
+"Denise Lavoie is watching them."
+
+The television went off. "What do you need from me?"
+
+"Your card number. Then the names, oldest first."
+
+Ellen read the card number back, printed LAPLANTE / 5 / 9–10 on Monday's strip, and then on the four after it.
+
+Behind the register the pace sheet carried every dollar of it and still said what it had said all week. The vacation package and the two Tuesday teams back on the sheet had made up most of what the league meeting cost her. Massachusetts vacation week had filled the lot every afternoon from the thirteenth, and it had not been on any tape she ran in February. Eighteen hundred dollars short on Judy's first line, with the Open still to run. Twelve hundred and fifty short on her second.
 
 "Short on both," Ellen said.
 
 "After the week we had," Denise said. She had the crossword folded on the counter and the pen uncapped.
 
-The Open had sold its last line Thursday at 4:40, and the sandwich board by the shoe cubbies said OPEN, FULL in her capitals. Both Tuesday teams had phoned in Wednesday and gone back on the sheet at twelve-fifty, and neither captain would say why. The twenty-seventh had to do the rest, in one day, on both lines.
+The Open had sold its last line Thursday at 4:40, and the sandwich board by the shoe cubbies said OPEN, FULL. Both Tuesday teams had phoned in Wednesday and gone back on the sheet at twelve-fifty, and neither captain would say why. The twenty-seventh had to do the rest, in one day, on both lines.
 
 Hollis had a printed forecast flat on the counter and his notebook beside it.
 
-"Coastal low in the long-range models, Friday night into Saturday," he said. "Two of three models have it."
+"Coastal low in the long-range models, Friday night into Saturday," he said.
 
 "How much?" Ellen said.
 
-"Don't know yet. I'll know more Thursday. I'll know at four a.m. Saturday." He put a finger on the printout. "Over ten inches, my contract has me on the back roads from three. Private drives around the lake."
+"Don't know yet. I'll know at four a.m. Saturday." He put a finger on the printout. "Over ten inches, my contract has me on the back roads from three. Private drives around the lake."
 
 "Then Gagnon and Son's a man short in the final," Denise said. "And Ray—"
 
@@ -295,7 +313,7 @@ Hollis wrote it down in the notebook with the golf pencil.
 
 Ellen looked at the Tuesday column on the pace sheet.
 
-He had won her two teams back forty minutes up the road and hadn't told her. Eighteen days ago he had stood at her left in front of eighty-one people. If she missed Judy's lines she would have to sell, and he still held the first refusal and a bank letter on the building those teams had come back to. At his truck she had asked to find out what she could carry. Now she would never know how much of the twelve-fifty had come back on its own.
+He had won her two teams back at Gil's place and hadn't told her. Eighteen days ago he had stood at her left in front of eighty-one people. If she missed Judy's lines she would have to sell, and he still held the first refusal and a bank letter on the building those teams had come back to. At his truck she had asked to find out what she could carry. Now she would never know how much of the twelve-fifty had come back on its own.
 
 Hollis had come around the counter to read the board column by column.
 
@@ -318,3 +336,4 @@ Denise capped the pen.
 ## Edit log
 
 - Second draft (Oct 27): external-review revision; see reviews/2026-10-27-external/. Draft-1 final archived as final-draft1.md.
+- Polish pass (round-2 reviews): added the Massachusetts vacation-week sentence to the pace-sheet passage (item 1); replaced part of the vacation-week summary with Ellen's phone sale to the Laplante family and trimmed two of Hollis's forecast lines to make room (item 3); "wrote a zero in the box" became "marked a zero for that ball" (item 8); cut three "capitals" (vacation strips, OPEN FULL board; ledger tape now "that hand") (item 11); two "forty minutes" became Halsey Falls and Gil's place (item 13).

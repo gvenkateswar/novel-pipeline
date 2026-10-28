@@ -264,11 +264,11 @@ Tuesday bowled on eight lanes. Lanes 9 and 10 stayed dark. Now the sweeps were d
 
 Denise slid the pool sheet out from under her crossword to settle the night's cash against it. Until Monday it had hung on the wall behind Ray's register.
 
-"Ray took it down himself and drove it up here Monday morning," Denise said. "Handed it across this counter like somebody returning a hammer he borrowed and never used. Said it was mine to hold and always had been." She folded it and slid it under the register drawer. "You want to know what I think of tonight, honey, ask me Thursday."
+"Ray took it down himself and drove it up here Monday morning," Denise said. "Handed it across this counter like somebody returning a hammer he borrowed and never used. Said it was mine to hold and always had been." She folded it and slid it under the register drawer. "You want to know what I think of tonight, ask me Thursday."
 
 She put on the hat with the earflaps and went out the front.
 
-Ellen took the folded tape out of her vest pocket and opened it on the counter beside the night's register report. The tape had the Highway Department on it where the Legion should have been. The total came out within forty dollars either way. Twenty-two thousand in income against Judy's thirty. Seventeen in the bank on the twenty-eighth against her twenty-five. Two thousand worse on each line than she had stood at breakfast.
+Ellen took the folded tape out of her vest pocket and opened it on the counter beside the night's register report. The tape had the Highway Department on it where the Legion should have been. The total came out within forty dollars either way. Twenty-two thousand in income for the season against Judy's thirty. Seventeen in the bank on the twenty-eighth against her twenty-five. Two thousand worse on each line than she had stood at breakfast.
 
 The steel door by lane 10 scraped. Ray came up out of the pit with the drop light. Denise had texted him at nine-forty about lane 8's table running late in the third string. He went to the pegboard and wrote his time out on his card, hung the drop light on its hook, and put his coat on.
 
@@ -305,3 +305,4 @@ Behind her the truck's headlights came on and swung out onto the drive.
 ## Edit log
 
 - Second draft (Oct 27): external-review revision; see reviews/2026-10-27-external/. Draft-1 final archived as final-draft1.md.
+- Polish pass (round-2 reviews): labeled the $22,000 as a projection "for the season" (item 1); cut "honey" from Denise's ask-me-Thursday line (item 12).

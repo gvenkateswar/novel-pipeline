@@ -68,6 +68,18 @@ The author wants the book produced with as little of their input as possible. Wh
 1. @cold-reader — full-manuscript read, saves `manuscript-reader-notes.md`
 2. Report the findings to the author
 
+## Pipeline: External review (run before publishing)
+
+Learned on Book 1. The cold-reader shares the pipeline's assumptions and has missed facts that outside readers caught (the heroine's stated age, legal and banking mechanics, sport terminology). Before publishing:
+
+1. Build a clean manuscript file (all `final.md` texts, edit logs removed) and give it to the author along with the seven-role review prompt in `reviews/`.
+2. The author runs it in 2–3 outside AI tools and attaches the results. Save them to `reviews/<date>-external/`.
+3. Synthesize the reviews into `synthesis.md`, and verify every claim against the text before acting on it. Outside reviewers miscount words and sometimes quote stale text.
+4. Correct the facts in the bible, then write `revision-plan.md` and run one targeted revision round. Follow it with a whole-book continuity check, a voice pass, and a cold read.
+5. Stop after two external rounds. After that, use human readers and a human copyeditor.
+
+Any reader-notes file must name the exact draft it read. Never send a notes file alongside a newer text without saying so.
+
 ## How to invoke
 
 - `"Run research phase"` — market-analyst, then niche-spotter

@@ -70,7 +70,7 @@ Ellen had carried the question since December.
 
 Arlene was buttoning her cardigan. She did not stop.
 
-"You asked me what the league paid. Nobody had asked me that since Normand."
+"Raymond asked me that already. Ask him."
 
 She stood and got into her coat. Her keys came out of the cardigan pocket with the tissues. A new key on a white paper tag read THE PINES 2B. Beside it hung a brass key with an orange tag, R.G. — 1996, in her own green hand.
 
@@ -92,11 +92,11 @@ Denise had the pool sheet out on the counter and her pen uncapped.
 
 "It goes in HELD."
 
-"Honey, I know where it goes. December was men with snowblowers that wouldn't start. February was the hopeful ones. They gave you long enough to break something expensive, and you did." She capped the pen.
+"I know where it goes. December was men with snowblowers that wouldn't start. February was the hopeful ones. They gave you long enough to break something expensive, and you did." She capped the pen.
 
 She folded the sheet in thirds so the bottom row stayed on the outside. WEDDING DATE. She slid it back under the crossword.
 
-Ellen went to the pegboard by the pit door. Ray's card had a new line at the bottom in his square capitals.
+Ellen went to the pegboard by the pit door. Ray's card had a new line at the bottom in his square hand.
 
 03/01 / 1540 / LANE 07 / WAITING
 
@@ -209,3 +209,4 @@ Ellen walked out into the road and looked up at it.
 ## Edit log
 
 - Second draft (Oct 27): external-review revision; see reviews/2026-10-27-external/. Draft-1 final archived as final-draft1.md.
+- Polish pass (round-2 reviews): Arlene's answer to "Why me?" became "Raymond asked me that already. Ask him." (item 5); Ray's card line now "square hand" (item 11); cut "Honey" from Denise's HELD line (item 12).

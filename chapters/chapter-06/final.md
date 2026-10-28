@@ -72,7 +72,7 @@ He set the book down and ran the tape through his fingers to the minus at the bo
 
 "They paid their entry fees in September. Lineage comes across my counter every league night."
 
-"At the September price." He set the tape down. "They signed up for a season at that price. You don't change the price in the middle. People quit over a lot less, and Pine Ridge is forty minutes up the road with the lights on."
+"At the September price." He set the tape down. "They signed up for a season at that price. You don't change the price in the middle. People quit over a lot less, and Pine Ridge—"
 
 "If I raised it Tuesday and nobody quit," she said after a while, "I'd be close. Close is short."
 
@@ -108,7 +108,7 @@ Ellen opened the door with a dish towel over one shoulder and no vest.
 
 "Denise has the counter until eight-thirty," she said. "Glow doesn't start till nine. Leave it by the boot tray. Thank you." She stood aside. "Nobody says the word ledger tonight. That includes me."
 
-The camp belonged to a family from Andover who came up in July: one room under a sleeping loft, a loon clock over the stove. The owners had labeled their cupboards in marker: GLASSES. MUGS. DO NOT USE GOOD BOWLS. Under each one Ellen had added a strip of masking tape in block capitals. Under the good bowls her strip said AGREED.
+The camp belonged to a family from Andover who came up in July: one room under a sleeping loft, a loon clock over the stove. The owners had labeled their cupboards in marker: GLASSES. MUGS. DO NOT USE GOOD BOWLS. Under each one Ellen had added a strip of masking tape. Under the good bowls her strip said AGREED.
 
 A pan of American chop suey sat on the back burner.
 
@@ -120,7 +120,7 @@ A pan of American chop suey sat on the back burner.
 
 She filled two plates and stayed at the counter with hers. There were two chairs at the little table by the window. He looked at them.
 
-"I eat standing up. Thirty-one years of eating on a break." She tipped her fork at the chairs. "Sit if you want."
+"I eat standing up. Break-room habit." She tipped her fork at the chairs. "Sit if you want."
 
 He brought his plate over and stood next to her, at a counter built for a shorter family.
 
@@ -164,7 +164,7 @@ At the door, with his coat on, she reached up and turned his collar down where i
 
 * * *
 
-Tuesday league had cleared out at ten-forty. The card on the pit-door pegboard said 01/26 / 2310 / 03 / CLUTCH, in his square capitals, and by 12:08 he had the new facing seated on lane 3 and two bolts to go.
+Tuesday league had cleared out at ten-forty. The card on the pit-door pegboard said 01/26 / 2310 / 03 / CLUTCH, in his hand, and by 12:08 he had the new facing seated on lane 3 and two bolts to go.
 
 The baseboard stopped ticking.
 
@@ -206,7 +206,7 @@ He went up for the second flashlight. When he came back down she had the phone t
 
 * * *
 
-At 2:40 the technician called to say forty minutes more.
+At 2:40 the technician called from the road.
 
 The vestibule thermometer had said fifty-five the last time she climbed up to read it. Now she sat on the third stair from the bottom with her flashlight on the crack. Ray sat two stairs above her.
 
@@ -242,7 +242,7 @@ She nodded once.
 
 "I know."
 
-Her beam started to wander on the iron. Just a little, a sixteenth either side of the seam. Her bare hand was red at the knuckles. She had taken the mitten off for the valve and hadn't put it back on. She moved the flashlight to her other hand and put the first one in her pocket.
+Her beam started to wander on the iron. Her bare hand was red at the knuckles. She had taken the mitten off for the valve and hadn't put it back on. She moved the flashlight to her other hand and put the first one in her pocket.
 
 Ray saw it. He kept his own light on the floor drain and didn't offer.
 
@@ -348,7 +348,7 @@ The bell went over the door behind her.
 
 He turned the plan face down and reached past the register for the light switch. The pool sheet hung beside it at the height of his eyes.
 
-Normie had added a row at the bottom while Ray was out at the rental yard Wednesday, in his big careful capitals. WEDDING DATE. Three squares were already bought, with names in them. NORMIE, JUNE 12. D. LAVOIE, NEVER, PAID IN FULL. And in the third square, in a neat hand Ray had taught to write invoices, DANNY, OCT.
+Normie had added a row at the bottom while Ray was out at the rental yard Wednesday, in his big careful print. WEDDING DATE. Three squares were already bought, with names in them. NORMIE, JUNE 12. D. LAVOIE, NEVER, PAID IN FULL. And in the third square, in a neat hand Ray had taught to write invoices, DANNY, OCT.
 
 He read the row twice. Then he switched off the counter lights, locked the front, and drove around the cove to coach a league bowling in parkas around two rented heaters.
 
@@ -396,7 +396,7 @@ Hollis tipped his head at the door. The treasurer set the cash box on the floor 
 
 He came back in red to the ears. "Lost him. Felt like a good one."
 
-"Twenty-six derbies I've chaired," he said. "Nobody ever walked out here and handed me the fallback typed." He turned to the committee. "Indoor fallback. All in favor."
+"Twenty-six derbies I've chaired," Hollis said. "Nobody ever walked out here and handed me the fallback typed." He turned to the committee. "Indoor fallback. All in favor."
 
 Two hands went up. The treasurer kept both of his on the cash box. "Weigh-in stays at the dock unless you call it."
 
@@ -435,3 +435,4 @@ Ray opened his mouth.
 ## Edit log
 
 - Second draft (Oct 27): external-review revision; see reviews/2026-10-27-external/. Draft-1 final archived as final-draft1.md.
+- Polish pass (round-2 reviews): Hollis's derbies line now tagged "Hollis said" (item 6); removed "a sixteenth either side of the seam" (item 10); cut three "capitals" (camp tape, Ray's card, Normie's row) (item 11); Ray's Pine Ridge line left unfinished and the technician's "forty minutes more" became "called from the road" (item 13); "Thirty-one years of eating on a break" became "Break-room habit" (item 14).

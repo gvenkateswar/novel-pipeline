@@ -32,7 +32,7 @@ Ellen pressed the key. "I need the radio to know you're there."
 
 He didn't come back on.
 
-Behind the counter the strip board was full from end to end, every card in her capitals. Three birthday parties, the youth hockey team, the Rotary, and the Ambrose Elementary lunch staff, retiring one of their own, stacked on every lane from ten o'clock to close.
+Behind the counter the strip board was full from end to end. Three birthday parties, the youth hockey team, the Rotary, and the Ambrose Elementary lunch staff, retiring one of their own, stacked on every lane from ten o'clock to close.
 
 Twenty-six children who would not stay in line, and six parties butted against each other to the minute. Nobody had needed her to put a room in order since the afternoon of the marble cake, and she had sold a house to buy one that would.
 
@@ -114,7 +114,7 @@ Ray kept the screwdriver under the bracket. "Last Saturday in February. All ten 
 
 Ellen was three feet away at the lane 7 scorer's table with a pencil, writing the Rotary's new time at the top of their sheet. The Rotary man looked over at her.
 
-She knew exactly what she had said on December eleventh, and where the sweep had come across it. In thirty-one years she had let one thing go unconfirmed on purpose, and it had been a handshake in her own pit.
+She knew exactly what she had said on December eleventh, and where the sweep had come across it. She had never let a thing go unconfirmed on purpose until a handshake in her own pit.
 
 "Your lanes will be ready in twenty-five minutes," she said.
 
@@ -146,7 +146,7 @@ She put on her coat, took the flashlight off its hook, and went out for the sand
 
 The night was clear and still, about two degrees. The sign on its pole by the road gave more light than she needed. She kept the flashlight on.
 
-For thirty-one years she had known men by their voices. Two words in her headset and she had the airline, the man, and whether he'd slept. She could have passed any of them in a terminal and never known it. All day she had had Ray's voice on her collar and his face somewhere behind ten machines, and she wanted to check the one against the other.
+At the scope she had known men by their voices. Two words in her headset and she had the airline, the man, and whether he'd slept. She could have passed any of them in a terminal and never known it. All day she had had Ray's voice on her collar and his face somewhere behind ten machines, and she wanted to check the one against the other.
 
 At the pole he stopped and tipped his head toward the sign.
 
@@ -198,7 +198,7 @@ When he straightened up she looked down at the beam.
 
 Headlights came over the top of the drive. Denise's car rolled down the hill slowly, stopped beside them, and the window came down.
 
-"Defrost takes nine minutes," she said, and kept her foot on the brake. "Goodnight, Ray. Lock the front, honey. The front sticks."
+"Defrost takes nine minutes," she said, and kept her foot on the brake. "Goodnight, Ray. Lock the front. The front sticks."
 
 The window went up. She drove off toward town.
 
@@ -267,3 +267,4 @@ Ellen turned the phone face down, took the flashlight off its hook, and went out
 ## Edit log
 
 - Second draft (Oct 27): external-review revision; see reviews/2026-10-27-external/. Draft-1 final archived as final-draft1.md.
+- Polish pass (round-2 reviews): cut "every card in her capitals" from the strip board (item 11); cut "honey" from Denise's drive-by line (item 12); removed two "thirty-one years" (the unconfirmed-handshake line and the voices line) (item 14).
