@@ -44,7 +44,7 @@ Also: the writer misses word targets by about 10% either way; the voice editor f
 ## Gates (these apply even on autopilot)
 
 - **Human gate.** The author reads or listens to Ch 01, in the format readers will use (text-to-speech counts), before Ch 02 is drafted; again at the sample mark (the first ~12% of the book); and after Ch 03. Ask exactly: "Where did you drift? Would you keep going?" A "boring" or "I'd stop" sends the work back to the outline or the beats, never to line edits. On autopilot you still stop here. Send the chapter and wait.
-- **Pull gate.** From the sample reader: two consecutive scenes at pull ≤ 2, a stop inside the sample, or "Buy: no" is a structural failure. Back to beats or outline, with no one-revision cap.
+- **Pull gate.** From the sample reader: a stop inside the sample, "Buy: no", any scene at pull ≤ 2, a sample whose scene scores average under 3.5 of 5, or a chapter the whole-book read scores ≤ 5 of 10, is a structural failure. Back to beats or outline, with no one-revision cap. The simulated readers are calibrated against the author's verdict on the first two books (both excruciating; both passed every simulated read), so treat them as a smoke test: a pass means nothing until the author has read it, and a fail is final.
 - **Logic gate.** The plot auditor runs on `outline.md` before the bible is built. An unanswered "why doesn't the safer option work" or "how did the information travel" blocks setup until the architect answers it.
 
 ## Pipeline: Research phase (once per book)
