@@ -1,0 +1,79 @@
+# Pipeline changelog
+
+The pipeline's own history. A lesson learned on a book is committed here and to the agents, never only to that book's files. Each entry: what happened, what it taught, what changed.
+
+## 2026-10-28 — Version 2: the combined repo and the rebuilt system
+
+### What happened
+
+Two novellas went through version 1 in October 2026, in separate repos with identical agents: *The Last Frame* (clean small-town romance, `books/the-last-frame/`) and *Ten Days Out* (open-door romantic suspense, `books/ten-days-out/`). Each had three drafts and three outside AI review rounds. Both reached "ready to publish" scores (8–8.5/10; 4.2/5). Then the author listened to *The Last Frame* on text-to-speech and stopped at 29%: "really boring."
+
+Every fix along the way had been written into one-off files (revision briefs, voice quotas, a repetition script, synthesis "pipeline lessons" sections). None of it reached the agents. Book 2 started with the same agents that produced Book 1's 3.0–3.3 first draft, and Book 1's CLAUDE.md had gained an external-review stage that Book 2's never got.
+
+### What the two books taught
+
+**Accuracy (from the review syntheses):**
+- Nobody checked the bible against the world. Book 1 got NH right of first refusal wrong, booked raffle income unlawfully, used tenpin terms in a candlepin book, set a covenant with $600 of headroom. Book 2 overstated federal procedure. The continuity checker propagated every error because the bible said so.
+- Arithmetic nobody recomputed: tape sums, lane counts.
+- Payoffs with no plant (names first appearing in Ch 9; a vacation week on a tape).
+- The writer misses word targets by ~10% either way and compresses high-emotion scenes (Ray's final in one sentence; sex scenes at 300–400 words against a longer brief).
+- Both leads sound alike; the voice editor flattened them toward one style reference.
+- Motifs strip-mined into tics (room-counting 19×, the rag smear 25×, "squared" 23×).
+- A fix in one chapter breaks a later one (the Ch 4 generator line broke Ch 5; clarifying a denial raised a character's culpability later).
+- The cold reader grades a third of a point to a full point above outside panels.
+- Outside reviewers miscount words and quote stale drafts; the review prompt itself had a wrong fact (four kisses; the book had three).
+- "Never a stupid choice in danger" removed the useful mistakes.
+- The reader guessed the leak by Ch 3 and was certain by Ch 6; no agent could see what the page had revealed.
+
+**Pleasure (from `docs/postmortem-boring.md`):**
+- The signals were there ("too quiet," "I'd keep reading, but not by much," "a metronome") and the orchestrator filed them as small fixes under a one-revision cap.
+- Simulated readers cannot get bored; none was asked a forced-choice buying question.
+- Every editing stage subtracted; none added. 23 world rules, nearly all prohibitions. Mean sentence 12 words, 23% at five words or fewer, the same rhythm everywhere.
+- No agent owned "is this entertaining." First kiss at 48%.
+- Texture became the content: 34 slash-codes in Ch 1–3; the chapter everyone liked had 3.
+- The review prompt anchored reviewers on our design intent and on "AI experiment," and later rounds became checklist verification.
+- The human read came last.
+
+**Machine tells (from `docs/ai-fiction-tells.md`):**
+- "Show, don't tell" applied as "convert every feeling to a symptom" is itself a measured tell; that is the gesture-then-explanation pattern every panel flagged.
+- The Claude row of the model-drift table (flat escalation, quiet endings, too many similes) is the postmortem restated.
+- Word lists are a hygiene pass; structure (Part 7) is the real work.
+
+### What changed
+
+**Repo.** One repo. Pipeline at the root, books under `books/<slug>/`, blanks in `books/_template/`. Book 2 merged in with its history (`git subtree`). Each book has a `book-brief.md`. Per-book pipeline settings that used to live in a book's CLAUDE.md now live in its brief.
+
+**Gates (apply on autopilot):** human gate (Ch 01, sample mark, Ch 03, in the format readers use); pull gate (sample reader); logic gate (plot auditor on the outline).
+
+**New agents:** `plot-auditor` (the skeptic; outline and manuscript modes; owns the tells Part 7 story-level audit), `sample-reader` (the reader who can quit; forced-choice outputs; prediction section), `domain-checker` (web-enabled; bible and manuscript modes).
+
+**New tool:** `tools/audit.py` combines Book 2's repetition script, the postmortem's ear check and the tells lint (Parts 2, 3, 5). Runs after every voice edit on all chapters so far; reports scene clusters.
+
+**Rewritten agents:**
+- `story-architect`: genre map; turn/longing/laugh/cost/plants/ending type per chapter; the ordinary scene; the four-beat repair; an unresolved subplot; a condemnable choice; tonal contrast; mystery-fairness clue list; writes the sample synopsis.
+- `plot-architect`: want per scene; texture budget; POV per scene; word floors; assigned ending types; plant list; numbers used.
+- `bible-builder`: syntax profiles per POV; motif list with caps; numbers ledger; world-rule ceiling of 20 with paired positives; heat rules; samples at both temperatures; name selection with a stated source.
+- `prose-writer`: positive rules first (want, rhythm range, turn/longing/laugh, two voices, texture budget, emotion as choice, assigned endings, floors); hard bans only from tells Part 2; "default to short sentences" removed; one signal plus one interior line per beat; Commitments notes after revisions.
+- `voice-editor`: may add life (dialogue, interiority, long sentences, sensory pleasure); edits per POV profile; judgment tests (tells Part 6) on audit flags; floors are hard; no new prohibition without its pair.
+- `cold-reader`: pull score; prediction section (the reader-knowledge tracker); listener pass; romance check; knows its score is a floor.
+- `continuity-checker`: numbers ledger and plant list checks; manuscript mode on Opus; commitments mode after revisions.
+
+**Genre map:** `genre-maps/romance.md` with positions (Act 1 ≤ 20%, first kiss ≤ 35%, hook inside the sample), per-chapter requirements, heat and texture rules, lead rules, the default sample-reader persona.
+
+**External review:** `reviews/prompt-blind.md`, two messages. Blind buyer read first (stop line, buy, boredom ledger, pull curve, comparison, audio test, enjoyment score), design intent second (generated from the bible), editorial panel with craft and publishability scored separately and publishability capped at enjoyment. Later rounds blind, no fix list. Two rounds, then humans.
+
+**Orchestrator:** word check after every draft; one internal revision round before going outside; boredom flags above scores; lessons committed to the pipeline.
+
+### Not changed
+
+The research phase, the per-chapter order, the clean-manuscript build, commit-after-every-step, and the rule keeping readers away from planning files.
+
+### Open for the author
+
+- *The Last Frame*: structural pass on the opening (not line edits), or leave as a lesson.
+- *Ten Days Out*: with beta readers; no text changes until they report.
+- Pen names and KDP accounts for both.
+
+## 2026-10-26 — Version 1
+
+Ten agents (market-analyst, niche-spotter, comp-reader, story-architect, bible-builder, plot-architect, prose-writer, continuity-checker, voice-editor, cold-reader), a generate → check → revise → edit → cold-read loop per chapter, autopilot mode, one repo per book. Added during Book 1: the external review stage (seven-role editorial panel).
