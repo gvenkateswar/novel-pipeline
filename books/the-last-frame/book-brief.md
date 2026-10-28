@@ -28,3 +28,9 @@ Everything in `docs/changelog.md` under "Book 1" and the postmortem. The short v
 - What changes: the shape (Act 1 ≤ 20%, first kiss ≤ 35%, both leads in a room with spark inside Ch 1, the couple and the premise inside the sample), the people (character-designer), the register (both-temperature samples; the v1 bible's "short-to-mid sentences, enter late, leave early" is replaced), texture (one or two details per scene; the v1 opening had 34 codes), and the dialogue (dialogue-doctor).
 - World rules: trimmed from v1's 23 to the ceiling of 20, each paired with what to do instead.
 - The v1 peaks the architect may keep as events: Ch 4 setting pins by hand and "Traffic, twelve o'clock, one mile"; the check on the hood; the D-side readback; the ham; "I eat supper at a quarter past five"; "Both words."
+
+## v2 approvals (orchestrator, on the author's behalf under autopilot, Oct 28, 2026)
+
+- outline.md revision 3.1 (logic gate PASS after three rounds; synopsis pull 3.56). "Open for the author" items 1–4 approved at their defaults; items 1 and 2 go to the domain checker on the manuscript.
+- characters-draft.md: all seven "confirm" items at their defaults.
+- story-bible.md = story-bible-draft.md as built. The K's date is winter 2007–08. The stranded count in Ch 3 is 33, not 31 (frees "thirty-one" for Ellen's career and Kate's age).
