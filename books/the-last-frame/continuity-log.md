@@ -215,3 +215,6 @@
 - Ch 02: Ray talks to objects twice (cylinder, screw); "Mrs. Daly" 1 and "Ms." 1 used (Ch 10 payoff); keep the motif low.
 - Ch 02 timeline: S1 Wed Dec 2 7:30 a.m.; S2 Wed 8:00 to ~8:20 (rekey); text at four; S3 Wed 9:50 to ~10 p.m.; S4 Thu Dec 3, form signed, key at 4:58 p.m., committee sits at five. Ch 02 final.md is 2,832 words.
 - Time: knock about 5:15 p.m. (inferred; not stated on the page, which keeps "a quarter past five" off); league arrives 6:06; PA at half past six; lane 7 dies at seven; PA lane 7 at 7:20; close at 9:45.
+
+- Bible rule 1 (Ellen knows her silence is out of character, and why) is placed in Ch 03 (S3 fact, S4 why). Ch 05 may echo it in one clause at most.
+- Stranded count 33 people besides Ellen, 33 cars; bible "31" lines superseded.
