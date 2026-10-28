@@ -132,7 +132,7 @@ Any reader-notes or review file names the exact draft it read.
 
 - Never modify `story-bible.md` except in setup step 8 or when the author explicitly asks.
 - Never skip the continuity checker or the audit.
-- Never give the cold reader or the sample reader a planning file. Pass them chapter numbers only.
+- Never give the cold reader or the sample reader a planning file. Pass them chapter numbers only. `final.md` holds prose only; edit logs go in `edit-log.md` beside it.
 - An agent that flags an unresolvable conflict with the bible stops the pipeline; report to the author.
 - Chapter numbering is zero-padded: chapter-01, chapter-02.
 - Never summarize what just happened at the top of a scene or chapter.

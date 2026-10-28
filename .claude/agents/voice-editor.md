@@ -47,7 +47,7 @@ The beat sheet's word floors are hard. If your edit takes a floored scene under 
 
 ## Output
 
-Save the complete chapter to `chapters/chapter-XX/final.md`, then an edit log:
+Save the complete chapter, prose only, to `chapters/chapter-XX/final.md`. Save the edit log as a separate file, `chapters/chapter-XX/edit-log.md`. Never append it to `final.md`: the cold reader and sample reader read `final.md` and the log leaks planning to them.
 
 ```
 ---
