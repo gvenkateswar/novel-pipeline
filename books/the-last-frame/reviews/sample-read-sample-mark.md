@@ -1,68 +1,66 @@
-# Sample read: sample mark (Ch 1–3)
+# Sample read — sample mark (Ch 01–03)
 
-**Draft read:** `chapters/chapter-01/final.md`, `chapter-02/final.md`, `chapter-03/final.md` as of Oct 27, 2026: the second draft (external-review revision), with the round-2 polish pass on Ch 1 and Ch 3. Everything from "## Edit log" down was stripped before reading. About 10,500 words. No planning or review files were opened.
+**Draft read:** v2, Oct 28 2026 — `chapters/chapter-01/final.md`, `chapters/chapter-02/final.md`, `chapters/chapter-03/final.md`, prose only, in order. (Replaces the v1 report.)
 
-**Reader:** Carol, 59, a retired school secretary in Ohio. She reads on her phone in bed, mostly on Kindle Unlimited, three or four books a month: clean romance, later-in-life couples, small towns. Last month she finished two widow-and-widower books and DNF'd one where the heroine "ran a bakery" but was never shown baking. The last book she paid for was $4.99, a series finale. She is tired of heroines with no job, love at first sight, towns that could be anywhere, and books that read like a checklist. She drops a sample if the couple hasn't been in a room together by the end or if the opening is all setup.
+**Persona:** romance genre map default. I'm 58, I read clean later-in-life romance on KU on my phone in bed, three or four a month. I quit samples that are all setup or where the couple isn't in a room together. I'm tired of heroines with no job, instant love, generic small towns, and books that read like they were written to a list. I've been bored by two books like this one already.
+
+**Gate check:** one scene at 2 (Ch 2, scene 3). Average 3.42. **The pull gate fails on both counts.**
 
 ---
 
 ## 1. Where I stopped
 
-I finished the sample.
+Finished the sample.
 
-## 2. Buy: yes or no
+**I'd keep reading, but** Chapter 2 nearly lost me. Somewhere around "Concord would lend him what the appraiser said" (~60%) I checked what else I had on my phone. Chapter 3 pulled me back, and I'm not sure I'd have reached Chapter 3 on a night I was tired.
 
-**Yes.** A woman who gives a whole bowling league clearance on a PA and a man who won't take her money is exactly what I borrow these books for, and I want to see her lose the argument about the trophy.
+## 2. Buy
+
+**Yes.** She kissed him under the dead K, Denise said "Honey," and I want to see what happens when he finds out about the condition he didn't hear.
 
 ## 3. Pull score per scene
 
-| # | Scene | Pull | What I wanted to happen next |
+| Ch | Scene | Pull | What I wanted next |
 |---|---|---|---|
-| 1.1 | Ellen re-tapes the switches, then Denise and the "remarks" business | 3 | Mostly for Denise to keep talking. I wanted to meet whoever the book is about. |
-| 1.2 | Ray on the step with his key; the phone call to "the locksmith" | 4 | Ray to come off that mat. I laughed out loud when it turned out the locksmith was standing in her vestibule. |
-| 1.3 | The PA, "Roger, tower," and her first ball going into Ray's lane | 4 | Ray to look at her. He wouldn't, and I wanted him to. |
-| 1.4 | Lane 7 breaks down, Ray says "Not my alley," she refunds the Grange | 3 | To know who Linda was. That's what kept me going, not the refund. |
-| 1.5 | Closing up, the pool sheet, Ray's truck waiting in the lot | 4 | To find out why Ray won't buy a square. And whether he was waiting for her. |
-| 2.1 | The hardware store, the Bench, the folded bank letter | 3 | For Ellen to walk in. Once I learned about the bank letter I knew he was the threat, and I wanted them in the same room. |
-| 2.2 | She plays him the recording on the counter | 4 | For him to fix it. I liked that she didn't explain the clip, she just pressed play. |
-| 2.3 | Rekeying the doors; his offer to buy her out; Kate on the phone | 4 | For her to say no, and she did. "Then I'll see you March first" is a good line to put the phone down on. Except I didn't. |
-| 2.4 | Danny counting the drawer, the furnace story, the text | 3 | For him to go over there. |
-| 2.5 | Ray alone in her building at night with the clutch | 4 | For her to find the card in the morning. |
-| 2.6 | Her photo: "REMARKS: INVOICE TO E. DALY." | 4 | For her to make him take her money. |
-| 3.1 | Judy at the bank with the two circled numbers | 2 | Nothing much, except to get out of the bank. I believed her that the winter is the year. I didn't need the rest of it. |
-| 3.2 | Ray brings the parts; the invoice fight; the back-door key and the sign-in card | 3 | For him to see the electrician's drawing. When he said "That's the trophy case," I sat up. |
-| 3.3 | Black lights with Denise; the mustard handprint; Linda's card lighting up | 3 | Denise is the best thing in this book. I wanted Ray to walk in on that glowing case and he didn't. |
-| 3.4 | Friday glow night; Ray's tape glowing in the pit; the deal and the handshake | 4 | For him to hear the "unless" part. He didn't, and I know that's coming back. |
-| 3.5 | The bowling lesson | 4 | More of him touching her wrist. "He let go first" got me. |
-| 3.6 | Denise reads the R.G. card aloud, then Ellen alone with the adding machine | 2 | Denise's part was a 4. Then I skimmed the money, and I wanted it to end on the card she pinned for February 27. It did. |
+| 1 | Key at the door | 4 | For him to keep arguing on the step. She wanted it too, and that's why I kept going. |
+| 1 | League comes in, locksmith call | 4 | To see her face when Ray shows up at eight to rekey his own lock. I skimmed the room-count list. |
+| 1 | "Cleared to bowl," wrong lane, lane seven dies | 4 | Whether he'd fix seven, and whether either of them would let go of the ball first. |
+| 1 | Refunds, Arlene, the pool sheet | 3 | Who holds March first. I didn't care about the half-now-half-June offer to Arlene. |
+| 2 | Hardware store, the recording | 4 | The eight o'clock rekey with her holding the light. |
+| 2 | Rekeying the front door | 3 | Who Kate is and what "Not the rest" means. The contract talk in the middle I skimmed. I'd already read it in Ch 1. |
+| 2 | Ray fixes seven alone at night | **2** | Nothing, really. She isn't there. I wanted to know what was in the envelope, and he didn't open it, so I didn't get to either. This is where I'd have picked up another book. |
+| 2 | Committee at five, the key on the counter | 3 | To understand what she was answering. I got that the key meant something, but I didn't follow the credit union part, so the clock didn't scare me the way it was supposed to. |
+| 3 | Storm, plow stuck, "Nobody leaves" | 3 | To see her run the night. "Sleeping is free. Strings are not." was good. I didn't know who "the captain" was at first, and I didn't notice two weeks had gone by until the shovel scene. |
+| 3 | Tape, Denise, lights go out | 3 | What happens in the dark. |
+| 3 | Setting pins by hand in the pit | 4 | For him to realize what she'd said under the strike. Also what her third reason was. |
+| 3 | Shoveling the sign pole, the kiss | 4 | What Denise says next, and the fallout when he learns about "unless the numbers say otherwise." |
+
+**Average: 3.42 / 5** (41 / 12). Ch 1 averages 3.75, Ch 2 averages 3.0, Ch 3 averages 3.5.
 
 ## 4. Do I care about these two people yet?
 
-**Yes.** Ray touching the trophy glass with one knuckle every time he walks past is what did it. She is harder to love, but by the lesson, when she's being bad at something in front of him and keeping her face level, I was on her side.
+**Yes.** Her more than him. She's a retired air traffic controller who doesn't trust her own calm voice, and that's the best thing in the book. He got to me in the pit with the thumb going round the pin.
 
 ## 5. Did anyone make me laugh?
 
-Yes, a few times. The one that got me out loud:
+Yes. "The locksmith's my father," Danny said. "He's at your place. It's Tuesday, so he's about four feet from you with a shoe in his hand."
 
-> From lane 3, through cupped hands: "Tower, say our altitude."
-> "Five hundred and twelve feet above sea level. It's on the survey."
-
-Denise's "A wall with a cardigan on and a tissue up the sleeve" was close behind.
+Also "Nice arc," Ray said. "Wrong lane." and "Traffic, twelve o'clock, one mile."
 
 ## 6. Did anyone make me want?
 
-> He came and stood at her right. He took her wrist, turned her hand until the palm faced the pins, and lowered it six inches.
-> "Low," he said. "Let the lane have it."
-> He let go first.
+Yes. The ball on the return: "For a second, and then for longer than a second, they both had a hand on it, his underneath and hers on top, the ball warm from the machine and from his palm ... the moment he decided to go on holding it a little longer."
 
-And from his side, in Ch 2: "Out of a whole tin box of Arlene's cards she had kept the one that said she'd need him."
+The flashlight on the mat in Ch 2 ("he could feel her breath on the back of his wrist") came close.
 
 ## 7. The three most boring passages
 
-1. **About 6%, Ch 1:** "That week she read up on candlepin, which was the only kind of bowling anyone up here seemed to mean by the word. The ball was four and a half inches across with no holes…" It's a rules lesson. I skimmed to the asterisks.
-2. **About 69%, Ch 3 opening:** "The new loan costs about twenty-four thousand a year. The committee wants a quarter more than that coming in, so there's room for one bad thing. Thirty thousand, net operating income…" I got "make thirty thousand by the end of February or lose it" and skipped the rest. The trout photo was the only part I read twice.
-3. **About 99%, end of Ch 3:** "She ran the tape through Saturday. Net operating income to date: $5,600. Cash: $34,300. A straight line from zero on December first to thirty thousand on February twenty-eighth put her at $6,333 tonight. She had eighty-eight percent of it…" I skimmed the ledger. I'm not going to check her math, and I can't hold two numbers in my head in bed.
+1. **~45% (Ch 2, rekey scene):** "'Way I've got it,' he said to the cylinder, 'you own the building, and Arlene's carrying the note, and if your bank hasn't paid Arlene by March first, that paper you signed sells it to me that afternoon at appraised value ...'" through "Nobody's cleared thirty in this building since Normand." I'd already been told the contract at the door in Ch 1. I skimmed it the second time and lost who Normand was.
+2. **~55% (Ch 2, Ray alone):** "He worked. The first bolt on the old clutch had been on since before Danny was born and didn't want to come ..." through "He ran her twice more and let her stop." It's a man and a bolt, and she isn't in the building.
+3. **~60% (Ch 2, store):** "Concord would lend him what the appraiser said, through the end of the year, and the credit union would lend the rest against the store if its committee said so at five. His father had put the store up once, in 'seventy-four, and near lost it." I read it twice and still couldn't tell you who lends what. It's the setup for the clock scene, so the clock scene came out flat for me.
+
+Also skimmed: every "First, ... Next, ... Then" list where she counts the room or the steps. There are four or five of them by the end of Ch 3. The first one was her character, and by the fourth I could see it coming.
 
 ## 8. What I think is going on
 
-Ray didn't hear "unless the numbers say otherwise" over the sweep. Ellen will run short, put the Linda Gagnon Memorial up for sale or change it, and he will think she lied. That's the big fight. The bank letter in his wallet is the real danger. I expect him to tear it up or sign it away near the end, and the pool sheet's March 1 square is where it pays off. Linda died about six years ago. He kept the building like a museum for her, and he'll have to let Ellen change it. I think Arlene sold to Ellen on purpose, over Ray, because she knew Ray would never change anything. I suspect the green ledgers will show Arlene was losing money on the league for years and covering for Ray's free work. I'm guessing the January "RECONCILE" card is where that comes out. Ellen has some bad night at work in her past that she wrote up herself, and it'll come out when she cracks.
+Linda was Ray's wife, and she's dead, about six years now, and locker fourteen holds her things. Kate is Ellen's daughter, and Ellen has put her house into the alley ("The house." / "Not the rest."). Kate is afraid she'll put in her retirement too, and I think by March she will. The envelope on the bench was money or a rate for the clutch, and he left it because taking her money would end something. My prediction: to clear thirty thousand, the numbers will make her change or cancel Linda's Memorial, the last Saturday in February. Ray will think she promised it outright, because he didn't hear "unless the numbers say otherwise" under Denise's strike, and she chose not to tell him. That's the breakup. Her "third reason" is something about being lonely, or about him. At the end the K on the sign gets fixed, and March first on the pool sheet goes to Ray, or to her.

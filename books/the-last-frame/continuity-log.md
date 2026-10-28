@@ -127,6 +127,70 @@
 
 ---
 
+## Chapter 03 — Ground Stop
+**What happened:** Thursday, December 17, into dawn Friday, December 18. At ten to nine Hollis's plow goes sideways at the bottom of the drive; Dale Hutchins, the road agent, who drove up ahead of it to tell her to send people home, says "I called you at ten past three and told you it wasn't stopping" and she says "You did." She counts the room (thirty-three besides herself), orders it ("Nobody leaves"), and the captain pays for a lane ("Nobody ever charged me for a snowstorm"). At 11:15 Denise reads a first tape ("Eight hundred and change") and collects "You never did come ask me in the morning"; at half past eleven the power goes and Ray names the boiler. Power out, Ellen and Ray hand-set pins on lane five; she laughs him out of his silence ("Traffic, twelve o'clock, one mile"), he tells Linda's 187 and the locker, she tells the 2 a.m. night and why she bought the alley, and he asks that Linda's Memorial stay as it is. She answers "It stays. Unless the numbers say otherwise" under Denise's strike, and he hears only the first half. At dawn, digging out the sign pole, they settle the key, she kisses him under the dead K, and Hollis's plow, Denise and every face in the glass block catch them.
+**What changed:**
+- Ellen and Ray have kissed (she kissed him; hers to start, dawn Dec 18, under the dead K, on the page, in the red light of the sign). It is public.
+- Ray believes Ellen promised the Memorial unconditionally. Ellen heard her own condition go by unheard and let it stand. This is the chapter's condemnable choice.
+- Ellen has told Ray the whole of why she is quiet and why she bought the alley (separation, the 2 a.m. tape, the lake-road night). Ray has told her Linda's 187 and what locker fourteen is, partly.
+- Ray called her "Ellen" for the first time on the page (S4).
+- Ellen's silence and its reason are now on the page (bible rule 1 placed: S3 fact, S4 why).
+- Ray laughed for the first time in six years; she wants it again.
+- The league's Thursday was thinned by the forecast. Thirty-three people stayed overnight.
+- Denise has bowled the night's first strike (lane five, by flashlight) and has seen the kiss herself.
+**Who knows what:**
+- Ray: the 2 a.m. incident and "when I sound calm, I don't take my own word for it"; why she bought the alley; the kiss; "It stays" (not the condition); that the key "was a key" and a no to selling. His own reading of the key is still not settled.
+- Ellen: Linda's 187, February 'ninety-eight, lane five, the sweep motor; Ray has the locker fourteen key and does not use it; the Memorial, its date and shape; Ray's laugh; that Ray did not hear her condition and that she let it stand (she heard it go; she chose not to say it again).
+- Denise: wants the Memorial cup "longer than she'll say" (Ray says it); saw the kiss from the vestibule door; the 11:15 tape (eight hundred and change).
+- Hollis: saw the kiss through the windshield; said nothing; blade up. Dale Hutchins (the captain) made one visit, at 8:50, heard her order, paid for a lane and stayed; Pelkey is on his crew.
+- The thirty-three: the order, "oldest first, lot empty by eight," and the faces at the glass block saw the kiss. Not everyone saw it: "every face in the building" is on the page.
+- Ellen's third item ("It isn't in order yet") is held back from Ray and from the reader.
+- Nobody on the page: what is in the *R. Gagnon* envelope (not mentioned in Ch 03); what Ray's key reading finally is.
+**Objects / details introduced:**
+- Hollis's plow: yellow beacon, blade dug in below the drive; he walks up, snow to his knees; at 5 a.m. a town loader pulls it free, he opens Kettle Road behind it, phones the rotary at a quarter past six to say seven, comes up the drive about seven with the blade up.
+- Dale Hutchins: road agent, drove up ahead of the plow in a pickup; his bill laid on the counter; the long rotary cord stretched around the coffee urn; Pelkey, on his plow crew, told to drop his wing at the culvert.
+- Ellen's PA-level voice without the PA; a hockey-jacket boy; the one-and-two settee; a man with a cane hooked over the scorer's table.
+- Denise's register tape, "eight hundred and change," clipped to her board; the roller-grill hot dogs given away by Arlene "the winter of the ice storm."
+- The rotary phone works without power.
+- Hand-set pins on lane five: ten worn circles in the pin-deck wood; set ten, back off behind the curtain, bowl three balls, clear, reset; the kickback steel keeps motor warmth.
+- Flashlights, every one in the house, aimed down the lane.
+- Linda's 187: February 'ninety-eight, lane five, new sweep motor that afternoon, Ray watching from the pit, "got up on my knees like a fool."
+- Ray's square-mouthed shovel from down cellar; Ellen's alley shovel; both left standing in the snow at the sign pole. Windrow to her hip.
+- Ray's canvas jacket with frost on the shoulders.
+- Ellen's gloves in her vest pocket, hands red then white at the knuckle.
+- The sign comes back on, red script, the white candlepin, the dark first letter; the red runs across the snow to their boots.
+**Plants placed:** (→ pays off Ch __)
+- Dale Hutchins named, road agent, the 3:10 call (→ Ch 07 walkout, 08, 10)
+- "Nobody ever charged me for a snowstorm" (the captain) and "You charged them for a snowstorm" (Denise) / "I charged them for strings. The snowstorm was free." (→ Ch 07, 08, 10; Ch 09 s4 "keep them, like December")
+- A power cut stops the boiler; "Burner runs on the power, and so does the pump" (→ Ch 09 s4, a boiler that quits when the power does)
+- Locker fourteen: "I've got the key. I don't use it." (→ Ch 10, Ray opens it and bowls with Linda's ball)
+- Linda's 187 told in full (→ Ch 10)
+- The 2 a.m. incident, told by Ellen; she wrote it up herself before anyone asked (→ Ch 07 his cruel line, Ch 08 he names it)
+- "Separation," defined once in plain words (→ Ch 05 "It's separation.", Ch 07)
+- Why Ellen bought the alley: "A pin is standing or it's down... Nobody can sound fine about a pin." (→ Ch 07 the hood, "which of us carried it," Ch 10)
+- Ellen's third item, "It isn't in order yet" (→ author call; no chapter assigned)
+- Ray's ask: the Memorial "stays." "It stays. Unless the numbers say otherwise." He hears only "It stays." (→ Ch 05 he vouches on the record, Ch 06 "I said it," Ch 07 confession, Ch 08)
+- *No readback*, in thought, once (→ Ch 07 spoken)
+- Denise wants the Memorial cup "longer than she'll say" (→ Ch 10)
+- Ellen's side of the key: no to selling, "the rest of it was a key" (→ Ch 07 key laid on her counter, Ch 08 "Not yet," Ch 10)
+- The first kiss, seen by Hollis and the faces in the glass block, Denise in the door (→ Ch 04 "neither has said a word about Friday," the Bench, the pool)
+- "Ellen" (Ray's first use on the page) (→ running; Ch 10 "Mrs. Daly," let stand)
+- Hollis out at five behind the loader; the plow's blade up at seven (→ Ch 04 how the thirty-three leave, oldest first, lot empty by eight)
+- Pelkey on the captain's crew; Arlene's hot dogs, "the winter of the ice storm" (low-value texture)
+**Plants paid:** (← from Ch __)
+- ← Ch 01: Denise's "ask me in the morning," paid S2 ("You never did come ask me in the morning." / "I read the tape at four a.m."; no night-one figure)
+- ← Ch 01: locker fourteen's padlock, partial: Ray has the key, does not use it; the locker stays shut until Ch 10
+- ← Ch 01: Linda's 187 card, partial: the story told; the trophy stays open until Ch 10
+- ← Ch 01: Ellen on the stool, "wanted him on the step": the kiss (S4)
+- ← Ch 02: the new key laid on his counter, partial: Ellen's side said ("It was a no to selling." / "The rest of it was a key."). The object stays open for Ch 07, 08, 10
+- ← Ch 02: Ray's key reading ("which answer") stays open: Ray says he had "about decided it was a no" and she corrects only half
+- ← reader-notes Ch 02: why Ellen bought an alley at all, paid in her words (S3)
+- ← bible: Ray has not laughed in six years: he laughs (S3)
+**Numbers stated:** all in words, no numerals. Ten past three (the captain's call); "over by nine" (forecast); twenty to eight (band stalls); ten to nine (plow); five to nine (her order); thirty-three, three times (S1 count, her order, S2 lights out). No car count. A quarter past eleven; eight hundred and change (Denise's 11:15 tape, the night so far; the whole night of about $1,100 stays off page). Half past eleven (lights). "Three strings." Ten pins; the fourth box; lane five. February of 'ninety-eight; a hundred and eighty-seven. Thirty-one years (the ATC career, with "never once let one go by"). Forty people (her visit last winter). Last Saturday in February; all ten lanes. Two weeks (Ray's key, Dec 3 to Dec 17; it is fourteen days). Five (Hollis out), a quarter past six (his call), seven (his arrival, kept), eight (lot empty by). Four a.m. (Ellen read the tape). Two (the 2 a.m. night). Fifteen inches (Ray's face from hers, S3). No other figures. Chapter is 3,296 words (band 2,852 to 3,348). All match the NUMBERS LEDGER, with additions below.
+**Ends on:** Dawn, Friday December 18, in the mouth of the drive. Hollis's plow stops with its blade up and its yellow light on the two of them, the two shovels standing in the snow. Hollis sits in the cab and says nothing through the glass. Every face in the building is in the glass block. Denise stands in the vestibule door, arms folded, and calls down the drive: "Honey." Last line; no reaction after it.
+
+---
+
 ## Plant ledger
 | Plant | Placed Ch | Pays off Ch | Status |
 |---|---|---|---|
@@ -157,7 +221,26 @@
 | Back door propped on cardboard on purpose; latch self-locks | 02 | 04+ | Open |
 | Envelope "R. Gagnon" unopened under the old clutch on the pit bench | 02 | 04 | Open. Pay off Ch 04 |
 | Danny's name on the store deed beside Ray's | 02 | author call (bible) | Open |
-| Ray reads the key as her answer to the offer; which answer unknown | 02 | settle later | Open |
+| Ray reads the key as her answer to the offer; which answer unknown | 02 | settle later | Open (Ch 03: Ray "about decided it was a no"; Ellen: "a no to selling"; his own reading still unresolved) |
+| Denise's "ask me in the morning" | 01 | 03 | Paid Ch 03 (S2; no night-one figure) |
+| Why Ellen bought the alley (Ellen's side) | 01/02 reader-notes | 03 | Paid Ch 03 (S3, "A pin is standing or it's down"); echoes Ch 07, 10 stay open |
+| Ellen's side of the key | 02 | 03 | Paid Ch 03 (S4: "a no to selling" / "the rest of it was a key"); object stays open for 07, 08, 10 |
+| Locker fourteen padlock | 01 | 03 | Partial Ch 03 (Ray has the key, does not use it); locker stays shut until Ch 10 |
+| Linda's 187 card | 01 | 03 | Partial Ch 03 (told in full: Feb 'ninety-eight, lane five, new sweep motor); trophy open until Ch 10 |
+| Captain Dale Hutchins named; the 3:10 call | 03 | 07, 08, 10 | Open |
+| "Nobody ever charged me for a snowstorm" / "You charged them for a snowstorm" / "The snowstorm was free" | 03 | 07, 08, 10; 09 s4 | Open |
+| Power cut stops the boiler | 03 | 09 s4 | Open |
+| The 2 a.m. night (Ellen wrote it up herself; "when I sound calm, I don't take my own word for it") | 03 | 07 (his cruel line), 08 (he names it) | Open |
+| "Separation," defined once in plain words | 03 | 05, 07 | Open |
+| Why Ellen bought the alley (as told) | 03 | 07 (the hood), 10 | Open |
+| Ellen's third item, "It isn't in order yet" | 03 | author call | Open (no chapter assigned) |
+| Ray's ask: the Memorial stays; "It stays. Unless the numbers say otherwise." He hears only "It stays." | 03 | 05, 06, 07, 08 | Open |
+| *No readback*, in thought, once | 03 | 07 (spoken, once) | Open |
+| Denise wants the Memorial cup | 03 | 10 | Open |
+| First kiss (dawn Dec 18, under the dead K; Hollis, glass-block faces, Denise at the door) | 03 | 04, the Bench, the pool | Open |
+| Ray says "Ellen" for the first time | 03 | running; 10 ("Mrs. Daly") | Open |
+| Hollis out at five behind the loader; plow blade up at seven | 03 | 04 (how the thirty-three leave) | Open |
+| Envelope "R. Gagnon" still sealed; not mentioned in Ch 03 | 02 | 04 | Open. Pay off Ch 04 |
 
 ## Numbers ledger (running; copy from the bible and update as figures change)
 | Figure | Value | Ch |
@@ -187,6 +270,15 @@
 | Thirty thousand | the bank's bar: winter clear, every dollar still in the account (Ellen) | 02 |
 | Lucien put the store up | 'seventy-four | 02 |
 | Arlene's listing | two years | 02 |
+| Stranded overnight Dec 17 | thirty-three people besides Ellen (includes Ray, Denise, Hollis, Dale Hutchins). No car count on the page. Supersedes bible "31 people, 31 cars" | 03 |
+| Storm-night take | Denise's 11:15 tape: "eight hundred and change" (night so far). Whole night about $1,100, off page. Any later cite is "eleven hundred," never eight | 03 |
+| Ellen's league-night visit last winter | "forty people" talking (ten teams of four); undated | 03 |
+| Linda's 187 | lane five, February 'ninety-eight, the day Ray put a new sweep motor in five; Ray watched from the pit | 03 |
+| Ray's key | "Two weeks" (Dec 3 to Dec 17) | 03 |
+| Hollis's timeline | stranded 8:50 Thu; out at 5 a.m. behind the town loader; phones at a quarter past six to say seven; arrives about seven, blade up | 03 |
+| Captain's visit | once, ten to nine (8:50); call at ten past three | 03 |
+| Lights out | half past eleven; power returns near dawn Dec 18 | 03 |
+| Ellen's ATC career | thirty-one years (once, with "never once let one go by"; the earlier "thirty-one years" line is dropped from the motif) | 03 |
 
 ## Master continuity flags
 - Denise Lavoie is introduced in Ch 01 on shift from before 6:06 p.m. until ringing out at a quarter to ten, working register and fryer, in a red Kettle Lanes polo washed pink at the shoulders. Do not introduce her or the polo again as new. The "2011" in the commitments block and the beat sheet is NOT on the page; it is still available.
@@ -217,4 +309,21 @@
 - Time: knock about 5:15 p.m. (inferred; not stated on the page, which keeps "a quarter past five" off); league arrives 6:06; PA at half past six; lane 7 dies at seven; PA lane 7 at 7:20; close at 9:45.
 
 - Bible rule 1 (Ellen knows her silence is out of character, and why) is placed in Ch 03 (S3 fact, S4 why). Ch 05 may echo it in one clause at most.
-- Stranded count 33 people besides Ellen, 33 cars; bible "31" lines superseded.
+- Stranded count 33 people besides Ellen; bible "31" lines superseded. UPDATE (Ch 03): the page gives NO car count. Do not cite "thirty-three cars" anywhere (the earlier line in this log and the beat sheet are void on this point).
+
+### Ch 03 flags
+- **The Memorial is now named on the page** (Ray, S3): the league championship, last Saturday in February, all ten lanes, "the way Linda bowled it." Ray's ask is "I'd like it to stay." Denise wants the cup "longer than she'll say" (Ch 10).
+- **The condemnable choice.** Ellen says "It stays. Unless the numbers say otherwise." once, under Denise's strike. Ray did not hear the second half; Ellen heard that he had not, and let it stand ("She had the sentence ready, and she did not say it again."). Later chapters (05, 06, 07, 08) must hold: Ray believes it was unconditional; Ellen knows she let it stand. Neither says it aloud before the Ch 07 confession.
+- **First kiss: done**, dawn Friday Dec 18, under the dead K, Ellen starts it. Witnessed by Hollis (in the cab, saying nothing), the faces in the glass block and Denise in the vestibule door ("Honey."). Ch 04 must open on a town that knows; "neither has said a word about Friday."
+- **The captain (Dale Hutchins)** made one visit, at 8:50. No earlier 8:15 visit exists on the page. He saw Hollis's plow go sideways. He phoned in the cut past the town beach (Pelkey, "drop your wing at the culvert").
+- **Hollis** stranded from 8:50; out at five behind the town loader; phoned at a quarter past six to say seven; up the drive at about seven with the blade up. His plow "off the crown, blade dug in."
+- **Envelope** *R. Gagnon* still sealed, under the old clutch; not mentioned in Ch 03. Ch 04 owns it.
+- **Ray's key reading still open.** He said he had "about decided it was a no"; Ellen said "a no to selling" and "the rest of it was a key." Neither names what the key means beyond that. Settle later.
+- **"No readback"** used once, in thought. Remaining budget: once, spoken (Ch 07). Ellen's gloss is "never once let one go by without hearing it come back."
+- **ATC phrases in Ch 03: 3 of 3 spent**: "sequence" (S1), "Traffic, twelve o'clock, one mile" (S3), *No readback* (S3). "Separation" is defined, not counted. Ch 04 starts clean but keep it low.
+- **Motif counts after Ch 03:** counting the room 2 of 3 (S1, once; the Ch 01 use was the other; one left). "Honey" 2 of 4 (Ch 01 Denise; Ch 03 Denise, final word). Dead K named once (S4 kiss). Knuckle on trophy glass: not used. "Mrs. Daly": not used.
+- **"Noted." is now a button in three chapters** (Ch 01 S-end line 59, Ch 02 line 39, Ch 03 Ellen after "Your hands are warm now"). Retire it as a button: Ch 04 on, it may appear only inside a line, never as the last word of an exchange.
+- **Money:** Denise's 11:15 read is "eight hundred and change" (night so far); the whole night is about $1,100 (ledger, off page). If a later chapter cites the storm-night take, it is eleven hundred, never eight.
+- **Lane five** is Linda's 187 lane and the lane where Hollis put Ellen in Ch 01; the owner's-ball lane. Author to confirm that lane five is intentional.
+- **Ellen's league-night visit last winter** ("forty people talking," undated) is new; Arlene's hot dogs "the winter of the ice storm" (Denise) is new and undated.
+- **Timeline Ch 03:** S1 Thu Dec 17, 8:50 to 9:00 p.m.; S2 11:15 to 11:30; S3 midnight to the small hours (Denise's strike about 1 a.m.); S4 dawn Fri Dec 18, about 7:00. Final is 3,296 words.
