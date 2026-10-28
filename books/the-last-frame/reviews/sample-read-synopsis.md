@@ -1,6 +1,6 @@
 # Sample read: synopsis
 
-**Draft read:** `books/the-last-frame/reviews/sample-synopsis.md` (one-page synopsis of Ch 1–3, v2 rebuild), as it stood 2026-10-27. Nothing else in the book folder was opened.
+**Draft read:** `books/the-last-frame/reviews/sample-synopsis.md`, the rewritten version (v2 rebuild, second synopsis, read 2026-10-27 after the rewrite). This file overwrites my read of the first version. I read it fresh and opened nothing else in the book folder.
 
 **Persona (romance genre map default, narrowed by the orchestrator):** Woman, 59, retired school office manager, reads clean later-in-life romance on KU in bed on her phone, three or four a month. Last month she gave up on two small-town romances, one at the bakery-inheritance chapter and one because nobody had kissed anybody by halfway. She's tired of heroines with no job, towns that could be anywhere, and books that read like somebody worked through a checklist. The last book she paid for was $4.99, and it was the second in a series she already liked.
 
@@ -8,50 +8,48 @@
 
 ## 1. Where I stopped
 
-Finished the synopsis, but I drifted at the end of Chapter 1, around 30%: "Ellen owes $250,000 on March 1. The bank will only lend her that if the winter makes $30,000. If it doesn't, she has to sell, and Ray gets first crack. Every date is taken except March 1, and Ray won't buy it."
+Finished the synopsis.
 
-I read it twice and still couldn't say why she owes a quarter million on a building she bought six hours ago, or why Ray gets first crack. I only kept going because the next line had Ray kneeling at her door.
-
-**Warning: I'd keep reading, but** if the actual chapter puts all those numbers in front of me at closing time, that's where I put the phone down.
+I came closest to drifting at about 20%: "She sold her house to buy the place, and the old owner, Arlene, is carrying the rest. That's $250,000, due March 1. If Ellen can't pay it, Ray has signed to buy the building that same afternoon." Ray's "Nobody's made thirty in this building since 1979" pulled me back. Still, that's four numbers in one doorway argument, and if the chapter reads them out the way the synopsis does, that's where I'd slip.
 
 ## 2. Buy: yes
 
-Yes, as a KU borrow and not a $4.99 purchase. A 58-year-old retired air traffic controller with a man holding the key to her own front door is a book I haven't read already.
+Yes, as a KU borrow. Her putting the key on his counter at two minutes to five and the two of them watching the clock go past five is the moment I'd want to read in full.
 
 ## 3. Pull score per described scene (1–5)
 
 | # | Scene | Pull | What I wanted next |
 |---|---|---|---|
-| 1.1 | Ray knocks while holding her key; won't give it back; she calls the locksmith and it's him | 4 | To see her face when the son says "that's my dad" and to hear what she says to Ray next. |
-| 1.2 | League night goes wrong: pilot-talk heckling, her ball wrecks his lane, lane 7 dies, "not my alley" | 3 | Whether she fixes lane 7 herself to spite him. It's a lot of mishaps in a row, though. |
-| 1.3 | Arlene and the retirement-home room; the betting sheet; the loan terms | 2 | Nothing after the numbers. The betting sheet I wanted to see. The terms I didn't. |
-| 2.1 | Hardware store: she plays him the machine noise, he names the part with his eyes shut, old men call it like a ballgame | 3 | For him to look at her and not the machine even once. |
-| 2.2 | He changes her lock, cuts his own key out, makes the honest offer; daughter calls; "Then I'll see you March first" | 3 | Nothing romantic, and I noticed. A fair offer from a man is still a business scene. The line at the end is good. |
-| 2.3 | Back door left unlocked; she pays him, gives him a key on condition he logs every visit | 2 | Nothing. She makes him fill out paperwork to come in. I wanted her to hand him the key and say nothing. |
-| 3.1 | Nor'easter, 31 bowlers trapped, she runs it like an airport, charges for bowling, the plow crew holds it against her | 3 | To find out whether charging them comes back to bite her. |
-| 3.2 | Power out, the two of them setting pins by hand in the dark; his wife's record, her near-miss with two planes; he asks her to leave the championship alone; "unless the numbers say otherwise" | 4 | For him to hear the "unless." She watches him miss it, and I want the scene where he finds out. |
-| 3.3 | 4 a.m. she writes it down and files it; dawn kiss at the neon sign; plow headlights | 4 | Who's in the plow and what they saw. And to know what she filed. |
+| 1.1 | 5:15 knock, he has her key; doorway argument in the snow; the $250k, March 1, his signed purchase; "Nobody's made thirty in this building since 1979" | 4 | To hear her answer the 1979 line. And why on earth he signed to buy it. |
+| 1.2 | Locksmith's son: "the locksmith is standing in her alley"; ball into his lane; "Nice arc. Wrong lane."; he's looking at her mouth | 4 | For one of them to say something they'd be embarrassed by later. |
+| 1.3 | Betting sheet; every square taken but March 1; Ray won't buy it | 3 | Why he won't. A nice close, but it's a quiet one. |
+| 2.1 | Ray's side: glove pulled off with her teeth; he names the part eyes shut; old men call it like a ballgame | 3 | More of him being in trouble, less of the part. |
+| 2.2 | He changes her lock; her breath on his wrist; honest offer good till five tomorrow; daughter calls; she says no | 3 | The breath on his wrist I wanted more of. The daughter call I skimmed. |
+| 2.3 | Two minutes to five, key on his counter without a word, both watch the clock go past five | 4 | What he says once it's 5:01. I'd turn the page for that. |
+| 3.1 | Storm she was warned about; she owns it, runs it like an airport, charges for bowling; plow crew furious | 3 | Whether the plow boss makes her pay for it. Running the night like an airport is the part I'd skim. |
+| 3.2 | Setting pins by hand in the dark; his wife's record, her two planes; "It stays, unless the numbers say otherwise"; he misses the second half | 4 | For him to find out what he missed. I'm uneasy for him, and I like that. |
+| 3.3 | Dawn, the half-dead neon sign, the kiss, plow headlights | 4 | Who's driving the plow and how fast the town knows. |
 
-Average: 3.1 of 5.
+**Average: 32 / 9 = 3.56.** No scene at 2 or below.
 
 ## 4. Do I care about these two people yet?
 
-Yes for her, not yet for him. She picked this one thing for herself at 58 and I want her to keep it. Ray I only know by his key, his machines and his dead wife, and he only gets interesting to me in the dark behind the lanes in Chapter 3.
+Yes. She's sold her house for the one thing she picked, and she made a real mistake with the storm and owned it. He's a widower who won't bet against her even though he's signed to profit if she fails. I want to know which side of that he's really on.
 
 ## 5. Did anyone make me laugh?
 
-Yes, once: "The locksmith, his son tells her cheerfully, is his father, who is standing in her doorway." The pilot-talk heckling might be funny, but that depends on the actual lines. After that the synopsis has no jokes in it, only mishaps.
+Yes: "Nice arc. Wrong lane." Also the locksmith's son telling her the locksmith is standing in her alley. "Nobody's made thirty in this building since 1979" made me smile too, the way a man you're annoyed with can.
 
 ## 6. Did anyone make me want?
 
-Not until Chapter 3. "She watches him miss the second half" is the first moment I felt anything between them, and then the dawn kiss. Chapters 1 and 2 describe nothing I'd call attraction. He's "a tall man in a hardware-store jacket" and after that it's locks, parts and an offer to buy her out. Two chapters of a clean romance with no look held and no hand that stays is how I lost the last two books.
+Yes. "He's taller than she'd planned for, and to her annoyance she'd like him to stay right there and keep arguing." And "she catches him looking at her mouth." The one that got me most was the clock going past five with neither of them saying anything.
 
 ## 7. The three most boring stretches
 
-1. **~30% (end of Ch 1):** "Ellen owes $250,000 on March 1. The bank will only lend her that if the winter makes $30,000. If it doesn't, she has to sell, and Ray gets first crack." I skimmed it. It reads like the closing statement on my condo.
-2. **~60% (end of Ch 2):** "The next morning she makes him take her money and gives him a key of his own, on one condition: he writes down every visit." A visitor log. I've worked in an office. I don't read romance to see a sign-in sheet.
-3. **~85% (Ch 3):** "At four in the morning she writes down what she did, and files it." More paperwork, and it lands right between the best scene and the kiss. I can tell it matters, and I still don't want to watch her file something.
+1. **~20% (Ch 1, the doorway):** "She sold her house to buy the place, and the old owner, Arlene, is carrying the rest. That's $250,000, due March 1. If Ellen can't pay it, Ray has signed to buy the building that same afternoon." That's still the paperwork of the book, even with him saying it.
+2. **~50% (Ch 2, the store):** "He names the part with his eyes shut while the old men by the coffee pot call it like a ballgame." Machine talk. I'd stay for the glove and skim the part.
+3. **~75% (Ch 3, the storm):** "she runs the night like a shutdown at a busy airport and, to the plow crew's lasting fury, charges for bowling." If this is a page of who sleeps where, I skim it until the power goes out.
 
 ## 8. What I think is going on
 
-Ellen is going to break the championship promise. That "unless the numbers say otherwise" is her way out, and the winter will come up short of $30,000 so she'll take it. Ray will find out from the visit log or from whatever she filed at 4 a.m. (an incident report, a note to herself, an air-traffic-style record of the promise), and that's the fight. I don't think Ray wants the alley for himself. He wants it kept the way his wife left it, and he won't bet against Ellen because he's quietly on her side. I'd guess he's the one who ends up making the $30,000 happen, or turning down his first crack. Arlene's room depending on March 1 means Ellen failing would hurt somebody she likes, so walking away is never really on the table. The people in the plow truck will have the town talking by breakfast.
+Ray's signed purchase is the secret. I think he signed it to protect Arlene, or the alley, or his wife's championship, rather than to take it from anybody. Ellen will find out the wrong way and think he was waiting for her to fail. He won't take the March 1 square because he doesn't want to win against her. The "unless the numbers say otherwise" is the bomb: she'll come up short of thirty thousand, change his wife's championship to make the money, and that's the break. The plow boss she ignored and then charged is going to be trouble, and his are the headlights at dawn, so the town will know about the kiss by breakfast and the betting sheet will move. I'd bet the 1979 winter is tied to Ray's wife.
