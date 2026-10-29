@@ -109,3 +109,8 @@ Ten agents (market-analyst, niche-spotter, comp-reader, story-architect, bible-b
   - Payoffs for side characters belong where those characters already are. Moving them to the final set piece produces a curtain call.
   - In a closing chapter, cap spoken callbacks at about five, each doing work in its own scene. Echoes carried by action do not count. (Pair: every scene still gets one thing the reader did not predict.)
 - Tournament lead choice, five tournaments in: "couple in the room" wins when the beats keep the leads apart (Ch 02, 04) and loses when they are already together (Ch 06, 09); "pace" wins when the scenes lack a clock (Ch 06, 08) and loses when the clock is on the page (Ch 09); giving the extra words to the scene the cold reader said was missing something wins (Ch 09, the daughter). The architect now states, in the beat sheet, why each lead was chosen against these beats and which were passed over.
+
+## Oct 29, 2026 — Ten Days Out Ch 06–07: fix rounds that move a scene's day
+
+- When a fix round moves a scene to another day or merges two scenes, the orchestrator checks every dated line in the bible and the continuity log that points at it (notebook entries, call counts, tide times) in the same round. Ch 06 moved Quist's call from Tuesday to Wednesday and the bible's notebook line still said "D5 pm"; the Ch 07 beat sheet caught it.
+- The paired positive rule: every continuity-log chapter entry carries a "Spent words" line (words and phrases that have reached their caps), so the next beat sheet starts from a list instead of a hand recount.
