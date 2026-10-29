@@ -291,6 +291,59 @@
 
 ---
 
+## Chapter 06 — Walking Ice
+*Oct 29. `final.md` 2,803 words: tournament winner v2 ("pressure and pace": 11–4–3 over its siblings, 5–1 over the first finished run, archived in `chapters/chapter-06/pre-tournament/`) through the pipeline and cold-read triage (cold reader 5/10, "I'd keep reading, but…"; first run was 4/10). Ray's POV.*
+
+**What happened:** s1, Sat Jan 9, 6:50–7:10 a.m., Hollis's bob-house (stencil HOLLIS PIKE over his address; orange door; heater; the flags all down): Hollis's question twice ("You courting her, or just fixing her machines a lot?"; Ray: "I'm on call… she pays by check the same night"). Ellen walks out from the access in a navy vest over a parka, baits the near tip-up with a smelt bare-gloved (someone told her how once), gloves wet to the wrist; Hollis drilled eleven inches of black ice Thursday and every hundred yards out; she asked black or white; she said seven and that she'd like Ray there ("You might've told me." / "You didn't ask."). License check: bought at ten past four that morning ("I was up"). Hollis goes to check his flags ("They're all down." / "Then it won't take long."). Her three printed pages: the last Saturday in February, an Open on derby weekend all day, any team of four that pays the entry, Linda's Memorial becomes its final on all ten lanes open to anyone, Linda's trophy the prize, the league's teams bowl for it with everyone; page two is what happens if the ice goes (Weather, numbered; the first item brings the derby crowd indoors; Ray sees the top of it). "Without the Open, I do not make my number." / "Without Linda's name, you mean." / "The Open needs a final." The fight: "You gave me your word. In the pit. Behind five. I told the whole league so. Verna wrote it down. Dale's crew paid on it." / "I know what is in the minutes." / "Then you know what I vouched for, Mrs. Daly." He takes her hand off the page by the wrist, holds her wet fingers between both hands a second longer than a glove needed, works his right glove onto her finger by finger, then "Other hand."; in his gloves she cannot turn the page. "The house sets the lanes and the hours of championship weekend. Verna read it to the room." / "I heard her." / "I am inside the bylaws." / "Then you know what you said." / "I said, 'It stays. Unless the numbers say otherwise.'" He is back behind five: Denise's crash, the whoop, her voice fifteen inches off saying more that he took for part of the crash. "I never heard that." Silence. "Did you know I didn't hear it?" The ice booms; her hands crease the page; "I said it." He goes out bare-handed with his gloves on her, to Hollis at a down flag: "Your people can come in off the ice and watch the Memorial for nothing." / "Our people come in off the ice to bowl. They'll pay to bowl in a final." / "Plan if the ice goes?" / "Page two." s2, Mon Jan 18, 6:01 a.m., the store: she returns his gloves folded one into the other ("Thank you for the loan"); "You have been called to my building four times since the bob-house. Lane three, twice. Nine's ball return. The belt on six. You left the invoices with Denise and went out the back." / "Invoices get paid at the counter." / "The chair is where you left it." She tacks the Open notice on his board (the Linda Gagnon Memorial as the final, on all ten lanes; he has seen the name in Verna's hand six years and on the framed card beside her 187, never on a flyer; "She had spelled it right"). "The derby committee met Saturday. Hollis moved an Open on the derby's Saturday, at Kettle Lanes. It carried." She starts "In the bob-house you asked me whether I knew—" and he counts the drawer aloud over her ("One… Two… Three. Four. Five. Six… Seven. Eight."), "You answered me." "Mr. Gagnon. I would like—"; the coffee maker quits; the Bench comes in; Normie's call; she looks at the back-room door and does not ask for it; "There is a notice on your board"; she goes; Normie reads it aloud (cash refunds if weather stops play; the final on all ten lanes, "the Linda Gagnon—"). s3, Tue Jan 26, 6:10 p.m., Kettle Lanes before league: Denise talking low and fast to Ellen at the register, Ellen shakes her head once, Denise turns her back (Denise nearly tells; doesn't). The second chair hooked out, empty, through the office door. Dale's legal pad (the Highway Department, the Legion, top line empty): "Your notice says any team that pays the entry can bowl for Linda's cup. My crew paid for that cup in September… They can't pay for it twice. Gil Arsenault'll take us at Pine Ridge Lanes for the same lineage. Tuesdays." / "Go before the half and you forfeit." / "Half's Saturday. We go the Tuesday after." / "Halsey Falls is forty minutes on the winter road, Dale, after a twelve-hour shift." / "You put her word in Verna's book." / "I know what I put in it." Ray lays the pen across the pad below the empty line, counts cash onto his envelope: "The envelope is tonight's lineage for my team. The cash is every Tuesday after tonight, up to the Memorial, paid ahead. Gagnon and Son stays in your book through Linda's night." Ellen counts both in, writes the receipt; it stays between them a second; he creases it and pockets it behind the Worcester page. Dale: "That's your answer." / "That's my team's." The Legion's captain signs the pad on his knee without reading it. s4, Mon Feb 1, 4:50 p.m., the credit union: the teller ("Are you sure, Mr. Gagnon? It's nearly all of it." / "I'm sure."); Danny behind him in line with the deposit bag; a woman in a Sportsmen's Club jacket with coin rolls. Danny: "That's your down payment on the alley." / "It was." / "If she takes it, you can't buy it March first." / "That's right." / "What's it for, then?" / "So she can give the league its Saturday back, is all." / "Store's got a line here… Take it out of that, and keep yours." / "I asked the store once." / "Is this you buying in, or getting out of the way? Because those are different invoices." No answer. "We lock up at five." He seals the check in the store envelope, holds the chained pen over it to write her name until the bolt turns, lets it go. The envelope, blank, inside his jacket where his own checkbook lives; zipper up.
+
+**What changed:**
+- Ray has heard the second half ("Unless the numbers say otherwise") from Ellen, on Jan 9, and asked once whether she knew he had not heard it; her answer was "I said it." He does not know she watched him miss it. He has not corrected Verna's minutes.
+- Ray no longer sits in the second chair after close (from Jan 9). He takes every call (four by Jan 18), leaves invoices with Denise, goes out the back. The chair stands hooked out and empty.
+- The derby committee carried Hollis's motion: an Open on the derby's Saturday at Kettle Lanes (no name voted; Ch 08's "We voted on an Open, not on a name"). The Open notice is on Gagnon's board (and, by implication, the alley's): any team of four; cash refunds if weather stops play; the final on all ten lanes, the Linda Gagnon Memorial.
+- Dale's crew and the Legion are leaving for Pine Ridge Lanes (Gil Arsenault, Halsey Falls, same lineage, Tuesdays) the Tuesday after the half; the Legion's captain signed Dale's pad. Reason on the page: the Open's entry means paying for Linda's cup twice.
+- Ray's team (Gagnon and Son) is paid through the Memorial in cash, receipt in his shirt pocket behind the Worcester page. Ray stays in her book through Linda's night.
+- Ray drew a cashier's check on Feb 1 at the credit union, nearly all of his savings: his down payment on the alley. If she takes it he cannot buy March first. Sealed in a blank store envelope inside his jacket. Figure off the page. Danny knows; the teller knows; the store's line of credit was offered and refused ("I asked the store once").
+- Denise nearly told Ray (Jan 26) and did not; Ellen shook her head once. Her reason is on the page as action.
+- Ellen's gloves (two winters old, deerskin per the writer; soaked Jan 9) were replaced; Ray's gloves were on her Jan 9–18 and are back in his pocket.
+**Who knows what:**
+- Ray: the plan (Open, Memorial as final, Linda's trophy, page two brings the derby crowd indoors); the second half of her sentence, exact; that she bought a license at 4:10 a.m.; that she read every ledger; nothing of the four-thousand gap; that Dale's crew is going; that his check ends his chance to buy.
+- Ellen: Ray never heard the second half and asked whether she knew; she answered "I said it" (a lie by omission); he has stopped sitting in the chair; he paid his team through the Memorial; nothing of the cashier's check.
+- Hollis: Ray's hands bare and his gloves on her; "Page two"; the committee's vote.
+- Danny: the check, what it is for, what it costs; the store's line offered and refused; "buying in, or getting out of the way?" unanswered.
+- Denise: still holds the second half; tried once to speak to Ellen about it and was shaken off.
+- Dale and the Legion: Ray paid his team ahead in cash; Ray will not sign; "I know what I put in it."
+- The teller and a Sportsmen's Club woman: "nearly all of it."
+**Objects / details introduced:** the bob-house (stencil, orange door, heater guard, cooler, upturned pail, tip-ups, smelt bucket); her three printed pages and page two ("Weather"); Ray's gloves (leather, dark); her license; the Open flyer on Gagnon's board (cash refunds if weather stops play); Dale's legal pad and a town-garage pen with the seal worn off; the cashier's check; the store envelope (Gagnon & Son, blank); the chained ballpoint with the bead chain; the teller's keys.
+**Plants placed:** (→ pays off Ch __)
+- "Did you know I didn't hear it?" / "I said it." (→ Ch 07, Ch 08: the lie comes due; "I watched you miss it" is the sentence she owes him)
+- The cashier's check, blank envelope, inside his jacket (→ Ch 07: the hood of his truck in her lot; "then I keep my commitment")
+- "If she takes it, you can't buy it March first." (→ Ch 07, Ch 08)
+- "Is this you buying in, or getting out of the way?" unanswered (→ Ch 08 Arlene; Ch 10)
+- Hollis's motion: an Open on the derby's Saturday at Kettle Lanes, no name (→ Ch 08 "We voted on an Open, not on a name")
+- Cash refunds if weather stops play; page two brings the derby crowd indoors (→ Ch 09 storm day)
+- Dale's crew and the Legion to Pine Ridge the Tuesday after the half; Gil Arsenault (→ Ch 07 s1 the side match at Pine Ridge; Ch 08)
+- "Gagnon and Son stays in your book through Linda's night" (→ Ch 09/10)
+- The second chair empty (→ Ch 07+ until he sits again)
+- Ray has not corrected Verna's minutes (→ Ch 07 "That's mine")
+- Ray's gloves on her, given and returned (→ Ch 08 s3 he wants to give them again and doesn't)
+- Danny's "different invoices" (→ Ch 10)
+- The receipt behind the Worcester page (→ Ch 08 echo)
+**Plants paid:** (← from Ch __)
+- ← Ch 03: "It stays. Unless the numbers say otherwise," half heard: the second half reaches Ray
+- ← Ch 05: "I'm walking out to your bob-house Saturday": she did
+- ← Ch 05: the four thousand / the Open with Linda's Memorial as its final: told to Ray
+- ← Ch 05: the house-sets-the-weekend bylaw: Ellen cites it ("I am inside the bylaws")
+- ← Ch 05: Verna's minutes, "I'll hold her to it": "Dale's crew paid on it"
+- ← Ch 04: the two checkbooks: his own, never the store's ("I asked the store once")
+- ← Ch 04: Danny reads everything: "That's your down payment on the alley"
+- ← Ch 04: "the winter they broke the ball return on four" (what-broke stock) used once
+- ← Ch 05: Denise's "Who'd you say that to?": she nearly speaks, and doesn't
+**Numbers stated:** eleven inches (black ice); ten past four (license); a minute to seven / seven; twenty captains; four calls; six years (Verna's hand); a hundred and eighty-seven; a minute past six; nine days; ten past six / twenty past / twenty minutes to league; forty minutes (Halsey Falls); twelve-hour shift; ten to five; five (lock-up); the last Saturday in February; March first. No money figure ("nearly all of it").
+**Ends on:** "He put the envelope, blank, inside his jacket, in the pocket where his own checkbook lived, and pulled the zipper up over it."
+**Word count:** final.md 2,803. Target 2,950.
+
+---
+
 ## Plant ledger
 | Plant | Placed Ch | Pays off Ch | Status |
 |---|---|---|---|
@@ -418,6 +471,16 @@
 - Ray's motor comparisons were a tic at five per chapter; now two. Cap: two per chapter.
 - S4 lost its Linda beat in the rewrite ("Nobody had put a thing on this counter for him without his asking since Linda" was cut as a gloss). Ch 04 or later may carry a Linda beat.
 - "owing him, which sat on her about as well as a wet coat" (S3) reads Ellen's insides from Ray's POV. Allowed once; not a habit.
+
+### Ch 06 flags
+- **The lie is on the page:** "Did you know I didn't hear it?" / "I said it." Ray does not know she watched him miss it. Ch 07–08 must pay it; the sentence she owes him is "I watched you miss it" (cold reader's hook).
+- **How Ray knows his money helps her:** nothing on the page tells Ray how cash from his savings moves the bank's bar. Ch 07's hood scene needs a source first (Judy, the Concord officer, or Ellen's own words), or the check must be offered without the mechanic.
+- **Dale's reason has consequences:** league teams pay the Open entry to bowl in the Memorial final. Ch 08's split of the Open from the Memorial (Ray's condition: the Memorial at 2 p.m. is the league's; the Open gets morning and evening for a new cup) is what removes the double payment. Pine Ridge's lineage is the same as Kettle's.
+- **Page two:** the first item brings the derby crowd indoors if the ice goes. Ch 09's storm day must match.
+- **Motif counts after Ch 06:** "unless the numbers say otherwise" 3 of 6; "Mrs. Daly" 1 (Ch 06); "forty minutes" 1 of 1 (spent); "honey" 3 of 4 (one left, Ch 07); machines sulking 2 of 3; story about some other fella 1 of 3; motor comparisons 2 (trade similes); gloves off: Ray's gloves on her is a new motif, cap 2 more uses.
+- **Scene openings:** s2 and s3 still open on clocks. From Ch 07 on, at most one scene per chapter opens on a weekday/date/clock; the rest open on hands.
+- **Ellen's contractions:** none in Ch 06 (she is formal with Ray after the sign). Her next contraction to him is a beat.
+- **Timeline Ch 06:** s1 Sat Jan 9 6:50–7:10 a.m.; s2 Mon Jan 18 6:01 a.m.; s3 Tue Jan 26 6:10–6:20 p.m. (the half ends Sat Jan 30); s4 Mon Feb 1 4:50–5:00 p.m. Final 2,803 words.
 
 ### Ch 05 flags
 - **Motif counts after Ch 05:** "Scale of one to ten" 1 of 3; "separation" 1 of 5 ("It is separation"); "unless the numbers say otherwise" 2 of 6 (Ch 03, Ch 05); "Mrs. Daly" 1 (Ray at the meeting); "honey" 0 here (2 of 4 used); "no readback" 1 of 2 used (Ch 03 thought; one spoken left, Ch 07); kiss count 2 of 3. Ellen's list collapsing at a romantic beat: retired as a device (Ch 01, Ch 03; Ch 05 now breaks her clock instead). First/Second/Third lists: one per chapter at most from here.
