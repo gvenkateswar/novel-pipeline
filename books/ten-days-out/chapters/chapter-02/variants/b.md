@@ -36,7 +36,7 @@ She looked once at the subpoena under the barometer.
 
 "Then tonight I want one way in from the land, a door that locks, and two people awake behind it, one of whom is me." He didn't say where. He stood by the stove with his hands open and let her get there.
 
-She looked down at the *North Reach* in the slip, white along the rails, with the one road down to her from the shore and Ned aboard with the coffee on and the heater going. Then she looked round the kitchen, at her father's chair and his clock and the door it had taken the marshal three tries to open quietly.
+She looked down at the *North Reach* in the slip, white along the rails, with the one road down to the boat from the shore and Ned aboard with the coffee on and the heater going. Then she looked round the kitchen, at her father's chair and his clock and the door it had taken the marshal three tries to open quietly.
 
 "Boat."
 
@@ -58,7 +58,7 @@ Tess wrote it in ballpoint on the back of her left hand, *CALLOWAY — BOAT*, un
 
 "Dane." She wrote that too. "Like the dog."
 
-"Like the dog," Dane agreed, with great courtesy.
+"Like the dog," Dane agreed.
 
 Tess dug in her red vest for the pen cap, and a fold of bills came up with it, hundreds on the outside. It was back in the pocket before the cap was on. Beth saw it. So did Dane.
 
@@ -70,13 +70,13 @@ Behind her, out on the visitors' mooring, a dragger's deck lights came on stem t
 
 "In for the weather."
 
-Tess didn't turn to look. Up the slip the bridge groaned, and the near tower gave a little, a lean you could see against the last gray in the sky.
+Up the slip the bridge groaned, and the near tower gave a little, a lean you could see against the last gray in the sky.
 
 "Ms. Marr." Dane said it as politely as he'd said anything all day. "I'd be grateful if you'd run the rest of your roll call from the store, because that tower's leaning toward where you're standing, and I'd like to be wrong about it from a distance."
 
 Tess looked at the tower and then at him, pricing both. Then she went up the pier quick with the inked hand held out to dry, and a minute later the store bell rang faintly down the wind.
 
-Beth doubled the bow lines at dusk and again in full dark, by her own hands, with the tide coming in on top of the storm. Dane had asked her twice to come in. When she didn't, he stayed a stride behind her, down the one lane of steel between the two trucks chained there for the two o'clock that never ran.
+Beth doubled the bow lines at dusk and again in full dark, with the tide coming in on top of the storm. Dane had asked her twice to come in. When she didn't, he stayed a stride behind her, down the one lane of steel between the two trucks chained there for the two o'clock that never ran.
 
 She had the spare line in her fist when something above them screamed.
 
@@ -102,7 +102,7 @@ Then she was up. The boat had to come off the slip before that wreck ground thro
 
 He took them the other way, and the line came taut between the boat and the stone and held. Ned backed the *North Reach* off with the bridge scraping down her bow and laid her alongside the pier as if it were a Tuesday in June.
 
-The power went in the same surge. The lights along the Harbor Road went out together, and the harbor went black. Out on the visitors' mooring the dragger didn't blink.
+The power went in the same surge. The lights along the Harbor Road went out together. Out on the visitors' mooring the dragger didn't blink.
 
 Ned came down the outside ladder with a flashlight and went forward, and came back wet to the shins.
 
@@ -112,19 +112,13 @@ Dane was getting up off one knee. "Does it do that a lot?"
 
 "Just the once."
 
-"When does it run again?"
-
-"She," Beth said.
-
-"When does she run again?"
-
 "She's not carrying anybody till somebody from the Coast Guard has his hand on that crack. I'll call it in tonight, by the book." Ned watched the snow come through his light. "Ten days, if the state gets a barge out."
 
 "At least she's steel."
 
 "Steel doesn't burn," Ned said. "Everything in it does."
 
-He went aft with the light, and they went with him. At the stern the deck ran out low and open to the black water, with nothing across it but a chain. A sea slopped in round their boots and drained away.
+Ned took them aft with the light. At the stern the deck ran out low and open to the black water, with nothing across it but a chain. A sea slopped in round their boots and drained away.
 
 Dane looked at the chain. "This boat's got a hole in the front and no back door. Anyone with a skiff."
 
