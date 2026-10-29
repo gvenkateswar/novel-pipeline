@@ -1,4 +1,4 @@
-# Audit — the-last-frame (chapters 01–07, 21,545 words)
+# Audit — the-last-frame (chapters 01–07, 21,465 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -142,7 +142,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 04 | 3,119 | 19.3 | 16.0 | 15% | 0.0 | 0.3 | 1.0 | 3 | mean |
 | 05 | 3,126 | 20.3 | 16.3 | 16% | 0.0 | 0.3 | 0.0 | 2 | mean short |
 | 06 | 2,792 | 14.9 | 10.5 | 17% | 0.0 | 0.4 | 0.7 | 2 | short |
-| 07 | 2,970 | 18.6 | 14.9 | 16% | 0.0 | 0.3 | 0.0 | 3 | mean short |
+| 07 | 2,890 | 18.5 | 14.8 | 15% | 0.0 | 0.3 | 0.0 | 3 | mean |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -157,7 +157,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 - quiet: 5 (0.2/1k)
 - humm?(ing|ed)?: 6 (0.3/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 47 (2.2/1k)
+- still(ness)?: 48 (2.2/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 0 (0.0/1k)
@@ -187,7 +187,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | em dashes | 0 | 0 | 0 | 1 | 0 | 3 | 4 | 8 | 0.4 | 2.0/1k |  |
 | semicolons | 3 | 0 | 1 | 0 | 1 | 0 | 0 | 5 | 0.2 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 2 | 0.1 | 1.0/1k |  |
-| one-sentence paragraph | 6 | 23 | 21 | 19 | 13 | 29 | 12 | 123 | 5.7 | report |  |
+| one-sentence paragraph | 6 | 23 | 21 | 19 | 13 | 29 | 11 | 122 | 5.7 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 

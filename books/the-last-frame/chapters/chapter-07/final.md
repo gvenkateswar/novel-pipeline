@@ -18,7 +18,7 @@ A cashier's check from the credit union, bought with his savings, her name and t
 
 "Mr. Gagnon—"
 
-"I asked the Concord bank how a bank counts a winter like yours," he said. "Same people that wrote my commitment on this building, so they had the building's figures to hand and didn't mind saying." He looked at her hand on the hood. "You'll have the sum done before I'm through the sentence. What the alley makes stays in the alley, and this goes on Arlene's note the day you close, and every eight dollars on the note takes a dollar off what they need you to make."
+"I asked the Concord bank how a bank counts a winter like yours," he said. He looked at her hand on the hood. "You'll have the sum done before I'm through the sentence. Every eight dollars of this that goes on Arlene's note the day you close takes a dollar off what they need you to make."
 
 She had it before he reached "make." Six thousand.
 
@@ -42,6 +42,8 @@ Her voice, when she used it, came out level and courteous and pitched to carry t
 
 "If I take it I'll never know which of us carried it."
 
+It was true, and it was the sentence she could say. The item under it was her word, status broken, unreported.
+
 Ray took his hand off the check. He did not argue it. He folded the check once, along the crease the envelope had given it, and slid it back into the blank envelope and put the envelope inside his jacket. Across the lot Dale's headlights were still on them.
 
 "Then I keep my commitment."
@@ -52,7 +54,7 @@ Dale Hutchins's hand flattened a folded sheet of legal paper on Verna's open bin
 
 Every lane was lit, and the rest of the Tuesday division sat down the length of the settees changing their shoes. At the end of the snack bar the flattop stood scraped clean and cold, ticking now and then as the building's heat worked on it. Nobody had ordered a burger. The Highway crew stood at the end of the settees with their coats on and their bowling bags in their hands, and the Legion stood behind them, and the Legion's captain looked at the floor. Verna sat at the end of the counter with her pen uncapped and looked at the hand on her binder until Dale took it away.
 
-"The secretary has received written notice from the Highway Department and from the American Legion," Verna said, in the voice she kept for the minutes, "given after the half, which closed on Saturday, the one point in a season when a team may leave this league without forfeit."
+"The secretary has received written notice from the Highway Department and from the American Legion," Verna said, in the voice she kept for the minutes, "given after the half, and so without forfeit."
 
 "Gil's holding lanes for us in Halsey Falls at half past seven," Dale said, to Verna. "Before we go, read them January fifth."
 
@@ -110,7 +112,7 @@ The Highway crew went out through the vestibule with their bags, and the Legion 
 
 Denise kept her eyes on the register and her voice down. "Their lanes stay lit either way, honey, the lights don't know who left, so what you're out is whatever those two teams would've put in that drawer between now and the Memorial, and do I know what that comes to? I do not, and you do, so don't you say it."
 
-Ellen did not answer it.
+"I still make the number," Ellen said. "The Open carries it, and nothing else does."
 
 At half past six she pulled the gooseneck down and keyed the PA. The hum came first, as it always did, and then her voice went out over the building level and warm, with every word in its slot.
 
@@ -120,9 +122,9 @@ Down at six Ray stood with his back to the counter and the ball against his ches
 
 \* \* \*
 
-Ellen threw the lane toggles off from ten down, one at a time, under the tape where she had printed the numbers on the first of December. The lanes went dark from the far end of the building toward the counter. Ten went, and nine. Ray stood on the customer side of the counter with his jacket zipped. He had come to it when his team went home, and stayed through the last boxes on two and three and the snack bar's close and the fryer basket hung up to drain, and he had not taken a stool or gone out the back.
+Ellen ran her hand down the lane toggles, ten to one, under the tape where she had printed the numbers on the first of December, and the lanes went dark from the far end of the building toward the counter. Ray stood on the customer side of the counter with his jacket zipped. He had come to it when his team went home, and stayed through the last boxes on two and three and the snack bar's close and the fryer basket hung up to drain, and he had not taken a stool or gone out the back.
 
-The PA was still live from the last call, and the gooseneck's hum ran under every click of the toggles. Through the glass block a pair of headlights sat low and steady in the lot, where Denise's car was idling. Eight, seven, six. She threw the rest, down to one, and the last lane went out, and the light over the snack bar was what was left of it.
+The PA was still live from the last call, and the gooseneck's hum ran on after the clatter of the toggles. Through the glass block a pair of headlights sat low and steady in the lot, where Denise's car was idling. The light over the snack bar was what was left.
 
 Ray reached across the counter and switched off the PA with one finger, and in the place where the hum had been the fryer started up its ticking behind the snack bar as it cooled.
 
@@ -136,17 +138,17 @@ The word went out into the dark lanes, and nothing came back off them. He waited
 
 He gave her nothing to that, and she began.
 
-"First. An Open without Linda's name would have cleared. I put her name on it for room."
+"First. Linda's name was for room."
 
 Nothing moved in his face.
 
-"Second. In the bob-house you asked me straight. I gave you a true sentence because a true sentence would hold."
+"Second. A true sentence would hold."
 
 Under the office the boiler came on, and the floor passed it up through the soles of her shoes.
 
 "New Year's too?"
 
-"Third. Every error I have made in my life, I wrote up before the shift was over. This one would have cost me you."
+"Third. This one would have cost me you."
 
 Ray waited for a fourth item. His hands lay flat on the worn front edge of the counter, both of them, still, and she had seen them stop once before, in the pit, while she told him.
 
