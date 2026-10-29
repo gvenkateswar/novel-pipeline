@@ -143,3 +143,25 @@ Brief: `reviews/revision-brief.md`. Prose-writer, targeted. About +185 words (3,
 - §2.11 (s5): the shop's man set a new transformer for the K in the cabinet on Friday. Ray fits the letter "with the disconnect open on the pole below him and the shop's sheet in his jacket pocket, which Ellen had read twice." The old K "had gone dark the winter Danny got his license, on a transformer of its own, so the rest of the sign had burned on without it." This restores the sheet line the cold-read triage (item 8) cut, because World rule 4 requires it.
 - §3 ring (s5): "His ring hung at his belt with a gap in it" → "His ring lay in his open hand with a gap in it".
 - Figures in Ch 10 are now three: twenty-eight thousand nine hundred, eleven hundred (the gap) and eighty-eight hundred. The brief allows the extra figures here. "Twenty-eight thousand nine hundred" is 1 of its cap of 2.
+
+## Dialogue doctor, revision round 1 (Oct 29)
+
+Edited final.md in place, prose only. Word count is an estimate (no shell in this session): 3,591 → about 3,440 (net −151; ceiling 3,456). The orchestrator's `wc -w` governs. Kate's call, the iron step and the last scene are untouched.
+
+- s2 locker: cut "The Highway crew came in off the night's plowing with their eyes red, Dale Hutchins among them." (Dale is introduced again at the settees; −17).
+- s2 locker: "She finished… Then she set down her pen." → "…and set down her pen."; "on the counter between them" → "on the counter"; "She looked at it a while, and picked it up, and came round…" → "She picked it up and came round…" (gaze cut); Denise's cloth sentence reordered (−12).
+- s2 padlock: cut "and it was not going to start for hers" and "She set her wrist and tried again."; "his hand over hers on the key, and it went under…" is one sentence. "Without its own key in it" is kept (−18).
+- s2 locker contents: one sentence with the bag, shoes, ball and sheet; cut "where she had left it", "Ellen read any paper in her building", "folded it once" and "without a word". Linda's sheet is now one *and*-chain in Ray's register; "Then he lifted" → "He lifted" (−31).
+- s2 gooseneck: "When he passed the counter with Linda's ball, Ellen had the gooseneck bent across to him. He shifted the ball to his hip and leaned to it." The action still cues his PA line (−8).
+- s2: "Denise, by the case, said it" → "Denise said it"; Dale's "looked at Ray a while. Then he" cut (gaze), so he just unzips and sits back to watch (−9).
+- s2 (Issue 12): the last box is three balls: "Linda's ball took the middle out of the rack, came round and took most of the rest, and on the third ball two pins stayed standing at the back." Denise's winning ball is unchanged; "and their bowlers along the rail" cut (+3 net).
+- s2: "with a folded program" cut (Arlene's pocketbook is gone too, so there is no collision); Gil's "come over from Halsey Falls for Linda's day" cut (−12).
+- s4 bank call (five voices, each cued): Ellen "said, from a little way off the phone"; Judy "Heels came across… chair creaked round" and "The cellophane stopped"; Ray "said to the Bench, low"; Ellen's new line "Ellen's chair scraped."; Danny "Danny didn't open the envelope"; the end stool "found his voice as the bell went". Cut "and the drive-up tube came down with a thunk" (−9).
+- s4 (Issue 6): Judy, "your release of it was never acknowledged" → "was never signed before a notary" (+3).
+- s4 (Issue 5): after "He was already moving. The Pines held her room…", new paragraph: "Ellen's chair scraped. 'I read that line in February and let it go. That one is mine.'" Ray answers by moving: the envelope goes to Danny next (+17).
+- s4 walk: "At the pharmacy a van stood at the side door taking on boxes marked for THE PINES, with Arlene on the sidewalk in her good coat watching each one go." (barber's, green-ledger hand and pocketbook cut; −23). Arlene's "She looked up the hill at the bank." cut (gaze), so "So am I." runs into "You two done sitting in cars?" (−8).
+- s4 bank: "His own boots went across the marble this time. In Judy's glass office Ellen was in one chair." (drive-up tube, lake trout and bowl cut; −20).
+- s4 figures (Issue 7): there are three, each said once. Ellen's second is now a full sentence in her register: "That is eleven hundred short of thirty." Judy keeps "Eighty-eight hundred…" (+2).
+- s4: "called the wire room and gave it to them, and waited" → "called the wire room, and waited"; "past her, through the glass and the lobby's front window" → "past her through the lobby's front window" (−9).
+- Tag-strip test: pass. On the bank call Judy speaks in criteria, Ellen in full stops with ownership in the first person ("That one is mine."), Ray in a low aside to the Bench, Danny in inventory, and the end stool in play-by-play.
+- Not touched (outside this pass, for the orchestrator): commitments Issue 1, the house rack "between lanes four and five" (l.117 before this pass), which should be "five and six"; Issue 9, "His hand went flat on the counter".
