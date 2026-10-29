@@ -33,3 +33,17 @@ Flags for the orchestrator (no change made):
 - All keep-exactly lines intact: yellow/red tag speech, restroom pair, "walked you home from every dance", "Hand me the milk", "No. My money I can count.", Bangor bus / "don't go where I'm put", "I owe you a floor...", "Nobody but—" / "Me and God. I know.", blankets under the counter, S3's last paragraph. "Bethie" once (Ned). No "Red's Ned's", "Am I in it?" or extra "thirty-one".
 - Forbidden-phrase sweep: no hits. Word count about 2,992 by estimate (no shell; orchestrator to confirm against 2,622 to 3,078).
 - Flag, no change: "Ned's color" in Tess's line reads as if Ned owns the red tag; kept as instructed.
+
+## S2 round 2 (voice pass on draft-dialogue.md → final.md; S1 opening and S2 only; S3 untouched)
+- S1 close: "she watched him decide to sit in it" → "she saw him decide to sit in it" (removes "watched him").
+- S2 cut filler: "facing the office door, waiting." → "facing the office door."
+- S2 merged tag: "Russ took her in through the office. 'Where you sleeping tonight?' Russ said. 'Asking because somebody will.'" → one speech after the action, no second "Russ said". Line unchanged.
+- S2 tightened (45-word sentence): "...where he could see the back window and the counter both, and nothing said at the counter could reach him through that noise." → "...in the generator's roar, where he could see the back window and the counter, and nothing said at the counter could reach him."
+- S2 repair of dangling modifier: "Arsenault, the *Margaret Ann*, the dragger that had stayed lit through the blackout." (a fragment repeating the name) → "Arsenault came in stamping snow off good boots: the *Margaret Ann*, the dragger that had stayed lit through the blackout."
+- S2 POV anchor: "Through the front window he went down the dock to his skiff" → "Through the front window she saw him go down the dock to his skiff".
+- All keep-exactly lines verified intact (yellow/red tag, restroom pair, "walked you home from every dance", "Hand me the milk", "No. My money I can count.", Bangor bus, "don't go where I'm put", "I owe you a floor", "Me and God. I know", "Asking because somebody will.", blankets back under the counter, S3's last paragraph). S3 text unchanged.
+- Not added: "Red's Ned's", "Am I in it?", a new "thirty-one", contrast constructions, "too loud", a third Tess deflection. "Bethie" once, Ned. The existing "thirty-one" uses (screen, Beth's question, Dane's answer) are the ones already in the draft.
+- Voices checked, no register drift found: Tess headlines and surnames, Russ asks and answers, Arsenault's advice-as-threat is carried by the paid coffee, Beth's lie is short then a task, Dane's long sentence with the dry turn.
+- Forbidden-phrase sweep: no hits.
+- Word count: about 2,915 by estimate (no shell; roughly 15 words cut from the 2,930 input). Orchestrator to confirm against 2,622 to 3,078.
+- Flags, no change made: (1) the noon paragraph says open sky means "leaving her at the counter beside Arsenault," while the earlier orchestrator triage says the noon line was changed to Dane's not wanting to be watched going out to the sky; this version reads against the chase, where he left her on the step. Plot-level wording, left for the orchestrator. (2) "Ned's color" is the second of two permitted uses in the book once Ch 7 and Ch 9 pay it; no issue yet.
