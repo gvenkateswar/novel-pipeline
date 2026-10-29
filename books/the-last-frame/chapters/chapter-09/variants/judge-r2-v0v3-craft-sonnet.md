@@ -1,0 +1,13 @@
+A = chapters/chapter-09/variants/v0.md ; B = chapters/chapter-09/variants/v3.md (judge: Craft persona, Sonnet, round 2; read A, B and docs/calibration.md only)
+
+1. **Winner: B**
+
+2. **Why:** B lets the scenes turn on things people do instead of things they say (Ray switching the radio off and back on louder while she stands holding her napkin; Ray zipping his jacket over the pocket; Dale taking his wife's envelope without a word; her putting the lane lights down one to ten), so the two of them sound like different people, where A has Ray handing her whole afternoon back as a recitation.
+
+3. **Where A lost me:** the readback, about 35%: "Hollis at ten past four. Ice is closed, and worse after two. Three was late at the top of her table, and she's right now. A hundred and fifty in the building, forty-one of them kids. Mornings done. Memorial at two, all ten. Evening at six, ten teams, Massachusetts tonight. Coolers on ten. Raffle's in a ball return, and the treasurer counts it twice." That is the second full pass over a list I had just read. It is the A1 move (procedure, the couple doing business), and my thumb sped up. The author's paragraph after it ("the voice of a good pilot at three in the morning...") tells me what the moment means, which the scene had already shown. The envelope run at about 60% ("Her voice did not change once, and she listened the whole way for it to") also explains a feeling the page had already shown. A recovers on the Kate call and ends well ("Then do it. And call me first next time. Like this."), but the middle ran long on logistics.
+
+4. **Where B lost me:** briefly, at about 38%: "He was right. In her whole working life she had sent back every figure that came to her rounded." I had to stop and work out what it meant, and the line is cleverer than it is clear. A second, softer dip comes at about 75%: "He had heard her half of that call through her front door in December." That is a quick catch-up sentence, and the scene was better without it. The chapter also ends on "Ten." with Kate's answer unheard. I think that's a choice, and it worked for me, but a buyer who wants the verdict might feel shorted. I did not quit anywhere.
+
+5. **Confidence: medium.** B is clearly the better-written chapter to me, but both share the same strong bones (supper, the briefing, D-side, the counter, the call), and A's ending is warmer and more satisfying as a close. I would bet on B but not heavily.
+
+6. **Same-author check:** Yes. Same scaffold, same recurring images and cadence ("Some of it standing," the ice booming, the legal pad), so I'd say they were revised from one draft. B is the more cut-down, less explained version.

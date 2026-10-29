@@ -1,0 +1,13 @@
+A = variants/v2.md, B = variants/v3.md (persona: Skimmer, model: Sonnet)
+
+1. **Winner: B**
+
+2. **Why:** The two are nearly the same chapter, but B keeps its car-by-car parade of departing teams short and gives me a human beat in the Kate call (the birthday story), so my thumb had a reason to slow down at the end, where A is mostly a flat call.
+
+3. **Where A lost me:** The envelope handout. "Two, three, four. Through the door glass the lot was showing gaps..." then "Six, to a team of sisters from Nashua who argued over which of them would carry it. Seven, eight, nine." That is a counted list, one envelope at a time, and my thumb started moving there, at about 55-62%. It is a ledger with a little weather on it. The tenth envelope ("the box was light in her hands") is a good line, but I was already skimming toward it. A smaller slip around 47%: the briefing ("Weather. Hollis called at ten past four... Equipment... Traffic. A hundred and fifty in the building, forty-one of them children...") reads like a form. I skimmed it, and both versions have it. Also, the radio-and-boots opening of the kitchen scene works, but the "left one" question comes right after the scar on the *left* hand, so for a second I thought he was asking about his own hand. I lost half a beat there at about 10%.
+
+4. **Where B lost me:** The first paragraph and the last scene's opening are both single big blocks. "Her hands were empty on Ray's back step. They went into the pockets of her vest... She could not remember the last door she had stood at with nothing to hand anyone. The invitation had come pencilled..." is a wall at 0-3%. The worse one is the opening of the lake scene: "The phone was lit in her hand with Kate's name on it, and she stood at the dark window over the lake and had not pressed it. She had been standing there long enough for the glass to fog..." through "...nothing in her hands but the phone." That is a long run with the legal pad's "three items" and the ice boom in it, at about 84-88%. I read it faster than I wanted to. The briefing at 28-33% is the same form-like stretch as in A.
+
+5. **Confidence: medium.** Close. The chapters share about 85% of their text. The deciding difference is small: B trims the handout to a few quick lines and adds Kate's birthday memory, but B has two blocky paragraphs where A breaks them up. A skimmer could go the other way if the walls bother them more than the ledger.
+
+6. **Same-author check:** Yes. Same Ray lines ("I'll allow it," "varied the bowl"), same briefing, same ending, the same sentence rhythm. B reads like A with some trims and some extra warmth.
