@@ -448,3 +448,4 @@ Five scenes and five ending types. One ends on a line, and that line is the outl
 4. **The photo becomes a printed listing sheet** folded into the back cover of Dane's notebook. Approved. It also puts the notebook on the page ahead of Ch 07.
 5. The latch opened at the first try is new staging. Approved.
 - **For the Ch 05 beats:** keep the Tess fight and everything else before the first full scene to 2,000 words or fewer, so the scene lands before 50%.
+- **Line change:** "That's not a no. It's a not yet I can't afford." becomes "That's a not yet," he said. "One I can't afford." The old line is a contrast construction, which the author's standing preferences ban in all writing. The Ch 05 s3 payoff calls back "not yet", not "not a no". The bible's speaker table still shows the old wording. Flag it for the author at the next bible review; the orchestrator does not edit the bible.

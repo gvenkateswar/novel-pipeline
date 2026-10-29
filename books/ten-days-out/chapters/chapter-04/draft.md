@@ -154,7 +154,7 @@ He pumped, and the screw spat, and the muscle in his forearm jumped with every s
 
 He kept pumping. He turned his head on the concrete and looked at her, and he was quiet so long she heard the tide working on the point.
 
-"That's not a no," he said. "It's a not yet I can't afford."
+"That's a not yet," he said. "One I can't afford."
 
 "Then save up."
 
