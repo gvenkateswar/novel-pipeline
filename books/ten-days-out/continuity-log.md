@@ -245,95 +245,173 @@
 
 ---
 
-## Chapter 04 — Glassing the Harbor
-*From `chapters/chapter-04/final.md` as it stands after the cold-read triage, Oct 29, 2026: 2,795 words (`wc -w`, heading included), inside the 2,700–2,862 band. Five scenes: Lookout Hill (S1), Russ in the spruce (S2), bleeding the generator (S3), Ned with the diesel (S4), the gut at dead low (S5). Cold reader: pull 3.6 of 5 (7 of 10), no scene at 2; **"I'd keep reading, but the middle sags."***
+## Chapter 04 — Feeling for Warm
+*From `chapters/chapter-04/final.md` as it stands after today's rebuild (round 3 installed), Oct 29, 2026: 2,237 words (`wc -w`, heading included). Two scenes: Lookout Hill with Russ (S1), the Ashby generator shed and Ned's diesel (S2). This entry replaces the earlier Ch 04 entry ("Glassing the Harbor," five scenes), which described older text. The bar rehearsal (old S5) is cut; the gut route is first found in the Ch 05 crossing.*
 
 **What happened:**
-- **S1, Sunday (Day 3), first light, Lookout Hill.** Flat on the wet granite with Dane's binoculars, Beth watches the hooded man come up the path from the store side, go round her empty house, and open the kitchen latch **at the first try**, one lift and the shoulder. She can't settle who taught him: she showed only Dane, half the island knows the latch, or he taught himself on Friday night. Dane narrates the search through the glasses. On her back step the man pushes his hood back and turns his face up to the hill, "as if somebody had told him where": young, wide, pale, a face she doesn't know, an islander's rowing and no boat she can hang him on. He runs the skiff out from under the store dock, and a man on the *Margaret Ann*'s afterdeck takes his painter. Dane shows her the screen: *Pike: Q says hands off the vessel. Observe only. Keep witness in place.* ("She wants me alive long enough to be useful. Both of us.") One press on: *Sold. Sorry.* He takes the Webbers Cove listing sheet, folded in quarters, from the back cover of his notebook. She laughs, sees his face, stops; "Good hull." He folds it smaller, puts it back, and leaves the two words lit.
-- **S2, Sunday morning, the islanders' path off the back of the hill.** Russ, coming up the woods road with a thermos, says "somebody" as Dane predicted: somebody rowed out to the dragger at sunup; he saw it from his kitchen and meant to take the *Second Wind* out to ask. Dane passes on that the feds want him off that boat ("I'd like it noted that I don't love it"). "Feds told me stay off that boat… I'm not a complicated man." Russ offers to run them to Pruett when it lays down; Dane gives three reasons no (any island boat could be theirs; he can't read this sea; whoever runs her across leaves a wake). Russ: somebody'd have to beat the rust to that cable; the tower's been on the district's list since Labor Day. Tess has been emergency management since town meeting, "slow putting her hand down"; she had LifeFlight on the line yesterday for an old woman with a bad heart and the pilot wouldn't lift her; her phone is the only one on the island that works. Tess asked him twice where Beth was sleeping, and the second time, when he said he didn't know, she wrote it on her hand anyhow. "Go home, Russ." At the fork he takes the path that comes out behind Marr's. Beth turns up the north road.
-- **S3, Sunday late morning, the Ashby generator shed.** The tank ran dry and the set sucked air; they bleed the injector pump. Dane asks about money while hunting for the pump: credit union; she owes nobody; house was her father's, no truck, no boat. "He had one." The *Ruthie C*, thirty-eight feet, named for her mother; the price soft two winters; the bank called the note; the man with a box of folders, polite for an afternoon; her father signed and sent Beth to carry the papers to the man's truck because his hands shook; the box heavier than paper ought to be; the boat sold to a summer man who made her a picnic boat. "Walk me through it": the envelopes (slip inside, her name on the front in Tess's hand, flap tucked, never sealed), Tess bags them Thursday night, the pouch rides over zipped, the courier at Pruett; who sees the slip (Tess, Beth, the teller); who's alone with it ("The boat"). She knots Thursday's spent red seal, cut off the fare bag, round his wrist: "Fare bag's red. That's the boat's. Tess seals hers yellow." / "Now you're the boat's." / "For the record, I've been the boat's since I jumped." / "Comes off with a knife. If it's off, I'll know." She doesn't ask "Is this going in your log?" Lying hip to hip under the set: "Last night. Was that the end of it?" / "That's a not yet," he said. "One I can't afford." / "Then save up." The fuel runs clean; the red tag rides on his wrist above the wrench.
-- **S4, Sunday dusk, the foot of the Ashby drive.** Ned brings two cans of diesel off the *North Reach*'s day tank; Dane holds the flashlight ("You hold a light like nobody ever handed you one." / "Nobody did…" / "It shows."). The glass is coming up; down to a breeze by morning, with squalls. The pump's eating impellers; Ned is going back aboard and staying aboard till the barge; the *North Reach* is taking water slow up forward and will keep. Beth has "Put my name in" ready, her hundred-ton license in her wallet against her ribs, and doesn't say it. "Marshal." At the foot of the drive Ned turns and lifts the light once, and goes on toward the harbor.
-- **S5, Monday (Day 4), dead low between squalls, the bar.** "A week before the Monday that mattered in Portland." The bar lies dry from the Ashby shore toward Calloway Cove. Ashby has one road out; she wants a back door. Dane offers to walk it first ("these are waterproof"); "That's a narrow definition of waterproof. Stand there." He stays where she puts him. She wades the gut to the waist, swearing at Connecticut, finds the lip of ledge with her foot and paces it back a stride. Soaked to the ribs, she walks into his open jacket; her face against his stubble; he holds her through the shaking. "Beth." / "What's the plan?" Half tide, in the dark, knee-deep, him behind her a stride in from the lip, feet where hers go: "Ninety seconds, if you don't stop. And you stay inside where I put you."
+- **S1, Sunday (Day 3), first light, Lookout Hill.** Flat on the wet granite with the Ashbys' binoculars, Beth watches the hooded man come up the path from the store side, walk round her empty house "the way a buyer walks a boat," and open the kitchen door at the first try, one lift and his shoulder. She has shown one person how that door goes (Dane, Friday), or he taught himself on it that night. On her back step he pushes the hood back and turns his face up to the hill, "as if somebody had told him where": young, wide, pale, nobody she can place by a boat, and he doesn't care who sees the face. He runs a skiff out from under the store dock; a man on the dragger's afterdeck takes his painter, the skiff goes up the *Margaret Ann*'s side on a line, and he climbs after it. Russ comes up onto the bare summit with a thermos in full view; a man on the afterdeck turns toward the hill; "Down." Russ goes down "like a cow lying down." Russ: somebody rowed out to that dragger; Tess has asked him twice where Beth sleeps; he means to take the *Second Wind* out and ask. Dane: "I'm asking you to stay off that boat." Russ: "Feds told me stay off that boat… I'm not a complicated man." Nothing's flying; LifeFlight wouldn't lift an old woman with a bad heart yesterday; Russ offers to run them to Pruett. Dane gives his three reasons no in one sentence. Russ leaves at a crouch by the path that comes out behind Marr's. Dane types once and shows her Pike's reply: *Q says hands off the vessel. Observe only. Keep witness in place.* "In place. Till Monday week. Eight days." / "Q wants me alive long enough to be useful. Both of us." One press on: *Sold. Sorry.* The listing sheet comes out of the back of his notebook; she laughs, sees his face, stops; "Good hull." She refolds it on its creases and hands it back; he folds it once more and puts it away. "Off the top. Now. That deck has binoculars too."
+- **S2, Sunday afternoon, an hour before sunset, the Ashby generator shed.** The set has been dead since noon; Dane is under it at the injector pump, Beth beside him with the wrench, the bleed screw cracked a quarter turn. Earlier a hooded man with binoculars stood on the spine of the north road and was gone when she looked again. She knots an old red seal round his bare wrist ("Fare bag's red. That's the boat's. Tess seals hers yellow, with my envelope in it." / "Now you're the boat's." / "I've been the boat's since I jumped." / "Comes off with a knife. If it's off, I'll know."). He asks about the envelope: from the store, slip inside, flap tucked, never sealed; Tess, Beth and the teller see the slip. She keeps *Is this going in your log?* in her mouth. She gives him the *Ruthie C* (the bank took her; her father signed with his other hand shaking under the table; Beth carried the box of papers to the bank man's truck). "Last night. Was that the end of it?" / "That's a not yet. One I can't afford." / "Then save up." The hood comes down the drive. They hide behind the housing; Dane draws; she puts two fingers on his mouth. The man tries Ashby's front and kitchen doors (both bolted), comes back into the shed doorway two steps, smelling of wet oilskin and outboard gas, and lays his bare hand on the cold housing a foot above her head while diesel from the open screw spreads toward his boot. Dane's finger goes inside the trigger guard; Beth closes her hand on his wrist. The man leaves by the east-shore fork toward the next empty house. "He's checking houses. We move tonight." / "Fish house at Calloway Cove. Bar's dry to it at low water… He's checking houses." / "Then Monday." At blue dusk Ned comes over the spine with two cans off the *North Reach*'s day tank; Dane has the gun away before the light reaches them. Dane holds the flashlight for the funnel with his cuff down over the tag ("You hold a light like nobody ever handed you one." / "Nobody did."). The glass is coming up; the *North Reach*'s pump is eating impellers, so Ned is back aboard till the barge. Beth still can't say *Put my name in*. "Night, Bethie. Marshal." Ned goes down the drive toward the harbor without looking back. In full dark Dane's light finds the print of a bare hand in the frost on the steel. "Do we run it?"
 
 **What changed:**
-- The hunter has a face and a boat: the *Margaret Ann*. Portland has told Dane to leave the vessel alone and keep the witness "in place."
-- Dane's boat is sold. The listing sheet is on the page, and the notebook is seen as an object.
-- Beth has given Dane her father's story and the bag routine, colors included, and she has tagged him with the fare bag's seal. She held back the log question, and the wheel.
+- The hunter has a face and a boat, the *Margaret Ann*. Portland's order: hands off the vessel, observe only, keep the witness in place.
+- Dane's boat is sold; the listing sheet and the notebook are on the page.
+- The man has found Ashby empty-looking and felt the set cold. He is checking houses. They decide to move to the fish house at Calloway Cove.
+- Beth has given Dane the bag colors, the envelope routine and her father's story, and tagged him with a red seal. She has held back the log question and the wheel.
+- "Not yet" is said and not taken back.
 - Ned is aboard the *North Reach* till the barge.
-- Beth has built a back door off Ashby across the bar, and Dane has, for the first time, stood where she put him instead of going first.
-- She asked if last night was the end of it; it's "a not yet."
 
 **Who knows what:**
-- **Beth.** The man's face (young, wide, pale, not an islander she knows); he rows like an islander and owns no boat; he goes aboard the *Margaret Ann*. He opened her latch at the first try, and she can't tell who taught him. He looked straight at the top of the hill. Pike's order: hands off the vessel, observe only, keep witness in place. Dane's boat is sold. From Russ: Tess is emergency management; LifeFlight wouldn't lift the old woman; Tess's is the only working phone; Tess asked Russ twice where Beth sleeps and wrote it on her hand. Russ went down the path behind Marr's. Nothing is flying and Dane won't put her on an island boat. The gut drops at the seaward end of the bar, waist-deep at dead low. Ned is aboard till the barge.
-- **Dane.** Everything above, plus: the bag routine from Beth (envelopes, slips, flap never sealed, who sees the slip, the boat alone with the pouch) and **the colors: red the boat's (fare bag), yellow Tess's (store bag).** Nothing on the page ties a color to Ned. Her father's story and the *Ruthie C*. That she owes nobody and banks at the credit union. **He has seen nothing of Tess's log.** He wears the red seal.
-- **Ned.** Ashby, and that they're there with the generator running. He's going back aboard till the barge. Beth didn't ask for the wheel (he doesn't know she nearly did).
-- **Russ.** The man rowed out to the dragger at sunup. The feds want him off the *Margaret Ann* (from Dane). Beth isn't sleeping at the cottage (implied by Tess's asking). He met Beth and Dane on the islanders' path off the back of Lookout Hill. **Not** Ashby on the page; he went on down before Beth turned up the north road.
-- **Tess (off page).** Nothing new on the page. **Not** Ashby. Asked Russ twice where Beth sleeps (reported, not shown).
-- **Portland / Pike / Q.** The man boarded the *Margaret Ann* (by Dane's one message; contents not shown). Their order: hands off the vessel; observe only; keep witness in place.
-- **The hooded man / the *Margaret Ann*.** The cottage is empty. He looked at the hilltop; whether he saw them is open.
+- **Beth.** The man's face, his boat, and that he doesn't hide the face. The latch at the first try, and her two explanations (she showed Dane; or he taught himself Friday night). The hilltop look. Pike's order and "Monday week, eight days." Dane's boat is sold. From Russ: Tess asked him twice where Beth sleeps; LifeFlight wouldn't lift the old woman. A hooded man with binoculars on the spine; the same man tried Ashby's doors, felt the set and went toward the next empty house. The handprint. Ned is aboard till the barge.
+- **Dane.** All of the above, plus the colors (red the boat's fare bag, yellow Tess's store bag, Beth's envelope in Tess's), the envelope routine (from the store, slip inside, flap tucked, never sealed; Tess, Beth, the teller see the slip), the *Ruthie C*, the fish-house plan. **Not yet told:** that Beth told Ned "Home," or that the Ashby key is Ned's (told in Ch 05 S4). He wears the red seal and keeps it under his cuff in front of Ned. He has seen nothing of Tess's log.
+- **Russ.** He saw Beth and Dane on top of Lookout Hill at first light, and was seen standing there by a man on the *Margaret Ann*'s afterdeck. The "feds" want him off that boat (his word; Dane only asked). **Not** Ashby. Went down by the path behind Marr's.
+- **Ned.** They're at Ashby (his key, his diesel). **Not** the fish-house plan (said before he came), the man in the shed, or the handprint.
+- **Tess (off page).** Asked Russ twice where Beth sleeps (reported). Nothing else new.
+- **Portland / Pike / Q.** Dane's one message from the hilltop (contents not shown). Their order as above.
+- **The hooded man / the *Margaret Ann*.** The cottage is empty. Someone stood on the hilltop (Russ, at least). Ashby is shut up with the set cold; nobody found.
 
 **Objects / details introduced:**
-- **Lookout Hill:** bare wet granite, blueberry stems, spray hissing even up here; the harbor below "exact as a chart." Dane's binoculars ("the glasses").
-- **The hooded man's face:** young, younger than the walk, wide and pale. The skiff run out from under the store dock; the *Margaret Ann*'s afterdeck; the painter taken.
-- **The screen:** *Pike: Q says hands off the vessel. Observe only. Keep witness in place.*; one press on, *Sold. Sorry.*, left lit.
-- **Dane's notebook:** carried inside his jacket; the Webbers Cove listing sheet (a white lobster boat up on stands, Webbers Cove across the top), folded in quarters in the back cover, then folded once more.
-- **The islanders' path:** off the back of the hill through close spruce; the woods road; the fork; the path that comes out behind Marr's; the path to Russ's house. Russ's thermos and its cup.
-- **Russ's facts:** the *Second Wind* "got the legs for it"; the tower on the district's list since Labor Day; Tess emergency management since town meeting; LifeFlight and the old woman with a bad heart, yesterday; Tess's phone the only one that works.
-- **The generator shed:** the dry tank; the injector pump ("the squat one"); the bleed screw (quarter turn, pump till it stops spitting); the cold concrete pad; the wrench.
-- **The *Ruthie C*:** thirty-eight feet, named for Beth's mother; fished out of Calloway Cove; the note called on a paper signed in a good year; the man on the noon boat with a box of folders; the papers carried to his truck; the summer man's canvas top; "picnic boat."
-- **The bag routine:** envelopes from the store, a slip inside, her name on the front in Tess's hand, flap tucked, never sealed; Tess bags Thursday night; the pouch zipped with store bag and fare bag both; the courier at Pruett. The credit union in Pruett.
-- **The seal:** Thursday's spent red seal, cut off the fare bag, kept in Beth's coat pocket, now knotted round Dane's wrist over the cuff of his fleece. "Comes off with a knife."
-- **Ned's diesel:** two cans off the *North Reach*'s day tank; the funnel; Ned's flashlight; the pump eating impellers; the *North Reach* taking water slow up forward.
-- **Beth's license:** the hundred-ton license in her wallet inside her coat; twice in the district's lot with it in her lap; "Put my name in," four words, carried a year.
-- **The bar:** gravel and cobble from the Ashby shore toward Calloway Cove; the gut at the seaward end, a dark trench; the lip, a step of ledge; the dry bar's edge where Dane stands.
-- **Dane:** stubble since her father's razor; the fleece under the jacket; the boots ("these are waterproof").
+- **Lookout Hill:** bare wet granite; the island "small and exact"; the Ashbys' binoculars; the path off the back of the hill into the spruce; a bough's snow on Dane's shoulders.
+- **The hooded man:** young, wide, pale; walks a house like a buyer walks a boat; the skiff run out from under the store dock and hoisted up the *Margaret Ann*'s side on a line; wet oilskin and outboard gas; pulls his glove off with his teeth.
+- **Russ:** the thermos and its cup, poured lying down; "like a cow lying down… like a baby at a christening"; the *Second Wind*.
+- **The screen:** *Q says hands off the vessel. Observe only. Keep witness in place.*; *Sold. Sorry.*
+- **Dane's notebook:** the folded listing sheet in the back (a white lobster boat up on stands, the broker's name across the top).
+- **The generator shed:** the concrete pad; the injector pump; the bleed screw (a quarter turn); the propped door on its frozen track that shrieks; the frost bloom on the steel; the last of the fuel can; Ned's cans among the others; the spine of the north road visible up the long drive; the east-shore fork.
+- **The red seal:** "an old red seal the credit union had sent back in an empty pouch," from Beth's coat pocket, knotted round Dane's bare wrist.
+- **The envelope:** from the store, slip inside, flap tucked, never sealed.
+- **The *Ruthie C*:** a picnic boat now; the bank man's pen; her father's other hand shaking under the table; the box of papers to the man's truck "as if she'd brought him a pie."
+- **Ned's key** in Beth's coat pocket; the hundred-ton license in her wallet.
+- **The handprint:** a bare hand, five fingers, in the frost on the cold housing, a foot above where her head had been.
 
 **Plants placed:**
-- The cottage searched at dawn, empty (the leaker doesn't have Ashby yet) → Ch 05 (Ashby given up at noon Monday).
-- **The latch at the first try** (who taught him "lift and shove"?) → Ch 10 (Quist's statement covers the channel). Cold reader's biggest question.
-- "As if somebody had told him where" (the hilltop) → open; the reader asks who knew.
-- The hooded man's face; he goes aboard the *Margaret Ann* → Ch 07 (the shot from the skiff), 09.
-- "Hands off the vessel. Observe only. Keep witness in place." → Ch 06 s3, 07, 10.
-- "She wants me alive long enough to be useful." → Ch 08 (Pike's call), 10.
-- "Sold. Sorry."; the listing sheet in the back of the notebook → Ch 06 s4 ("Why a boat?"), Ch 10 s5.
-- The notebook as an object (back cover only) → Ch 07 s3–s4.
-- Russ off the *Margaret Ann* ("Feds told me stay off that boat…") → Ch 06, 07, 10.
-- Tess asked Russ twice where Beth sleeps and wrote it on her hand → Ch 05 (the fight).
-- Russ takes the path that comes out behind Marr's → Ch 09 (Russ trusted).
-- The envelopes: slip inside, name in Tess's hand, flap tucked, never sealed → Ch 07 s3, 09.
-- **The seal-tag colors** and the red seal on Dane's wrist → Ch 06 s2 (Dane reads "Seal noted: red" as the fare bag's), Ch 07 s3–s5, Ch 09 s4 (the correction); optional Ch 05 (she cuts it).
-- The *Ruthie C*; the bank man's papers → Ch 06 s4, Ch 10.
-- "Is this going in your log?" not asked → Ch 07.
-- The generator's bleed screw → Ch 05 (the shed goes up).
-- "That's a not yet." / "One I can't afford." / "Then save up." → Ch 05 s3 (callback on "not yet").
-- The diesel; "pump's eating impellers"; Ned aboard till the barge → Ch 05 s1 ("since he brought you the diesel"), 06, 10.
-- The license in her wallet; "Put my name in" unsaid; Ned gives up the wheel in June → Ch 10 s1, s3.
-- **Ned looks back (3 of 3):** the flashlight lifted at the foot of the Ashby drive → Ch 08 (he doesn't).
-- The gut: the lip, waist-deep at dead low; knee-deep at half tide → Ch 05 s2.
-- Dane stands where she puts him and doesn't walk it first → Ch 05 s2, Ch 09.
-- "Ninety seconds, if you don't stop. And you stay inside where I put you." → Ch 05 s2.
-- The stubble → Ch 05, 06.
+- The latch at the first try (she showed one person; or he taught himself) → Ch 10 (Quist's statement covers the channel).
+- "As if somebody had told him where" (the hilltop) → open.
+- The face shown without care → registers the brazenness the Ch 04 reader asked for; → Ch 07 (the shot from the skiff), 09.
+- A man on the afterdeck turns toward Russ on the summit → open (were they seen?).
+- "Hands off the vessel. Observe only. Keep witness in place." / "Q wants me alive long enough to be useful. Both of us." → Ch 06 s3, 07, 08, 10.
+- "Till Monday week. Eight days." → the date clock (Ch 05 gives the 23rd).
+- "Sold. Sorry."; the listing sheet in the notebook → Ch 06 s4 ("Why a boat?"), 10 s5.
+- The notebook as an object → Ch 05 S3 (its corner in the jacket), Ch 07 s3–s4.
+- Russ off the *Margaret Ann* ("Feds told me") → Ch 06, 07, 10.
+- Tess asked Russ twice where Beth sleeps → paid in part Ch 05 S1 ("I'll know where you do").
+- Russ by the path behind Marr's → Ch 09.
+- LifeFlight (1 use) → Ch 07, 08.
+- **The seal-tag colors** and the red seal on Dane's wrist → Ch 06 s2 (Dane reads "Seal noted: red" as the fare bag's), 07 s3–s5, 09 s4.
+- The credit union sends seals back in empty pouches → Ch 06 s2, 07 (the plot auditor checks the chain).
+- The envelope: slip inside, flap tucked, never sealed; who sees the slip → Ch 07 s3, 09.
+- "Is this going in your log?" unasked → Ch 07.
+- The *Ruthie C*; the bank man's papers → Ch 05 S1 ("like the bank does"), Ch 06 s4, 10.
+- "That's a not yet." / "One I can't afford." / "Then save up." → paid Ch 05 S3.
+- The man checks houses; "We move tonight" / "Then Monday"; the fish house at Calloway Cove; "Bar's dry to it at low water" → paid Ch 05.
+- The cold set felt by hand → Ch 05 S1 ("to feel if it was warm"); the handprint → open.
+- Dane's finger in the trigger guard; Beth's hand on his wrist → the pattern of who stops whom.
+- Dane's cuff down over the tag in front of Ned → open (whom he hides it from).
+- The diesel; "pump's eating impellers"; Ned aboard till the barge → Ch 05 S1 (Tess), 06, 10.
+- The license; "Put my name in" unsaid; Ned gives up the wheel in June → Ch 10 s1, s3.
+- **Ned's look-back is not on the page in Ch 04** (beam cut). The third look-back moves to Ch 06; payoff Ch 08 (he doesn't).
+- "Do we run it?" → answered Ch 05 (not overnight; the set runs in the evening and the shed burns).
 
 **Plants paid:**
-- The skiff man / afterdeck figure → tied to a named boat: he goes aboard the *Margaret Ann* (← Ch 01 s4, Ch 02 S1, S3, Ch 03 S2).
+- The skiff man / afterdeck figure → he goes aboard the *Margaret Ann* (← Ch 01 s4, Ch 02 S1, S3, Ch 03 S2).
 - The heel man seen from behind → his face (← Ch 03 S2).
 - The *Margaret Ann* gone dark → his destination (← Ch 03 S3).
-- The Webbers Cove; "Firm at thirty-one. Saturday noon."; noon let go → "Sold. Sorry." (← Ch 01 s3–s4, Ch 03 S1–S2).
+- Arsenault's skiff at the store dock → the heel man runs a skiff from under it (← Ch 03 S2).
+- The Webbers Cove; thirty-one; noon let go → "Sold. Sorry." (← Ch 01 s3–s4, Ch 03 S1–S2).
 - The picnic boat → the *Ruthie C* (← Ch 01 s3).
 - "Any boat that would take you across…" → Dane's three reasons (← Ch 02 S1).
-- Dane soaked to the knee → "That's a narrow definition of waterproof." (← Ch 03 S2).
-- "Sea coming. Stand still." → "Stand there." / "you stay inside where I put you" (← Ch 03 S2).
-- Her father's razor, the last shave → the stubble (← Ch 03 S1).
-- "Don't write me down." → the bank man's papers (← Ch 03 S3; by implication, not stated).
 - The Ashby generator, tank near empty → the bleed; Ned's diesel (← Ch 03 S3).
-- The boots, 2 of 3 ("these are waterproof") (← Ch 01).
-- Ned looks back, third and last plant (← Ch 01, Ch 02).
-- The Ashby key / "Nobody'll look twice at a light" → Ned brings diesel; holds Ashby (← Ch 03 S2; continues to Ch 05).
-- From "Carried forward": the seal-tag colors; Russ's cable line; Tess's emergency-management title; Dane's private-boat reasons; LifeFlight; "narrow definition of waterproof."
+- The Ashby key → in her pocket while the man tries the doors; Ned brings diesel (← Ch 03 S2).
+- "Don't write me down." → the bank man's pen (← Ch 03 S3; by implication).
 
-**Numbers stated:** first try (the latch); three tries (Friday, restated); two words (*Sold. Sorry.*); twice (Tess asked Russ); since Labor Day (the tower); yesterday (LifeFlight); thirty-eight feet (the *Ruthie C*); two winters running (the price soft); the noon boat; a quarter turn (the bleed screw); two cans (diesel); four words ("Put my name in"); a hundred-ton license; twice (the district's lot); a year (carrying the words); June (Ned gives up the wheel); Monday, "a week before the Monday that mattered in Portland"; one stride (the lip); knee-deep at half tide; ninety seconds. **Not on the page:** any clock time; thirty-one; nine thousand; ten days; a seal number; any price.
+**Numbers stated:** first try (the latch); Friday; yesterday (LifeFlight); twice (Tess asked Russ); Monday week; eight days; noon (the set dead since); an hour before sunset; a quarter turn; one bright note; a foot above her head (the hand, twice); an inch (his boot from the diesel); two steps in; two cans; June; a hundred-ton license; five fingers. **Not on the page:** any clock time; thirty-one; nine thousand; ten days; a seal number; any price; the *Ruthie C*'s length; Labor Day.
 
-**Ends on:** Monday (Day 4), dead low between squalls, on the dry bar off the Ashby shore. Beth, soaked to the ribs and still shaking, is inside Dane's jacket with her face against his stubble and the red tag at the edge of her eye. He has asked "What's the plan?" and she has given it to him: half tide, in the dark, knee-deep, him a stride in from the lip behind her, "Ninety seconds, if you don't stop. And you stay inside where I put you." No stove yet; Ch 05 opens on it.
+**Ends on:** Sunday night (Day 3), full dark, in the Ashby generator shed. Ned has gone down the drive toward the harbor without looking back. Dane's light, kept low, has found the print of the hooded man's bare hand in the frost on the cold housing, five fingers, a foot above where Beth's head had been. "Do we run it?" is unanswered.
+
+---
+
+## Chapter 05 — Half Tide
+*From `chapters/chapter-05/final.md` as it stands after today's rebuild, Oct 29, 2026: 3,695 words (`wc -w`, heading included). Four scenes: the Ashby kitchen and Tess's truck (S1), the fire and the bar crossing (S2), the fish house (S3, the first love scene), the flashlight across the cove (S4). Cold reader (`chapters/chapter-05/reader-notes.md`, read "Ch 05 final.md, rebuilt v2"): 7 of 10, scenes 4 / 5 / 3 / 3, average 3.75. Pull curve r3 (`reviews/pull-curve-ch01-05-r3.md`): Ch 05 6 of 10; **"I'd keep reading, but… if Ch 06 opens with more shopping and who-knows-what talk, I'm out."** Some lines both readers quote have since changed; see the warnings below.*
+
+**What happened:**
+- **S1, Monday (Day 4), the Ashby kitchen.** They didn't run the set overnight and slept in their coats. Caught in a squall on the shore at first light, Beth sits in Dane's fleece with her jeans steaming on the stove rail while he feeds the firebox. The smoke stands straight up off the roof "the whole island could read." At two Tess's truck (white, plow frame, propane rack) comes over the spine and down the drive fast. Dane takes the porch corner with the gun and sends Beth to the pantry end of the wall ("If it's a neighbor with a casserole, I'll apologize to the casserole."). It's Tess, with chowder: "Generator's Ned's. Chimney smoke's people." She is emergency management director, since town meeting, "slow putting my hand down." The second pot is Ned's; his phone lives on her shelf at the store, because the booster's there and past the dock a cell phone's a brick; he's been aboard since "he hauled two cans up the north road, near enough." Beth: "Keep Ashby off the net." Tess shows 22:40 on her knuckles and in her book (*Calloway — home 22:40.*): a flashlight on Beth's back steps Friday, ten seconds, seen from her counter; "I didn't put you on the air." "Sat on it since Friday, Calloway. And you let me find you by your smoke." / "Had my reasons." / "I walked you home from every dance on this island… You'll sleep at mine." / "Can't." / "I know where every dollar on this island sleeps tonight… I'll know where you do." / "I'm not your money, Tess." / "No. My money I can count." Beth reaches in to turn the book to today's page; Tess shuts it: "Don't you look at my book like the bank does." She puts the two blankets behind the seat. "Marshal. Point that at my truck or carry my chowder. Pick one." Beth memorizes the truck's shape for the dark. "She knows. We move." Beth: the fish house sill is out of the water ("I looked"); knee-deep at half tide, half tide twenty to eleven, "Ninety seconds across, if we don't stop." She kills the stove's smoke.
+- **S2, Monday night, near ten.** Packed, two bags by the back door, they eat Tess's chowder standing by generator light ("the clam was a rumor" / "Mostly potato. On purpose."). The hum stops: the generator shed is on fire. In the glow, Tess's truck stands in the drive, lights off, the cab dark. Beth doesn't say whose; Dane was on the porch corner at two. "Back door. Water." / "Road's theirs. Bar's mine." Down the ledge, along the shore path, onto the flooded bar, knee-deep, his belt in her fist, his feet where hers go. He doesn't talk. **Her left foot finds the seaward lip of ledge and nothing past it; she takes them a stride to the right (the gut route, found here for the first time).** A flashlight comes down off the house and sweeps the water; they stand still in the flood while a sea slops up her thigh, and she moves one step on the draw. The light goes back up toward the house. They reach the fish house; the tide has been over the sill and gone out. She strikes a match at the oil-drum stove.
+- **S3, the fish house.** The window can't be seen from any road or the bar. Fire, pine tar, the lantern turned low. Boots tipped out at the door: "These are waterproof." / "That's a narrow definition of waterproof." Wool on the wire along the stovepipe; Dane peers into his wrung sock "as if there might be a fish." Her father's red Pelican case on the shelf. "Is it still a not yet?" / "Not anymore. When this is over, I report this." / "I know what you are. I'm choosing anyway." The kiss; "Yes" before he asks. He searches his trauma kit for a condom by feel: "It's a very disappointing kit." She laughs out loud. "Hands, then. And mouths. Come here." Open-door on the page: his mouth, her hands, the buckle beating her stiff fingers twice ("Don't help"), the jeans that "have taken a side," oral sex, she comes and lets the sound go; then him in her hand ("Show me" / "Like that?" / "Yes"). No intercourse. Under the gray blanket, in his easy-question voice: "Who had Ashby," he said, "besides me?"
+- **S4, later that night.** She has put the lantern out: across the cove a flashlight at the Ashby end of the bar sweeps toward them, "Short. Then long"; the fire company's lights turn on the north road. "Thigh-deep and going under. Nobody crosses till the morning low." Dane: "a man who thinks he saw something and would like to be wrong… an island on an island." / "Cove." Beth tells him: she told Ned "Home" herself, Friday at the *North Reach*'s stern while he was at the road end, and the Ashby key was Ned's. Then Tess's truck: the keys, hers and the spare, hang on an open hook in her office, where anybody at the counter or the back door could lift them. "Three things you didn't count." "Keep her name out of what you send." / "I'll call it a store vehicle. No name." / "And this place." / "I'll do what I can." She takes her hand back. "Monday's the twenty-third. You're in Portland in front of the grand jury. And I've run out of houses." She puts her bare feet on the planks: "In the morning I walk into Marr's in daylight and buy what I need. And I watch who watches me buy it."
+
+**What changed:**
+- Ashby is burned out and given up. They are in the fish house at Calloway Cove, cut off by the flood till the morning low.
+- They've slept together (no intercourse). "Not yet" is now "Not anymore," with the cost stated: he'll report it.
+- Beth has named Ned (Home, the key) and Tess (the log, the truck, the keys on the hook) to the man with the notebook.
+- She stops hiding: she'll show herself at Marr's and watch who watches.
+- The grand-jury date is on the page: Monday the 23rd.
+
+**Who knows what:**
+- **Beth.** Tess logged her home at 22:40 Friday and sat on it; Tess found Ashby by the smoke; Tess knows Ned runs the Ashby generator and saw him haul two cans up the north road. Tess's truck was in the drive at the fire with its cab dark. The keys hang on an open hook. Someone with a flashlight searched the water from Ashby and stood at the end of the bar. The date: the 23rd.
+- **Dane.** All of S1 (he was at the porch corner). The truck at the fire. **New from Beth (S4):** she told Ned "Home"; the Ashby key was Ned's; the keys to Tess's truck hang on an open hook. He has promised "a store vehicle, no name," and only "what I can" on the fish house. Nothing on the page has him call the fire in.
+- **Tess.** Beth and the marshal were at Ashby; Ned's generator; Ned hauled two cans up the north road, **but she doesn't know where they went** (ruling). 22:40 and the light. Beth asked her to keep Ashby off the net; whether she did is open (she shut the book before Beth could see today's page). She knows Dane drew on her truck. **Not** the fish house.
+- **Ned (off page).** Aboard the *North Reach*. Tess carries his chowder down. He has no phone on him; it is on Tess's shelf. Whether he knows about the fire is open.
+- **The arsonist / the flashlight man.** Ashby was occupied (the smoke, at least). He searched the shore and the bar and "thinks he saw something." **Not** the fish house, on the page.
+- **The fire company.** Turned out to Ashby; lights on the north road.
+- **Russ.** Not in Ch 05.
+- **Portland / Pike / Q.** Nothing on the page in Ch 05 (Dane's phone "talked to the sky and nothing else"; no call shown).
+
+**Objects / details introduced:**
+- **Ashby kitchen:** the stove rail; Dane's fleece on Beth; the firebox fed in "a summer family's kitchen"; the sheet over the window; the smoke stalk; the pantry end of the wall; the porch corner; the Ashbys' good bowls; two bags by the back door; the stove damper.
+- **Tess's truck:** white, plow frame on its nose, propane rack behind the cab; Tess red-vested, glasses pushed up in her hair; her book on the seat, open at Friday; two folded blankets (put behind the seat); the chowder pots in towels (one Ned's).
+- **Tess's lines:** "Generator's Ned's. Chimney smoke's people."; "Emergency management director. Since town meeting. I was slow putting my hand down."; Ned's phone on her shelf, the booster, "past the dock a cell phone's a brick"; 22:40 on her knuckles "under three days of other people's gallons"; *Calloway — home 22:40.*; "I could see your steps from my counter"; "I didn't put you on the air."; the dances; "every dollar… every gallon, every cord that's owed for"; "My money I can count."; "like the bank does"; "Point that at my truck or carry my chowder."
+- **The fire:** the generator hum stops; the shed on its pad burning out the door and through the roof; a bang; the truck black against the glow; the fire company's red lights.
+- **The bar at half tide:** knee-deep flood over cobble; the seaward lip "never came out of the water"; the gut on her left; his belt in her fist; a flat stone that rocks; the drop's deeper note; the flashlight crossing "a boat's length off."
+- **The fish house:** under the ledge, one window seen from no road and no part of the bar; one door facing the land; the sill; damp planks; old bait; matches on the shelf; the oil-drum stove she relined in September; shavings off the bench; pine tar in the boards; the lantern; the wire along the stovepipe; the coal hod; the iron cot and the gray blanket; her father's red Pelican case on the shelf over the bench; the seaward wall she shingled in October; the small window.
+- **Dane:** the trauma kit (tape, gauze, shears, something that crackled, a tourniquet; no condom); the jacket on the nail with the notebook's corner at the inside pocket; the gun on the planks by his right hand; the callus across his palms; the gray above his ear; two days of stubble since Saturday's razor; the red tag on his bare wrist (twice in S3).
+- **Beth:** her father's sweater (she is in Dane's fleece in S1; see flags); the white line of a scar across her left palm (first on the page; see flags).
+- **Tess's keys:** hers and the spare, on an open hook in her office.
+
+**Plants placed:**
+- Smoke "the whole island could read" → paid in-chapter (Tess finds them by it).
+- Tess's truck by shape → paid in-chapter (in the drive at the fire); → Ch 09 s5, 10 s1.
+- Tess, emergency management director, in her own mouth (first on the page; Russ's Ch 04 line is cut) → Ch 06 ("You told the county?").
+- Ned's phone on Tess's shelf; the booster; a cell phone's a brick past the dock → Ch 09, 10.
+- **Tess saw Ned haul two cans up the north road** (doesn't know where they went) → Ch 06, 08.
+- "Keep Ashby off the net"; Tess shuts the book on today's page → Ch 06 (did she?).
+- "I know where every dollar on this island sleeps"; "My money I can count." → Ch 06, 10 (the fold of hundreds).
+- The blankets put behind the seat → paid in-chapter (the offer withdrawn).
+- The fire with Tess's truck in the drive, cab dark → Ch 09 s5, 10 s1.
+- The gut route (the lip, a stride right) → Ch 06 (the morning low), 09.
+- The flashlight on the water; "Short. Then long." → open (the cold reader reads it as a signal).
+- The fish house: its window unseen; the oil-drum stove; the matches on the shelf → Ch 06.
+- Her father's red Pelican case → open (cold reader: 70% it opens by Ch 07).
+- "Not anymore. When this is over, I report this." → Ch 07, 08, 10.
+- The trauma kit with no condom → the next love scene.
+- The notebook's corner in his jacket → Ch 07 s3–s4.
+- "Who had Ashby, besides me?" → paid S4.
+- The fire company's lights → Ch 06 (the island knows Ashby burned).
+- The scar on her left palm (Dane's hand stops her thumb on it) → needs a source or a payoff (see flags).
+- The keys on the open hook → Ch 09 s5, 10 s1.
+- "I'll call it a store vehicle. No name." / "I'll do what I can." → Ch 06, 07 (the notebook), 08.
+- "Monday's the twenty-third… I've run out of houses." → Ch 06, 08, 10.
+- "I walk into Marr's in daylight… And I watch who watches me buy it." → Ch 06 s1.
+
+**Plants paid:**
+- The flashlight on the back steps; "Light." → Tess saw it, 22:40 (← Ch 02 S3).
+- Tess writes on her hand → 22:40 on her knuckles (← Ch 02 S2).
+- The net as a list → "I didn't put you on the air" (← Ch 02 S2).
+- Tess asked Russ twice where Beth sleeps → "I'll know where you do." (← Ch 04 S1).
+- The bank man's papers → "like the bank does" (← Ch 04 S2).
+- The generator; "Nobody'll look twice at a light" → the smoke gives them away; the shed burns (← Ch 03 S2–S3, Ch 04 S2).
+- "Do we run it?" → not overnight; run in the evening; the shed goes up (← Ch 04 S2).
+- "He's checking houses" / "We move tonight" / "Then Monday" / the fish house → the crossing and the fish house (← Ch 04 S2).
+- "That's a not yet." → "Is it still a not yet?" / "Not anymore." (← Ch 04 S2).
+- The kiss stopped by the phone → the scene carried through (← Ch 03 S3).
+- Dane soaked to the knee; the boots → "These are waterproof." / "That's a narrow definition of waterproof." at the fish house door (← Ch 03 S2, Ch 01). Boots 2 of 3.
+- "Sea coming. Stand still." → he sets his feet and goes still in the flood without being told (← Ch 03 S2).
+- Her father's razor → "two days of stubble since Saturday's razor" (← Ch 03 S1).
+- The loyalty sentence (Ned in the dark, Tess's open log) → Beth names "Home," the key and the log to Dane (← Ch 03 S2).
+- Ned aboard till the barge → Tess carries his chowder down (← Ch 04 S2).
+- Monday week → "Monday's the twenty-third" (← Ch 02 S1, Ch 04 S1).
+- The phone rule ("the only one that works") → the booster clause (← bible; Russ's Ch 04 line is cut, so this is now the first statement).
+
+**Numbers stated:** two (the truck, "At two"); 22:40 (knuckles and book); ten seconds (the flashlight Friday); three days (of other people's gallons); since town meeting; since Friday; two cans; near ten; two bags; forty minutes to the tide; twenty to eleven (half tide); knee-deep at half tide; ninety seconds; six (on the bar since she was six); a stride to the right; a boat's length; September (the stove relined); a minute; five (minutes); two days (of stubble); Saturday (the razor); twice (the buckle); October (the seaward wall); thigh-deep; the morning low; Monday the twenty-third; three things. **Not on the page:** thirty-one; nine thousand; ten days; any price; any seal number.
+
+**Ends on:** Monday night (Day 4), in the fish house at Calloway Cove, lantern out, coal light only. Across the cove the flashlight has gone out or turned back toward the burned Ashby shed; the fire company's lights are on the north road; the flood is thigh-deep over the bar and nobody crosses till the morning low. Dane has said "Monday's the twenty-third… And I've run out of houses." Beth has sat up out of the blanket, put her bare feet on the cold planks, and said she'll walk into Marr's in daylight in the morning, buy what she needs and watch who watches her buy it.
 
 ---
 
@@ -343,81 +421,101 @@
 | The deck: stern chain, ring buoy bracket, quarter ladder, outside ladder, binders/D-rings, breaker box on the aft bulkhead | 01 s1 | 09 | Open (stern chain seen again Ch 02 S2) |
 | Dark unit; "I'll work it short. Go home." | 01 s1 | 06, 09 | Open |
 | "Go home. I'll lock up."; Ned carries both bags | 01 s1 | 06, 09 | Open |
-| Tess's yellow tag on the store bag | 01 s1 | 07, 09 | Open. **Colors on the page Ch 04 S3** ("Fare bag's red. That's the boat's. Tess seals hers yellow.") |
-| Ned looks back: 1 (hand, Ch 01), 2 (nod, Ch 02 S2), 3 (flashlight lifted, Ch 04 S4) | 01 s1, 02 S2, 04 S4 | 08 (he doesn't) | All three plants placed; payoff open |
+| Tess's yellow tag on the store bag | 01 s1 | 07, 09 | Open. **Colors on the page Ch 04 S2** ("Fare bag's red. That's the boat's. Tess seals hers yellow, with my envelope in it.") |
+| Ned looks back: 1 (hand, Ch 01), 2 (nod, Ch 02 S2), 3 (**moved to Ch 06**; the Ch 04 beam is cut) | 01 s1, 02 S2, 06 | 08 (he doesn't) | Two placed; the third goes in the Ch 06 beats; payoff open |
 | Fuel float lit late | 01 s1 | 06, 10 | Open (bare in Ch 02 S1) |
-| Hooded man, dragging left heel; rows like an islander; knows the shore and the surge | 01 s1, 02 S1, 03 S2 | 04 s1, 09 | **Ch 04 S1: his face shown; goes aboard the *Margaret Ann*.** → Ch 07 (the shot from the skiff), 09. Open |
-| His heel track on Marr's dock | 01 s4 | 03 S1–S2 | Paid (the print at her steps; the drag on the planks) |
-| The skiff man / afterdeck figure facing the hill | 01 s4, 02 S3 | 04 s1 | Paid (he goes aboard the *Margaret Ann*) |
-| Arsenault rows a skiff from the store dock | 03 S2 | 04 s1 | Paid (the heel man runs the skiff out from under the store dock to the *Margaret Ann*) |
+| Hooded man, dragging left heel; rows like an islander; knows the shore and the surge | 01 s1, 02 S1, 03 S2 | 04, 09 | **Ch 04 S1: his face; aboard the *Margaret Ann*. Ch 04 S2: checks Ashby, feels the set.** → Ch 07 (the shot from the skiff), 09. Open |
+| His heel track on Marr's dock | 01 s4 | 03 S1–S2 | Paid |
+| The skiff man / afterdeck figure facing the hill | 01 s4, 02 S3 | 04 S1 | Paid (he goes aboard the *Margaret Ann*) |
+| Arsenault rows a skiff from the store dock | 03 S2 | 04 S1 | Paid (the heel man runs a skiff out from under the store dock) |
 | Beth left the man out of her call to the trooper | 01 | later (Quist, the case) | Open |
 | Gloves off / bare hands | 01 s1 | 10 s5 | Open |
 | Master and one deck | 01 s2 | 10 | Open |
-| The pouch; Dane watching it | 01 s2 | 07 | Open ("I watched that pouch go by on the ramp," Ch 04 S3) |
-| Pelletier in custody → Monday | 01 s2 → 02 S1 | 06, 08, 10 | Monday open |
+| The pouch; Dane watching it | 01 s2 | 07 | Open |
+| Pelletier in custody → Monday | 01 s2 → 02 S1 | 06, 08, 10 | Open. Date on the page Ch 05 S4: "Monday's the twenty-third" (Ch 04 S1: "Monday week. Eight days.") |
 | "Buried in it." | 01 s2 | 06 | Open |
 | Dane's phone: turned away, typing, the glow under his chin | 01, 02 S3 | 03 S1 | Paid (the screen) |
-| The screen: Pike's order; "Q" / Homeland Security, Portland | 03 S1 | 04, 07, 08, 10 | Open. Ch 04 S1: second screen ("Q says hands off the vessel. Observe only. Keep witness in place."); "Is this going in your log?" unasked (S3) → Ch 07 |
-| "Then don't sit with your back to me." / the chair | 03 S1 | 04 on | Open (not used in Ch 04) |
-| Her father's razor; the last shave | 03 S1 | 04 (stubble) | Paid (Ch 04 S5, her face against the stubble); stubble → Ch 05, 06 |
-| The boots (2 of 3: "these are waterproof," Ch 04 S5) | 01 s2, 04 S5 | 10 | Open (one use left) |
-| The wheel; the license in her wallet; "Put my name in" unsaid; Ned gives up the wheel in June | 01 s2, 04 S4 | 10 s1, s3 | Open |
-| The boat (Webbers Cove); thirty-one (3 of 3, rested); noon let go | 01 s3–s4, 03 S1–S2 | 04 s1 ("Sold. Sorry.") | Paid (Ch 04 S1) |
-| "Sold. Sorry."; the listing sheet in the back cover of Dane's notebook | 04 S1 | 06 s4 ("Why a boat?"), 10 s5 | Open |
-| The notebook as an object (back cover only) | 04 S1 | 07 s3–s4 | Open |
-| "Hands off the vessel. Observe only. Keep witness in place."; "She wants me alive long enough to be useful." | 04 S1 | 06 s3, 07, 08, 10 | Open |
-| The latch opened at the first try; "as if somebody had told him where" | 04 S1 | 10 (Quist's statement) | Open (cold reader's top question) |
-| The empty cottage searched at dawn | 04 S1 | 05 (Ashby given up noon Monday) | Open |
-| Picnic boat | 01 s3 | 04 | Paid (the *Ruthie C*, Ch 04 S3) |
-| The *Ruthie C*; the bank man's papers | 04 S3 | 06 s4, 10 | Open |
-| Russ off the *Margaret Ann* ("Feds told me stay off that boat") | 04 S2 | 06, 07, 10 | Open |
-| Russ takes the path behind Marr's | 04 S2 | 09 | Open |
-| Russ's cable line; the tower on the district's list since Labor Day | 04 S2 | — | Paid (closes the sabotage question) |
-| Dane's private-boat reasons (after Russ offers the *Second Wind*) | 04 S2 | — | Paid (closes the "other boats" question; ← Ch 02 S1) |
-| Tess, emergency management since town meeting | 04 S2 | 06 ("You told the county?") | Open |
-| LifeFlight won't lift the old woman (1 use) | 04 S2 | 07, 08 | Open |
-| Tess asked Russ twice where Beth sleeps; wrote it on her hand | 04 S2 | 05 (the fight) | Open |
-| The envelopes: slip inside, name in Tess's hand, flap tucked, never sealed | 04 S3 | 07 s3, 09 | Open |
-| **The seal-tag colors** (red the boat's/fare bag, yellow Tess's); the red seal on Dane's wrist (Thursday's spent fare-bag seal) | 04 S3 | 06 s2 (Dane reads "Seal noted: red" as the fare bag's), 07 s3–s5, 09 s4; optional 05 (she cuts it) | Open |
-| The generator's bleed screw | 04 S3 | 05 (the shed goes up) | Open |
-| "That's a not yet." / "One I can't afford." / "Then save up." | 04 S3 | 05 s3 (callback on "not yet") | Open |
-| The diesel; "pump's eating impellers"; Ned aboard till the barge | 04 S4 | 05 s1, 06, 10 | Open |
-| The gut: the lip; waist-deep at dead low, knee-deep at half tide; "Ninety seconds… stay inside where I put you." | 04 S5 | 05 s2 | Open |
-| Dane stands where she puts him (his walk-it-first rule broken) | 04 S5 | 05 s2, 09 | Open |
-| Subpoena under the barometer | 01 s3 | 02 S1 | Paid (glanced at) |
+| The screen: Pike's order; "Q" / Homeland Security, Portland | 03 S1 | 04, 07, 08, 10 | Open. Ch 04 S1: second screen; "Is this going in your log?" unasked (Ch 04 S2) → Ch 07 |
+| "Then don't sit with your back to me." / the chair | 03 S1 | 04 on | Open (not used in Ch 04–05) |
+| Her father's razor; the last shave | 03 S1 | 05 (stubble) | Paid (Ch 05 S3, "two days of stubble since Saturday's razor") |
+| The boots (2 of 3: "These are waterproof," Ch 05 S3) | 01 s2, 05 S3 | 10 | Open (one use left) |
+| The wheel; the license in her wallet; "Put my name in" unsaid; Ned gives up the wheel in June | 01 s2, 04 S2 | 10 s1, s3 | Open |
+| The boat (Webbers Cove); thirty-one (3 of 3, rested); noon let go | 01 s3–s4, 03 S1–S2 | 04 S1 | Paid ("Sold. Sorry.") |
+| "Sold. Sorry."; the listing sheet in the back of Dane's notebook | 04 S1 | 06 s4 ("Why a boat?"), 10 s5 | Open |
+| The notebook as an object | 04 S1, 05 S3 (its corner in the jacket) | 07 s3–s4 | Open |
+| "Hands off the vessel. Observe only. Keep witness in place."; "Q wants me alive long enough to be useful. Both of us." | 04 S1 | 06 s3, 07, 08, 10 | Open |
+| The latch opened at the first try; "as if somebody had told him where" | 04 S1 | 10 (Quist's statement) | Open |
+| A man on the afterdeck turns toward Russ on the summit | 04 S1 | open | Open (were they seen?) |
+| The empty cottage searched at dawn | 04 S1 | 05 | Paid (Ashby found by its smoke, then burned) |
+| Picnic boat | 01 s3 | 04 | Paid (the *Ruthie C*, Ch 04 S2) |
+| The *Ruthie C*; the bank man's papers | 04 S2 | 05 S1 ("like the bank does"), 06 s4, 10 | Ch 05 echo paid; → Ch 06 s4, 10 open |
+| Russ off the *Margaret Ann* ("Feds told me stay off that boat"; Dane only asked) | 04 S1 | 06, 07, 10 | Open |
+| Russ takes the path behind Marr's | 04 S1 | 09 | Open |
+| Dane's private-boat reasons (after Russ offers a run to Pruett) | 04 S1 | — | Paid (← Ch 02 S1) |
+| Tess, emergency management director | 05 S1 (her own mouth) | 06 ("You told the county?") | Open. Russ's Ch 04 line is cut |
+| LifeFlight won't lift the old woman (1 use) | 04 S1 | 07, 08 | Open |
+| Tess asked Russ twice where Beth sleeps | 04 S1 | 05 S1 | Paid ("I'll know where you do.") |
+| The envelope: from the store, slip inside, flap tucked, never sealed; Tess, Beth and the teller see the slip | 04 S2 | 07 s3, 09 | Open |
+| **The seal-tag colors** (red the boat's fare bag, yellow Tess's); the red seal on Dane's wrist ("an old red seal the credit union had sent back in an empty pouch") | 04 S2 | 06 s2 (Dane reads "Seal noted: red" as the fare bag's), 07 s3–s5, 09 s4 | Open. On the page again Ch 04 S2 (under his cuff before Ned), Ch 05 S3 (twice) |
+| The credit union sends seals back in empty pouches | 04 S2 | 06 s2, 07 | Open (plot auditor checks the chain) |
+| The generator's bleed screw; the diesel on the floor | 04 S2 | 05 | Paid in effect (the shed burns, Ch 05 S2); the screw itself not named again |
+| The man feels the cold set; the handprint in the frost | 04 S2 | 05 S1 ("to feel if it was warm") | Feel paid; the print → open |
+| "He's checking houses"; the fish house at Calloway Cove; "Then Monday" | 04 S2 | 05 S2–S3 | Paid |
+| "That's a not yet." / "One I can't afford." / "Then save up." | 04 S2 | 05 S3 | Paid ("Is it still a not yet?" / "Not anymore.") |
+| The diesel; "pump's eating impellers"; Ned aboard till the barge | 04 S2 | 05 S1, 06, 10 | Ch 05 S1 paid (Tess); → Ch 06, 10 open |
+| Dane's cuff over the tag in front of Ned | 04 S2 | open | Open |
+| Ned's phone on Tess's shelf; the booster; past the dock a cell phone's a brick | 05 S1 | 09, 10 | Open (cold reader can't tell which way it cuts) |
+| Tess saw Ned haul two cans up the north road (doesn't know where they went) | 05 S1 | 06, 08 | Open |
+| "Keep Ashby off the net"; Tess shuts the book on today's page | 05 S1 | 06 | Open |
+| "I know where every dollar on this island sleeps"; "My money I can count." | 05 S1 | 06, 10 | Open |
+| The fire: Tess's truck in the drive, cab dark | 05 S2 | 09 s5, 10 s1 | Open |
+| The gut route: the seaward lip, a stride right (first found in the Ch 05 crossing) | 05 S2 | 06 (the morning low), 09 | Open |
+| "Ninety seconds across, if we don't stop" (said at the stove) | 05 S1 | 05 S2 | Paid ("more than the whole crossing she'd promised him… standing still") |
+| Dane stands still in the flood untold | 05 S2 | 09 | Open (pattern: he stands where she puts him) |
+| The flashlight on the water; "Short. Then long." | 05 S2, S4 | open | Open (reads as a signal) |
+| Her father's red Pelican case | 05 S3 | open (by Ch 07) | Open |
+| "Not anymore. When this is over, I report this." | 05 S3 | 07, 08, 10 | Open |
+| The trauma kit, no condom | 05 S3 | the next love scene | Open |
+| "Who had Ashby, besides me?" | 05 S3 | 05 S4 | Paid |
+| The fire company's lights | 05 S4 | 06 | Open |
+| The scar across Beth's left palm | 05 S4 | needs a source | Open (see flags) |
+| The keys to Tess's truck on the open hook | 05 S4 | 09 s5, 10 s1 | Open |
+| "I'll call it a store vehicle. No name." / "I'll do what I can." | 05 S4 | 06, 07, 08 | Open |
+| "I walk into Marr's in daylight… And I watch who watches me buy it." | 05 S4 | 06 s1 | Open |
+| Subpoena under the barometer | 01 s3 | 02 S1 | Paid |
 | Dollar bet (1 of 4); "I don't bet" (1 of 2) | 01 s4 | 10 s5 | Open |
 | Ned's formal radio voice | 01 s4 | 09 s4 | Open |
-| Tess writes on her hand (*CALLOWAY — BOAT*) | 02 S2 | 05, 06 | Open (22:40 on her knuckles carried to Ch 05). Ch 04 S2: Russ reports she wrote Beth's sleeping place on her hand anyhow |
+| Tess writes on her hand (*CALLOWAY — BOAT*) | 02 S2 | 05, 06 | Ch 05 S1 paid (22:40 on her knuckles); → Ch 06 open |
 | Tess's fold of hundreds | 02 S2 | 06, 10 | Open |
 | Two trucks, one lane of steel | 02 S2 | 09 | Open (only the bait truck named) |
-| The bow crack; the Coast Guard; "Ten days" (1 of 4) | 02 S2 | 07, 10 | Open. Ch 04 S4: the *North Reach* "taking water slow up forward. She'll keep." till the barge |
+| The bow crack; the Coast Guard; "Ten days" (1 of 4) | 02 S2 | 07, 10 | Open |
 | "Steel doesn't burn. Everything in it does." | 02 S2 | 08, 09 | Open |
-| The dragger lit through the blackout | 02 S2 | 03 S2–S3, 04 S1 | Paid (named; goes dark; the heel man goes aboard her) |
+| The dragger lit through the blackout | 02 S2 | 03 S2–S3, 04 S1 | Paid |
 | Ned can't swim | 02 S2 | 09 s5 | Open (background) |
 | Ned's gloves | 02 S2 | 10 s5 | Open |
 | "Anyone with a skiff." / "Nobody's coming over that stern in this." | 02 S2 | 09 | Open |
 | "Me and God" (1 of 3, Ch 02; 2 of 3, Ch 03); nine; "Like your dad" | 02 S2, 03 S2 | 09 | Open (one use left) |
-| The flashlight on the steps; "Light." | 02 S3 | 05 | Open (Tess saw it: carried to Ch 05) |
+| The flashlight on the steps; "Light." | 02 S3 | 05 S1 | Paid (Tess saw it; 22:40) |
 | Beth's voices (1 of 2) | 02 S3 | 09 s4 | Open (one use left) |
-| Tess's lights out before the truck | 02 S3 | 05, 10 | Open |
-| A pickup with no lights | 02 S3 | 05, 10 | Open |
+| Tess's lights out before the truck | 02 S3 | 10 | Open (not addressed in Ch 05) |
+| A pickup with no lights | 02 S3 | 10 | Open (Ch 05's dark-cab truck at the fire echoes it; not tied) |
 | "Let him come to us." | 02 S3 | 09 | Open |
 | The scuffs on the back steps | 02 S3 | 03 S1 | Paid (the print) |
-| "You." | 02 S3 | 03 S1–S2 | Paid ("short list"; the loyalty sentence) |
+| "You." | 02 S3 | 03 S1–S2, 05 S4 | Paid ("short list"; the loyalty sentence; "Neither one had been in her *You*.") |
 | The latch; the mudroom door | 02 S1, S3 | 02 S3 | Paid |
-| The heel man in daylight; "Sea coming. Stand still." | 03 S2 | 04 s1, 04 s5, 09 | Face paid Ch 04 S1; "Stand there" / "stay inside where I put you" Ch 04 S5; → Ch 09 open |
-| Dane soaked to the knee | 03 S2 | 04 ("narrow definition of waterproof") | Paid (Ch 04 S5) |
+| The heel man in daylight; "Sea coming. Stand still." | 03 S2 | 04 S1, 05 S2, 09 | Face paid Ch 04 S1; he goes still in the flood Ch 05 S2; → Ch 09 open |
+| Dane soaked to the knee | 03 S2 | 05 S3 | Paid ("That's a narrow definition of waterproof," at the fish house door) |
 | Russ: "Where you sleeping tonight? Asking because somebody will." | 03 S2 | 09 | Open |
-| Tess sees Beth's thumb on Dane's neck | 03 S2 | 05 | Open |
-| Arsenault, the *Margaret Ann*; buys the marshal's coffee | 03 S2 | 04 s1; 06 s2 (the account) | Ch 04 S1 paid (the heel man boards her); account → Ch 06 s2 open |
-| The Ashby key from Ned; the generator light | 03 S2 | 04 s3, 05 | Ch 04 S4: Ned brings the diesel, holds Ashby; → Ch 05 open |
-| The loyalty sentence (Ned, Tess's open log) | 03 S2 | 05 s4, 06 s3 | Open |
-| The generator: third pull; tank near empty | 03 S3 | 04 S3 (the bleed), 05 (the shed) | Tank paid Ch 04 S3–S4; the shed → Ch 05 open |
-| The kiss stopped by the phone; "Don't write me down." / "No." | 03 S3 | 04, 05 s3 | Ch 04: "Last night. Was that the end of it?" / "not yet"; "Don't write me down" answered by the bank man's papers (implied). → Ch 05 s3 open |
-| "North end. Not the house." | 03 S3 | 05, 08 | Open |
+| Tess sees Beth's thumb on Dane's neck | 03 S2 | 06 | Open (not on the page in Ch 05's fight) |
+| Arsenault, the *Margaret Ann*; buys the marshal's coffee | 03 S2 | 04 S1; 06 s2 (the account) | Ch 04 paid; account → Ch 06 s2 open |
+| The Ashby key from Ned; the generator light | 03 S2 | 04 S2, 05 | Paid (the key in her pocket; Ned's diesel; the smoke; told to Dane Ch 05 S4) |
+| The loyalty sentence (Ned, Tess's open log) | 03 S2 | 05 S4, 06 s3 | Ch 05 S4 paid (Beth names "Home," the key and the log); → Ch 06 s3 open |
+| The generator: third pull; tank near empty | 03 S3 | 04 S2, 05 S2 | Paid (the bleed; the shed burns) |
+| The kiss stopped by the phone; "Don't write me down." / "No." | 03 S3 | 04, 05 S3 | Paid (Ch 05 S3 carried through; "When this is over, I report this.") |
+| "North end. Not the house." | 03 S3 | 05, 08 | Open (Ashby was found by smoke on the page; the leak question stays) |
 | "You'll be unpacking by two" | 01 s4 | 01 s4 | Paid |
 | "You were told not to work" | 01 s1 | 01 s2 | Paid |
-| **Retired from the ledger (no longer on the page):** Beth's relief when the bridge fell (cut from Ch 02; stays latent in the bible); "Milk's up a quarter… eggs till Easter"; "two dollars to hear"; Ida Dyer's scanner; the palm flat on the log (the book's one use is unspent); **"Ned's color"** (retired from the book, Ch 04 ruling 3; the red tag on Dane's wrist carries the color memory instead); Ned's over-detailed reefer lie (not in Ch 04; moved to Ch 06 s3, see flags) | — | — | Dropped |
+| **Retired from the ledger (no longer on the page):** Beth's relief when the bridge fell (cut from Ch 02; latent in the bible); "Milk's up a quarter… eggs till Easter"; "two dollars to hear"; Ida Dyer's scanner; the palm flat on the log (unspent); "Ned's color" (retired, Ch 04 ruling 3); **the bar rehearsal** (old Ch 04 S5, cut; the gut route is first found in the Ch 05 crossing); **"where I put you"** (retired); "Thursday's spent seal" (replaced by today's seal wording); the old Ch 04 S3 details now off the page (see "Carried forward") | — | — | Dropped |
 
 ## Numbers ledger (running; copy from the bible and update as figures change)
 | Figure | Value | Ch |
@@ -429,119 +527,146 @@
 | Beth's call | past midnight | 01 |
 | Pruett ramp | 7:40 a.m. ("twenty to eight") | 01 |
 | The boots | a hundred and ninety, Route One, fudge | 01 |
-| Dane's boat | Webbers Cove thirty-four, rebuilt Cat; "Firm at thirty-one. Saturday noon." (screen); let go at noon Day 2. **Thirty-one: 3 of 3, rested.** | 01, 03 |
+| Dane's boat | Webbers Cove thirty-four, rebuilt Cat; "Firm at thirty-one. Saturday noon."; let go at noon Day 2; "Sold. Sorry." Day 3. **Thirty-one: 3 of 3, rested.** | 01, 03, 04 |
 | Beth's deal | the two o'clock; quarter to three | 01 |
 | Tess's coffee to Dane | two dollars (Ch 01 only). **Retired.** | 01 |
 | The cancellation | a quarter past one; "fourteen hundred departure" | 01 |
 | Pelletier | in a cell in Portland | 01 |
 | The latch, quietly | the third try | 02 |
 | The skiff in the squall | two lengths short of any boat | 02 |
-| The grand jury | Monday, the last sitting before Pelletier walks | 02 |
+| The grand jury | Monday, the last sitting before Pelletier walks; **Monday the 23rd** (Ch 05 S4); "Monday week. Eight days." from Sunday, Day 3 (Ch 04 S1). Day 4 is Monday Nov 16; the grand jury is Day 11 | 02, 04, 05 |
 | D batteries | up a quarter till the boat runs | 02 |
 | The barge | "Ten days, if the state gets a barge out" (1 of 4) | 02 |
 | Beth's handheld | channel nine | 02 |
 | The two yellow windows | married by Tuesday; looked up by Wednesday | 02 |
-| The truck | a little after eleven | 02 |
+| The truck (Friday) | a little after eleven | 02 |
 | The latch lifts | twenty to twelve (clock hands) | 02 |
 | The razor | tapped twice on the basin | 03 |
 | The broker's deadline | Saturday noon; the store clock at noon | 03 |
-| The Ashby generator | catches on the third pull | 03 |
-| Tess's light on the back steps | 22:40 (written object) / "twenty-two forty" (said). **Not on the page yet:** carried to Ch 05 | — |
+| The Ashby generator | catches on the third pull (Ch 03); dead since noon Sunday (Ch 04); burns near ten Monday (Ch 05) | 03, 04, 05 |
 | The latch, Sunday | opened at the first try (the hooded man) | 04 |
-| Pike's second screen; the broker | "Sold. Sorry." (two words) | 04 |
 | Tess asked Russ where Beth sleeps | twice | 04 |
-| The slip tower | on the district's list since Labor Day | 04 |
 | LifeFlight | "yesterday" (Saturday, Day 2; matches the bible) | 04 |
-| The *Ruthie C* | thirty-eight feet; the price soft two winters running; the bank man on the noon boat | 04 |
 | The bleed screw | a quarter turn | 04 |
-| Ned's diesel | two cans off the *North Reach*'s day tank, Sunday dusk | 04 |
-| Beth's license | hundred-ton; twice in the district's lot; "Put my name in," four words, carried a year | 04 |
+| The man's hand on the housing | a foot above Beth's head; his boot an inch from the diesel; two steps into the shed | 04 |
+| Ned's diesel | two cans off the *North Reach*'s day tank, Sunday dusk; Tess: "since he hauled two cans up the north road" | 04, 05 |
+| Beth's license | hundred-ton | 04 |
 | Ned gives up the wheel | June (matches the bible) | 04 |
-| Day 4 | Monday, "a week before the Monday that mattered in Portland" (grand jury Monday is Day 11, Nov 23) | 04 |
-| The gut | waist-deep at dead low; the lip one stride back from the drop | 04 |
-| The bar at half tide, in the dark | knee-deep; "Ninety seconds, if you don't stop" | 04 |
+| Tess's truck at Ashby | at two, Monday | 05 |
+| Tess's light on the back steps | 22:40 on her knuckles and in her book (*Calloway — home 22:40.*); ten seconds; Friday | 05 |
+| Tess's emergency-management title | since town meeting | 05 |
+| The tide, Monday night | half tide at twenty to eleven; knee-deep on the bar; forty minutes to the tide at near ten | 05 |
+| The crossing | "Ninety seconds across, if we don't stop" (said at the stove, Ch 05 S1); the lip a stride to the left of the line she took | 05 |
+| Beth on the bar | since she was six | 05 |
+| The fish-house stove | relined in September; the seaward wall shingled in October | 05 |
+| Dane's stubble | two days since Saturday's razor | 05 |
+| The bar, late Monday night | thigh-deep and going under; nobody crosses till the morning low | 05 |
+| **Retired from the ledger with the Ch 04 rebuild (not on the page now):** the slip tower on the district's list since Labor Day; the *Ruthie C*'s thirty-eight feet, two winters running and the noon boat; "Put my name in," four words, carried a year, twice in the district's lot; Day 4 as "a week before the Monday that mattered in Portland"; the gut waist-deep at dead low; "Sold. Sorry." as "two words" | — | — |
 
 ## Master continuity flags
-- **Length.** Act 1 (Ch 01 3,113 + Ch 02 2,827) is 5,940 words, 19.8% of 30,000, inside the ≤ 20% target. Ch 03 is 2,614, under its band floor (accepted by the author). Ch 04 is 2,795, inside its 2,700–2,862 band. **Running total after four chapters: 11,349 (37.8% of 30,000).** Ch 05 carries the Tess–Beth fight and the intimate scene at full floor: keep everything before the intimate scene to 2,000 words or fewer so s3 lands at about 44–47%, before 50%.
-- **Cold reader after Ch 04: "I'd keep reading, but the middle sags."** Pull 3.6 of 5 (7 of 10), no scene at 2; weakest scene S2 (Russ, 3), then S4 (Ned, 3). Treat as a warning above the score.
-- **Suspect split after Ch 04 (cold reader, from the page):** Tess 35 / Dane's reports leaking 25 / Ned 15 / Russ 12 / Dane 8 / other 5. Ned was at about 45 after Ch 03; the Ch 04 spread worked. The reader says Tess is pushed so hard it makes them look at Russ and Ned. Ch 05's fight adds Tess weight on the page; balance it so she doesn't pass about 40.
-- **Heat.** Stopped once by the phone (Ch 03 S3). Ch 04's desire beats (S3 hip to hip, "not yet"; S5 inside his jacket) were carried through, not broken off. Ch 05 s3 lands at its full floor with nothing cutting it short; a second stop loses the sample reader.
-- **The hooded man.** Answered in Ch 04 S1: his face (young, wide, pale, unknown to Beth) and his boat (he goes aboard the *Margaret Ann*). The reader flagged that he searches the house in daylight and shows his face to the hill, and nobody remarks on how brazen it is; the page should register it the next time he is near.
-- **Dane on the phone.** Ch 04 adds no "goes out under the sky" beat: one message typed flat on the granite, shown to Beth (S1). Keep folding his calls into other action.
-- **The grand-jury Monday.** Fixed in triage: Day 4 is "a week before the Monday that mattered in Portland." The reader had taken Ch 02 S1's "the grand jury sits Monday" for Day 4. Ch 05 or 06 should give the date one concrete anchor (the 23rd, or "a week from Monday") so the clock is never in doubt again.
-- **"The only one on the island that works"** (Tess's phone, Ch 04 S2). Matches the bible (landlines dead from Day 2 morning; usable signal only within fifty feet of the store's booster), but the reader had to guess why. Ch 05 s1's "Only place on the island it's a phone" (Ned's phone on Tess's shelf) should make the rule plain in a clause.
-- **The red seal on Dane's wrist** is Thursday's spent fare-bag seal (ruling, Oct 29), from Beth's coat pocket. The page does not say who cut it or when; Ch 07 and the plot auditor (manuscript mode) must keep that consistent with the courier taking the fare bag at Pruett on Friday morning. It comes off with a knife; if it's cut (optional Ch 05), Beth knows.
-- **Dane told Russ the feds want him off the *Margaret Ann*** right after "Observe only." The reader read it as a careless slip the book doesn't notice. Either the page owns it later (Russ talks; Dane knew he would) or the manuscript audit fixes it.
-- **Russ saw Beth and Dane on the islanders' path** off the back of Lookout Hill, Sunday morning, and went on down toward Marr's before Beth turned up the north road. He does not have Ashby on the page.
-- **"You." left Ned out.** Answered on the page: Dane's "short list" (Ch 03 S1) and the loyalty sentence (Ch 03 S2). Closed.
-- **Ned heard the decoy at the stern** (Ch 02 S2) and was told "Home." Not mentioned in Ch 04; keep it unmentioned until the beats need it.
-- **Ch 04 rulings (Oct 29, autopilot; from `chapters/chapter-04/beats.md`):**
-  1. **Ned's over-detailed reefer lie moves to Ch 06 s3,** below decks, just before the shorts confession, so the lie and its confession share one scene. Ch 04 adds no Ned tells. For the Ch 06 beats.
-  2. **Dane reads "Seal noted: red" as the fare bag's in Ch 06 s2.** He heard the colors in Ch 04 S3. The plot auditor checks it in manuscript mode.
-  3. **"Ned's color" is retired from the book.** The red tag on Dane's wrist carries the color memory instead; the Ch 09 correction works without it.
-  4. **The listing sheet is in the back of Dane's notebook** (a printed sheet, folded in quarters, then once more). It puts the notebook on the page ahead of Ch 07.
-  5. **The line now reads "That's a not yet," he said. "One I can't afford."** The Ch 05 s3 payoff calls back **"not yet"**, never "not a no." The bible's speaker table still shows the old wording; flag it for the author at the next bible review (the orchestrator does not edit the bible).
-  6. **The red tag on Dane's wrist is Thursday's spent fare-bag seal** (resolves the voice editor's flag that the beats called it a spare strip).
+- **Length.** Running totals by `wc -w` today: Ch 01 3,113; Ch 02 2,832 (the Ch 02 entry's header says 2,827; `wc` now reads 2,832); Ch 03 2,614; Ch 04 2,237; Ch 05 3,695. **Running total after five chapters: 14,491 words, 48.3% of 30,000.** Act 1 (Ch 01–02) is 5,945, 19.8%. Ch 04 is well under its old 2,700–2,862 band after the rebuild; Ch 05 is long. The back half has 15,509 words for five chapters.
+- **The love scene's position.** Ch 05 S3 runs from word ~12,689 to ~13,990 of the book: **42.3% to 46.6% of 30,000.** The kiss that starts it is at ~13,069 (43.6%). It lands before 50%, as the brief requires. The scene carries through with no stop (the condom-less kit turns it rather than stopping it; no intercourse).
+- **Reader warnings for the Ch 06 beats** (from `reviews/pull-curve-ch01-05-r3.md`, which read Ch 04 round 2 and Ch 05 with round-2 edits, and `chapters/chapter-05/reader-notes.md`, which read Ch 05 rebuilt v2; some quoted lines have since changed, but each warning stands):
+  1. **If Ch 06 opens with more shopping and who-knows-what talk, the reader is out.** ("I'd keep reading, but the only reason I'm still in it is the Ch 05 love scene.") Ch 06 s1 is Beth walking into Marr's to buy what she needs: it must open on threat and action, not on a list or on suspect talk.
+  2. **Ned reads at 45%** (pull curve r3: Ned 45 / Tess 20 / Russ 15 / Dane's side 12 / Arsenault 8), **and the Ned clues feel heavily planted.** The cold reader has Dane's channel 30 / Ned 25 / Tess 20 / Russ 10 / Arsenault 10 / other 5. Ch 06 carries Ned's third look-back and the over-detailed reefer lie: both are Ned weight, so spread the rest.
+  3. **Every scene ends on a polished closing line** ("She struck the match." / "Who had Ashby… besides me?" / "And I watch who watches me buy it."; Ch 04 did the same). Ch 06 needs scenes that cut away mid-motion or on an unfinished exchange.
+  4. **Dane's jokes all give objects feelings** (the casserole, the clam a rumor, the disappointing kit, the jeans that took a side; earlier the brick). Vary how he's funny.
+  5. **The red tag is repeated too often** (twice in the love scene alone, once on its own line, plus Ch 04). Rest it until Ch 06 s2 needs it.
+  6. **The Ch 05 love scene's middle goes generic** ("Then his mouth was on her breast" to "She was wet…"): stock words in stock order, nothing about a deckhand, a fish house or a witness. The next love scene stays specific to these two all the way through.
+  - Also from the Ch 05 cold read (logged, not ruled): Beth lights the stove and the lantern an hour after smoke gave Ashby away; Dane doesn't call in the fire or mention the flashlight, and sets the gun down during sex; "I know what you are. I'm choosing anyway." reads as a trailer line; the narrator nudges ("She let herself look," "let it be hers," "which she'd remember"); the recap paragraph before the last line; "Neither one had been in her *You*" and "Dane's phone talked to the sky and nothing else" fail aloud; "Three things you didn't count" is unclear; the opening squall soaking is unexplained; Tess's speeches open before her attribution, so a listener gives them to Beth.
+- **Rulings from today (Oct 29, autopilot), with the rebuild:**
+  1. **The bar rehearsal is cut.** The gut route is first found in the Ch 05 crossing (her left foot on the lip, a stride right).
+  2. **"where I put you" is retired.**
+  3. **"That's a narrow definition of waterproof" now sits at the fish house door in Ch 05** (S3), after "These are waterproof."
+  4. **Ned's third look-back plant moves to Ch 06** (the beam is cut from Ch 04). Ned leaves Ashby in Ch 04 without looking back. Payoff stays Ch 08 (he doesn't).
+  5. **The red seal is "an old red seal the credit union had sent back in an empty pouch."** This replaces every "Thursday's spent seal" wording, including Ch 04 ruling 6 below. The plot auditor (manuscript mode) checks the seal chain (fare bag → courier → credit union → back in an empty pouch → Beth's pocket) against Ch 06 s2, Ch 07 and Ch 09.
+  6. **The Bangor bus fact is approved but off the page.** Tess put Beth to bed the winter her mother left on the Bangor bus: bible-level fact, not in Ch 05's fight. Usable later.
+  7. **Tess saw Ned "haul two cans up the north road" but doesn't know where they went.** She doesn't know he took them to Ashby; she found Ashby by the smoke. ("Generator's Ned's" is her knowledge that Ned runs the Ashby set every storm, not knowledge of the cans' destination.)
+  8. **Dane's "Who do you owe? / No truck, no boat" exchange is off the page.** The facts (credit union, she owes nobody, no truck, no boat) stand in the bible.
+- **Ch 04 rulings (earlier Oct 29), as they stand after the rebuild:**
+  1. Ned's over-detailed reefer lie moves to Ch 06 s3, below decks, just before the shorts confession.
+  2. Dane reads "Seal noted: red" as the fare bag's in Ch 06 s2. He has the colors from Ch 04 S2.
+  3. "Ned's color" is retired from the book.
+  4. The listing sheet is in the back of Dane's notebook (on the page: "the broker's name across the top").
+  5. The line reads "That's a not yet," he said. "One I can't afford." **Paid Ch 05 S3** with "Is it still a not yet?" / "Not anymore." The bible's speaker table still shows the old wording; flag for the author at the next bible review.
+  6. ~~The red tag is Thursday's spent fare-bag seal.~~ **Replaced by today's ruling 5.**
   7. The latch opened at the first try is approved staging.
-- **Reader warnings from the Ch 04 triage** (logged for the Ch 05 beats and the manuscript audit):
-  - Russ's delivery scene sags (pull 3): he reads out a file on Tess, one clue after another. Don't give any one character a run of clues in a row again.
-  - Dane's calm running-commentary patter has been used four times in the book (the cable, behind the brick, the binoculars, the gut). Retire it.
-  - Dane's tics: "Okay." to open a line, "For the record" / "I'd like it noted", "Talk to me." Rest them.
-  - Repeated phrasing across chapters: "with his whole face" (Ch 01, 04); "into her hair" (Ch 03, 04); "'Him,' Beth said" word for word (Ch 03, 04); "low and even" / "low and steady" for his voice.
-  - Ned's exit gesture three times (hand, nod, flashlight). All three plants are now spent; no fourth exit beat for Ned before Ch 08.
-  - Every scene ends on a neat closing beat; the chapter feels assembled. Ch 05 needs at least one scene that cuts away mid-motion or on an unfinished exchange.
-  - Dane telling Russ the feds want him off the *Margaret Ann* after "observe only" (see above).
-  - Also noted by the reader: "Then save up." is too finished; the *Ruthie C*'s bank man retells Ch 01's man in a good coat, and the second telling lands softer; the sag in S4 between "Bit higher" and the license.
-- **Day words.** Ch 04 never says "Sunday"; the reader had to count back. Keep weekday names on the page where a scene opens on a new day.
-- **The decoy** is now said on the page in Dane's own words at the stern. Tess's clarification ("Net had you aboard. Your back steps had you home.") goes with the Ch 05 fight if it's used at all.
-- **Naming.** Ch 02 S1 narration says "Reyes" three times; from Dane's "Dane." to Tess (Ch 02 S2) the narration says "Dane." Ch 03 says "Dane" throughout; Beth says "Dane Reyes" once, in anger. Tess is "Ms. Marr" to Dane. Arsenault is "Arsenault" in narration; "Lyle" is not on the page yet (arrives with the account, Ch 06 s2).
-- **The skiff.** Ch 03 S2 has Arsenault row his own skiff out from the store dock. Ch 04 S1 closes it: the heel man runs the skiff out from under the store dock and goes up the *Margaret Ann*'s side on a line. Closed.
-- **Ambiguous "she."** Ch 02 still uses "she/her" for the *North Reach* in passages with Beth ("There's a crack in her up there"). Ch 04 triage fixed "a man on her afterdeck" → "on the dragger's afterdeck"; Ned's "She's taking water… She'll keep" (S4) is in Ned's mouth after "I'm going back aboard," and reads clear. Keep naming boats wherever Beth is in the sentence.
-- **Tess's knowledge.** On the page she knows only what Ch 02 S2 and Ch 03 S2 show (the roll call, the thumb on his neck). Everything she saw from her counter on Friday night (the light, 22:40) lands in Ch 05.
-- **Scene endings.** Ch 03 varied them (an action: the chair; an interior loyalty beat; a reversal on the porch). Ch 04 varied the types (prop, silence, cut mid-action, image, consequence), but the reader heard every one as a closing line (see the triage warnings).
-- **Motif counts after Ch 04:** the boots 2 of 3; "Ned looks back" 3 of 3 (spent); "Bethie" used once in Ch 04; "Me and God" 2 of 3 (one left, Ch 09); "walk me through it" 1 of 1 (spent); LifeFlight 1; Beth's voices 1 of 2; the screen used in Ch 04 S1.
-- **Phrases retired for Ch 04 and on, unless an outline beat needs one:**
+- **The latch.** Ch 04 now gives Beth two explanations only (she showed one person, Dane, on Friday; or he taught himself that night). "Half the island knows the latch" is gone. This points the latch at Dane on the page; the payoff (Ch 10, Quist) must cover it.
+- **Dane and Russ.** Dane now only asks Russ to stay off the *Margaret Ann* ("I'm asking you"); Russ supplies "Feds told me." The old flag (Dane leaking "observe only" to Russ) is softened, not gone: Russ will say "the feds" to others.
+- **Russ seen on the summit.** A man on the *Margaret Ann*'s afterdeck turned toward the hill while Russ stood on top. Whether the crew saw Beth and Dane is open.
+- **Tess's knowledge.** On the page she now knows: the roll call (Ch 02), the thumb on the neck (Ch 03), the light at 22:40 (Ch 05), Ashby by smoke, Ned's generator, Ned's two cans up the north road (not where to), Dane drew on her truck. Beth asked her to keep Ashby off the net; the book doesn't show whether she did. Her truck was in the drive at the fire; Beth has told Dane about the open key hook. The thumb-on-neck payoff and "Sat on it" are not tied in Ch 05's fight; carry the thumb to Ch 06 or retire it.
+- **Ned's phone on Tess's shelf.** On the page (Ch 05 S1) with the booster rule. The cold reader can't tell whether it clears Ned (he can't call from the boat) or exposes him (Tess can read it). The Ch 06 beats should decide which way the page leans, without stating the answer.
+- **22:40 and twenty to eleven.** Tess's log time (Friday) and Monday's half tide are the same clock time. The cold reader took it for a clue. Either make use of it or move the tide time (the tide table in the bible governs; the domain checker should confirm a half tide near 22:40 on Nov 16).
+- **The scar on Beth's left palm** ("the white line across her left palm," Ch 05 S4) is new on the page and reads as an established habit. It needs a source in the bible or an earlier plant, or it comes out at the manuscript stage.
+- **Fleece vs. sweater.** Beth is in Dane's fleece in Ch 05 S1; in S3 she wears "her father's sweater" and Dane takes off "the fleece." The page doesn't show the change. Fix in the manuscript stage or the next pass.
+- **Dane's hands.** "The old hauler's ridge" (Ch 03) and "the callus across his palms" (Ch 05). The cold reader now reads the sternman summers as a hole. Pay it (bible: the sternman summers) by Ch 06 s4 ("Why a boat?").
+- **The fire and Portland.** Nothing on the page has Dane report the Ashby fire or the truck, and the gun lies on the planks during the love scene. Ch 06 should show what he sent (he promised "a store vehicle, no name") so the professionalism holds.
+- **The flashlight "Short. Then long."** reads as a signal to the cold reader. Decide in the Ch 06 beats whether it is one.
+- **The hooded man** has now shown his face (Ch 04 S1, and "He didn't care who on the island saw that face" registers the brazenness the Ch 04 reader wanted), tried Ashby's doors, felt the set and left the handprint. Whether he or someone else set the fire is open on the page.
+- **Dane on the phone.** Ch 04: one message typed on the granite, shown to Beth. Ch 05: no call shown. Keep folding his calls into other action.
+- **Day words.** Ch 04 S1 says "Sunday"; Ch 05 says "Monday" (the air) and "Monday's the twenty-third." Keep weekday names where a scene opens on a new day.
+- **The decoy** is said on the page in Dane's own words (Ch 02). Tess's "Net had you aboard. Your back steps had you home." was not used in Ch 05; it is free for later or retired.
+- **Naming.** Narration says "Dane" from Ch 02 S2 on. Tess calls Beth "Calloway," "Beth" once when it's serious (Ch 05: "I could see your steps from my counter, Beth"), and Dane "Marshal." Arsenault is not in Ch 04–05; "Lyle" arrives with the account, Ch 06 s2.
+- **Ambiguous "she."** Ned's "She'll keep" (Ch 04 S2) is in Ned's mouth right after the *North Reach*; reads clear. Keep naming boats wherever Beth is in the sentence.
+- **Recycled details** (cold reader, Ch 05): Ashby's smoke in his hair / her braid twice; the gray above his ear in every chapter; "a long suck that pulled at her knees" (now once in the book, since the bar rehearsal is cut). Rest the gray and the smoke.
+- **Motif counts after Ch 05:** the boots 2 of 3 (one left, Ch 10); "Ned looks back" 2 of 3 (third in Ch 06); "Bethie" once in Ch 04; "Me and God" 2 of 3 (one left, Ch 09); "walk me through it" not on the page (unspent); LifeFlight 1; Beth's voices 1 of 2; the screen used in Ch 04 S1; the red tag in Ch 04 S2 and Ch 05 S3 (twice).
+- **Phrases retired, unless an outline beat needs one:**
   - "and he didn't stop" / "and it didn't stop";
   - "neither of them moved / let go / said anything";
-  - "the way he always did" (Ch 04 s3 words Ned's look-back differently);
+  - "the way he always did";
   - "the way he looked at weather" / "like a man looking at weather";
   - Dane's "I'm told";
   - Tess's "two dollars";
   - Ned's "Lumpy";
   - the name-on-paper motif;
-  - "longer than X needed" (one survives in Ch 03 S1: "longer than the pouring needed");
-  - "said nothing" / "didn't say a word" as a beat (Ch 03 uses it for Tess twice and Dane once).
-  - added after Ch 04: "Ned's color"; "under the open sky"; Dane's running commentary; "'Him,' Beth said."
-- **"Watching her hands" is rested** (none in Ch 02, Ch 03 or Ch 04). Keep it rested.
-- **Narration summing up the danger** stays out.
+  - "longer than X needed" (one survives in Ch 03 S1);
+  - "said nothing" / "didn't say a word" as a beat;
+  - "Ned's color"; "under the open sky"; Dane's running commentary; "'Him,' Beth said.";
+  - Dane's "Okay." to open a line, "For the record" / "I'd like it noted", "Talk to me.";
+  - "with his whole face"; "into her hair"; "low and even" / "low and steady";
+  - added today: **"where I put you."**
+- **"Watching her hands" is rested** (none in Ch 02–05). Keep it rested.
+- **Narration summing up the danger** stays out. Ch 05 S4's recap paragraph ("She had been hiding since Friday…") is the kind the cold reader flagged.
 - **The breaker box** (Ch 01) → Ch 09.
 - **Tess's voice:** prices and headlines, surnames for everyone, "Beth" once when it's serious. Vary the price.
-- **Beth's secret fear** (glad the bridge came down) is no longer on the page. It stays latent in the bible; don't explain it in narration.
+- **Beth's secret fear** (glad the bridge came down) stays latent in the bible; don't explain it in narration.
 
 ## Carried forward (not yet on the page)
-*Facts and plants that the bible, outline or today's rulings hold but that are not in any `final.md`. Sources: `chapters/chapter-03/beats.md` ("Carry to Ch 04 beats," "Orchestrator rulings on round 2," "Author decision, Oct 29," "Author decision, Oct 29 (second)") and `chapters/chapter-04/beats.md` ("Orchestrator rulings (Oct 29, autopilot)"). Facts are unchanged; only the reader's first sight moves. Rows marked **Paid** are on the page as of Ch 04.*
+*Facts and plants that the bible, outline or today's rulings hold but that are not in any `final.md` as of the rebuilt Ch 04 and Ch 05. Facts are unchanged; only the reader's first sight moves. Rows marked **Paid** are on the page as of Ch 05.*
 
 | Item | Target | Notes |
 |---|---|---|
-| **The seal-tag colors** (store bags take yellow seal tags, the ferry's pouch takes red; the credit union report reads "Seal noted: red") | Ch 04 | **Paid, Ch 04 S3:** "Fare bag's red. That's the boat's. Tess seals hers yellow." Thursday's spent red seal knotted on Dane's wrist. Next: Ch 06 s2 (Dane reads "Seal noted: red" as the fare bag's), Ch 07. "Ned's color" retired. |
-| **The Tess–Beth fight** | Ch 05 | One scene, Beth and Tess, no more than one other person in the room. 22:40 on Tess's knuckles and in the log; "I can see your steps from right here"; "I walked you home from every dance"; "I'm not your money" / "No. My money I can count."; the Bangor bus line; "Then you know I don't go where I'm put."; "Don't you look at my book like the bank does."; the two cot blankets put back under the counter. Pays the flashlight and "Light." (Ch 02 S3) and Tess watching the thumb on his neck (Ch 03 S2). |
-| **New fact: Tess put Beth to bed the winter Beth's mother left on the Bangor bus** | Ch 05 (in the fight) | Approved under autopilot, Oct 29. Not on the page; first stated in the Bangor bus line. |
-| **The keys to Tess's truck, hers and the spare, on the hook in her office** | Ch 05 s4 | One line of Beth's when she names Tess's truck as the third thing; nothing follows it. "Tess's truck" in Beth's mouth; no "Ford," no MARR'S tag. Feeds Ch 09 s5 and Ch 10 s1. |
-| **Ned's phone lives on Tess's shelf** ("Only place on the island it's a phone") | Ch 05 s1 | One clause inside Tess's alibi line at the Ashby drive, worded as habit. Feeds Ch 09 and Ch 10. If Tess's title also lands here, the two share one speech. |
-| **Arsenault's account and exact change** ("Put that away, Lyle. It's on your account."; "Lyle" first on the page) | Ch 06 s2 | Inside the fuel-log beat. Ch 06's beats must include Arsenault, or Dane's Ch 09 s3 interior ("exact change… counted out before Tess said the price") is reworded to the coffee he was bought. |
-| **Russ's cable/sabotage line** (somebody'd have to beat the rust to it; the tower's been on the district's list since Labor Day) | Ch 04 s1 | **Paid, Ch 04 S2** (the islanders' path, Russ's voice). "Labor Day" added to the numbers ledger. |
-| **Tess's emergency-management title** ("slow putting her hand down at town meeting") | Ch 04 s1 (Russ's line); fallback Ch 05 s1 (Tess's own mouth) | **Paid, Ch 04 S2** in Russ's mouth ("Tess is. Since town meeting. Slow putting her hand down."). Fallback not needed. Ready for Ch 06's "You told the county?" |
-| **Dane's private-boat reasons** (any island boat could be theirs; he can't read these seas; whoever takes her leaves a wake) | Ch 04 s1 or s2 | **Paid, Ch 04 S2**, one sentence of Dane's after Russ offers the *Second Wind*. Bible note 34 deviation still flagged. |
-| **LifeFlight** (won't lift an old woman with a bad heart off the ballfield; the pilot's call; the EMT stayed with her) | Ch 04 s1 or s2 | **Paid, Ch 04 S2** as yesterday's news in Russ's mouth (the pilot wouldn't lift her). The ballfield and the EMT are not on the page. Payoffs Ch 07, 08. |
-| **The soaked-to-the-knee payoff** | Ch 04 | **Paid, Ch 04 S5:** "That's a narrow definition of waterproof. Stand there." |
-| **Ned's over-detailed reefer lie** ("He always runs his unit…") | Ch 06 s3 | Moved from the outline's Ch 04 s3 by ruling (Oct 29): below decks, just before the shorts confession. |
-| **Dane reads "Seal noted: red" as the fare bag's** | Ch 06 s2 | Ruling (Oct 29). He has the colors from Ch 04 S3. |
-| **"Not yet" callback** | Ch 05 s3 | Calls back "That's a not yet," / "One I can't afford." (Ch 04 S3). Never "not a no." Bible speaker table still has the old wording (flag for the author). |
+| **The seal-tag colors** | Ch 04 | **Paid, Ch 04 S2:** "Fare bag's red. That's the boat's. Tess seals hers yellow, with my envelope in it." The seal is "an old red seal the credit union had sent back in an empty pouch" (ruling today; replaces "Thursday's spent seal"). Next: Ch 06 s2, Ch 07. |
+| **The Tess–Beth fight** | Ch 05 | **Paid, Ch 05 S1** at the Ashby drive, with Dane at the porch corner. On the page: 22:40 on her knuckles and in the book; "I could see your steps from my counter"; "I walked you home from every dance"; "I'm not your money" / "No. My money I can count."; "Don't you look at my book like the bank does."; the blankets put behind the seat. **Not on the page:** the Bangor bus line; "Then you know I don't go where I'm put."; the thumb on the neck. |
+| **New fact: Tess put Beth to bed the winter Beth's mother left on the Bangor bus** | open | **Approved, off the page** (ruling today). Not in Ch 05. Use where a beat needs it, or leave in the bible. |
+| **The keys to Tess's truck, hers and the spare, on the hook in her office** | Ch 05 s4 | **Paid, Ch 05 S4** ("an open hook in her office… Anybody at the counter could lift them. Anybody at the back door."). Feeds Ch 09 s5 and Ch 10 s1. |
+| **Ned's phone lives on Tess's shelf** | Ch 05 s1 | **Paid, Ch 05 S1**, inside Tess's speech with the booster rule ("past the dock a cell phone's a brick"). Tess's title shares the scene. |
+| **Tess's emergency-management title** | Ch 04 (Russ); fallback Ch 05 (Tess) | **Paid, Ch 05 S1, in Tess's own mouth** (the fallback). Russ's Ch 04 line is cut. Ready for Ch 06's "You told the county?" |
+| **Tess saw Ned haul two cans up the north road; doesn't know where they went** | Ch 05 s1 | **Paid, Ch 05 S1** (ruling today). |
+| **Arsenault's account and exact change** ("Put that away, Lyle. It's on your account."; "Lyle" first on the page) | Ch 06 s2 | Inside the fuel-log beat. Ch 06's beats must include Arsenault, or Dane's Ch 09 s3 interior is reworded to the coffee he was bought. |
+| **Russ's cable/sabotage line** (somebody'd have to beat the rust to it; the tower's been on the district's list since Labor Day) | open | **Off the page again:** it was in the old Ch 04 S2 and is cut with the rebuild. The sabotage question is reopened; the Ch 06 beats or the manuscript audit decide whether it needs closing. |
+| **"The only phone on the island that works"** (Russ, old Ch 04) | — | Cut from Ch 04; the rule is now on the page in Tess's booster clause (Ch 05 S1). |
+| **Tess wrote Beth's sleeping place on her hand anyhow** (Russ, old Ch 04) | — | Cut. Only "asked me twice" remains (Ch 04 S1). |
+| **Dane's private-boat reasons** | Ch 04 | **Paid, Ch 04 S1**, one sentence after Russ offers the run to Pruett. Bible note 34 deviation still flagged. |
+| **LifeFlight** | Ch 04 | **Paid, Ch 04 S1** in Russ's mouth ("wouldn't lift an old woman with a bad heart yesterday"). The ballfield, the pilot's call and the EMT are not on the page. Payoffs Ch 07, 08. |
+| **The *Ruthie C*'s details** (thirty-eight feet; named for Beth's mother; fished out of Calloway Cove; the price soft two winters; the note called; the man on the noon boat; "heavier than paper ought to be") | Ch 06 s4, Ch 10 | **Off the page** with the rebuild. Ch 04 S2 keeps only: a picnic boat now; the bank took her; the signing; the box to the man's truck. |
+| **The envelope routine's other half** (her name on the front in Tess's hand; Tess bags them Thursday night; the pouch rides over zipped with both bags; who's alone with it: "The boat") | Ch 07 s3 | **Off the page** with the rebuild. Ch 04 S2 keeps: from the store, slip inside, flap tucked, never sealed; Tess, Beth, the teller see the slip. |
+| **Dane's "Who do you owe? / No truck, no boat" exchange** (credit union; she owes nobody; the house was her father's; "He had one.") | — | **Off the page** (ruling today). The facts stand in the bible. |
+| **"Walk me through it"** (1 use) | open | Cut with the old Ch 04 S3; unspent. |
+| **The gut route** | Ch 05 | **Paid, Ch 05 S2:** first found in the crossing (ruling today; the bar rehearsal is cut). |
+| **The soaked-to-the-knee payoff** ("That's a narrow definition of waterproof") | Ch 05 s3 | **Paid, Ch 05 S3** at the fish house door (ruling today). |
+| **Ned's third look-back** | Ch 06 | Moved from Ch 04 (beam cut; ruling today). Payoff Ch 08. |
+| **Ned's over-detailed reefer lie** ("He always runs his unit…") | Ch 06 s3 | Below decks, just before the shorts confession. |
+| **Dane reads "Seal noted: red" as the fare bag's** | Ch 06 s2 | He has the colors from Ch 04 S2. |
+| **"Not yet" callback** | Ch 05 s3 | **Paid, Ch 05 S3:** "Is it still a not yet?" / "Not anymore." Never "not a no." Bible speaker table still has the old wording (flag for the author). |
+| **Tess's "Net had you aboard. Your back steps had you home."** | open | Not used in Ch 05's fight. |
 
-**Reader warnings for the Ch 04 beats** (also under Master continuity flags), and how Ch 04 answered them:
-1. The heat has been stopped once by the phone. A second stop loses the sample reader. *Ch 04: no stop; both desire beats carried through.*
-2. The hooded man has appeared and walked off three times. *Ch 04: his face and the* Margaret Ann.
-3. Dane steps outside to phone too often. *Ch 04: no new under-the-sky beat.*
-4. The page now points at Ned at about 45%, so suspicion needs spreading. *Ch 04: Ned down to 15.*
+**Reader warnings for the Ch 06 beats** (details under Master continuity flags):
+1. If Ch 06 opens with more shopping and who-knows-what talk, the reader is out.
+2. Ned reads at 45% and the Ned clues feel heavily planted.
+3. Every scene ends on a polished closing line.
+4. Dane's jokes all give objects feelings.
+5. The red tag is repeated too often.
+6. The Ch 05 love scene's middle goes generic.
 
-**Reader warnings for the Ch 05 beats** (from the Ch 04 triage; details under Master continuity flags): Russ's delivery scene sagged; Dane's calm patter used four times; Dane's tics ("Okay.", "For the record", "Talk to me."); "with his whole face", "into her hair" and "'Him,' Beth said" repeated across chapters; Ned's exit gesture three times; every scene ends on a neat beat; Dane telling Russ the feds want him off the *Margaret Ann* after "observe only". Suspects after Ch 04: Tess 35 / Dane's reports leaking 25 / Ned 15 / Russ 12 / Dane 8 / other 5.
+Suspects after Ch 05: pull curve r3, Ned 45 / Tess 20 / Russ 15 / Dane's side 12 / Arsenault 8; cold reader, Dane's channel 30 / Ned 25 / Tess 20 / Russ 10 / Arsenault 10 / other 5.
