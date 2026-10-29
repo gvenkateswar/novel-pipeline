@@ -824,3 +824,208 @@ Each variant lands B1–B5 and the required lines, stays inside 900–1,050 word
 - "Thirty-one" is spent in S1: noon carries the boat deal in S2.
 - "Bethie" once, from Ned, is allowed.
 - Carry to the Ch 04 beats: Russ's line on the cable (the sabotage question), Tess's emergency-management title on the page by Ch 04 s3 or Ch 05 s1, Dane's reasons for refusing private boats (Ch 04 s1 if not in S2), and Dane soaked to the knee as the plant for "narrow definition of waterproof".
+
+---
+
+## Revision for S2, round 2: thin the clues (Oct 29, after sample-mark r3)
+
+*Plot-architect, October 29, 2026. Trigger: S2 (Marr's store) has now scored 2 of 5 with the sample reader on three reads running (`reviews/sample-read-sample-mark.md`, `-r2.md`, `-r3.md`). The third read came after the S2 scene tournament (`chapters/chapter-03/variants/s2/tournament.md`, winner b, 11 points). The cold reader gave the current version a 3 (`chapters/chapter-03/reader-notes.md`). The r3 near-stop is the keys/phones sentence ("Going back in through the office, Beth picked the two keys…"), and the r3 verdict on the scene is "I couldn't tell what I was meant to notice, so I stopped trying." Three re-stagings changed the order of events and took nothing out. The scene still carries five clues: Arsenault's counted money and Tess's account, the two Ford keys on their MARR'S tag, Ned's phone in its rubber band on the charging shelf, the yellow/red bag tags, and the 22:40 log. This round takes three of them out of the scene. Read for this section: `chapters/chapter-03/final.md` (S2 between the two breaks), every section above, the tournament file, both reader files, `story-bible.md` (CASE FACTS, the seal clue, the store, the store pickup, Phones and signal, the people), `outline.md` (Ch 03–05, Ch 10 s1, the plant table, the clue list) and `continuity-log.md`.*
+
+***Scope.*** *This section replaces "Revision for S2 scene tournament" for the next S2 variants. It adds one short beat to S1 (item 4 below). S3 stays exactly as it is in `final.md`. Every earlier flag and ruling stands unless this section overrides it, including the orchestrator's cut of "Red's the district's" / "Red's Ned's."*
+
+### Flags (read before drafting)
+1. **Plant relocation, no plot change (for the orchestrator).** Outline R3-6 and the outline's plant table ("Ned's phone; the pickup keys on the hook | 03 | 09, 10") put both plants in Ch 03 s2, and story-bible CASE FACTS (Day 2) lists "Ned's phone on the charger under the hook" among the store-scene events. This section moves both plants to Ch 05. The facts stay the same: the phone charges in Tess's office, the keys hang on her hook, and Ned has his own key to the store. Only the place where the reader first meets them changes. I have not touched the bible. Log the move in the Ch 03 continuity entry and update the plant ledger rows.
+2. **Arsenault's counted money and Tess's account leave S2 as clues** (section 1 below). They move to Ch 06 s2, which is outside the Ch 04–05 window the brief set for the two moved plants. Flagged so the Ch 06 architect picks it up.
+3. **Bible note 34** (private boats "said once in Ch 2 or Ch 3") was already moved to Ch 04 by the earlier ruling. It stays a flagged deviation. Nothing new here.
+4. **The S1 addition (item 4) costs 20–35 words.** The S2 cut more than covers it. Chapter band as in "Header (revision)": 2,622–3,078.
+
+### 1. Clue budget for S2: two
+
+**The two that stay:**
+
+| Clue | Where in S2 | How it plays, so the ear catches it without filing it |
+|---|---|---|
+| **"Yellow's mine. Red's the boat's. I won't have my money in Ned's color."** | Inside the fight, as now | Tess is yanking the yellow tag through the zipper of the morning's store bag as she says it. Keep the clause `final.md` adds ("and I won't have you in a house I can't see"). It turns a rule into a fight line, which answers the cold reader's "reads as a rule the book wants me to remember." Beth's "I'm not your money, Tess." and Tess's "No. My money I can count." follow at once, so the colors sit inside an argument about Beth and never get a beat of their own. Dane is outside the building. Russ is out of earshot (3d). |
+| **The 22:40 time** | Tess's mouth, once, near the top | **Context before the number** (listener fix). Tess names the back steps and the light, *then* says "twenty-two forty." On her hand it's "the time in ballpoint," never numerals. "I can see your steps from right here, Beth." and "I didn't put you on the air." both stay. **Replace "Then you know who else has a window."** (the cold reader couldn't parse it) with its plain content in Tess's voice: if she can see Beth's steps from her counter, so can anybody on the dock or on a boat in this harbor. The storm log open by the till carries the same clue, so the palm and "Don't you look at my book like the bank does." belong to it and don't count as a third. |
+
+**Nothing else on that counter is a clue.** S2 has no key hook, no keys, no charging shelf, no phones, no described money, no "account," and no ledger except the storm log. Tess's office is a passage only: the curtain, the back window, the back door. Cut the "his shoulder caught the key hook going by" setup along with the sentence it set up.
+
+**The two plants that move out:**
+
+| Plant | New home | Plan (one line) | Every ledger payoff, checked |
+|---|---|---|---|
+| **The keys to Tess's truck on the hook in her office: hers and the spare** | **Ch 05 s4** (the fish house, "Three things you didn't count") | When Beth gives Tess's truck as the third thing, Dane asks who else could drive it, and Beth answers in one line: the keys hang on the hook in Tess's office, hers and the spare. Nothing follows the line. | **Ch 05 s2** (the truck in the Ashby drive) no longer needs the hook. Beth knows the truck itself, and Ch 05 s1 puts it on the page at 2 p.m. **Ch 09 s5** (Ned: the spare off her hook, with his own key to the store) and **Ch 10 s1** (Quist: "the store pickup's keys off Ms. Marr's hook") get their plant four chapters ahead. It now lands against Tess in the chapter where she is meant to be strongest ("Tess (strong)"), not in a pile. Naming rule (bible, the store pickup): in Beth's mouth it is "Tess's truck." No "Ford," no MARR'S-tag description. |
+| **Ned's phone lives on Tess's shelf** | **Ch 05 s1** (2 p.m., Tess at the Ashby drive with two pots) | Tess says it inside the outline's alibi line, as a complaint about Haskell: his phone lives on her shelf ("Only place on the island it's a phone"), he hasn't come off that boat since he brought them the diesel, and she carries his chowder down. She words it as habit (where the phone lives), never as "it's there now," so it stays true after his noon visit on Day 4. | **Ch 09** (the back-step calls) and **Ch 10** (Quist's noon-on-Monday sentence; CASE FACTS: "an impeller … and his phone") keep their plant. Bonus: it sits next to "hasn't come off that boat" and quietly says Ned has to come to the store to use his phone. A careful reader can set that against the impeller box with Tess's sticker in Ch 06 s3. Because Tess says it, it reads as her shelf, her booster and her access as much as his. One clause inside her alibi line, no separate beat, so Ch 05 s1 doesn't become a new clue pile. |
+
+**Arsenault's counted money: kept as a character beat only.**
+- **What stays in S2:** "Pack of Golds, and whatever the gentleman's having." / Dane: "Coffee." He pays for both in one clause: no counting, no stack, no coins, and no "before Tess named the price." Tess rings it up and says nothing about money.
+- **What the beat is:** the bible's "buys his coffee to show him he can." It is between Arsenault and Dane, and the menace is that it's generous. Beth places him once ("Arsenault. The *Margaret Ann*, the dragger that had stayed lit through the blackout"), which S3 needs.
+- **Tess:** her face going bright when he walks in stays, as one clause. That is her stress register (brighter and busier), not a reading of the money.
+- **No "Lyle" in S2.** The first name arrives with the account in Ch 06. That answers the cold reader's "a surname, a boat name, a first name and an account, all in two lines."
+- **Optional, and the first cut:** the hard-winter small talk ("Long winter for a store, no boat. Hard one, this looks like." / "They're all hard."). He leaves on a nod and "Beth."
+- **Moved to Ch 06 s2** (the store at Day 5's morning low, inside the fuel-log beat): "Put that away, Lyle. It's on your account." and the exact change counted out before the price. It goes in Tess's mouth if Arsenault is in the room, or in the green ledger if he isn't. Payoffs kept: Ch 06, Ch 08 s5 (her case for Tess), Ch 09 s5, Ch 10. **Flag for the Ch 09 architect:** Dane's Ch 09 s3 interior ("exact change for everything … counted out before Tess said the price") needs an on-page sighting first. If Ch 06 s2 has no Arsenault, rewrite that interior to what Dane did see (the coffee he was bought).
+
+**Suspect balance after this cut.**
+- **Tess** loses the money and the keys in Ch 03. She keeps: 22:40 kept off the air; "I can see your steps from right here"; the sharpness over the book; Beth's palm; the tag line; her face going bright at Arsenault; the blankets. She gets the keys back at full strength in Ch 05 s4 and the account in Ch 06 s2.
+- **Ned** loses the phone in Ch 03. That's right, since he reads 40% to the sample reader in r3.
+- **Dane** is unchanged.
+
+### 2. What stays from the tournament winner (binding)
+- The two cot blankets folded by the till at the start, and Tess putting them back under the counter at the end, one and then the other, without looking up. Beth sees it through the window.
+- Tess: "No. My money I can count." / "I put you to bed the winter your mother got on the Bangor bus." / Beth: "Then you know I don't go where I'm put."
+- The chase in the fish-house lane, and "Sea coming. Stand still." Dane takes the corner post, the sea goes through to his knees, and the man steps up onto a sill he knows.
+- Dane: "I owe you a floor, Ms. Marr. Put it on the government's account."
+- The restroom line ("He went in between them like he'd built them" / "I went in like a man looking for the restroom") and Tess's "Restroom's for customers."
+- "What am I looking at?" / "Nothing in it. Soup for the shut-ins and who's short on propane. Hand me the milk." / He hands her the milk.
+- The noon beat: Dane lets the Webbers Cove go (fixed for the ear in 3e).
+- Ned's key at the side wall: "Bethie" once; "Nobody but—" / "Me and God. I know."
+- Also kept, because the plan depends on them: the palm flat over the night's column (the book's one use); the snow off his collar; the loyalty sentence ("She hadn't given him Ned last night, and she wasn't giving him Tess now."), which item 4 now anchors; Russ's "Where you sleeping tonight? Not asking for me. Asking because somebody will." (the Ch 09 plant, now the only trigger for the bed offer); and the dances line.
+
+### 3. The cold reader's notes on this scene: fixes
+- **3a. One bed offer.** Russ's question is the only trigger, asked once. Tess answers it to Beth: the steps and twenty-two forty, the dances, the cot, the marshal on the porch, "You'll sleep at mine." Beth refuses once: "Can't. Not tonight, Tess." Nobody asks again. **Cut** "She's sleeping at mine." / "No," Beth said. "She isn't." The tag fight that follows is Tess arguing with the refusal ("a house I can't see," the Bangor bus). It is not a second offer.
+- **3b. Tag every line.** Whenever three or more people are present, every spoken line carries the speaker's name, or an action by the named speaker in the same paragraph. No line is attributed by alternation. The lines the cold reader lost: "Sea coming. Stand still." (Beth, calling down the slope from the back step); "What am I looking at?" (Dane, about the log); "Nobody but—" (Ned); "Me and God. I know." (Beth). Also tag "Him." (Beth), "Get a look at him? Didn't, did you." (Russ) and "Restroom's for customers" (Tess). Pair: tags are "said" or an action, never an adverb.
+- **3c. The move outside.** One plain line takes the scene out the front door and round to the side wall, and says who goes: Beth and Dane together, the bell behind them, the side wall out of the wind. Ned is there with an urn cup. Dane keeps the corner, where he can see Beth and the moorings. Russ stays inside, so he never hears "Ashby."
+- **3d. Dane doesn't leave her alone.** The ruling for every variant (variant b handles it by taking Beth with him):
+  - Before he goes after the man, Dane puts Russ on her by name, in one short line of his.
+  - Russ stays with Beth until Dane is back in the store. He stands where he can see both the lane and the counter (the office doorway or the back step), inside the generator's roar, so he hears nothing said at the counter.
+  - Cut Tess's hand on Beth's sleeve and "You stay" wherever Russ is posted. One minder, not two, and fewer voices on the step for the listener.
+  - Arsenault is out of the store before the man appears (earlier ruling, unchanged).
+  - The contrast the cold reader missed is now on the page without comment: at noon Dane won't go out for his boat, and for the man he goes, but only after handing her to Russ.
+- **3e. Noon, for the ear.** Two sentences at most:
+  1. The clock reaching twelve is said in a word the ear can't mishear: "noon." No numeral, no hands.
+  2. In the same sentence or the next, Beth's head joins it to the screen. "Saturday noon" was the deadline on the Webbers Cove. Name it "the Webbers Cove." Never "the boat," which in Beth's mouth is the *North Reach*, and never "thirty-one," which is spent.
+  3. One clause says why he doesn't go: the call needs open sky, and going out means leaving her at the counter beside Arsenault. That answers "Why Arsenault? Is the boat seller Arsenault?"
+  4. Dane stays where he is with the coffee Arsenault bought him. No "watched him" (retired).
+- **3f. Tics the cold reader named, retired in S2, each with its pair:**
+  - "longer than X needed" / "didn't need moving" (`final.md` S2 has two: the D batteries, and "a beat longer than snow needed"). *Pair:* the batteries go, or become a task with a purpose. The touch at his collar shows in what the hand does next, never by measuring how long it stayed.
+  - "before she'd decided anything" (the palm). *Pair:* the palm goes down as a plain action, and the loyalty sentence carries the why.
+  - Dane's self-deprecating formal-turn quip. *Pair:* the two kept lines (the floor, the restroom) are his only two in the scene. Any other line of his is plain and specific.
+  - Tess and Russ sounding alike. *Pair:* Russ asks and answers himself in every line he has; Tess speaks in headlines, prices and surnames.
+
+### 4. Pick up the Ch 02 cliffhanger (S1, two lines)
+- **Where:** S1, right after "They sat the rest of the night out behind the chimney, and nobody came back.", in the dark before first light, before she takes the kettle out for snow.
+- **The beat:** Dane takes up "You." He doesn't defend himself, and he doesn't repeat "Who knew you were here?" He asks the easy-to-answer question, in his syntax: who else knew. Beth doesn't answer. Her answer is the action S1 already has: at first light she takes the kettle out to the step for snow. It's a silence on the page, not a lie.
+- **Why S1:** it puts the cliffhanger back in the room, unresolved. It also gives S2's loyalty sentence the moment it refers to, so the cold reader's "What didn't she give him about Ned?" is answered by the page.
+- **What stays unresolved:** Dane says nothing for himself, so he stays suspect. Ned's name is never said. Nobody concludes anything.
+- **Rules:** no recap of Ch 02 after the opening line (no latch, no truck, no glow); the rest of S1 as in `final.md`; +20–35 words.
+- **Not in S2.** By S2 the night is a day old, and Dane is in the store only at the edges.
+
+### 5. Length
+- **S2: 800–950 words. Target 880.** The writer misses by about 10% either way, so treat 950 as the hard ceiling. The current S2 is about 1,000 (orchestrator to confirm with `wc -w`).
+- **Where the words come from (the clues):**
+  - the keys/phones sentence and the key-hook setup: about 50;
+  - the money stack, Tess's face between Beth and the till, and the account: about 45;
+  - the doubled bed offer: about 30;
+  - "who else has a window": about 10.
+- **What goes back in:** Russ posted (about 15), the line taking the scene outside (about 15), noon for the ear (about 20).
+- **Cut order if over:** (1) the hard-winter exchange; (2) the cot and porch line, trimmed to the cot; (3) Arsenault's "Beth" on the way out, leaving the nod.
+- **Never cut:** everything in section 2, both clues, the noon beat, Russ's posting.
+
+### Scene 2 — The store (round 2; the content every variant lands)
+**Setting:** Marr's General Store, Saturday (Day 2), late morning to just after noon. High water about 11:40 on the surge tides, so the sea is up among the fish houses below the back step. Sensory anchor: the bell over the front door, and the store generator's roar out back coming through Tess's office.
+**Characters present:** Beth, Tess, Dane, Russ, Arsenault, the hooded man (seen, never named, never speaks), Ned (outside only). Background islanders don't speak.
+**Surface action (content; the order is the variant's):**
+1. The cot blankets folded by the till.
+2. Russ asks where she's sleeping. Tess answers it to Beth: the light on her back steps and twenty-two forty, "I can see your steps from right here, Beth," "I didn't put you on the air," anybody on a boat in this harbor can see what she sees, the dances, the cot, "You'll sleep at mine." Beth: "Can't. Not tonight, Tess."
+3. Arsenault comes in. Beth places him by the *Margaret Ann*. Golds and the marshal's coffee, paid for in one clause. Tess goes bright. Noon for the ear (3e). Arsenault leaves on a nod.
+4. The hood at the propane cage, then the heel. "Him." (Beth). Dane puts Russ on her and goes. The lane, the sea, "Sea coming. Stand still." The post, wet to the knee. The man up a sill and gone.
+5. Tess and Beth, with Dane out and Russ out of earshot: the tag yanked through the zipper and the tag line; "I'm not your money, Tess." / "No. My money I can count." / the Bangor bus / "Then you know I don't go where I'm put." Then "Don't you look at my book like the bank does."
+6. Dane back, the sea running out of his boots: the floor; Russ's "Get a look at him? Didn't, did you."; the restroom line; "Restroom's for customers." The palm on the night's column, the snow off his collar, the loyalty sentence, "What am I looking at?", the milk.
+7. Out the front and round to the side wall (3c): Ned, the urn cup, "Bethie," the generator line, the key, "Nobody but—" / "Me and God. I know."
+8. Back round the front: through the window, the blankets go back under the counter.
+
+**Subtext:** Tess is frightened for her, and fright comes out of Tess as orders and possession. Beth loves her, refuses her, and then hides her handwriting from the man she wants with one hand while she touches him with the other. With three clues gone, the reader can only notice the people, and the two that remain are things Tess says in a fight.
+**Tension source:** interpersonal first (Tess against Beth's refusal, and Beth against Dane over the log). Situational under it: the dragger's skipper at the counter, then his man out back.
+**Texture budget (two):** (1) the yellow tag yanked through the zipper; (2) the sea in the fish-house lane. Everything else is an object in a hand.
+**Ends on:** **Consequence, seen.** Beth, coming round the front with the key in her glove, sees through the window as Tess takes the two cot blankets off the counter and puts them back under it, one and then the other. Tess doesn't look up. No line, no interior. This differs from S1 (a finished action: the chair) and S3 (a reversal: she stands beside him).
+**Word count target:** 880 (800–950).
+
+### Plant list (S2 round 2; replaces the S2 revision's plant list)
+| Plant | Where | Pays off |
+|---|---|---|
+| **"Yellow's mine. Red's the boat's. I won't have my money in Ned's color."** (the tag in Tess's hands) | The fight | Ch 07 s3–s5, 09 s4 |
+| The light on the back steps, twenty-two forty, kept off the air; "I can see your steps from right here" | Tess's answer to Russ | Ch 05 s4, 06, 08 s5 |
+| "Don't you look at my book like the bank does." | After the fight | Ch 06 (the fuel log) |
+| Palm flat over the night's column (the book's one use) | Dane's return | Ch 05 s4 |
+| Loyalty sentence (Ned last night, now anchored by S1; Tess now) | Dane's return | Ch 05 s4, 06 s3 |
+| "Hand me the milk." (her lying tell) | Dane's return | — (pays S1's milk) |
+| Russ: "Where you sleeping tonight?…" (the one trigger) | Near the top | Ch 09 |
+| The hooded man in daylight; knows the shore and the surge | The chase | Ch 04 s1, 09 |
+| "Sea coming. Stand still." Dane stands where she puts him | The chase | Ch 04 s4, 09 |
+| Dane soaked to the knee | The chase | Ch 04 ("That's a narrow definition of waterproof") |
+| Arsenault, the *Margaret Ann* (named once); he buys the marshal's coffee | Arsenault | S3 (goes dark), Ch 04 s1 |
+| Noon: Dane stays, and the Webbers Cove goes | Arsenault | Ch 04 s1 ("Sold. Sorry.") |
+| The Ashby key from Ned; the generator light; "Me and God. I know." (2 of 3) | Side wall | Ch 04 s3, 05; 09 |
+| The cot blankets put back | Ends it | — (Tess refused; Ch 10 s1) |
+
+**Moved out of S2:** the keys to Tess's truck (→ Ch 05 s4); Ned's phone on the shelf and "Only place on the island it's a phone" (→ Ch 05 s1, Tess's); Arsenault's counted money, "Lyle," and the account (→ Ch 06 s2).
+
+**Motifs in S2:** twenty-two forty 1 · Ned's color 1 of 2 · me and God 2 of 3 · palm flat 1 of 1 · Bethie 1 · Golds 1 of 2 · ballpoint 1 · exact change 0 · LifeFlight 0 · thirty-one 0 · okay 0.
+
+### Who knows what at the end of S2 (round 2)
+| Who | Knows |
+|---|---|
+| Beth | Tess saw her light and kept it off the air, and can see her steps from the counter. Tess's tags are yellow and the boat's are red. Arsenault is the *Margaret Ann*, and he bought Dane's coffee. The man with the heel knows the shore and the surge. She has the Ashby key. |
+| Dane | The man in daylight, from behind, and that he knows the shore. Arsenault, and noon. That Beth covered something in the log (her hand, not the words). The Ashby move, told off the page before S3. **Never** the tags; **never** the time. |
+| Tess | Beth was home last night. Beth won't sleep at hers. **Not** Ashby. |
+| Russ | Beth won't be at Tess's. Not where. Nothing said at the counter while he was posted. |
+| Ned | Ashby. |
+| Arsenault | Beth alive, at the store, with the marshal. In variant (b), that the marshal chased his man. |
+
+### Lead instructions for the three variants
+All three carry the same two clues and land everything in section 2 and 3a–3f. They differ in **how the scene breathes**: where the quiet falls, who is in the room for the longest stretch, and what interrupts what. All three end on the blankets.
+
+#### Variant (a): "Thinned" (the tournament order, with the three clues out)
+**Breath:** quiet, then a spike, then quiet. The fight is split around the chase, as in `final.md`.
+1. Blankets. Dane and Russ heading out to the store dock to look for the heel's track; Russ's question from the doorway; the bell. Tess's answer to Beth with the time; "Can't. Not tonight, Tess." Tess's mouth is open on the next thing when the bell goes (≈ 170).
+2. Arsenault a step ahead of Dane and Russ; Golds and coffee; noon for the ear; Arsenault out (≈ 110).
+3. The hood through the curtain gap and back window; "Him."; Dane posts Russ and goes; Beth and Russ on the back step; the sea; the post; gone. Russ moves to the office doorway as Beth goes back to the counter (≈ 210).
+4. Tess with the bag: the tag line, "My money I can count," the Bangor bus, "where I'm put," the book (≈ 130).
+5. Dane in at the back door with Russ: the floor, the restroom, the palm, the milk (≈ 130).
+6. Side wall, Ned (≈ 65). 7. Blankets (≈ 25).
+**Watch:** with the clues gone, part 1 is the scene's longest quiet stretch and has to be about Tess's fear, not the time. The time is said once and the talk moves on.
+
+#### Variant (b): "Chase first" (open on the chase; the whole fight comes while Dane is outside)
+**Breath:** a spike at the top, then one long unbroken fight, then the men come back in and the store fills.
+1. **Open in motion** on the steep path from her back steps down to the store's back step, late morning near the top of the tide. Beth hears the heel's drag on the planks before she sees the hood at the propane cage. "Him." (Beth). **Beth goes with Dane** to the head of the lane, because it's her shore and the other choice is leaving her alone on the step (one clause, his). "Sea coming. Stand still." The post; the man up a sill and gone (≈ 230).
+2. Dane stays down on the shore looking for where the man came out, in sight of the back step. Russ comes out of the back door at the noise, and Dane puts him on Beth. Russ takes her in through the office and asks his question on the way. The blankets are by the till as she comes through the curtain (≈ 60).
+3. **Tess and Beth, one run.** Russ is in the office doorway in the generator's roar. Tess saw the run from her counter, and her first line can be about that before she goes to the light and the time. Then the offer, the refusal, the tag, "My money I can count," the Bangor bus, "where I'm put," the book (≈ 260).
+4. Dane in at the back door with the sea in his boots: the floor, the restroom, the palm, the milk (≈ 130).
+5. Arsenault: Golds, and coffee for the wet marshal. Noon for the ear; Dane, wet to the knee, stays at the counter. Arsenault out on a nod (≈ 110). This matches the tide: chase at the top (11:40), noon after.
+6. Side wall, Ned; blankets (≈ 90).
+**Watch:** the fight runs about 260 words without interruption. It has to climb, so each Tess line is harder than the last and ends on the book, not on a speech. Arsenault walks in on a wet marshal, which is the only Arsenault–Dane tension in the scene. Leave it unspoken.
+
+#### Variant (c): "Two women at the counter" (Beth and Tess alone for most of the scene; the men only at the edges)
+**Breath:** long and close. The men come in only through the front door, only for the two events (Arsenault and the hood), and go out again. Everything between is the two women.
+1. Blankets. Dane and Russ going out to the store dock. Dane says where he'll be: on the dock, where he can see the counter through the front window (content, his line). Russ's question on the way out, then the bell (≈ 70).
+2. Tess and Beth, part 1: the light, the time, the dances, the cot, the porch, "Can't. Not tonight, Tess." One sighting of Dane through the glass, facing in (≈ 170).
+3. Arsenault comes in with Dane behind him to the end of the counter. Golds and coffee; noon for the ear; Arsenault out; Dane back out to the dock to see which way he goes (≈ 110).
+4. Tess and Beth, part 2: the tag line, "My money I can count," the Bangor bus, "where I'm put," the book. Tess takes the bag through the curtain to the safe and leaves the log open on the counter (≈ 150).
+5. The hood in the curtain gap Tess left open (the judges' favorite moment in round 1), at the propane cage beyond the back window. Beth goes to the front door: "Him." Dane comes in and goes through, and puts Russ on her. The back step, the sea, the post, gone. Tess is at the safe with her back to the window. Don't make a point of whether she saw (≈ 180).
+6. Dane back. Tess is out at the counter again in time for "Restroom's for customers." The palm on the log she left open, the collar, the loyalty sentence, the milk (≈ 120).
+7. Side wall, Ned; blankets (≈ 80).
+**Watch:** keep Dane at the window to one sighting in each Tess–Beth part, so the reader knows he's watching without the scene becoming about him. The men's two entrances must be short enough that the women's talk feels interrupted, not shared.
+
+### Carry to Ch 04 beats
+Already waiting from the earlier rulings:
+1. **Russ's cable/sabotage line** (somebody'd have to beat the rust to it; the tower's been on the district's list since Labor Day). Ch 04 s1, the woods road, in his ask-and-answer voice.
+2. **Tess's emergency-management title.** Ch 06's "You told the county?" needs it on the page first. Tess isn't in Ch 04, and Ch 05 s1 now carries the phone line, so the suggestion is Ch 04 s1: Russ asks and answers who runs an emergency on this island, and the punchline is hers ("slow putting her hand down at town meeting"). Fallback: Ch 05 s1 in Tess's own mouth. If it goes there, the phone clause and the title share one Tess speech, so the scene doesn't pile up.
+3. **Dane's private-boat reasons** (bible note 34: any island boat could be theirs; he can't read these seas; whoever takes her leaves a wake). One sentence of his. Ch 04 s1 (Russ on the woods road is the natural offer to refuse) or Ch 04 s2.
+4. **The soaked-to-the-knee plant.** S2 keeps Dane's jeans black to the knee. Ch 04 pays it with Beth's "That's a narrow definition of waterproof."
+5. **LifeFlight** (it wouldn't lift an old woman with a bad heart off the ballfield; the pilot's call; the EMT stayed with her). One clause in Ch 04 s1 or s2, said as yesterday's news. Payoffs Ch 07, 08.
+
+Added this round:
+
+6. **The keys to Tess's truck, hers and the spare, on the hook in her office → Ch 05 s4.** One line of Beth's when she names the truck. See section 1.
+7. **Ned's phone lives on Tess's shelf ("Only place on the island it's a phone") → Ch 05 s1.** One clause inside Tess's alibi line, worded as habit. See section 1.
+8. *(For the Ch 06 architect, outside the Ch 04–05 window)* **"Put that away, Lyle. It's on your account."** and the exact change → **Ch 06 s2**, with the flag on Dane's Ch 09 s3 interior.
+
+**The sample reader's warning (r3, verbatim):** "The heat isn't all hints, but so far it's one interrupted make-out. If Ch 4 or 5 only teases again, I'll start to feel cheated."
+- For Ch 04: it has no heat scene in the outline (it's the comic chapter). Its desire beats must not be another kiss that gets interrupted. The outline's "That's not a no. It's a not yet I can't afford." is a tease by design, so pair it with something physical that finishes (a touch carried through, not broken off).
+- For Ch 05 s3: intimate scene 1 must land at its full floor (900+), with nothing cutting it short. That scene is what pays this warning.
+
+### Orchestrator rulings on round 2 (Oct 29)
+- **Plant moves approved under autopilot.** The facts in outline R3-6, the plant table and the bible's Day 2 CASE FACTS stand unchanged; only the reader's first sight moves: Ford keys to Ch 05 s4, Ned's phone to Ch 05 s1, Arsenault's account and exact change to Ch 06 s2. Ch 06's beats must include Arsenault, or Dane's Ch 09 s3 thought gets reworded. The continuity log's plant ledger is updated with the Ch 03 entry.
+- Tess's emergency-management title goes to Russ's ask-and-answer line in Ch 04 s1, with Ch 05 s1 as the fallback.
+- **The S1 cliffhanger pickup (two lines) is written by the orchestrator's writer pass after the tournament.** Variants are S2 only, so judges compare like with like.
+- Every round-1 ruling still holds: no "Red's Ned's", no "Am I in it?", no "thirty-one" in S2, and "Bethie" once from Ned.
