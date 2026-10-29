@@ -58,7 +58,7 @@ Tess went brighter and faster, ringing it up like a long order. "I know where ev
 
 "I'm not your money, Tess," Beth said.
 
-"No. Money I can count. Eleven-forty, nine fifty."
+"No. Money I can count."
 
 Beth reached in at the far window and put two fingers on the book to turn it to today's page, to see whether Ashby was on it.
 

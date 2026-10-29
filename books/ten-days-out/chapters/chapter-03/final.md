@@ -116,7 +116,7 @@ The clock over the door came to noon. *Saturday noon*, the screen had said: the 
 
 Arsenault nodded to Beth and went. Through the front window she saw him go down the dock to his skiff and pull away toward the moorings.
 
-Beth and Dane went out the front, round to the side wall. Russ stayed inside at the counter. Ned was round the side wall with an urn cup, and Dane stopped at the front corner, where he could see her and the moorings and was too far off in the wind to hear.
+Beth and Dane went out the front, round to the side wall. Russ stayed inside at the counter. Ned had come up off the *North Reach* for coffee and stood in the lee of the side wall with an urn cup, and Dane stopped at the front corner, where he could see her and the moorings and was too far off in the wind to hear.
 
 "Need the Ashby key," Beth said. Ashby was the Connecticut place on the north point, and nobody slept there in winter.
 
