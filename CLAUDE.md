@@ -39,12 +39,14 @@ Two novellas went through this pipeline in October 2026 (`docs/changelog.md`). T
 2. **Every editing stage subtracted and none added.** Prohibitions piled up round by round and drained the prose. Rules now come in pairs: any new prohibition is paired with a positive requirement, and the bible's World rules have a ceiling of 20.
 3. **The pipeline could not see what the page had revealed, promised or cost.** Agents that have read the bible read the book they expect. The sample reader and cold reader never see planning files; the plot auditor and the commitments check exist to catch what a fix promises elsewhere.
 
+The factory plan and the trust ladder that retire human gates are in `docs/factory-plan.md`; judging and calibration in `docs/judging.md` and `docs/calibration.md`.
+
 Also: the writer misses word targets by about 10% either way; the voice editor flattens both leads toward one register; the chapter agents reuse every good detail until it is a tic; simulated readers grade a third of a point to a full point above outside readers and cannot get bored. The rules below assume all of this.
 
 ## Gates (these apply even on autopilot)
 
-- **Human gate.** The author reads or listens to Ch 01, in the format readers will use (text-to-speech counts), before Ch 02 is drafted; again at the sample mark (the first ~12% of the book); and after Ch 03. Ask exactly: "Where did you drift? Would you keep going?" A "boring" or "I'd stop" sends the work back to the outline or the beats, never to line edits. On autopilot you still stop here. Send the chapter and wait.
-- **Pull gate.** From the sample reader: a stop inside the sample, "Buy: no", any scene at pull ≤ 2, a sample whose scene scores average under 3.5 of 5, or a chapter the whole-book read scores ≤ 5 of 10, is a structural failure. Back to beats or outline, with no one-revision cap. The simulated readers are calibrated against the author's verdict on the first two books (both excruciating; both passed every simulated read), so treat them as a smoke test: a pass means nothing until the author has read it, and a fail is final.
+- **Human gate (veto window).** The author's goal is a series factory with as few human gates as possible (`docs/factory-plan.md`). So on autopilot the gate is a **veto window**, not a stop: after Ch 01, at the sample mark, and after Ch 03, send the author the chapter(s) in the format readers use (text-to-speech counts), ask exactly "Where did you drift? Would you keep going?", record the send in the brief's human-gate log, and **keep going**. If the author says "boring" or "I'd stop" within 48 hours, the work goes back to the outline or the beats (a tournament, never line edits), and anything drafted after the sample is discarded. Silence is not approval: the brief records the verdict as open until the next real-reader signal (author, paid readers, sales). Every real verdict is added to `docs/calibration.md`. The window is retired once judge-vs-human agreement there reaches 80% on ten fresh samples.
+- **Pull gate.** From the sample reader: a stop inside the sample, "Buy: no", any scene at pull ≤ 2, a sample whose scene scores average under 3.5 of 5, or a chapter the whole-book read scores ≤ 5 of 10, is a structural failure. It triggers a **tournament** (`docs/judging.md`): three variants from revised beats, judged blind in pairs, the winner through the normal pipeline. Never line edits, no one-revision cap. The simulated readers are calibrated against the author's verdict on the first two books (both excruciating; both passed every simulated read), so treat them as a smoke test: a pass means nothing until the author has read it, and a fail is final.
 - **Logic gate.** The plot auditor runs on `outline.md` before the bible is built. An unanswered "why doesn't the safer option work" or "how did the information travel" blocks setup until the architect answers it.
 
 ## Pipeline: Research phase (once per book)
@@ -76,7 +78,7 @@ Research is never steered by what you know about the author. If the author wants
 ## Pipeline: Chapter pipeline (once per chapter)
 
 1. @plot-architect — `chapters/chapter-XX/beats.md`. Every chapter needs a turn, a moment of longing, a laugh, a texture budget, a plant list and an assigned ending type per scene.
-2. @prose-writer — `draft.md`, scene by scene, honoring the word floors in the beat sheet.
+2. @prose-writer — `draft.md`, scene by scene, honoring the word floors in the beat sheet. **For Ch 01, and for any chapter re-run after a pull-gate failure, this step is a tournament** (`docs/judging.md`): three variants in parallel, judged blind, the winner becomes `draft.md`.
 3. **Orchestrator word check.** `wc -w` against the beat sheet's total. Over or under by more than 8%: send it back to the writer with the number before anything else runs.
 4. @continuity-checker — `issues.md` (facts, timeline, the numbers ledger, the plant list).
 5. @prose-writer — revises flagged passages only → `draft-revised.md`. No issues: copy `draft.md` across.
@@ -91,10 +93,10 @@ Research is never steered by what you know about the author. If the author wants
 ## Autopilot mode
 
 The author can switch this on per book in `book-brief.md`. While on:
-- Run chapters back to back without approval stops, except the three gates above, which always stop.
+- Run chapters back to back without approval stops. The pull gate and the logic gate stop the pipeline; the human gate is a veto window and does not.
 - After each cold read, triage. Small fixes (a missing line, a clarity fix, a trim) go straight into `final.md`. A structural note (a scene that does not work, a pull score ≤ 2, "I'd stop here") goes back to the beat sheet, with no revision cap.
 - A rule learned from a fix goes into the bible's World rules only if paired with a positive rule and the count stays at or under 20.
-- Stop and ask only for: a plot change to the approved outline, anything that breaks the brief's heat or clean rules, a choice with no reasonable default, and the gates.
+- Stop and ask only for: a plot change to the approved outline, anything that breaks the brief's heat or clean rules, and a choice with no reasonable default. Report the veto-window sends; don't wait on them.
 - Report at Ch 03, Ch 06 and the full draft. Boredom flags go above scores in every report.
 - Commit and push after every step.
 
@@ -126,6 +128,7 @@ Any reader-notes or review file names the exact draft it read.
 - `Run chapter 3 pipeline for <slug>` · `Run chapters 3 through 6 for <slug>`
 - `Run just the voice edit on chapter 3 for <slug>` · `Check continuity on chapter 5 for <slug>` · `Cold read chapter 4 for <slug>` · `Sample read <slug>`
 - `Run audit for <slug>` · `Run manuscript stage for <slug>` · `Run external review round for <slug>`
+- `Run tournament on chapter 2 for <slug>` · `Calibrate judges` (runs the judge panel on `docs/calibration.md` anchors and logs agreement)
 - `Report only for <slug>`: audit, plot auditor (manuscript mode), sample reader. Changes nothing; saves reports under `reviews/`.
 
 ## Rules
