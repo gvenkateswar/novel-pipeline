@@ -11,6 +11,7 @@ Every real human verdict on text this pipeline produced, with the text it was ab
 | A3 | *The Last Frame* v2, Ch 01 (`books/the-last-frame/chapters/chapter-01/final.md`) | the author | read | **Keep going.** "Already better, more interesting than the last one," "still better" at the end. No drift through the two passages the simulated readers had flagged. | Oct 28 |
 | A5 | *The Last Frame* v2, Ch 01–03 sample with the tournament Ch 02 (`books/the-last-frame/chapters/chapter-0{1,2,3}/final.md`, Oct 28 evening) | the author | veto-window send, Oct 28 late | **Open.** Sent; no verdict yet. | Oct 28 |
 | A4 | *The Last Frame* v2, Ch 01–03 sample (`books/the-last-frame/chapters/chapter-0{1,2,3}/final.md`, the pre-tournament Ch 02) | the author | read, other session | **Keep going, mildly.** "The writing is generally more interesting than previously." No stop line given. The sample reader had failed the same text (3.42; Ch 2 scene 3 at 2). | Oct 28 |
+| A6 | *Ten Days Out* v2, Ch 01–03 sample (`books/ten-days-out/chapters/chapter-0{1,2,3}/final.md`, Oct 29 late, store cut to a bridge) | the author | pending | **Open.** The author chose to stop gating on the store scene after six simulated fails and to read Ch 01–03 himself. | Oct 29 |
 
 ## What the simulated readers said about the same texts
 
@@ -25,6 +26,7 @@ Every real human verdict on text this pipeline produced, with the text it was ab
 Reading on A5: the sample reader scored Ch 01 and Ch 03, unchanged text the author passed in A3 and A4, exactly as before, and scored the new Ch 02 with no scene under 3 where the old one had a 2. Its sample fail (3.33) is therefore the same fail it gave A3 and A4, on text the author liked. Logged, not acted on (CLAUDE.md pull-gate exception). The author's verdict on the send decides.
 
 Reading: the v1 readers were too kind by a wide margin (A1, A2). The calibrated v2 reader is now too harsh on at least one chapter (A3: failed what the author liked). Neither direction is usable as a gate alone. The judge panel is scored against this table.
+| A6 (pending) | — | Six reads, 3.15 → 3.6 → 3.8 → 3.6 → 3.6 → 3.7, buy yes every time; Ch 03 store scene at 2 on all six across two tournaments, a clue thinning, a clue move and a cut to a bridge (gate FAIL each time) | Ch 03 7/10, store 3 | — |
 
 ## Judge agreement log
 

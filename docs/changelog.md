@@ -95,3 +95,9 @@ Ten agents (market-analyst, niche-spotter, comp-reader, story-architect, bible-b
 ## Oct 29, 2026 — Ten Days Out: sample reader contamination
 - The sample-mark re-read was started with no persona. The agent built one from `book-brief.md` as its definition allowed, and the brief's approvals named the leak. Its suspect read was thrown away and the read was rerun clean (`reviews/sample-read-sample-mark-r2-contaminated.md` kept for the record).
 - Fix (`.claude/agents/sample-reader.md`): with no persona, build it from `research/chosen-angle.md` only; never open the brief, bible, outline or reviews. Pair: the orchestrator always passes the persona line from the book's first sample read.
+
+## Oct 29, 2026 — Ten Days Out: a scene the gate could not clear
+- The Ch 03 store scene scored 2 with the sample reader on six reads running. Nothing moved it: two scene tournaments (11–5–2, 10–4–4), thinning five clues to two, moving the seal-tag clue to Ch 04 (author decision), or cutting the scene to a 690-word bridge (author decision). Over the same reads the sample average rose from 3.15 to 3.7, and the shed scene went from 4 to 5.
+- The author then chose to stop gating on that scene, log it as calibration anchor A6 and go on to Ch 04 under the veto window.
+- Lesson for the pipeline: after two tournaments on one scene with no change in its score, stop and ask the author before a third pass. A scene the simulated reader marks at 2 no matter what goes into it may be the reader's blind spot (island ensemble scenes with four or more named people), not the scene's. Pair: when that happens, cut the number of named people on the page to three or fewer before anything else, because that was the one complaint the reader repeated every time.
+- Also logged: the reader's Ned suspicion rose to 45% as the store scene thinned. The thinner the scene, the more Ned's own beats (the key, "me and God") stood out. Ch 04 has to spread the suspicion again.
