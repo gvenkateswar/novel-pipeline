@@ -1,23 +1,31 @@
 # Book brief — Ten Days Out
 
-*Status: pipeline finished October 27, 2026 (three drafts, three external rounds). With beta readers. Do not revise the text until they report.*
+*Status: **v2 rebuild in progress (Oct 28, 2026)** on pipeline v2, the same way The Last Frame was rebuilt. The v1 book (three drafts, three external rounds, 4.0–4.2 of 5) is archived as `chapters-v1/`, `outline-v1.md`, `story-bible-v1.md`, `story-bible-draft-v1.md`, `continuity-log-v1.md`, `manuscript-final.md`. The author's verdict on v1: "This was boring too" (`reviews/2026-10-28-postmortem-boring.md`). v2 re-outlines the whole book against `genre-maps/romance.md`, redesigns the people, rebuilds the bible, and drafts Ch 01 through the human gate before anything else.*
 
 - **Slug:** `ten-days-out`
 - **Genre map:** `genre-maps/romance.md` (romantic suspense, open door)
-- **Length:** ~30,000 words target; shipped at 34,683, 10 chapters
-- **Heat:** open door, written at 3 and labelled "steamy, open-door"
+- **Length:** ~30,000 target, 10 chapters (v1 shipped at 34,683)
+- **Heat:** open door, 3–4 on the 5-point scale; scenes at full length, sensory, in close POV, each one changing the relationship; first one before the midpoint. Labelled "steamy, open-door."
+- **Packaging:** PG-13 regardless of interior heat (no explicit cover, no filter words in metadata, never the 18+ box)
 - **Pen name:** [to set; must differ from The Last Frame's]
 - **Imprint / KDP account:** [to set]
-- **KDP AI disclosure:** AI-generated text (all three panels agreed)
-- **Series:** opener; Book 2 is Russ and Quist and the ledger
-- **Packaging:** PG-13 regardless of interior heat (no explicit cover, no filter words in metadata, never the 18+ box)
+- **KDP AI disclosure:** AI-generated text
+- **Series:** opener; the outline must leave a clear Book 2 couple and case without cheating the HEA/HFN
+- **Autopilot:** on. The three gates apply (human gate as a veto window, pull gate, logic gate).
+- **Price:** $2.99 in KDP Select
 
 ## Why this book exists
 
-The second test book. It tests the April 2026 finding that open-door romance is the commercial centre of self-published romance, against the clean book (The Last Frame), which tests the October 2026 scan. The full original brief is `research/book-brief.md`. The two books are not a controlled test; treat the comparison as product learning.
+The second test book. It tests the April 2026 finding that open-door romance is the commercial centre of self-published romance, against the clean book (The Last Frame), which tests the October 2026 scan. The original brief is `research/book-brief.md`; chosen angle `research/chosen-angle.md` (A3, romantic suspense, protection plot). Not a controlled test; treat the comparison as product learning.
 
-## Book-specific pipeline settings used
+## v2 rebuild settings
 
-- Research produced two labelled sets: neutral angles and author-fit angles (the three South Asian niches from the April playbook). The author chose A3, a neutral angle.
-- Autopilot: the orchestrator approved the bible on the author's behalf and used original style samples written by bible-builder.
-- Revision briefs (`revision-brief.md`, `revision-brief-v3.md`) were binding over the outline and bible for their passes.
+- **Carries forward:** the premise (a ferry deckhand witness on a storm-cut Maine island, a federal protector, a leak from inside the island), the island, the boat, and the verified research in `story-bible-v1.md` (tides, ferry layout, radio rules, Maine EMD law, federal write-arounds, the revision fact corrections). Three outside rounds checked them; the domain checker's setup pass is skipped and runs on the manuscript instead. Cast names carry forward unless the character designer has a reason to change one; who the leak is, and whether there is one, is open.
+- **What changes:** the shape (both leads in a room with spark inside Ch 1; Act 1 ≤ 20%; first kiss ≤ 35%; first sex scene before 50%; couple and premise inside the sample), the mystery (open past the midpoint; Dane a live suspect for the reader), the people (character-designer), the register (samples at two temperatures; v1's restrained single register is replaced), texture (one or two details per scene), the dialogue (dialogue-doctor), and procedure (no relayed phone calls as scenes; consequences on the page or not at all).
+- **World rules:** at or under 20, each paired with what to do instead.
+- **v1 peaks the architect may keep as events:** the reefer lid on the car deck; the 11:40 latch and "Who knew you were here?" / "You."; the generator shed; the bar crossing and her fist in his belt; "It's a very disappointing kit"; condoms at Tess's counter; the landing ambush; the warning on channel 9; the car deck in the dark (socks on steel, the ring buoy); "The ham is eleven pounds."
+- **Known v1 logic holes to design out** (`reviews/manuscript-audit.md`): why the ferry can't carry passengers before the bridge is fixed; the helicopter and sea-intercept options on the last day; why Beth's body must be on the deck.
+
+## Human gate log
+
+(none yet)
