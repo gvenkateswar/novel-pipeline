@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–03, 8,840 words)
+# Audit — ten-days-out (chapters 01–03, 8,817 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -25,7 +25,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "Bethie" (Ned only) | 1 | 0 | 1 | 2 | 6 |  |
 | "Water side" | 0 | 0 | 0 | 0 | 2 |  |
 | "Me and God" | 0 | 1 | 1 | 2 | 3 |  |
-| "Ned's color" | 0 | 0 | 1 | 1 | 2 |  |
+| "Ned's color" | 0 | 0 | 0 | 0 | 2 |  |
 | Red seal | 0 | 0 | 0 | 0 | 2 |  |
 | Seal noted | 0 | 0 | 0 | 0 | 2 |  |
 | Ned looks back (plants and the payoff) | 0 | 0 | 1 | 1 | 6 |  |
@@ -179,7 +179,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 |---|---|---|---|---|---|---|---|---|---|
 | 01 | 3,103 | 15.2 | 11.9 | 21% | 0.0 | 0.0 | 0.0 | 2 | short |
 | 02 | 2,820 | 15.5 | 10.4 | 17% | 0.0 | 0.0 | 0.7 | 3 | short |
-| 03 | 2,917 | 15.2 | 11.5 | 21% | 0.0 | 0.0 | 0.0 | 2 | short |
+| 03 | 2,894 | 15.3 | 11.4 | 21% | 0.0 | 0.0 | 0.0 | 2 | short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
