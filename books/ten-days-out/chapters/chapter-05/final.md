@@ -150,7 +150,7 @@ She struck the match.
 
 * * *
 
-It caught on the first match. The kindling went up with a small fierce sound. She fed it shavings off the bench, then two splits of spruce. She shut the door and sat back on her heels. In a minute the drum began to tick. In five the cold had gone down to the floor and lay along the planks. The walls began to give up their smell as the boards warmed, the pine tar coming out of them sweet and dark. She shut her eyes, breathed it in, and let it be hers.
+The fish house sat under the ledge, and from no road and no part of the bar could anyone see its one window. It caught on the first match. The kindling went up with a small fierce sound. She fed it shavings off the bench, then two splits of spruce. She shut the door and sat back on her heels. In a minute the drum began to tick. In five the cold had gone down to the floor and lay along the planks. The walls began to give up their smell as the boards warmed, the pine tar coming out of them sweet and dark. She shut her eyes, breathed it in, and let it be hers.
 
 She lit the lantern from a sliver out of the stove and turned it low.
 
@@ -216,7 +216,7 @@ She was wet, and he found it out with his tongue. The sound he made was low and 
 
 "Don't stop," she said. Then: "There. Stay there."
 
-He stayed. His mouth went slow on her, and then less slow. The red tag on his wrist dragged across her belly where his hand lay. Across the cove Ashby's fire put a dull red in the window. Wet wool dripped off the wire onto the drum and spat. Her heel went hard into his back. She came with her hand over her own mouth. Then she took the hand away, because there was no one in the world to hear her out here, and let the sound go.
+He stayed. His mouth went slow on her, and then less slow. The red tag on his wrist dragged across her belly where his hand lay. Across the cove Ashby's fire put a dull red in the window. Wet wool dripped off the wire onto the drum and spat. Her heel went hard into his back. She came with her hand over her own mouth. Then she took the hand away, because there was no one this side of the ledge to hear her, and let the sound go.
 
 The cot's iron cried out again as he came up it to her. She pulled him down alongside her and got her hand round him.
 
