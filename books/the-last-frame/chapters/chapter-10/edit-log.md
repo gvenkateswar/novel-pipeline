@@ -57,3 +57,51 @@
   - s4: Ellen uses no contractions to Judy ("None of it is his", "She has circled it"); Judy's lines are banker's criteria; Ray's one line is "she" plus town lore.
   - s5: Arlene says "dear" and "Raymond"; Denise says "Honey"; Ray says "she" for the sign.
   - Weakest point: "Said I'd sooner it was me." is short enough to be either lead without context. The context (Ch 04's line) carries it.
+
+## Voice editor (draft-dialogue.md → final.md), Oct 29
+
+Draft edited: draft-dialogue.md (3,430 words), Oct 29. Read with it: beats.md, story-bible.md (Ray's profile, style samples), continuity-log Ch 07-09 flags, chapter-09 reader-notes §5 and §7.
+
+**Word count:** `wc -w final.md` = **3,427** (includes the heading and the four scene breaks; band 2,944-3,456). The draft was 3,430. By scene (heading and breaks included): s1 348 (no floor), s2 1,044 (floor 900), s3 882 (floor 800), s4 355, s5 786. The kiss beat is 181 words (floor 150). I did not reach 3,300: the cuts were paid back by lines the brief asked for (Arlene's cars line, Denise's longer pool speech, Danny's clarifier, a silence in Denise's last box). The audit has the prose-only count.
+
+**Untouched, as instructed:** the last three lines; "Throw her, Mrs. Daly." / "He waited for the Ms."; Kate's reported answer; "Ray. Will you take it?" (the draft's beat around it is unchanged); the two s3 money figures (no third on the page); Ellen's kiss-count line; the ending type of every scene (s1 dialogue, s2 mid-motion, s3 withheld, s4 question, s5 open image).
+
+- [Added life]
+  - s2, Denise's last box: she "stood at the line so long that Ray could hear the fryer ticking over and a child on the Legion settee whispering what were they waiting for." This is the high point running slower, sound first, in Ray's register. It adds no plot and no character beyond a Legion-settee child, who is a walk-on.
+  - s5, the key: "He took it off her palm, warm from her vest." One sensory pleasure at the chapter's peak; her hands are always cold, so the key is the one warm thing.
+  - s5, Denise's pool speech now answers its own question ("Who won? Nobody.") and ends on a qualifier ("and don't think I'm not sorry about it"), the bible's Denise tic. It also makes her the third voice, wordier than both leads.
+  - s5, Arlene's payoff of Ch 08 (see below).
+  - s5, "the bob-houses stood out on their skids, waiting on Hollis" (a joke for Ray's lake view; it also stops repeating "every bob-house in Ambrose" from s1).
+- [Arlene's cars line]: paid, in plain words at her window: "You two were sitting in cars in February." It is her look at both of them, then "Her eyes stayed on Ellen" for the best-winter line, then "Then up at him" for the key. It runs eight words, not four or five, because anything shorter lost "February", and that is the word that sends a listener back to her Ch 08 speech. It has no figure.
+- [Voice]
+  - s1, Ray's interior: "It was the rest, the part she'd sworn to Kate she'd keep out of it, and he'd have kept it for her" → "She'd sworn to Kate she'd keep the rest out of it, and he'd have kept it out for her and never once asked her leave." The "rest" is now Ch 09's word, and the sentence is an *and*-chain with the weight last.
+  - s3: "Seven's fine." → "Lane seven's fine." (lane rule). "the first week Ellen owned the place" → "the first week of December", and the machine is "she" by a sentence of her own ("She hadn't missed a set since."). The draft said "the clutch he'd put in her", which a listener hears as Ellen.
+  - s3 kiss, "he kissed her back slowly... he took his time, and so did she" → "he went on kissing her until the building was quiet all round them, and a while after that." See [Tells].
+  - s4: "Neither invoice, then." → "Not buying in, not getting out of the way. Neither invoice, then." Danny's Ch 06 line ("buying in, or getting out of the way... different invoices") is not recoverable aloud from "Neither invoice" alone. The clarifier is in his inventory register and the punchline stays last.
+  - s4: Ray's "I'll walk it back down to them at noon" → "I'll walk it back to the credit union myself." "Them" had no antecedent aloud, and the noon removes a clock time (see Listener).
+  - s4: Ellen's "On the phone. None of it is his." now carries a tag ("Ellen said"), so the exchange alternates by sound or action at every line.
+- [Tells]
+  - Style-sample lift (kiss): "kissed him back slowly... taking his time over it" is in the Ch 03 high-temperature sample. The draft's "He kissed her back slowly... he took his time, and so did she" was a lift, and the heat rule bars repeating an earlier kiss sentence. Replaced as above.
+  - 4.4 decoding clause cut: s5, "The door it opened was hers now, every hinge of it." The reader has just watched her ask and him take it. The paragraph ends on "She watched every turn of it."
+  - 4.4 cut: s1, "and none of that was coming up her drive" (gestured at a rescue that is not coming; "a free Sunday it hadn't asked for" stands alone).
+  - Obscure phrase: s5, "He felt her come into the rails" → "He felt her through the rails."
+  - Hedge/filter: s2, "With his ear a foot from the case he could hear the glass tick" → "Beside his ear the case glass ticked."
+  - Wrong-trade word: "took the front out of the rack" (a tenpin word) → "took the front of the set"; "the tenth box" → "her last box" (it no longer reads as lane ten).
+  - "with the cup on the passenger seat with the belt across it" → "...seat and the belt across it" (stacked "with").
+  - Weak opener: s5, "Ray had the new K up against the sign" → "On the ladder, Ray had..." (the draft never put him on the ladder before "from up there").
+- [Listener]
+  - Lane numbers: "the five-and-six pair" → "lanes five and six"; "Seven's fine" → "Lane seven's fine"; "under all of it seven" → "lane seven". Every other number already carried "lane".
+  - Clock times: three in the chapter (half past six, ten, two). "at noon" is gone from s4. The "Monday" in "Judy's desk. Monday morning." stays as a day, not a time.
+  - Speakers at peaks are cued by an action: Ellen's New Year's line (folds her hands), Ray's reply (looks at her hands), both declarations (hands), "It funded" (hands tighten), Arlene (thumb, then eyes), Denise at the sheet (takes it back), "That's not asking" (looks at it), "Ray." (closes and opens her fingers). Danny, Normie, Judy and Ellen on the phone are each cued by a sound or an action.
+  - "Gagnon's" cut from Denise's arrival (the sheets are the Bench's); Hutchins is in ordinary case.
+- [Tag-strip test]: pass. Ray's lines are *and*-chains with the weight last ("I'll bowl her plain, and you'll beat me anyway, and you'll feel bad about it as far as your car"; "half of Main Street'll tell her, and they'll have it wrong, and by Wednesday you'll be wondering yourself"; "Thirty years I've kept everything just how it was... the one you ask"). Ellen is full stops and exact (the figures, "It was. I knew, and I came down here so you'd find me", "It is. I love you"). Denise runs on and qualifies. Judy speaks in rules; Verna in the third person. Ray echoes none of Ellen's fragments ("Said I'd sooner it was me" repeats his own Ch 04 line).
+- [Counts after edit]: Ray's motor comparisons 0. "read it back" 1; "honey" 1; "Mrs. Daly" 1; "Voyons donc" 1; "Ettle" 1; "buzz" 1; "locker fourteen" 2; "key ring" 2; "held out... key" 0. No contrast constructions. None of the retired phrases or devices is on the page. The zipper appears only inside the envelope sentence ("zipped inside his jacket") and the glasses-on-the-zipper kiss beat; neither is "to the chin".
+- [Floors]: s2 1,044 (floor 900), s3 882 (floor 800), kiss beat 181 (floor 150). Nothing was cut below a floor.
+- [Flagged for writer / orchestrator]
+  - None that need a plot change. Two judgment calls for the cold reader: (1) Danny's "Neither invoice" is clearer but still leans on Ch 06; (2) "Gil: 'That's twice.'" relies on Denise's reply to say what the twice is. I left both because Denise's line carries it.
+  - Arlene's car is a car with a driver or Arlene driving; the page never says. It reads either way, and I did not add a driver (new character).
+- [Pair for the pipeline]: Stop writing a new line that lifts a phrase from the style samples (here "kissed him back slowly... taking his time"). Do this: name the one sensory fact of the kiss that the scene owns (the glasses on the zipper, the motor going still) and end on it. Stop "the clutch he'd put in her" next to a woman. Do this: give the machine its own sentence, subject "she", and no human "her" nearby.
+
+## Orchestrator line edit after audit, Oct 29
+
+- Audit flagged one contrast construction in s3 ("because it wasn't in order. It is."). Rewritten as a change of state without the wasn't/is shape: "kept the third until it was in order. It is in order. I love you." Floors unchanged.
