@@ -53,3 +53,7 @@ Save to `chapters/chapter-XX/beats.md`.
 ## Outline lines are checked too (Oct 29, 2026, Ten Days Out Ch 08)
 
 Before you put any line of dialogue from the outline or the bible into a beat sheet, check it against the zero-tolerance contrast rule ("not X, Y", "That's not a reason. That's a load."). If it fails, rewrite it into a plain line that keeps the beat, and flag the change. The paired positive rule: every quoted line in a beat sheet must be one the writer can use word for word.
+
+## Check the people cap against the outline first (Oct 29, 2026, Ten Days Out Ch 10)
+
+Before laying out scenes, count the named people the outline entry puts in each beat. If a beat needs more than three present, split it into scenes before you write beats, and say so in the flags. The paired positive rule: each scene you split gets its own turn or consequence, so the split does not just divide a crowd into two thinner scenes.
