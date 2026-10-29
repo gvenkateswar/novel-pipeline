@@ -79,3 +79,35 @@ Endings are unchanged: s1 question nobody answers; s2 "I know what time it is.";
 
 ### Not changed
 Dialogue authored by the doctor, including Denise's run-on and the captain's two lines, is word for word. Ray's loan speech and Verna's minutes are untouched except that the screw sentence now opens the paragraph that carries "It stays."
+
+---
+## Cold-read triage pass (Oct 29, autopilot; small fixes straight into final.md)
+Source: reader-notes.md (final.md read Oct 29). Eight items only.
+
+Word count: final.md 3,137 by `wc -w` (was 3,239; ceiling 3,240).
+By scene vs floor (awk, separators counted with the scene that follows): s1 633, s2 820 (floor 800; kiss beat from "Then he turned toward her" to the end of the scene is 250, floor 150), s3 1,094 (floor 700), s4 590 (beat target 700, carried over; the chapter total is the constraint). Endings unchanged: s1 question nobody answers, s2 dialogue button, s3 consequence, s4 cut.
+
+1. [Contraction line, s2]. "*Don't* and *it's* went out to him, the short words she had kept from him since the morning under the sign, and she let them go, as she had let the first one go at the desk on the nineteenth, and he had heard that one too." became "She heard herself use the short words with him for the first time since the sign, and she did not take them back." No italics, no date.
+2. [Kate call, s1]. The narrator summary ("Kate went on about who had cut it and how badly, and about a resident who had eaten a corner piece off a tongue depressor...") is now Kate's live line: "They cut it with a tongue depressor. The forks are locked in a cabinet and nobody has the code. I'm charting that too." That makes two live Kate lines in a row after the cake riff, then "Is anybody there with you tonight?" and the cut-off. "I'm charting that too" calls back "I'm charting nine," once.
+3. [Ray's speech, s3]. Cut "So if she comes up short, I'm the man standing at the bottom of her drive, and you weigh what I say next by that." Now: the loan sentence word for word ("...without making the call...and I paid them to hold it."), then "Weigh what I say next by that." Nothing in the continuity log or later beats cites the bottom-of-the-drive line (checked by grep).
+4. [Fish people, s3]. Ray's "I'll get to the fish people" is cut. The Legion man's line is now a worry he could have from the bylaw Verna read thirty seconds earlier: "Verna just read it, the house sets that weekend. If we vote her down, what happens to the Memorial? Derby's that same Saturday, and I'd like to know whose it is." Ray's "It stays" speech answers it. The mustard laugh is untouched. A tag was added at the head of Ray's second paragraph ("Dale," Ray said, "your crew...") so a listener hears one speaker; this also covers the listener-pass note.
+5. [Open arithmetic, s4]. Cut "An Open without Linda's name would clear the bank's number with nothing over, if nothing went wrong between now and the last Saturday in February." What remains: "She had run it both ways on the adding machine before Denise came in. She was taking Linda's name for the margin." The admission stays, since Ch 07's confession cites it.
+6. [Tics].
+   - Desire register (s2). The "and... and Tuesday... Tuesday again" list is gone. It was the third run of the same device (the Ch 01 ball, the Ch 03 trench). The long *and* sentence stays, since the bible requires it, but nothing is listed. She loses the minute she was counting: "She stopped keeping the minute and could not have said when." Then the roar, Kate's answer "had its hand in her hair," and "the time, which she had carried to every door and desk for thirty-one years, went off without her. She let it go." That keeps the profile's "notices it's out of order" and turns it on her clock instead of her list. It also sets up "It's four minutes past" as her grabbing the number back.
+   - First / Second / Third. Kept one: the spoken three-item briefing at the meeting (s3). The unspoken answer to Kate (s1) is now one ordered sentence with no ordinals. Denise's "there's a second half" became "there's more to it," because it also read as a list marker and clashed with "the rest" in item 8.
+   - Ray's thumb on the screw (s3): cut, along with the sentence in which the narrator explains it. "The screw went home under his thumbnail" is now "The back rows quit shifting."
+   - The quarter turn (s2): cut. "The cup standing level by his boot" in the kiss run-on is gone with the run-on. Ray's knees now appear once.
+7. [Speaker tags, s1]. "Mom. Scale of one to ten," Kate said, out of the phone. / "Of what," Ellen said. / "You know of what," said Kate. / "Six," Ellen said. The phone and the speaker are fixed in the first line for a listener.
+8. [Closing the easier option, s1]. Added to the chair paragraph: "She had not told him the rest of what she said in the pit, either. A condition was not his to hear until the vote had decided whether it came due, and she had told herself so again each night, with the tape running." This is her profile's rule of briefing what is settled, and it closes the six nights.
+
+Added life (paid for by the cuts above): s2, "She found she had no objection to being kept waiting, which in thirty-one years of schedules had not happened before." (the minute in which he withholds Happy New Year; her wry register). It also lifts s2 clear of its floor.
+
+### Flagged, not changed (outside the eight items)
+- "The nineteenth" still appears three more times (the watch in s1, the chair in s1, the lineage notice in s4). Ch 04 never states the date. If it should be unnamed, change them to "that morning under the sign" and "the night of the party", but that is for the next pass.
+- "Her voice went out over the chairs level and courteous, and under it she was counting Verna's second hand" repeats the Ch 03 frame (reader note, section 5).
+- "The five words... the other five nowhere in it" still needs a listener to count to five. Fix only if the author wants it.
+- Dale and "the captain" are still not tied together for a first-time listener. The "Dale," Ray said tag helps a little; a clause in s3 could close it.
+- The reader's note that the Kate "Scale of one to ten / You know of what" riddle is never answered stands, as does the note that Ellen and Ray's six nights are told in one line. These are structural or beat-level, not triage.
+
+### Pairing for the pipeline (a pair, not a new ban)
+- Stop: ending each romantic beat with a long and-chain in which her list collapses (Ch 01, Ch 03, Ch 05 originally). Do: change what the desire register breaks each time. This chapter it breaks the clock. Ch 10 might break neither, with her saying the plain sentence.
