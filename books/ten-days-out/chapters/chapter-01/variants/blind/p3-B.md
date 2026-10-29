@@ -1,0 +1,213 @@
+# Chapter One: Night Freight
+
+The third binder on the propane truck went a quarter turn too easy under her hand, and Beth had it taken up hard before she'd thought about it.
+
+Sleet came flat across the car deck, orange under the floods. Her gloves were off and stuffed in her bib pocket, because you couldn't read a binder through wool. She went down the trucks by feel, binder to binder, the steel so cold it took hold of her fingertips and let go with a little tearing sound, and every chain rang the same note when she struck it, which was the note she wanted.
+
+At eight-forty the dealer's reefer came down the bridge onto the deck, and the boat went quiet around it.
+
+That unit droned. Every Thursday since the summer before last it had run the whole crossing, a flat refrigerated whine you could hear in the wheelhouse over the engine, and she had stopped hearing it the way you stop hearing your own stove. Tonight there was nothing. The display on the front of the box was dark.
+
+"I'll work it short," Ned said from the wheelhouse rail. "Go home."
+
+Eleven years, and he had never once sent her home. She walked to the next D-ring.
+
+The reefer's chains were stiff with ice. She hooked the first, threw the binder over, and put her bare hand on the side of the box to steady herself against the roll. The aluminum should have bitten her. It was the temperature of the night and no colder, wet and dull under her skin, like the side of any truck.
+
+At the reefer's side door a man in a black hood was stacking the last crates. The boat lifted on a sea. A crate in the doorway tipped, its band let go with a crack, and the lid came up off it.
+
+Lobsters, dark and slow under the floods. Under the top layer, wrapped bricks, taped tight, laid in close like loaves in a pan.
+
+The driver was watching her from his cab. The man in the hood was watching her from the door. Nobody moved. The light came down between them full of ice.
+
+Her hands were steady. She noticed that the way she'd notice a line holding. She stepped over, pressed the lid down with her knee, and ran the band back through its clip.
+
+"Lid's sprung. You'll lose your count."
+
+She finished the binder. Then she went aft the way she went aft every night, checking the stern chain across the transom, knocking the ice off the ring buoy's bracket with the side of her fist, passing the quarter ladder, and climbing the outside ladder to the wheelhouse past the floods' breakers on the aft bulkhead, and she did not once turn her head.
+
+At the top she stopped and held the rail and listened.
+
+Engine. Sleet ticking on the windows. The ramp motor, not started yet. Below her the hooded man came out from behind the reefer and went down the bridge onto her island, favoring the left leg, the heel dragging a little in the slush. She watched the limp all the way up the slip until the dark took it.
+
+Then the ramp came up.
+
+All the way over, the driver's dome light burned in his cab under the wheelhouse windows. Ned asked about the lid. "Strapped it," she said, and looked down at the lit cab, and said nothing else. At Pruett the reefer drove off into the terminal lights, and she took a picture of its plate with her phone held low against her hip.
+
+They came back in near the top of the tide. The fuel float was lit, both pumps and the pole light, at an hour it was never lit. Ned had both bags in one big fist, the store's and the fare bag, Tess's yellow tag bright in the floods.
+
+"Go home," he said. "I'll lock up."
+
+At the top of the outside ladder he turned and lifted the hand with the bags in it.
+
+Her kitchen was dark. Out the window the harbor lay black, with the float's light smeared yellow across it, and she watched that while she sat at the table a long time with the phone on its twelve-foot cord in her lap, because calling it in meant being written down, and the last man who wrote her down had taken her father's boat in an afternoon. Past midnight she dialed.
+
+She told the trooper what she'd seen. She read off the plate twice, slowly, the way you'd read a compass course to someone writing it. The trooper asked her to spell Calloway. She spelled it.
+
+"You stay home tomorrow, Ms. Calloway," the trooper said. "Don't go to work."
+
+She hung up, and wound her father's alarm clock, and set it for the first boat.
+
+* * *
+
+The bow line had frozen overnight to the shape of the bollard, and the ice cracked off it in her hands as she paid out slack. At seven-forty the sodium lights over the Pruett ramp were still burning into the overcast. The wind had gone into the east and was making.
+
+He came down the ramp in new boots and skidded on the iced plate, both arms out like a man on a wire.
+
+"Stand on the yellow," Beth said to the cleat. "There's grit in the paint. Those boots are for a different ocean."
+
+"They're for a courtroom."
+
+She looked once. "Hundred and ninety. Place on Route 1 that sells fudge."
+
+He opened his mouth. He shut it. He moved over onto the yellow.
+
+"Ms. Calloway." He said it slowly and very politely, the way a man reads a sign aloud to someone who's just walked past it. "Deputy Reyes, Marshals Service. You were told not to work. You were told by a state trooper, on a recorded line, which I listened to in the car on the way up, twice, in case I'd misheard it."
+
+"You didn't."
+
+"I didn't. Wade Pelletier has been in custody since before it got light, which makes you the case, which makes this my morning."
+
+The courier stood at the foot of the ramp with his hand out. Beth unclipped the pouch from inside the bulwark and passed it down. The deputy watched it go the whole way, her hand to the courier's hand to the courier's armpit and up the ramp into the van, and he didn't look at her once while he did it.
+
+"Pouch is zipped and going to the bank. You can stop watching it. I'm the one casting off."
+
+That brought his eyes round. Brown, tired, and on her hands before they got to her face.
+
+"Your captain can find somebody else."
+
+"Kenny's puking and there's no relief on a storm Friday." She broke another sleeve of ice off the line. "Master and one deck. That's the certificate. Without me she doesn't leave the slip."
+
+He looked up at the wheelhouse. Ned, behind the wheelhouse windows, lifted his coffee an inch.
+
+"Your captain's toasting me," the deputy said. "I'm choosing to take that as support."
+
+"Take it how you like."
+
+"Okay. Here's how this goes. You hand that rope to somebody who isn't you. You walk up this ramp with me, and you get in the gray car at the top, which has a heater, which I'd point out is more than this has. There was supposed to be a second deputy here for the friendly part. He's behind a plow on Route 1. So you get me for both parts."
+
+"You're not arresting me."
+
+"I'm not arresting you."
+
+"Then I'm working." She laid the slack over her forearm in long loops. "I'll work her in and the two o'clock back, and I'm yours on the ramp at quarter to three."
+
+"No."
+
+"Wasn't asking."
+
+"No, because the two o'clock is printed on a sign at the top of this ramp, and on a website, and in the window of the coffee place, and a printed schedule is the easiest thing in the world to wait for. A lot easier than a car."
+
+His phone buzzed. He took it out, read it, and tipped the screen away from her with a small practiced turn of the wrist, the way a man keeps his cards.
+
+"Am I keeping you?"
+
+He put the phone away. For a second he only looked at her, and the wind came down the ramp between them and rang the chain on the handrail. When he spoke again it was slower.
+
+"Ms. Calloway. The last witness who knew her own town better than I did is buried in it."
+
+The sea boomed hollow under the ramp. She had nothing to set against that, and she didn't try. She looked at the gray car at the top of the ramp, and the van pulling out, and the line in her hands.
+
+Ned gave one short blast on the horn.
+
+Beth lifted the eye off the bollard and let it go.
+
+The bow ramp started up with its long hydraulic groan, and the gap opened between the lip and the shore plate, a stride of black water and then more than a stride. A gust came down off the land and set them toward the dolphin, and she felt the correction in the deck before Ned made it, the bow coming back as if her own hands were on the wheel.
+
+He jumped.
+
+He jumped badly, all knees and elbows, in those boots, off ice, and the boots hit the wet lip of the ramp and kept going. She had the front of his jacket in both fists before she knew she'd let go of the line. She hauled. He came over the lip and down on one knee on her steel, and his hand came up and closed over her bare wrist, hard, and stayed there.
+
+Neither of them moved. Under the ramp the sea went in and out of the gap with a sound like something big breathing, and the ramp kept climbing, and the wet stuff of his jacket stiffened in her fists, and his hand on her wrist was colder than the line had been, rough across the base of the fingers, which was no kind of hand for a man in those boots, and she could feel his pulse through it going hard against her bone, and she knew to the second how long she had been holding on, the way she always knew how long a line had been fast, and it was too long, and she went on holding.
+
+She let go first.
+
+"You're welcome."
+
+"I didn't say anything."
+
+"I noticed."
+
+* * *
+
+She coiled the bow line in the lee of the deckhouse, and the ice came off it in plates and skated away down the deck. He stood beside her and dripped. His right knee was black with water where he'd gone down.
+
+"For the record, I jumped," he said. "I'd like that on the record, since you seem to be the one keeping it."
+
+She went on coiling.
+
+"You could say I jumped well."
+
+She could have.
+
+Past the ledges the spray came over the bulwark in sheets. Off to the east a lobster boat was hauling in the slop, her bow climbing and dropping, a man in orange at the rail with a trap balanced on it, and the deputy watched her with his whole face, the way a boy watches a fire truck go by.
+
+"What's a Webbers Cove thirty-four with a rebuilt Cat worth?"
+
+"To who?"
+
+"To me."
+
+"Less than you're paying."
+
+He laughed, once, at the water. He'd been going to look at one in a yard in Pruett this afternoon, he said.
+
+"Bank took my father's boat," she said. "Man from away bought her. Made her a picnic boat. Cushions." She threw a hitch round the coil. "You want a working boat to sleep on."
+
+"I want a boat I can't be called off of."
+
+Russ Whitcomb was the *Second Wind*, four hundred traps and a radio he talked to like a dog. Ned was the *North Reach*, and had been since she was in diapers. The summer man was her father's boat with cushions on it. Everybody she knew stood on a boat, their own or somebody's, and anybody who didn't had come over on the ferry and would go back on it, and she had no place on her island to put a man who had jumped onto her deck in the wrong boots and come up holding her wrist. She'd been trying. For the last minute she'd had him standing at the rail of that lobster boat out there in the slop, knee braced, a trap coming up streaming, to see if he'd fit.
+
+He didn't. She hitched the coil and hung it on its pin.
+
+"Okay," he said. "The two o'clock. Your deal."
+
+"Last boat today."
+
+"Then I'm going to be very interested in it." He reached inside his jacket, where it was dry, and took out a folded paper and held it out to her. "This came with the car. I'd have done it on the ramp, but you were busy."
+
+She took it in her wet hand and opened it against the wind. A grand jury subpoena. The court across the top in black capitals, and under it, typed out in full, the whole of her name, *Elizabeth Ann Calloway*, the way nobody had written it since the bank.
+
+He couldn't make her get in a car. This could, and he must have known it before he unfolded it. She could check a binder with her hands, and a bow line, and the weather. She had no way to check paper.
+
+She folded it once and put it in her bib pocket, where it would get wet.
+
+* * *
+
+Tess Marr was on the slip with the store's hand truck before the ramp was all the way down, and she looked at the marshal's boots before she looked at his face.
+
+"Calloway. Heard you had a man on the eight. Ferry's quicker than the internet."
+
+"He's freight. Sign here."
+
+Tess signed with a flourish and slapped the clipboard back into Beth's hand. "Marshal. Coffee's free to the storm. Everything else is two dollars over, for you."
+
+"Why two?"
+
+"Because you asked."
+
+While Tess talked, Beth watched every man on the slip walk: the plumber back to his van, the boy with the bait truck, Russ's sternman, the two who'd come down for the mail. None of them limped.
+
+Going up the Harbor Road under open sky, with the wind coming on hard from the east and the spray blowing off the harbor in smoke, his phone buzzed. He read it and turned the screen from her. She didn't ask. The house sat on its knoll with its front to the road, and they went in by the front door.
+
+In the kitchen she pinned the subpoena under the barometer by the door and tapped the glass. The needle dropped.
+
+He looked at it the way he'd looked at the pouch. "That's a very old instrument," he said. "I have an app."
+
+She tapped it again. The needle went down another hair.
+
+"It won't run. Pack if you want. You'll be unpacking by two."
+
+"Dollar says it runs."
+
+"I don't bet on what I can see."
+
+She packed anyway, to make the point, a duffel on the kitchen table and her father's sweater folded on top. He stood at the kitchen window with his hands in his pockets and looked down at the harbor, at the boats on their moorings all swung one way and the *North Reach* at the slip with the spray going over her. Twice he started to say something and stopped. The wind leaned on the house. She knew how it would go, Ned up there with his coffee going cold and the seas building white on the ledges, and she didn't need the radio to tell her, and she turned it on anyway.
+
+At a quarter past one the handheld on the counter, which she'd set to one-six, opened with a click and a hiss. It was Ned's radio voice, clipped and formal, a different man from the one who'd lifted his coffee at Pruett.
+
+"All stations, all stations, this is the ferry *North Reach*. The fourteen hundred departure is cancelled. Next departure to be announced. *North Reach* standing by one-six and one-three."
+
+"There goes my boat," he said.
+
+"It was never your boat."
