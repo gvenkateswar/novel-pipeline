@@ -14,7 +14,7 @@ Eleven years, and he had never once sent her home.
 
 She walked to the next D-ring and knelt to it.
 
-The driver set his brake and stayed in his cab with the dome light on. She chained the trailer's forward corners, then the aft, and on her way between them she put her hand on the box. Aluminum, wet, slick. Not cold. A live load in November, and the box was the temperature of the night and no colder, and her hand stayed on it longer than the chain needed.
+The driver set his brake and stayed in his cab with the dome light on. She chained the trailer's forward corners, then the aft, and on her way between them she put her hand on the box. Aluminum, wet and slick, and not cold. A live load in November, and the box was the temperature of the night and no colder, and her hand stayed on it longer than the chain needed.
 
 At the trailer's side door a man in a black hood was stacking the last crates in, face down, quick. A sea came under the ramp and the boat lifted. A crate in the doorway tipped. The band let go with a twang and the lid came up on lobsters, green-black and slow in their bands, and under the top layer, where the lift had shifted them, bricks wrapped tight in gray tape.
 
@@ -22,9 +22,9 @@ The hooded man looked at her. Up in the cab, the driver looked at her. Nobody mo
 
 Beth put the lid down with both hands and leaned on it and ran the band back round. "Lid's sprung. You'll lose your count."
 
-She finished the binder and walked aft without hurrying, because hurrying was a thing they could watch. Her hand went along the stern chain across the transom, and she kicked the ice off the ring buoy's bracket on the way by, and the quarter ladder's rungs went past her knee, black and wet. Then the outside ladder to the wheelhouse. Iced rungs, burning under her palms. Her shoulder brushed the breaker box on the aft bulkhead, humming through her coat. At the top she stopped and listened. Diesel through her soles. The sea booming under the ramp. Nobody on the rungs behind her.
+She finished the binder and walked aft without hurrying, because hurrying was a thing they could watch. Her hand went along the stern chain across the transom, and she kicked the ice off the ring buoy's bracket on the way by, and the quarter ladder's rungs went past her knee, black and wet. Then the outside ladder to the wheelhouse, the iced rungs burning under her palms. Her shoulder brushed the breaker box on the aft bulkhead, humming through her coat. At the top she stopped and listened. Diesel through her soles. The sea booming under the ramp. Nobody on the rungs behind her.
 
-Below her, the hooded man came out from behind the reefer and went off the ramp onto her island before Ned brought it up. He favored the left leg. The heel dragged a line through the slush on the slip, and she watched the line go all the way up into the dark.
+Below her, the hooded man came out from behind the reefer and went off the ramp onto her island before Ned brought it up. He favored the left leg, and the heel dragged a line through the slush on the slip, and she watched the line go all the way up into the dark.
 
 The driver's dome light burned in the cab under the wheelhouse windows the whole way over. Ned kept his eyes on the black water.
 
@@ -44,7 +44,7 @@ They came back into Cutter near the top of the tide. The fuel float at Marr's wa
 
 He went up the ladder slow on the bad hip. At the top he turned and lifted the hand with the bags in it, the way he always did.
 
-Her kitchen was dark and she left it dark. She sat at the table in her coat with the phone on the wall and its twelve-foot cord, which would reach the table if she pulled it. She didn't pull it. Calling meant saying her name to a stranger and listening to it go down on paper, and she had watched a man in a good coat write her father down once, in an afternoon, in blue pen.
+Her kitchen was dark and she left it dark. She sat at the table in her coat with the phone on the wall and its twelve-foot cord, which would reach the table if she pulled it, and she didn't pull it. Calling meant saying her name to a stranger and listening to it go down on paper, and she had watched a man in a good coat write her father down once, in an afternoon, in blue pen.
 
 Past midnight she dialed.
 
@@ -52,7 +52,7 @@ Past midnight she dialed.
 
 "You stay home tomorrow, Ms. Calloway. Don't go to work."
 
-She hung up. Somewhere on the mainland her name was going onto a form, and the form would go to somebody, and somebody would come looking for the woman on it. She took her father's alarm clock off the shelf, wound it till the key stopped, and set it for the first boat.
+She hung up, and somewhere on the mainland her name was going onto a form, and the form would go to somebody, and somebody would come looking for the woman on it. She took her father's alarm clock off the shelf, wound it till the key stopped, and set it for the first boat.
 
 * * *
 
@@ -66,7 +66,7 @@ She didn't look up from the cleat. "Stand on the yellow. There's grit in the pai
 
 "They're for a courtroom."
 
-He stepped onto the yellow. She glanced once, from the line to his boots and back. "Hundred and ninety. The place on Route One that sells fudge."
+He stepped onto the yellow, and she glanced once, from the line to his boots and back. "Hundred and ninety. The place on Route One that sells fudge."
 
 He looked down at his feet as if they'd told on him, and said nothing at all.
 
@@ -74,7 +74,7 @@ Then she looked at the rest of him. Dark gray jacket, zipped to the throat. Shor
 
 "Ms. Calloway." Very polite. "Dane Reyes, Marshals Service. I understand you were told not to work, which I'd hoped meant you wouldn't."
 
-She paid out another fathom.
+She paid out another fathom and let him wait.
 
 "The plate you read to the trooper belongs to Wade Pelletier," he said. "He was stopped on Route One before it got light, and he's in a cell in Portland, which makes you the case. I mention it because the case is out here on an iced ramp holding a rope."
 
@@ -84,9 +84,9 @@ The courier's van backed down to the head of the ramp and the courier lifted one
 
 "Pouch is zipped and going to the bank. You can stop watching it. I'm the one casting off."
 
-That brought him back. Brown eyes, tired at the corners. "I watch whatever leaves your hands. It's a habit. I'm told it isn't my best one."
+That brought him back, and she got his eyes for the first time, brown and tired at the corners. "I watch whatever leaves your hands. It's a habit, and I'm told it isn't my best one."
 
-After that he watched her instead. She felt it on the side of her face while she worked, steady, unhurried, the way a man looks at weather he means to go out in, and she made the line do a thing it didn't need to.
+After that he watched her instead. She felt it on the side of her face while she worked, steady, unhurried, like a man looking at weather he meant to go out in, and she made the line do a thing it didn't need to.
 
 "Kenny's puking and there's no relief on a storm Friday." She put a turn on the cleat. "Master and one deck. That's the certificate. Without me she doesn't leave the slip."
 
@@ -100,7 +100,7 @@ He looked down at her again. "That's a good point about the certificate, and I'm
 
 "I'm not arresting you."
 
-"Then I'm working." She coiled slack. "I'll work her in and the two o'clock back, and I'm yours on the ramp at quarter to three."
+"Then I'm working." She coiled slack and laid it clear of his boots. "I'll work her in and the two o'clock back, and I'm yours on the ramp at quarter to three."
 
 "No."
 
@@ -108,7 +108,7 @@ His phone buzzed in his chest pocket. He took it out, read it, and turned the sc
 
 "Am I keeping you?"
 
-He put the phone away. For a second his hand stayed on the pocket. Then he came a step closer down the yellow, close enough that she could see the sleet melting on his lashes and smell mainland coffee on him, the kind that came with a lid, and he said it slowly, every word set down like a box he didn't want to drop. "The last witness who knew her own town better than I did is buried in it."
+He put the phone away, and for a second his hand stayed on the pocket. Then he came a step closer down the yellow, close enough that she could see the sleet melting on his lashes and smell mainland coffee on him, the kind that came with a lid, and he said it slowly, every word set down like a box he didn't want to drop. "The last witness who knew her own town better than I did is buried in it."
 
 The wind went over them both.
 
@@ -124,7 +124,7 @@ He jumped badly, all knees and no plan, and the new boots hit the lip of the ris
 
 Neither of them let go. She could feel the sea working under the ramp through the soles of her boots, and the cold of his hand, colder than hers, wrapped all the way round the bones of her wrist like he had measured it, and the water widening behind him where Pruett had been, and his breath going in and out against her knuckles, and she was still holding on.
 
-She had him. She'd had him for a while now. Somewhere in there it had turned into two people on a cold deck holding each other by the clothes, and she couldn't have said which of them was supposed to move first.
+She had him, and she'd had him for a while now. Somewhere in there it had turned into two people on a cold deck holding each other by the clothes, and she couldn't have said which of them was supposed to move first.
 
 She let go first.
 
@@ -140,7 +140,7 @@ She coiled the bow line in the lee of the deckhouse, working the ice out of it a
 
 "For the record, I jumped. I'd like that on the record, since you seem to be the one keeping it."
 
-She went on coiling.
+She went on coiling and gave him nothing for it.
 
 "I'd also like it noted that you caught me, which was decent of you, and that I'd have done the same for you."
 
@@ -166,9 +166,9 @@ That got the corner of his mouth. "I was supposed to look at one this afternoon.
 
 "I want a boat I can't be called off of." He said it to the lobster boat, and quieter than anything he'd said on the ramp.
 
-She knew where everybody went. Russ was the *Second Wind*. Ned was the *North Reach*. A man with no boat was from away, and there was nowhere on the island to set him down. She'd been standing here a while anyway, putting him at the rail of that boat in the slop, his sleeves shoved up and a trap coming over the side, and getting his hands right on it, and she made the next coil too tight.
+She knew where everybody went: Russ was the *Second Wind*, Ned was the *North Reach*, and a man with no boat was from away, with nowhere on the island to set him down. She'd been standing here a while anyway, putting him at the rail of that boat in the slop, his sleeves shoved up and a trap coming over the side, and getting his hands right on it, and she made the next coil too tight.
 
-"So," he said. "The two o'clock. Your deal."
+"So," he said. "That leaves the two o'clock, and your deal."
 
 "Last boat today."
 
@@ -200,9 +200,9 @@ Tess signed and turned the look up to his face. "Morning, Marshal. Coffee's on t
 
 While Tess talked, Beth watched every man on the slip walk: the plumber down for his freight, the co-op boys at the fish pier, an old man down for nothing but the news. Not one of them dragged a heel.
 
-They went up the Harbor Road into the wind. She walked slower than she wanted to so he could keep up. He saw her do it and let her. Her father's house sat up on its knoll with its front to the road and every window dark, the way she'd left it. Under the open sky his phone buzzed. He read it and turned the screen from her. She didn't ask. She took him in by the front door.
+They went up the Harbor Road into the wind. She walked slower than she wanted to so he could keep up. He saw her do it and let her. Her father's house sat up on its knoll with its front to the road and every window dark, the way she'd left it. Under the open sky his phone buzzed. He read it and turned the screen from her. She didn't ask, and she took him in by the front door.
 
-In the kitchen she pinned the subpoena under the barometer and tapped the glass. The needle dropped.
+In the kitchen she pinned the subpoena under the barometer and tapped the glass, and the needle dropped.
 
 He looked at it the way he'd looked at the pouch. "That's a very old instrument. I have an app."
 

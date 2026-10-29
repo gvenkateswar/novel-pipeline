@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–01, 3,008 words)
+# Audit — ten-days-out (chapters 01–01, 3,047 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -175,7 +175,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 
 | Ch | Words | Mean sent. | SD | ≤5-word share | Codes/1k | Numerals/1k | ALLCAPS/1k | Max opener run | Flags |
 |---|---|---|---|---|---|---|---|---|---|
-| 01 | 3,008 | 14.5 | 11.9 | 22% | 0.0 | 0.0 | 0.0 | 2 | short |
+| 01 | 3,047 | 16.0 | 12.4 | 17% | 0.0 | 0.0 | 0.0 | 2 | short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -203,13 +203,14 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 ### Phrases (count, whole book; any 3+ is worth a look)
 
+- 1× for the first time
 
 ### Constructions against Part 3 caps
 
 | Construction | 01 | Total | /1k | Cap | |
 |---|---|---|---|---|---|
 | as if / as though | 2 | 2 | 0.7 | 1.0/1k |  |
-| the way (a|the|people|someone) ... | 2 | 2 | 0.7 | 1/ch | FLAG |
+| the way (a|the|people|someone) ... | 1 | 1 | 0.3 | 1/ch |  |
 | the kind of ... that | 0 | 0 | 0.0 | 2/ch |  |
 | with the (precision|care...) of someone who | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0.0 | 1/ch |  |
@@ -218,7 +219,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | em dashes | 1 | 1 | 0.3 | 2.0/1k |  |
 | semicolons | 0 | 0 | 0.0 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 2 | 2 | 0.7 | 1.0/1k |  |
-| one-sentence paragraph | 12 | 12 | 4.0 | report |  |
+| one-sentence paragraph | 12 | 12 | 3.9 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
