@@ -13,7 +13,8 @@ Every real human verdict on text this pipeline produced, with the text it was ab
 | A4 | *The Last Frame* v2, Ch 01–03 sample (`books/the-last-frame/chapters/chapter-0{1,2,3}/final.md`, the pre-tournament Ch 02) | the author | read, other session | **Keep going, mildly.** "The writing is generally more interesting than previously." No stop line given. The sample reader had failed the same text (3.42; Ch 2 scene 3 at 2). | Oct 28 |
 | A6 | *Ten Days Out* v2, Ch 01–03 sample (`books/ten-days-out/chapters/chapter-0{1,2,3}/final.md`, Oct 29 late, store cut to a bridge) | the author | pending | **Open.** The author chose to stop gating on the store scene after six simulated fails and to read Ch 01–03 himself. | Oct 29 |
 
-## What the simulated readers said about the same texts
+
+| A7 | *The Last Frame* v2, full draft after revision round 1 (`books/the-last-frame/manuscript.md`, Oct 29, 31,400 words) | author, text-to-speech, veto window | where did you drift / keep going | **pending** (window closes Oct 31) | Oct 29 |## What the simulated readers said about the same texts
 
 | ID | Sample reader (v1 agent) | Sample reader (calibrated v2 agent) | Cold reader | Outside panels |
 |---|---|---|---|---|
