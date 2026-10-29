@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–09, 26,820 words)
+# Audit — ten-days-out (chapters 01–09, 26,767 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -41,7 +41,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "Dollar says" | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 2 | 4 |  |
 | "I don't bet" | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
 | Dane's predictions, "There it is" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
-| Exact change | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 3 |  |
+| Exact change | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
 | "Here's how this goes" | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |  |
 | "Talk to me" | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |  |
 | "For the record" (Dane only) | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |  |
@@ -222,7 +222,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 06 | 3,258 | 10.8 | 7.7 | 26% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 | 07 | 3,060 | 11.6 | 8.9 | 24% | 0.0 | 0.7 | 0.0 | 5 | mean short openers |
 | 08 | 3,013 | 15.1 | 10.4 | 14% | 0.0 | 0.0 | 0.0 | 2 |  |
-| 09 | 3,032 | 15.2 | 12.9 | 18% | 0.0 | 0.0 | 0.0 | 3 | short |
+| 09 | 2,979 | 15.0 | 12.8 | 20% | 0.0 | 0.0 | 0.0 | 3 | short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -265,13 +265,13 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0.0 | 0.0/1k | FLAG |
 | sentence-initial And/But/And yet | 1 | 0 | 2 | 0 | 4 | 0 | 0 | 3 | 0 | 10 | 0.4 | 3.0/1k |  |
 | em dashes | 1 | 1 | 2 | 0 | 1 | 0 | 1 | 1 | 1 | 8 | 0.3 | 2.0/1k |  |
-| semicolons | 0 | 3 | 1 | 5 | 0 | 1 | 1 | 0 | 0 | 11 | 0.4 | 2.0/1k |  |
+| semicolons | 0 | 3 | 1 | 5 | 0 | 1 | 1 | 0 | 1 | 12 | 0.4 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 2 | 1 | 3 | 1 | 3 | 0 | 2 | 0 | 1 | 13 | 0.5 | 1.0/1k |  |
 | one-sentence paragraph | 17 | 18 | 24 | 15 | 35 | 41 | 27 | 21 | 19 | 217 | 8.1 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
-- Ch 09 scene 5 (797 words): FLAG similes(4), mood(4), body(5)
+- Ch 09 scene 5 (783 words): FLAG similes(4), mood(4), body(5)
 
 
-Orchestrator note: the one contrast FLAG is the Ch 06 conditional, a known false positive. Clean. Orchestrator cut the voice pass's explained gut callback (", as the gut had taught her at six") and the Ch 05 echo "she wasn't steering any of it".
+Orchestrator note (final after cold-read triage, 2,993 words): the one contrast FLAG is the Ch 06 conditional, a known false positive. Clean.

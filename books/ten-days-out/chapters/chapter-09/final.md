@@ -48,7 +48,7 @@ Russ took that with a slow nod.
 
 "Russ, top of the brow by the bollard," Beth said. "Badge in the light, so anybody looking from the land sees a constable." She turned to Dane. "You in the lane between the trucks, on the stern. Me in the wheelhouse with the handheld on nine. Outside ladder's my way down. Floods go, it's me."
 
-"I'll be in the dark between the trucks with my back against the bait truck," Dane said, "because from there I can see the whole stern and nobody on the water can see me, which makes it the first good seat I've had on this boat."
+"I'll be in the dark between the trucks with my back against the bait truck," Dane said, "because from there I can see the whole stern and nobody on the water can see me."
 
 Beth's eyes went to the outside ladder. Russ followed them.
 
@@ -58,13 +58,11 @@ Beth's eyes went to the outside ladder. Russ followed them.
 
 Toward eleven the harbor lay flat calm under the clearing, with the stars down to the mainland hills. Dane sat in the dark lane with his back against the bait truck's rear wheel and his right side clear. The cold of the deck plates came up through his jeans, and the truck behind him smelled of herring. The floods lit the open stern beyond him and left the lane black.
 
-The first night the captain had stood at that stern with a sea coming over the rail and told him nobody was coming over that stern in this. He'd been right. Tonight there was no *this* to speak of. Dane's own rule from that night had been *Let him come to us*, and he was sitting in it now, which had sounded better as a rule.
+The first night the captain had stood at that stern with a sea coming over the rail and told him nobody was coming over that stern in this. He'd been right. Tonight there was no *this* to speak of. Dane's own rule from that night had been *Let him come to us*, and he was sitting in it now.
 
 A body's length from his left shoulder the propane truck carried its cylinders in their rack, frost on their shoulders where the light reached. Steel doesn't burn, the captain had told him the night the bridge came down. Everything in it does.
 
 An hour ago, from this lane, he had sent Pike one text: *The witness put herself on the air tonight as bait. It was her call. I'm staying with it.* He hadn't waited for an answer, and he hadn't taken the phone out since. It was the first call he had made about a person in four years and put his own name under.
-
-His father, who drove a city bus for thirty years, said you could tell who'd make trouble by whether they had exact change. Arsenault always had it, for the cigarettes, the coffee, the stranger's coffee. The captain paid with a twenty and told Tess to put the rest on the boat. That proved nothing about either of them.
 
 He heard her before he saw her, and he knew it was her because he hardly heard her at all. She came down the outside ladder in her socks, her boots left at the top, with a mug in one hand, and crossed the lane and put it into his good hand. The captain's coffee, too strong to drink.
 
@@ -72,7 +70,7 @@ He heard her before he saw her, and he knew it was her because he hardly heard h
 
 She closed his fingers round the mug, one at a time. She turned his collar up against the cold, and then she went back up the ladder.
 
-Her feet went up the iced rungs careful and quick, and he thought about her hands, and about her mouth in the dark when she was trying not to laugh and failing without a sound. The score was zero for nine days. The mug was hot enough to hurt, and he kept his good hand round it anyway.
+Her feet went up the iced rungs careful and quick, and he thought about her hands, and about her mouth in the dark when she was trying not to laugh and failing without a sound. The mug was hot enough to hurt, and he kept his good hand round it anyway.
 
 This morning in the mess, when he gave her the seal line, she had looked at the heater grille, and he had filed that and not asked. She had asked the captain about the float once, below decks where he couldn't hear, and he'd been shot for it, and here he sat on the steel between two trucks on her say-so.
 
@@ -100,7 +98,7 @@ Russ looked up at her once, the light on his face, and didn't ask.
 
 "Going," Russ said. His boots went off up the pier road at a run, toward the path behind Marr's.
 
-She went to the breaker box on the wheelhouse's aft bulkhead. Its door was rimed shut, and she hit it once with her fist. Her fingers found the floods' breakers in their row and threw them. The car deck went black under her hand as she swung herself over the top of the outside ladder, already going down into it rung by iced rung, the cold of the steel coming up through the wool at her heels.
+She went to the breaker box on the wheelhouse's aft bulkhead. Its door was rimed shut, and she hit it once with her fist. Lit, the deck was a stage for anyone on the water. Dark, it was hers; she had walked every chain on it blind. Her fingers found the floods' breakers in their row and threw them. The car deck went black under her hand as she swung herself over the top of the outside ladder, already going down into it rung by iced rung, the cold of the steel coming up through the wool at her heels.
 
 * * *
 
@@ -108,9 +106,9 @@ Off the bottom rung she stood on the steel and listened.
 
 Somewhere forward along the port side, by the propane truck, a can was being poured. It glugged and caught its breath and glugged again. Something wet slapped the deck plates. Then a man was walking on the steel, one boot setting down clean and the next one dragging its heel across the plates like a file drawn once, and then the clean one again. The smell reached her through the cold a breath behind the sound, gasoline, sweet and wrong.
 
-In the lane a chain rang. Dane had sat all night facing the floods, and when they died he was blind. He had gone toward the pouring by its sound and fouled a binder chain left across the lane, and she heard him go down on the steel and the breath go out of him when the bad arm took it.
+In the lane a chain rang. Dane had sat all night facing the floods, and when they died he was blind. He had gone toward the pouring by its sound and fouled a binder chain somebody had dragged loose across the lane, and she heard him go down on the steel and the breath go out of him when the bad arm took it.
 
-"I'm by the bait truck's back wheel," Dane said from the deck, low. "I've got the gun, and I can't see a thing, which I want you to know is new for me on this boat. I'm on my bad side. I'm getting up. I've changed my mind about getting up. I'm still here."
+"I'm by the bait truck's back wheel," Dane said from the deck, low. "I've got the gun, and I can't see a thing. I'm on my bad side. I'm getting up. I've changed my mind about getting up. I'm still here."
 
 Then the file-scrape came down the lane toward his voice. A boot found him in the dark with a sound like a sack hitting a floor.
 
@@ -124,7 +122,7 @@ There was gasoline on the steel all round them. Starlight lay on the wet plates 
 
 The boot came down again. She heard it land on the bad arm. Dane's voice stopped for as long as a man can hold his breath under water, which was not long, and then it started again, lower.
 
-"Holding," Dane said. "I'm holding. He's on my left, he's heavy, he smells like a gas pump, and you'll want to remember I did what I was told, because it's a first."
+"Holding," Dane said. "I'm holding. He's on my left, he's heavy, he smells like a gas pump, and you'll want to remember I did what I was told."
 
 The scrape went away from him, aft, toward the open stern. By the transom a lighter's wheel scratched. Sparks jumped and died. The man's glove was soaked with what he'd poured, and his thumb slid on the wheel. It scratched again.
 
@@ -146,7 +144,7 @@ The line came taut in her hands exactly where she had meant it to, with a man's 
 
 The generator roared out back of Marr's. Tess stood behind the counter with a dish towel full of snow pressed to her mouth, and with her free hand she was straightening the cigarette rack, though nobody was buying.
 
-Ned sat on the stool in the green jacket, the clean collar from supper still buttoned to the top. The store's set on the shelf behind him was still on nine. Through the front window Russ's truck stood at the dock head with its dome light on, and a man sat in the passenger seat with his hands behind him.
+Ned sat on the stool in the green jacket, the clean collar from supper still buttoned to the top. The store's set on the shelf behind him was still on nine. Through the front window Russ's truck stood at the dock head with its dome light on, and Lyle Arsenault sat in the passenger seat with his hands behind him. Down at the pier Dane had the boy from the water wrapped in Ned's blankets at the end of his gun, the arm bleeding through the strips again.
 
 Beth stood across the counter from Ned. Her hands lay on the cold wood, raw from the buoy line.
 
@@ -158,9 +156,7 @@ Beth stood across the counter from Ned. Her hands lay on the cold wood, raw from
 
 "Ned," Beth said.
 
-"That first Thursday," Ned said, "after you'd gone up the hill, Lyle Arsenault came aboard and told me what was under the lobsters. He said if you went to Portland, I went with you, shorts or no shorts."
-
-"That freight's the winter boat," Ned said. "Without the contract the district ties her up December to April, and you and Kenny go ashore."
+"That first Thursday," Ned said, "after you'd gone up the hill, Lyle Arsenault came aboard and told me what was under the lobsters. He said if you went to Portland, I went with you, shorts or no shorts. That freight's the winter boat. Without the contract the district ties her up December to April, and you and Kenny go ashore."
 
 "He gave me nine thousand in hundreds," Ned said. "I cut Tess's yellow tag off the store bag and put the money in your envelope, over your slip. Then I sealed the bag again with one of ours out of my drawer, a red one."
 
@@ -170,9 +166,7 @@ Tess had stopped straightening the rack.
 
 "The night the bridge came down he said they wanted to talk to you about the money," Ned said. "You told me home, and I told you me and God. Then I walked up here with it and called the dragger from the back step."
 
-"He said a store like hers lives on the boat," Ned said. "So I gave them Ashby."
-
-"The fish house I knew," Ned said. "I've seen you row shingles out to it every fall. That one I kept."
+"He said a store like hers lives on the boat. So I gave them Ashby. The fish house I knew. I've seen you row shingles out to it every fall. That one I kept."
 
 "Wednesday you asked me about the float," Ned said. "They said they only wanted to watch you go."
 
