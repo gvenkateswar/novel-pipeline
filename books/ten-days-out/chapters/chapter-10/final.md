@@ -46,11 +46,15 @@ The pad lay shut on the counter under Quist's hand. She was the Q on Pike's scre
 
 "I sold you condoms."
 
-"An impeller bearing your price sticker was taken from that shelf at noon on the sixteenth. Was it missed?"
+"An impeller bearing your price sticker was taken from that shelf at noon on Monday. Was it missed?"
 
 "Forty-one ninety-five. Went on Haskell's account." Tess wiped the counter where nothing had spilled.
 
-"Your spare truck key was left on the back step the night the bridge came down, and again Monday noon. The captain's float-light key was handed over and kept. The town's key, understood to hang by your safe—"
+"Your spare truck key was left on the back step the night the bridge came down, and again Monday noon. How many keys on that hook, Ms. Marr?"
+
+"Two."
+
+"The captain's float-light key was handed over and kept," Quist said. "The town's key, understood to hang by your safe—"
 
 "Never left the nail."
 
@@ -58,7 +62,7 @@ The pad lay shut on the counter under Quist's hand. She was the Q on Pike's scre
 
 "Lift it and lean on it," Beth said.
 
-Ned had come in by that door every winter of her life without being shown. Dane she had shown once, in the mudroom. He had it by the third try.
+Ned had come in by that door every winter of her life without being shown.
 
 Tess bent below the counter and came up with a book, cloth-bound, gray, soft at the corners, and laid it on the pad.
 
@@ -74,9 +78,9 @@ Quist turned pages and stopped. "Another vessel is recorded here at the same rat
 
 "Eleven. Since August. Same price, and never the same man paying twice."
 
-Beth knew the *Dorothy M.* by sight, a green forty-footer from across the bay. She tried to put a man at her wheel and couldn't.
-
 "The *Dorothy M.* was expected at that float this morning," Quist said, "and was not seen."
+
+Beth knew the *Dorothy M.* by sight, a green forty-footer from across the bay. She tried to put a man at her wheel and couldn't.
 
 "Goddamn," Quist said to the page. "How many of those nights was a boat carrying fentanyl fueled at your float, Ms. Marr?"
 
@@ -220,7 +224,7 @@ The juror nearest her uncapped a pen.
 
 Out in the corridor the stone floor gave the sound of her good shoes back to her. After eleven days of cold the radiators had the air hot and dry. By the tall window a woman in her fifties got up off the bench, and Beth knew Pike by the voice before the face.
 
-"They've voted it."
+"They've voted it. No preliminary hearing now."
 
 "Pelletier," Beth said.
 
@@ -238,7 +242,7 @@ Beth put her coat on. She buttoned it wrong and did it again.
 
 "Where is he?" Beth said.
 
-"Upstairs with the people from Arlington until they're finished with him. When they're finished he's on leave. Where he spends it is his business."
+"Upstairs with Arlington till they're finished with him. Then he's on leave. Where he spends it is his business."
 
 Beth looked at the stairwell. The *North Reach* lay at the Pruett slip with nobody aboard who could take her off it, and the island had no boat until she got there.
 

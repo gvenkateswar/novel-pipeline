@@ -158,7 +158,7 @@ Ned sat on the stool in the clean collar from supper, the store's set on the she
 
 "Ned," Beth said.
 
-He looked at his knees. "I come down after supper for the phone. Stood out back where it gets its bar, on to Sector about the inspector, is he on the eight o'clock, and he is. Then I see a skiff under the dragger with no light on her, so I came in and keyed nine."
+"I come down after supper for the phone. I stood out back where it gets its bar, on to Sector about the inspector, is he on the eight o'clock, and he is. Then I see a skiff under the dragger with no light on her, so I came in and keyed nine."
 
 "Where's your cop," Beth said.
 
@@ -166,7 +166,7 @@ Ned stopped.
 
 "The boy said it on my deck," Beth said. "On the air I was by myself. You sent Russ to the pier. You knew the marshal was aboard."
 
-"Lyle Arsenault came aboard that first Thursday," Ned said, "with nine thousand in hundreds. He said if you went to Portland, I went with you. I cut the tag off the store bag. I put the money in your envelope, over your slip, and I sealed the bag again with a red one out of my drawer."
+"Lyle Arsenault came aboard that first Thursday," Ned said, "with nine thousand in hundreds. He said if you went to Portland, I went with you. I cut the tag off the store bag, put the money in your envelope over your slip, and sealed the bag again with a red one out of my drawer."
 
 "Mine are yellow, Haskell," Tess said into the towel.
 
@@ -184,9 +184,9 @@ Tess's hands stopped on the rack, a carton of menthols half out of its slot.
 
 "Save it for Whitcomb, Haskell," Tess said. "Whitcomb'll want it in order."
 
-"Tonight I gave them the whole boat, from the back step, before Tess came down," Ned said. "Russ on the pier in the light. Your marshal aboard. Land side watched, so they'd come by water, where you'd see them first. You wanted a trap. I gave them one."
+"Tonight I gave them the whole boat, from the back step, before Tess came down," Ned said. "I told them Russ was on the pier in the light and your marshal aboard, so they'd come by water, where you'd see them first. You wanted a trap. I gave them one."
 
-"You gave them the marshal," Beth said. "They put the boot on his arm."
+"You gave them my marshal," Beth said. "They put the boot on his arm."
 
 She turned to the window. Dane stood under the pier light, watching the store.
 
@@ -196,7 +196,7 @@ She turned to the window. Dane stood under the pier light, watching the store.
 
 "Corner of the counter," Tess said. "Eight dollars of Life Savers on the floor."
 
-Ned turned his head toward the window. "Stars out over the mainland," he said. "Every New Year's she tells me ask me sober."
+Ned turned his head toward the window. "Stars are out over the mainland," he said. "Every New Year's she tells me ask me sober."
 
 "Haskell," Tess said. "Don't you."
 

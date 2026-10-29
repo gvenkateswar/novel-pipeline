@@ -46,7 +46,7 @@ In the crew mess his wet coat steamed at the heater. He set his phone on the tab
 
 "The generator shed," Beth said. "All those money questions."
 
-"For the case."
+"Those were for the case."
 
 "My bed."
 
@@ -54,7 +54,7 @@ In the crew mess his wet coat steamed at the heater. He set his phone on the tab
 
 "After."
 
-"After." He didn't look away from her. "Every place we've slept."
+"Yes. Every place we've slept."
 
 "Say the line," she said.
 
@@ -80,9 +80,9 @@ She opened the book at the place, tipped up off the table so he couldn't see the
 
 "Wasted their money."
 
-"They did," he said. "You'd never have touched it, and anybody on this island could have told them so."
+"They did," he said. "You'd never have touched it, and anybody here could have told them so."
 
-"Seal noted: red," Dane said. He had that one from memory too. "You told me the fare bag's red. The money rode over in the boat's bag."
+He had the teller's line from memory too. "Seal noted: red. You told me the fare bag's red. The money rode over in the boat's bag."
 
 Her eyes went to the heater grille. She turned the book face down under her hand and drew it back to her own side of the table.
 
@@ -92,19 +92,19 @@ Her eyes went to the heater grille. She turned the book face down under her hand
 
 "I left you the case."
 
-"Open," he said.
+"You left it open," he said.
 
 Her finger found the old mug ring on the table and went round it once.
 
 "A man got shot on a lit road at dawn," he said, "and nobody on this island opened a door."
 
-"One shot over the water at first light. That's somebody's eiders. Nobody on this island gets out of bed for eiders."
+"One shot over the water at first light. That's somebody's eiders. Nobody gets out of bed for eiders."
 
 He put a hand over his eyes for a second and took it away.
 
 "You came by the road," she said.
 
-"I sat the night low out at the fish house in case you came back by the shore. Then the road, and the riprap. There's one boat on this island you'd sleep on."
+"I sat the night low out at the fish house in case you came back by the shore. Then the road, and the riprap. There's one boat in this harbor you'd sleep on."
 
 "And Pike."
 
@@ -226,7 +226,7 @@ Ned looked at the arm, and at the slab going onto the third plate, and sat down 
 
 "County rang Tess Wednesday," Beth said. "Landing and the hour. She told nobody."
 
-Dane was at the forward windows. Past him the *Margaret Ann* lay to her new mooring, the town landing square off her bow, and in the lee of the pier wall one line of his prints still went down to the riprap.
+Dane was at the forward windows. Past him the *Margaret Ann* lay to her new mooring, the town landing square off her bow, and in the lee of the pier wall one line of his prints went down to the riprap.
 
 "The county rings the emergency director," he said, "and keeping a federal landing to herself is the one part of that job anybody asked her to do."
 
@@ -234,7 +234,7 @@ Dane was at the forward windows. Past him the *Margaret Ann* lay to her new moor
 
 The wheelhouse set came up on sixty-eight.
 
-"Marr's, all stations. Generator's on, store's open till dark. Kerosene's four-ten. Out of D batteries, Whitcomb, don't ask. Coffee's free to the storm."
+"Marr's, all stations. Generator's on, store's open till dark. Kerosene's nine fifty. Out of D batteries, Whitcomb, don't ask. Coffee's free to the storm."
 
 "That ring has hung there since before she bought the store," Dane said, "and the whole fire company knows its way behind that curtain."
 

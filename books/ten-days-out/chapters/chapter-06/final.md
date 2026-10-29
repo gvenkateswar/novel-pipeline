@@ -104,7 +104,7 @@ At the end of the dock she turned. Through the front window Tess stood at the co
 
 * * *
 
-Wednesday's first sun lay flat on the rock above the fish house, on both of them, with no warmth in it worth the name.
+Wednesday's first sun lay flat on the rock above the fish house, on both of them, with no warmth in it.
 
 The phone went off in his jacket.
 
@@ -144,7 +144,7 @@ Where the shore turned, the bank fell away to low ground, open to the inner harb
 
 "That isn't swinging."
 
-He put two fingers on her sleeve. "Back to the turn. We wait under the bank."
+He put two fingers on her sleeve. "Back to the turn, and we wait under the bank till he looks away."
 
 Beth looked at the water. Behind them the shore ran back to the cove and its one roof. Turn now, and they drew that glass up the shore to her father's door. And two people crouched in the weed had a reason to crouch.
 
@@ -164,17 +164,17 @@ Out on the rail the man turned with them.
 
 "Shorter steps."
 
-His elbow stayed tight against her ribs all the way across, his breathing slower than hers.
+His elbow stayed tight against her ribs, his breathing slower than hers.
 
 The last ledge before the riprap was all weed. His free hand came under her elbow and stayed there till she had rock.
 
 "Tomorrow we go down to look. Anything wrong at the ramp head, we turn round."
 
-"I'll know before you do."
+"I'll know before you do," she said.
 
 "You will."
 
-At the foot of the stone pier she looked back. The man had turned all the way round, and he watched them up the pier and over the brow. She took her arm out of Dane's at the top, and he went up the outside ladder to the wheelhouse to watch the pier.
+At the foot of the stone pier she looked back. The man had turned all the way round, and he watched them up the pier and over the brow. She took her arm out of Dane's at the top, and he went up the outside ladder to the wheelhouse.
 
 Beth heard the forepeak before she saw it. The pump had quit. The boat had gone quiet under her boots.
 

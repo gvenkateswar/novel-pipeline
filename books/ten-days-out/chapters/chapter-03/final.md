@@ -81,7 +81,7 @@ She didn't. The fish houses stood on their tarred posts with the top of the tide
 
 He stopped. He got an arm round a corner post, and the sea came up the lane white and went through to his knees and sucked back out at him. At the far end the man stepped up onto a sill he knew and was gone.
 
-Dane stood where she'd put him, jeans black to the knee, both arms round the post.
+Dane stood at the post, jeans black to the knee, both arms round it.
 
 Russ Whitcomb, the island's constable when it needed one, came out the store's back door at the noise.
 
@@ -95,9 +95,9 @@ Dane came through the office with snow on his shoulders and the sea running out 
 
 "Mop's a dollar. Floor's free," Tess said. "Storm special."
 
-"Your man went in between those fish houses like he'd built them," Dane said to Russ. "I went in like a man looking for the restroom."
+"Your man went in between those fish houses like he'd built them," Dane said to Russ. "I went in like a tourist looking for the restroom."
 
-"Restroom's customers only. Coffee's two dollars. Buy one, you're a customer."
+"Restroom's customers only," Tess said. "Coffee's two. Buy one, you're a customer."
 
 Beth knocked the snow off his shoulder, and her thumb found the cold skin of his neck above the collar and rested there. Tess looked from her hand to his face, and then down at the log.
 
@@ -105,7 +105,7 @@ He took a carton of milk out of the cooler and handed it to her.
 
 The bell went. Arsenault came in stamping snow off good boots: the *Margaret Ann*, the dragger that had stayed lit through the blackout. His eyes went from the water on the boards to Dane's wet knees.
 
-"Pack of Golds, Tess, and whatever the gentleman's having," Arsenault said. "Man goes in the harbor for this island, he drinks on me."
+"Pack of Golds, Tess, and whatever the gentleman's having," Arsenault said. "Man goes in the harbor for this island, he drinks on me. Lucky it was only knee-deep."
 
 "Eleven-forty. Coffee, two. Lyle, you're a saint."
 
@@ -117,7 +117,7 @@ The clock over the door came to noon. *Saturday noon*, the screen had said: the 
 
 Arsenault nodded to Beth and went. Through the front window she saw him go down the dock to his skiff and pull away toward the moorings.
 
-Beth and Dane went out the front, the bell behind them, round to the side wall. Russ stayed inside at the counter. Ned was round the side wall with an urn cup, and Dane stopped at the front corner, where he could see her and the moorings and was too far off in the wind to hear.
+Beth and Dane went out the front, round to the side wall. Russ stayed inside at the counter. Ned was round the side wall with an urn cup, and Dane stopped at the front corner, where he could see her and the moorings and was too far off in the wind to hear.
 
 "Need the Ashby key," Beth said. Ashby was the Connecticut place on the north point, and nobody slept there in winter.
 
