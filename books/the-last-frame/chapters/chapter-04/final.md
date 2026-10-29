@@ -1,16 +1,16 @@
 # Chapter 4: Say Intentions
 
-Ray drove past the alley in the dark and kept going out Kettle Road. A mile on, the plowing stopped at a summer cottage somebody had winterized, on the water, and that was where she rented. Her kitchen light was on at twenty to seven. Her car sat in the dooryard with two arcs scraped clear on the windshield and none anywhere else.
+Ray drove past the alley in the dark and kept going out Kettle Road, a mile, to where the plowing stopped and Ellen rented a summer cottage somebody had winterized, on the water. Her kitchen light was on at twenty to seven. Her car sat in the dooryard with two arcs scraped clear on the windshield and none anywhere else, and he sat with the engine running and the back of his neck keeping the place her hand had been.
 
 He turned around at the end of the plowing, backed once into the bank, and drove back the way he had come.
 
 He let himself in with her front key, the first time he had used it, and the cut he'd made on his own wheel went over smooth. At the counter he threw the ten toggles under her tape, and the lanes came up a pair at a time down the length of the building.
 
-You ran every machine once before a party day, empty, and you listened. He took a ball off the rack and walked the line, throwing a full box down every lane, three balls apiece, so each machine took its wood and swept and set ten fresh. Three came round half a second late at the top of her table, and he put that away for later. By the time he was back at lane one, all ten were lit and set and humming, and nobody on any of them.
+You ran every machine once before a party day, empty, and you listened. He took a ball off the rack and walked the line, throwing a full box down every lane, three balls apiece, so each machine took its wood and swept and set ten fresh. Three came round half a second late at the top of her table, and he put that away for later. By the time he was back at lane one, all ten were lit and set and humming, and nobody on any of them. He wiped the approach with his sleeve, which he never did for league night.
 
 Headlights swept the glass block. The vestibule door opened, and she stopped in it with the clipboard against her chest and the cold coming in past her, and listened.
 
-Ray watched her do it from lane one. Her eyes went down the building to ten and came back along it, lane by lane, and stopped on him. His hands had come out of his jacket pockets without his say-so. She let the door close.
+Ray watched her do it from lane one. Her eyes went down the building to ten and came back along it, lane by lane, and stopped on him. She let the door close.
 
 She came down onto the approach and stopped an arm's length off his right side.
 
@@ -52,7 +52,7 @@ She swung once, slow, without letting go. The wrist stayed on top.
 
 He stepped in behind her right shoulder, close enough that the front of his jacket brushed her vest, and put his hand over her wrist. Her watch was under his palm, face and all, the band still cold from the drive. He turned the wrist under for her, slowly, and held it there.
 
-Under the band her pulse was going quick, the way a motor runs fast before it's warmed through. The last wrist he had turned like this was Danny's, nine years old and sticky with orange soda. He held on a beat longer than the lesson needed, and then another.
+Under the band her pulse was going quick, the way a motor runs fast before it's warmed through. The last wrist he had turned like this was Danny's, nine years old and sticky with orange soda. He held on past the lesson, until the return rumbled the next ball up and it knocked against the one already waiting.
 
 "It is nine minutes past seven," she said. "I have been counting."
 
@@ -106,7 +106,7 @@ Danny watched him do all of it.
 
 Ray put the check in the bank's envelope and sealed it and ran his thumb along the flap, twice. He didn't answer. He picked up the invoice pad, which was what he had come for.
 
-Out front he laid the envelope in the wire tray of outgoing mail on the counter, address up, the way all the store's mail went out, and went to the door with the pad under his arm. As the door swung shut behind him, through the glass, Normie got down off the end stool and leaned over the tray and read the address, moving his lips.
+Out front he laid the envelope in the wire tray of outgoing mail on the counter, address up, and went to the door with the pad under his arm. Through the glass, Normie got down off the end stool, leaned over the tray and read the address.
 
 \* \* \*
 
@@ -158,7 +158,7 @@ Ray stood in the office doorway with his first invoice, torn off the Gagnon & So
 
 "Shut the door," she said. "The heater cannot keep up with the hall."
 
-He shut it, and the heater's orange bar found his shins, and his shoulder met the old coat hooks. He was a foot from her with no farther to go.
+He shut it, and the heater's orange bar found his shins, and his shoulder met the old coat hooks. He was a foot from her with no farther to go. He had stood a foot from people across counters all his life and never known what lay at the far end of one. Now he did: short silver hair, reading glasses swinging on a cord over the tape, and all in reach of the hand in his jacket pocket.
 
 He held out the invoice. She took it without turning all the way round and read it once, and wrote a check on the alley's book standing up, and tore it out and laid it on his side of the adding machine.
 
@@ -198,23 +198,23 @@ She took a sheet off the blotter and handed it to him. One page in her printing:
 
 "Arlene put this same notice up once," he said.
 
-"First."
+"First," Ellen said.
 
-"Had a feeling there'd be a first."
+"Had a feeling there'd be a first," Ray said.
 
-"December of two thousand four. Posted on the board in Arlene's hand, and charged from the next league night." She tipped her head at the shelf he had just fixed. "That is where I took the form."
+"December of two thousand four. Posted on the board in Arlene's hand, charged from the next league night." She tipped her head at the shelf he had just fixed. "That is where I took the form."
 
-"Took it down to the commas, I'd guess."
+"Took it down to the commas, I'd guess," Ray said.
 
-"Second. Paragraph four says lineage stands as set in September, 'as the league's bylaws provide.'"
+"Second," Ellen said. "Paragraph four says 'as the league's bylaws provide.'"
 
 "And what do the bylaws provide?"
 
 "Third. I asked Verna for them the day after I closed."
 
-"And Verna said."
+Ray waited. "And Verna said."
 
-"The secretary reads the bylaws aloud at the January meeting, in full, and the binder does not leave the secretary."
+"The secretary reads the bylaws aloud at the January meeting, in full, and the binder does not leave the secretary," she said.
 
 Ray had to look down at the notice.
 

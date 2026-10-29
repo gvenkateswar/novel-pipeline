@@ -105,3 +105,33 @@ Prose word count at that stage, hand-tallied against the 2,996 baseline: about 3
 - **"Concord" is the bank only** in this chapter. The buyer of the lot is "the condo man" (Ch 8 s2 pays him off under that name).
 - **New in this pass:** Ray drank part of a cup of the Bench's coffee at the register, which is terrible, scalding and free; the Bench's sheet and the old sheet hang by the register; the office heater has an orange bar that reaches the shins of anyone at the door. None needs a payoff.
 - **Numbers on the page:** twenty to seven · nine minutes past seven · half past eight · five past five · ten minutes to supper · a mile · fifteen minutes · six inches · sixty feet · seven hundred dollars every week it bowls (Ellen's one money fact) · two thousand four · New Year's Eve · March first · a quarter past five · thirty years.
+
+---
+
+## Cold-read triage pass (Oct 29, autopilot, small fixes into final.md)
+
+Source: `reader-notes.md`. Six items, nothing else. `wc -w final.md` = 3,131 (ceiling 3,132; was 3,068).
+
+| Scene | Final (prose only) | Floor |
+|---|---|---|
+| S1 | about 934 | 800 |
+| S2 | 595 | 500 |
+| S3 | 654 (untouched) | 650 |
+| S4 | 935 | 800 |
+
+1. [Kiss aftermath, S1] Two beats, neither naming it. Memory, one sentence, in the opening paragraph: "…and he sat with the engine running and the back of his neck keeping the place her hand had been." (Ch 3 had her hand at the back of his neck where the collar let the wind in.) Action, after the ten machines are set: "He wiped the approach with his sleeve, which he never did for league night." Heat rules: hand and neck only, no mouth named, nobody says "kiss" or "Friday."
+   [Kiss aftermath, S4] At the shut door: "He had stood a foot from people across counters all his life and never known what lay at the far end of one. Now he did: short silver hair, reading glasses swinging on a cord over the tape, and all in reach of the hand in his jacket pocket." Follows "He was a foot from her with no farther to go." The glasses on a cord are from the bible's description of Ellen. The unzipped-jacket beat later in the scene is unchanged.
+2. [Office recitation, S4] Tags added where a listener loses the speaker: "First," Ellen said. / "…," Ray said. (x2) / "Second," Ellen said. / Ray waited. "And Verna said." / "…does not leave the secretary," she said. Second item cut to the turning clause: "Paragraph four says lineage stands as set in September, 'as the league's bylaws provide.'" → "Paragraph four says 'as the league's bylaws provide.'" First item trimmed by two words ("and charged" → "charged").
+3. [Beat-longer tic, S1] "He held on a beat longer than the lesson needed, and then another." → "He held on past the lesson, until the return rumbled the next ball up and it knocked against the one already waiting." A sound that only a candlepin approach has, in Ray's sound-first register. Ch 1 and Ch 3 still carry the tic: Ch 3's "for a beat after she had any reason to, and then for one more" should go to the next revision pass of that chapter (not touched here).
+4. [S2, "the way" cap] "address up, the way all the store's mail went out, and went to the door" → "address up, and went to the door". Plain statement; the clause was only glossing the address. The remaining "the way" in the chapter: S1 "drove back the way he had come" (route), S1 the motor simile (the beats' allowed one), S3 "from the way she said his call sign", S4 "vote the way you stand". Not touched.
+5. [Endings] S3 checked: the scene stops on "Unable." with nothing after it. The "counter's noise, somebody laughing at the register" clause before the line is the assigned open channel, so left as is. S2 was dressed: "As the door swung shut behind him, through the glass, Normie got down off the end stool and leaned over the tray and read the address, moving his lips." → "Through the glass, Normie got down off the end stool, leaned over the tray and read the address." The door swing and "moving his lips" were the button; the scene now stops on the action the beat sheet assigns.
+6. [S1 opening] Ellen is in the first sentence by name and in the second by pronoun: "…to where the plowing stopped and Ellen rented a summer cottage somebody had winterized, on the water." This also fixes the listener note that "where she rented" arrived late.
+
+## Cut for the ceiling (outside the six, flag if you disagree)
+
+- S1 "His hands had come out of his jacket pockets without his say-so." Cut: a decoding clause (the reader's section 5 named this class), and S4's new beat now uses Ray's jacket pocket for something else. If it should come back, take the words out of S1's new wipe sentence first.
+
+## Not done, per the instruction of six items
+
+- "Three came round…" (S1) still reads as a count; the confusions list also names the Concord loan and "I checked the name on it twice." Those are structural or clarity notes for the next triage.
+- "Ray had to look down at the notice," "He had nothing left in reach to fix," and the two motor similes remain (reader section 5).
