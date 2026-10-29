@@ -50,3 +50,4 @@ Danger beats were left at full shortness on purpose: the patter under the bulwar
 
 **Flag (no plot change made):** s2's setting in the beats gives "the store generator's flat roar out back" at dusk. The grid doesn't fail until the bridge comes down, about 9 p.m., so a store generator running at dusk would contradict the Phones/power rules. It was left out. The plot architect may want to correct the beat sheet.
 - Orchestrator: cut "more than the store took in over a week in November" (continuity Issue 5 had removed it; the voice pass restored it from the beats). Word count 3,082 → band.
+- Orchestrator, after the cold read: "Dane Reyes" on first mention (Ch 1 narration used Reyes); "Portland has your man" → "Portland knows about your man" (read as an arrest).

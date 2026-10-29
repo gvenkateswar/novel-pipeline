@@ -4,7 +4,7 @@ The back door shook on its latch, iron on iron, and stopped, and shook again.
 
 Somebody in her mudroom was trying to come into her kitchen politely, and then less politely, and the old iron wasn't having either. Beth lifted the thumb-piece hard and put her shoulder to the boards, and the door went open on him.
 
-Dane stood in the mudroom with snow in his hair and his right hand on his hip under the jacket, and behind him the outer door stood open on the weather.
+Dane Reyes stood in the mudroom with snow in his hair and his right hand on his hip under the jacket, and behind him the outer door stood open on the weather.
 
 "Lift and shove."
 
@@ -20,7 +20,7 @@ Dane said nothing beside her, his eyes on the same place.
 
 He made the call there under open sky, with the harbor at his back. She went in, and through the kitchen window she watched his mouth and couldn't hear a word of it, and she put a stick in the stove it didn't need.
 
-He came in with snow on his shoulders. "Portland has your man with the heel now, which they didn't this morning." He let that sit long enough for her to hear it. "And the grand jury sits Monday. It's the last sitting before Pelletier walks, and they'd like you in front of it."
+He came in with snow on his shoulders. "Portland knows about your man with the heel now, which they didn't this morning." He let that sit long enough for her to hear it. "And the grand jury sits Monday. It's the last sitting before Pelletier walks, and they'd like you in front of it."
 
 She looked once at the subpoena under the barometer.
 
