@@ -7,3 +7,4 @@
 - Word count: 5.1 + 5.2 estimated about 1,780 (limit 1,950); chapter estimated well under 3,618. No shell available, so the orchestrator should confirm with wc -w.
 - Flag for the orchestrator: with the booster clause now in 5.1, the fish-house scene's flashlight and the earlier "Dane's phone talked to the sky and nothing else" line still agree. The earlier v1 phrasing of the booster as a visible antenna is gone, so later chapters must set up the booster's location at the store.
 - Orchestrator triage after the v2 cold read (7/10): one sentence placing the fish house under the ledge, out of sight of every road and the bar, before the stove is lit (belief break). 'no one in the world to hear her' → 'no one this side of the ledge'.
+- Orchestrator (Ch 06 beats flag 6): the half tide no longer shares Tess's 22:40 clock time ('a bit before eleven', 'under an hour to the tide').

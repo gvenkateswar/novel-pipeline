@@ -72,13 +72,13 @@ The truck went back up the drive and over the spine. Beth kept the shape of it a
 
 Inside, Dane set the pot on the stove. "She knows. We move."
 
-"Sill's out of the water at the fish house. I looked. Should be knee-deep at half tide, and half tide's twenty to eleven. Ninety seconds across, if we don't stop. We go then."
+"Sill's out of the water at the fish house. I looked. Should be knee-deep at half tide, and half tide's a bit before eleven. Ninety seconds across, if we don't stop. We go then."
 
 She shut the stove's damper hard and raked the ash up over the coals. Over the roof the smoke thinned, leaned, and went to nothing much.
 
 * * *
 
-Near ten the kitchen was packed to go, two bags by the back door, forty minutes to the tide. They ate Tess's chowder standing up out of the Ashbys' good bowls, by the light the generator made behind the sheets. Its hum came up through the floorboards into Beth's feet.
+Near ten the kitchen was packed to go, two bags by the back door, under an hour to the tide. They ate Tess's chowder standing up out of the Ashbys' good bowls, by the light the generator made behind the sheets. Its hum came up through the floorboards into Beth's feet.
 
 Dane stirred his bowl. "I've been through this twice looking for the clam, and I'm starting to think the clam was a rumor."
 
