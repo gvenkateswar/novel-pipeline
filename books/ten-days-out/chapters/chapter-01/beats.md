@@ -257,3 +257,62 @@ No soft ending. Two scenes end on a line of dialogue, and each line is a differe
 - **Inciting incident:** S1 (the bricks; seen seeing them).
 - **Romantic hook:** S2 (the jacket front). Both are on the page by about 6%, well inside the 12% sample mark.
 - **The couple's own joke starts here:** the bet she won't take (S4).
+
+---
+
+## S4 revision (tournament)
+
+*Plot-architect, October 29, 2026. Pull-gate failure: S4 scored 2 in reviews/sample-read-ch01.md, and chapters/chapter-01/reader-notes.md says the same. This section **supersedes Scene 4 above, the Scene 4 row of the ending audit and the plant-list row "There goes my boat." / "It was never your boat."** S1–S3 stand as written. Text read: chapters/chapter-01/final.md (Oct 29).*
+
+### What the readers found, and what this revision does about it
+- **The threat went silent after S1, and Beth never tells Dane about the limping man, even while she scans the slip beside him.** In this version Dane catches her scanning and asks. She lies, and the reader can see why. Then the island answers: the limping man's track at Marr's fuel float, and later a hooded figure in a skiff watching her hill. She tells Dane at the track, and Dane learns from it that she left the man out of last night's call.
+- **The barometer joke, the packing and the mother's-counter banter do no work.** All three are cut. The glass is now one gesture, and the dollar bet is reframed so it carries the threat. He now *wants* the ferry to run, because it's her way off the island. She reads the glass and can't give him the bet.
+- **The chapter ends on a quip.** "It was never your boat" is cut. Dane still says "There goes my boat," low, to the window, with no comeback; it costs him the viewing and loses the last boat off the island. The final beat is unease: the skiff is empty and the man is ashore.
+- **Every scene ends on a neat line.** S4 now ends on an action (Dane going through to the back of the house), with no line of dialogue.
+- **Don't point harder at Ned.** Ned appears only as the radio voice. No "the one who'd sent her home," no thought about Ned's "Go home," and no Ned at the slip. The new sign sits at Marr's float, which is the Tess side of the board and stays readable two ways.
+- **Hands motif and the copied phone beat.** S4 has no "watching her hands" and no "turned the screen." The phone beat changes form: this time he types.
+
+### Scene 4 (revised) — The island
+**Setting:** The Cutter Island slip as the eight lands, late morning; then the Harbor Road past the head of Marr's store dock; then Beth's kitchen, whose window looks down on the harbor, the store dock and the fuel float. Wind making from the east. Sensory anchor: the morning slush on the dock planks, where one heel has scored a line beside every left print.
+**Characters:** Beth, Dane, Tess Marr, Ned (the radio only), and the hooded man (a figure in a skiff, far off, never confirmed).
+**Want:**
+- **Beth** wants to get through the day without saying out loud that she left the limping man out of last night's call, and she wants to find him herself, on her island. In the way: Dane reads where people look. The reader learns her want at the lie ("Nobody.").
+- **Dane**, once he knows, wants her on the two o'clock and off this island. In the way: the glass. The reader learns his want at "Dollar says it runs," which is now a hope.
+
+**Tension source:** situational danger, live on the page. Under it, interpersonal: her lie, and his thumbs writing her words down.
+**Surface action (about 500 words in all):**
+1. **Tess at the slip (about 60).** "Calloway. Heard you had a man on the eight. Ferry's quicker than the internet." One price line to Dane, in her voice (she announces in headlines and talks prices): coffee's free to islanders, two dollars to him. Cut "first man off that boat who did," because the reader heard it as Beth's voice. Tess wheels her freight off up the store dock.
+2. **The scan and the lie (about 70).** Beth watches every man on the slip walk, and none of them drags a heel. Dane has seen where her eyes went. Low, once Tess is out of earshot: "Who are we looking for?" / "Nobody." Then at once a task (her lying tell: too short, then something to do): "Take that." She hands him the line bag. One interior sentence carries the reason the reader feels. She gave the trooper the crate and the tape and the plate and left the man out, and saying it now means saying that to a man who writes things down. Don't explain any further.
+3. **The store dock (about 110).** The Harbor Road passes the head of Marr's dock. In the morning's slush one set of prints goes down the planks to the fuel float, with the heel line beside every left one, and they stop at the float's edge where a boat lay alongside. She stops, and the truth comes out in her fear register, nouns only: "Man off the reefer. Hood. Drags his left heel." / "He went back with the truck." / "Walked off before the ramp came up." Dane knows the trooper's report: "That wasn't in your call." / "No." He doesn't ask why. His register changes. He talks *more*, low, steady, present tense, and moves himself to her water side, between her and the harbor. "Which boat?" She looks out over the moorings, the lobster boats and the dragger in off the weather (no name, no hailing port). "Any of them."
+4. **The phone (about 40).** Under open sky the phone buzzes. He reads it, and this time he doesn't put it away. He types, thumbs quick, and she watches him put the limp down for somebody she'll never see. (Chapter promise: who is on the other end.) They go in by the **front door**.
+5. **The glass and the bet (about 80).** She pins the subpoena under the barometer and taps the glass, and the needle drops. "It won't run. Pack if you want. You'll be unpacking by two." / "Dollar says it runs." He says it like a man who'd pay the dollar to be wrong. / "I don't bet on what I can see." There's no packing scene, no window banter and no instrument joke.
+6. **The window (about 60).** Dane at the kitchen window. Below, off the fuel float, a skiff lies to its painter with one man in it: hood up, oars shipped, not fueling and not fishing, sitting facing the hill. Sitting down, he shows her no limp. Dane, low and continuous: he sees him, he's not doing anything, and doing nothing is what Dane would do. He steps her back from the glass with one arm and doesn't touch her otherwise. Beth says nothing; fear makes her silent.
+7. **The radio, a quarter past one (about 45).** The handheld on the counter, turned to sixteen. Ned's formal cancellation as its own paragraph, word for word as in the original S4 item 7. Nothing after it about Ned.
+8. **The close (about 35).** Dane, to the window, low, not a joke: "There goes my boat." Nobody answers it. She looks past his shoulder. The skiff is tied to the float, empty, and there's nobody on the store dock. He is already going through the house toward the back. (This hands straight into Ch 2's opening on the back step. Don't name the door, the mudroom or the latch; Flag 9 stands.)
+
+**Subtext:** She lied to protect her own pride, and the island called her on it within a hundred yards. He has learned that his witness keeps things from him, and he doesn't punish it. He moves between her and the water instead, and writes it down. She minds the writing more than the moving. "There goes my boat" now means the viewing and the last boat off the island at once, and neither of them says the second part.
+**Texture budget:**
+- (1) The heel line in the slush at the float: the sign, and Ch 3's print.
+- (2) Ned's formal cancellation: the voice she'll know in Ch 9.
+- The glass is one gesture and doesn't count as a third. Nothing else: no moorings count, no dragger name, no gear.
+
+**Point of view:** Beth.
+**Ends on:** **Consequence, on unease.** The empty skiff, then Dane already moving toward the back of the house. It's an action, not a line. No interior after it, and no stated question.
+**Word target:** 500 (band 460–540). No floor.
+
+**Plants this revision changes:**
+- **Added:** the heel line at Marr's float (→ Ch 3 print, Ch 4 the face); the skiff figure facing the hill (→ Ch 2 s5); Dane knows about the limping man from Day 1, and Pike knows by text (→ Ch 3 s2, where he goes to Russ about the print).
+- **Kept:** Tess and the store; the walk; his phone; the dollar bet (1 of 4); "I don't bet" (1 of 2); "You'll be unpacking by two"; the cancellation at a quarter past one; "There goes my boat" (1 of 1).
+- **Cut:** "It was never your boat." Nothing in the outline pays it.
+
+**Downstream flags:**
+1. Ch 2 s5's "figure on her afterdeck facing the hill" now echoes the skiff figure. The Ch 2 beats should pay it: Beth knows that posture now. They shouldn't repeat it cold.
+2. Ch 3 s2: Dane goes to Russ about the print already knowing there is a limping man. "That narrows it to about forty of us" still works.
+3. Ending audit: S1 and S3 end on props (the alarm, the pocket), which uses the two allowed. S4 must end on Dane's action, not on the empty skiff alone.
+4. The current final.md runs about 3,300 words against a 2,900 target. If the orchestrator's word check applies to the variants, the extra words are in S1–S3, not S4.
+
+### Lead instructions for the three variants
+Every variant keeps beats 1, 7 and 8 and the plants above. They differ in where Beth's withholding breaks.
+- **Variant A, "the lie first":** as written above. Dane asks on the slip, she lies and hands him the bag, and the heel line at the store dock breaks the lie within a hundred yards.
+- **Variant B, "the track first":** no lie. Beth sees the heel line at the store dock and tells him at once, unasked, in four nouns. The friction moves to his thumbs. He types her words into the phone under open sky, she watches herself being written down, and she says nothing about it. The skiff at the window then confirms the threat for both of them.
+- **Variant C, "the window first":** she holds it all the way home. At the dock she steps over the heel line without a word, and the reader sees her do it. At the kitchen window the hooded figure in the skiff forces it out of her ("That's him."), and Dane learns it with the threat in view, just before the radio.
