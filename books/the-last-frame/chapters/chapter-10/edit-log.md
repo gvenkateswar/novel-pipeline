@@ -165,3 +165,17 @@ Edited final.md in place, prose only. Word count is an estimate (no shell in thi
 - s4: "called the wire room and gave it to them, and waited" → "called the wire room, and waited"; "past her, through the glass and the lobby's front window" → "past her through the lobby's front window" (−9).
 - Tag-strip test: pass. On the bank call Judy speaks in criteria, Ellen in full stops with ownership in the first person ("That one is mine."), Ray in a low aside to the Bench, Danny in inventory, and the end stool in play-by-play.
 - Not touched (outside this pass, for the orchestrator): commitments Issue 1, the house rack "between lanes four and five" (l.117 before this pass), which should be "five and six"; Issue 9, "His hand went flat on the counter".
+
+## Voice editor, revision round 1 (Oct 29)
+
+Draft edited: `final.md` in place. Flagged passages and listener items only. Words 3,440 → 3,437 (net -3; band 2,944–3,456). Scenes: s1 506, s2 960 (floor 900), s3 806 (floor 800; the kiss paragraph untouched, above its 150), s4 767, s5 386.
+
+- [Commitments Issue 1] s2: "to the house rack between lanes four and five" → "between lanes five and six" (matches Ch 01's moved label on the five-six rack). The rack line keeps "a quarter-turn" (the Ch 01 echo).
+- [Commitments Issue 8] s5: "worked the key on a quarter turn at a time" → "worked the key round the coil, slow".
+- [Commitments Issue 9] s4: "His hand went flat on the counter." → "His hand stopped on the counter." (s1's "both hands flat on the counter, one on either side of the phone" stays; judges' beat).
+- [Commitments Issue 10] s5: "bent in Laconia to the old script's curl, and on Friday the shop's man had set a new transformer for it in the cabinet. At the top of the ladder he fitted it into the script's curl" → "bent to the old script's curl. On Friday the shop's man had set a new transformer for it in the cabinet, and the glass came down from Laconia on Monday's truck. At the top of the ladder he fitted it home". Net words about +7. Who paid is untouched; it stays with the author (Issue 27).
+- [Lane clarity] s2: "On six Denise's third ball" → "On lane six Denise's third ball". No quotes of the minutes in Ch 10.
+- [Cue] s3: Ellen's confession now carries "she said" ("You asked me whether New Year's too," she said). Kate's call, "In it.", the headlight, "Third item." / "You love me." and his item, "He waited to be corrected.", "Ray." / "Will you take it?" and the last three lines are untouched.
+- [Offsets, no net adds] s2: Linda's ball "cold from the wall, cold right through" → "cold from the wall"; Denise's "which it was," cut from "the best she'd ever seen me bowl, which it was, and I lost anyway" (the joke is Linda's kindness; the aside repeated it). s3 kept "one close by and then another farther off" to stay above the 800 floor.
+- [Checked, no change] "level" and "in order": the only "in order" is Ellen's third-item line, which stays. Ray's motor comparisons: "quicker than any motor on the catwalk" (the watch) is the one comparison; the motors ticking as they cool and "she hadn't sulked" are setting and the clutch payoff. "Said nothing" variants: one ("said nothing about Manchester", s1). Ellen's ordinals as a printed list: the third item only.
+- [Flagged for orchestrator] Denise's 98-word speech at the locker (s2) is the longest sentence-run left in Ch 08–10; it is her voice (paragraphs, one breath) and a laugh line, so it was left. Cut at the "because I'll beat you regardless" if a listener loses it.

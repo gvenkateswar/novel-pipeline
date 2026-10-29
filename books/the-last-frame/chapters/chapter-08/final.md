@@ -46,11 +46,11 @@ Before the third string the man from the Bench's end stool leaned on the rail in
 
 Denise, loud enough to carry, to nobody: "He's a hundred-and-four average with a hundred-and-forty heart. Don't tell him I said either."
 
-Gil's man finished his third string on a spare. Denise ran both columns and said it: nine. Nine pins behind, with ten on the deck. He needed every pin, with three balls to get them, and on the settee Dale sat and watched.
+Gil's man finished his third string on a spare. Denise ran both columns and said it: nine. Nine pins behind. Ten stood on the deck, and he needed every one. On the settee Dale sat and watched.
 
-He threw the first one where he meant to, and the front of the rack went with a crack that carried to the back wall, and one pin came down sideways and lay still across the deck in front of the three left standing behind it, like a plank somebody had laid across a ditch. Overhead the music played on, because nobody had thought to turn it down, and along the rail the Highway crew had stopped talking. The second ball he threw too hard, because he was looking at that plank, and it went by the near end of it and took one of the three and left two at the back, with the plank still lying across their feet.
+He threw the first one where he meant to, and the front of the rack went with a crack that carried to the back wall. One pin came down sideways and lay still across the deck in front of the three left standing behind it, like a plank somebody had laid across a ditch. Overhead the music played on, because nobody had thought to turn it down, and along the rail the Highway crew had stopped talking. The second ball he threw too hard, because he was looking at that plank. It went by the near end of it, took one of the three, and left two at the back with the plank still lying across their feet.
 
-The third ball was small and heavier than it looked, worn dull in two places by other men's palms, and his thumb found the nearer of them and sat there while he stood with sixty feet of somebody else's maple between him and the pins. He set his eyes on the near end of the lying pin and let the ball go easy, and it went the whole length without a wobble and touched the end of that pin, just touched it, and the pin came up off the deck end over end into the two at the back, and all three went over together with a sound like a bundle of shovel handles going over in a back room. Denise had her pencil moving before the last pin lay still.
+The third ball was small and heavier than it looked, worn dull in two places by other men's palms. His thumb found the nearer of them and sat there while he stood with sixty feet of somebody else's maple between him and the pins. He set his eyes on the near end of the lying pin and let the ball go easy. It went the whole length without a wobble and touched the end of that pin, just touched it. The pin came up off the deck end over end into the two at the back, and all three went over together with a sound like a bundle of shovel handles going over in a back room. Denise had her pencil moving before the last pin lay still.
 
 Gil keyed his wireless mic, and two words came out of the ceiling.
 
@@ -82,7 +82,7 @@ He folded it in three and put it inside his jacket, beside the blank envelope.
 
 He had his hand on the bolt before he knew it. She stood outside the door glass in the dark, hatless, with her own gloves pushed into her vest pocket and her hands bare. They were red across the knuckles. He had never turned that bolt before opening in his life, and he turned it.
 
-Her car had been at the curb, engine off and dark inside, when he put the first light on. The store smelled of kerosene and cut brass and the Bench's pot, which he had put on before he unlocked anything. She came to the counter and stood with her weight on both feet, and he went back to the drawer Danny had already counted.
+Her car had been at the curb, engine off and dark inside, when he put the first light on. The store smelled of kerosene and cut brass and the Bench's pot, which he had put on before he unlocked anything. She came to the counter and stood at it, and he went back to the drawer Danny had already counted.
 
 The Bench would be at the door at opening, and she had come before it.
 
@@ -90,11 +90,11 @@ The Bench would be at the door at opening, and she had come before it.
 
 He had stopped counting at her first word.
 
-His gloves lay beside the drawer, where he had pulled them off to count. He squared them cuff to cuff and left them on his side. She had taken nothing from him that wasn't on an invoice since these same gloves on the ice, and those she had handed back folded one into the other, and he was the man the March paper said would buy her building.
+His gloves lay beside the drawer, where he had pulled them off to count. He squared them cuff to cuff and left them on his side. She had taken nothing from him that wasn't on an invoice since these same gloves on the ice, and those she had handed back folded one into the other. He was the man the March paper said would buy her building.
 
 "I came here after I knew it."
 
-He didn't answer it. Inside his jacket the yellow page lay folded in three against the blank envelope, its creases gone soft from his taking it out in the truck and reading it and folding it up again. The date at its head was in the hand that lay on his counter now, with the other beside it a foot from his gloves, and she kept them still. He could have put two fingers inside his jacket and laid the page between them, and it would have been said. He kept his hand on the gloves.
+Inside his jacket the yellow page lay folded in three against the blank envelope, its creases gone soft from his taking it out in the truck and reading it and folding it up again. The date at its head was in the hand that lay on his counter now, with the other beside it a foot from his gloves, and she kept them still. He could have put two fingers inside his jacket and laid the page between them, and it would have been said. He kept his hand on the gloves.
 
 The door opened behind her, and the Bench came in out of the dark, stamping snow onto the mat, three in a row, and stopped. The one off the end stool got as far as "And the—" and shut his mouth.
 
@@ -164,7 +164,7 @@ She listened a while with the receiver against her ear. "I know it's on record a
 
 \* \* \*
 
-The door glass rattled in its frame under his first rap and his second, loose in its putty as it always was, and before his hand came down a third time the door swung in and she was standing behind it. Her hand closed on his raised wrist and brought him in out of the wind. The wind came in with him off the lake and ran across the vestibule tile, and she shut the door on it with her other hand and held on to his wrist a second past it, her fingers warm through the cold cuff of his jacket, and let go.
+The door glass rattled in its frame under his first rap and his second, loose in its putty as it always was. Before his hand came down a third time the door swung in and she was standing behind it. Her hand closed on his raised wrist and brought him in out of the wind. The wind came in with him off the lake and ran across the vestibule tile. She shut the door on it with her other hand and held on to his wrist a second past it, her fingers warm through the cold cuff of his jacket, and let go.
 
 The vestibule smelled of wet wool and road salt off the Tuesday division's boots, from a room he had not stood in. Down the building the lanes were dark, with one light left on over the counter, and he carried the release against his chest, folded, from the door to the counter.
 
@@ -174,7 +174,7 @@ Ellen looked at the page and left it lie, and stayed on her feet. "Then say the 
 
 "What I said about the radio. You told me that night in the pit with a pin in your hands, and I kept it, and when I wanted something that would land I went and got it."
 
-"It did. I have heard it every time I have keyed that microphone since."
+"It did," she said. "I have heard it every time I have keyed that microphone since."
 
 He had picked it because it would land. He had heard it land in this building, and he had driven home and sat in his dooryard with the heater running and the radio off and heard it go on landing.
 
@@ -192,7 +192,7 @@ Her weight went off the bad knee and came back onto it.
 
 He counted them off on his fingers. "Linda's name comes off the Open. The league bowls its Memorial at two on the last Saturday, all ten lanes. Your Open gets the morning and the evening, and a cup of its own. Hollis says his committee voted on an Open, and nobody voted on a name."
 
-"Agreed. Nine teams entered for Linda's cup alone, and wrote her name on the form to say so. I will call all nine in the morning and offer their money back, and all nine will take it. That puts me a hundred and fifteen dollars under thirty thousand, and that is with every lane of the Open full. Page two refunds the Open in cash if weather stops play, so one storm puts me a good deal further under than that. I am agreeing to come in short, and I mean to make it up at the snack bar on Linda's day and the derby's Sunday, with nothing of yours in it."
+"Agreed. Nine teams entered for Linda's cup alone, and wrote her name on the form to say so. I will call them in the morning and offer their money back, and all of them will take it. That leaves me a hundred and fifteen dollars under the number, with every lane of the Open full. Page two refunds the Open in cash if weather stops play, so one storm puts me a good deal further under. I am agreeing to come in short. I mean to make it up at the snack bar on Linda's day and the derby's Sunday, with nothing of yours in it."
 
 He offered her nothing. He had heard her swear to her daughter, the house and not the rest, and he put his hands in his jacket pockets.
 
@@ -202,7 +202,7 @@ He offered her nothing. He had heard her swear to her daughter, the house and no
 
 He laughed out loud, once, at something that was not funny, and it went down the dark lanes.
 
-He unfolded the page and turned it round to face her. It was one sheet on Arlene's lawyer's letterhead, and it let the three of them go from the March paper once the third name was on it, with Arlene's signature at the top, and his under hers, and a line left at the bottom with nothing on it.
+He unfolded the page and turned it round to face her. It was one sheet on Arlene's lawyer's letterhead. It let the three of them go from the March paper once the third name was on it, with Arlene's signature at the top, his under hers, and a line left at the bottom with nothing on it.
 
 "I'm asking you to sign it."
 
@@ -212,17 +212,17 @@ She put on the reading glasses that hung from the black cord and read it once, t
 
 He nodded. He had heard Arlene order that line at her table, and signed above it without looking.
 
-She took the glasses off. "You have asked an eighty-four-year-old woman to bet her bed on a hundred and fifteen dollars and a promise I made my daughter."
+She took the glasses off. "You have asked an eighty-four-year-old woman to bet her bed. The stake is a hundred and fifteen dollars and a promise I made my daughter."
 
-"I know what I asked. I asked it at her table, with her ham on my plate."
+"I know what I asked," he said. "I asked it at her table, with her ham on my plate."
 
 "You could keep it in your jacket until I have made the number, and tear it up then. Arlene would have her bed whatever I made."
 
-"I could. I'd be fixing your machines for one of us all month, and I couldn't tell you which."
+"I could," he said. "I'd be fixing your machines for one of us all month, and I couldn't tell you which."
 
 She looked at the empty line a while. "If I miss, Arlene loses her place, and it will be my name that put it there." She took a pen out of her vest. "If I ask you to stand beside me before this is done, I won't have you standing at the bottom of my drive as well."
 
-The cap came off the pen, and she bent over the counter and set the point on the line, and he watched her hand do it. It went slow, slower than he had ever seen her write, one letter and then the next, every letter standing separate from the one before it, and the pen going over the paper was the one sound in the whole dark building, a small dry scratch he could have heard from the lot. She lifted the pen between her first name and her last and set it down again. Her other hand held the page by its corner so it wouldn't creep, red still from the cold, and when the last letter was down she lifted the pen and capped it. Arlene's name was at the top of the page, and his under it, and hers under his.
+The cap came off the pen, and she bent over the counter and set the point on the line, and he watched her hand do it. It went slow, slower than he had ever seen her write, one letter and then the next, every letter standing separate from the one before it. The pen going over the paper was the one sound in the whole dark building, a small dry scratch he could have heard from the lot. She lifted the pen between her first name and her last and set it down again. Her other hand held the page by its corner so it wouldn't creep, red still from the cold, and when the last letter was down she lifted the pen and capped it. Arlene's name was at the top of the page, and his under it, and hers under his.
 
 "I'll call Concord in the morning and let it go. They'd want ninety days to write it again."
 

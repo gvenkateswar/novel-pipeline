@@ -78,9 +78,9 @@ It was the last Tuesday Linda had bowled, three strings in her own hand, nothing
 
 He folded the sheet into his shirt pocket.
 
-He lifted the ball off the shelf. It was cold from the wall, cold right through, and he had carried it out to the car for her more Tuesdays than he had ever counted.
+He lifted the ball off the shelf. It was cold from the wall, and he had carried it out to the car for her more Tuesdays than he had ever counted.
 
-Denise put down her cloth. "I lost to that ball twice, Ray Gagnon, and the second time was worse, because she was nice about it, told me it was the best she'd ever seen me bowl, which it was, and I lost anyway, so don't you go bowling it sentimental on me today, because I'll beat you regardless and then I'll have to feel bad about it."
+Denise put down her cloth. "I lost to that ball twice, Ray Gagnon, and the second time was worse, because she was nice about it, told me it was the best she'd ever seen me bowl, and I lost anyway, so don't you go bowling it sentimental on me today, because I'll beat you regardless and then I'll have to feel bad about it."
 
 "You'd feel bad for about a box, Denise," he said, "and then you'd want to know who does the engraving."
 
@@ -96,7 +96,7 @@ Along the back settees Dale Hutchins, whose crew had put up the cup's money in S
 
 His first box with Linda's ball was on lane five, where he had watched from the pit one February while she set the women's house high single. His thumb went looking for the place hers had worn into it, a dull patch about the size of a dime, and found it, and was too big for it. He bowled ordinary strings with it. Each time he looked up, with all ten lanes going at once, Ellen was behind the counter with her eyes shut.
 
-It came down to lanes five and six, Lakeview Diner against Gagnon and Son, the other eight lanes finished. On six Denise's third ball went in light off the side of her last rack and took the four horsemen down together, and she walked back to the settee before the last one lay still. The last box of the day was his. Linda's ball took the middle out of the rack, came round and took most of the rest, and on the third ball two pins stayed standing at the back. Verna turned a page in her binder, past the folded slip from January still in its front pocket.
+It came down to lanes five and six, Lakeview Diner against Gagnon and Son, the other eight lanes finished. On lane six Denise's third ball went in light off the side of her last rack and took the four horsemen down together, and she walked back to the settee before the last one lay still. The last box of the day was his. Linda's ball took the middle out of the rack, came round and took most of the rest, and on the third ball two pins stayed standing at the back. Verna turned a page in her binder, past the folded slip from January still in its front pocket.
 
 "The secretary has Lakeview Diner by two pins."
 
@@ -114,7 +114,7 @@ Denise took the flyer and folded it into her pocket. Then she turned round to Ra
 
 "Gil's short a partner for the spring doubles. I'm thinking about it."
 
-He lifted Linda's ball off the return on lane five and carried it past the open locker, through a room still on its feet, to the house rack between lanes four and five. He set it on the shelf among the house balls, by Ellen's tape on the steel upright, and gave it a quarter-turn until it sat, with Ellen watching from the counter and his hand still on it.
+He lifted Linda's ball off the return on lane five and carried it past the open locker, through a room still on its feet, to the house rack between lanes five and six. He set it on the shelf among the house balls, by Ellen's tape on the steel upright, and gave it a quarter-turn until it sat, with Ellen watching from the counter and his hand still on it.
 
 \* \* \*
 
@@ -130,7 +130,7 @@ She was sitting on the iron step behind lane seven, where she had sat at New Yea
 
 The machines had been off an hour. Down the catwalk the motors were giving up the day's heat, ticking as they cooled, one close by and then another farther off, while the warmth went out of the kickback steel at his back and her breathing came slow beside him. At New Year's she had carried a cup of cider down here and never drunk it. The curtain at the end of lane seven hung still, with the deck behind it set for nobody. Lane seven sat quiet at his back on the clutch he had put in the first week of December, and she hadn't sulked since. Her bad knee was beside his. Both her hands were on it, and her eyes were on the curtain.
 
-"You asked me whether New Year's too. It was. I knew, and I came down here at midnight so you'd find me."
+"You asked me whether New Year's too," she said. "It was. I knew, and I came down here at midnight so you'd find me."
 
 "I'd about worked that out, in the truck."
 
@@ -182,7 +182,7 @@ A door opened at the far end of the line. Heels came across, and Judy's chair cr
 
 "Committee approved it."
 
-His hand went flat on the counter. Nobody on the Bench drank.
+His hand stopped on the counter. Nobody on the Bench drank.
 
 Down the line, cellophane.
 
@@ -244,7 +244,7 @@ He looked past her through the lobby's front window. Down Main Street the van pu
 
 \* \* \*
 
-The new K was cold glass the length of his forearm, bent in Laconia to the old script's curl, and on Friday the shop's man had set a new transformer for it in the cabinet. At the top of the ladder he fitted it into the script's curl, with the disconnect open on the pole below him and the shop's sheet in his jacket pocket, which Ellen had read twice. The old one had gone dark the winter Danny got his license, on a transformer of its own, so the rest of the sign had burned on without it, and the town had called the place Ettle's ever since.
+The new K was cold glass the length of his forearm, bent to the old script's curl. On Friday the shop's man had set a new transformer for it in the cabinet, and the glass came down from Laconia on Monday's truck. At the top of the ladder he fitted it home, with the disconnect open on the pole below him and the shop's sheet in his jacket pocket, which Ellen had read twice. The old one had gone dark the winter Danny got his license, on a transformer of its own, so the rest of the sign had burned on without it, and the town had called the place Ettle's ever since.
 
 Ellen held the foot of the ladder in both hands. It went steady under his boots, and he could feel her through the rails.
 
@@ -258,7 +258,7 @@ She closed her fingers on it and opened them again.
 
 "Ray." She let it stand a second. "Will you take it?"
 
-He took it off her palm, warm from her vest. He opened the split end of the ring with his thumbnail and worked the key on a quarter turn at a time, into the place Arlene's had hung thirty years, and she watched every turn.
+He took it off her palm, warm from her vest. He opened the split end of the ring with his thumbnail and worked the key round the coil, slow, into the place Arlene's had hung thirty years, and she watched every turn.
 
 The light was going. He stood at the foot of the pole under the sign's cabinet, and she stood at the disconnect with her hand on the handle.
 
