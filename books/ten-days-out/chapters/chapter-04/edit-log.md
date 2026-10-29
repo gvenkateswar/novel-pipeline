@@ -11,3 +11,4 @@ Flags for the orchestrator:
 - I had no shell, so I could not run `wc -w`. Two cuts total about 25 words and the draft was not over the cap by my reading, so the count should sit near the draft's. Please verify it falls inside 2,254 to 2,646.
 - Ch 3 final's last read lines were checked only for the left-heel print, the razor and the Pike screen. They agree with this chapter. I did not read past line 40.
 - The Ch 4 s3 Ned look-back plant is present (the flashlight arc at the foot of the drive).
+- Orchestrator triage after the v2 cold read (6/10): 'She wants me alive' → 'Q wants me alive' (pronoun); retired 'went still all down his length' and the hand-to-hip tic. Ch 02's grand-jury line now names the date ('a week from Monday, the twenty-third'), which ends the countdown confusion the cold reader raised in both Ch 04 reads.

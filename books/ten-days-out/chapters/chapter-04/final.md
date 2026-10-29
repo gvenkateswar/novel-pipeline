@@ -6,7 +6,7 @@ Below them the island lay small and exact, her own roof on the knoll, the chimne
 
 She heard him first, or her ear did: a change in the small noises off the path from the store side. Then the binoculars had him. Hood up. A right boot set down clean on the frozen ruts. A left heel dragging after it.
 
-She put one finger on the rock between them. Dane went still all down his length.
+She put one finger on the rock between them. Dane stopped breathing.
 
 The man walked round her house once, front and back, the way a buyer walks a boat. He went into the mudroom. Her breath went short and shallow against the rock. Then the kitchen door gave at the first try. One lift, then his shoulder.
 
@@ -26,7 +26,7 @@ Dane rolled half onto his side, typed once with his thumb, and lay flat again. T
 
 "In place," Beth said.
 
-"She wants me alive long enough to be useful." He looked out at the dragger. "Both of us."
+"Q wants me alive long enough to be useful." He looked out at the dragger. "Both of us."
 
 He pressed once. *Sold. Sorry.*
 
@@ -40,7 +40,7 @@ She took the sheet out of his fingers, folded it back along its own creases, and
 
 They went off the back of the hill into the spruce on the islanders' path, at a pace that was nearly a run. Over his head a bough let go its load with a soft hush, and the snow came down on his shoulders in a clump. Then boots below them, coming up.
 
-Dane's hand went to his hip and came away.
+Dane didn't move.
 
 Russ Whitcomb came round the bend with a thermos under his arm, turned, and fell in beside them going down, as if that had been his plan all along.
 

@@ -22,7 +22,7 @@ Reyes said nothing beside her. His eyes were on the same place.
 
 He made the call there under open sky, with the harbor at his back. She went in, and through the kitchen window she watched his mouth move and couldn't hear a word of it. She put a stick in the stove it didn't need.
 
-He came in with snow on his shoulders. "Portland knows about your man with the heel now. They didn't this morning." He let her hear that. "And the grand jury sits Monday. It's the last sitting before Pelletier walks, and they'd like you in front of it."
+He came in with snow on his shoulders. "Portland knows about your man with the heel now. They didn't this morning." He let her hear that. "And the grand jury sits a week from Monday, the twenty-third. It's the last sitting before Pelletier walks, and they'd like you in front of it."
 
 She looked once at the subpoena under the barometer.
 

@@ -36,3 +36,4 @@ Cash-sum clause; "Where you sleeping?"; any clock time on the net; the "hole in 
 - Tagged "Who knew you were here?" he said.
 - Left as designed: Beth's "You." leaving Ned out (the reader noticed; that is the loyalty clue). Left for later passes: the latch opening, the bridge-definition paragraph, the stern walk after the collapse; the said-to-an-object tic is logged for the manuscript audit.
 - Trimmed the bridge-definition sentence; cut "said it politely, to the chain" (object tic and repeated 'politely').
+- Orchestrator (Oct 29): grand-jury line names the date, 'a week from Monday, the twenty-third' (cold readers on Ch 04 read 'Monday' as Day 4).
