@@ -1,4 +1,4 @@
-# Audit — the-last-frame (chapters 01–09, 27,779 words)
+# Audit — the-last-frame (chapters 01–09, 27,785 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -48,7 +48,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | deadwood (never a metaphor) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | Machines sulking | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 | 3 |  |
 | "a quarter past five" | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 2 | 3 |  |
-| American chop suey | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 |  |
+| American chop suey | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | "Scale of one to ten" | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 2 | 3 |  |
 | "The Pines doesn't take half" | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
 | "Voyons donc" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
@@ -56,7 +56,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Gloves off | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 3 | 4 |  |
 | Breath on his wrist | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
 | Ray's voice, unhurried | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
-| Pilot (Ray's voice as a 3 a.m. pilot's) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 4 |  |
+| Pilot (Ray's voice as a 3 a.m. pilot's) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4 |  |
 | "Stay on the step" / the step | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |  |
 | Pencil behind the ear | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | Glasses on the forehead | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
@@ -77,57 +77,57 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 
 ### Frequent 3–5 word n-grams (4+ uses, whole book)
 
+- 12× “all ten lanes”
 - 10× “the glass block”
-- 10× “all ten lanes”
-- 9× “the end of the counter”
-- 8× “through the glass”
-- 8× “the snack bar”
-- 8× “ray said and”
-- 8× “on all ten lanes”
+- 9× “on all ten lanes”
+- 8× “and said nothing”
+- 7× “through the glass”
 - 7× “in both hands”
 - 7× “the end stool”
-- 7× “and said nothing”
+- 7× “the snack bar”
 - 7× “let it go”
+- 7× “the end of the counter”
 - 6× “the highway department”
 - 6× “the steel door”
 - 6× “let go of”
-- 6× “ray put his”
+- 6× “across the counter”
 - 6× “at half past”
 - 6× “the highway crew”
+- 6× “ray said and”
 - 6× “the adding machine”
 - 6× “in the pit behind five”
 - 5× “behind the counter”
 - 5× “through the steel”
-- 5× “across the counter”
-- 5× “the far end”
+- 5× “ray put his”
 - 5× “the scorer's table”
 - 5× “her vest pocket”
+- 5× “her eyes went”
 - 5× “said a word”
 - 5× “his shirt pocket”
-- 5× “at ten past”
+- 5× “the first time”
+- 5× “she had never”
 - 5× “the linda gagnon”
 - 5× “dale looked at”
 - 5× “inside his jacket”
-- 4× “she could have”
 - 4× “the shoe cubbies”
 - 4× “gagnon and son”
+- 4× “the far end”
 - 4× “highway department and”
 - 4× “did not raise”
 - 4× “ball came down”
 - 4× “still warm from”
 - 4× “the bell went”
-- 4× “ray watched her”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
 - jaw: 1 (0.0/1k)
-- knuckles?: 6 (0.2/1k)
+- knuckles?: 7 (0.3/1k)
 - throat: 0 (0.0/1k)
-- reath: 2 (0.1/1k)
+- reath: 3 (0.1/1k)
 - pulse: 1 (0.0/1k)
 - chest: 4 (0.1/1k)
 - hands? (stopped|stilled|went still|flat): 3 (0.1/1k)
-- shoulders?: 21 (0.8/1k)
+- shoulders?: 23 (0.8/1k)
 - gaze: 0 (0.0/1k)
 - tightened: 0 (0.0/1k)
 - swallowed: 1 (0.0/1k)
@@ -144,7 +144,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 06 | 2,792 | 14.9 | 10.5 | 17% | 0.0 | 0.4 | 0.7 | 2 | short |
 | 07 | 2,890 | 18.5 | 14.8 | 15% | 0.0 | 0.3 | 0.0 | 3 | mean |
 | 08 | 3,330 | 21.2 | 13.9 | 10% | 0.0 | 0.3 | 0.0 | 2 | mean |
-| 09 | 2,984 | 17.1 | 14.6 | 19% | 0.0 | 0.3 | 0.0 | 3 | short |
+| 09 | 2,990 | 16.5 | 13.1 | 17% | 0.0 | 0.3 | 0.3 | 5 | short openers |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -156,13 +156,13 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 ### Mood words per 1,000 (count; flag a cluster, not a word)
 
-- quiet: 7 (0.3/1k)
-- humm?(ing|ed)?: 6 (0.2/1k)
+- quiet: 6 (0.2/1k)
+- humm?(ing|ed)?: 8 (0.3/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 62 (2.2/1k)
+- still(ness)?: 61 (2.2/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
-- shadow: 1 (0.0/1k)
+- shadow: 0 (0.0/1k)
 - whisper: 0 (0.0/1k)
 - shimmer: 0 (0.0/1k)
 - flicker: 0 (0.0/1k)
@@ -186,11 +186,11 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0.0 | 0.0/1k | FLAG |
-| sentence-initial And/But/And yet | 2 | 1 | 1 | 0 | 1 | 0 | 1 | 2 | 2 | 10 | 0.4 | 3.0/1k |  |
-| em dashes | 0 | 0 | 0 | 1 | 0 | 3 | 4 | 3 | 3 | 14 | 0.5 | 2.0/1k |  |
+| sentence-initial And/But/And yet | 2 | 1 | 1 | 0 | 1 | 0 | 1 | 2 | 0 | 8 | 0.3 | 3.0/1k |  |
+| em dashes | 0 | 0 | 0 | 1 | 0 | 3 | 4 | 3 | 2 | 13 | 0.5 | 2.0/1k |  |
 | semicolons | 3 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 0 | 6 | 0.2 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 2 | 0.1 | 1.0/1k |  |
-| one-sentence paragraph | 6 | 23 | 21 | 19 | 13 | 29 | 11 | 17 | 13 | 152 | 5.5 | report |  |
+| one-sentence paragraph | 6 | 23 | 21 | 19 | 13 | 29 | 11 | 17 | 22 | 161 | 5.8 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
