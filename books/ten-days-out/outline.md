@@ -1,261 +1,327 @@
-# Ten Days Out — Chapter Outline, v2 rebuild
+# Ten Days Out — Chapter Outline, v2 rebuild (revision 2)
 
-*Story-architect, October 28, 2026. Rebuilt from scratch against `genre-maps/romance.md` and the "v2 rebuild settings" in `book-brief.md`, the way The Last Frame was rebuilt. Answers `reviews/2026-10-28-postmortem-boring.md`, the v1 logic holes in `reviews/manuscript-audit.md`, and the reader evidence in `reviews/pull-curve.md` and `reviews/sample-read-sample-mark.md`. Carries forward the premise, the island, the* North Reach*, the calendar, the tides, the radio rules and the verified research in `story-bible-v1.md`. Cast names carry forward. **The leak changes: it is Ned Haskell, not Tess Marr** (Open for the author, item 1). Nothing here is approved until the author says so and the plot auditor passes it.*
+*Story-architect, October 28, 2026. Revision 1 failed the logic gate (`reviews/outline-audit.md`: 10 blocking, 12 non-blocking) and the synopsis pull gate (`reviews/sample-read-synopsis.md`: 3.33 against 3.5; Ned guessed from the synopsis alone). Revision 2 answers blocking Findings 1–10 and non-blocking 11, 12, 13, 20 and 21 in the outline itself, folds in 14–19 and 22 where they cost a line, and fixes the pull problems at the structural level. Built against `genre-maps/romance.md` and the "v2 rebuild settings" in `book-brief.md`. Carries forward the premise, the island, the* North Reach*, the calendar, the tides, the radio rules and the verified research in `story-bible-v1.md`.*
+
+## Changelog (revision 1 → revision 2)
+
+**Pull fixes (sample read)**
+- **Dane has a want of his own from Ch 1.** His father, Rafael, drives his last route for the Lowell transit authority at 3:40 p.m. on Day 1 after thirty years. Dane promised to ride it, as the last passenger. This was a one-day job, and he'd be back by noon. The 2 p.m. cancellation costs him the bus. Underneath it is what his marriage ended over: he is the son and husband who doesn't show up. It runs through the book (Ch 2 in the dark, Ch 6 in bed, Ch 8 with the ham, Ch 10 with his father aboard the freight run).
+- **A real fight in Ch 1.** Not settled by "protection is voluntary". At the Pruett ramp each of them says the worst true thing. He: "The last witness who knew her own town better than I did is buried in it." She casts off anyway. He has to choose between the jump and the bus, and he jumps.
+- **Charged beats before the kiss:** Ch 1, the jump (she hauls him aboard by the jacket front and doesn't let go at once) and the subpoena (she notices his hands and what he wants). Ch 2, the bridge (him over her on the deck while the cable whips; her hand fisted in his collar), and the dark house (backs to the chimney under one blanket, his knee against hers, the bus). Ch 3, the morning confrontation, then the kiss going further than a kiss before she stops it and it becomes a fight.
+- **A spoken laugh in each of Ch 1, 2 and 3:** the boots and the bus (Ch 1), Ned at the fallen bridge (Ch 2), Tess's titles and Russ's forty big-footed men (Ch 3).
+- **The ferry and Coast Guard exposition is cut to one line, in action:** Ned on his knees in the forepeak with a flashlight on the crack. There is no inventory of the boat in the sample.
+- **Clues are no longer labelled.** The "(N.H.)" initials are gone. Every clue in Ch 1–3 is now an action or a line of dialogue, and each has a second reading.
+
+**Logic and fairness fixes (audit)**
+- **F20, fairness.** Tess now has sources of her own. She sees Beth's flashlight on the cottage's back steps at 10:40 on Day 1 and writes the log entry herself, before Ned reports the bridge. On Day 4 she sees woodstove smoke at Ashby (the generator is Ned's, so the smoke means people) and comes with chowder. Ned has an apparent alibi for the Ashby fire: he has been aboard at the pumps since Day 3 dusk. It breaks in his confession: he came up the back way for an impeller at noon on Day 4. Ned's smaller confession moves from Ch 4 to Ch 6. The reefer turns out to be something he thought was "shorts" (undersized lobster), a state fisheries crime rather than the drug network. "And Ned tells Tess" is cut.
+- **F1.** On Day 2 the fish house has the cove in it: the northeast surge on the big tides puts water over the sill. By Day 4 night the wind has gone round and it's wet but usable. Beth says it in one line and holds it in reserve.
+- **F2.** Dane doesn't see the log line. He's outside with Russ, and when he comes back in Beth has her hand flat on the page. That is her small concealment, protecting Tess. She gives him both names in Ch 5.
+- **F3.** Pike's office notified the county before Dane was told. He learns it on the Ch 6 call ("You told the county?") with Beth beside him. The Coast Guard won't bring a boat into a town landing without the town's knowledge.
+- **F4.** No aircraft on Day 6–7: the Coast Guard won't fly a witness transport that isn't search and rescue, and the one helicopter in range is on a case offshore (Pike, Ch 6). The town float is the only lee, because the swell is still running into every other shore. Dane and Beth both see the dragger move to her new mooring in Ch 6.
+- **F5.** The second system is on the glass when they go down the lane at 5:50 on Day 7 and arrives mid-morning. After the shot, the Coast Guard's answer is "not again today." Pike: the next attempt is first light Day 9.
+- **F6.** The seal colors are the store's and the district's own habit, off-the-shelf tags, and mean nothing to the credit union. The teller writes "red seal" as a description. Beth never sees the tags at the handoff, because the store bag and the district's fare bag ride inside the courier's zipped canvas pouch.
+- **F7.** Quist won't touch the *Margaret Ann*: she wants the offshore transfer vessel and the dealer. A hood and a limp won't hold Doucette, and one constable against a dragger crew is a body count. Dane says it on Lookout Hill. Russ is told to stay off the boat. Beth holds it against the badge in Ch 7.
+- **F8.** Beth to Ned on Day 8: "Not Tess. Not tonight." He agrees, and keeps that one promise. Every daylight sat call is made on the seaward side of the deckhouse, out of the dragger's sightline, said once.
+- **F9.** They come and go from the fish house by the shore at low water, never the road. Nobody looks there because the only islander who would think of Hollis's fish house is Ned. He guessed it on Day 5 and never gave it up (confession).
+- **F10.** The *Margaret Ann* carries an Iridium, like most offshore draggers. Ned calls it from his cell inside the store's booster, from the back step. On Day 6 and Day 8, with Arsenault in the store, it's a word at the propane cage while Tess rings up. Tess is never in earshot.
+- **F11.** Beth's question to Ned is about the water, and the hour slips out: "Is the float workable at the bottom of the tide?" / "Which tide?" / "Tomorrow's first." She thinks Tess has the time anyway. Tess, it turns out, kept the county's call to herself (Ch 10).
+- **F12.** Dane's absence moves to the top of the tide: Day 5, 1:30–2:20 a.m. He says "Walked the bar" with water only to his ankles, when the bar is under four feet.
+- **F13.** The notebook's fish-house entry reads "secondary loc., B's family property," with no "not reported." Beth reads it as reported, and only Pike tells her otherwise. Beth answers the graze in her own head ("they missed the one they'd paid").
+- **F21.** Rupture to repair is rebalanced: 300 words moved from Ch 4 into Ch 7 s5, and a 600-word Ned dawn scene opens Ch 8. Accountability now lands at ~72% (was ~71%), still early against the map's 75% (Pacing flags).
+- **Also folded in:** F14 (Arsenault's line to Ned on Day 1: "We want to talk to her about the money. Offer her more."). F15 (each islander's deposit rides in its own envelope with its slip inside; Ned added cash to Beth's envelope and wrote nothing, so the teller counted $9,000 over the slip, credited the count, and flagged it). F16 (the town ring hangs on a nail by Tess's safe, because the town office is open only Tuesdays and Thursdays). F17 (the mate is off-island and there's no relief on a storm Friday; in Ch 7 she won't take herself to another badge). F18 (no lamp or stove on Day 1 night, and Dane's call is from the back yard; Ned starts Ashby's generator every storm). F19 (Beth names the difference in Ch 8 s5). F22 (relief arrives at 8 a.m. on Day 9; Pike: "You'll hear it from the defense. Hear it from me."; Beth's report is by landline at 1 a.m.).
 
 ---
 
 ## Shape
 
 ### The book in one line
-A ferry deckhand who saw what was under the lobsters is cut off on her island for ten days with the deputy marshal sent to keep her alive. Someone keeps telling the men from the dragger where she sleeps, and only three people ever know: her oldest friend, the captain who taught her the boat, and the man on her couch.
+A ferry deckhand who saw what was under the lobsters is cut off on her island for ten days with the deputy marshal who gave up his father's last bus run to come back with her. Someone keeps telling the men from the dragger where she sleeps, and only three people ever could: the friend who can see her kitchen from the store, the captain who taught her the boat, and the man on her couch.
 
 ### Positions (30,000 words, 10 chapters)
 
 | Ch | Title | POV | Days | Words | Runs to | Register | Ending type |
 |---|---|---|---|---|---|---|---|
-| 01 | Night Freight | Beth | Day 0 night – Day 1, 1:15 p.m. | 2,900 | 9.7% | comic (after a tense cold open) | consequence |
+| 01 | Night Freight | Beth | Day 0 night – Day 1, 1:15 p.m. | 2,900 | 9.7% | comic friction (after a tense cold open) | consequence |
 | 02 | The Weather Hold | Beth | Day 1, 1:30 p.m. – 11:45 p.m. | 2,900 | 19.3% | tense | question |
-| 03 | The Generator Shed | Beth | Day 2 | 2,900 | 29.0% | warm (charged) | cut |
-| 04 | Glassing the Harbor | Beth | Day 3 – Day 4, 7:10 a.m. | 2,700 | 38.0% | comic | open image |
-| 05 | Half Tide | Beth | Day 4 | 3,100 | 48.3% | tense, then hot | reversal |
-| 06 | Good Till August | Beth | Day 5 – Day 7, 5:50 a.m. | 2,900 | 58.0% | warm | cut |
-| 07 | His Handwriting | Beth | Day 7 – Day 8, 2 a.m. | 3,000 | 68.0% | dark | question |
-| 08 | Not Water | Beth | Day 8, 4 a.m. – 4:40 p.m. | 3,000 | 78.0% | quiet | open image |
-| 09 | Car Deck, No Lights | Beth, with one Dane section | Day 8, 5:30 p.m. – Day 9, 1 a.m. | 3,300 | 89.0% | tense | consequence |
-| 10 | First Boat | Beth, then Dane for the last scene | Day 9 – Day 11; Friday, December 18 | 3,300 | 100% | warm (comic under it) | open image |
+| 03 | The Generator Shed | Beth | Day 2 | 2,900 | 29.0% | warm (charged), ending in a fight | cut |
+| 04 | Glassing the Harbor | Beth | Day 3 – Day 4, 7:10 a.m. | 2,500 | 37.3% | comic | open image |
+| 05 | Half Tide | Beth | Day 4 | 3,100 | 47.7% | tense, then hot | reversal |
+| 06 | Good Till August | Beth | Day 5, 1:30 a.m. – Day 7, 5:50 a.m. | 3,100 | 58.0% | warm | cut |
+| 07 | His Handwriting | Beth | Day 7 – Day 8, 2 a.m. | 3,300 | 69.0% | dark | question |
+| 08 | Not Water | Beth | Day 8, 4 a.m. – 4:40 p.m. | 3,000 | 79.0% | quiet, tense at the close | open image |
+| 09 | Car Deck, No Lights | Beth, with one Dane section | Day 8, 5:30 p.m. – Day 9, 1 a.m. | 3,200 | 89.7% | tense | consequence |
+| 10 | First Boat | Beth, then Dane for the last scene | Day 9 – Day 11; Friday, December 18 | 3,100 | 100% | warm (comic under it) | open image |
 
-No two consecutive chapters share a register. No two consecutive chapters end on the same type, and none ends soft.
+No two consecutive chapters share a register or an ending type, and none ends soft.
 
 | Genre-map beat | Required | Where it lands |
 |---|---|---|
-| Leads meet with spark | Ch 1, first 5% | Ch 1 s2, about 800 words in (~3%): Dane at the head of the Pruett ramp in the wrong boots. She is working the boat he was sent to take her off |
-| Inciting incident and couple inside the sample (12%) | yes | Ch 1 (the crate, the marshal, the refusal, the stranding); Ch 2 s1 states the grand jury deadline at ~11% |
-| Act 1 ends | ≤ 20% | Ch 2 end (~19%): the latch at 11:40. "Who knew you were here?" / "You." |
-| First kiss | ≤ 35% | Ch 3 s4 (~27%), the Ashby generator shed. She stops it |
-| First intimate scene (open door) | 40–55%, before 50% | Ch 5 s3 (~42–46%), the fish house, 900+ words |
-| Midpoint reversal | 45–55% | Ch 5 s4 (~47%): from hiding to hunting, and from "Dane is the suspect" to "three people knew" |
+| Leads meet with spark | Ch 1, first 5% | Ch 1 s2, ~800 words in (~3%): the fight at the Pruett ramp |
+| Inciting incident and couple inside the sample (12%) | yes | Ch 1 (the crate; the fight; the jump; the bus he's going to miss; the stranding). Ch 2 s1 states the grand jury deadline at ~11% |
+| Act 1 ends | ≤ 20% | Ch 2 end (~19%): the latch. "Who knew you were here?" / "You." |
+| First kiss | ≤ 35% | Ch 3 s4 (~27%), the Ashby generator shed. It goes further than a kiss; she stops it, and it becomes a fight |
+| First intimate scene | 40–55%, before 50% | Ch 5 s3 (~42–45%), the fish house, 900+ words |
+| Midpoint reversal | 45–55% | Ch 5 s4 (~46%): from hiding to hunting; from "Dane is the suspect" to three names |
 | Rupture | 65–78% | Ch 7 s4 (~66%): she reads the notebook and leaves him |
-| Repair, four beats in order | 75–88% | Accountability Ch 8 s2 (~71%) · Verification Ch 8 s3 (~72%) · Condition Ch 8 s3 (~73%) · Ordinary beat Ch 8 s4 (~75%). Starts about four points early (Pacing flags) |
+| Repair, four beats in order | 75–88% | Accountability Ch 8 s2 (~72%) · Verification Ch 8 s3 (~74%) · Condition Ch 8 s3 (~75%) · Ordinary beat Ch 8 s4 (~76%) |
 | **The ordinary scene** | before the declaration | **Ch 8 s4, the crew mess at noon on Day 8: "The ham is eleven pounds."** |
-| Point of no return, relationship | ≥ 60% | Ch 8 s3 (~73%): she accepts him with the notebook read, on the record |
-| Declaration | 88–95% | Ch 10 s2 (~94%), Beth's cottage, Day 9 night |
-| HEA as a scene | last 5% | Ch 10 s5, the Friday night freight run in December, Dane's POV |
+| Point of no return, relationship | ≥ 60% | Ch 8 s3 (~75%) |
+| Declaration | 88–95% | Ch 10 s2 (~94%) |
+| HEA as a scene | last 5% | Ch 10 s5, the Friday freight run in December, Dane's POV |
 
 Act 1: Ch 1–2. Act 2a: Ch 3–5. Act 2b: Ch 6–7. Act 3: Ch 8–10.
 
 ### Point of view: Beth only until Dane is cleared
-The v1 Dane section in Ch 2 cleared him for the reader, and the notebook could never make anyone doubt him after that. In v2 the reader is never in Dane's head until Pike's answer in Ch 8 has cleared him. After that he gets one section mid-climax (Ch 9 s3, ~600 words, which settles nothing about the leak) and the last scene of the book (Ch 10 s5). Beth carries every danger beat and every clue.
+The reader is never in Dane's head until Pike's answer in Ch 8 s3. After that he gets one section mid-climax (Ch 9 s3, ~600 words, which settles nothing about the leak because he doesn't know) and the last scene (Ch 10 s5). His want reaches the reader through what he says and gives up: the bus, his father's voice in the dark, the ham.
 
-### Heat map: three scenes (the ceiling), rising, each changing the relationship
+### Dane's want, and how it runs
+- **Ch 1.** His father's last route at 3:40. He chooses the jump over being back for it, not yet knowing what that will cost. At 1:15 he knows.
+- **Ch 2.** In the dark house: his father will tell the whole route that the Marshals sent his son to Maine to get rained on. The marriage that ended because he was always on a job. He says it as a joke, and she hears what it isn't.
+- **Ch 6.** In bed: Marisol, and the ten minutes. It is the same want turned inside out: the one time he let someone be where she wanted to be, she died.
+- **Ch 8.** The ham and Christmas in Lowell.
+- **Ch 10.** His father aboard the Friday freight run, telling the deck everything.
+
+### Heat map: three scenes (the ceiling), rising
 
 | # | Where | Heat | Floor | What it changes |
 |---|---|---|---|---|
-| 1 | Ch 5 s3, Day 4 night, the fish house, after the wade | 3 (hands and mouths; no condoms; "It's a very disappointing kit") | 900 | **She chooses him while he is still a suspect.** He followed her into 48°F water on her word, and her body decides before her head does. Afterward she gives him the one thing she has kept back: she told Ned on Day 1. He names the breach ("When this is over, I report this") and keeps the log to himself |
-| 2 | Ch 6 s4, Day 6 night, the fish house, the night before extraction | 4 (intercourse; the condoms from Tess's counter) | 900 | **Trust at its peak, carrying a lie.** She notices she has stopped keeping an exit in her head. She asks who he is, and he tells her about Marisol Duarte. He starts to tell her about the notebook and doesn't; she reads the pause as tenderness |
-| 3 | Ch 10 s2, Day 9 night, Beth's cottage | 4 | 850 | **Chosen with everything known and on the record.** Ned is in a cell and Tess won't look at her. She will be asked about this man under oath on Monday, and he has already reported it. She leads. The declaration is inside it |
+| 1 | Ch 5 s3, Day 4 night, the fish house, after the wade | 3 (hands and mouths; no condoms; "It's a very disappointing kit") | 900 | **She chooses him while he is still a suspect.** Afterward she gives him the two names she has been protecting: Tess's log, and that she told Ned. He names the breach and keeps the log to himself |
+| 2 | Ch 6 s4, Day 6 night, the fish house | 4 (intercourse; the condoms from Tess's counter) | 900 | **Trust at its peak, carrying a lie.** She has stopped keeping an exit in her head. He tells her about Marisol and his father. He starts to tell her about the notebook and doesn't |
+| 3 | Ch 10 s2, Day 9 night, Beth's cottage | 4 | 850 | **Chosen with everything known and on the record.** The declaration is inside it |
 
-Rules for the bible: close POV (Beth's), frank vocabulary, consent on the page in these two people's words, each scene back to the plot within 150 words of its end. No intimate scene in Ch 7 (the rupture chapter). No scene cut to aftermath to save words.
+No intimate scene in Ch 7.
 
 ### The leak: Ned Haskell
 
-**Who he is.** Ferry captain for 31 years, Beth's mentor since she was 22, Tess's partner for twelve years. They keep separate houses and eat supper together every night at the store, and he tells Tess everything.
+**Motive.** For a year he has known that the dealer's Thursday reefer was wrong and signed the manifests anyway. He thought it was shorts: undersized lobster moving off the books, the dealer cheating the state. That contract is the winter boat. On Day 0 at about 11:15 p.m. Arsenault comes aboard and tells him what it really was. If the deckhand testifies, Pelletier names the dealer, the dealer names the captain who signed for a year, and Ned goes down as a co-conspirator whatever he thought. Ned loses his ticket, and the district loses the boat. Arsenault gives him $9,000 in hundreds to put in her envelope in the store's bag: a bought witness nobody believes and nobody needs to hurt. Ned cuts Tess's yellow tag, puts the cash in Beth's envelope, writes nothing, and reseals the bag with a red tag from his own chart drawer, because that's what he has.
 
-**His motive.** For a year he has known that the dealer's Thursday reefer was wrong, and he has signed the freight manifests anyway. That contract keeps the winter boat running, and without the boat the island dies. On Day 0, at about 11:15 p.m., after the night freight comes back, Arsenault comes aboard. If the deckhand testifies, Pelletier names the dealer, and the dealer names the captain who signed for a year: Ned loses his ticket, the district loses the boat, and Ned goes down as a co-conspirator. Arsenault gives him $9,000 in hundreds. Put it in her bag, and she becomes a bought witness that nobody believes and nobody needs to hurt. Ned reseals the store's bank bag with one of the ferry district's red seal tags from his chart drawer. He tells himself it protects her. After the latch on Day 1 he knows better, and from then on he is owned. Arsenault never threatens him with the boat again; he threatens him with Tess and the store.
+**His reasons, in order.**
+- Day 0: a bought witness doesn't get hurt.
+- Day 1, when he dials: Arsenault said they wanted to talk to her about the money and offer her more. A man who wants to talk doesn't try doors.
+- Day 2–4: after the latch he knows better, and he holds Ashby back for two days. That is why Doucette searches her empty cottage on Day 3. At noon on Day 4, up the back way for an impeller, he gives it up, because Arsenault has started talking about the store with Tess in it.
+- Day 5: he guesses the fish house and never tells them.
+- Day 6: he works out the landing hour from Beth's tide question, gives it to them, and gives Arsenault his key to the float-light timer box.
+- Day 8: he gives them the whole boat: the stern, the quarter ladder, the floods' breakers, the paint locker under the wheelhouse, Dane on the deck, Russ at the gangway. Then he hears Arsenault send Doucette with gasoline, and he breaks.
 
-**His means.** His own cell phone, which works on the island only inside the store's booster range, and he is in it every night at supper (planted Ch 3). His key to the float-light timer box (Ch 7).
+**Means.** His own cell, which works only inside the store's booster; he leaves it charging behind Tess's counter ("Only place on the island it's a phone"). The *Margaret Ann*'s Iridium on the other end. A word at the propane cage when Arsenault is in the store.
 
-**His access.** Every location reaches him, and everything that reaches him reaches Tess. That is the book's engine: every leak runs through the Ned–Tess pair, and the reader cannot tell which half passes it on.
+**His one act for her.** Day 8, 11:02 p.m., on the store's set, channel 9: "Bethie. Water side."
 
-**What he tells himself, in order.** Day 0: a bought witness doesn't get hurt. Day 1, after the latch: they were only trying the door. Day 2–4: he holds Ashby back for two days (which is why Doucette searches her empty cottage on Day 3), then gives it up when Arsenault talks about the store with Tess in it. Day 6: he gives up the landing time Beth asked him about, and his own key to the timer box. Day 8: he tells them the stern, the quarter ladder, the floods' breakers, and where the paint locker sits under the wheelhouse. Then he hears Arsenault send Doucette with gasoline, and he breaks.
-
-**His one act for her.** Day 8, 11:02 p.m., on the store's set, channel 9: "Bethie. Water side." Arsenault tears the mic away. That is the cut.
-
-**Fate.** Arrested on the page in Ch 9. He holds out his wrists to Russ. Charged. No redemption beyond the warning.
+**Fate.** Arrested on the page in Ch 9; he holds out his wrists before Russ asks. Charged. The warning is all the redemption he gets.
 
 ### The other two suspects
 
-**Tess Marr (the obvious suspect, innocent of the leak, guilty of something smaller).** For two years she has fueled the *Margaret Ann* and boats from two other harbors at her float after hours, off the books, for cash at twice the pump price. That cash keeps the store and the $180,000 tank loan alive. She has motive (money, and a direct business relationship with Arsenault), means (the store's booster phone, and calls taken in the back office), and access (net control, the check-in log, emergency management director, the bank bag she seals, and Ned). Every suspicious thing she does is the night fuel, the bank, or fear of Arsenault, who by Day 6 is in her store every evening. Her private night-fuel ledger, three harbors and one buyer, is the Book 2 case.
+**Tess Marr: the obvious suspect, innocent of the leak, guilty of night fuel.** For two years she has fueled the *Margaret Ann* and boats from two other harbors at her float after hours, off the books, for cash. That keeps the store and the tank loan alive.
+- **Motive:** money, and a direct business relationship with Arsenault.
+- **Means:** the booster phone; calls taken in the back office.
+- **Access, from sources of her own:** she sees Beth's flashlight from the store step on Day 1. She sees woodstove smoke at Ashby on Day 4. The county's standby call comes to her as emergency management director on Day 6. The town ring hangs by her safe.
+- **What explains her:** every suspicious thing she does is the night fuel, the bank, or fear of Arsenault, who is in her store most evenings from Day 6.
+- **Book 2:** her night-fuel ledger is the case.
 
-**Dane Reyes (a live suspect for the reader as well as for Beth).** He is from away and alone. He makes sat-phone calls on the porch before attacks (the Iridium works only under open sky). He knew every location. He chose the landing time. He watched Beth hand off the bank bag at Pruett and said nothing. He questions her about money as if it were intimacy, and he lies to her about where he went at 5 a.m. on Day 5 (she catches it with a tide table). The notebook holds every location, a credibility review of her, and the $9,000. The truth: on Day 2 Quist asked and Pike ordered him to keep a daily credibility log and not tell her (v1 write-around, kept), and he walks out before dawn to report because he can't say "no indication" with her listening. He is cleared in Ch 8 by something Beth checks herself (below).
+**Dane Reyes: live for the reader as well as for Beth.**
+- **What points at him:** sat-phone calls before attacks. He knew every location. He chose the ferry on Day 1. He lit the Ashby stove on Day 4 that brought Tess. He watched Beth hand off the courier's pouch at Pruett. He turns money questions into intimacy. He refuses to tell her who "she doesn't know" refers to. He lies about the bar at 2 a.m. And the notebook.
+- **The truth:** Quist asked and Pike ordered him to keep a credibility log and not tell her (v1 write-around, kept). He reports in the small hours because he can't say "no indication" with her listening.
+- **Cleared:** Ch 8 s3, by something Beth checks herself.
 
-### Who knew, event by event (the two-way engine)
+### Who knew, event by event
 
-| Event | What the network needed | Dane | Ned | Tess | True channel |
+| Event | Needed | Dane | Ned | Tess | True channel |
 |---|---|---|---|---|---|
-| Day 1, 11:40 p.m.: the latch | That she had left the ferry and gone home in the dark | Yes (with her); porch call to Pike at 11:20 | Yes: Beth told him at 10:20 ("Home." / "Nobody but me and God.") | Yes: Ned's in-person storm report to the EMD at 10:50, logged "Calloway — home (N.H.) 22:50" | Ned, by cell, at the store, 10:55 |
-| Day 3, dawn: Doucette walks round her empty cottage | — (shows the network did not have Ashby yet) | Knew Ashby | Knew (the key) | Knew (Ned tells her every house he minds) | Ned held it two days |
-| Day 4, 10 p.m.: the Ashby fire | Ashby | Yes (agreed the move) | Yes | Yes, and she was there at 2 p.m. with chowder on her generator rounds | Ned, at supper, Day 4 |
-| Day 4–7: the fish house | — | Yes | No | No | Never hit. Dane refused to give it to Pike (Ch 8) |
-| Day 7, 6 a.m.: the landing ambush | The time and the place; the float lights dark | Yes (he set it) | Yes: Beth asked him about the float at that tide, against Dane's rule (Ch 6) | Yes: county emergency management passed the standby to the island coordinator | Ned, at supper, Day 6; he gave Arsenault his timer key |
-| Day 8 night: the ferry | That she was aboard, and how the boat could be boarded | Yes | Yes: all of it, including Dane on the deck and Russ at the gangway | Only Beth's bait on channel 9 ("alone") | Ned, at supper; Beth's broadcast set the night |
+| Day 1, 11:40 p.m.: the latch | That she had left the ferry for the dark house | Yes; his 11:20 call is from the back yard | Yes: Beth told him at 10:20 | Yes, from her own eyes: Beth's flashlight on the back steps at 10:40, logged "Calloway — home 22:40." Ned's 10:50 bridge report says nothing about Beth | Ned: cell to the dragger's Iridium from the store's back step, 10:55 |
+| Day 3, dawn: Doucette circles the empty cottage | — (shows the network doesn't have Ashby) | Knew Ashby | Knew (the key) | Didn't | Ned holding it |
+| Day 4, 10 p.m.: the Ashby fire | Ashby | Yes, and he lit the stove at 8 a.m. | Yes, but "aboard at the pumps since yesterday" | Yes, from her own eyes: smoke at noon, chowder at 2 p.m. | Ned, at noon, up the back way for an impeller |
+| Day 4–7: the fish house | — | Yes | Guessed, Day 5 | No | Never given |
+| Day 7, 6 a.m.: the landing | The time and place; the float lights dark | Yes | Yes: worked out from Beth's tide question | Yes: the county's standby call (kept to herself) | Ned, Day 6, at the propane cage; his timer key |
+| Day 8 night: the ferry | That she was aboard, and the layout | Yes | Yes, all of it ("Not Tess. Not tonight." He keeps that) | Only Beth's bait ("alone") | Ned, at the propane cage, supper |
+
+Now Tess has independent access three times and Ned is "alibied" for the one attack that most looks like hers. The engine runs both ways, and neither name is the common source on the page.
 
 ### The discriminating clue: the seal tag
-The store's bank bag is sealed with a numbered tag. The credit union issues the store **yellow** tags and the ferry district **red** ones, for fare receipts.
-- **Ch 1:** Tess seals the bag at six on Day 0. Ned carries it down to the boat and it rides overnight in the wheelhouse locker ("Go home. I'll lock up."). At 7:40 a.m. on Day 1 Beth hands it to the credit union's courier on the Pruett ramp, and Dane watches her do it.
-- **Ch 3:** Tess, sealing a bag that can't go anywhere: "Yellow's mine. Red's the boat's. Credit union likes to know whose money it's counting." It reads as Tess being fussy.
-- **Ch 4:** Dane gets the chain of custody out of Beth as if he were making conversation: Tess seals it at six, Ned carries it, it sits in the wheelhouse overnight, Beth hands it off.
-- **Ch 7:** the notebook: "$9,000 cash, subject's acct, with paycheck, via store bag. Red seal (CU teller)." Beth's eyes go past the color to the money. The money is her father's wound ("bought").
-- **Ch 9:** Ned's voice on channel 9, and the color lands in one line: red is the boat's. Only two people had the bag aboard, and one of them is her.
+- **Ch 1:** Tess seals the store's bag at six on Day 0. Each islander's deposit is in its own envelope with its slip inside. Ned carries the bag down and it rides overnight in the wheelhouse locker ("Go home. I'll lock up."). At 7:40 a.m. Beth hands the courier's zipped canvas pouch, with the store bag and the district's fare bag inside, down to the credit union's man. She never sees the tags, because she never does. Dane watches from the ramp head.
+- **Ch 3:** Tess, sealing a bag that can't go anywhere, snaps on a yellow tag from a roll she bought at a marine store: "Yellow's mine. Red's the boat's. I won't have my money in Ned's color." Read the first time, it's Tess teasing Ned.
+- **Ch 4:** Dane draws the chain of custody out of Beth in conversation: envelopes; Tess seals; Ned carries; the wheelhouse overnight; the pouch at Pruett.
+- **Ch 7:** the notebook: "$9,000 cash in subject's envelope, over her slip, credited and flagged. Red seal (teller's note)." Beth's eyes go past the color to the money, because "bought" is her father's wound.
+- **Ch 9:** Ned's voice on 9. The color lands in one line: red is the boat's.
 
-The same tag that made the federal case suspect Beth tells Beth who it was. Only an islander would know what the color means; that is why Dane and Quist never crack it (v1 audit Finding 4).
+The colors mean nothing to the credit union, the teller, Quist or Dane. Only an islander who has watched Tess seal a bag knows. The handwriting clue the audit warned of (F15) doesn't exist: nobody wrote anything.
 
 ### Mystery fairness: the clue list
 
-| Ch | Clue | Points at | What it really is |
+| Ch | Clue (as it plays on the page) | Points at | What it really is |
 |---|---|---|---|
-| 01 | Ned tries to send her home before the night run ("I'll work it short. Go home.") | Ned | He knew that night's load was hot. He was protecting her, and himself |
-| 01 | Coming back at 10:45 p.m., the fuel float is lit with the *Margaret Ann* alongside. Tess never runs the pump after six | Tess | Night fuel for cash. Arsenault fueled, then went to see Ned |
-| 01 | "Go home. I'll lock up." Ned is alone with the bag overnight | Ned (latent) | Opportunity |
-| 01 | Dane on the Pruett ramp watching her hand off the bag | Dane | He was watching his witness. The bag means nothing to him yet |
-| 01 | "Heard you had a man on the eight. Ferry's quicker than the internet." (Tess) | Tess | Gossip |
-| 02 | Beth tells Ned "Home." He answers: "Nobody but me and God." | Ned | True, until he walks to the store |
-| 02 | Dane on the porch with the sat phone at 11:20; the latch at 11:40 | Dane | Pike, nightly; the phone works only under open sky |
-| 03 | The log: "Calloway — home (N.H.) 22:50" | Tess and Ned | Ned's storm report to the EMD; he was at the store at ten to eleven |
-| 03 | Two phones face down by the register, Tess's and Ned's; the store is the only place either works | Both | Tess: the bank, and Arsenault's fuel orders. Ned: Arsenault |
+| 01 | Ned, before the night run: "I'll work it short. Go home." | Ned | He thought it was shorts and didn't want her seeing it |
+| 01 | At 10:45 p.m. the fuel float is lit, with the dragger alongside | Tess | Night fuel |
+| 01 | "Go home. I'll lock up." | Ned (latent) | Opportunity |
+| 01 | Dane at the ramp head watching her hand down the pouch | Dane | His witness |
+| 02 | Dane chooses the ferry for the night, and the bridge comes down on it | Dane (bad luck or worse) | Bad luck |
+| 02 | Beth's flashlight on the icy back steps for ten seconds; Dane: "Light." | — (plant) | Tess's own source |
+| 02 | Beth to Ned: "Home. Don't tell anybody." / "Nobody but me and God." | Ned | True, until 10:55 |
+| 02 | The 11:20 call from the back yard; the latch at 11:40 | Dane | Pike, nightly |
+| 03 | Tess: "Saw your light on the back steps. Didn't put you on the air." The log in her hand, 22:40. Beth puts her palm over it | Tess | Kindness, and a fact |
 | 03 | "Yellow's mine. Red's the boat's." | — (plant) | The discriminator |
-| 03 | "She doesn't know. Daily. Understood." | Dane | The credibility order |
-| 03 | Arsenault looks at Dane "like a man he's been told about" | Dane, or anyone | He was told, by Ned |
-| 04 | Doucette walks round her empty cottage at dawn | The leak doesn't have Ashby, or is holding it back | Ned held it two days |
-| 04 | Ned lies to Dane about the reefer, then confesses the year to Beth: "I took no money." | Ned, then Ned apparently cleared | A true, smaller confession that hides the larger one. He took no money for the reefer |
-| 04 | Ned: "Tess knows what houses I mind. She keeps the list." | Tess | True, and it is cover |
-| 04 | Dane's money questions; he closes the notebook when she comes out | Dane | The log |
-| 05 | Tess in the Ashby drive at 2 p.m. with chowder, eight hours before the fire. "How'd you know we were here?" / "Ned. Who else." | Tess, and Ned | Her EMD generator rounds |
-| 05 | Beth admits she told Ned on Day 1. Dane: "And Ned tells Tess." | Both | The circle of three |
-| 06 | Dane gone from the fish house at 4:40 a.m., back at 5:20 wet to the ankle: "Walked the bar." The bar was under four feet at five | Dane | He climbed to the ledge for open sky to report |
-| 06 | The fuel log shows nothing after 4 p.m. on Day 0; a strapped bundle of hundreds in Tess's open safe | Tess | Night-fuel cash |
-| 06 | Dane on the sat phone: "coordinated with local emergency management" | Tess | The county standby |
-| 06 | Beth asks Ned whether the float is workable at six on that tide. Ned: "Float's fine. Lights are on the timer." | Ned (access) | Her condemnable choice; he passes it on |
-| 06 | Marisol Duarte died on Dane's watch | Dane (dark reading) | Real loss |
-| 07 | The float lights are dark. "Ned set that timer. Ned and the town ring had the only keys to the box." | Ned and Tess | Ned gave his key |
-| 07 | The notebook: every location, the landing, the review, the $9,000, "red seal", "observed handing bag to courier", "secondary loc. — not reported" | Dane (hard), the seal (latent) | The order, kept; the fish house kept even from Pike |
-| 07 | Ned keeps her safe the night she runs to him: "Where's your marshal?" | Against Ned | Both things are true of him |
-| 08 | Ned at dawn: "Where is he?" She won't say. "Good. Don't tell me." | Both ways | He knows what he would do with it |
-| 08 | Ned stands on the brow against Dane | Against Ned | Real love, and guilt |
-| 08 | Beth's false solution: the bag (Tess seals it), the EMD, the log, the fuel, the hundreds, the chowder. Dane: "The bag went through three pairs of hands." Beth: "Not Ned." | Tess | Her blind spot, said out loud |
-| 09 | Tess's pause before "Okay, Bethie." | Tess | Arsenault is at her counter |
-| 09 | "Bethie. Water side." In Ned's voice | **Ned. The reveal** | |
+| 03 | Ned leaves his phone charging behind Tess's counter: "Only place on the island it's a phone." | — (plant, as a joke) | Means |
+| 03 | "She doesn't know." Confronted, Dane: "I can't tell you, and I won't lie to you about whether there's something." | Dane | The order |
+| 03 | Arsenault's look at Dane | Anyone | He'd been told about the marshal; so had the whole island |
+| 04 | Doucette circles the empty cottage | Whoever knows Ashby is holding it, or doesn't know | Ned holding it |
+| 04 | Quist won't touch the boat | The badge | A condemnable federal call |
+| 04 | Ned lies to Dane about the reefer ("He always runs his unit"), with too much detail | Ned | The shorts |
+| 04 | Ned: the forward pump is eating impellers, and he's aboard till the barge | Against Ned (the alibi) | True, except noon on Day 4 |
+| 04 | Dane's money questions; the notebook shut | Dane | The log |
+| 05 | Smoke from the Ashby chimney (Dane lit the stove for her after the bar walk). Tess with chowder at 2 p.m.: "Generator's Ned's. Chimney smoke's people." | Tess (strong), Dane (he lit it) | Her rounds |
+| 05 | Beth gives Dane both names: Tess's log, and Ned | Both | The circle of three |
+| 06 | "Walked the bar." Ankle-wet, at high water | Dane | He climbed to the ledge for sky to report |
+| 06 | The fuel log blank after 4 p.m. on Day 0; a strap of hundreds in the open safe; the town ring on a nail beside it | Tess | Night fuel; the ring is just where it lives |
+| 06 | "You told the county?" | Tess (EMD) | Portland, by procedure |
+| 06 | Ned's confession: a year of looking away, "I thought it was shorts. I took no money." | Ned, apparently cleared | True and smaller |
+| 06 | An empty impeller box on the engine-room grating with Tess's price sticker | Tess carried it down? Or Ned went up | Ned went up, at noon on Day 4 |
+| 06 | Beth's tide question; the hour slips out | Ned (access) | Her condemnable choice |
+| 06 | Marisol | Dane (dark reading) | Loss |
+| 07 | The float lights dark; the timer box keys are Ned's and the town ring's | Ned and Tess | Ned gave his |
+| 07 | The notebook: every place, the landing, "observed subject hand courier pouch," the $9,000, "red seal," "secondary loc., B's family property" | Dane (hard), the seal (latent) | The order |
+| 07 | "They missed the one they'd paid." | Dane | Beth's grief talking |
+| 07 | Ned takes her in at 2 a.m.: "Where's your marshal?" | Against Ned | Both true |
+| 08 | Ned at dawn: "Where is he?" She won't say. "Good. Don't tell me." | Both ways | He knows what he'd do with it |
+| 08 | Beth's case for Tess, built out loud. Dane: "This isn't water." Beth: "Not Ned." | Tess | Her blind spot |
+| 09 | Tess's pause before "Okay, Bethie." | Tess | Arsenault at her counter |
+| 09 | "Bethie. Water side." in Ned's voice | **Ned. The reveal** | |
 
-**When a fair reader can guess.** The money and the seal color first meet in Ch 7 (~64%). A reader who remembers "Red's the boat's" from Ch 3 can name Ned there, two chapters before the reveal in Ch 9 (~84%). That is at the agent definition's limit and inside it. A reader who doesn't make the connection has Tess as the favorite through Ch 8 (the book builds her case, and Beth makes it on the page), Ned apparently cleared by his Ch 4 confession, and Dane live until Ch 8 s3 (~72%). Nobody is introduced late, and the reveal needs no fact the page hasn't shown.
+**When a fair reader can guess.**
+- **Ch 1–3** give three equal names, each with an action behind it: Tess saw the light, Ned was told, Dane made the call.
+- **Ch 5** tilts to Tess (the smoke, the chowder, the alibi that keeps Ned on the boat).
+- **Ch 6** gives Ned a smaller crime that explains his lie, and plants the impeller box.
+- **Ch 7** is the earliest a careful reader can name Ned: "red seal" plus "Red's the boat's," plus the box if they caught it. That is two chapters before the reveal in Ch 9 (~83%), inside the limit.
+- **Dane** stays live for the reader until Ch 8 s3 (~74%). The notebook no longer clears him (F13): the fish-house entry reads as reported, and Beth has an answer for the graze.
 
-### How the information travels (no relayed calls as scenes)
-- Every phone or radio exchange on the page is in the room and short. Beth either hears one half in a line or two, or speaks herself (Ch 8 s3). No scene is somebody reporting a call.
-- No report stands in for an event. The trooper's dawn callback is cut: Dane tells her at Pruett, in one line, that Pelletier was stopped at four. Russ's arrest of Arsenault is seen in its aftermath when Beth walks into the store (Ch 9 s5), not heard over the radio. Ned's confession is on the page, to Beth's face.
-- The channel from Ned to the dragger is named twice before the reveal: the phone by his plate (Ch 3) and his supper habit (Ch 3, Ch 8). It is confirmed in his confession (Ch 9).
+### How information travels (no relayed calls as scenes)
+- Every phone or radio exchange on the page is in the room and short. Beth either hears one half in a line or two (Ch 3, Ch 6) or speaks herself (Ch 8 s3).
+- Consequences are seen, not reported. The trooper's callback is cut (Dane tells her at Pruett in one line that Pelletier was stopped at four, after her 1 a.m. call). Russ's arrest of Arsenault is seen in its aftermath (Ch 9 s5). Ned confesses to Beth's face.
+- The channel from Ned to the dragger is planted as a joke (the phone charging behind the counter, Ch 3) and confirmed in the confession.
 
 ### Logic holes designed out
 
-| Question | Answer, and where it is planted |
+| Question | Answer, and where it is on the page |
 |---|---|
-| **Why nobody gets off the island before Day 10** | **One concrete reason for the ferry:** when the transfer bridge comes down on Day 1, the seaward end drops onto the *North Reach*'s bow, jams the ramp and cracks a forepeak plate. She makes water and the pumps run day and night. Ned: "She doesn't carry a soul till the Coast Guard's walked her." Beth agrees, because after a marine casualty that affects seaworthiness no captain carries passengers until an inspector has looked at the boat (on the page Ch 2 s3; Ned is living aboard to tend the pumps from then on). The state barge brings the inspector on Day 9. He clears her for passengers and light freight only, loaded through a gangway at the stone pier, from Day 10. **Other boats:** Days 1–6 are seas no island boat runs in. Dane refuses private boats (any boat in the harbor could be the network's, and a neighbor's boat leaves a trail), stated in Ch 2. **Aircraft:** LifeFlight declines Mrs. Dyer on Day 2 because of icing and a 300-foot ceiling, heard on the store's set (Ch 3). The ballfield landing zone is in sight of half the island. **The one window,** Day 7 at dawn, is shot out (Ch 7). The Coast Guard's rule is said on the page then: no landing under fire, no second try in the dark. The second system closes everything from Day 7 evening until Day 9 morning |
-| **The last night (Day 8): why not a helicopter** | Behind the second front, a northwest gale with snow squalls and freezing spray, and a ceiling under minimums until after midnight. Dane asks Pike for an aircraft in one line on deck, with Beth beside him, and the answer is first light (Ch 8 s5). Planted by Mrs. Dyer in Ch 3 |
-| **Why not a sea intercept** | There is nothing to intercept. The *Margaret Ann* isn't running; the threat is coming to them. The Coast Guard won't enter the harbor at night after Day 7 (Ch 7 rule). Relief boats come at first light Day 9 |
-| **Why not stay locked in and wait** | They are locked in; Beth's broadcast only sets the night and the terms. Locked in isn't safe, for two reasons the page has shown. The network burns what it can't get into (Ashby, Ch 5). And "Steel doesn't burn. Everything in it does." (Ned, Ch 2): the crew mess and paint locker sit under the wheelhouse, so a fire there makes the locked wheelhouse a chimney. That is Doucette's plan (gasoline over the stern) |
-| **Why not the fish house again** | It was never leaked, but they walked from it to the pier in fresh snow on Day 7 night and Day 8 morning, and the tracks lead back to it. "Anybody can walk it backward." It is also a wooden shed with one door (Ch 8 s5) |
-| **Why the bait, and why tonight** | It is the last night before the boats; whoever is passing on her location will pass on this one too, and the network burns places. Beth would rather they came to the one place she can fight in the dark, at an hour she chooses, with Russ at the gangway and the floods on breakers only she can reach, than to wherever she is at 3 a.m. Her second reason is her own: Moreau won't put a witness with an unexplained $9,000 in front of the grand jury on Monday, and a man caught coming for her explains it. Protection is voluntary (planted Ch 1), so the broadcast is hers to make. **Pike does not authorize bait.** Pike orders Dane to hold the witness in the most defensible place until first light, and the ferry is that place |
-| **Why Beth's body is where it is** | **The wheelhouse:** the *Margaret Ann* (moored since Day 6 with a sightline over the inner harbor) watches the lit window, and nobody else on Cutter can stand in it and be her. **The deck:** when the floods go dark Dane is fouled one-armed in the tie-down chains with a man over him, and she is the only person aboard who can cross that deck blind. She takes her boots off so the steel won't ring |
-| **Why the deck goes dark (v1 Finding 8)** | Lit, the deck shows Dane to a man in the black water, and Dane, looking out from the light, sees nothing. Dark, everybody is blind, except the woman who has worked that deck by feel for eleven years. Beth says it in one line, and Dane names the cost (he can't fire into a dark she might be in) and accepts it |
-| **Why the network attacks a trap** | Ned has told them it's a trap: the marshal on the deck, the constable at the gangway. So they come from the water, with fire instead of a fight. Without that, Monday puts all of them in prison |
+| **Why nobody gets off before Day 10** | **The ferry:** the bridge comes down on her bow on Day 1 and cracks the forepeak. Ned, on his knees in the forepeak with a flashlight on the water coming through: "She's not carrying anybody till somebody from the Coast Guard has his hand on that." The pumps run from then on, which is why he lives aboard. The state barge brings the inspector on Day 9; he clears her for passengers through a gangway from Day 10. **Other boats:** Days 1–6 are seas no island boat runs in. Dane refuses private boats (Ch 2, one line: any boat could be theirs). **Aircraft:** Mrs. Dyer, Day 2 (icing, ceiling); Day 6–7, the Coast Guard won't fly a non-SAR witness transport and the one helicopter in range is on a case offshore (Pike, Ch 6); Day 8, the gale and the ceiling (Ch 8). **The one window** is shot out at dawn on Day 7. The second system arrives mid-morning, and the Coast Guard's answer is "not again today." Next attempt first light Day 9 (Pike, Ch 7) |
+| **Why the town float on Day 7** | Swell still running into every other shore; the inner harbor float is the only lee for the lifeboat (Ch 6). The Coast Guard won't use a town landing without the town knowing, so the county was told, and so was its coordinator (F3) |
+| **Why nobody moves on Doucette or the dragger, Day 3–8** | Quist wants the transfer vessel and the dealer. A hood and a limp won't hold him. One constable against a dragger crew is a body count. Dane says it on Lookout Hill, and Russ is told to stay off the boat (Ch 4). After the shot, the second system closes the harbor until Day 9 |
+| **Why not the fish house on Day 2** | The cove is over its sill on the surge tides (Ch 3, one line). By Day 4 night the wind has gone round. Beth was holding it in reserve |
+| **How the fish house stays unfound** | They come and go by the shore at low water, never the road (Ch 6 s2). The only islander who would think of Hollis's fish house is Ned, and he never told (Ch 9) |
+| **The last night: helicopter, sea intercept, staying locked in** | No aircraft until first light (Ch 8 s5). Nothing to intercept; the threat is coming to them. Locked rooms get burned (Ashby), and "Steel doesn't burn. Everything in it does." (Ned, Ch 2). The fish house is out because of the tracks in the snow ("Anybody can walk it backward") |
+| **Why the bait, and why Beth names the difference (F19)** | It's the last night. Whoever talks will tell them wherever she is, so she would rather they came to the one place she can fight in the dark, at an hour she chooses. Her line in Ch 8 s5: "Tonight the stern's watched, I'm awake, and the outside ladder's my way down." The wheelhouse door is locked against a man, not against fire. Her second reason: a man caught coming for her explains the $9,000 to Moreau on Monday. Pike doesn't authorize bait; she orders Dane to hold the witness in the most defensible place until first light, and that is the ferry |
+| **Why Beth's body is where it is** | The dragger watches the lit wheelhouse window, and nobody else can stand in it and be her. When the floods go dark Dane is fouled one-armed in the chains, and she is the only one who can cross that deck blind. Socks, so the steel won't ring |
+| **Why the deck goes dark** | Lit, the deck shows Dane to a man in the black water. Dark, everybody's blind but her. One line, and Dane names the cost |
+| **Why they attack a trap** | Ned told them it's a trap, so they come from the water, with fire. Otherwise Monday sends all of them to prison |
 
-### Where the v1 audit findings are answered
+### Where the outline-audit findings are answered
 
-| v1 finding | v2 answer |
+| Finding | Answer |
 |---|---|
-| 1. The ferry sails on Day 10 with the bridge still twisted | The bar is hull damage plus inspection, not the bridge (Ch 2 s3, Ch 10 s1) |
-| 2. Day 8 safer options | The table above |
-| 3. The Day 8 location was known to three channels | It was. The leak knew, and that is now the point. Dane comes along the riprap before light, out of the store's sightline, and Ned sees him because Ned is the one on watch |
-| 4. Dane held the bank-bag clue and never acted | He acts on Day 3 (the chain of custody, Ch 4) and puts all three names on his list. Only an islander can read the color |
-| 5. Pike authorized bait | She doesn't. Protection is voluntary (Ch 1); the broadcast is Beth's |
-| 6. Russ cleared by an unplanted fact | Russ is not a suspect in v2 |
-| 7. The trap was planned before the evidence | The decision comes at 3 p.m. Day 8, after the closings, and Russ is summoned after it (Beth asks Ned to send him: Ch 8 s5) |
-| 9. The float lights never explained | The timer key; Ned's confession (Ch 9 s5) |
-| 10. HSI warned Russ on Friday | Cut |
-| 11. Tess guessable by Ch 3; Dane cleared by Ch 2 | Two-way clue engine; no Dane POV before Ch 8 |
-| 12. The fish-house deduction made twice | Made once, in Ch 8, through Pike, as verification |
-| 13. The Day 1 back door needed no leak | Now it needs one: the island saw them go aboard, and only Ned saw them leave |
-| 14. Ashby timing | Ned held it two days; Doucette searching her empty house on Day 3 is on the page (Ch 4) and explained in the confession |
-| 15. The channel was never named | Ned's phone at the store (Ch 3, Ch 9) |
-| 16. The three o'clock roll invented on demand | No roll. The bait is Beth's own broadcast on channel 9 |
+| 1 Fish house Day 2 | The cove over the sill; held in reserve (Ch 3 s2) |
+| 2 Dane and the log | He's outside with Russ; Beth's palm on the page (Ch 3 s2); both names given in Ch 5 s4 |
+| 3 Landing via the EMD | Portland told the county first; "You told the county?" (Ch 6 s3) |
+| 4 Day 6–7 method and site | Pike: no non-SAR flight, helicopter offshore; the float is the only lee; the dragger's move seen (Ch 6 s3) |
+| 5 Daylight retry | Second system mid-morning, on the glass at 5:50; "not again today"; first light Day 9 (Ch 6 s5, Ch 7 s1) |
+| 6 Seal | The colors are private habit; the pouch hides the tags; the teller's note is description |
+| 7 Doucette and the dragger | Quist's call on Lookout Hill; Russ told to stay off (Ch 4 s1) |
+| 8 Ned at supper Day 8 | "Not Tess. Not tonight."; seaward-side calls (Ch 8 s3, s5) |
+| 9 Fish house unfound | Shore at low water (Ch 6 s2); Ned guessed and never told (Ch 9 s5) |
+| 10 Receiving end | The dragger's Iridium; the propane cage (Ch 9 s5); the phone behind the counter (Ch 3 s2) |
+| 11 The float question | About the water, the hour slips; Tess kept the county call (Ch 6 s3, Ch 10 s1) |
+| 12 The tide | The absence at high water, 1:30–2:20 a.m. Day 5 (Ch 6 s1) |
+| 13 Dane cleared early | Entry without "not reported"; "they missed the one they'd paid" (Ch 7 s3) |
+| 14 Ned's Day 1 reason | "Talk to her about the money" (Ch 9 s5) |
+| 15 The money mechanism | Envelopes; no writing; counted over the slip and flagged (Ch 4 s2, Ch 7 s3) |
+| 16 The town ring | On a nail by Tess's safe (Ch 6 s2) |
+| 17 Two safer options | Mate off-island, no relief on a storm Friday (Ch 1 s2); "not another badge tonight" (Ch 7 s5) |
+| 18 Watches | Dark house, back-yard call (Ch 2 s5); Ned starts Ashby's generator every storm (Ch 3 s2) |
+| 19 The chimney | Beth's line (Ch 8 s5) |
+| 20 Fairness | Tess's own sources; Ned's alibi; the confession moved to Ch 6; the reefer is "shorts" |
+| 21 Repair early | Rebalanced to ~72%; flagged |
+| 22 Small things | Relief at 8 a.m. on Day 9; Pike's reason; the 1 a.m. landline |
 
-### Condemnable choices (a lead's, with a cost)
-1. **Beth, Ch 6.** Dane has told her the landing time and said "Nobody. Not Ned." She asks Ned about the float at that hour anyway, because she has always asked Ned about the water and he has just confessed his worst thing to her. **Cost:** Dane is shot. In Ch 9 Ned says it to her face: "You asked me about the float."
-2. **Beth, Ch 8.** She names Teresa Marr to Pike as the leak on a federal line, over Dane's objection ("I'd put Haskell on that list"), and then uses Tess's voice on the net to carry the bait. **Cost:** Tess is hit by Arsenault in her own store, and in Ch 10 Quist interviews Tess as a suspect on Beth's word. The friendship doesn't come back (the unresolved subplot).
-3. **Dane, Ch 3–7.** He investigates the woman he is sleeping with, turns his questions into intimacy, and lies to her about the bar. **Cost:** the rupture, a disciplinary referral, and the notebook becoming impeachment material she will be questioned on.
-4. **Beth, Ch 7 (lesser).** She leaves a wounded, sleeping man with the bar off the door. She weighs it on the page ("If he's what the book says, nobody's coming for him. If he isn't, nobody knows this door.").
+The v1 manuscript-audit table from revision 1 still stands; F13 there (the Day 1 latch needed no leak) is now answered both ways. Tess saw the light, and Ned was told.
+
+### Condemnable choices
+1. **Beth, Ch 6.** She asks Ned a water question that gives away the hour, after Dane's "Nobody. Not Ned." Cost: Dane is shot, and in Ch 9 Ned says it to her face: "You asked me about the tide."
+2. **Beth, Ch 8.** She names Teresa Marr to Pike on a federal line over Dane's "This isn't water," and uses Tess's net to carry the bait. Cost: Tess is hit in her own store; Quist interviews her as a suspect; the friendship doesn't come back.
+3. **Dane, Ch 3–7.** He investigates the woman he's sleeping with, turns it into intimacy, and lies about the bar. Cost: the rupture, the referral, and the notebook as impeachment material.
+4. **Quist (off-page, a federal choice), Ch 4.** She leaves the boat alone for a bigger case and keeps the witness as the price. Beth holds it against every badge in Ch 7.
+5. **Beth, Ch 7 (lesser).** She leaves a wounded, sleeping man with the bar off the door, weighed on the page.
 
 ### Subplots Beth does not resolve
-- **Beth and Tess.** Broken by Beth's accusation; still broken at the end. Tess is not on the Day 10 boat.
-- **Ned's fate.** The court's.
-- **Tess's ledger.** Quist and Russ (Book 2).
-- **Dane's career.** The Service: suspension, a letter, the transfer to Portland.
+Beth and Tess (still broken at the end). Ned's fate (the court). Tess's ledger (Quist and Russ, Book 2). Dane's career (the Service).
 
-### Danger beats: what Beth knows, and why her choice follows from it
+### Danger beats: what Beth knows, and why her choice follows
 
-| Ch | Choice | What she knows | Why it follows |
+| Ch | Choice | What she knows | Why |
 |---|---|---|---|
-| 01 | Says nothing on the deck; re-straps the crate; spends the crossing in the wheelhouse | Two men saw her; 45 minutes on steel with them; the VHF is heard by the whole bay | Confronting them gets her killed; the radio broadcasts her |
-| 01 | Refuses Dane's car at Pruett and works the boat back | Kenny is sick, and the boat can't legally sail without two on deck; the island's last freight before the storm is aboard; protection is voluntary; he'll be with her | Defensible and stubborn. It costs her the stranding |
-| 02 | Tells Ned "Home" on the way off the boat | Ned is Ned. Dane said nobody, and she doesn't count Ned | Her blind spot (emotionally credible). It costs the latch |
-| 02 | Wakes Dane without a light; gets behind the chimney mass | The latch sticks; he's armed and she isn't | She lets the armed man go to the door |
-| 05 | Takes the shore path at half tide, not the driveway | She walked the bar at low water that morning and counted it | The driveway is where they're waiting |
-| 06 | Asks Ned about the float at the landing time | He has just confessed to her; he has always been her water | Condemnable. It costs Dane's arm |
-| 07 | Calls the abort at the head of the ramp | Float dark (Ned's timer), the dragger moved, a strange skiff with its outboard down | She sees the wrongness before the float, not on it |
-| 07 | Leaves Dane and goes to the ferry, not the store | The notebook; steel, a radio, a locking wheelhouse, and Ned | Emotional, with a cost. The reader who caught the color feels the dread |
-| 08 | Names Tess; sets the bait | Everything on Tess's side of the ledger; Ned "cleared" | Wrong about the person, right about the ground |
-| 09 | Kills the floods; goes down in socks | "Water side"; Dane fouled; the deck by feel | The reason is on the page before she moves |
-| 09 | Throws Doucette the ring buoy and talks him in | 48°F water, the 1-10-1 rule; he's evidence, and she is not that kind of person | Who she is |
+| 01 | Says nothing on the deck; re-straps the crate; calls it in at 1 a.m. from the kitchen landline | Two men saw her; the VHF is heard by the bay | Confronting them gets her killed |
+| 01 | Casts off at Pruett with Dane on the ramp | Kenny's sick; the mate's off-island; there's no relief on a storm Friday; the island's last propane and freight are aboard; the 2 p.m. is forecast to run | Stubborn and defensible. She doesn't make him come. He chooses, and it costs them both the stranding |
+| 02 | The flashlight on the icy steps, ten seconds | Ice; the dark | A small, human slip, and a source for Tess |
+| 02 | Tells Ned "Home" | She doesn't count Ned | Her blind spot. The latch is its cost |
+| 03 | Hides Tess's log line from Dane | Tess saw her light | She protects her own. She confesses it in Ch 5 |
+| 03 | Asks Ned for Ashby | The fish house is flooded; Ashby has water on three sides and one road Dane can watch | Sound |
+| 05 | The shore path at half tide | She counted the bar that morning | The driveway is where they wait |
+| 06 | The tide question | Ned has just confessed and she has forgiven him | Condemnable |
+| 07 | The abort at the ramp head | The float dark, the dragger moved, a skiff with its outboard down | She sees it before the float |
+| 07 | Leaves him; the ferry, not Russ | The notebook; she won't go to another badge | Emotional, with a cost |
+| 08 | Names Tess; sets the bait | Tess's ledger of clues; Ned "cleared" | Wrong about the person, right about the ground |
+| 09 | Kills the floods; goes down in socks; throws the buoy | "Water side"; Dane down; the 1-10-1 rule | Reason on the page before she moves |
 
 ### Texture
-One or two pieces of trade per scene, each chosen because it shows character or moves the romance. Set pieces with a cap of six trade details each: Ch 1 s1 (the car deck), Ch 2 s3 (the bridge), Ch 9 s4 (the dark deck). The notebook in Ch 7 is quoted in at most four short lines, in plain words. No runs of times, codes or channel numbers anywhere. No sightline inventories (the v1 sample reader skimmed them).
-
-### No sentence states the theme
-There are no lines like "Somebody has to stand between...". Trade truths in a character's voice are allowed: the gasp, the dark, the noise.
+One or two trade details per scene. Set pieces with a cap of six details each: Ch 1 s1 (the car deck), Ch 2 s3 (the bridge), Ch 9 s4 (the dark deck). The notebook is at most four quoted lines. No sightline inventories, no runs of times or channel numbers, no inventory of the boat.
 
 ### Plants and payoffs
 
 | Plant | Planted | Paid |
 |---|---|---|
-| The deck: binders, D-rings, the stern gate chain, the quarter ladder, the ring buoy aft on the port bulwark, the floods' breakers on the wheelhouse's aft bulkhead | 01 | 09 |
-| The reefer's dark display; six years of that unit droning every Thursday | 01 | 04 (Ned's lie) |
-| "I'll work it short. Go home." / "Go home. I'll lock up." | 01 | 09 |
-| The bag: Tess seals it, Ned carries it, it rides in the wheelhouse overnight, Beth hands it off, Dane watches | 01 | 04, 07, 09 |
-| The fuel float lit at 10:45 p.m. | 01 | 06 (the log gap), 10 (the ledger) |
-| Protection is voluntary: "You can't make me." / "No. I can come along." | 01 | 08 |
+| The deck: binders, D-rings, the stern chain, the quarter ladder, the ring buoy aft to port, the floods' breakers in the wheelhouse | 01 | 09 |
+| The reefer's dark display | 01 | 04 |
+| "I'll work it short" / "I'll lock up" | 01 | 06 (shorts), 09 |
+| The courier's pouch; Dane watching | 01 | 04, 07 |
+| The fuel float lit | 01 | 06, 10 |
+| Rafael's last route at 3:40; "He tells everyone everything" | 01 | 02, 08, 10 |
+| "The last witness who knew her own town better than I did is buried in it." | 01 | 06 (Marisol) |
 | "It won't run. Pack if you want. You'll be unpacking by two." | 01 | 01 |
-| The subpoena; Monday, Day 11; the Rule 5.1 deadline (one line) | 02 | 08, 10 |
+| The subpoena; Monday; the 5.1 deadline (one line) | 02 | 08, 10 |
 | The latch sticks | 02 | 02 |
-| The forepeak; "She doesn't carry a soul till the Coast Guard's walked her." | 02 | 10 |
+| The forepeak; "till somebody from the Coast Guard has his hand on that" | 02 | 10 |
 | "Ten days, if the state gets a barge out." | 02 | 10 |
-| "Steel doesn't burn. Everything in it does." | 02 | 09 |
+| "Steel doesn't burn. Everything in it does." | 02 | 08, 09 |
 | "Anyone with a skiff." / "Nobody's coming over that stern in this." | 02 | 09 |
-| Channel 9, the old channel: "You need me, nine. Like your dad." (Ned) | 02 | 09 |
-| "Nobody but me and God." | 02 | 03 (Beth finishes it), 09 ("Me and God. And him.") |
-| The log line "(N.H.) 22:50" | 03 | 05, 08 |
+| Channel 9, the old channel: "You need me, nine. Like your dad." | 02 | 09 |
+| The flashlight on the steps | 02 | 03 |
+| "Nobody but me and God." | 02 | 03, 09 |
 | "Yellow's mine. Red's the boat's." | 03 | 07, 09 |
-| Ned's phone by his plate, lit, turned face down | 03 | 09 |
-| LifeFlight declines Mrs. Dyer (icing, ceiling) | 03 | 08 |
-| Arsenault's look at Dane | 03 | 09 |
-| Russ: "Where you sleeping? Not asking for me. Asking because somebody will." | 03 | 09 |
-| Doucette's left leg; the dragging heel in the slush | 03 | 04, 09 |
-| The empty cottage searched on Day 3 | 04 | 09 |
-| Ned's reefer year; "I took no money." | 04 | 09 |
-| The unused master's license; asking Ned for the wheel would be asking him to be old | 04 | 10 |
+| Ned's phone behind the counter | 03 | 09 |
+| Ned starts Ashby's generator every storm | 03 | 05 |
+| The cove over the sill | 03 | 05 |
+| LifeFlight declines Mrs. Dyer | 03 | 08 |
+| "I won't lie to you about whether there's something." | 03 | 08 |
+| Russ: "Where you sleeping? Not asking for me." | 03 | 09 |
+| The dragging heel | 03 | 04, 09 |
+| The empty cottage searched | 04 | 09 |
+| Quist leaves the boat; "Feds told me stay off that boat." | 04 | 07, 10 |
+| The pump eating impellers; aboard till the barge | 04 | 06 (the box), 09 |
+| The envelopes; the chain of custody | 04 | 07, 09 |
+| The license; asking Ned for the wheel would be asking him to be old | 04 | 10 |
 | The bar at dead low water, counted | 04 | 05 |
 | "That's not a no. It's a not yet I can't afford." | 04 | 05 |
+| Dane lights the Ashby stove | 05 | 05 (Tess), 07 |
 | The red Pelican kit; "It's a very disappointing kit." | 05 | 07 |
-| The fish house, known to the two of them only | 05 | 08 |
-| "I'll do what I can" (about keeping the fish house from Pike) | 05 | 08 |
-| The condoms; "Good till next August." | 06 | 06, 10 (Tess: "I sold you those.") |
-| "Walked the bar." | 06 | 07 (the notebook), 08 (accountability) |
-| The hundreds in the safe | 06 | 10 |
-| "Nobody. Not Ned." | 06 | 07, 09 |
-| Marisol Duarte | 06 | 08 |
-| The *Margaret Ann* on a mooring with a sightline over the inner harbor | 07 | 08, 09 |
-| The float-light timer box; two keys | 07 | 09 |
-| The Coast Guard's rule: no landing under fire, no second try in the dark | 07 | 08 |
+| "I'll do what I can." | 05 | 08 |
+| "Walked the bar." | 06 | 07, 08 |
+| The condoms; "Good till next August." | 06 | 10 |
+| The hundreds; the town ring by the safe | 06 | 07, 10 |
+| "You told the county?" | 06 | 08, 10 |
+| The impeller box | 06 | 09 |
+| "Nobody. Not Ned." | 06 | 09 |
+| The dragger's new mooring | 06 | 07, 08, 09 |
+| "Not again today." | 07 | 08 |
 | Doucette guided by a handheld near the church | 07 | 09 |
-| Tracks in the snow from the cove to the pier | 08 | 08 |
-| "The ham is eleven pounds, and there are three of us." / "That's not a reason. That's a load." | 08 | 10 |
-| "This isn't water." (Dane's one objection) | 08 | 09 |
+| The tracks in the snow | 08 | 08 |
+| The ham | 08 | 10 |
+| "Not Tess. Not tonight." | 08 | 09 |
 
 ---
 
@@ -265,19 +331,19 @@ There are no lines like "Somebody has to stand between...". Trade truths in a ch
 |---|---|
 | **POV / days / words** | Beth. Thursday night, Day 0, to Friday, Day 1, 1:15 p.m. 2,900 |
 | **Register** | Comic friction, after a tense cold open |
-| **Purpose** | Inciting incident; the meet with spark; the stranding. The premise and the couple, inside 10% |
-| **Opens with** | 8:40 p.m. Sleet flat across the car deck at the island slip. Beth goes down the line of trucks with her gloves off, reading chain binders by feel, and puts her palm on the dealer's reefer. The box isn't cold, and the unit that has droned across this deck every Thursday for six years has a dark display |
-| **Key events** | **s1, the car deck (800).** Before the ramp comes up, Ned tries to send her home: "I'll work it short. Go home." Kenny's sick; she stays. A crate lid springs during tie-down, and under the top layer of lobsters and wet weed are vacuum-sealed bricks. The driver (Pelletier) and a hooded man loading crates both see her see it. She presses the lid down ("Lid's sprung. You'll lose your count"), re-straps it, and walks to the wheelhouse past the floods' breakers. The hooded man walks off the boat onto her island, favoring his left leg. One beat, no scene: she photographs the plate under the Pruett lights. Coming back in at 10:45 the fuel float is lit with the *Margaret Ann* alongside. Ned: "Go home. I'll lock up." **s2, Pruett ramp, 7:40 a.m. (900).** She is working the morning boat. She hands the island's canvas bank bag down to the credit union's courier, who signs on the roof of his car. A man in the wrong boots at the head of the ramp watches her do it. Deputy US Marshal Dane Reyes: Pelletier was stopped on Route 1 at four, and he's here to take her to a safe site now. She is on the bow line. Kenny's sick, the boat can't sail back without two on deck, and the island's last freight before the storm is on it: the fire company's propane truck and the store's box truck. "You can't make me." "No. I can come along." He comes. **s3, the crossing (700).** He doesn't know where to stand on her deck. She moves his boot out of the bight of a line with her own. He watches her hands on the binders before he looks at her face, and she notices. Ned won't meet his eye. In the passenger cabin he serves her the grand jury subpoena, a single sheet. **s4, the island (500).** Tess on the float for the store's freight: "Heard you had a man on the eight. Ferry's quicker than the internet." The cottage. He wants her packed for the 2 p.m. Beth, from the backing wind and the glass: "It won't run. Pack if you want. You'll be unpacking by two." 1:15, Ned on the VHF, formal: the fourteen hundred is cancelled |
-| **The turn** | She refuses the car at Pruett and goes back to the island the hooded man walked onto. At 1:15 that can't be undone |
-| **The longing** | Hers, plainly, in one line: she'd like him to keep standing on her deck being wrong about it. His, as she sees it: the look at her hands, and the hand that stays on the rail beside hers through the swell |
-| **The laugh** | Beth at Dane: "Those boots are for a different ocean." Tess at Beth about the man on the eight |
-| **What changes** | Start: a deckhand with a story for the state police. End: a federal witness with a subpoena in her coat, on an island the boat has stopped serving, with a stranger in her kitchen |
-| **Chapter promise** | Who was the hooded man, and is she safer with this one? |
-| **Cost** | Her safe exit, given up for the boat |
-| **Plants** | The deck geography. "I'll work it short" / "I'll lock up." The bag and its handoff. The float lit. Voluntary protection. The propane truck and the box truck on deck. The subpoena |
-| **Ending** | **Consequence.** Ned's voice: "*North Reach* standing by one-six and one-three." She doesn't say I told you. He takes his boots off at her door |
-| **Texture budget** | s1 set piece: binders, the reefer unit, the lid (cap six). s2: the courier's signature, once |
-| **Get right** | Whether protective services for a non-WITSEC witness are voluntary. Minimum manning on a small inspected ferry's certificate (domain check) |
+| **Purpose** | Inciting incident; the meet as a fight; the stranding |
+| **Opens with** | 8:40 p.m. Sleet flat across the car deck at the island slip. Beth goes down the trucks with her gloves off, reading binders by feel. She puts her palm on the dealer's reefer: not cold, and the display dark on the unit that has droned across this deck every Thursday for six years |
+| **Key events** | **s1, the car deck (800).** Ned tries to send her home: "I'll work it short. Go home." Kenny's sick, so she stays. A crate lid springs, and there are bricks under the lobsters. The driver and a hooded man loading crates both see her see it. "Lid's sprung. You'll lose your count." She re-straps it and walks to the wheelhouse past the floods' breakers. The hooded man walks off onto her island, favoring his left leg. One beat: she photographs the plate under the Pruett lights. Coming back in at 10:45, the fuel float is lit with the dragger alongside. Ned: "Go home. I'll lock up." She makes the 1 a.m. call from her kitchen landline in one sentence. **s2, the Pruett ramp, 7:40 a.m., THE FIGHT (1,000).** She hands the courier's zipped pouch down; he signs on the roof of his car. A man in the wrong boots is at the ramp head. Deputy US Marshal Dane Reyes: Pelletier was stopped at four, and she's coming with him now. She's on the bow line. Kenny's sick, the mate's off-island, there's no relief on a storm Friday, and the island's last propane and freight are on her deck. "Mrs. Dyer isn't my witness." "Then go home to whoever is." He tells her the worst true thing he has: "The last witness who knew her own town better than I did is buried in it." It stops her for one breath. She casts off the bow line anyway. The ramp starts up, and he has to choose: the dock, his car, the 10:30 back to Boston and his father's last bus at 3:40, or the widening gap. He jumps, badly. She hauls him in by the jacket front, and they're chest to chest at the bulwark. She doesn't let go at once, and neither does he. "You're welcome." "I didn't say anything." "I noticed." **s2 is the meet, the fight and the first charged beat, all in one scene.** **s3, the crossing (650).** In the passenger cabin he serves the subpoena, and she watches his hands: scarred knuckles, a wedding-ring line gone pale. He checks his watch twice. She asks. His father drives his last route for the Lowell transit authority at 3:40 after thirty years, and Dane promised to be the last one on. He'll make it if the 2 p.m. runs. "He'll tell the whole route anyway. He tells everybody everything." She likes that he wants it, and she doesn't want to like it. **s4, the island (450).** Tess on the float for the store's freight: "Heard you had a man on the eight. Ferry's quicker than the internet." The cottage. Beth, from the backing wind and the glass: "It won't run. Pack if you want. You'll be unpacking by two." At 1:15, Ned on the VHF cancels the fourteen hundred |
+| **The turn** | She casts off with him on the ramp, and he jumps. At 1:15 neither choice can be undone |
+| **The longing** | The jacket front at the bulwark. His hands on the subpoena. She'd like him to keep being wrong on her deck, and she knows it |
+| **The laugh** | Beth at Dane: "Those boots are for a different ocean." / "They're for a courtroom." Dane about his father: "He'll say the Marshals sent me to Maine to get rained on." Tess on the float |
+| **What changes** | Start: a deckhand with a story for the state police. End: a federal witness stuck on her island with a stranger who gave up something to be there |
+| **Chapter promise** | Who was the hooded man, and what does this one want? |
+| **Cost** | Her safe exit. For him: the bus, and he knows it at 1:15 |
+| **Plants** | The deck. "Work it short" / "lock up." The pouch. The float. Rafael's route. "Buried in it." |
+| **Ending** | **Consequence.** Ned's voice, formal, cancelling. Dane looks at his watch, then takes it off and puts it in his pocket |
+| **Texture budget** | s1 set piece (cap six). s2: the pouch, once |
+| **Get right** | Minimum manning (domain check). Lowell Regional Transit Authority as a real employer (or fictionalize) |
 
 ## Chapter 02 — The Weather Hold
 
@@ -285,59 +351,59 @@ There are no lines like "Somebody has to stand between...". Trade truths in a ch
 |---|---|
 | **POV / days / words** | Beth. Day 1, 1:30 p.m. – 11:45 p.m. 2,900 |
 | **Register** | Tense |
-| **Purpose** | The deadline, the trap closing, the first attack. **End of Act 1** |
-| **Opens with** | The cottage kitchen, 1:30. Dane on her back step, one hand on the old thumb latch, finding out it sticks |
-| **Key events** | **s1 (600).** The latch: lift and shove; "Whoever doesn't know that makes a noise." The grand jury sits Monday the 23rd, the last sitting before Pelletier's fourteen-day hearing deadline. One line, from Pike on the sat phone, which works only in the yard under open sky. She peels off wet layers in a small kitchen; he turns his back to the window, not to her. **s2 (400).** His plan for the night: the ferry. Steel, a wheelhouse door that locks, a radio, and her captain. They go down at dusk with bags, seen. On the store step Tess asks where she's sleeping, for the net. "On the boat." **s3, the bridge (900).** At nine a surge lifts the moored *North Reach* against the transfer bridge. The seaward cables part, and the bridge drops onto the bow. Beth and Ned work the lines in the dark to walk her to the stone pier. Dane takes a line on Beth's word and hauls where she tells him. The ramp is jammed and a forepeak plate is cracked; the pumps start. Ned: "She doesn't carry a soul till the Coast Guard's walked her." On the VHF: "Ten days, if the state gets a barge out." In the wheelhouse, about the deckhouse under them: "Steel doesn't burn. Everything in it does." **s4 (400).** Dane: this boat is a box with one door and an open back. "Anyone with a skiff." Ned: "Nobody's coming over that stern in this." Everyone saw them come aboard, so Dane moves her back to the cottage by the shore in the dark, the one place they think she isn't. While Dane checks the pier head, Ned: "Where'll you be?" Beth: "Home. Don't tell anybody." "Nobody but me and God." And: "You need me, nine. Like your dad." **s5 (600).** Through the kitchen glass at 11:20, Dane on the porch with the sat phone, outdoors because it has to be. 11:40: the latch lifts, sticks, lifts. She wakes him without a light and gets behind the chimney mass. He goes to the door; someone runs; there are boot prints in the sleet |
-| **The turn** | The bridge goes, and the latch is tried at the house only the people she trusts knew about |
-| **The longing** | On the boat, his hand flat on her back between her shoulders as the sea lifts them, there a second longer than the sea needs. At 11:20 she wants him back inside out of the wind, and she is angry about wanting it |
-| **The laugh** | Beth at Dane on the line: "Other way. Unless you want to go with it." Dane, after the bridge: "You were right about the boat. I'm going to stop arguing with you about water." |
-| **What changes** | Start: one night's inconvenience. End: ten days, the boat crippled, her home tried, and the man who was guarding it under suspicion |
+| **Purpose** | The deadline; danger shared; the first attack. **End of Act 1** |
+| **Opens with** | 1:30. Dane on her back step finding out the latch sticks |
+| **Key events** | **s1 (500).** The latch: lift and shove, and whoever doesn't know that makes a noise. Monday the 23rd is the last sitting before Pelletier's deadline; Pike says so on the sat phone, which works only in the yard under sky. He calls his father too, from the yard. She watches through the glass and doesn't hear it, but she sees him put his hand over his eyes. **s2 (300).** His plan for the night is the ferry: a locking door, a radio, her captain. They go down at dusk, seen by everyone. On the store step, for the net, Tess asks where she's sleeping. "On the boat." **s3, the bridge (900).** At nine a surge lifts the *North Reach* against the transfer bridge. A lift cable parts and whips across the deck. Dane takes her down flat under the bulwark with his body over hers. Her hand is fisted in his collar, and the bridge comes down on the bow. Then work: she and Ned walk the boat to the stone pier on the lines, and Dane hauls on hers. Ned on his knees in the forepeak with a flashlight on the water coming through: "She's not carrying anybody till somebody from the Coast Guard has his hand on that." The pumps start. On the VHF: "Ten days, if the state gets a barge out." About the deckhouse: "Steel doesn't burn. Everything in it does." **s4 (400).** Dane: everyone saw them come aboard, and the boat has an open back. "Anyone with a skiff." Ned: "Nobody's coming over that stern in this." Dane moves her home by the shore in the dark. No lamp, no stove: the house has to look empty. While Dane checks the pier head, Ned: "Where'll you be?" Beth: "Home. Don't tell anybody." "Nobody but me and God. You need me, nine. Like your dad." On the iced back steps she puts the flashlight on for ten seconds, and Dane: "Light." She kills it. **s5 (800).** The dark kitchen, backs to the chimney under one blanket, his knee against hers. Low talk: the bus he missed; the marriage that ended because he was always on a job; her father's boat. He goes out the back for the 11:20 call. 11:40: the latch lifts, sticks, lifts. She wakes him without a light and gets behind the chimney mass. He goes to the door, someone runs, and there are boot prints in the sleet |
+| **The turn** | The bridge, and the latch at a house only her own people knew about |
+| **The longing** | Under the bulwark, under the blanket |
+| **The laugh** | Ned, looking at the fallen bridge: "Well. That's the bridge." Dane: "Does it do that a lot?" Ned: "Just the once." Beth at Dane on the line: "Other way. Unless you want to go with it." |
+| **What changes** | Start: one wasted day. End: ten days, a crippled boat, her home tried, and her want for the man guarding it turned into suspicion |
 | **Chapter promise** | How did they know she came home, and was it him? |
 | **Cost** | Home; the boat; trust in Dane |
-| **Plants** | The latch. Monday. The forepeak and the inspection. Ten days. Steel doesn't burn. The open stern. Channel 9. "Me and God." The sat phone needs sky |
-| **Ending** | **Question.** "Who knew you were here?" / "You." She doesn't count Ned. She remembers the porch |
-| **Texture budget** | s3 set piece: the transfer bridge and the lines (cap six). One sentence of 5.1 |
-| **Get right** | Marine casualty reporting and whether a damaged vessel may carry passengers before Coast Guard inspection (domain check). Transfer-bridge failure in surge |
+| **Plants** | The latch. Monday. The forepeak. Ten days. Steel doesn't burn. The stern. Nine. "Me and God." The flashlight |
+| **Ending** | **Question.** "Who knew you were here?" / "You." She doesn't count Ned. She remembers the yard |
+| **Texture budget** | s3 set piece (cap six). One line of 5.1 |
+| **Get right** | Casualty and passengers (domain check). Transfer-bridge failure |
 
 ## Chapter 03 — The Generator Shed
 
 | Field | Content |
 |---|---|
 | **POV / days / words** | Beth. Day 2, Saturday. 2,900 |
-| **Register** | Warm, charged under the unease |
-| **Purpose** | The suspects in one room; the move; the first kiss (~27%) |
-| **Opens with** | Gray morning. Beth on her knees at the back step with her own boot set beside the print in the slush: the left heel drags |
-| **Key events** | **s1 (500).** Dane on the step with two mugs. Through the wall, later: "No. She doesn't know. ... Daily. Understood." She files it and says nothing. **s2, the store (1,100).** The whole island is at the store in a storm, because hiding gets noticed. The check-in log lies open on the counter: "Calloway — N. Reach 17:10," struck through, and under it "home (N.H.) 22:50." Ned told Tess at ten to eleven, which of course he did: he had a bridge to report. Tess seals a bag that isn't going anywhere: "Yellow's mine. Red's the boat's. Credit union likes to know whose money it's counting." Two phones lie face down by the register, Tess's and Ned's; the store is the only place either works. Ned's lights up and he turns it over. Grindle on the store's set: LifeFlight won't fly for Mrs. Dyer, icing and a 300-foot ceiling, and the EMT will sit with her. Arsenault: "Pack of Golds, and whatever the gentleman's having." He looks at Dane like a man he's been told about. Outside, Russ in his truck: "Where you sleeping tonight? Not asking for me. Asking because somebody will." He writes up the print: "Big-footed man walking around Cutter at night. That narrows it to about forty of us." Ned walks them out and puts the Ashby key on its paper tag in her hand, with Dane watching: "Nobody but—" "Me and God. I know." **s3 (300).** The north point after dark, water off and furniture sheeted. **s4, the generator shed (1,000).** Her hands on the pull cord, his light on her hands, the cold, the engine catching on the third pull. He kisses her, or she kisses him; neither could say. Then she stops it, because she doesn't know who he calls at eleven-twenty. "My supervisor." "That's what you'd say." |
-| **The turn** | The kiss, and her stopping it. Something has been started that suspicion can't take back |
-| **The longing** | The shed. "She wanted him on the concrete with the engine going, and she'd have told him so" (v1's best want line, kept as a model) |
+| **Register** | Warm and charged, ending in a fight |
+| **Purpose** | Three suspects, each with an action behind them; the move; the first kiss |
+| **Opens with** | Gray morning. Beth on her knees at the back step with her boot beside the print: the left heel drags |
+| **Key events** | **s1 (500).** Dane shaving at her sink in cold water, and she looks longer than she means to. Through the wall: "No. She doesn't know. ... Daily. Understood." She goes straight at him: "Who doesn't know what?" He: "I can't tell you, and I won't lie to you about whether there's something." **s2, the store (1,000).** Everyone's at the store in a storm. Tess, before Beth asks: "Saw your light on the back steps last night. Didn't put you on the air." The log is under her hand, 22:40. Dane is outside with Russ about the print ("Big-footed man walking around Cutter at night. That narrows it to about forty of us."). When he comes back in, Beth's palm is flat over the page. Tess seals a bag that can't go anywhere: "Yellow's mine. Red's the boat's. I won't have my money in Ned's color." Ned leaves his phone charging behind the counter: "Only place on the island it's a phone." Grindle on the store's set: LifeFlight won't fly for Mrs. Dyer (icing, ceiling); the EMT will sit with her. Arsenault: "Pack of Golds, and whatever the gentleman's having." Russ, in his truck window: "Where you sleeping tonight? Not asking for me. Asking because somebody will." Beth asks Ned for Ashby. Dad's fish house will have the cove in it till Monday, and Ashby has water on three sides and one road Dane can watch. Ned starts Ashby's generator every storm anyway, so nobody will think twice about it running. "Nobody but—" "Me and God. I know." **s3 (200).** The north point after dark, furniture sheeted. **s4, the generator shed (1,200).** Her hands on the pull cord, his light on her hands, the engine catching on the third pull. Then the kiss, and it doesn't stay a kiss: her back to the warm housing, his cold hands under her layers, her teeth at his jaw. She stops it, and it becomes the fight the morning started. Who is "she," and who does he call at 11:20? He won't answer, and she says the cruel thing: that she'd rather be kissed by a man she can check. He goes out to the porch and makes the call where she can see him |
+| **The turn** | The kiss, and the fight it becomes |
+| **The longing** | The sink in the morning; the shed |
 | **The laugh** | Tess at Dane: "Emergency management director. Since town meeting. I was slow putting my hand down." Russ's forty big-footed men |
-| **What changes** | Start: stranded with a suspect. End: kissed by him, refusing him, and with her island already passing her name along at supper |
-| **Chapter promise** | What doesn't she know, and who is he calling? |
-| **Cost** | Her own wanting, refused by her. The island's innocence: Ned told Tess, in ink |
-| **Plants** | The log line. The tags. The two phones. LifeFlight. Arsenault's look. Russ's question. The heel |
-| **Ending** | **Cut.** 11:20. Through the window she watches his mouth move on the porch and can't hear a word. She lets the sheet drop back over the glass |
-| **Texture budget** | s2: the log and the tags only. The radio line is one sentence |
-| **Get right** | Standby generator start (Generac); island LifeFlight weather limits |
+| **What changes** | Start: suspicious of him. End: wanting him in a way she can't take back, and hiding her oldest friend's handwriting from him |
+| **Chapter promise** | What is he keeping, and what is she? |
+| **Cost** | Her own wanting, refused by her. A concealment of her own |
+| **Plants** | Tess's light. The tags. The phone. The generator. The cove. LifeFlight. Russ. The heel |
+| **Ending** | **Cut.** Through the window she watches his mouth move on the porch and lets the sheet drop back over the glass |
+| **Texture budget** | s2: the tags only |
+| **Get right** | Generac start; LifeFlight weather limits |
 
 ## Chapter 04 — Glassing the Harbor
 
 | Field | Content |
 |---|---|
-| **POV / days / words** | Beth. Day 3, Sunday, to Day 4, 7:10 a.m. 2,700 |
-| **Register** | Comic, with one dark beat |
-| **Purpose** | The threat gets a face; Dane interviews her as if it were intimacy; Ned's smaller confession apparently clears him |
-| **Opens with** | First light. Beth flat on wet granite on Lookout Hill with Dane's binoculars, spray carrying even here, counting moorings |
-| **Key events** | **s1 (700).** Across the harbor the man with the bad left leg walks round the back of her empty cottage. Ninety seconds; then he rows out to the *Margaret Ann*. Dane photographs him. "Whoever told them about Friday hasn't told them about Ashby." Beth: "Or doesn't know." She runs the list in her head (Ned, Tess, him) and says none of it. **s2, Ashby, afternoon (900).** He asks about money: ferry pay, her father, the bank that took the *Ruthie C*. Then, idly, the bag: who seals it, who carries it, where it sleeps. She tells him all of it, because she thinks he's asking because he wants to know her. She shows him how to bleed the generator's fuel line, and their hands are both wet with diesel. He stops it: "That's not a no. It's a not yet I can't afford." **s3, dusk (700).** Ned comes with diesel for the generator. Dane asks about the reefer. Ned, with more detail than anybody asked for: "He always runs his unit. Thermo King, a good one." Beth knows it's a lie. In the shed, after, she makes him say it: a year of looking the other way on the Thursday reefer, because the contract is the winter boat. "I took no money." She believes him. She makes him promise nobody else knows this house. "Tess knows what houses I mind. She keeps the list. Nobody else." She does not ask him for the wheel. **s4, Day 4, 7:10 a.m. (400).** Dead low water. She walks the shore path and the gravel bar below the house, counting steps and then minutes to the flood. Dane watches from the ledge. "What are you doing?" "Finding the back door." |
-| **The turn** | Ned's confession: the reefer year, said out loud, can't be unsaid |
-| **The longing** | The fuel line, his stopped hands, and the line he gives her |
-| **The laugh** | Dane at Beth about her boots: "That's a narrow definition of waterproof." Ned at Dane with the work light: "You hold a light like nobody ever handed you one." |
-| **What changes** | Start: a face in the hood. End: the face named, Ned's secret out (or so it seems), and Dane holding her father's story in a notebook she hasn't seen |
-| **Chapter promise** | When will they find Ashby, and what is he writing down? |
-| **Cost** | Ned's integrity, in her eyes. Her father's story, given to a man who is assessing her |
-| **Plants** | The empty-house search. The chain of custody. Ned's year and "no money." The license and the wheel. The bar, counted |
-| **Ending** | **Open image.** The flood starts over the bar while she stands on it, and she walks off it one minute inside her count |
-| **Texture budget** | s2: the fuel-line bleed. s4: the tide, once |
-| **Get right** | Bleeding a diesel generator. A bar that dries at low water and is knee-deep at half tide (v1 note 36) |
+| **POV / days / words** | Beth. Day 3, Sunday, to Day 4, 7:10 a.m. 2,500 |
+| **Register** | Comic |
+| **Purpose** | The threat gets a face; the badge's own choice; Dane interviews her as if it were intimacy |
+| **Opens with** | First light. Beth flat on wet granite on Lookout Hill with Dane's binoculars |
+| **Key events** | **s1 (700).** The man with the left leg walks round the back of her empty cottage for ninety seconds, then rows out to the *Margaret Ann*. Dane photographs him and calls Quist from the summit, under sky. Quist won't touch the boat; she wants the vessel the pills came off, and the dealer. A hood and a limp won't hold him, and one constable against a dragger crew is a body count. Beth: "She wants me alive long enough to be useful." Dane doesn't argue. Down the woods road, Russ: "Feds told me stay off that boat. So I'm staying off that boat. I'm not a complicated man." **s2, Ashby, afternoon (900).** He asks about money: ferry pay, her father, the bank that took the *Ruthie C*. Then the bag, idly: envelopes, who seals it, who carries it, where it sleeps. She tells him all of it, thinking he wants to know her. She shows him how to bleed the fuel line, both their hands in diesel. He stops it: "That's not a no. It's a not yet I can't afford." **s3, dusk (500).** Ned with diesel for the generator. Dane asks about the reefer. Ned, with more detail than anyone asked for: "He always runs his unit." Beth knows it's a lie and says nothing yet. Ned: the forward pump is eating impellers, and he's aboard till the barge comes. She doesn't ask him for the wheel. **s4, Day 4, 7:10 a.m. (400).** Dead low water. She walks the bar, counting steps and minutes to the flood, wet to the thigh. Dane watches from the ledge. "What are you doing?" "Finding the back door." |
+| **The turn** | Quist's choice to leave the boat |
+| **The longing** | The fuel line; the line he gives her |
+| **The laugh** | Dane at Beth's boots: "That's a narrow definition of waterproof." Ned at Dane with the work light: "You hold a light like nobody ever handed you one." Russ |
+| **What changes** | Start: a hood. End: a named boat nobody will touch; Ned caught in a lie she's holding; her father's story in a notebook she hasn't seen |
+| **Chapter promise** | When will they find Ashby, and what is Ned lying about? |
+| **Cost** | Her faith in the badge. Her father's story |
+| **Plants** | The search. Quist's call. The impellers. The envelopes. The license. The bar |
+| **Ending** | **Open image.** The flood starts over the bar while she stands on it, and she walks off one minute inside her count, shaking |
+| **Texture budget** | s2: the fuel line. s4: the tide |
+| **Get right** | Bleeding a diesel generator; the bar (v1 note 36) |
 
 ## Chapter 05 — Half Tide
 
@@ -345,59 +411,59 @@ There are no lines like "Somebody has to stand between...". Trade truths in a ch
 |---|---|
 | **POV / days / words** | Beth. Day 4, Monday. 3,100 |
 | **Register** | Tense, then hot |
-| **Purpose** | The second attack; the first intimate scene (~42–46%); **the midpoint reversal** (~47%) |
-| **Opens with** | 2 p.m. Tess's pickup in the Ashby drive, with a pot of chowder on the seat and the EMD clipboard on the dash |
-| **Key events** | **s1 (400).** Generator rounds: "You burn down, it's my paperwork." She teases Beth about the marshal and tugs her braid. "How'd you know we were here?" "Ned. Who else." **s2, 10 p.m. (900).** The generator shed goes up. There's a pickup in the driveway with its lights off. Beth takes the shore path at once. At half tide the bar is a ninety-second wade, knee-deep and surging, in 48°F water. Her fist is in his belt and he walks in on her word without arguing. Then her father's fish house on the cove, which nobody has thought about in years. **s3, the fish house: intimate scene 1 (1,000).** The oil-drum stove lit with shaking hands and three broken matches. She starts it. No condoms: "I've got a trauma kit." / "Does it—" / "It's a very disappointing kit." Hands and mouths, in close POV, frank. He names the breach: "When this is over, I report this." "I know what you are. I'm choosing anyway." Every sentence of it is about these two and the cold. **s4 (800).** After, under the blanket: she tells him she told Ned on Friday night. Dane: "And Ned tells Tess." Then: "Then I wasn't the only one." The circle is three. She asks him to keep this place off every record, Pike's too. "I'll do what I can." She decides they stop hiding |
-| **The turn** | She sleeps with the man she suspects, and then she gives him the one thing she held back |
-| **The longing** | The wade (the belt, his weight behind her), the scene, and his cold mouth |
-| **The laugh** | "It's a very disappointing kit." Tess, earlier: "It's mostly potato on purpose." |
-| **What changes** | **Midpoint reversal.** Start: hiding from an outside threat, guarded by a man she suspects. End: lovers, the suspicion turned outward onto her own island, and Beth going hunting. The book's direction changes from waiting to be rescued to finding who is talking |
-| **Chapter promise** | Which of the three is it? |
-| **Cost** | Ashby, nearly her body, and her guard |
-| **Plants** | The red kit. The fish house, known to two. "I'll do what I can." Tess at Ashby |
+| **Purpose** | The second attack; the first intimate scene; **the midpoint reversal** |
+| **Opens with** | 8 a.m. Dane lighting the Ashby woodstove because she came off the bar shaking, and Beth too cold to tell him not to |
+| **Key events** | **s1 (500).** 2 p.m. Tess's pickup in the drive with a pot of chowder. "Generator's Ned's. Chimney smoke's people." She does rounds of every running generator ("You burn down, it's my paperwork"). Ned's been on the boat since yesterday, and she's carrying his supper down. She tugs Beth's braid and teases about the marshal. **s2, 10 p.m. (900).** The shed goes up. There's a pickup in the drive with its lights off. The shore path at half tide: a ninety-second wade, knee-deep and surging, 48°F, her fist in his belt. Her father's fish house, wet-floored, the cove gone back out of it. **s3, intimate scene 1 (1,000).** The oil-drum stove, three broken matches. She starts it. "I've got a trauma kit." / "Does it—" / "It's a very disappointing kit." Hands and mouths, close and frank. "When this is over, I report this." / "I know what you are. I'm choosing anyway." **s4 (700).** After, she gives him both names she has been protecting: Tess saw her light and wrote it down, and she told Ned on the way off the boat. Dane: "Two people you didn't count." She asks him to keep this place off every record, Pike's too. "I'll do what I can." She decides they stop hiding |
+| **The turn** | She sleeps with the man she suspects, then gives him her own people |
+| **The longing** | The wade; the scene |
+| **The laugh** | "It's a very disappointing kit." Tess: "It's mostly potato on purpose." |
+| **What changes** | **Midpoint reversal.** From hiding to hunting, and from suspecting him to suspecting her own |
+| **Chapter promise** | Which of the three? |
+| **Cost** | Ashby; nearly her body; her guard |
+| **Plants** | The red kit. "I'll do what I can." The smoke |
 | **Ending** | **Reversal.** "Tomorrow I go to the store and buy what I need, and I watch who watches me buy it." |
-| **Texture budget** | s2: cold shock, once (the gasp). s3: the stove |
-| **Get right** | The 1-10-1 cold-water rule; the wade is cold, not near-death (v1 note 38) |
+| **Texture budget** | s2: cold shock, once. s3: the stove |
+| **Get right** | The 1-10-1 rule (v1 note 38) |
 
 ## Chapter 06 — Good Till August
 
 | Field | Content |
 |---|---|
-| **POV / days / words** | Beth. Day 5 to Day 7, 5:50 a.m. 2,900 |
+| **POV / days / words** | Beth. Day 5, 1:30 a.m., to Day 7, 5:50 a.m. 3,100 |
 | **Register** | Warm |
-| **Purpose** | The hunt; Beth's worst choice; trust at its peak with a lie inside it |
-| **Opens with** | 4:40 a.m., Day 5. She wakes alone in the fish house with the bar off the door |
-| **Key events** | **s1 (300).** He comes in at 5:20 wet to the ankle: "Walked the bar." The bar was under four feet at five. She says nothing, and puts it next to "She doesn't know." **s2, the store, Day 5 (600).** She buys a box of condoms at the counter in front of the room, as cover and as a statement. Tess: "Good till next August. Which is more than I can say for the chowder base." Dane: "I'd have asked for a receipt." Reading the green fuel log upside down while Tess rings it up: nothing sold after 4 p.m. on Day 0, though the float was lit at ten to eleven. In the back office the safe stands open with a strapped bundle of hundreds. She doesn't say it. **s3, Day 6 (650).** The sea is coming down. Dane on the ledge with the sat phone; she hears his half: six o'clock tomorrow, the town landing, "coordinated with local emergency management." To her: "Nobody. Not Ned." That afternoon she's aboard the *North Reach* helping Ned at the pumps while Dane watches the pier. Ned asks, easily, where she's sleeping now, and she doesn't tell him. Then she asks him whether the town float is workable at six tomorrow on that tide. "Float's fine. Lights are on the timer." **s4, the fish house: intimate scene 2 (950).** Heat 4, slower, the condoms. She notices she has stopped keeping an exit in her head. She asks who he is. He tells her about Marisol Duarte and the ten minutes he allowed. He starts to say something else, and she watches him decide not to. She reads it as tenderness. **s5, Day 7, 5:50 a.m. (300).** Down the shore lane in the dark toward the landing, his good hand at her back |
-| **The turn** | She tells Ned the time |
-| **The longing** | The scene, and his answer to "Who are you?" |
+| **Purpose** | The hunt; Ned's smaller confession; Beth's worst choice; trust at its peak with a lie inside it |
+| **Opens with** | 1:30 a.m., Day 5, the top of the tide. She wakes alone with the bar off the door |
+| **Key events** | **s1 (300).** He comes in at 2:20 wet to the ankle: "Walked the bar." The bar is under four feet. She says nothing, and puts it beside "She doesn't know." **s2, the store, Day 5 (650).** They go by the shore at low water, never the road, as they will every time. She buys a box of condoms at the counter in front of the room. Tess: "Good till next August. Which is more than I can say for the chowder base." Dane: "I'd have asked for a receipt." The green fuel log, read upside down: nothing sold after 4 p.m. on Day 0. Through the curtain, the safe open with a strap of hundreds, and the town ring on its nail beside it, because the town office keeps Tuesday-and-Thursday hours. **s3, Day 6 (900).** The sea coming down. Dane on the ledge with the sat phone, Beth beside him: tomorrow at six, the town float, the only lee left. Pike: the Coast Guard won't fly a witness that isn't search and rescue, and the one helicopter in range is offshore on a case. Then: "You told the county?" Procedure; they did it before he knew. Below them the dragger is moving to a new mooring with the inner harbor in front of her. "Moorings swing." "That isn't swinging." To Beth: "Nobody. Not Ned." That afternoon she's aboard the *North Reach* helping at the pumps. On the engine-room grating is an empty impeller box with Tess's price sticker; Tess carried it down with his supper, she supposes. She makes Ned say the reefer: a year of looking away. "I thought it was shorts. I took no money." She forgives him, tears in it. Then the competent person's mistake: "Is the float workable at the bottom of the tide?" "Which tide?" "Tomorrow's first." She thinks Tess has it anyway. **s4, intimate scene 2 (950).** Heat 4, slower, the condoms. She has stopped keeping an exit in her head. She asks who he is. Marisol Duarte, and the ten minutes he allowed. His father, who forgave him the bus in one sentence on the phone. He starts to tell her something else and doesn't. She reads it as tenderness. **s5, Day 7, 5:50 a.m. (300).** The glass is falling again, the second system already on it, and down the shore lane they go |
+| **The turn** | The tide question |
+| **The longing** | The scene; his answer to "Who are you?" |
 | **The laugh** | Tess at the counter; Dane's receipt |
-| **What changes** | Start: hunting, with three names. End: she has put the one fact that matters into the one mouth she was told to keep it from, and she is as close to him as she has been to anyone |
+| **What changes** | Start: three names. End: Ned apparently cleared; the hour in his mouth; and as close as she has been to anyone |
 | **Chapter promise** | Will the window hold? |
-| **Cost** | Her own rule. The lie about the bar, which she's carrying |
-| **Plants** | "Walked the bar." The fuel log and the hundreds. "Nobody. Not Ned." Marisol. The timer |
-| **Ending** | **Cut.** At the head of the ramp: the float lights are dark |
-| **Texture budget** | s2: the fuel log. s3: the Coast Guard's sea limit, one sentence |
-| **Get right** | Coast Guard small-boat limits for a float landing (v1 note 35) |
+| **Cost** | Her own rule. The bar lie, carried |
+| **Plants** | The bar. The hundreds and the ring. The county. The mooring. The impeller box. "Nobody. Not Ned." |
+| **Ending** | **Cut.** At the ramp head: the float lights are dark |
+| **Texture budget** | s2: the fuel log. s3: the lee, once |
+| **Get right** | Coast Guard aviation for non-SAR transport (domain check). Shorts as a Maine fisheries violation |
 
 ## Chapter 07 — His Handwriting
 
 | Field | Content |
 |---|---|
-| **POV / days / words** | Beth. Day 7, 5:52 a.m., to Day 8, 2 a.m. 3,000 |
+| **POV / days / words** | Beth. Day 7, 5:52 a.m., to Day 8, 2 a.m. 3,300 |
 | **Register** | Dark |
-| **Purpose** | The ambush; the notebook; **the rupture** (~66%) |
-| **Opens with** | The ramp head, 5:52. The float black. The *Margaret Ann* on a new mooring with the whole inner harbor in front of her. A strange skiff on the float with its outboard down |
-| **Key events** | **s1 (700).** "Ned set that timer. Ned and the town ring had the only keys to the box." She calls the abort before she sets foot on open float, and Dane backs it on the radio. Out through the bait shed's back door. The shot comes as they go, and Dane is grazed across the upper arm. On his handheld the Coast Guard turns back: no landing under fire, no second try in the dark. Dane swears, his first time in the book. **s2, the fish house (600).** Lantern light. She closes the graze with butterfly strips from her father's red Pelican case. "Better than anything the Service has ever issued me." The second system builds against the door. **s3 (900).** He sleeps. Hanging his wet jacket by the stove, she finds the notebook. Four lines, quoted plainly: every place they have slept and the landing time; "observed subject hand store bag to courier, D1"; "$9,000 cash, subject's acct, with paycheck, via store bag. Red seal (CU teller)"; "D5, 0450, report. No indication." The fish house appears as "secondary loc., B's family property — not reported." Her eyes go past *red* to the money. "Daily. Understood" was her. Friday on the ramp, he was watching her. The bar at five was a report. The questions about her father were an interview. **s4, the rupture (500).** She weighs leaving a wounded sleeping man with the bar off the door: if he's what the book says, nobody's coming for him; if he isn't, nobody knows this door. She takes the handheld and leaves the notebook open on the bench so he'll know why. **s5 (300).** Near the church a flashlight and a handheld's squelch: someone guiding Doucette by radio. She goes to ground behind the church woodshed, then takes the shore. At 2 a.m. Ned lets her aboard the *North Reach*. She breaks down in the crew mess. Ned in the doorway with coffee |
+| **Purpose** | The ambush; the notebook; **the rupture** |
+| **Opens with** | The ramp head, 5:52. The float black, the dragger on her new mooring, a strange skiff on the float with its outboard down |
+| **Key events** | **s1 (700).** "Ned set that timer. Ned and the town ring had the only keys to the box." She calls the abort before stepping on open float. Out through the bait shed's back door; the shot; Dane is grazed. On his handheld the lifeboat turns back, seas building by nine: "Not again today." Pike, one line on the sat phone at the shed door: first light Day 9. Dane swears, for the first time in the book. **s2 (600).** Lantern light. She closes the graze with butterfly strips from the red Pelican case. "Better than anything the Service has ever issued me." The second system on the door. **s3 (900).** He sleeps. She finds the notebook in his wet jacket. Four lines: every place they've slept, the fish house as "secondary loc., B's family property," as if it went to Portland like the rest; "observed subject hand courier pouch, D1"; "$9,000 cash in subject's envelope, over her slip, credited and flagged. Red seal (teller's note)"; "D5, 0150, report. No indication." "She doesn't know" was her. The ramp, the questions, the bar: interviews. Her eyes go past *red* to the money. The graze: "a graze at sixty yards in the dark. They missed the one they'd paid." **s4, the rupture (500).** She weighs the bar off the door: if he's what the book says, nobody's coming for him; if he isn't, nobody knows this door. She takes the handheld and leaves the notebook open. **s5 (600).** Not Russ: she won't take herself to another badge tonight. Near the church, a flashlight and a handheld squelch; someone is guiding Doucette. She goes to ground behind the woodshed, the cold coming through her knees, counting his steps past. Then the shore. At 2 a.m. Ned lets her aboard. She breaks down in the crew mess |
 | **The turn** | She reads it and walks out |
-| **The longing** | Her hands on his arm, closing it, before the notebook. Then her watching him sleep, and the last time she lets herself want to |
-| **The laugh** | Dane's one line about the strips. Then nothing, by design |
-| **What changes** | Start: lovers going home. End: the only way off gone, Dane hurt, the man she let in exposed as her investigator, and Beth alone on a damaged ferry with the captain she trusts |
+| **The longing** | Closing his arm; watching him sleep before the notebook |
+| **The laugh** | The strips. Then nothing, by design |
+| **What changes** | Start: lovers going home. End: no way off, Dane hurt, the man she let in exposed as her investigator and possibly worse, and Beth on a damaged ferry with the captain she trusts |
 | **Chapter promise** | Is she any safer with Ned? |
-| **Cost** | Dane's arm, the window, and the only place nobody knew |
-| **Plants** | The timer box and its two keys. The Coast Guard rule. The dragger's mooring. The red seal. "Not reported." The handheld near the church |
+| **Cost** | Dane's arm, the window, the only place nobody knew |
+| **Plants** | The keys. "Not again today." The notebook. The handheld near the church |
 | **Ending** | **Question.** Ned, with the coffee: "Where's your marshal?" |
-| **Texture budget** | s1: the abort call. s3: four lines of notebook, no more |
-| **Get right** | Closing a graze with butterfly strips. Dane's swearing count (v1 language rules) |
+| **Texture budget** | s1: the abort. s3: four lines of notebook |
+| **Get right** | Butterfly strips; Dane's swear count |
 
 ## Chapter 08 — Not Water
 
@@ -405,102 +471,101 @@ There are no lines like "Somebody has to stand between...". Trade truths in a ch
 |---|---|
 | **POV / days / words** | Beth. Day 8, Friday, 4 a.m. – 4:40 p.m. 3,000 |
 | **Register** | Quiet (repair), tense at the close |
-| **Purpose** | Repair beats 1–4 in order. Dane cleared. The false solution. The bait decided |
-| **Opens with** | 4 a.m. The wheelhouse, the storm on the glass, Ned's coffee by her hand: his apology tic, though he has nothing (she thinks) to apologize for |
-| **Key events** | **s1 (400).** Ned: "Where is he?" She won't say. "Good. Don't tell me." A figure comes along the riprap below the pier in the dark, one arm held against his ribs. Ned goes out onto the brow and stands in his way. **s2, ACCOUNTABILITY (600).** She keeps the wheelhouse locked and lets Dane stand in the sleet until she decides. Then the crew mess, with Ned sent below to the pumps. Dane names it without a reason in front of it: he investigated her. He asked about her father to write it down. He lied about the bar. He slept with her and didn't tell her. He reported himself to Pike at 4 a.m. Reasons only when she asks, and short: Quist asked, Pike ordered, and telling her would have looked like coaching. **s3, VERIFICATION and CONDITION (800).** She takes the sat phone out under the open sky and calls Pike herself, on the page, in her own words. One question: what has he told you about where we slept? Pike: he has refused to give her the second location since Monday, and she has written him up for it. Beth reads the dated "no indication" entries herself. The one place he kept from his own boss is the one place nobody came. **Condition:** nothing about her goes on paper she hasn't read, and everything Pike says, she hears. He tells Pike so with Beth beside him: the witness has read the log and will read every entry. Pike: "Then it's Giglio, Deputy." "Yes, ma'am." She accepts him with all of it known, and on the record. **s4, THE ORDINARY SCENE (600).** Noon, the crew mess, the storm going over. She fries what's in the locker. He tells her about his mother's Christmas in Lowell: "The ham is eleven pounds, and there are three of us." / "That's not a reason. That's a load." Her father's worst joke. No case, no boat, no names. **s5 (600).** 3 p.m. The glass is rising, and the wind is going northwest with snow squalls behind it. Last night before the boats. The closings, quickly and on the page: no aircraft until first light (Dane on deck, one line from Pike); the fish house is out because of the tracks in the snow ("Anybody can walk it backward"); a locked room gets burned. Then who: she builds Tess's case out loud (the bag she seals, the EMD, the log, the float, the hundreds, the chowder). Dane: "The bag went through three pairs of hands." Beth: "Not Ned." Dane: "This isn't water." She names Teresa Marr to Pike. The bait is her decision; protection is voluntary, and he can only stay with her. She asks Ned, going ashore to supper as always, to send Russ along the riprap after dark |
-| **The turn** | Pike's answer, and her acceptance. Then her accusation of Tess |
-| **The longing** | In the mess she wants to put her hand on his strapped arm and doesn't. After the condition, she does |
+| **Purpose** | Repair beats 1–4 in order. Dane cleared. The false solution. The bait |
+| **Opens with** | 4 a.m. The wheelhouse, the storm on the glass, Ned's coffee at her hand |
+| **Key events** | **s1 (600).** Ned: "Where is he?" She won't say. "Good. Don't tell me." He tells her about her father on channel 9, thirty years of calls. A figure comes along the riprap under the pier in the dark, one arm held to his ribs. Ned goes out on the brow and stands in his way. **s2, ACCOUNTABILITY (600).** She lets Dane stand in the sleet until she decides. Then the crew mess, with Ned sent below. Dane names it without a reason in front of it: he investigated her, asked about her father to write it down, lied about the bar, slept with her and didn't tell her, and reported himself to Pike at four. Reasons only when she asks, and short. **s3, VERIFICATION and CONDITION (700).** On the seaward side of the deckhouse, out of the dragger's view (every daylight call from now on), she calls Pike herself and asks one question: what has he told you about where we slept? Pike: he has refused her the second location since Monday, and she has written him up. "You'll hear it from the defense. Hear it from me." The one place he kept from his own boss is the one place nobody came. **Condition:** nothing about her goes on paper she hasn't read, and everything Pike says, she hears. He tells Pike so, beside her. Pike: "Then it's Giglio, Deputy." "Yes, ma'am." She takes him back with all of it known. **s4, THE ORDINARY SCENE (550).** Noon, the crew mess, the storm going over. She fries what's in the locker. His mother's Christmas: "The ham is eleven pounds, and there are three of us." / "That's not a reason. That's a load." Her father's worst joke. No case, no boat, no names. **s5 (550).** 3 p.m. The glass rising, the wind northwest with squalls. Last night before the boats. The closings, a line each: no aircraft till first light; the fish house is out ("Anybody can walk it backward"); locked rooms get burned. Beth names the difference: "Tonight the stern's watched, I'm awake, and the outside ladder's my way down." Who: she builds Tess's case out loud (the light, the smoke, the county, the hundreds, the ring by the safe, the night fuel). Dane: "This isn't water." Beth: "Not Ned." She names Teresa Marr to Pike. The bait is hers to make. To Ned, going ashore to supper: send Russ along the riprap after dark, and "Not Tess. Not tonight." He promises |
+| **The turn** | Pike's answer, and her acceptance. Then the accusation |
+| **The longing** | The strapped arm she doesn't touch, then does |
 | **The laugh** | The ham |
-| **What changes** | Start: alone, sure it was him. End: with him again, eyes open; Tess named to the federal government; and Ned walking up the pier road with everything he needs to know |
+| **What changes** | Start: alone, sure it was him. End: with him, eyes open; Tess named; Ned walking up the pier road with everything |
 | **Chapter promise** | Will they come to the boat, and is it Tess? |
-| **Cost** | Her pride (she had to check him). Her oldest friend, named |
-| **Plants** | The tracks. The ham. "This isn't water." Russ sent by Ned |
+| **Cost** | Her pride; her oldest friend, named |
+| **Plants** | The tracks. The ham. "This isn't water." "Not Tess. Not tonight." |
 | **Ending** | **Open image.** Ned going up the pier road in the blue dusk with his supper bag, not looking back, and Beth watching him go to safety |
-| **Texture budget** | s3: the sat phone needs sky, once. s5: the forecast, once |
-| **Get right** | Giglio disclosure (v1 note 20). That an HSI request plus a supervisor's order produces this log (v1 note 19) |
+| **Texture budget** | s3: the sky, once. s5: the forecast, once |
+| **Get right** | Giglio (v1 note 20); the order (v1 note 19) |
 
 ## Chapter 09 — Car Deck, No Lights
 
 | Field | Content |
 |---|---|
-| **POV / days / words** | Beth (s1, s2, s4, s5); Dane (s3, ~600). Day 8, 5:30 p.m., to Day 9, about 1 a.m. 3,300 |
+| **POV / days / words** | Beth (s1, s2, s4, s5); Dane (s3, ~600). Day 8, 5:30 p.m., to Day 9, about 1 a.m. 3,200 |
 | **Register** | Tense |
-| **Purpose** | The bait, **the reveal** (~84%), the climax, the confession |
-| **Opens with** | The wheelhouse, 5:30. Beth's thumb on the mic as she turns the knob to 9, the old channel |
-| **Key events** | **s1 (400).** "Tess. It's me." She tells her own lie in her own voice: alone on the boat tonight; Dane down with the arm at Russ's; Ned at yours; don't send anybody. A pause too long. "Okay, Bethie." **s2 (350).** Russ comes up the seaward ladder off the riprap: "Ned says you need a constable. I said I'd look for one." Positions: Dane in the dark alley between the propane truck and the box truck; Russ at the gangway; Beth lit in the wheelhouse, door locked, the floods' breakers under her hand. **s3, Dane (600).** Between the trucks, his arm useless, the cold coming up through his boots. The first time inside his head, and he is thinking about her, the deck she drew him on a paper towel, and Marisol. He would still put Haskell on the list, and it settles nothing. Far out, an outboard cuts off, and then there's the knock of a paddle on aluminum. **s4, the reveal and the fight (1,300).** 11:02, channel 9: "Bethie. Water side." It is Ned's voice. A scrape, a woman's shout, and dead air. *Red's the boat's*, once, and she knows. She sends Russ to the store: "Get Tess." She says her reason to the dark ("Lit, they see him. Dark, nobody sees, and I don't need to") and kills the floods. She smells gasoline at the stern. The chains ring where Dane has gone down, fouled one-armed. She pulls her boots off and goes down the inside companionway, socks on steel, across a deck she knows by feel and Doucette doesn't. She puts her shoulder into his hip at the low transom, and he goes over into 48°F water. She has the ring buoy in the water inside the first minute and talks him in while he can still grip. Dane cuffs him at the quarter under a blanket. Dane's second swear of the book. **s5, the store (650).** Russ has Arsenault face down by the stove. Tess has a split lip and won't look at anyone. Ned is on the bench with his hearing aid in his hand. His confession, ten lines at most, to Beth's face: the bag, Arsenault's cash, and one of his own red tags ("A bought witness doesn't get hurt"); two days holding Ashby; "You asked me about the float"; his key to the timer box; the stern, the ladder, the paint locker under her; then the boy sent with gas. "Me and God. And him." |
-| **The turn** | Ned's voice on 9 |
-| **The longing** | Dane's section. After, her bare hands on his face in the dark, checking him the way she'd check a binder |
-| **The laugh** | Russ's line at the ladder. Grim, and enough |
-| **What changes** | Start: bait, sure of the wrong person. End: the island arm of the network finished, the leak named in his own voice, and the man who taught her the boat in handcuffs |
+| **Purpose** | The bait, **the reveal** (~83%), the climax, the confession |
+| **Opens with** | 5:30. Beth's thumb on the mic as she turns the knob to nine |
+| **Key events** | **s1 (400).** "Tess. It's me." Alone on the boat tonight; Dane down with the arm at Russ's; Ned at yours; don't send anybody. A pause too long. "Okay, Bethie." **s2 (300).** Russ up the seaward ladder off the riprap: "Ned says you need a constable. I said I'd look for one." Positions: Dane in the dark alley between the propane truck and the box truck; Russ at the gangway; Beth lit in the wheelhouse. **s3, Dane (600).** Between the trucks, his arm useless. He thinks about her, the deck she drew him on a paper towel, his father, and Marisol. He'd still put Haskell on the list, and it settles nothing. Far out, an outboard cuts off, then the knock of a paddle. **s4 (1,250).** 11:02, channel 9: "Bethie. Water side." Ned's voice. A scrape, a woman's shout, dead air. *Red's the boat's*, once. She sends Russ to the store: "Get Tess." Her reason to the dark, and the floods go off. Gasoline at the stern. The chains ring where Dane has gone down, fouled. Boots off, down the inside companionway, socks on steel. Her shoulder into Doucette's hip at the low transom, and he goes over. The ring buoy in the water inside the first minute; she talks him in. Dane cuffs him under a blanket and swears, the second time in the book. **s5, the store (650).** Russ has Arsenault face down by the stove. Tess has a split lip and won't look at anyone. Ned is on the bench with his hearing aid in his hand. The confession, ten lines at most, to Beth's face: "I thought it was shorts." The envelope and his own red tag. "He said they wanted to talk to you about the money." His phone from the back step to the dragger's sat phone. Two days holding Ashby, then noon on Monday and the impeller. "You asked me about the tide." The key to the box. "I knew where you'd go. I never told them that." The stern, then the boy with the gas. "Me and God. And him." |
+| **The turn** | Ned's voice on nine |
+| **The longing** | Dane's section. Her bare hands on his face in the dark, checking him like a binder |
+| **The laugh** | Russ at the ladder |
+| **What changes** | Start: bait, sure of the wrong person. End: the island arm finished, the leak named in his own voice, and her father-in-all-but-name in handcuffs |
 | **Chapter promise** | What's left of her island, and of them? |
 | **Cost** | Ned, and nearly her life |
-| **Plants** | Paid: the deck, the stern, channel 9, steel doesn't burn, red's the boat's, the timer, "me and God," the float |
+| **Plants** | All paid |
 | **Ending** | **Consequence.** Ned holds out his wrists to Russ before Russ asks |
-| **Texture budget** | s4 set piece: the breakers, the quarter ladder, the ring buoy (cap six) |
-| **Get right** | Profanity is banned on VHF (Ned's warning is clean). The 1-10-1 rule for Doucette |
+| **Texture budget** | s4 set piece (cap six) |
+| **Get right** | No profanity on VHF; the 1-10-1 rule; a cell-to-Iridium call |
 
 ## Chapter 10 — First Boat
 
 | Field | Content |
 |---|---|
-| **POV / days / words** | Beth (s1–s4); Dane (s5). Day 9, Saturday, to Day 11, Monday; then Friday, December 18. 3,300 |
+| **POV / days / words** | Beth (s1–s4); Dane (s5). Day 9 to Day 11; Friday, December 18. 3,100 |
 | **Register** | Warm, with comedy under it |
 | **Purpose** | The cost counted; the third scene and the declaration; the wheel; the testimony; the HEA; the Book 2 hook |
-| **Opens with** | Noon, Day 9. A Marine Patrol boat, a Coast Guard boat and the state barge's tug come into a harbor gone flat and bright. HSI Special Agent Nora Quist steps onto the float green with seasickness |
-| **Key events** | **s1, the float (750).** Relief deputies take over, and Dane is relieved on the float. Ned goes down to the patrol boat in cuffs. To Beth, the only thing he asks: "Inspector's walked her. Take her across tomorrow." Quist interviews Tess as a suspect on Beth's word. Tess, to Beth: "You put my name in." "Yes." Then, flat: "I sold you condoms." Tess goes up to the store and comes back down with a gallon freezer bag from under the back-office floor, her own night-fuel ledger (two years, three harbors, one buyer), and puts it in Quist's hands herself. She doesn't look at Beth. Russ offers Quist a bait bucket for the seasickness; she takes it, and his name. **s2, Beth's cottage, Day 9 night: intimate scene 3 and THE DECLARATION (950).** Nothing hidden. She leads; his arm. Grief for Ned in it, and Tess, and the fact that a stranger will ask her about this on Monday and she will say yes. Beth says it first, in her own register, as a fact she has checked. He answers his way: few words, the important one last. **s3, Day 10 (450).** The first boat. Beth at the wheel of the *North Reach* on her unused license, Kenny on the bow line, and the island on the passenger deck, but not Tess. Dane rides as a passenger beside relief deputies and doesn't touch her in front of them. She brings the boat into Pruett herself. **s4, Day 11 (300).** The grand jury room in Portland. One question from Moreau about Deputy Reyes, and one answer: "Yes. He told me you'd ask. He wanted you to hear it from me first." **s5, Friday, December 18, Dane's POV, the HEA (850).** The Friday night freight run at the island slip, sleet coming in sideways. Dane is transferred to Portland, back from a suspension, and in the right boots. He watches Beth go down the line of trucks with her gloves off, reading binders by feel. His mother has bought a bigger ham. On the float, Quist hands Russ a photocopy of the Marr ledger and asks him onto the task force: three harbors, one account. Russ: "I'll have my traps out by Tuesday." That is the Book 2 hook, stated plainly. Beth's hand finds Dane's on a binder handle and puts it right |
-| **The turn** | She takes the wheel because the man who should be at it is in a cell. Her declaration |
-| **The longing** | The third scene. The wheelhouse, where they don't touch. The binder |
-| **The laugh** | Quist and the bucket. The ham, called back and turned around: "It's a load." |
-| **What changes** | Start: the threat over and everything it cost still on the float. End: her name cleared under oath, the wheel hers, Tess gone from her, and him on her deck by choice |
+| **Opens with** | 8 a.m., Day 9. A Marine Patrol boat, a Coast Guard boat and the barge's tug in a harbor gone flat and bright. HSI Special Agent Nora Quist steps onto the float green with seasickness |
+| **Key events** | **s1 (700).** Dane is relieved on the float. Ned goes down to the patrol boat in cuffs: "Inspector's walked her. Take her across tomorrow." Quist interviews Tess as a suspect on Beth's word. As emergency management director, Tess kept the county's call to herself ("It wasn't mine to tell"). Tess to Beth: "You put my name in." "Yes." Then, flat: "I sold you condoms." She brings her night-fuel ledger up from under the back-office floor in a freezer bag and puts it in Quist's hands herself. She doesn't look at Beth. Russ offers Quist a bait bucket for the seasickness; she takes it, and his name. **s2, intimate scene 3 and THE DECLARATION (950).** The cottage, Day 9 night, nothing hidden. She leads; his arm. Ned, Tess, and Monday all in it. Beth says it first, as a fact she has checked. He answers his way, the important word last. **s3, Day 10 (450).** Beth at the wheel of the *North Reach* on her license, Kenny on the bow line, the island on the passenger deck, but not Tess. Dane rides as a passenger beside relief deputies and doesn't touch her. She brings the boat into Pruett herself. **s4, Day 11 (250).** The grand jury room. One question from Moreau about Deputy Reyes, and one answer: "Yes. He told me you'd ask. He wanted you to hear it from me first." **s5, Friday, December 18, Dane's POV, the HEA (750).** The Friday freight run, sleet sideways. Dane is transferred to Portland, back from suspension, in the right boots. His father, retired, is a passenger, telling the whole deck everything. Dane watches Beth go down the trucks with her gloves off reading binders, the book's first image seen by him. His mother has bought a bigger ham. On the float, Quist hands Russ a photocopy of the Marr ledger and asks him onto the task force: three harbors, one account. Russ: "I'll have my traps out by Tuesday." That is the Book 2 hook, stated plainly. Beth's hand finds Dane's on a binder handle and puts it right |
+| **The turn** | She takes the wheel because the man who should be at it is in a cell. The declaration |
+| **The longing** | The third scene; the wheelhouse where they don't touch; the binder |
+| **The laugh** | Quist and the bucket. His father on the deck. The ham, turned around: "It's a load." |
+| **What changes** | Start: the threat over and everything it cost still on the float. End: her name cleared under oath, the wheel hers, Tess gone from her, and him on her deck with his father |
 | **Chapter promise** | Resolved. **Book 2: Russ Whitcomb and Nora Quist, and the Marr ledger** |
-| **Cost** | Tess, permanently in this book. Her privacy, under oath. The wheel, earned the worst way |
-| **Plants** | Paid: the inspection, ten days, the license, the subpoena, the ham, the condoms, the binders (the book's first image, seen by him) |
+| **Cost** | Tess; her privacy under oath; the wheel, earned the worst way |
 | **Ending** | **Open image.** The ramp coming up under the sodium lights, her hand still on his. The last line is an action |
-| **Texture budget** | s3: the inspector's limit (passengers, the gangway), once. s4: the grand jury room, one fact |
-| **Get right** | Master's license tonnage for a 128-foot ferry (Open for the author, 8). Coast Guard clearance after a casualty repair |
+| **Texture budget** | s3: the inspector's limit, once |
+| **Get right** | License tonnage (Open 8) |
 
 ---
 
 ## Pacing flags
 
-- **Repair starts about four points early.** The rupture lands at ~66%, so accountability falls at ~71% against the map's 75–88%. The four beats are in order and the ordinary beat sits at ~75%. If the plot auditor wants the map's window, give Ch 7 another 300 words (in s5, the night walk) and take them from Ch 4 s1.
-- **Ch 6 carries three days and two set pieces** (the counter and the second scene) inside 2,900 words. s1 and s5 must stay short. If it runs long, move the fuel-log reading into Ch 5 s1 (Tess's visit) rather than cutting the counter.
-- **Ch 8 has the most talk.** Each beat is a confrontation or a choice, not an explanation, and the closings in s5 are a sentence each. The v1 pull curve dropped to 5 here because of three relayed reports. There are none now: Beth's call to Pike is hers and on the page, and the aircraft answer is one line.
-- **Ch 10 carries four time jumps.** Each is a scene with an anchor. s4 is the shortest scene in the book on purpose.
-- **Ch 9 s3 (Dane's POV)** must not settle the leak. He doesn't know, and that is why it is safe.
-- **Act 1 at 19.3%.** The writer misses targets by about 10%. If Ch 1–2 run over, cut Ch 2 s1 (the house), not the bridge.
+- **Repair at ~72%,** about three points before the map's window, though the beats are in order and the ordinary scene is at ~76%. Any further shift would need Ch 7 to run past 3,300 or Ch 1–6 to shrink, and both cost the sample or the midpoint. Left for the plot auditor to accept or send back.
+- **Ch 6 carries three days, a confession and a scene.** s1 and s5 stay under 300 words. If it runs long, the fuel log moves to Ch 5 s1.
+- **Ch 8 has the most talk.** Each beat is a confrontation or a choice, and the closings are a line each.
+- **Ch 9 s5's confession** is at its ten-line cap with nine items. If any item needs a second line, the impeller and the timer key go to Ch 10 s1 in Ned's police statement as Quist reads it, one sentence.
+- **Ch 1 s2 holds the meet, the fight, the jump and the first charged beat** in 1,000 words. It is the most important scene in the sample. If it runs long, cut s3, not s2.
+- **Act 1 at 19.3%.** If Ch 1–2 run over, cut Ch 2 s1, not the bridge or the blanket.
 
 ---
 
 ## Changes from v1 the bible must absorb
 
-1. The leak is Ned; Tess is guilty of night fuel only. Rewrite both character entries and the "what they know" timelines from the table above.
-2. Bag routine: Tess seals at six, Ned carries, wheelhouse locker overnight, Beth hands off at Pruett on the morning boat. Seal colors: store yellow, district red.
-3. The *North Reach*'s casualty: bridge onto the bow, ramp jammed, forepeak cracked, pumps, no passengers until inspection; inspector on Day 9; passengers-only via gangway from Day 10.
-4. Beth works the Day 1 morning boat; Dane meets her at Pruett. The trooper callback is cut.
-5. Channel 9 is the old channel for Ned, Hollis and Tess's generation, not Beth and Tess's alone.
-6. Heat scene 3 is in Ch 10 (the cottage, Day 9 night); scene 1 is hands and mouths; scene 2 uses the condoms from Day 5.
+1. Ned is the leak; Tess is guilty of night fuel only. The reefer is something Ned believed was shorts.
+2. The bag routine: envelopes with slips inside; Tess seals with yellow, the district uses red, both off-the-shelf; Ned carries the bag; it rides in the wheelhouse overnight; the courier's pouch at Pruett.
+3. The casualty: forepeak, pumps, the inspector on Day 9, passengers via gangway from Day 10.
+4. Ch 1: the morning boat, the fight, the jump. Dane's father Rafael and his last route.
+5. Channel 9 is the old channel for Ned, Hollis and Tess's generation.
+6. Heat scene 3 is in Ch 10; scene 1 is hands and mouths; scene 2 uses the condoms.
 7. POV: no Dane until Ch 9 s3.
-8. The Day 1 night plan: the ferry, then the cottage in the dark. The fish house is still never told to anyone, and Dane refuses it to Pike.
-9. Doucette's plan on Day 8 is fire. "Steel doesn't burn. Everything in it does."
-10. v1 World rules that name Tess as the leak, the 3 p.m. roll, Pike's authorization of bait, and Russ's clearing are retired.
+8. The *Margaret Ann* carries an Iridium. The town ring hangs by Tess's safe. Ned starts Ashby's generator every storm. The fish house floods on surge tides.
+9. Quist's decision to leave the boat; Russ told to stay off.
+10. The second system arrives mid-morning on Day 7. Relief arrives at 8 a.m. on Day 9.
+11. Retired: Tess as the leak, the 3 p.m. roll, Pike authorizing bait, Russ as a suspect.
 
 ---
 
 ## Open for the author (author decisions)
 
-Each item is closed in the outline but needs the author's yes, because it changes a v1 approval or makes a call with no single right answer.
-
-1. **The leak is Ned Haskell, not Tess Marr.** This reverses v1 approval 5 and the v1 premise as built. Ned framed Beth on Day 0 to save his license and the boat, and was owned after that. Tess is guilty only of night fuel for cash. **Default: Ned.** Alternative: keep Tess as the leak with Ned as the red herring. The seal clue would flip (a yellow tag points at the store), but the reader-guess problem of v1 returns, because Tess carries every surface clue.
-2. **POV: Beth only until Ch 9 s3.** One Dane section mid-climax and the HEA in his POV. **Default: yes.** Alternative: add a short Dane section in Ch 8 after Pike's answer.
-3. **Ch 1 is restructured around the Day 1 morning boat.** Beth is working it, Dane meets her on the Pruett ramp, and she refuses his car because protection is voluntary and the boat can't sail short-handed. **Default: yes.** Domain-checker must confirm that protective services for a pre-WITSEC witness are voluntary, and the minimum manning that makes Kenny's absence matter.
-4. **The reason nobody leaves: casualty damage plus inspection.** **Default: yes.** Domain-checker must confirm that a damaged inspected passenger vessel does not carry passengers until a Coast Guard inspector has seen her, and that a temporary repair can be cleared on Day 9 for gangway loading.
-5. **Three intimate scenes, the third in Ch 10, with the declaration inside it.** **Default: yes.** Alternative: the third moves to Ch 8 after the condition (v1's original placement), which crowds the repair chapter.
-6. **Beth names Tess to Pike, and Tess does not forgive her in this book.** **Default: yes.** Alternative: one line of thaw in the HEA scene (Tess on the float in December, not speaking, but there).
-7. **Ned's end.** Arrested and charged. The warning is his only act for her; no visit, no letter. **Default: yes.**
-8. **Beth takes the wheel on Day 10.** v1 gave her a 100-ton master's license. A 128-foot ferry is probably over 100 gross tons. **Default:** the bible gives her a license that covers the *North Reach* (domain-checker sets the tonnage and route; Maine Maritime plus eleven years' sea time makes a larger license plausible). Fallback: a relief master comes on the barge and Beth stands mate. The wheel payoff weakens.
-9. **The HEA is Friday, December 18, on the Friday freight run, in Dane's POV, with Dane transferred to Portland.** v1's coda was December 11. **Default: yes** (the week before Christmas pays off the ham).
-10. **Doucette's plan is fire (gasoline over the stern).** That is why the locked wheelhouse is not safe and why Ned breaks. **Default: yes.**
-11. **The bait is Beth's own act.** Pike never authorizes it; she orders Dane to hold the witness in the most defensible place, which is the ferry. **Default: yes.**
-12. **Fentanyl, the content note, Russ and Quist as Book 2's couple, and the Marr ledger as Book 2's case** carry over from v1. **Default: yes.** The content note adds the arrest of a trusted friend, and the line "Nobody you're asked to love dies" still holds.
-13. **Working chapter titles** are open. Ch 6 *Good Till August* and Ch 8 *Not Water* are new.
+1. **The leak is Ned Haskell, not Tess Marr.** Reverses v1 approval 5. Revision 2 rebalances the clues so Tess carries more independent access and Ned has an alibi. **Default: Ned.** Alternative: Tess as the leak, with the clue flipped.
+2. **Dane's want: his father's last bus run, and the son who doesn't show up.** It adds Rafael Reyes, a retired Lowell bus driver, as a walk-on in the HEA. The v1 bible gave Dane a Puerto Rican father who drove a city bus; this builds on it. **Default: yes.** The author may want to choose the hero's family personally (v1 bible open question 5).
+3. **POV: Beth only until Ch 9 s3.** **Default: yes.**
+4. **The Ch 1 fight ends with Beth casting off and Dane jumping.** He chooses to go back with her; no rule settles it. **Default: yes.** The domain-checker must still confirm minimum manning, and that a deputy can't compel a non-custodial witness (it's true, and now unspoken).
+5. **The reason nobody leaves: casualty damage plus inspection; no non-SAR Coast Guard flights.** **Default: yes, pending the domain check.**
+6. **The money mechanism: cash added to Beth's envelope, no writing; the credit union credits the count and flags it.** **Default: yes, pending the domain check** (a credit union's practice on a bag envelope that holds more than its slip).
+7. **Quist's call to leave the dragger alone** as an off-page federal condemnable choice. **Default: yes.**
+8. **Beth takes the wheel on Day 10.** A 128-foot ferry is probably over 100 gross tons. **Default:** the bible gives her a license that covers the *North Reach*. Fallback: a relief master; Beth stands mate.
+9. **Three intimate scenes, the third in Ch 10 with the declaration.** **Default: yes.**
+10. **Tess does not forgive Beth in this book.** **Default: yes.** Alternative: one silent beat on the float in the HEA.
+11. **The HEA: Friday, December 18, the freight run, Dane's POV, his father aboard.** **Default: yes.**
+12. **Doucette's plan is fire; the bait is Beth's own act.** **Default: yes.**
+13. **Carry-overs:** fentanyl, the content note (add the arrest of a trusted friend), Russ and Quist as Book 2's couple, the Marr ledger as its case. **Default: yes.**
+14. **Chapter titles** are working titles.
