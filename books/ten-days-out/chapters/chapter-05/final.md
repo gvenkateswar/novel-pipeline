@@ -1,6 +1,6 @@
 # Chapter Five: Half Tide
 
-Her jeans hung steaming on the stove rail, soaked to the thigh by the squall that had caught her on the shore at first light, and the wet wool cooked. Beth sat in Dane's fleece with the sleeves down past her hands and her bare feet on the oven door. The heat came back into her legs from the outside in, shins first, thighs last. Dane crouched at the firebox in a summer family's kitchen with his sleeves shoved up and fed it one split, then another. The firelight came up under his forearms. She let herself look.
+Her jeans hung steaming on the stove rail, and the wet wool cooked. They hadn't run the set. They'd slept in their coats. At first light she'd been caught in the squall on the shore, soaked to the thigh in the rain coming sideways. Beth sat in Dane's fleece with the sleeves down past her hands and her bare feet on the oven door. The heat came back into her legs from the outside in, shins first, thighs last. Dane crouched at the firebox in a summer family's kitchen with his sleeves shoved up and fed it one split, then another. The firelight came up under his forearms. She let herself look.
 
 Between squalls the Monday air had gone dead. She put her cheek to a gap in the sheet over the window. Off the roof the smoke stood straight up in one gray stalk the whole island could read.
 
@@ -32,7 +32,7 @@ Beth came out onto the porch.
 
 A second pot rode on the seat beside her book and two folded blankets.
 
-"Second pot's Ned Haskell's. His phone lives on my shelf at the store, because the booster's there and past the dock a cell phone's a brick, and does he come up for it?" She set the first pot on the porch rail. "He hasn't come off that boat since he hauled two cans of diesel up the north road. I carry it down."
+"Second pot's Ned Haskell's. His phone lives on my shelf at the store, because the booster's there and past the dock a cell phone's a brick, and does he come up for it?" She set the first pot on the porch rail. "He's been aboard that boat since he hauled two cans up the north road, near enough. I carry it down."
 
 Dane's phone talked to the sky and nothing else. Beth kept her eyes on the pot.
 
@@ -72,7 +72,7 @@ The truck went back up the drive and over the spine. Beth kept the shape of it a
 
 Inside, Dane set the pot on the stove. "She knows. We move."
 
-"Sill's out of the water at the fish house. I looked. Bar's knee-deep at half tide, and half tide's twenty to eleven. Ninety seconds across, if we don't stop. We go then."
+"Sill's out of the water at the fish house. I looked. Should be knee-deep at half tide, and half tide's twenty to eleven. Ninety seconds across, if we don't stop. We go then."
 
 She shut the stove's damper hard and raked the ash up over the coals. Over the roof the smoke thinned, leaned, and went to nothing much.
 
@@ -108,7 +108,7 @@ He came away from the window and took his jacket off the chair.
 
 Out the back. Down onto the ledge below the house and along the shore path in the rock's shadow, a bag on each of their shoulders. The ledge stood between them and the fire, so the glow went up into the sky and left the water black. Behind them something in the shed went with a bang. Beth didn't turn round.
 
-The bar ran out from the foot of the ledge into the dark. "Behind me," she said. "Feet where mine go." She went in without stopping. The flood came over the tops of her boots and filled them. Knee-deep. She had walked this bar dry since she was six and never once with water on it. Somewhere on her left was the gut, where the bottom went. His belt in her fist. Dane behind her, his feet going where hers went. The bags rode high, clear of the wet.
+The bar ran out from the foot of the ledge into the dark. "Behind me," she said. "Feet where mine go." She went in without stopping. The flood came over the tops of her boots and filled them. Knee-deep. She had walked the dry top of this bar since she was six. The seaward lip never came out of the water, and she had never once felt it. Somewhere on her left was the gut, where the bottom went. His belt in her fist. Dane behind her, his feet going where hers went. The bags rode high, clear of the wet.
 
 He didn't talk. Nobody had told him to. It was the first time she'd known him quiet with something burning at his back.
 
