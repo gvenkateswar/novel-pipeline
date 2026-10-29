@@ -216,7 +216,7 @@ She was wet, and he found it out with his tongue. The sound he made was low and 
 
 "Don't stop," she said. Then: "There. Stay there."
 
-He stayed. His tongue went slow on her clit, and then less slow. The red tag on his wrist dragged across her belly where his hand lay. Across the cove Ashby's fire put a dull red in the window. The stove ticked. The cove hit the ledge and drew off. Her heel went hard into his back. She came with her hand over her own mouth. Then she took the hand away, because there was no one in the world to hear her out here, and let the sound go.
+He stayed. His mouth went slow on her, and then less slow. The red tag on his wrist dragged across her belly where his hand lay. Across the cove Ashby's fire put a dull red in the window. The stove ticked. The cove hit the ledge and drew off. Her heel went hard into his back. She came with her hand over her own mouth. Then she took the hand away, because there was no one in the world to hear her out here, and let the sound go.
 
 He came up the cot to her. She pulled him down alongside her and got her hand round him again.
 
