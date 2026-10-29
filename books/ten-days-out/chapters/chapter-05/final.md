@@ -118,7 +118,7 @@ It caught on the first match. The kindling went up with a small fierce sound, an
 
 She lit the lantern from a sliver out of the stove and turned it low.
 
-They got their boots off sitting on the planks by the stove. Hers had filled at the bar and came off with a suck, and she tipped the cove out of them at the door. Then the wool, wrung and hung on the wire along the stovepipe, where it steamed at once. They didn't talk. It was work. Dane wrung his second sock out over the coal hod and kept on wringing it, and when she looked over he opened it and peered inside, as if there might be a fish.
+They got their boots off sitting on the planks by the stove. Hers had filled at the bar and came off with a suck, and she tipped the cove out of them at the door. Then the wool, wrung and hung on the wire along the stovepipe, where it steamed at once. They worked without talking. Dane wrung his second sock out over the coal hod and kept on wringing it, and when she looked over he opened it and peered inside, as if there might be a fish.
 
 On the shelf over the bench her father's red Pelican case sat where it had always sat, square in the lantern light.
 

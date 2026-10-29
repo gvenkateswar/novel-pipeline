@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–05, 14,780 words)
+# Audit — ten-days-out (chapters 01–05, 14,778 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -188,7 +188,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 02 | 2,820 | 15.5 | 10.4 | 17% | 0.0 | 0.0 | 0.7 | 3 | short |
 | 03 | 2,607 | 16.2 | 11.9 | 19% | 0.0 | 0.0 | 0.0 | 2 | short |
 | 04 | 2,796 | 13.6 | 11.5 | 26% | 0.0 | 0.0 | 0.0 | 3 | short |
-| 05 | 3,454 | 15.2 | 13.1 | 22% | 0.0 | 0.6 | 0.0 | 3 | short |
+| 05 | 3,452 | 15.3 | 13.1 | 21% | 0.0 | 0.6 | 0.0 | 3 | short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -227,7 +227,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | the kind of ... that | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 2/ch |  |
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
-| contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 0 | 0 | 2 | 2 | 0.1 | 0.0/1k | FLAG |
+| contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 0 | 0 | 1 | 1 | 0.1 | 0.0/1k | FLAG |
 | sentence-initial And/But/And yet | 1 | 0 | 2 | 1 | 1 | 5 | 0.3 | 3.0/1k |  |
 | em dashes | 1 | 1 | 2 | 1 | 1 | 6 | 0.4 | 2.0/1k |  |
 | semicolons | 0 | 3 | 1 | 0 | 0 | 4 | 0.3 | 2.0/1k |  |

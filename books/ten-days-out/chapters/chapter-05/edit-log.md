@@ -20,3 +20,4 @@ Flags for the orchestrator (not fixed, outside voice scope):
 - Continuity: S1 has the red tag knotted over the cuff of the fleece Beth is wearing, and S4 says Dane slid it off the cuff "when she gave him back the fleece." Consistent, but the hand-off is not on the page.
 - Dane's "I'd like ..." phrasing appears in his Monday speech. It is not on the banned list and matches his formal register, so kept.
 - The Pelican case on the shelf (S4) is a new object with no payoff in this chapter. Plant ledger lists "the red kit" as Dane's trauma kit; check that the continuity log does not conflate the two.
+- Orchestrator: 'They didn't talk. It was work.' → 'They worked without talking.' (audit contrast flag; the second hit, 'didn't… He was hard', is a false positive).
