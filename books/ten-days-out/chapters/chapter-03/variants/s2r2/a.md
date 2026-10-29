@@ -33,7 +33,7 @@ Over Tess's shoulder, through the office curtain and the back window, a man in a
 
 "Russ. Stay on her," Dane said, and he was through the curtain.
 
-Beth got as far as the back step, Russ at her shoulder in the generator's roar. Below, the shore fell away to the fish houses on their tarred posts, the top of the tide in among them. The hood went down the lane between two of them, sure of every plank. Dane went in after him running, and past the end of the lane the sea heaped up green on the ledge.
+Beth got as far as the back step, Russ at her shoulder in the generator's roar. Below, the top of the tide was in among the fish houses. The hood went down the lane between two of them, sure of every plank. Dane went in after him running, and past the end of the lane the sea heaped up green on the ledge.
 
 "Sea coming," Beth called down the slope. "Stand still."
 
@@ -75,7 +75,7 @@ Beth put her palm flat on the log, over the night's column. With her other hand 
 
 He handed her the milk. Tess rang it up.
 
-Beth and Dane went out the front together, the bell behind them, and round to the side wall out of the wind. Russ stayed in. Ned stood there with an urn cup steaming, and Dane kept the corner, where he could see her and the moorings.
+Beth and Dane went out the front and round to the side wall. Russ stayed in. Ned stood there with an urn cup steaming, and Dane kept the corner, where he could see her and the moorings.
 
 "I need the Ashby key, Ned," Beth said.
 
