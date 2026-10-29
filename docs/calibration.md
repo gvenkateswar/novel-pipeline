@@ -9,6 +9,7 @@ Every real human verdict on text this pipeline produced, with the text it was ab
 | A1 | *The Last Frame* v1, Ch 01–03 (`books/the-last-frame/chapters-v1/chapter-0{1,2,3}/final.md`) | the author | Speechify, text-to-speech | **Stop at 29%.** "So boring, really boring." Later: "excruciating." | Oct 27 |
 | A2 | *Ten Days Out*, full manuscript (`books/ten-days-out/manuscript.md`) | the author | listened | **Excruciatingly boring.** | Oct 27 |
 | A3 | *The Last Frame* v2, Ch 01 (`books/the-last-frame/chapters/chapter-01/final.md`) | the author | read | **Keep going.** "Already better, more interesting than the last one," "still better" at the end. No drift through the two passages the simulated readers had flagged. | Oct 28 |
+| A5 | *The Last Frame* v2, Ch 01–03 sample with the tournament Ch 02 (`books/the-last-frame/chapters/chapter-0{1,2,3}/final.md`, Oct 28 evening) | the author | veto-window send, Oct 28 late | **Open.** Sent; no verdict yet. | Oct 28 |
 | A4 | *The Last Frame* v2, Ch 01–03 sample (`books/the-last-frame/chapters/chapter-0{1,2,3}/final.md`, the pre-tournament Ch 02) | the author | read, other session | **Keep going, mildly.** "The writing is generally more interesting than previously." No stop line given. The sample reader had failed the same text (3.42; Ch 2 scene 3 at 2). | Oct 28 |
 
 ## What the simulated readers said about the same texts
@@ -19,6 +20,9 @@ Every real human verdict on text this pipeline produced, with the text it was ab
 | A2 | Finished, buy yes, pull 7/10 | — | — | 8/10 |
 | A3 | — | Pull 3.25 (gate FAIL) | 5/10 | — |
 | A4 | — | Pull 3.42, buy yes, one scene at 2 (gate FAIL) | Ch 02: 5/10 | — |
+| A5 (pending) | — | Pull 3.33, buy no, no scene under 3, Ch 02 scenes 3/3/3/4 (gate FAIL) | Ch 02: 5/10, "I'd keep reading, but…" | — |
+
+Reading on A5: the sample reader scored Ch 01 and Ch 03, unchanged text the author passed in A3 and A4, exactly as before, and scored the new Ch 02 with no scene under 3 where the old one had a 2. Its sample fail (3.33) is therefore the same fail it gave A3 and A4, on text the author liked. Logged, not acted on (CLAUDE.md pull-gate exception). The author's verdict on the send decides.
 
 Reading: the v1 readers were too kind by a wide margin (A1, A2). The calibrated v2 reader is now too harsh on at least one chapter (A3: failed what the author liked). Neither direction is usable as a gate alone. The judge panel is scored against this table.
 
