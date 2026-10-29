@@ -220,7 +220,7 @@ def main():
             w = len(words(sc)); present = []
             for g, pat in groups.items():
                 c = count(pat, sc)
-                if per_k(c, w) >= 3 or c >= 4: present.append(f"{g}({c})")
+                if (c >= 3 and per_k(c, w) >= 3) or c >= 4: present.append(f"{g}({c})")
             if len(present) >= 3: P(f"- Ch {n} scene {i} ({w} words): FLAG {', '.join(present)}")
     P("")
     text = "\n".join(out)

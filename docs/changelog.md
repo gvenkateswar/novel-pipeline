@@ -10,6 +10,8 @@ The pipeline's own history. A lesson learned on a book is committed here and to 
 
 **First results.** Judges on the calibration pair (v1 Ch 01, which bored the author, against v2 Ch 01, which he liked): 6 of 6 agreed with him, and all six named the same stop line. First tournament, *The Last Frame* Ch 02: three variants were close (7–6–5, mostly medium confidence), and the winner then beat the pre-tournament chapter 6–0 at high confidence. All six judges named the same line where the old chapter lost them, the same passage the sample reader had scored 2. Two things to carry forward: comparison works where scoring did not, and the beat change (keep the couple in the room, never recite the contract) did more than any lead instruction. Skimmer judges and craft judges pull in opposite directions (skimmers punish long interior paragraphs; craft judges reward distinct voices), so neither persona alone should decide.
 
+**Audit tool fixes (same evening).** Three bugs found when the audit ran on the tournament winner: the bible's motif patterns are written in backticks and the tool was matching the backticks (every motif count had been zero since v2); the escaped scene break `\* \* \*` was not recognized, so every chapter counted as one scene and the cluster check never fired; and once scenes split correctly, the cluster check flagged any group with two hits in a short scene. Now: backticks stripped, escaped breaks recognized, a group needs at least three hits to count toward a cluster. Audits run before this on v2 chapters under-reported; the next full run covers them.
+
 ## 2026-10-28 — Version 2: the combined repo and the rebuilt system
 
 ### What happened

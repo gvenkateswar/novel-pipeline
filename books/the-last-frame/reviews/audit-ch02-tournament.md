@@ -153,4 +153,3 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
-- Ch 02 scene 1 (618 words): FLAG similes(3), body(2), explain(2)
