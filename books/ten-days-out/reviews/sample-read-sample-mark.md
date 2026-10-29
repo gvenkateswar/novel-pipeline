@@ -1,62 +1,66 @@
-# Sample read — sample mark (Chapters 1–3)
+# Sample read: sample mark (Ch 1–3)
 
-**Draft read:** `manuscript.md`, third draft, Oct 27, 2026. Chapters 1–3 only (Ch 1 "Night Freight", Ch 2 "The Weather Hold", Ch 3 "The Check-In Log"), about 9,700 words, roughly the first 28% of the book.
+**Draft read:** v2 rebuild, Oct 29, 2026. `chapters/chapter-01/final.md`, `chapters/chapter-02/final.md`, `chapters/chapter-03/final.md`, read in that order. No other files opened.
 
-**Persona:** KU reader of open-door romantic suspense, 35–55, reads on her phone in bed, three or four of these a month. Reads for the couple and the danger in equal parts. Abandons a sample when the heat is all hints or the setup runs long. Tired of heroines with no job, instant love, generic small towns, books that read like they were written to a list.
+**Persona:** KU reader, 35–55, reads on her phone, three or four books a month. Reads open-door romantic suspense for the couple and the danger equally. Quits when the heat is all hints or the setup runs long. Has been bored by two books like this before.
+
+**WARNING, above the score: "I'd keep reading, but…"** I finished, but I skimmed three scenes. The scene average is 3.15, below 3.5, and three scenes score 2. Two scenes carried me: the kitchen-floor night at the end of Ch 2 and the shed at the end of Ch 3. Without those two I'd have quit in the Ch 3 store.
 
 ---
 
 ## 1. Where I stopped
 
-Finished the sample.
+Finished the sample. I nearly quit at about 78%, in the Ch 3 store, around "Behind the counter the curtain to Tess's office hung half open, and Beth knew what was in there the way she knew boats…" By that point I'd had three chapters of dense boat talk and a crowd of islanders I couldn't tell apart, and I was reading for the plot, not for the page.
 
-I'd keep reading, but at 28% the heat is one breath at her temple in a generator shed, and if the next chapter doesn't pay that off I'm gone.
+## 2. Buy: yes
 
-## 2. Buy
+Yes, but just barely. I want to know whether his phone is what brought the man to her mudroom, and the shed scene showed me the heat will actually happen. The plot question and the couple got me past the prose. The prose itself didn't pull me.
 
-**Yes.** Somebody tried her back door at 11:40 the same night she hid where only one man knew she was, and she suspects the man, so I want the next chapter even though I've barely been warmed up.
+## 3. Pull score per scene
 
-## 3. Pull score per scene (1–5)
-
-| # | Scene | Pull | What I wanted to happen next |
+| # | Scene | Pull | What I wanted next |
 |---|---|---|---|
-| 1.1 | Car deck: dead reefer, lid springs, the bricks, she presses it shut and walks away | 5 | For the hooded man or the driver to come after her before the ramp goes up. |
-| 1.2 | Wheelhouse: driver looking up, Tess's float lit after hours, Ned turns his hearing aid off | 3 | For Ned to say what he knows. |
-| 1.3 | Crossing, Pruett ramp, photo of the plate, brake lights hold | 3 | For the driver to get out of the cab. |
-| 1.4 | Tide calendar, call to the barracks, "Did anyone see you?", chair under the latch | 4 | Someone at that door tonight. |
-| 1.5 | Trooper call, storm warning, Ned hangs up, figure on the dragger watching the house | 4 | Who's on that boat, and when the marshal gets here. |
-| 2.1 | Dane comes in on the ferry, reads the crowd, the dragger, walks up to her door | 4 | Them in a room together. Got it on the last line. |
-| 2.2 | Subpoena, fentanyl, "I'm the waiting room," walking the house, the latch | 3 | Some spark between them. There's a little, in the latch line. |
-| 2.3 | Chair argument, towel, boat cancelled, he closes every way off out loud | 3 | Nothing much. I knew the boat wasn't running because she told him. |
-| 2.4 | She phones Tess for check-in; "the laugh came late" | 4 | To find out what Tess is hiding. |
-| 2.5 | Transfer bridge parts, ten days, Pike, Monday deadline | 4 | Them stuck in that house together. |
-| 2.6 | 11:40, the latch lifts in pieces, "Who knew you were here?" "You." | 5 | Her to say out loud that she called Tess, or for her to find out what he says on the porch at 11:20. |
-| 3.1 | Boot print, heavy right heel, choosing the Ashby place | 3 | Them to get moving. |
-| 3.2 | She overhears "No. She doesn't know." / Russ in the truck | 3 | To know who "she" is. |
-| 3.3 | The store: Ned's storm report, the check-in log tick, "Tess knew I stayed," Arsenault, Ned lies about the reefer | 3 | Beth to say any of it to Dane. A lot happened here, but it took a long time in a room full of people I don't know yet. |
-| 3.4 | Propane cage, Ned gives up the Ashby key, "stay off my boat" | 2 | Nothing. I skimmed to get out of the cage. |
-| 3.5 | Ashby generator shed, bodies jammed together, then "Why are you out here alone?" and 11:20 again | 4 | Him to kiss her. He went for the door. Next time I want the kiss. |
+| 1.1 | Night freight: dark reefer, bricks under the lobsters, the call | 4 | Who the hooded man with the heel is, and who comes for her now that her name is on a form. |
+| 1.2 | Ramp: Dane in the wrong boots, the jump, holding on | 4 | Him to stay aboard and keep talking to her. |
+| 1.3 | Coiling the line: the lobster boat, the subpoena | 3 | Not much. A nice moment with the boat he wants, then paperwork. |
+| 1.4 | Tess on the slip, heel print on Marr's dock, the skiff, crossing cancelled | 3 | What the man in the skiff does. Mild. |
+| 2.1 | The back door, the skiff vanishing in the squall, "Boat." | 3 | To see them on the boat for the night. |
+| 2.2 | Tess at the store door, writing on her hand, the hundreds | 2 | Nothing. I noticed the cash, and I skimmed the milk prices and the "plus one" business. |
+| 2.3 | Cable snaps, he covers her, bridge comes down, crack in the hull | 3 | The cable and him talking on top of her was a 4. I couldn't picture the bridge falling on the boat, and I skimmed down in the hold with Ned. |
+| 2.4 | At the stern with Ned, the gloves, walking home by the shore | 2 | Nothing. I didn't get why they were leaving the boat until afterward. |
+| 2.5 | Kitchen floor under the blanket, the pickup, the mudroom door goes quiet | 5 | Was it his phone? Who's the leak? Best scene in the sample. |
+| 3.1 | Her father's razor, the phone message from Pike | 4 | What's in the log, and who "Q" is. |
+| 3.2 | The store: Russ, Tess's tags, Ida, Arsenault, Ned and the Ashby key | 2 | Nothing. Too many people and too many little props. I read for whatever Tess was hiding and skimmed the rest. |
+| 3.3 | North road to Ashby | 2 | Nothing. Just getting from one place to the next. |
+| 3.4 | Generator shed: third pull, the kiss, hands under the sweater, she stops it over the phone | 4 | For them to finish, and for her to make him tell her what's in the log. The stop annoyed me a little but I believed it. |
+
+Average: 3.15.
 
 ## 4. Do I care about these two people yet?
 
-**Yes.** Beth I'd follow anywhere: she has a real job she's good at, she checks the binders with her bare hands and she pressed that lid shut and walked away. Dane I care about less, because I've barely been in his head and the book keeps making me suspect him.
+Yes. She's competent and private about her own name, and he's polite and funny and honest about what he won't tell her. "Don't write me down" got to me. I care about her more than him so far.
 
 ## 5. Did anyone make me laugh?
 
-Yes. Tess, Ch 1: "I could've bought a lobster boat and sunk it on purpose and had something to look at." / "You'd have to learn to drive it first."
-
-Runner-up, Russ, Ch 3: "So I'll write down that a big-footed man is walking around Cutter at night. That narrows it to about forty of us."
+Yes.
+- "They're for a courtroom."
+- "You'd have gone in." / "Probably. Decently, though."
+- "Calloway, aboard. Marshal, aboard." A small pause, exactly Tess's. "Allegedly."
+- "That narrows it to about forty of us." / "That's thirty-nine more than I was hoping for."
+- "You. Since this morning."
 
 ## 6. Did anyone make me want?
 
-Once. Ch 3, the shed: "His breath was at her temple, warm and slow, and then not slow. She could feel him breathing through her float coat. Neither of them moved." That landed. It's the only one in the sample, and the book's opening note promised me steamy.
+Yes. "That lasted until he turned his jaw to the light and ran his thumb along it to check, and she wanted it to be her thumb." The wrist hold on the ramp too ("the cold of his hand, colder than hers, wrapped all the way round the bones of her wrist like he had measured it"). And the shed, up to the phone in his pocket.
 
 ## 7. The three most boring passages
 
-1. Ch 2, about 38% into the sample: "The Harbor Road climbed from the slip between a stone wall and a row of fish houses, and he read it as he went for who could see what. From the head of the slip you had the first two hundred yards; from the store dock…" I skimmed the sightlines. He'd already read the people at the slip.
-2. Ch 3, about 70% in: "Ned caretakes houses. Three are shut and close enough. The Lathams' on the cove road. Hallorans' up behind the church. The Ashby place on the north point." and the doors-and-windows back-and-forth after it. Three houses I'll never see. I skimmed to the name that mattered.
-3. Ch 3, about 90% in: "The propane cage stood behind the store with the generator ten feet off it, exhaust heat on her left cheek and the cold on her right. … Past the cage the old cellar bulkhead lay slantwise against the sills…" Then a padlock, a gauge and a key with a paper tag. I wanted to get to the shed.
+1. About 40% (Ch 2, Tess at the store door): "Milk's up a quarter till the boat runs, bread's gone, eggs I've got till Easter. Marshal, you go on the net as 'plus one.' Free to say, two dollars to hear." I skimmed the whole scene apart from the cash.
+2. About 55% (Ch 2, the stern): "At the stern the deck ran out low and open to the black water, with nothing across it but a chain. Ned had come aft with them, his flashlight on the chain." I skimmed it all the way to the walk home. I didn't know what they were deciding.
+3. About 78% (Ch 3, the store): "Yellow's mine. Red's the boat's. I won't have my money in Ned's color. Propane's up a dollar a tank." Then the shelf of phones with the Red Sox sticker and the cracked case. I could tell I was meant to remember it and I didn't want to.
+
+Also skimmed: the binders and D-rings in the first scene, and Ned in the flooded hold.
 
 ## 8. What I think is going on
 
-Tess is the leak. Beth called her at twenty to six and told her she was home, Tess "laughed late," knew about the "company off the morning boat," and wrote Beth into a log that sits open on the counter. The latch got tried six hours later. She's fueling the Gloucester dragger at night for cash because of that $1,800 tank loan, and I think Arsenault has her by the money. Ned has been looking the other way on the dealer's Thursday reefer for a while (he lied about the unit running), but he's not the one selling Beth. The man with the bad left leg is crew off the *Margaret Ann*. Dane is clean. The book wants me to suspect him with those 11:20 porch calls, but I've been inside his head on the ferry and he's just doing his job. My guess is "She doesn't know" means Portland is checking out Beth herself, something about her looking dirty, and he's keeping it from her. That's going to blow up once they've slept together.
+Tess is dirty. She has the wad of hundreds, the yellow-tagged deposit bags ride the ferry (the pouch Dane watched), she logged Beth at home at 22:40 and keeps everyone's phones, and she's soft on Arsenault ("on your account"). I think the money goes through the store. Arsenault's Gloucester dragger is the drug boat, and the man with the heel works off it. Ned knows something. He sent her home that first night for the first time in eleven years, and now he holds the Ashby key, so if Ashby gets hit it's Ned or Dane's call. Dane's phone: Pike is his boss. "Q" is someone (internal affairs, or a defense lawyer) who wants a daily log on the witness, and that log is how the heel man knew she was home. I suspect it goes back to the last witness who's "buried." "Thirty-one, Saturday noon" is the Webbers Cove boat. I predict the shed or the Ashby house gets visited tonight, and that the leak is the log, not Dane himself.
