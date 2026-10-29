@@ -25,3 +25,11 @@ Flags for the orchestrator (no change made):
 - Tagged the "Do you want—" / "Yes" exchange.
 - Left as designed: "Q" on the screen (bible fact 20); Tess reading as compromised (she is the suspect the reader believes); "You." in Ch 02.
 - Logged for the manuscript audit: the dragged heel ×3, calls "under the open sky" ×4, fist-in-his-jacket once per chapter, every scene ending on a crafted line, Dane and Tess sharing one witty register.
+
+## S2 after scene tournament (voice pass on draft-dialogue.md → final.md)
+- S3 retired phrase: "to the top step under the open sky" → "to the top step". (Only S3 change.)
+- S2 tightening: "a second longer than they should have" → "a second too long". Nothing else in S2 needed rewriting; the tournament text was already in register.
+- Voices checked: Tess (headlines, surnames, "Beth" only when serious; no new deflection added), Arsenault (first names, advice as threat), Russ (asks and answers himself), Beth (dropped subjects, "Nothing in it... Hand me the milk." lie, too short and followed by a task), Dane (long sentence, dry turn).
+- All keep-exactly lines intact: yellow/red tag speech, restroom pair, "walked you home from every dance", "Hand me the milk", "No. My money I can count.", Bangor bus / "don't go where I'm put", "I owe you a floor...", "Nobody but—" / "Me and God. I know.", blankets under the counter, S3's last paragraph. "Bethie" once (Ned). No "Red's Ned's", "Am I in it?" or extra "thirty-one".
+- Forbidden-phrase sweep: no hits. Word count about 2,992 by estimate (no shell; orchestrator to confirm against 2,622 to 3,078).
+- Flag, no change: "Ned's color" in Tess's line reads as if Ned owns the red tag; kept as instructed.

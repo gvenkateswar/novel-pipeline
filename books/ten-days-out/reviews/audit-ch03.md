@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–03, 8,876 words)
+# Audit — ten-days-out (chapters 01–03, 8,907 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -22,7 +22,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Gloves off | 1 | 0 | 0 | 1 | 5 |  |
 | Bare-handed | 0 | 0 | 1 | 1 | 5 |  |
 | Her bare hands | 0 | 0 | 1 | 1 | 3 |  |
-| "Bethie" (Ned only) | 1 | 0 | 0 | 1 | 6 |  |
+| "Bethie" (Ned only) | 1 | 0 | 1 | 2 | 6 |  |
 | "Water side" | 0 | 0 | 0 | 0 | 2 |  |
 | "Me and God" | 0 | 1 | 1 | 2 | 3 |  |
 | "Ned's color" | 0 | 0 | 1 | 1 | 2 |  |
@@ -55,7 +55,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | The right boots | 0 | 0 | 0 | 0 | 1 |  |
 | A hundred and ninety | 1 | 0 | 0 | 1 | 2 |  |
 | Fudge | 1 | 0 | 0 | 1 | 2 |  |
-| "From away" | 2 | 0 | 1 | 3 | 8 |  |
+| "From away" | 2 | 0 | 0 | 2 | 8 |  |
 | "The glass" (barometer) | 2 | 0 | 0 | 2 | 6 |  |
 | "Make fast" | 0 | 0 | 0 | 0 | 3 |  |
 | Dooryard | 0 | 0 | 0 | 0 | 4 |  |
@@ -117,7 +117,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Handwriting (incl. the Ch 7 title) | 0 | 0 | 0 | 0 | 5 |  |
 | Potato | 0 | 0 | 0 | 0 | 2 |  |
 | "Chimney smoke's people" | 0 | 0 | 0 | 0 | 1 |  |
-| "That narrows it" | 0 | 0 | 1 | 1 | 1 |  |
+| "That narrows it" | 0 | 0 | 0 | 0 | 1 |  |
 | "Not a complicated man" | 0 | 0 | 0 | 0 | 1 |  |
 | "Just the once" | 0 | 1 | 0 | 1 | 1 |  |
 | "That's the bridge" | 0 | 1 | 0 | 1 | 1 |  |
@@ -130,8 +130,8 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Propane cage | 0 | 0 | 1 | 1 | 3 |  |
 | Timer | 0 | 0 | 0 | 0 | 5 |  |
 | Golds | 0 | 0 | 1 | 1 | 2 |  |
-| "Heart of the island" | 0 | 0 | 1 | 1 | 1 |  |
-| "Hard winter" | 0 | 0 | 1 | 1 | 1 |  |
+| "Heart of the island" | 0 | 0 | 0 | 0 | 1 |  |
+| "Hard winter" | 0 | 0 | 0 | 0 | 1 |  |
 | "Agent Quist" | 0 | 0 | 0 | 0 | 3 |  |
 | Bucket | 0 | 0 | 0 | 0 | 3 |  |
 | "It's a Tuesday" | 0 | 0 | 0 | 0 | 1 |  |
@@ -139,7 +139,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "Ninety seconds" | 0 | 0 | 0 | 0 | 1 |  |
 | "Not yet I can't afford" | 0 | 0 | 0 | 0 | 1 |  |
 | "Long enough to be useful" | 0 | 0 | 0 | 0 | 1 |  |
-| LifeFlight | 0 | 0 | 1 | 1 | 3 |  |
+| LifeFlight | 0 | 0 | 0 | 0 | 3 |  |
 | The ballfield | 0 | 0 | 0 | 0 | 3 |  |
 | Deck lights | 0 | 2 | 0 | 2 | 3 |  |
 | Sleet | 2 | 1 | 0 | 3 | 12 |  |
@@ -155,19 +155,19 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 
 ### Frequent 3–5 word n-grams (4+ uses, whole book)
 
-- 5× “the fuel float”
+- 4× “the fuel float”
 - 4× “the door went”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
-- jaw: 4 (0.5/1k)
-- knuckles?: 1 (0.1/1k)
+- jaw: 4 (0.4/1k)
+- knuckles?: 3 (0.3/1k)
 - throat: 2 (0.2/1k)
 - reath: 6 (0.7/1k)
 - pulse: 0 (0.0/1k)
 - chest: 2 (0.2/1k)
-- hands? (stopped|stilled|went still|flat): 1 (0.1/1k)
-- shoulders?: 9 (1.0/1k)
+- hands? (stopped|stilled|went still|flat): 0 (0.0/1k)
+- shoulders?: 12 (1.3/1k)
 - gaze: 0 (0.0/1k)
 - tightened: 0 (0.0/1k)
 - swallowed: 0 (0.0/1k)
@@ -178,7 +178,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 |---|---|---|---|---|---|---|---|---|---|
 | 01 | 3,103 | 15.2 | 11.9 | 21% | 0.0 | 0.0 | 0.0 | 2 | short |
 | 02 | 2,820 | 15.5 | 10.4 | 17% | 0.0 | 0.0 | 0.7 | 3 | short |
-| 03 | 2,953 | 15.7 | 11.5 | 19% | 0.0 | 0.3 | 0.3 | 2 | short |
+| 03 | 2,984 | 16.2 | 11.6 | 16% | 0.0 | 0.0 | 0.3 | 3 | short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -193,7 +193,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 - quiet: 5 (0.6/1k)
 - humm?(ing|ed)?: 2 (0.2/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 16 (1.8/1k)
+- still(ness)?: 17 (1.9/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 0 (0.0/1k)
@@ -212,17 +212,17 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 | Construction | 01 | 02 | 03 | Total | /1k | Cap | |
 |---|---|---|---|---|---|---|---|
-| as if / as though | 3 | 2 | 2 | 7 | 0.8 | 1.0/1k |  |
+| as if / as though | 3 | 2 | 1 | 6 | 0.7 | 1.0/1k |  |
 | the way (a|the|people|someone) ... | 1 | 0 | 0 | 1 | 0.1 | 1/ch |  |
 | the kind of ... that | 0 | 0 | 0 | 0 | 0.0 | 2/ch |  |
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 0 | 0 | 0.0 | 0.0/1k |  |
 | sentence-initial And/But/And yet | 1 | 0 | 2 | 3 | 0.3 | 3.0/1k |  |
-| em dashes | 1 | 1 | 2 | 4 | 0.5 | 2.0/1k |  |
-| semicolons | 0 | 3 | 1 | 4 | 0.5 | 2.0/1k |  |
+| em dashes | 1 | 1 | 2 | 4 | 0.4 | 2.0/1k |  |
+| semicolons | 0 | 3 | 1 | 4 | 0.4 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 2 | 1 | 2 | 5 | 0.6 | 1.0/1k |  |
-| one-sentence paragraph | 17 | 18 | 14 | 49 | 5.5 | report |  |
+| one-sentence paragraph | 17 | 18 | 19 | 54 | 6.1 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
