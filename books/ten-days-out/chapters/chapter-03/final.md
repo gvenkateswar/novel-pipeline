@@ -73,7 +73,7 @@ The hood stood at the propane cage by Marr's back step, facing the office door.
 
 The hood turned, and the drag went off down the slope. Dane was already past her.
 
-"On me," Dane said, going. "I'm not leaving you on that step. Talk to me."
+"On me," Dane said, going. "Talk to me."
 
 She didn't. The fish houses stood on their tarred posts with the top of the tide in among them, and the hood went down the lane between two of them, sure of every plank. "Stay up top where I can see you," Dane called back, and went in after him. Beth stopped at the head of the lane. Past its far end the sea heaped up green on the ledge.
 
@@ -95,7 +95,7 @@ Dane came through the office with snow on his shoulders and the sea running out 
 
 "I owe you a floor, Ms. Marr," Dane said. "Put it on the government's account."
 
-"He went in between them like he'd built them," Dane said to Russ. "I went in like a man looking for the restroom."
+"Your man went in between those fish houses like he'd built them," Dane said to Russ. "I went in like a man looking for the restroom."
 
 "Restroom's for customers," Tess said.
 
@@ -115,7 +115,7 @@ The clock over the door came to noon. *Saturday noon*, the screen had said: the 
 
 Arsenault nodded to Beth and went. Through the front window she saw him go down the dock to his skiff and pull away toward the moorings.
 
-Beth and Dane went out the front, the bell behind them, round to the side wall. Russ stayed at the counter. Ned was there with an urn cup, and Dane kept the corner, where he could see her and the moorings.
+Beth and Dane went out the front, the bell behind them, round to the side wall. Russ stayed inside at the counter. Ned was round the side wall with an urn cup, and Dane stopped at the front corner, where he could see her and the moorings and was too far off in the wind to hear.
 
 "Need the Ashby key," Beth said. Ashby was the Connecticut place on the north point, and nobody slept there in winter.
 
@@ -123,11 +123,11 @@ Beth and Dane went out the front, the bell behind them, round to the side wall. 
 
 "Me and God. I know," Beth said.
 
-Dane had seen the key go from Ned's ring into her glove. He didn't ask whose it was. Beth hadn't given him Ned in the dark, and she didn't give him Ned now.
+When Dane came off the corner the key was in her pocket. She hadn't given him Ned in the dark, or Tess's open log this morning, and she didn't give him either of them now.
 
 * * *
 
-The north road went up over the spine of the island in the dark, and the snow squeaked under their boots. The Ashby key was cold through her glove. At the top she stopped and looked back at the harbor she'd left. Below, the houses were black except where a generator kept a window yellow, and out on the visitors' mooring the *Margaret Ann* lay lit end to end, as she had all through the blackout.
+They waited out the afternoon in her kitchen with the door locked. The north road went up over the spine of the island in the dark, and the snow squeaked under their boots. The Ashby key was cold through her glove. At the top she stopped and looked back at the harbor she'd left. Below, the houses were black except where a generator kept a window yellow, and out on the visitors' mooring the *Margaret Ann* lay lit end to end, as she had all through the blackout.
 
 Then every deck light on the *Margaret Ann* went out at once, and the outer harbor went black below the hill.
 
@@ -147,7 +147,7 @@ On the third pull it caught. It coughed and coughed and ran, ragged and then eve
 
 "Is that what you look like when something works?"
 
-He looked at her, a man who had talked all day to Russ and the snow and anybody else who'd stand still, and now he didn't say a word.
+He looked at her, a man who talked to anybody who'd stand still, and now he didn't say a word.
 
 She put her back to the engine housing. It was warm already through her coat and getting warmer, and it shook against her with every stroke. She took his jacket in her fist and brought him down to her.
 

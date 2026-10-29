@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–03, 8,513 words)
+# Audit — ten-days-out (chapters 01–03, 8,530 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -178,7 +178,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 |---|---|---|---|---|---|---|---|---|---|
 | 01 | 3,103 | 15.2 | 11.9 | 21% | 0.0 | 0.0 | 0.0 | 2 | short |
 | 02 | 2,820 | 15.5 | 10.4 | 17% | 0.0 | 0.0 | 0.7 | 3 | short |
-| 03 | 2,590 | 16.0 | 11.9 | 19% | 0.0 | 0.0 | 0.0 | 2 | short |
+| 03 | 2,607 | 16.2 | 11.9 | 19% | 0.0 | 0.0 | 0.0 | 2 | short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 

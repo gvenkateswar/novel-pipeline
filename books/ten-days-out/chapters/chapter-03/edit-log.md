@@ -47,3 +47,13 @@ Flags for the orchestrator (no change made):
 - Forbidden-phrase sweep: no hits.
 - Word count: about 2,915 by estimate (no shell; roughly 15 words cut from the 2,930 input). Orchestrator to confirm against 2,622 to 3,078.
 - Flags, no change made: (1) the noon paragraph says open sky means "leaving her at the counter beside Arsenault," while the earlier orchestrator triage says the noon line was changed to Dane's not wanting to be watched going out to the sky; this version reads against the chase, where he left her on the step. Plot-level wording, left for the orchestrator. (2) "Ned's color" is the second of two permitted uses in the book once Ch 7 and Ch 9 pay it; no issue yet.
+
+## Orchestrator fixes after the bridge continuity check (Oct 29 late)
+- Issues 1–4: Dane stops at the front corner, too far off in the wind to hear the key handover; the close is now Beth's POV ("When Dane came off the corner the key was in her pocket…") and pairs Ned with Tess's open log, so the loyalty beat reads as character, not a clue.
+- 5: Tess's open log now pays off in that closing line.
+- 6: S3's "talked all day to Russ…" → "a man who talked to anybody who'd stand still".
+- 7: cut "I'm not leaving you on that step."
+- 8: "He went in between them" → "Your man went in between those fish houses".
+- 9: "They waited out the afternoon in her kitchen with the door locked." opens S3.
+- 11: Ned placed round the side wall, Russ inside.
+- 10: the continuity log is rewritten from the page (below).
