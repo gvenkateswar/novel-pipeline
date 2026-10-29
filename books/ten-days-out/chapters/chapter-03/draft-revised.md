@@ -122,7 +122,7 @@ Tess's phone rang in her vest. "Only place on the island it's a phone," she told
 
 Ned was round the side wall with a cup from the urn, nobody else in earshot.
 
-"Ashby," Beth said. The cove was over her father's fish house sill till Monday, which left the Connecticut people's summer place on the north point, shut for the winter, with water on three sides and one road in. "Ned runs its generator every storm. Nobody looks twice at a light out there."
+"Ashby," Beth said. Her father's fish house had the cove over its sill till Monday. The Connecticut people's place on the north point was shut for the winter, one road in. "Ned runs its generator every storm. Nobody looks twice at a light out there."
 
 He worked a key off his ring and put it in her glove. "Nobody but—"
 
