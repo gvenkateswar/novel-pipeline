@@ -40,7 +40,7 @@ In the kitchen she pinned the subpoena under the barometer and tapped the glass.
 
 "It won't run. Pack if you want. You'll be unpacking by two."
 
-"Dollar says it runs." He wanted to win that one.
+"Dollar says it runs." He said it to the glass, and meant it.
 
 "I don't bet on what I can see."
 
