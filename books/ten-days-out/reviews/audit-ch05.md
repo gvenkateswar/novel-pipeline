@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–05, 14,778 words)
+# Audit — ten-days-out (chapters 01–05, 14,683 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -18,7 +18,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Store pickup, no possessive | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
 | Tess's truck | 0 | 0 | 0 | 0 | 1 | 1 | 1 |  |
 | Store vehicle | 0 | 0 | 0 | 0 | 1 | 1 | 2 |  |
-| Plow frame | 0 | 0 | 0 | 0 | 1 | 1 | 2 |  |
+| Plow frame | 0 | 0 | 0 | 0 | 2 | 2 | 2 |  |
 | Gloves off | 1 | 0 | 0 | 0 | 0 | 1 | 5 |  |
 | Bare-handed | 0 | 0 | 1 | 0 | 0 | 1 | 5 |  |
 | Her bare hands | 0 | 0 | 1 | 0 | 0 | 1 | 3 |  |
@@ -36,18 +36,18 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Tess's hand, the ballpoint | 0 | 1 | 0 | 0 | 1 | 2 | 3 |  |
 | Back of her hand | 0 | 1 | 0 | 0 | 0 | 1 | 3 |  |
 | Blue to the wrist | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
-| Twenty-two forty | 0 | 0 | 0 | 0 | 1 | 1 | 3 |  |
+| Twenty-two forty | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
 | "Who knew you were here" | 0 | 1 | 0 | 0 | 0 | 1 | 1 |  |
 | "Dollar says" | 1 | 0 | 0 | 0 | 0 | 1 | 4 |  |
 | "I don't bet" | 1 | 0 | 0 | 0 | 0 | 1 | 2 |  |
 | Dane's predictions, "There it is" | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
 | Exact change | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
 | "Here's how this goes" | 1 | 0 | 0 | 0 | 0 | 1 | 3 |  |
-| "Talk to me" | 0 | 0 | 1 | 1 | 0 | 2 | 4 |  |
-| "For the record" (Dane only) | 1 | 0 | 0 | 1 | 0 | 2 | 3 |  |
+| "Talk to me" | 0 | 0 | 1 | 0 | 0 | 1 | 4 |  |
+| "For the record" (Dane only) | 1 | 0 | 0 | 0 | 0 | 1 | 3 |  |
 | "Ms. Calloway" | 2 | 0 | 1 | 0 | 0 | 3 | 8 |  |
 | "Your marshal" | 0 | 0 | 0 | 0 | 0 | 0 | 4 |  |
-| "Okay" (Dane's pivot; Beth never) | 2 | 0 | 0 | 2 | 0 | 4 | 30 |  |
+| "Okay" (Dane's pivot; Beth never) | 2 | 0 | 0 | 0 | 0 | 2 | 30 |  |
 | Back to the wall | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | Back to a wall | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | Different ocean | 1 | 0 | 0 | 0 | 0 | 1 | 1 |  |
@@ -56,7 +56,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | A hundred and ninety | 1 | 0 | 0 | 0 | 0 | 1 | 2 |  |
 | Fudge | 1 | 0 | 0 | 0 | 0 | 1 | 2 |  |
 | "From away" | 2 | 0 | 0 | 1 | 0 | 3 | 8 |  |
-| "The glass" (barometer) | 2 | 0 | 0 | 1 | 1 | 4 | 6 |  |
+| "The glass" (barometer) | 2 | 0 | 0 | 0 | 0 | 2 | 6 |  |
 | "Make fast" | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
 | Dooryard | 0 | 0 | 0 | 0 | 0 | 0 | 4 |  |
 | Wicked | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
@@ -76,11 +76,11 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "Last sitting" | 0 | 1 | 0 | 0 | 0 | 1 | 2 |  |
 | Latch, any form | 0 | 4 | 0 | 1 | 0 | 5 | 10 |  |
 | Lift and shove | 0 | 1 | 0 | 0 | 0 | 1 | 1 |  |
-| The chimney | 0 | 1 | 1 | 0 | 1 | 3 | 7 |  |
+| The chimney | 0 | 1 | 1 | 1 | 1 | 4 | 7 |  |
 | "Walked the bar" | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
 | "Do not disclose" | 0 | 0 | 1 | 0 | 0 | 1 | 3 |  |
 | "No indication" | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
-| The screen | 1 | 0 | 2 | 0 | 0 | 3 | 6 |  |
+| The screen | 1 | 0 | 2 | 1 | 0 | 4 | 6 |  |
 | "Is this going in your log" | 0 | 0 | 0 | 1 | 0 | 1 | 1 |  |
 | "We go down to look" | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | "Not again today" | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
@@ -105,12 +105,12 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Fist near belt, any order | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | Fist in his collar | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
 | Jacket front | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
-| Knee-deep | 0 | 0 | 0 | 1 | 1 | 2 | 4 |  |
-| Thigh-deep | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
+| Knee-deep | 0 | 0 | 0 | 1 | 2 | 3 | 4 |  |
+| Thigh-deep | 0 | 0 | 0 | 0 | 1 | 1 | 2 |  |
 | Waist-deep | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
-| The gut | 0 | 0 | 0 | 1 | 2 | 3 | 6 |  |
+| The gut | 0 | 0 | 0 | 3 | 1 | 4 | 6 |  |
 | A stride inside | 0 | 0 | 0 | 0 | 1 | 1 | 2 |  |
-| Socks on steel | 0 | 0 | 0 | 0 | 2 | 2 | 4 |  |
+| Socks on steel | 0 | 0 | 0 | 0 | 1 | 1 | 4 |  |
 | Ring buoy | 1 | 0 | 0 | 0 | 0 | 1 | 4 |  |
 | First match | 0 | 0 | 0 | 0 | 1 | 1 | 2 |  |
 | Pine tar | 0 | 0 | 0 | 0 | 1 | 1 | 2 |  |
@@ -123,9 +123,9 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "That's the bridge" | 0 | 1 | 0 | 0 | 0 | 1 | 1 |  |
 | "Like your dad" | 0 | 1 | 0 | 0 | 0 | 1 | 1 |  |
 | No lights (the truck) | 0 | 1 | 0 | 0 | 0 | 1 | 3 |  |
-| Two pots | 0 | 0 | 0 | 0 | 1 | 1 | 2 |  |
-| Since he brought you the diesel | 0 | 0 | 0 | 0 | 1 | 1 | 1 |  |
-| Impeller | 0 | 0 | 0 | 1 | 0 | 1 | 6 |  |
+| Two pots | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
+| Since he brought you the diesel | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
+| Impeller | 0 | 0 | 0 | 2 | 0 | 2 | 6 |  |
 | Town ring | 0 | 0 | 0 | 0 | 0 | 0 | 4 |  |
 | Propane cage | 0 | 0 | 1 | 0 | 0 | 1 | 3 |  |
 | Timer | 0 | 0 | 0 | 0 | 0 | 0 | 5 |  |
@@ -142,7 +142,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | LifeFlight | 0 | 0 | 0 | 1 | 0 | 1 | 3 |  |
 | The ballfield | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
 | Deck lights | 0 | 2 | 0 | 0 | 0 | 2 | 3 |  |
-| Sleet | 2 | 1 | 0 | 0 | 0 | 3 | 12 |  |
+| Sleet | 2 | 1 | 0 | 1 | 0 | 4 | 12 |  |
 | Woodsmoke | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
 | Thrum | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | Her Tess voice (Beth's mimicry) | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
@@ -156,26 +156,26 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 ### Frequent 3–5 word n-grams (4+ uses, whole book)
 
 - 7× “the north reach”
-- 6× “the north road”
-- 5× “she could see”
-- 5× “could see the”
-- 5× “i can see”
+- 7× “the north road”
 - 5× “the margaret ann”
+- 4× “under her fingers”
 - 4× “the fuel float”
-- 4× “the store dock”
+- 4× “she could see”
+- 4× “his right hand”
 - 4× “the door went”
-- 4× “the red tag”
+- 4× “came up through”
+- 4× “the north point”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
 - jaw: 4 (0.3/1k)
-- knuckles?: 2 (0.1/1k)
+- knuckles?: 3 (0.2/1k)
 - throat: 3 (0.2/1k)
-- reath: 7 (0.5/1k)
+- reath: 10 (0.7/1k)
 - pulse: 1 (0.1/1k)
 - chest: 3 (0.2/1k)
 - hands? (stopped|stilled|went still|flat): 0 (0.0/1k)
-- shoulders?: 18 (1.2/1k)
+- shoulders?: 19 (1.3/1k)
 - gaze: 0 (0.0/1k)
 - tightened: 0 (0.0/1k)
 - swallowed: 0 (0.0/1k)
@@ -185,10 +185,10 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Ch | Words | Mean sent. | SD | ≤5-word share | Codes/1k | Numerals/1k | ALLCAPS/1k | Max opener run | Flags |
 |---|---|---|---|---|---|---|---|---|---|
 | 01 | 3,103 | 15.2 | 11.9 | 21% | 0.0 | 0.0 | 0.0 | 2 | short |
-| 02 | 2,820 | 15.5 | 10.4 | 17% | 0.0 | 0.0 | 0.7 | 3 | short |
+| 02 | 2,825 | 15.5 | 10.3 | 17% | 0.0 | 0.0 | 0.7 | 3 | short |
 | 03 | 2,607 | 16.2 | 11.9 | 19% | 0.0 | 0.0 | 0.0 | 2 | short |
-| 04 | 2,796 | 13.6 | 11.5 | 26% | 0.0 | 0.0 | 0.0 | 3 | short |
-| 05 | 3,452 | 15.3 | 13.1 | 21% | 0.0 | 0.6 | 0.0 | 3 | short |
+| 04 | 2,606 | 11.5 | 8.3 | 26% | 0.0 | 0.0 | 0.0 | 2 | mean short |
+| 05 | 3,542 | 11.1 | 8.2 | 25% | 0.0 | 0.6 | 0.0 | 4 | mean short openers |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -200,13 +200,13 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 ### Mood words per 1,000 (count; flag a cluster, not a word)
 
-- quiet: 9 (0.6/1k)
+- quiet: 8 (0.5/1k)
 - humm?(ing|ed)?: 4 (0.3/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 23 (1.6/1k)
+- still(ness)?: 28 (1.9/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
-- shadow: 0 (0.0/1k)
+- shadow: 1 (0.1/1k)
 - whisper: 1 (0.1/1k)
 - shimmer: 0 (0.0/1k)
 - flicker: 0 (0.0/1k)
@@ -222,17 +222,17 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 | Construction | 01 | 02 | 03 | 04 | 05 | Total | /1k | Cap | |
 |---|---|---|---|---|---|---|---|---|---|
-| as if / as though | 3 | 2 | 1 | 2 | 1 | 9 | 0.6 | 1.0/1k |  |
-| the way (a|the|people|someone) ... | 1 | 0 | 0 | 0 | 0 | 1 | 0.1 | 1/ch |  |
+| as if / as though | 3 | 2 | 1 | 4 | 1 | 11 | 0.7 | 1.0/1k |  |
+| the way (a|the|people|someone) ... | 1 | 0 | 0 | 1 | 0 | 2 | 0.1 | 1/ch |  |
 | the kind of ... that | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 2/ch |  |
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
-| contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 0 | 0 | 1 | 1 | 0.1 | 0.0/1k | FLAG |
-| sentence-initial And/But/And yet | 1 | 0 | 2 | 1 | 1 | 5 | 0.3 | 3.0/1k |  |
-| em dashes | 1 | 1 | 2 | 1 | 1 | 6 | 0.4 | 2.0/1k |  |
+| contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 0.0/1k |  |
+| sentence-initial And/But/And yet | 1 | 0 | 2 | 1 | 4 | 8 | 0.5 | 3.0/1k |  |
+| em dashes | 1 | 1 | 2 | 0 | 1 | 5 | 0.3 | 2.0/1k |  |
 | semicolons | 0 | 3 | 1 | 0 | 0 | 4 | 0.3 | 2.0/1k |  |
-| perception filter (she noticed / could hear) | 2 | 1 | 3 | 1 | 5 | 12 | 0.8 | 1.0/1k |  |
-| one-sentence paragraph | 17 | 18 | 24 | 20 | 24 | 103 | 7.0 | report |  |
+| perception filter (she noticed / could hear) | 2 | 1 | 3 | 5 | 3 | 14 | 1.0 | 1.0/1k |  |
+| one-sentence paragraph | 17 | 18 | 24 | 26 | 34 | 119 | 8.1 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
