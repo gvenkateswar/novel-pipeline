@@ -98,6 +98,7 @@ The author can switch this on per book in `book-brief.md`. While on:
 - After each cold read, triage. Small fixes (a missing line, a clarity fix, a trim) go straight into `final.md`. A structural note (a scene that does not work, a pull score ≤ 2, "I'd stop here") goes back to the beat sheet, with no revision cap.
 - A rule learned from a fix goes into the bible's World rules only if paired with a positive rule and the count stays at or under 20.
 - Stop and ask only for: a plot change to the approved outline, anything that breaks the brief's heat or clean rules, and a choice with no reasonable default. Report the veto-window sends; don't wait on them.
+- **Author instruction, Oct 29, 2026:** when a gate fails or a fix needs a choice, take the orchestrator's recommended approach and report it. Don't ask. After three fix rounds on the same chapter (tournaments, beat rebuilds or targeted passes), log what still fails in `docs/calibration.md` and the brief, and move on to the next chapter.
 - Report at Ch 03, Ch 06 and the full draft. Boredom flags go above scores in every report.
 - Commit and push after every step.
 
