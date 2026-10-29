@@ -240,6 +240,57 @@
 
 ---
 
+## Chapter 05 — The Vote
+*Oct 29. `final.md` 3,137 words after cold-read triage (cold reader 5/10, "I'd keep reading, but…"). Ellen's POV.*
+
+**What happened:** s1, Thu Dec 31, 11:42 p.m., the office: Kate on speaker from a Manchester ER break room ("Scale of one to ten." / "Six." / "I'm charting nine."), ten-minute break, sheet cake with one p; Ellen's retirement cake had blue roses; holiday shifts went by seniority bids and Ellen couldn't bid off them until Kate was in high school (not said to Kate). Glow night, half a house of open bowling, the league dark for the holiday week. The second chair still faces hers; Ray has sat in it after close on six of the eleven nights since the nineteenth, zipped to the chin, on call; neither has said a word about the sign or January; she has not told him the second half of "It stays" ("A condition was not his to hear until the vote had decided whether it came due"). Kate: "Is anybody there with you tonight?"; an overhead page, "That's me," line dead. s2, 11:58 p.m.–12:04 a.m., the iron step behind seven: Denise counts the house down on the PA; Ray comes down the catwalk and sits beside her; for a whole minute does not say Happy New Year; the cup of sparkling cider she has carried since ten (he saw her take it out to the lot to a Subaru with a dead battery); "I don't like it. It's cider pretending" (her first contractions to him since the sign; she does not take them back); "Seven's right there, and you're seeing to her." / "It's on time. I've been listening." Second kiss, he moves first (fingers in the short hair at the back of her head; her hands inside his open jacket, the Worcester page under her palm through the pocket; urn coffee; "as if he had spent six nights in her second chair working out how"); she loses the minute ("the time… went off without her. She let it go"). "Happy New Year, Ellen." / "It's four minutes past." / "I know what time it is." s3, Tue Jan 5, 6 p.m., the January meeting: folding chairs on the dark approaches, twenty captains in front of their teams, Verna Tibbetts at the lane-one scorer's table with the binder and the Grange gavel; the one-and-two settee couple (first down the drive on the eighteenth, lot empty at 7:43) in the front row; Ray in the Tuesday rows, four back, with Hollis (waterproof notebook, golf pencil). Verna reads the bylaws in full, including: the lineage and house prize-fund contribution hold at the September rates until the January meeting votes ("Adopted January, two thousand five, on the motion of R. Gagnon"), and **the house shall set the lanes and hours of championship weekend, and the league shall bowl its championship within them** (new, invented). Ellen's three minutes: three items (rate unmoved since 2004; the house has paid the difference and the house is now her; new rate from the twelfth if approved); gives back two minutes thirty-four seconds. A Legion man with mustard on his sleeve: if we vote her down, what happens to the Memorial, with the derby the same Saturday. Ray stands: names both loans and what he did ("The credit union would've lent me against the store to buy this place off her clean, and I let their five o'clock go by on the third of December without making the call, and the other loan's with the bank in Concord, to buy it March first if she can't pay Arlene, and I paid them to hold it. Weigh what I say next by that."); Dale's crew and the Legion can't pay it; "This is the league Linda bowled"; "Mrs. Daly gave me her word, the night of the storm, in the pit behind five, that Linda's Memorial stays the way it is… 'It stays,' she said… her word is what the Memorial's got, and I'll hold her to it. Put it in the book, Verna." Verna's minutes: "Mr. Gagnon states that the owner gave him her word… Quote, it stays, unquote. Mr. Gagnon will hold her to it." / "Does the owner wish to respond?" / Ellen, sitting on the stool: "No." / "The owner declines." Vote by team: opposed eighteen, in favor two; Verna writes a slip of her own and folds it into the binder, outside the count. Dale: "Ray says you gave your word. That'll do for my crew." She throws the ten toggles herself; Ray on six; the first ball goes down six. s4, 6:45 p.m., the office: Denise with fries (malt vinegar, salted twice) in Ray's chair. "At the September rate the winter comes in at twenty-six thousand. The bank's number is thirty. I am four thousand short." The Open: championship weekend, its own cup, anyone who pays may enter, the derby crowd after the weigh-in; without a name it closes with nothing over; with Linda's name the town comes out "and I have room for one bad thing." Denise: "Don't you touch Linda's night." / "Unless the numbers say otherwise." / "Who'd you say that to?" (not answered; not asked again). "What about your own money?" / "Not enough to matter. And I swore to Kate." / "So it's a cushion." / "It is separation." She sits. Then her car: calls Hollis: "How thick is the ice off the public access?" / "Why?" / "I'm walking out to your bob-house Saturday."
+
+**What changed:**
+- The September rate holds (18–2). The lineage notice stays face down under the tape, unposted. Ellen's winter at that rate: $26,000 against the bank's $30,000; four thousand short (the chapter's one figure).
+- Ray's "It stays" is in Verna's minutes as Ellen's word, with "I'll hold her to it." Ellen declined to respond; "No" is in the minutes. The other five words ("Unless the numbers say otherwise") are known to Ellen and, from s4, to Denise (who suspects they were said to Ray and asked once).
+- Both loans are now public and plain: the credit union would have lent against the store; Ray never made the call; Concord is the alley purchase money, held to March first at his cost. The whole league knows Ray stands to buy.
+- New bylaw on the page: the house sets the lanes and hours of championship weekend. Ellen's Open plan is legal under it; her word is the only thing holding the Memorial.
+- Second kiss, Jan 1, 12:00–12:04, behind seven, Ray first. No kiss between Dec 18 and Dec 31 (on the page). Ellen has used contractions with Ray (first since the sign) and in the car; none elsewhere.
+- Ellen has decided on the Open with Linda's name "for the margin," told Denise first, and is walking out to Hollis's bob-house Saturday (Jan 9).
+- Verna cast a silent written slip outside the count (bible: her yes); unread on the page.
+- The league was dark the week of New Year's; glow night was open bowling. **Bible calendar note.**
+**Who knows what:**
+- Ray: Ellen's "It stays" (two words only); that she said "No" to the minutes; nothing of the Open or the four thousand; that she has used short words with him.
+- Ellen: Ray wrote the 2005 bylaw; he let the credit union lapse; the whole league heard him vouch; the house-sets-the-weekend bylaw; her gap is four thousand.
+- Denise: the four thousand; the Open with Linda's name; "Unless the numbers say otherwise"; suspects Ray heard only half. Has said nothing to Ray (Ch 06–08 must account for her silence).
+- Kate: nothing of Ray beyond the unanswered question. Ellen treats the question as answered to herself (Ch 09 plays it as unsaid, not unknown).
+- Verna: everything in the minutes; her own slip.
+- The league: Ray's loans; Ellen's word; "I'll hold her to it."
+- Hollis: Ellen wants the ice thickness off the public access and is walking out Saturday.
+**Objects / details introduced:** the Grange gavel; Verna's binder and slip; folding chairs from the cellar; Hollis's waterproof notebook and golf pencil; Kate's sheet cake (one p); the cup of sparkling cider; the Subaru with the dead battery; a Legion man with mustard on his sleeve; Denise's fries, malt vinegar, salted twice; the iron step behind seven.
+**Plants placed:** (→ pays off Ch __)
+- "It stays" in the minutes, "Mr. Gagnon will hold her to it"; Ellen's "No" (→ Ch 07 the Open goes up; Ch 08 "You gave your word"; Ch 10)
+- The house-sets-the-weekend bylaw (→ Ch 06–08: the Open is legal; her word is the only hold)
+- Four thousand short; the Open with Linda's name "for the margin" (→ Ch 06 bob-house / Hollis; Ch 07; Ch 08 the derby)
+- Denise's "Who'd you say that to?" unanswered; Denise knows the second half (→ Ch 07/08: when Denise speaks, or doesn't)
+- Verna's folded slip (→ Ch 08 if her yes is revealed, it is this slip)
+- "I'm walking out to your bob-house Saturday" (→ Ch 06 Walking Ice)
+- Kate's "Is anybody there with you tonight?" unanswered (→ Ch 09)
+- Ray's first name in her mouth / "Happy New Year, Ellen" (→ Ch 10)
+- "I know what time it is." (→ Ch 10 echo, once at most)
+- Ray let the credit-union five o'clock go "without making the call" (→ Ch 07, Ch 08: he never bought; he chose)
+- Dale: "That'll do for my crew" (→ Ch 08 the crew's loyalty is to Ray's word)
+**Plants paid:** (← from Ch __)
+- ← Ch 03: "It stays. Unless the numbers say otherwise" (half heard): Ray vouches on the half he heard
+- ← Ch 03: the lot empty by eight: paid (7:43, the old couple first), closed
+- ← Ch 04: "Will they vote the way you stand?" / "Mostly": 18–2
+- ← Ch 04: Verna reads the bylaws aloud; the binder does not leave the secretary: done
+- ← Ch 04: the lineage notice waits for January: it waited and lost
+- ← Ch 04: "I'll be on my feet in January": he was
+- ← Ch 04: the second chair hooked out: six of eleven nights
+- ← Ch 04: the Worcester page in his shirt pocket: under her palm
+- ← Ch 01: "Scale of one to ten" (Kate): 1 of 3
+**Numbers stated:** twenty-six thousand; thirty (the bank's number); four thousand short; eighteen to two; twenty captains; two minutes thirty-four seconds; three minutes; the twelfth (proposed start); January two thousand five (the bylaw); two thousand four (the rate); the third of December; March first; the eighteenth / seven forty-three; six of the eleven nights; thirty-one years; ten minutes (Kate's break); four minutes past; eighteen minutes to twelve; the nineteenth (three times; Ch 04 never gives the date on its page).
+**Ends on:** "I'm walking out to your bob-house Saturday."
+**Word count:** final.md 3,137. Target 3,000.
+
+---
+
 ## Plant ledger
 | Plant | Placed Ch | Pays off Ch | Status |
 |---|---|---|---|
@@ -367,6 +418,14 @@
 - Ray's motor comparisons were a tic at five per chapter; now two. Cap: two per chapter.
 - S4 lost its Linda beat in the rewrite ("Nobody had put a thing on this counter for him without his asking since Linda" was cut as a gloss). Ch 04 or later may carry a Linda beat.
 - "owing him, which sat on her about as well as a wet coat" (S3) reads Ellen's insides from Ray's POV. Allowed once; not a habit.
+
+### Ch 05 flags
+- **Motif counts after Ch 05:** "Scale of one to ten" 1 of 3; "separation" 1 of 5 ("It is separation"); "unless the numbers say otherwise" 2 of 6 (Ch 03, Ch 05); "Mrs. Daly" 1 (Ray at the meeting); "honey" 0 here (2 of 4 used); "no readback" 1 of 2 used (Ch 03 thought; one spoken left, Ch 07); kiss count 2 of 3. Ellen's list collapsing at a romantic beat: retired as a device (Ch 01, Ch 03; Ch 05 now breaks her clock instead). First/Second/Third lists: one per chapter at most from here.
+- **Denise suspects from Jan 5** and has not told Ray. Ch 06–08 beats must give her a reason to keep it, or a moment she nearly doesn't.
+- **"The nineteenth"** is named three times in Ch 05 for the date of the lesson/chair; Ch 04's page never states its date. Acceptable (Ellen dates things); don't add more.
+- **Ray's team vote** is not on the page; don't state it later unless a scene needs it.
+- **The two loans** are now public and plain. Ch 07 "I keep it" and Ch 08 the release build on "I let their five o'clock go by… without making the call" and "I paid them to hold it."
+- **Timeline Ch 05:** s1 Thu Dec 31 11:42 p.m.; s2 Fri Jan 1 11:58 p.m.–12:04 a.m. (the kiss at about 12:01–12:04); s3 Tue Jan 5 6:00 p.m.; s4 Tue Jan 5 6:45 p.m., then the car. Bob-house: Saturday Jan 9. Final 3,137 words.
 
 ### Ch 04 flags
 - **Ray is paid from Dec 19:** on call, by the call, at the Worcester man's rate; first invoice paid by check. The weekly-loss ledger's "$160 invoiced calls" now has its cause. Do not show Ray refusing money again.
