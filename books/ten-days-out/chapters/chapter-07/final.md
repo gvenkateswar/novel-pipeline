@@ -156,7 +156,7 @@ She set the book face down on her knee and wiped her thumb down her jeans, hard,
 
 She opened it again, at the money.
 
-Then she looked from the page to his arm. Five strips across it, the paper of the middle one gone pink.
+Then she looked from the page to his arm. Five strips across it, the paper of the middle one gone pink. The shot had come at the two of them as one shape on the ramp head, and found him. On paper she was already bought.
 
 She said it to him low, so as not to wake him.
 
@@ -216,9 +216,9 @@ Above her, along the top of the bank, the step and the drag came on, level with 
 
 Under the face of the stone pier the riprap was black with weed, and over her head the brow's wheels ground on the granite at every surge.
 
-The snow was over. The wind was rising ahead of the gale. Ned came on deck at two to check the lines and the pump. She knew his hours better than her own.
+The snow was over. The wind was rising ahead of the gale. Ned came on deck at last light to check the lines and the pump. She knew his hours better than her own.
 
-At two a flashlight came along the deck, held low, and stopped at the head of the brow.
+At last light a flashlight came along the deck, held low, and stopped at the head of the brow.
 
 She came up off the riprap onto the pier and into its light.
 
@@ -238,7 +238,7 @@ She stood at the heater with her back to it. The salt in her jeans began to soft
 
 She turned to the line about the seal and put her thumb under it.
 
-The fare bag was always red. So that was the one the teller had written down: the boat's.
+The fare bag was always red. The teller had written down the boat's bag. Ned's.
 
 She turned the page back to the money.
 

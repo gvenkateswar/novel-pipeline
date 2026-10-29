@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–07, 20,751 words)
+# Audit — ten-days-out (chapters 01–07, 20,775 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -161,10 +161,10 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 9× “under the bank”
 - 8× “the fish house”
 - 7× “the north reach”
+- 7× “the ramp head”
 - 6× “she could see”
 - 6× “the north road”
 - 6× “under the set”
-- 6× “the ramp head”
 - 5× “could see the”
 - 5× “along the harbor”
 - 5× “the harbor road”
@@ -220,7 +220,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 04 | 2,236 | 11.2 | 7.9 | 27% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 | 05 | 3,686 | 11.1 | 8.2 | 25% | 0.0 | 0.5 | 0.0 | 4 | mean short openers |
 | 06 | 3,258 | 10.8 | 7.7 | 26% | 0.0 | 0.0 | 0.0 | 3 | mean short |
-| 07 | 3,036 | 11.7 | 8.9 | 24% | 0.0 | 0.7 | 0.0 | 5 | mean short openers |
+| 07 | 3,060 | 11.6 | 8.9 | 24% | 0.0 | 0.7 | 0.0 | 5 | mean short openers |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -265,10 +265,10 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | em dashes | 1 | 1 | 2 | 0 | 1 | 0 | 1 | 6 | 0.3 | 2.0/1k |  |
 | semicolons | 0 | 3 | 1 | 5 | 0 | 1 | 1 | 11 | 0.5 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 2 | 1 | 3 | 1 | 3 | 0 | 2 | 12 | 0.6 | 1.0/1k |  |
-| one-sentence paragraph | 17 | 18 | 24 | 15 | 35 | 41 | 26 | 176 | 8.5 | report |  |
+| one-sentence paragraph | 17 | 18 | 24 | 15 | 35 | 41 | 27 | 177 | 8.5 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
 
 
-Orchestrator note: the remaining contrast FLAG is the Ch 06 conditional ("If it isn't tomorrow, it's Saturday at best"), a known false positive. The Ch 07 hit ("She had never heard of it. She was hearing of it now") was rewritten. Clean.
+Orchestrator note: the one contrast FLAG is the Ch 06 conditional, a known false positive. Clean.
