@@ -70,11 +70,11 @@ Tess came up brighter. "Lyle."
 
 Lyle Arsenault was the only clean-shaven man on a dragger in the bay, in a jacket that had cost more than her boots. He came to the counter at Beth's elbow, close enough that she could smell his soap. His eyes went to the box. Then out the window to the man on the dock. Then back.
 
-"Morning, Tess. Pack of Golds, whenever you've got a hand."
+"Morning, Tess. My usual, whenever you've got a hand."
 
 He had coins on the counter before Tess reached behind her for the pack, counted into a row.
 
-Tess slid the cigarettes across. "Golds, eleven-forty, on the account. Put your money away, Lyle."
+Tess slid the cigarettes across. "Eleven-forty, on the account. Put your money away, Lyle."
 
 She opened the green ledger to his page. Beth read it upside down: night lines down the column, each one paid off in hundreds and never rung up as cash.
 
@@ -90,7 +90,7 @@ Tess came back through the curtain.
 
 He turned his smile on her. "You keep a good store, Tess. A store like this lives on the boat. I'd hate to see it have a hard—"
 
-Tess laughed over the end of it, high and quick. "Barge in ten days, says the state. Oil's nine fifty, Lyle. Golds went up a dollar Monday." She reached for the next thing on the counter.
+Tess laughed over the end of it, high and quick. "Barge in ten days, says the state. Oil's nine fifty, Lyle. Cigarettes went up a dollar Monday." She reached for the next thing on the counter.
 
 He tucked the pack into his jacket and went out under the bell. Through the glass Beth saw him pass Dane on the dock. A nod. Dane stayed on the piling.
 
@@ -128,7 +128,7 @@ The county would ring the island. The island had one person to ring.
 
 "Portland did. Before they told me."
 
-"Going aboard this morning," she said. "Pump's eating impellers. Ned hears from me I'm going, or I don't go."
+"Going aboard this morning," she said. "Pump's eating its insides. Ned hears from me I'm going, or I don't go."
 
 Dane walked a few steps. "Tell him you're going, and leave the hour out of it."
 

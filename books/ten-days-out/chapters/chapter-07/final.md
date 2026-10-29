@@ -148,7 +148,7 @@ Nothing to report on her.
 
 *D6 am. Q: CU written rpt. Pouch: two bags. Seal noted: red.*
 
-Wednesday morning was the rock and the first sun on her face, and Pike and the weather. Q, whoever Q was, had the credit union's written report. Two bags in Friday's pouch, the store's and the fare bag, and a red seal noted. The fare bag always rode red. A teller with a stack to count had copied the tag on top. She put it by and went back up the page to the money.
+Wednesday morning was the rock and the first sun on her face, and Pike and the weather. Q, whoever Q was, had the credit union's written report. Two bags in Friday's pouch, the store's and the fare bag, and the red seal on the list. The fare bag always rode red. A teller with a stack to count had copied the tag on top. She put it by and went back up the page to the money.
 
 On Saturday a line had lit up on his phone by her drainboard. *Do not disclose to witness.* She had read it standing at the sink as the ordinary things they kept from witnesses: names, plans, where the other man was held.
 

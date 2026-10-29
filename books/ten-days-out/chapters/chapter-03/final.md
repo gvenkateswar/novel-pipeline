@@ -107,7 +107,7 @@ The bell went. Arsenault came in stamping snow off good boots: the *Margaret Ann
 
 "Pack of Golds, Tess, and whatever the gentleman's having," Arsenault said. "Man goes in the harbor for this island, he drinks on me."
 
-"Golds, eleven-forty. Coffee, two. Lyle, you're a saint."
+"Eleven-forty. Coffee, two. Lyle, you're a saint."
 
 "Coffee, thank you," Dane said.
 

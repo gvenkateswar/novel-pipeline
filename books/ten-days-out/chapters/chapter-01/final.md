@@ -14,7 +14,7 @@ In eleven years he had sent her home twice, and she'd had a fever both times.
 
 She walked to the next D-ring and knelt to it.
 
-The driver set his brake and stayed in his cab with the dome light on. She chained the trailer's forward corners, and before she went aft she reached up and put her bare hand on the unit's grille. Cold, and dead still. A live load on a November night, and the one machine that kept it off the freeze was dead under her palm.
+The driver set his brake and stayed in his cab with the dome light on. She chained the trailer's forward corners, and before she went aft she reached up and put her palm on the unit's grille. Cold, and dead still. A live load on a November night, and the one machine that kept it off the freeze was dead under her palm.
 
 At the trailer's side door a man in a black hood was stacking the last crates in, face down, quick. A sea came under the ramp and the boat lifted. A crate in the doorway tipped. The band parted with a twang and the lid came up on lobsters, green-black and slow in their bands, and under the top layer, where the lift had shifted them, bricks wrapped tight in gray tape.
 

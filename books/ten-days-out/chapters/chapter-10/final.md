@@ -58,7 +58,7 @@ The pad lay shut on the counter under Quist's hand. She was the Q on Pike's scre
 
 "Lift it and lean on it," Beth said.
 
-Ned had come in by that door every winter of her life without being shown. Dane she had shown once, in the mudroom. He had it on the first try.
+Ned had come in by that door every winter of her life without being shown. Dane she had shown once, in the mudroom. He had it by the third try.
 
 Tess bent below the counter and came up with a book, cloth-bound, gray, soft at the corners, and laid it on the pad.
 
@@ -250,17 +250,17 @@ Beth was already on the stairs.
 
 * * *
 
-Dane Reyes stood on the *North Reach*'s car deck at the Pruett slip in the right boots, bought at Marr's for a price Tess named without looking at him, and the cold came up into them from the steel. The Friday before Christmas week was ending, and at about four the sodium lights over the ramp had come on orange. The island's slip bridge had gone back up off the state's barge, and on the deck, chained to the D-rings, sat Russ's pickup with Dane's boat on a trailer behind it.
+Dane Reyes stood on the *North Reach*'s car deck at the Pruett slip in the right boots, bought at Marr's for a price Tess named without looking at him, and the cold came up into them from the steel. The Friday before Christmas week was ending, and at about four the sodium lights over the ramp had come on orange. The island's slip bridge had gone back up off the state's barge, and on the deck, chained to the D-rings, sat Russ's pickup with Dane's boat, a twenty-two-footer, on a trailer behind it.
 
 The boat was worse than the Webbers Cove in every way he could list. He had listed them. She had added three, and one of them was the name. *Pier Pressure*, some summer man had painted across the transom. Dane had taken a sanding block to it and got halfway through the first word before he stopped, because Beth had told him renaming a boat was bad luck. He took her word on boats. She had yet to take one of his bets.
 
-He was on leave while the referral sat in somebody's inbox in Arlington, and his gun was in a safe in Portland. The listing sheet for the other boat was in an evidence locker, folded in the back of his notebook, and the defense had a copy. He had told her he'd still put Haskell on the list. He had been right, and he'd have given this boat and the trailer to be wrong.
+He was on leave while the referral sat in somebody's inbox in Arlington, and his gun was in a safe in Portland. The listing sheet for the other boat was in an evidence locker, folded in the back of his notebook, and the defense would have a copy. He had told her he'd still put Haskell on the list. He had been right, and he'd have given this boat and the trailer to be wrong.
 
-Russ had the cab window down and his elbow out of it. On the seat beside him sat a fourteen-pound ham in a box, and a new white bait bucket.
+Russ had the cab window down and his elbow out of it. On the seat beside him sat a fourteen-pound ham in a box.
 
 "Fourteen pounds," Dane said, "and there are two of us."
 
-"Three," Russ said. He tipped his cap at the bucket. "Who's that for? Agent Quist. She's over Tuesday to go through Tess's book with me. Wants me on her task force, every boat in this bay." He set the cap back. "I'll have my traps out by Tuesday."
+"Three," Russ said. "Agent Quist's over Tuesday to go through Tess's book with me. Wants me on her task force, every boat in this bay. Who was at the wheel of the *Dorothy M.* those eleven nights? Nobody I know, and I know everybody. I'll have my traps out by Tuesday."
 
 Beth came aft down the lane checking binders, her gloves in her back pocket: Ned's old leather ones, which she wouldn't wear and couldn't hand back. Her hands had gone red to the knuckle on the steel. The week after Portland she had walked into the district office herself and asked for the boat.
 
@@ -280,6 +280,6 @@ She came to the transom and stopped where she could see the letters, half of the
 
 He took the bet anyway, knowing he'd lose it, and paid her a dollar out of his pocket. She folded it once and put it in her back pocket with Ned's gloves.
 
-The last binder was on the trailer chain. He took it up with his good hand, the bad one helping where it could, and stopped short of the last quarter turn because the arm had nothing left and he had no wish to say so. Beth put her hand over his and gave it the quarter turn, her hand cold, and left it there. She had a minute yet before the wheel.
+The last binder was on the trailer chain. He took it up with his good hand, the bad one helping where it could, and stopped short of the last quarter turn because the arm had nothing left and he had no wish to say so. Beth put her hand over his and gave it the quarter turn. Her hand was cold. Then she went forward to the ladder.
 
-Up forward, at the controls, the deckhand started the bow ramp up on its hydraulics, the sodium light narrowing on the steel as it rose, the gap of black water opening between the boat and Pruett, her hand still on his on the binder.
+Up forward Kenny started the bow ramp up on its hydraulics. The sodium light narrowed on the steel as it rose. Dane stood at the trailer with his hand still on the binder, and above him, in the wheelhouse window, Beth had the wheel, and the gap of black water was opening between the boat and Pruett.
