@@ -66,11 +66,57 @@ They went off the back of the hill into the spruce at nearly a run. Over his hea
 
 Sunday afternoon, an hour before sunset, the generator had been dead since noon. Dane lay on his back on the concrete pad with his head in under the set at the injector pump, and Beth was down on one elbow beside him with the wrench.
 
+Over his chest, through the propped door, the long drive ran straight up to the spine of the north road. When they started the bleed, a man had stood on the spine. Hood. Binoculars. She had looked down at the fitting and up again, and the spine was bare.
+
+It was bare now. Gravel and ledge, and a gray sky sitting on it.
+
+"Anything?" Dane said from under the set.
+
+"No."
+
+He went on working.
+
 It had run dry and sucked air, and the last of the fuel can was in it now. She had the bleed screw cracked a quarter turn. It spat air at her, then froth.
 
-Over his chest, through the propped door, the long drive ran straight up to the spine of the north road. A man stood on the spine. Hood. Binoculars.
+His left hand came out from under the set for the rag. She dug in her coat pocket and came out with an old red seal the credit union had sent back in an empty pouch. She pushed his cuff back with her thumb and knotted it round his bare wrist.
 
-Then he came down the drive.
+"What's that off?"
+
+"An old fare bag." She kept it low. "Fare bag's red. That's the boat's. Tess seals hers yellow, with my envelope in it." She drew the knot tight. "Now you're the boat's."
+
+"I've been the boat's since I jumped."
+
+"Comes off with a knife. If it's off, I'll know."
+
+One thing about him she could check.
+
+A gust came round the point and leaned on the door, and the frozen track groaned under it. Her eyes went up the drive. Bare.
+
+"And the envelope?"
+
+"From the store. Slip inside, flap tucked, never sealed."
+
+"Who sees the slip?"
+
+"Tess. Me. The teller."
+
+Something let go on the shed roof and slid. She held the wrench off the fitting until it was only snow, coming down past the door in a sheet.
+
+A man on the spine with glasses, and Dane wanted her envelope. *Is this going in your log?* was in her mouth, and she kept it there.
+
+She gave him the *Ruthie C*, a picnic boat now. When the bank took her, her father signed every place the bank man's pen showed him, with his other hand shaking under the table. He sent Beth to carry the box of papers out to the man's truck, and at the tailgate the man took it from her as if she'd brought him a pie.
+
+Under the set his hand stopped on the pump. Out on the point the tide worked in the rocks.
+
+She looked up the drive before she said it, and then she said it to the fitting. "Last night. Was that the end of it?"
+
+"That's a not yet," he said. "One I can't afford."
+
+"Then save up."
+
+Up the drive, a step on gravel.
+
+She lifted her eyes. The hood, on the drive, coming down.
 
 Beth put the wrench to the screw to close it, and the jaw rang on the fitting, one bright note. She took it off. The door was propped on its frozen track, and it shrieked; a door shut that had been open was a sign anyway. One door. It faced the drive. The gale off three sides of water had scoured the point to frozen gravel and ledge by afternoon; too little snow lay on it to hold a track, theirs or his.
 
@@ -108,51 +154,13 @@ He took the hand away. He worked the glove back on. He sniffed once. Every shed 
 
 Then gravel again, going away. Past the end of the housing she had a slice of the drive through the door, and the man in it going up, the heel dragging, until he went over the rise and turned down the east-shore fork toward the next empty house.
 
-They didn't get up. She lay along him behind the set with her hand still shut on his wrist.
+They didn't get up. She lay along him behind the set with her hand still shut on his wrist. The knot of the seal was under her thumb, and the thumb would not keep still on it.
 
 "He's checking houses," Dane said. "We move tonight."
 
-"He's done this one. Doors locked, set cold. He's crossed it off."
-
-"Till somebody tells him different."
-
-She went down the list. "Mine he's been through. The boat's under the dragger's nose. Fish house at Calloway Cove's had the cove over the sill since Friday. Bar's dry to it at low water. A fish house is a shed on blocks. He's checking houses."
+"Fish house at Calloway Cove. Bar's dry to it at low water." Her voice came out in pieces, and she stopped and started it again. "A fish house is a shed on blocks. He's checking houses."
 
 "Then Monday."
-
-His pulse was still going hard under her fingers. She let go of the wrist to dig in her coat pocket and came out with an old red seal the credit union had sent back in an empty pouch. She pushed his cuff back with her thumb and knotted it round his bare wrist.
-
-"What's that off?"
-
-"An old fare bag. Fare bag's red. That's the boat's. Tess seals hers yellow, with my envelope in it." She drew the knot tight. "Now you're the boat's."
-
-"I've been the boat's since I jumped."
-
-"Comes off with a knife. If it's off, I'll know."
-
-One thing about him she could check.
-
-He asked the next thing the way he'd have asked for the wrench, with her still lying on him. "And the envelope?"
-
-"From the store. Slip inside, flap tucked, never sealed."
-
-"Who sees the slip?"
-
-"Tess. Me. The teller."
-
-Her cheek was on his coat. Minutes ago a man's hand had been a foot from her head, and Dane wanted her envelope. *Is this going in your log?* was in her mouth, and she kept it there.
-
-She gave him the *Ruthie C*, a picnic boat now. When the bank took her, her father signed every place the bank man's pen showed him, with his other hand shaking under the table where the man couldn't see. So he asked Beth to carry the box of papers out to the man's truck, and at the tailgate the man took it from her as if she'd brought him a pie.
-
-Then, into his collar: "Last night. Was that the end of it?"
-
-He was quiet. Out on the point the tide worked in the rocks.
-
-"That's a not yet," he said. "One I can't afford."
-
-"Then save up," she told his collar.
-
-His free hand came onto her back and stayed. She kept her ear on his chest. Under the coat and the fleece his heart went hard a long time, then slower, then slow, and she didn't move till it got there.
 
 The light in the door had gone blue when a flashlight came over the spine. Dane's gun came up off the pad.
 
@@ -166,9 +174,9 @@ They were up and out from behind the set, and Dane had the gun put away, before 
 
 He handed it to her. She took up her place with her back to the housing, at the end where the man's hand had been.
 
-Dane held Ned's flashlight for the funnel, low, his body between the beam and the road, the cuff of his jacket down over the tag. The beam wasn't steady.
+Dane held Ned's flashlight for the funnel, low, the cuff of his jacket down over the tag. The beam wasn't steady.
 
-"Bit higher," Ned said, not looking up. He poured. "You hold a light like nobody ever handed you one."
+"Bit higher," Ned said. He poured. "You hold a light like nobody ever handed you one."
 
 "Nobody did."
 
@@ -178,10 +186,10 @@ She'd keep till June, and then Ned would give up her wheel and the district woul
 
 "Night, Bethie. Marshal."
 
-He took his light and went down the drive. At the foot of it he turned. His beam crossed the shed once on its way to the harbor.
+He took his light and went down the drive toward the harbor.
 
-Full dark came down on the point. Dane spoke at her shoulder. "Do we run it?"
-
-Beth stepped aside from the housing. His own light, kept low, found what she had been standing in front of.
+Full dark came down on the point. Beth stepped aside from the housing. Dane's own light, kept low, found what she had been standing in front of.
 
 In the frost bloom on the cold steel, the clear print of a bare hand. Five fingers. A foot above where her head had been.
+
+"Do we run it?" Dane said.

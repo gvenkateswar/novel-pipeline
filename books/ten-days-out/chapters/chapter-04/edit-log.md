@@ -28,3 +28,6 @@ Flags for the orchestrator:
 - Ch 3 final's last read lines were checked only for the left-heel print, the razor and the Pike screen. They agree with this chapter. I did not read past line 40.
 - The Ch 4 s3 Ned look-back plant is present (the flashlight arc at the foot of the drive).
 - Orchestrator triage after the v2 cold read (6/10): 'She wants me alive' → 'Q wants me alive' (pronoun); retired 'went still all down his length' and the hand-to-hip tic. Ch 02's grand-jury line now names the date ('a week from Monday, the twenty-third'), which ends the countdown confusion the cold reader raised in both Ch 04 reads.
+
+## r3 (fix round 3 of 3, Oct 29)
+4.2 reordered so the clue talk runs under the dread, before the man comes down the drive. The near-miss is now the climax, followed by a short aftermath, Ned in a few lines, and the handprint. Ned's look-back beam is cut, and the third look-back plant moves to the Ch 06 beats. Installed as final.md without a further tournament, at the round cap set by the author's instruction. The previous final is kept as final-r2.md.

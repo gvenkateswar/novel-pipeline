@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–05, 14,442 words)
+# Audit — ten-days-out (chapters 01–05, 14,455 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -31,7 +31,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Ned looks back (plants and the payoff) | 0 | 0 | 1 | 0 | 0 | 1 | 6 |  |
 | Lifts a hand | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
 | Ned's hearing aid | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
-| Ned's rag on the windows | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
+| Ned's rag on the windows | 0 | 0 | 0 | 1 | 0 | 1 | 3 |  |
 | "Ask me sober" | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | Tess's hand, the ballpoint | 0 | 1 | 0 | 0 | 1 | 2 | 3 |  |
 | Back of her hand | 0 | 1 | 0 | 0 | 0 | 1 | 3 |  |
@@ -157,8 +157,9 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 
 - 7× “the north reach”
 - 6× “the margaret ann”
-- 5× “under her fingers”
+- 6× “under the set”
 - 5× “the north road”
+- 4× “under her fingers”
 - 4× “hand stayed on”
 - 4× “the fuel float”
 - 4× “she could see”
@@ -172,10 +173,10 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - knuckles?: 2 (0.1/1k)
 - throat: 4 (0.3/1k)
 - reath: 9 (0.6/1k)
-- pulse: 2 (0.1/1k)
-- chest: 4 (0.3/1k)
-- hands? (stopped|stilled|went still|flat): 0 (0.0/1k)
-- shoulders?: 18 (1.2/1k)
+- pulse: 1 (0.1/1k)
+- chest: 3 (0.2/1k)
+- hands? (stopped|stilled|went still|flat): 1 (0.1/1k)
+- shoulders?: 17 (1.2/1k)
 - gaze: 0 (0.0/1k)
 - tightened: 0 (0.0/1k)
 - swallowed: 1 (0.1/1k)
@@ -187,7 +188,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 01 | 3,103 | 15.2 | 11.9 | 21% | 0.0 | 0.0 | 0.0 | 2 | short |
 | 02 | 2,825 | 15.5 | 10.3 | 17% | 0.0 | 0.0 | 0.7 | 3 | short |
 | 03 | 2,607 | 16.2 | 11.9 | 19% | 0.0 | 0.0 | 0.0 | 2 | short |
-| 04 | 2,223 | 11.2 | 8.1 | 26% | 0.0 | 0.0 | 0.0 | 3 | mean short |
+| 04 | 2,236 | 11.2 | 7.9 | 27% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 | 05 | 3,684 | 11.1 | 8.2 | 25% | 0.0 | 0.5 | 0.0 | 4 | mean short openers |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
@@ -200,10 +201,10 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 ### Mood words per 1,000 (count; flag a cluster, not a word)
 
-- quiet: 9 (0.6/1k)
+- quiet: 8 (0.6/1k)
 - humm?(ing|ed)?: 4 (0.3/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 28 (1.9/1k)
+- still(ness)?: 27 (1.9/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 1 (0.1/1k)
@@ -232,7 +233,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | em dashes | 1 | 1 | 2 | 0 | 1 | 5 | 0.3 | 2.0/1k |  |
 | semicolons | 0 | 3 | 1 | 5 | 0 | 9 | 0.6 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 2 | 1 | 3 | 1 | 3 | 10 | 0.7 | 1.0/1k |  |
-| one-sentence paragraph | 17 | 18 | 24 | 11 | 35 | 105 | 7.3 | report |  |
+| one-sentence paragraph | 17 | 18 | 24 | 15 | 35 | 109 | 7.5 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
