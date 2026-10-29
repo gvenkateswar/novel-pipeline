@@ -128,7 +128,7 @@ She gave it to him in order. Envelopes from the store, a slip inside, her name o
 
 "Okay. What keeps a bag shut?"
 
-She had Thursday's seal in her coat pocket, the red one cut off the fare bag. She knotted the strap round his wrist over the cuff of his fleece and pulled the knot tight.
+She had an old seal in her coat pocket, a red one the credit union had cut off a fare bag and sent back in the empty pouch. She knotted the strap round his wrist over the cuff of his fleece and pulled the knot tight.
 
 "Fare bag's red." She gave the knot one more pull. "That's the boat's. Tess seals hers yellow."
 

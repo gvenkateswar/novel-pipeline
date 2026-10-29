@@ -23,3 +23,4 @@ Length pass only; the dialogue doctor's voices were kept. No lines added. No plo
 - "A man on her afterdeck" → "on the dragger's afterdeck" (listener pass).
 - Logged for the Ch 05 beats and the manuscript audit: Russ's delivery scene sags (3); Dane's calm patter used four times in the book; Dane's tics ("Okay.", "For the record", "Talk to me."); "with his whole face", "into her hair" and "'Him,' Beth said" repeated across chapters; Ned's exit gesture three times; every scene ends on a neat beat; Dane telling Russ the feds want him off the *Margaret Ann* after "observe only".
 - Suspects from the page: Tess 35 / Dane's reports leaking 25 / Ned 15 / Russ 12 / Dane 8 / other 5 (Ned was 45 after Ch 03).
+- The red tag is an old spent fare-bag seal that the credit union cut and sent back in the empty pouch. It is no longer Thursday's, which the courier took zipped at Pruett (log flag).
