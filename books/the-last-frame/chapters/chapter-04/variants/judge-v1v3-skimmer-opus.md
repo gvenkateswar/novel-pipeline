@@ -1,0 +1,13 @@
+A = chapters/chapter-04/variants/v3.md · B = chapters/chapter-04/variants/v1.md · Judge: Skimmer persona, Opus · Also read: docs/calibration.md
+
+1. **Winner: B**
+
+2. **Why:** Tired, in bed, the morning after the kiss, B gets me to her in the doorway faster and keeps me in the room with them: his hands coming out of his pockets, her pulse running quick, him grinning at the pinsetters like a fool. A gives me a man walking his machines first, and in A even her pulse runs like machinery.
+
+3. **Where A lost me:** At about 3%, "At each lane he threw one ball off the return, pressed the reset, and stood to listen while the machine at the far end swept and set." That's a man alone with ten machines the morning after a first kiss, and my thumb sped up right there. "Two old sisters on the church steps" slowed me back down, but then she stands in the door and takes "the room a machine at a time: the sweeps, the hum under the floor, five and six together, eight coming down late" (~6%), and it's the machine roll call all over again. I lost it a second time at the lesson (~16%): "under the links he could feel her pulse going along, even... like a new shaft in a good bearing, with no play anywhere." Just after a kiss, an even pulse and a bearing tell me nothing is happening. I came back for the radio and the store, and skimmed again at the bylaws (~83%): "First, she posted it on that board and charged it from the next league night, in her own hand... Second, paragraph four says lineage stands..." That's a contract, numbered.
+
+4. **Where B lost me:** At about 82%, the same numbered bylaws: "First. December of two thousand four, posted on the board and charged from the next league night, in Arlene's hand. That is where I took the form." My thumb moved, and the seven hundred dollars a week just before it was already the couple doing business. The bank letter in the store (~42%), "They'll hold it to March first for a fee, and you pay the fee whether you buy or not," got a light skim too, though "If she makes it, Dad, what've you bought?" pulled me back. Before 42% it didn't lose me. The machine pass at the start is one short paragraph, and then she's in the door.
+
+5. **Confidence: medium.** These are the same chapter beat for beat, and they share the same dead spot at the bylaws. The difference is A's opening and the cooler wrist scene against B's warmer small touches (the Danny memory at the wrist, "She was only sulking," the check crackling in his pocket, "a foot away"). A's best moment, her hand waiting on the ledger until he moves his palm, nearly evens it up.
+
+6. **Same-author check:** Yes. They have the same scenes, the same dialogue nearly word for word, and the same motor similes.

@@ -1,0 +1,13 @@
+A = chapter-04/variants/v3.md; B = chapter-04/variants/v1.md. Persona: Buyer. Model: Sonnet.
+
+1. **Winner: A**
+
+2. **Why:** The two of them are in a room together listening to the same machines and I could feel them noticing each other (she hears lane eight go late, he sees it land on her face), and the hand on the wrist and the ledger scene at the end have more heat in them.
+
+3. **Where A lost me:** Mostly it didn't, but my thumb sped up at the bank letter, about 48%: "Bank in Concord will lend you what the appraiser says the alley's worth, to buy it March first. That holds through New Year's Eve, and then it's gone. Keeping it to March first costs a fee, and you pay it whether you buy or not." That is a man reading a loan term sheet aloud. It is saved by "If she makes it, Dad, what've you bought?" right after. I also slowed at the "First... Second... Third" bylaws speech at about 85%: "Second, paragraph four says lineage stands as set in September, 'as the league's bylaws provide.'" That is a lawyer talking, not a woman I'd want to kiss.
+
+4. **Where B lost me:** The same two places, a little worse. The bank letter at about 45% is nearly word for word the same paragraph ("They'll hold it to March first for a fee, and you pay the fee whether you buy or not."). The bylaws speech at about 85% ("First. December of two thousand four, posted on the board... Second. Paragraph four says... Third.") is identical in function. B's opening also spends two beats on nothing before Ellen walks in: "backed once into the bank, and drove back the way he had come." After that, B's Ellen has less to do in her first scene. She asks "Why are all ten running?" and the answer is flat compared with A, where she just stands there and hears the room.
+
+5. **Confidence: medium.** The chapters are about 85% the same text and the same beats. The deciding difference is in the first scene and the office ending. A has the listening mirror at the door, "Her watch was under his palm, where she couldn't have read it, and she didn't move," and her hands waiting on the ledger "until he took his palm away." B has the nice orange-soda line about Danny's wrist and Ray grinning at the pinsetters, which I liked, but its pulse line ("going quick, the way a motor runs fast before it's warmed through") and its ending feel more explained to me. A shows it. Neither reads like the clipped procedure from the boring anchors (A1, A2). Both have a couple doing business at 85%, but in both the business is also the flirting.
+
+6. **Same-author check:** Yes. Same scenes, same radio bit, same motor-and-clock images, and the same bylaws speech. It reads like two passes over one draft.

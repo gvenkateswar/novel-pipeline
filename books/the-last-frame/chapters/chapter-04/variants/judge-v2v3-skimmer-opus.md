@@ -1,0 +1,13 @@
+A = chapters/chapter-04/variants/v2.md · B = chapters/chapter-04/variants/v3.md · Judge: Skimmer persona, Opus · Read: A, B, docs/calibration.md
+
+1. **Winner: A**
+
+2. **Why:** A gets me off the machines and onto her faster, and the radio scene made me laugh twice ("Wilco means you will comply. I have not asked you for anything yet."; him whistling down the catwalk after "Two"). B kept handing me another round of pins and ledgers just when I wanted the two of them.
+
+3. **Where A lost me:** "Three things," Ellen said. "First. December of two thousand four. Posted on the vestibule board and charged from the next league night, in Arlene's hand." (~84%). She's counting off a bylaw history like it's an exhibit list, and my thumb sped up until "Who put it there?" / "I did." pulled me back. The opening lane check ("He threw all ten toggles under her tape at the counter, and went down the line rolling one house ball down every lane…" at ~4%) is a man alone with machines, but it's one paragraph and then her headlights come up, so I stayed.
+
+4. **Where B lost me:** right at the start, then again late. "At each lane he threw one ball off the return, pressed the reset, and stood to listen while the machine at the far end swept and set." (~3%), and then a second machine-by-machine pass from her side: "From lane one he watched her take the room a machine at a time: the sweeps, the hum under the floor, five and six together, eight coming down late." (~6%). Same lanes twice before anybody talks. In the pit, "found it jammed across the elevator's lip and worked it loose by the neck with two fingers while she was still turning, then fed it back in straight" (~45%) is more repair than I wanted. Late on, the same bylaw list as A ("First, she posted it on that board…", ~85%), and then she pulls the ledger down and "ran one finger down Arlene's column to the night the rate changed" (~90%), so I'm reading a ledger inside a scene about a ledger. B's "He could tell when she was smiling at a customer and when she was only being civil to one" and "the corner of her mouth didn't hold at all" are better than anything A has at those two points, which is why this isn't high.
+
+5. **Confidence: medium.** Same chapter with different trims. A is shorter in the places I skim and funnier in the radio scene, and "He reached behind him for the doorknob" before the chair gives the ending a beat B doesn't have. B has the better lines about longing. If the author forgives the opening machine pass, it could go the other way.
+
+6. **Same-author check:** Yes. Same skeleton, same scenes, many of the same lines word for word.
