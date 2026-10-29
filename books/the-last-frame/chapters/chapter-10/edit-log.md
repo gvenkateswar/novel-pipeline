@@ -96,3 +96,28 @@ Protected moments untouched, word for word: Kate on the speaker ("Then do it." /
 - None needing plot change. Texture budget holds: one piece per scene except s2, where the stiff padlock and the box on lane five are both in the beats.
 - Continuity: Linda's 187 is no longer on the page in Ch 10 ("the house record"). Ch 03's account of who watched from the pit is still to be checked against "he had watched from the pit one February".
 - Pipeline pairs for the log: (1) stop: any recurring sound word (tick, buzz, hum) used for three different sources in one chapter; do: give each source its own verb and let one sound belong to the scene's anchor. (2) stop: a numeric in-world record ("hundred and eighty-seven") when the beat sheet caps it; do: name it by what it was ("the house record").
+
+
+## Triage after cold read (final.md in place), Oct 29
+
+Draft edited: final.md (3,398 words before; backup of the pre-triage text in the session scratchpad). Line items only; none of the judges' named moments touched.
+
+**Word count: `wc -w final.md` = 3,377** (band 2,944–3,456). By scene (the title counts toward s1): s1 508, s2 988 (floor 900), s3 806 (floor 800), s4 725, s5 338. Kiss paragraph from "Ellen came up off the step" to "Twice behind lane seven" = about 160 (floor 150).
+
+**Items**
+1. Opening: "The pocketknife in Ray's hand took the cedar off…"; "her cigar box" → "Ellen's cigar box".
+2. Kate's call: "I said I'd sleep on it, and I slept on it, four hours…" → "I slept on it, four hours…". Added a Kate sound in the same paragraph as her line: "Kate blew a breath across the mouthpiece. "Like this."" The ending is now "Kate hung up before either of them answered, and the screen went dark between them." The question stays unanswered.
+3. s4 opener: new line "Ray stood at his own counter under the clock with the phone to his ear." before "You're in the other chair."; "The bank's committee had sat at two."
+4. Envelope: Ray says "That goes back to the credit union." Danny's "Go on. I've got the counter." stays.
+5. Judy's blotter slush depth cut.
+6. Gooseneck: "He shifted the ball to his hip, leaned to it, and said, "From next year…"", so the action and the first words share a sentence.
+7. Counts now: cord 3 (black cord; biting; over the cord), iron 2, gooseneck 2 (the speech and the ending "She didn't key it"). Dale "looked at the gooseneck" → "looked at Ray". "the catch held her short" and "the glasses drew taut and hung off his jacket" replace the other cord mentions. "iron step" now "the step" in two places.
+8. Sign: electrode, housing and the shop's sheet cut. "he fitted it into the script's curl, with the disconnect open on the pole below him." The disconnect stays open.
+9. "Ellen took her time… slow and plain" cut, with the explaining sentence. The gesture stays, shorter: "Her thumb moved once along the hinge of his jaw."
+10. Denise: "said nothing at all" → "folded her hands in her lap." Not the cloth: she had already put it down two paragraphs earlier ("Denise put down her cloth"), so putting it back in her hand would be a continuity error. Her hands carry the beat.
+11. s2 key: "He stood at the customer side of her counter and worked the small brass key off his ring…". s5's ring choreography stays whole.
+12. Ticks: cut the case glass ("The heat was coming up, and the case glass ticked…" removed whole). Left: Kate's turn signal, the motors cooling, the watch.
+
+**Added life (floor)**: s3 fell to 779 after the cuts, under its floor. Restored 27 words, both in Ray's register and inside the scene's facts: "They were colder than the step and smaller than he had carried them in his head all month, and he held on." and "and began to warm there" on Ellen's hands. No new object, event or line.
+
+**Not done / flagged**: nothing needing plot change. "Hands in her lap" is a small posture, not a silence tic; the chapter's remaining "didn't answer / without a word / didn't open" silences (cold read, section 5) were not on the list and are left.

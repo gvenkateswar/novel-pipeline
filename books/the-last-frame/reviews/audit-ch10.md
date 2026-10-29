@@ -1,4 +1,4 @@
-# Audit — the-last-frame (chapters 01–10, 31,132 words)
+# Audit — the-last-frame (chapters 01–10, 31,111 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -57,7 +57,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Breath on his wrist | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
 | Ray's voice, unhurried | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | Pilot (Ray's voice as a 3 a.m. pilot's) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4 |  |
-| "Stay on the step" / the step | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |  |
+| "Stay on the step" / the step | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 | 3 |  |
 | Pencil behind the ear | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | Glasses on the forehead | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | The pool sheet | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 5 |  |
@@ -78,8 +78,8 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 ### Frequent 3–5 word n-grams (4+ uses, whole book)
 
 - 13× “all ten lanes”
-- 10× “and said nothing”
 - 10× “the glass block”
+- 9× “and said nothing”
 - 9× “on all ten lanes”
 - 8× “through the glass”
 - 8× “in both hands”
@@ -110,20 +110,20 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 5× “her eyes went”
 - 5× “said a word”
 - 5× “without a word”
-- 5× “had never once”
 - 5× “her other hand”
 - 5× “she had left”
 - 5× “the linda gagnon”
 - 5× “the plow bank”
 - 5× “dale looked at”
 - 5× “inside his jacket”
+- 5× “through the steel door”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
 - jaw: 3 (0.1/1k)
 - knuckles?: 7 (0.2/1k)
 - throat: 0 (0.0/1k)
-- reath: 5 (0.2/1k)
+- reath: 6 (0.2/1k)
 - pulse: 1 (0.0/1k)
 - chest: 4 (0.1/1k)
 - hands? (stopped|stilled|went still|flat): 5 (0.2/1k)
@@ -145,7 +145,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 07 | 2,890 | 18.5 | 14.8 | 15% | 0.0 | 0.3 | 0.0 | 3 | mean |
 | 08 | 3,330 | 21.2 | 13.9 | 10% | 0.0 | 0.3 | 0.0 | 2 | mean |
 | 09 | 2,953 | 16.6 | 13.4 | 17% | 0.0 | 0.3 | 0.0 | 4 | short openers |
-| 10 | 3,384 | 15.6 | 11.7 | 16% | 0.0 | 0.3 | 0.6 | 3 | short |
+| 10 | 3,363 | 15.5 | 11.8 | 15% | 0.0 | 0.3 | 0.6 | 3 |  |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -160,7 +160,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 - quiet: 7 (0.2/1k)
 - humm?(ing|ed)?: 7 (0.2/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 70 (2.2/1k)
+- still(ness)?: 70 (2.3/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 0 (0.0/1k)
@@ -189,10 +189,10 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | not because ... but because | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0.0 | 0.0/1k | FLAG |
 | sentence-initial And/But/And yet | 2 | 1 | 1 | 0 | 1 | 0 | 1 | 2 | 0 | 0 | 8 | 0.3 | 3.0/1k |  |
-| em dashes | 0 | 0 | 0 | 1 | 0 | 3 | 4 | 3 | 2 | 1 | 14 | 0.4 | 2.0/1k |  |
+| em dashes | 0 | 0 | 0 | 1 | 0 | 3 | 4 | 3 | 2 | 1 | 14 | 0.5 | 2.0/1k |  |
 | semicolons | 3 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 6 | 0.2 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 2 | 4 | 0.1 | 1.0/1k |  |
-| one-sentence paragraph | 6 | 23 | 21 | 19 | 13 | 29 | 11 | 17 | 21 | 24 | 184 | 5.9 | report |  |
+| one-sentence paragraph | 6 | 23 | 21 | 19 | 13 | 29 | 11 | 17 | 21 | 23 | 183 | 5.9 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
