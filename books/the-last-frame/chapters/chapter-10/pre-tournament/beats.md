@@ -1,4 +1,6 @@
-# Chapter 10 — Ice-Out · Beat sheet
+# Chapter 10 — Ice-Out · Beat sheet (ARCHIVED, pre-tournament)
+
+*Archived Oct 29 by the plot architect before the tournament rebuild. This sheet produced `final.md` (3,429 words), which the cold reader scored 4/10. The text below is the sheet as it stood, unchanged.*
 
 *Plot architect, Oct 29, 2026. Sources: outline.md rev 3.1 (Ch 10, and the Shape tables), continuity-log.md (Ch 09 entry, Ch 09 flags, Ch 08 flags, Ch 07 flags, the plant ledger, and the corrected winter-total chain, which overrides the bible's ledger rows), story-bible.md, genre-maps/romance.md, `chapter-09/final.md`, `chapter-09/reader-notes.md`, `chapter-09/beats.md`, and the finished Ch 01, 03, 05, 07 and 08. Ray's POV throughout. This is the last chapter. It covers 89.3% to 100%.*
 
