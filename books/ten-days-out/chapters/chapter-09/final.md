@@ -104,13 +104,13 @@ She went to the breaker box on the wheelhouse's aft bulkhead. Its door was rimed
 
 Off the bottom rung she stood on the steel and listened.
 
-Somewhere forward along the port side, by the propane truck, a can was being poured. It glugged and caught its breath and glugged again. Something wet slapped the deck plates. Then a man was walking on the steel, one boot setting down clean and the next one dragging its heel across the plates like a file drawn once, and then the clean one again. The smell reached her through the cold a breath behind the sound, gasoline, sweet and wrong.
+Somewhere forward along the port side, by the propane truck, a can was being poured. It glugged, stopped, glugged again. Something wet slapped the deck plates. Then a man was walking on the steel, one boot setting down clean and the next one dragging its heel across the plates like a file drawn once, and then the clean one again. The smell reached her through the cold a second behind the sound, gasoline, sweet and wrong.
 
-In the lane a chain rang. Dane had sat all night facing the floods, and when they died he was blind. He had gone toward the pouring by its sound and fouled a binder chain somebody had dragged loose across the lane, and she heard him go down on the steel and the breath go out of him when the bad arm took it.
+In the lane a chain rang. Dane had sat all night facing the floods, and when they died he was blind. He had gone toward the pouring by its sound and fouled a binder chain somebody had dragged loose across the lane, and she heard him go down on the steel and the air go out of him when the bad arm took it.
 
-"I'm by the bait truck's back wheel," Dane said from the deck, low. "I've got the gun, and I can't see a thing. I'm on my bad side. I'm getting up. I've changed my mind about getting up. I'm still here."
+"I'm by the bait truck's back wheel," Dane said from the deck, low. "I've got the gun, and I can't see a thing. I'm on my bad side. I'm getting up. I've changed my mind about getting up. I'm here."
 
-Then the file-scrape came down the lane toward his voice. A boot found him in the dark with a sound like a sack hitting a floor.
+Then the file-scrape came down the lane toward his voice. A boot found him in the dark. It sounded the way a sack does, hitting a floor.
 
 "Where's your cop?" the man said to the deck at large.
 
@@ -122,7 +122,7 @@ There was gasoline on the steel all round them. Starlight lay on the wet plates 
 
 The boot came down again. She heard it land on the bad arm. Dane's voice stopped for as long as a man can hold his breath under water, which was not long, and then it started again, lower.
 
-"Holding," Dane said. "I'm holding. He's on my left, he's heavy, he smells like a gas pump, and you'll want to remember I did what I was told."
+"Holding," Dane said. "I'm holding. He's on my left, he's heavy, he smells of gas, and you'll want to remember I did what I was told."
 
 The scrape went away from him, aft, toward the open stern. By the transom a lighter's wheel scratched. Sparks jumped and died. The man's glove was soaked with what he'd poured, and his thumb slid on the wheel. It scratched again.
 
