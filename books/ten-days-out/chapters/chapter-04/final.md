@@ -42,7 +42,7 @@ He unscrewed the cup and poured lying down. "Nothing's flying. LifeFlight wouldn
 
 Russ took that and drank. Then he went off the top at a crouch, and Beth saw him take the path that came out behind Marr's.
 
-Dane rolled half onto his side, typed once, and lay flat again. The phone buzzed against the granite. He read it, and then he turned it to her himself. The message was from Pike.
+Dane rolled half onto his side, typed once, and lay flat again. The phone buzzed against the granite. He read it, and then he turned it to her himself. The message was from Pike, his chief in Portland. Her messages ran short.
 
 *Q says hands off the vessel. Observe only. Keep witness in place.*
 

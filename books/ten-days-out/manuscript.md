@@ -768,7 +768,7 @@ He unscrewed the cup and poured lying down. "Nothing's flying. LifeFlight wouldn
 
 Russ took that and drank. Then he went off the top at a crouch, and Beth saw him take the path that came out behind Marr's.
 
-Dane rolled half onto his side, typed once, and lay flat again. The phone buzzed against the granite. He read it, and then he turned it to her himself. The message was from Pike.
+Dane rolled half onto his side, typed once, and lay flat again. The phone buzzed against the granite. He read it, and then he turned it to her himself. The message was from Pike, his chief in Portland. Her messages ran short.
 
 *Q says hands off the vessel. Observe only. Keep witness in place.*
 
@@ -1744,7 +1744,7 @@ She set the book face down on her knee and wiped her fingers down her jeans, har
 
 She opened it again, at the money.
 
-Then she looked from the page to his arm. Five strips across it, the paper of the middle one gone pink. The shot had come at the two of them as one shape on the ramp head, and found him.
+Then she looked from the page to his arm. Five strips across it, the paper of the middle one gone pink. The shot had come at the two of them as one shape on the ramp head, and found him. The money in her envelope said she was theirs.
 
 She said it to him low, so as not to wake him.
 
@@ -2436,7 +2436,7 @@ Tess kept her eyes on Beth. "Haskell asked me something at supper last night. Qu
 
 She turned her back on them and started squaring the packs in the cigarette rack, row by row.
 
-"That will need to be repeated, Ms. Marr," Quist said. "To which question is the answer being given?"
+"That will need to be repeated, Ms. Marr," Quist said. "Which question is being answered?"
 
 * * *
 

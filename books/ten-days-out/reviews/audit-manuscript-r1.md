@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–10, 30,263 words)
+# Audit — ten-days-out (chapters 01–10, 30,277 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -217,13 +217,13 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 01 | 3,066 | 15.2 | 11.7 | 20% | 0.0 | 0.0 | 0.0 | 2 | short |
 | 02 | 2,892 | 15.1 | 10.2 | 19% | 0.0 | 0.0 | 1.0 | 3 | short |
 | 03 | 2,650 | 15.6 | 11.1 | 18% | 0.0 | 0.0 | 0.0 | 2 | short |
-| 04 | 2,278 | 11.3 | 8.0 | 25% | 0.0 | 0.0 | 0.0 | 3 | mean short |
+| 04 | 2,286 | 11.3 | 8.0 | 25% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 | 05 | 3,689 | 11.2 | 8.5 | 24% | 0.0 | 0.5 | 0.0 | 4 | mean short openers |
 | 06 | 3,297 | 10.6 | 7.4 | 27% | 0.0 | 0.0 | 0.0 | 3 | mean short |
-| 07 | 3,084 | 12.0 | 8.9 | 23% | 0.0 | 0.6 | 0.0 | 6 | mean short openers |
+| 07 | 3,093 | 11.9 | 8.8 | 23% | 0.0 | 0.6 | 0.0 | 6 | mean short openers |
 | 08 | 3,097 | 13.8 | 11.2 | 17% | 0.0 | 0.0 | 0.0 | 2 | short |
 | 09 | 2,963 | 13.7 | 11.7 | 20% | 0.0 | 0.0 | 0.0 | 3 | short |
-| 10 | 3,247 | 13.7 | 9.1 | 14% | 0.0 | 0.0 | 0.6 | 4 | openers |
+| 10 | 3,244 | 13.7 | 9.1 | 14% | 0.0 | 0.0 | 0.6 | 4 | openers |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 

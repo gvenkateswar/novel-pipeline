@@ -88,7 +88,7 @@ Tess kept her eyes on Beth. "Haskell asked me something at supper last night. Qu
 
 She turned her back on them and started squaring the packs in the cigarette rack, row by row.
 
-"That will need to be repeated, Ms. Marr," Quist said. "To which question is the answer being given?"
+"That will need to be repeated, Ms. Marr," Quist said. "Which question is being answered?"
 
 * * *
 
