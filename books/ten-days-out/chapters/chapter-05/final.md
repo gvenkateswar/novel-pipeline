@@ -1,12 +1,12 @@
 # Chapter Five: Half Tide
 
-Her jeans hung steaming on the stove rail, and the wet wool cooked. Beth sat in Dane's fleece with the sleeves down past her hands and her bare feet on the oven door. The heat came back into her legs from the outside in, shins first, thighs last. Dane crouched at the firebox in a summer family's kitchen with his sleeves shoved up and fed it one split, then another. The firelight came up under his forearms. She let herself look.
+Her jeans hung steaming on the stove rail, soaked to the thigh by the squall that had caught her on the shore at first light, and the wet wool cooked. Beth sat in Dane's fleece with the sleeves down past her hands and her bare feet on the oven door. The heat came back into her legs from the outside in, shins first, thighs last. Dane crouched at the firebox in a summer family's kitchen with his sleeves shoved up and fed it one split, then another. The firelight came up under his forearms. She let herself look.
 
 Between squalls the Monday air had gone dead. She put her cheek to a gap in the sheet over the window. Off the roof the smoke stood straight up in one gray stalk the whole island could read.
 
 "Smoke," she said.
 
-Yesterday a man had stood on the spine with binoculars on this point. Her eyes went up the drive and stayed there.
+Yesterday a man had walked down that drive and laid his bare hand on the set to feel if it was warm. Her eyes went up the drive and stayed there.
 
 "You were blue an hour ago." He put on another split and shut the door on it. "It stays lit till you aren't."
 
@@ -72,7 +72,7 @@ The truck went back up the drive and over the spine. Beth kept the shape of it a
 
 Inside, Dane set the pot on the stove. "She knows. We move."
 
-"Sill's out of the water at the fish house. Bar's knee-deep at half tide, and half tide's twenty to eleven. We go then."
+"Sill's out of the water at the fish house. I looked. Bar's knee-deep at half tide, and half tide's twenty to eleven. Ninety seconds across, if we don't stop. We go then."
 
 She shut the stove's damper hard and raked the ash up over the coals. Over the roof the smoke thinned, leaned, and went to nothing much.
 
@@ -108,7 +108,7 @@ He came away from the window and took his jacket off the chair.
 
 Out the back. Down onto the ledge below the house and along the shore path in the rock's shadow, a bag on each of their shoulders. The ledge stood between them and the fire, so the glow went up into the sky and left the water black. Behind them something in the shed went with a bang. Beth didn't turn round.
 
-The bar ran out from the foot of the ledge into the dark. She went in without stopping. The flood came over the tops of her boots and filled them. Knee-deep. The gut a stride to her left, where the bottom went. His belt in her fist. Dane a stride inside her, on the side away from the drop, his feet going where hers went. The bags rode high, clear of the wet.
+The bar ran out from the foot of the ledge into the dark. "Behind me," she said. "Feet where mine go." She went in without stopping. The flood came over the tops of her boots and filled them. Knee-deep. She had walked this bar dry since she was six and never once with water on it. Somewhere on her left was the gut, where the bottom went. His belt in her fist. Dane behind her, his feet going where hers went. The bags rode high, clear of the wet.
 
 He didn't talk. Nobody had told him to. It was the first time she'd known him quiet with something burning at his back.
 
@@ -116,7 +116,7 @@ Once his hand came back and closed on her wrist. A second. Then it let go.
 
 Cobbles knocking under the flood. The water working at the drop on her left, a deeper note than the bar's. Behind them the fire, a crack and a long sigh. His breathing. Over the ledge the clouds had gone red underneath.
 
-Her feet read the bar the way her hands read a binder. Cobble, cobble, a flat stone that rocked, the lip somewhere off to the left that she didn't go looking for. The cold had her shins and was working at the backs of her knees. The water in her boots was weight now.
+Her feet read the bar the way her hands read a binder. Cobble, cobble, a flat stone that rocked. Then her left foot came down on ledge, hard and square under the weed, and past the edge of it found nothing at all. She drew the foot back and took them both a stride to the right. The cold had her shins and was working at the backs of her knees. The water in her boots was weight now.
 
 Then a light.
 
@@ -138,7 +138,7 @@ She moved on the draw, one step, while the water was going her way, and stopped 
 
 On the shore the beam stopped on the water once more, a long time, a long way short. Then it lifted and went back up the path toward the house. The ledge went dark.
 
-A minute and a half, she'd told him this morning. They had spent more than that standing still.
+Ninety seconds, she'd said at the stove. They had spent more than that standing still.
 
 She went on, slow, a foot at a time. The bar rose under her. The water let go of her knees, then her ankles, and the cove was in front of them.
 
@@ -154,7 +154,11 @@ The fish house sat under the ledge, and from no road and no part of the bar coul
 
 She lit the lantern from a sliver out of the stove and turned it low.
 
-They got their boots off sitting on the planks by the stove. Hers had filled at the bar and came off with a suck. She tipped the cove out of them at the door. Then the wool, wrung and hung on the wire along the stovepipe, where it steamed at once. They worked without talking. Dane wrung his sock out over the coal hod and kept on wringing it. When she looked over, he opened it and peered inside, as if there might be a fish.
+They got their boots off sitting on the planks by the stove. Hers had filled at the bar and came off with a suck. She tipped the cove out of them at the door. He tipped his out after hers. "These are waterproof," he said.
+
+"That's a narrow definition of waterproof," she said.
+
+Then the wool, wrung and hung on the wire along the stovepipe, where it steamed at once. They worked without talking. Dane wrung his sock out over the coal hod and kept on wringing it. When she looked over, he opened it and peered inside, as if there might be a fish.
 
 On the shelf over the bench her father's red Pelican case sat where it had always sat, square in the lantern light.
 

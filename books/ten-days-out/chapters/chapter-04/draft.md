@@ -1,211 +1,191 @@
-# Chapter Four: Glassing the Harbor
+# Chapter Four: Feeling for Warm
 
-Sunday came up gray, and Beth lay on top of Lookout Hill with the cold coming up out of the granite into her breastbone an inch at a time. The rock had been wet all night. It went through her coat and her sweater to the bone, and stayed there. Blueberry stems scratched her cheek. Dane lay flat beside her, and after a while he passed her the binoculars without a word.
+Beth lay flat on the top of Lookout Hill beside Dane, the Ashbys' binoculars to her eyes. It was Sunday, first light, and the granite had been wet all night; its cold had got into her breastbone and sat there like a swallowed stone. Blueberry stems scratched her cheek. Below them the island lay small and exact, her own roof on the knoll, the chimney cold.
 
-Below them the island lay small and exact, her own roof on the knoll, the chimney cold.
+The hood came up the path from the store side. She had him at the second bend: a right boot set down clean on the frozen ruts, the left heel dragging after it.
 
-She heard him first, or her ear did: a change in the small noises off the path from the store side. Then the binoculars had him. Hood up. A right boot set down clean on the frozen ruts. A left heel dragging after it.
+She put one finger on the rock between them. Dane went quiet beside her, even his breathing.
 
-She put one finger on the rock between them. Dane went still all down his length.
+The man went round her house once, front and back, the way a buyer walks a boat. He went into the mudroom. The kitchen door gave at the first try. One lift, then his shoulder.
 
-The man walked round her house once, front and back, the way a buyer walks a boat. He went into the mudroom. Her breath went short and shallow against the rock. Then the kitchen door gave at the first try. One lift, then his shoulder.
+She had shown one person how that door went, on her own back step, on Friday. Or he had taught himself on it that night, in the sleet, with nobody coming.
 
-She couldn't have heard it from up here. Her hand heard it anyway, the iron clack and the give of the door, because her hand had made that sound every morning since she could reach the latch. She had shown one person how that door went, on her own back step, on Friday afternoon. Or he had taught himself on Friday night, his fingers on the iron in the sleet, nobody coming. Either one was true enough to lie down with. Neither one would settle.
+"Small house," Dane said, very low. "Won't take him long."
 
-"He's opening drawers," Dane said, very low. "Small house. Won't take him long."
+It didn't. He came out onto her back step, pushed the hood back off his head, and turned his face up to the hill, as if somebody had told him where.
 
-It didn't. He came out onto her back step, pushed his hood back, and turned his face up to the hill.
+Young. Wide and pale. She placed men by their boats, and she went through the harbor mooring by mooring and had nowhere to put him. He didn't care who on the island saw that face.
 
-Young. Younger than the walk. Wide and pale, a face she had never seen at the store or on the boat or at a funeral. She placed men by their boats, and she went through the harbor mooring by mooring and had nowhere to put him. He kept looking at the top of the hill, as if somebody had told him where. He didn't care who on the island saw that face. That was the part she liked least.
+He went down the planks to the store dock and came out from under it in a skiff. A man on the dragger's afterdeck took his painter. The skiff went up the *Margaret Ann*'s side on a line, and he climbed up after it.
 
-He went down the planks to the store dock, in under it, and came out in the skiff, his face still on the hill. A man on the dragger's afterdeck took his painter. The skiff went up the *Margaret Ann*'s side on a line, and he went up after it.
+Somebody was coming up the path below the summit, slow, scuffing the frozen moss and stopping to blow. Beth didn't need to turn her head.
 
-Dane rolled half onto his side, typed once with his thumb, and lay flat again. The phone buzzed against the granite. He read it, and then he turned the screen to her himself.
+"Russ."
 
-*Pike: Q says hands off the vessel. Observe only. Keep witness in place.*
+Russ Whitcomb came up onto the bare top with a thermos under his arm and stood there in full view of the harbor. On the *Margaret Ann*'s afterdeck a man turned toward the hill.
 
-"In place," Beth said.
+"Down," Beth said.
 
-"She wants me alive long enough to be useful." He looked out at the dragger. "Both of us."
+Russ went down. He did it the way a cow lies down: one knee, the other knee, a long slow tilt, the thermos held up out of harm the whole way like a baby at a christening. He arrived on his elbows beside Dane and set the thermos upright on the rock.
 
-He pressed once. *Sold. Sorry.*
+Nobody on the hill spoke while the man on the afterdeck looked. Then he turned back to the skiff.
 
-He took his notebook out and slid a folded sheet from the back cover. It came open on a white lobster boat up on stands. Beth laughed, one breath of it out her nose, and then she saw his face and stopped.
-
-"Good hull," she said.
-
-She took the sheet out of his fingers, folded it back along its own creases, and gave it to him. He folded it once more, smaller, and put it away. The two words stayed lit on the rock.
-
-"Down," he said. "Now. That deck has binoculars too."
-
-They went off the back of the hill into the spruce on the islanders' path, at a pace that was nearly a run. Over his head a bough let go its load with a soft hush, and the snow came down on his shoulders in a clump. She heard boots below them before she saw anything, coming up.
-
-Dane's hand went to his hip and came away.
-
-Russ Whitcomb came round the bend with a thermos under his arm, turned, and fell in beside them going down, as if that had been his plan all along.
-
-"Somebody rowed out to that dragger at sunup," Russ said, unscrewing the cup. "Saw it from my kitchen. I thought I'd take the *Second Wind* out after breakfast and ask the *Margaret Ann* what she wants with a skiff before daylight."
+"Saw the rowing from my kitchen," Russ said. "Came up for a look. After breakfast I'll take the *Second Wind* out and ask the *Margaret Ann* what she wants with a skiff."
 
 "Don't," Dane said. "I'm asking you to stay off that boat."
 
-Russ poured coffee, walking. "Feds told me stay off that boat. So I'm staying off that boat. I'm not a complicated man."
+Russ looked at the dragger awhile. "Feds told me stay off that boat. So I'm staying off that boat. I'm not a complicated man."
 
-They went on down the path. "Nothing's flying," Russ said. "Pilot wouldn't lift an old woman with a bad heart yesterday, so he won't lift you two. That leaves boats. Minute it lays down, I'll run you over to Pruett myself."
+He unscrewed the cup and poured lying down. "Nothing's flying. LifeFlight wouldn't lift an old woman with a bad heart yesterday. Minute it lays down, I'll run you both to Pruett myself."
 
-"Any boat on this island could be theirs, I can't read this sea, and whoever takes us across leaves a wake the whole bay can follow," Dane said. "Thank you."
+"Any boat here could be theirs, and a wake across that bay leads straight to her," Dane said.
 
-Russ took it without a word, and drank.
+Russ took that and drank. Then he went off the top at a crouch, and Beth saw him take the path that came out behind Marr's. His own house was down the other one.
 
-"That cable on the slip tower," Dane said. "Did it have help?"
+Dane rolled half onto his side, typed once with his thumb, and lay flat again. The phone buzzed against the granite. He read it, and then he turned it to her himself. The message was from Pike.
 
-"Somebody'd have to beat the rust to it," Russ said. "That tower's been on the district's list since Labor Day."
+*Q says hands off the vessel. Observe only. Keep witness in place.*
 
-At the fork he lifted the thermos to them and took the path that came out behind Marr's. The one to his own house he left standing empty in the snow.
+"In place," Beth said. "Till Monday week. Eight days."
 
-Beth knew where that path came out. She turned up toward the north road.
+"Q wants me alive long enough to be useful." He looked out at the dragger. "Both of us."
+
+He pressed once more with his thumb. *Sold. Sorry.*
+
+He slid a folded sheet out of the back of his notebook. It came open on a white lobster boat up on stands, the broker's name across the top. Beth laughed, one breath of it through her nose, and then she saw his face and stopped.
+
+"Good hull," she said.
+
+She took the sheet out of his fingers, folded it back along its own creases, and handed it to him. He folded it once more, smaller, and put it away.
+
+"Down," he said. "Now. That deck has binoculars too."
+
+They went off the back of the hill into the spruce at nearly a run. Over his head a bough let go its snow, and it came down on his shoulders in a clump.
 
 * * *
 
-The set had run dry at noon and sucked air. The last of the fuel can was in it now, and it still wouldn't run.
+Sunday afternoon, an hour before sunset, the generator had been dead since noon. Dane lay on his back on the concrete pad with his head in under the set at the injector pump, and Beth was down on one elbow beside him with the wrench.
 
-Dane lay on his back on the concrete pad with his head and shoulders under the engine, looking for the injector pump. Beth was down on one elbow beside him, hip to hip, pointing with the wrench. The cold of the pad came up through her hip bone. Diesel had got into the cracks of her knuckles and stung there. Through the propped door the long drive ran straight up to the spine of the north road.
+It had run dry and sucked air, and the last of the fuel can was in it now. She had the bleed screw cracked a quarter turn. It spat air at her, then froth. Diesel had got into the cracks of her knuckles and stung there.
 
-"Where does a person out here keep money," he said, the way he'd have asked for the wrench.
+Over his chest, through the propped door, the long drive ran straight up to the spine of the north road. A man stood on the spine. Hood. Binoculars.
 
-"Credit union in Pruett."
+Then he came down the drive.
 
-"Who do you owe?"
+Beth put the wrench to the screw to close it, and the jaw rang on the fitting, one bright note. She took it off. The door stood propped on its frozen track, and it shrieked when it moved; a door shut that had been open was a sign anyway. One door. It faced the drive. The gale off three sides of water had scoured the point to frozen gravel and ledge; no snow lay on it to hold a track, theirs or his.
 
-"Nobody. No truck, no boat." She gave the wrench a half turn in her hand. "He had one."
+Dane slid out from under the set. She went behind the housing into the dark on her belly, and he came after her. She lay flat on the pad at the back of the set with the steel an inch from her face, furred white where the frost had bloomed on it since noon. He lay along her side with one knee against hers. He drew.
 
-The *Ruthie C* was thirty-eight feet and named for her mother, and she had fished out of Calloway Cove since before Beth could walk the washboard without a hand on her collar. There were two soft winters, and then the bank called the note, which had been signed in a good year by a man who believed in good years. The man from the bank came over on the noon boat with a box under his arm. He sat at their kitchen table with his coat still on, turning the papers round one at a time. Her father signed where the man's pen showed him, every place, without reading, because reading it wouldn't change it. When it was done he asked her to carry the box out to the man's truck. His hands had started to shake, and he had put them under the table where the man couldn't see. So she carried it. It was heavier than paper ought to be. The corners cut into her forearms all the way down the steps. At the tailgate the man said thank you, dear, and took it from her as if she'd brought him a pie.
+His breath came in by her ear. He started to say something, low, the first word already shaped. She put two fingers on his mouth. It stopped under them, warm, and stayed stopped.
 
-Dane had found the pump. He didn't touch it.
+Gravel. A right boot. The left heel after it, dragging.
 
-"Walk me through it," he said after a while. "The bag."
+Nearer. Then past the shed, going up the slope to the house.
 
-"Envelopes from the store. Slip inside. My name on the front in Tess's hand. Flap tucked. Never sealed."
+The front door. A handle turned, and the bolt held. Feet along the porch boards. The kitchen door, the same. Ned's key lay in her coat pocket, against her hip.
 
-"Who's alone with it?"
+Nothing for a while. A man at a sheeted window, she supposed, looking in at furniture.
 
-"The boat."
+Then the heel, coming down.
 
-"What keeps a bag shut?"
+Close by her cheek the open screw ticked. Diesel, a drop at a time, off the fitting onto the concrete. She could see the dark tongue of it spreading toward the sill. The last of the can.
 
-She took Thursday's spent seal out of her coat pocket, a red plastic tail with the lock cut through. She found his left hand and pushed his cuff back with her thumb, and knotted the tag round his bare wrist. His pulse went under her fingers, slow, then less slow.
+Under her ribs the pad was hard as a deck. Against her side Dane's ribs rose and fell, and he was making them do it slowly. His mouth was still under her fingers. She left them there.
 
-"Fare bag's red. That's the boat's. Tess seals hers yellow." She pulled the knot tight. "Now you're the boat's."
+The doorway went dark.
+
+The hood, against the gray of the drive. Two steps in. She smelled him before anything else: wet oilskin and outboard gas.
+
+Leather between teeth. He pulled his glove off and laid his bare hand on the housing, a foot above her head. The sheet steel gave one small tin note under it.
+
+His boot stood an inch from the edge of the diesel.
+
+Against her hip Dane's arm moved. His finger came off the frame and went inside the guard; she felt it go, the cords shifting in his wrist. Her hand found that wrist and closed on it. His pulse went hard against her fingers. Hers knocked in her throat.
+
+The hand stayed on the steel. A man counting, or listening. The set was cold. It had been cold since noon.
+
+He took the hand away. He worked the glove back on. He sniffed once. Every shed on the island stank of diesel. He looked at the dark behind the housing. She looked at the toe of his boot. It didn't come any closer.
+
+Then gravel again, going away. From the floor, past the end of the housing, she had a slice of the drive through the door, and the man in it going up, the heel dragging, until he went over the rise and turned down the east-shore fork toward the next empty house.
+
+They didn't get up. She lay along him behind the set with her hand still shut on his wrist.
+
+"He's checking houses," Dane said. "We move tonight."
+
+"He's done this one. Doors locked, set cold. He's crossed it off."
+
+"Till somebody tells him different."
+
+She went down the list. "Mine he's been through. The boat's under the dragger's nose. Fish house at the head of Calloway Cove's had the cove over the sill since Friday. Floor goes under at the top of every tide, and there's one door." She let that sit. "A fish house is a shed on posts. He's checking houses."
+
+"Then Monday."
+
+His pulse was still going hard under her fingers. She let go of the wrist long enough to dig in her coat pocket and came out with Thursday's spent seal, the red one. She pushed his cuff back with her thumb and knotted it round his bare wrist.
+
+"What's that off?"
+
+"Thursday's fare bag. Fare bag's red. That's the boat's. Tess seals hers yellow, with my envelope in it." She drew the knot tight. "Now you're the boat's."
 
 "I've been the boat's since I jumped."
 
 "Comes off with a knife. If it's off, I'll know."
 
-One thing about him she could check, then. *Is this going in your log?* was in her mouth, and she kept it there.
+One thing about him she could check.
 
-"Crack it," she said. "Quarter turn. Now pump."
+He asked the next thing the way he'd have asked for the wrench, with her still lying on him. "Who's alone with it?"
 
-He worked the lever. The screw spat air at her, then froth.
+"The boat."
 
-Then she saw him, over Dane's chest, up the drive. A man on the spine of the north road. Hood up. Binoculars. Standing still, facing the north point.
+"Who sees the slip?"
 
-"Stop," she said.
+"Tess. Me. The teller."
 
-Dane stopped with the lever halfway.
+"Who do you owe?"
 
-A few more strokes and a pull, and the set would catch. A diesel hammering at a sheeted summer house would tell a man which house it was. Islanders heard Ned's generator out here every storm and never looked twice. That man wasn't an islander.
+"Nobody. No truck, no boat." Her cheek was on his coat. "My father had one."
 
-Dane drew breath to say something.
+Minutes ago a man's hand had been a foot from her head, and Dane wanted her envelope. *Is this going in your log?* was in her mouth, and she kept it there.
 
-"Don't," she said.
+She gave him the *Ruthie C*. When the bank took her, her father signed every place the bank man's pen showed him, with his other hand shaking under the table where the man couldn't see. So he asked Beth to carry the box of papers out to the man's truck, and at the tailgate the man took it from her as if she'd brought him a pie.
 
-He didn't. His gun lay on the pad by his right hand. They lay still on the concrete, hip to hip, and the cold came up into both of them through the same slab. The screw dripped. Down on the point the tide worked in the rocks. Far up the drive the man stood with his binoculars on the houses, and she could hear, or thought she could in the dead air, a boot shift on the gravel.
+Then, into his collar: "Last night. Was that the end of it?"
 
-*North end*, he'd told Portland last night on the porch. *Not the house.* She didn't say it.
-
-The man looked a long time. Then he turned and went down the east-shore fork, and the left heel dragged as he went over the rise.
-
-Dane sat up. "He's checking houses. We move tonight."
-
-"To where? He's been through mine." She looked at the dead engine. "The one place I've got that nobody looks at is the fish house at the head of Calloway Cove. The cove's been over the sill on every tide since Friday's surge. Floor's under water at the top of the tide, and there's one door. The surge drops on Monday's tides."
-
-"Then Monday."
-
-The fuel was coming nearly clean now, a bead and a bead.
-
-"Last night," she said. "Was that the end of it?"
-
-He was quiet so long she could hear the tide on the point again.
+He was quiet. Out on the point the tide worked in the rocks.
 
 "That's a not yet," he said. "One I can't afford."
 
-"Then save up," she told the pump.
+"Then save up," she told his collar.
 
-The fuel came clean. "Close it." He closed it.
+His free hand came onto her back and stayed. She kept her ear on his chest. Under the coat and the fleece his heart went hard a long time, then slower, then slow, and she didn't move till it got there.
 
-Ned came up the long drive at dusk with two cans off the *North Reach*'s day tank and his flashlight, walking heavy on the bad hip. Beth stood where she could see the spine the whole time.
+The light in the door had gone blue when a flashlight came over the spine. Dane's gun came up off the pad.
 
-Dane held the light for the funnel, low, his body between the beam and the road.
+Beth knew the walk, heavy on the bad hip. "Ned."
 
-"Bit higher," Ned said, not looking up. Then: "You hold a light like nobody ever handed you one."
+They were up and out from behind the set, and Dane had the gun put away, before Ned's light reached the shed. He set down two cans off the *North Reach*'s day tank and stood in the door with his nose up.
+
+"You've got her all over the floor."
+
+"Screw stuck," Beth said. "Hand me the funnel."
+
+He handed it to her. She took up her place with her back to the housing, at the end where the man's hand had been.
+
+Dane held Ned's flashlight for the funnel, low, his body between the beam and the road, the cuff of his jacket down over the tag. The beam wasn't steady.
+
+"Bit higher," Ned said, not looking up. He poured. "You hold a light like nobody ever handed you one."
 
 "Nobody did."
 
-Ned poured. "Glass is coming up. Be down to a breeze by morning, squalls in it. Pump on the *North Reach* is eating impellers. I'm going back aboard and staying aboard till the barge. She's taking water slow up forward. She'll keep."
+The can glugged. "Glass is coming up. Pump on the *North Reach* is eating impellers, so I'm back aboard her till the barge. She'll keep."
 
-He had a boat taking water and a hip that hurt him on every step of that drive, and Beth kept the man on the spine off him.
-
-The *North Reach* would keep till the barge, and then till June, and then Ned would give up her wheel and the district would hire a man from away. Put my name in. Four words. Her hundred-ton license was in her wallet, and the corner of it pressed her ribs when she breathed. She held the funnel and didn't say them.
+An hour ago a man had laid his hand on that steel, and she still couldn't say *Put my name in* to him, with the hundred-ton license pressing her ribs from her wallet. She held the funnel.
 
 "Night, Bethie. Marshal."
 
-He went down the drive. At the foot of it the flashlight swung up once toward them, a single arc, and went on toward the harbor.
+He took his light and went down the drive. At the foot of it he turned. The beam swung up once and lay across the two of them in the shed door, then went on toward the harbor.
 
-The spine was a black line against a blacker sky.
+Full dark came down on the point. Dane spoke at her shoulder. "Do we run it?"
 
-"Do we run it?" Dane said at her shoulder.
+Beth stepped aside from the housing. His own light, kept low, found what she had been standing in front of.
 
-Ned ran it every storm. Her hand was already on the cord. She put the handle in his fist.
-
-"Pull it."
-
-* * *
-
-Monday, at dead low, a week before the Monday that mattered in Portland, the bar lay out dry from the Ashby shore in a long curve of gravel and cobble. Ashby had one road out. Beth wanted a back door.
-
-Across the water, at the head of Calloway Cove, stood the fish house. The tide line was dark on the new shingles, and the sill was out of the water for the first time since Friday.
-
-At the seaward end of the bar the gut lay dark between the stones.
-
-"Let me go first," Dane said behind her. "These are waterproof."
-
-She was already in to the shins. "That's a narrow definition of waterproof. Stand there."
-
-He stood there.
-
-In to the knee. The cold took her calves and squeezed. In to the thigh. The cobbles knocked against each other under the wash, and her feet read every one. Then the bottom went out from under her front foot, and the gut took her at the waist like a hand closing.
-
-"Son of a bitch," she told it.
-
-She went on, steadily and with variety: the water, the cold, the island, Connecticut.
-
-"You're swearing at Connecticut," Dane said from the bar. "Which seems fair."
-
-"Shut up. I'm listening to it."
-
-He shut up. A wash came in off the drop and knocked the stones. Then it drew back with a long suck that pulled at her knees. She felt for the edge with her front foot until it found ledge, a step of it, hard and square under the weed. She paced it back one stride from the drop. Then she climbed out.
-
-She came up onto the dry bar soaked to the ribs, her teeth going. He opened his jacket. She walked into it.
-
-He closed it round her. The zipper end knocked her hip. She shook. The cold bit from the waist down, and from the waist up there was him.
-
-She put her face against his neck, where the stubble had come in since her father's razor, rough now where she had seen it go smooth. The red tag on his bare wrist sat at the edge of her eye where his arm crossed her back.
-
-She shook. He held on.
-
-For a while there was only her body. Her legs had gone past aching into a far-off burning, as if they belonged to somebody standing a little way down the beach. Her heart went hard at her ribs. Against his, by slow degrees, it came down to his pace. She could feel his breathing move her. She could feel his hand spread on her back through the wet wool, and she knew that if she stepped away the cold would come into the space where it had been, all at once. So she stayed. Somewhere behind her the gut drew back off the stones again with that long suck, the sound of the place where the bottom went. She held it in her ear. She put it with the ledge and the stride.
-
-"Beth," he said against her temple.
-
-After a while he said, "What's the plan?"
-
-"Half tide, in the dark, the bar's knee-deep. You come behind me, a stride in from the lip, and you put your feet where mine go. Ninety seconds, if you don't stop. And you stay inside where I put you."
+In the frost bloom on the cold steel, the clear print of a bare hand. Five fingers. A foot above where her head had been.
