@@ -1,6 +1,6 @@
 # Chapter Five: Half Tide
 
-Her jeans hung steaming on the stove rail, and the wet wool cooked. They hadn't run the set. They'd slept in their coats. At first light she'd been caught in the squall on the shore, soaked to the thigh in the rain coming sideways. Beth sat in Dane's fleece with the sleeves down past her hands and her bare feet on the oven door. The heat came back into her legs from the outside in, shins first, thighs last. Dane crouched at the firebox in a summer family's kitchen with his sleeves shoved up and fed it one split, then another. The firelight came up under his forearms. She let herself look.
+Her jeans hung steaming on the stove rail, and the wet wool cooked. They hadn't run the set. They'd slept in their coats. At first light she'd gone along the shore to look at the fish house sill, and the squall caught her coming back and soaked her to the thigh, the rain coming sideways. Beth sat in her father's sweater with the sleeves down past her hands, Dane's fleece across her knees and her bare feet on the oven door. The heat came back into her legs from the outside in, shins first, thighs last. Dane crouched at the firebox in the Ashbys' kitchen with his sleeves shoved up and fed it one split, then another. The firelight came up under his forearms.
 
 Between squalls the Monday air had gone dead. She put her cheek to a gap in the sheet over the window. Off the roof the smoke stood straight up in one gray stalk the whole island could read.
 
@@ -46,15 +46,15 @@ Beth's thumb went to the corner of the towel on the pot and worked it. On the co
 
 "Sat on it since Friday, Calloway. And you let me find you by your smoke."
 
-"Had my reasons."
+"Had my reasons," Beth said.
 
 "I walked you home from every dance on this island." Tess's hand went to the blankets on the seat. "You'll sleep at mine."
 
 "Can't."
 
-She went brighter, faster, the way she rang up a long order. "I know where every dollar on this island sleeps tonight. Every gallon, every cord that's owed for. I'll know where you do."
+Tess went brighter and faster, ringing it up like a long order. "I know where every dollar on this island sleeps tonight. Every gallon, every cord that's owed for. I'll know where you do."
 
-"I'm not your money, Tess."
+"I'm not your money, Tess," Beth said.
 
 "No. My money I can count."
 
@@ -116,7 +116,7 @@ Once his hand came back and closed on her wrist. A second. Then it let go.
 
 Cobbles knocking under the flood. The water working at the drop on her left, a deeper note than the bar's. Behind them the fire, a crack and a long sigh. His breathing. Over the ledge the clouds had gone red underneath.
 
-Her feet read the bar the way her hands read a binder. Cobble, cobble, a flat stone that rocked. Then her left foot came down on ledge, hard and square under the weed, and past the edge of it found nothing at all. She drew the foot back and took them both a stride to the right. The cold had her shins and was working at the backs of her knees. The water in her boots was weight now.
+Her feet read the bar as her hands read a binder. Cobble, cobble, a flat stone that rocked. Then her left foot came down on ledge, hard and square under the weed, and past the edge of it found nothing at all. She drew the foot back and took them both a stride to the right. The cold had her shins and was working at the backs of her knees. The water in her boots was weight now.
 
 Then a light.
 
@@ -146,11 +146,9 @@ The tide had been in over the sill and gone out again. The sill was wet under he
 
 The matches were on the shelf where they'd always been. She found them by feel. She knelt at the oil-drum stove she'd relined in September and opened its door on the cold.
 
-She struck the match.
-
 * * *
 
-The fish house sat under the ledge, and from no road and no part of the bar could anyone see its one window. It caught on the first match. The kindling went up with a small fierce sound. She fed it shavings off the bench, then two splits of spruce. She shut the door and sat back on her heels. In a minute the drum began to tick. In five the cold had gone down to the floor and lay along the planks. The walls began to give up their smell as the boards warmed, the pine tar coming out of them sweet and dark. She shut her eyes, breathed it in, and let it be hers.
+The fish house sat under the ledge with its back to the road and the store, and its one window looked out on the bar and across the cove to the Ashby shore. The stove caught on the first match. The kindling went up with a small fierce sound. She fed it shavings off the bench, then two splits of spruce. She shut the door and sat back on her heels. In a minute the drum began to tick. In five the cold had gone down to the floor and lay along the planks. The walls began to give up their smell as the boards warmed, the pine tar coming out of them sweet and dark. She shut her eyes and breathed it in.
 
 She lit the lantern from a sliver out of the stove and turned it low.
 
@@ -210,7 +208,7 @@ She lay back. The cot gave a long iron complaint under the two of them.
 
 He got her jeans down, wet and stubborn. They stuck at her knees and stuck again at her ankles. "Your jeans," he said, "have taken a side."
 
-She laughed. He came up and kissed her through it. Then he hung the jeans on the wire by feel without looking, which she'd remember.
+She laughed. He came up and kissed her through it. Then he hung the jeans on the wire by feel without looking.
 
 Then his mouth was on the inside of her thigh, and higher. The callus across his palms was rough on the backs of her knees, and her own hard hands were in his hair.
 
@@ -240,13 +238,13 @@ She had put the lantern out as soon as she saw it.
 
 Across the cove, at the end of the bar on the Ashby side, a flashlight stood at the water's edge and swept the dark toward them. Short. Then long. Past it, on the north point, the fire company's lights were coming up the north road again, red and turning.
 
-Beth lay propped on the cot under the small window, the gray blanket round her. Under the seaward wall she'd shingled in October the cove slapped on the ledge, and the flood was working up the bar.
+Beth lay propped on the cot under the small window, the gray blanket round her. Under the seaward wall she'd shingled in October the flood was working up the bar.
 
 "Thigh-deep and going under," she said. "Nobody crosses till the morning low."
 
 Dane was by the door, the gun in his hand, his shoulder to the frame. "He's still at the end of the bar. Same water every time. That's a man who thinks he saw something and would like to be wrong. So we're on an island on an island."
 
-"Cove."
+"Cove," Beth said.
 
 She kept her eyes on the light. "You heard Tess."
 
@@ -254,7 +252,7 @@ He had heard every word. He waited.
 
 "I told Ned 'Home,'" she said. "Myself. Friday, at the *North Reach*'s stern, while you were at the road end. And the key to Ashby was Ned's."
 
-Neither one had been in her *You*. She had put the man who'd run the *North Reach* since she was in diapers in the same breath as Tess, out loud, to a man with a notebook. Out on the cove nothing changed.
+She had put the man who'd run the *North Reach* since she was in diapers in the same breath as Tess, out loud, to a man with a notebook. Out on the cove nothing changed.
 
 Her thumb found the white line across her left palm and went along it, end to end, and back.
 
@@ -262,9 +260,9 @@ Her thumb found the white line across her left palm and went along it, end to en
 
 "I saw it."
 
-"The keys hang on an open hook in her office. Hers and the spare. Anybody at the counter could lift them. Anybody at the back door."
+"The keys hang on an open hook in her office," Beth said. "Hers and the spare. Anybody at the counter could lift them. Anybody at the back door."
 
-He came away from the door and sat by her on the cot. She gave him half the blanket. "Three things you didn't count," he said.
+He came away from the door and sat by her on the cot. She gave him half the blanket.
 
 Under the blanket his hand found hers and stopped her thumb on the scar.
 
@@ -274,16 +272,22 @@ Under the blanket his hand found hers and stopped her thumb on the scar.
 
 "And this place."
 
-"I'll do what I can."
+"I'll do what I can," Dane said.
 
 She had heard men say yes. She took her hand out from under his.
 
-"Monday's the twenty-third," he said. "You're in Portland in front of the grand jury. And I've run out of houses."
+"I've run out of houses," he said.
+
+The twenty-third was a week off, and Portland, and the grand jury at the end of it.
 
 Across the cove the flashlight went out, or turned back up toward the house. From here she couldn't tell which.
 
-Beth sat up in the coal light. The blanket came off her shoulders, and the cold found them. She had been hiding since Friday: the cottage with the doors shut, the boat she was supposed to be on, Ashby with Ned's key. Every place she went, somebody knew.
+Beth sat up in the coal light. The blanket came off her shoulders, and the cold found them.
 
 She put her bare feet down on the cold planks.
 
 "In the morning I walk into Marr's in daylight and buy what I need. And I watch who watches me buy it."
+
+"What do you need?" Dane said.
+
+She found the blanket on the planks by feel and pulled it back up round her shoulders.

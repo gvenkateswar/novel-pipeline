@@ -8,15 +8,15 @@ She put one finger on the rock between them. Dane went quiet beside her, even hi
 
 The man went round her house once, front and back, the way a buyer walks a boat. He went into the mudroom. The kitchen door gave at the first try. One lift, then his shoulder.
 
-She had shown one person how that door went, on her own back step, on Friday. Or he had taught himself on it that night, in the sleet, with nobody coming.
+She had shown one person how that door went, in her own mudroom, on Friday. Or he had taught himself on it that night, in the sleet, with nobody coming.
 
 "Small house," Dane said, very low. "Won't take him long."
 
 It didn't. He came out onto her back step, pushed the hood back off his head, and turned his face up to the hill, as if somebody had told him where.
 
-Young. Wide and pale. She placed men by their boats, and she went through the harbor mooring by mooring and had nowhere to put him. He didn't care who on the island saw that face.
+Young, wiry, with a wide pale face. She placed men by their boats, and she went through the harbor mooring by mooring and had nowhere to put him. He didn't care who on the island saw that face.
 
-He went down the planks to the store dock and came out from under it in a skiff. A man on the dragger's afterdeck took his painter. The skiff went up the *Margaret Ann*'s side on a line, and he climbed up after it.
+He went down the planks to the store dock and came out from under it in a skiff. A man on the *Margaret Ann*'s afterdeck took his painter. The skiff went up her side on a line, and he climbed up after it.
 
 Somebody was coming up the path below the summit, slow, scuffing the frozen moss and stopping to blow. Beth didn't need to turn her head.
 
@@ -42,7 +42,7 @@ He unscrewed the cup and poured lying down. "Nothing's flying. LifeFlight wouldn
 
 Russ took that and drank. Then he went off the top at a crouch, and Beth saw him take the path that came out behind Marr's.
 
-Dane rolled half onto his side, typed once with his thumb, and lay flat again. The phone buzzed against the granite. He read it, and then he turned it to her himself. The message was from Pike.
+Dane rolled half onto his side, typed once, and lay flat again. The phone buzzed against the granite. He read it, and then he turned it to her himself. The message was from Pike.
 
 *Q says hands off the vessel. Observe only. Keep witness in place.*
 
@@ -50,7 +50,7 @@ Dane rolled half onto his side, typed once with his thumb, and lay flat again. T
 
 "Q wants me alive long enough to be useful." He looked out at the dragger. "Both of us."
 
-He pressed once more with his thumb. *Sold. Sorry.*
+He typed once more. *Sold. Sorry.*
 
 He slid a folded sheet out of the back of his notebook. It came open on a white lobster boat up on stands, the broker's name across the top. Beth laughed, one breath of it through her nose, and then she saw his face and stopped.
 
@@ -64,9 +64,9 @@ They went off the back of the hill into the spruce at nearly a run. Over his hea
 
 * * *
 
-Sunday afternoon, an hour before sunset, the generator had been dead since noon. Dane lay on his back on the concrete pad with his head in under the set at the injector pump, and Beth was down on one elbow beside him with the wrench.
+Sunday afternoon, an hour before sunset, the generator had been dead since noon. Dane lay on his back on the concrete pad of the Ashby shed with his head in under the set at the injector pump, and Beth was down on one elbow beside him with the wrench.
 
-Over his chest, through the propped door, the long drive ran straight up to the spine of the north road. When they started the bleed, a man had stood on the spine. Hood. Binoculars. She had looked down at the fitting and up again, and the spine was bare.
+Over his chest, through the propped door, the long drive ran straight up to the spine of the north road. When they started the bleed, a man had stood on the spine. Hood. Binoculars. They had lain flat on the pad until he went over the rise. Then they went back to the screw. Ned ran this set every storm, and the north point knew its note; a dead one was the news.
 
 It was bare now. Gravel and ledge, and a gray sky sitting on it.
 
@@ -82,19 +82,17 @@ His left hand came out from under the set for the rag. She dug in her coat pocke
 
 "What's that off?"
 
-"An old fare bag." She kept it low. "Fare bag's red. That's the boat's. Tess seals hers yellow, with my envelope in it." She drew the knot tight. "Now you're the boat's."
+"An old fare bag." She kept it low. "Fare bag's red. That's the boat's." She drew the knot tight. "Now you're the boat's."
 
 "I've been the boat's since I jumped."
 
-"Comes off with a knife. If it's off, I'll know."
-
-One thing about him she could check.
+"Comes off with a knife."
 
 A gust came round the point and leaned on the door, and the frozen track groaned under it. Her eyes went up the drive. Bare.
 
-"And the envelope?"
+"How does your pay get to a bank?" he said from under the set.
 
-"From the store. Slip inside, flap tucked, never sealed."
+"Envelope, at the store. Slip inside, flap tucked, never sealed. Goes over in Tess's bag."
 
 "Who sees the slip?"
 
@@ -118,9 +116,9 @@ Up the drive, a step on gravel.
 
 She lifted her eyes. The hood, on the drive, coming down.
 
-Beth put the wrench to the screw to close it, and the jaw rang on the fitting, one bright note. She took it off. The door was propped on its frozen track, and it shrieked; a door shut that had been open was a sign anyway. One door. It faced the drive. The gale off three sides of water had scoured the point to frozen gravel and ledge by afternoon; too little snow lay on it to hold a track, theirs or his.
+Beth put the wrench to the screw to close it, and the jaw rang on the fitting, one bright note. She took it off. The door was propped on its frozen track, and it shrieked when it moved, loud enough for the drive. One door. It faced the drive. The gale off three sides of water had scoured the point to frozen gravel and ledge by afternoon; too little snow lay on it to hold a track, theirs or his.
 
-Dane slid out from under the set. She went behind the housing into the dark on her belly, and he came after her. She lay flat on the pad at the back of the set with the steel an inch from her face, furred white where snow melted by the morning's run had bloomed to frost since noon. He lay along her side with one knee against hers. He drew.
+Dane slid out from under the set. She went behind the housing into the dark on her belly, and he came after her. She lay flat on the pad at the back of the set with the steel close to her face, furred white where snow melted by the morning's run had bloomed to frost since noon. He lay along her side with one knee against hers. He drew.
 
 His breath came in by her ear. He started to say something, low, the first word already shaped. She put two fingers on his mouth. It stopped under them, warm, and stayed stopped.
 
@@ -152,6 +150,8 @@ The hand stayed on the steel. A man counting, or listening. The set was cold. It
 
 He took the hand away. He worked the glove back on. He sniffed once. Every shed on the island stank of diesel. He looked at the dark behind the housing. She looked at the toe of his boot. It didn't come any closer.
 
+Under his oilskin a handheld broke squelch. A voice said something short, and he answered it with one word and turned.
+
 Then gravel again, going away. Past the end of the housing she had a slice of the drive through the door, and the man in it going up, the heel dragging, until he went over the rise and turned down the east-shore fork toward the next empty house.
 
 They didn't get up. She lay along him behind the set with her hand still shut on his wrist. The knot of the seal was under her thumb, and the thumb would not keep still on it.
@@ -182,14 +182,16 @@ Dane held Ned's flashlight for the funnel, low, the cuff of his jacket down over
 
 The can glugged. "Glass is coming up. Pump on the *North Reach* is eating impellers, so I'm back aboard her till the barge. She'll keep."
 
-She'd keep till June, and then Ned would give up her wheel and the district would hire a man from away. She still couldn't say *Put my name in*, with the hundred-ton license pressing her ribs from her wallet. She held the funnel.
+She'd keep till June, and then Ned would give up her wheel and the district would hire a man from away. She still couldn't say *Put my name in*, with the red book pressing her ribs from the zip pocket of her coat. She held the funnel.
 
 "Night, Bethie. Marshal."
 
 He took his light and went down the drive toward the harbor.
 
-Full dark came down on the point. Beth stepped aside from the housing. Dane's own light, kept low, found what she had been standing in front of.
-
-In the frost bloom on the cold steel, the clear print of a bare hand. Five fingers. A foot above where her head had been.
+Full dark came down on the point.
 
 "Do we run it?" Dane said.
+
+Beth stepped aside from the housing. His light, kept low, found what she had been standing in front of.
+
+In the frost bloom on the cold steel, the clear print of a bare hand. Five fingers, a foot above where her head had been, already furring over at the edges.

@@ -12,11 +12,9 @@ She shut the stove damper by feel so the pipe couldn't throw a spark. She crosse
 
 The motor dropped to an idle.
 
-Light came along the water. It found the ledge outside the seaward wall and climbed it. Then it was on the glass over her head, white, and the room went gray around her. It slowed there. The cove slapped at the ledge and sucked back. Slapped.
+Light came along the water. It found the ledge outside the seaward wall and climbed it. Then it was on the glass over her head, white, and the room went gray around her. It slowed there. Outside, the sea came up the ledge and sucked back off it.
 
-The beam went on.
-
-The motor picked up. At the end of the bar the flashlight went out. The note went away round the point and was gone.
+The beam went on, along the ledge to the end of the bar, and held on the flashlight there. A hull ground on gravel. Boots went down into aluminum, and the flashlight went out. The motor picked up, and the note went away round the point and was gone.
 
 Footsteps on the landward side. A knock.
 
@@ -72,11 +70,11 @@ Tess came up brighter. "Lyle."
 
 Lyle Arsenault was the only clean-shaven man on a dragger in the bay, in a jacket that had cost more than her boots. He came to the counter at Beth's elbow, close enough that she could smell his soap. His eyes went to the box. Then out the window to the man on the dock. Then back.
 
-"Pack of Golds."
+"Morning, Tess. Pack of Golds, whenever you've got a hand."
 
 He had coins on the counter before Tess reached behind her for the pack, counted into a row.
 
-Tess slid the cigarettes across. "Put that away, Lyle. It's on your account."
+Tess slid the cigarettes across. "Golds, eleven-forty, on the account. Put your money away, Lyle."
 
 She opened the green ledger to his page. Beth read it upside down: night lines down the column, each one paid off in hundreds and never rung up as cash.
 
@@ -84,15 +82,15 @@ He swept the coins back into his palm. From inside the good jacket came a fold o
 
 The curtain didn't close all the way. Beth could see the safe with its door open, and on a nail beside it the town ring, every key the town owned. The hook with the truck keys. Ned's phone sat on her shelf, and Tess moved it aside with the back of her hand to set the ledger down.
 
-Arsenault had turned to her. He held a hand out level with the counter's edge. "I bought fuel off your father when you were about this high. Good man. Bad luck with banks."
+Arsenault had turned to her. He held a hand out level with the counter's edge. "I bought fuel off your father when you were about this high. Good man. Bad luck with banks. Glad to see you up and about, after Ashby."
 
 Beth looked at the hand until he put it away.
 
 Tess came back through the curtain.
 
-He turned his smile on her. "You run a good store, Tess. Store like this lives on the boat."
+He turned his smile on her. "You keep a good store, Tess. A store like this lives on the boat. I'd hate to see it have a hard—"
 
-Tess laughed, high and quick. "Every winter's hard, Lyle. That's why the oil's nine fifty." She reached for the next thing on the counter.
+Tess laughed over the end of it, high and quick. "Barge in ten days, says the state. Oil's nine fifty, Lyle. Golds went up a dollar Monday." She reached for the next thing on the counter.
 
 He tucked the pack into his jacket and went out under the bell. Through the glass Beth saw him pass Dane on the dock. A nod. Dane stayed on the piling.
 
@@ -102,11 +100,11 @@ Beth paid in bills, at once, and held her hand out for the change. Tess counted 
 
 She went out onto the dock with the box inside her coat. Dane came off the piling a step behind her.
 
-At the end of the dock she turned. Through the front window Tess stood at the counter with her pen. She uncapped it and wrote something on the back of her own hand. From here Beth couldn't read it.
+At the end of the dock she turned. Through the front window Tess stood at the counter with her pen. She uncapped it and wrote on the back of her own hand, small, and was still writing when Beth turned for the shore.
 
 * * *
 
-Wednesday's first sun lay flat on the ledge, on both of them, with no warmth in it worth the name.
+Wednesday's first sun lay flat on the rock above the fish house, on both of them, with no warmth in it worth the name.
 
 The phone went off in his jacket.
 
@@ -228,7 +226,11 @@ Ned looked up at her. "Which tide?"
 
 He wiped his hands down his jacket and reached for the tide table on the bulkhead.
 
-"Wind goes round tonight." He ran a black fingernail down the card. "High's half past three. First light she's a third gone, plenty under the float. Shore under the bank's dry by then, all but the last ledge, and that one's still deep in the dark. Float's inshore end sits down near the low. Hand me that rag."
+"Wind goes round tonight." He ran a black fingernail down the card. "First light she's a third gone. Plenty under the float."
+
+He hung the card back on its nail. "Ledges'll be dry, all but the last. That one's still deep in the dark."
+
+He held out a hand for the rag.
 
 * * *
 
@@ -256,7 +258,7 @@ The drum ticked.
 
 "Then she asked for ten minutes at her sister's, and I gave her ten minutes. She's buried in Lawrence."
 
-Beth got up. She took her wallet out of her coat on the nail, found the license and put it in his hand. "Hundred-ton," she said. "Never used." The corners were still sharp.
+Beth got up. She took the red book out of the zip pocket of her coat on the nail, a passport-size booklet, and put it in his hand. "Hundred-ton," she said. "Never used."
 
 He tipped it to the drum's glow and read it. Then he gave it back, and she put it away.
 
@@ -276,7 +278,7 @@ They got down on the cot together. His hand came up under her breast, hard-palme
 
 "Again," she said.
 
-He did it again. Then his hand went down her arm to hers. His thumb found the white line across her left palm and stopped there.
+He did it again. Then his hand went down her arm to hers and turned it palm up, to the white line across it.
 
 "Hawser," she said. "Twenty-three."
 
@@ -300,9 +302,15 @@ He got the condom on with his hands not quite steady. Then he was inside her, sl
 
 "Beth."
 
-He moved, and she moved with him, and the drum ticked down and his breath was at her ear and his rough palm was under her shoulder blade, holding her up off the cold, and she was asking him for something and then for something else and he gave her both without a word, and somewhere in all of it she had stopped listening for the door.
+He moved, slow, and she moved with him. The drum ticked down. His rough palm went under her shoulder blade and held her up off the cold canvas. His breath was at her ear.
 
-The cot's legs walked an inch on the planks.
+"Harder," she said.
+
+He gave her that.
+
+She stopped listening for the door.
+
+The cot's legs walked on the planks.
 
 "Beth," he said again, and it was a question.
 
@@ -322,7 +330,7 @@ After, she lay along him under her coat with the drum's heat on her shoulders.
 
 He handed her the shirt off the planks. Then he reached up to the jacket on the nail for the notebook and found the pencil in its spine.
 
-His pencil went across the page in the coal light, her plan in his hand. She didn't stop it.
+His pencil went across the page in the coal light, her plan in his hand. Before six. The ledges. The lane behind the bait shed. She had the shirt half over her head when he got to the float.
 
 * * *
 

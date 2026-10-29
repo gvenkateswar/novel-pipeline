@@ -1,6 +1,6 @@
 # Chapter Eight: Not Water
 
-At last light she took the second mug from Ned and wrapped both hands round it, and her eyes went down to the deck plates.
+She took the second mug from Ned and wrapped both hands round it, and her eyes went down to the deck plates.
 
 "Good," Ned said. "Don't tell me."
 
@@ -8,9 +8,9 @@ He set his own mug on the table beside the notebook. His eyes went over the note
 
 "She'll blow all night," he said. "Snow behind it by morning, by the look of the west. Crew cabin's made up, and there's dry gear in the locker. Kenny's. He won't be needing it in Pruett. Lines'll want looking at on the top of the tide."
 
-Kenny's shirt was short in the arm, his jeans short at the ankle, and they were dry, which was all she asked of them. She lay in the lower bunk with the blanket to her chin and the notebook under her pillow. The bunk smelled of diesel and Kenny's aftershave. All night the forepeak pump ran under her through the steel, a pulse she could have counted by and didn't. Once she heard Ned's step on the deck overhead, going forward to the lines and coming back. She slept in pieces. Each time she woke, her hand was already under the pillow on the cover of the book.
+Kenny's shirt was short in the arm, his jeans short at the ankle, and they were dry, which was all she asked of them. She lay in the lower bunk with the blanket to her chin and the notebook under her pillow. The bunk smelled of diesel and Kenny's aftershave. All night the forepeak pump ran under her through the steel. Once she heard Ned's step on the deck overhead, going forward to the lines and coming back. She slept in pieces. Each time she woke, her hand was already under the pillow on the cover of the book.
 
-Toward the top of the tide the boat began to work against the pier, and she couldn't lie there any longer. She went up the inside companionway to the wheelhouse in the dark. The snow had come back with the gale. It went sideways past the windows Ned's rag had smeared, and down on deck his flashlight moved from line to line. Below her the brow's wheels ground on the granite at every surge, louder with the water high.
+Toward the top of the tide the boat began to work against the pier, and she couldn't lie there any longer. She went up the inside companionway to the wheelhouse in the dark. The snow had come back with the gale. It went sideways past the windows Ned's rag had smeared, and down on deck his flashlight moved from line to line. Below her the brow rose and dropped at the pier's edge, steep with the water high.
 
 A figure was coming along the riprap below the pier from the town end, out of the store's sightline, slow, trying each stone. One arm was held across the body. In the other hand something square caught Ned's light as it swung, and showed red.
 
@@ -24,11 +24,11 @@ Ned stood halfway down the brow with the light on the man at its foot.
 
 The brow rose under Ned and settled. The light didn't move off Dane.
 
-"Let him on, Ned," Beth said from the gate.
+"Bring him up, Ned," Beth said from the gate.
 
 Ned held the light on him a breath longer. Then he backed up the brow ahead of him, the beam going down to the treads.
 
-Dane came up the grinding brow with his left arm held in against his coat. He stopped at the gate and held the red Pelican case out to her, shut, with both its catches done up. She took it from him in both hands. The handle was wet from his glove, and the catches were cold.
+Dane came up the brow with his left arm held in against his coat. In Ned's light the sleeve was black from the shoulder to the cuff, and it shone. One knee of his jeans was torn open. He stopped at the gate and held the red Pelican case out to her, shut, with both its catches done up. She took it from him in both hands. The handle was tacky. When she shifted her grip, her palm came away brown.
 
 Ned turned the light toward the deckhouse door. "Coffee's on."
 
@@ -38,25 +38,25 @@ The sleet came in flat through the deckhouse door before she got it shut behind 
 
 In the crew mess his wet coat steamed at the heater. He set his phone on the table to work the coat off the hurt arm and sat down across from her, the red case between them. Water ran off his hair onto the table. She had the notebook under her hand, and the cold came up out of the steel into her forearms.
 
-"May I have the book?"
+"May I have the book?" he said.
 
 "No."
 
 "Then you'll have to ask me what's in it."
 
-"The generator shed. All those money questions."
+"The generator shed," Beth said. "All those money questions."
 
 "For the case."
 
 "My bed."
 
-"I went to bed with you and kept writing."
+"I went to bed with you," he said, "and kept writing."
 
 "After."
 
 "After." He didn't look away from her. "Every place we've slept."
 
-"Say the line."
+"Say the line," she said.
 
 "'Every place we've slept, and B's family property.'"
 
@@ -68,19 +68,19 @@ She opened the book at the place, tipped up off the table so he couldn't see the
 
 "You looked me in the eye."
 
-"I did."
+"I did," Dane said.
 
 "The pouch. You stood on that ramp and watched it go."
 
 "On the ramp I didn't know there was any money. Nobody told me till Saturday."
 
-"Nine thousand dollars."
+"Nine thousand dollars," she said.
 
 "Somebody put it in your envelope so you'd look bought in front of the grand jury."
 
 "Wasted their money."
 
-"They did. You'd never have touched it, and anybody on this island could have told them so."
+"They did," he said. "You'd never have touched it, and anybody on this island could have told them so."
 
 "Seal noted: red," Dane said. He had that one from memory too. "You told me the fare bag's red. The money rode over in the boat's bag."
 
@@ -102,9 +102,9 @@ Her finger found the old mug ring on the table and went round it once.
 
 He put a hand over his eyes for a second and took it away.
 
-"You came by the road."
+"You came by the road," she said.
 
-"I sat the night low out at the fish house in case you came back by the shore. Then I took the road. There's one boat on this island you'd sleep on."
+"I sat the night low out at the fish house in case you came back by the shore. Then the road, and the riprap. There's one boat on this island you'd sleep on."
 
 "And Pike."
 
@@ -142,25 +142,31 @@ Snow spotted the paper and didn't run the pencil. She quit reading the rest of e
 
 Beth stopped turning. Over the phone Dane's face was a hand's breadth from hers, wet with snow, and he was looking out at the water, where there was nothing to see.
 
-"At four this morning he reported himself. Nothing flies before first light tomorrow. Till then she's held in the most defensible place you have. Nothing else."
+"Deputy, you sent me 'graze,'" Pike said. "I took your word for it. The dragger stays unboarded on Agent Quist's order. Homeland Security wants her to run to her buyer, and a boarding today keeps the buyer home."
 
-Beth brought her mouth down to the phone.
+"Copy," Dane said.
+
+"At four this morning he reported himself. It goes to Arlington, and it follows him into every courtroom he stands up in. He asked that it be logged as his conduct alone. It has been. Nothing flies before first light tomorrow. Till then she's held in the most defensible place you have. Nothing else."
+
+Beth shut the book and held it flat against her coat. She looked at him. He was still looking at the water.
+
+She brought her mouth down to the phone.
 
 "I have a condition. Nothing about me goes on paper I haven't read. And everything you tell him about me, I hear."
 
-Snow went across the phone and off it. Dane didn't move. Pike let the line run quiet.
+Snow went across the phone and off it. Dane didn't move. The line ran quiet.
 
 "Done," Pike said. "Then it's Giglio, Deputy. Every page you write goes to the defense."
 
 * * *
 
-Before she let him near the oven she rolled his sleeve up off the hurt arm. The five strips had held, the middle one gone brown at its edges. She laid her hand over them. He stood still for it. Then she rolled the sleeve down and got out her knife.
+Before he went near the oven she rolled his sleeve up off the hurt arm. The five strips had held, the middle one gone brown at its edges, and the riprap's blood had dried down him to the wrist. She laid her hand over the strips. He stood still for it. Then she rolled the sleeve down and got out her knife.
 
 The ham sat on the board by the open mess oven, heated through. The little oven ran off the boat's generator, and the steel room had filled with clove and hot sugar.
 
 Dane worked one-armed and gave the orders. "Diamonds. Across one way, across the other, so the glaze has somewhere to sit."
 
-She scored the fat in long lines down its length, a finger apart.
+She scored the fat in long lines, a finger apart.
 
 "Those are lines."
 
@@ -172,15 +178,15 @@ He spooned the glaze on, and the lines held it.
 
 "The ham is eleven pounds, and there are three of us."
 
-"That's a load."
+"That's a load," she said.
 
 "It's lunch."
 
-He cut the first slice off the end and held it out to her on the fork. It was too hot. She ate it anyway, standing in the oven's heat with her shins warm through Kenny's jeans, the glaze running at the edge, a clove driven into it, the salt underneath. Outside the weather kept on at the steel. The heater and the oven between them had the mess warmer than her own kitchen ever got in November. In here it smelled like somebody's kitchen on a holiday, and for once the boat lay quiet against the pier and asked nothing of her. She took a second piece off the board with her fingers and didn't apologize for it.
+He cut the first slice off the end and held it out to her on the fork. It was too hot. She ate it anyway, standing in the oven's heat with her shins warm through Kenny's jeans, the glaze running at the edge, a clove driven into it, the salt underneath. Outside the weather kept on at the steel. In here it smelled like somebody's kitchen on a holiday, and for once the boat lay quiet against the pier and asked nothing of her. She took a second piece off the board with her fingers and didn't apologize for it.
 
 Dane set out three plates. "Does the captain sit for this, or does he eat on his feet?"
 
-"He'll sit. Fridays he has supper at Tess's."
+"He'll sit," Beth said. "Fridays he has supper at Tess's."
 
 "Every Friday?" He set a fork by each plate, the third one last.
 
@@ -188,7 +194,7 @@ Dane set out three plates. "Does the captain sit for this, or does he eat on his
 
 "What does she say?"
 
-"'Ask me sober, Haskell.'"
+"'Ask me sober, Haskell,'" Beth said.
 
 "How long's he been sober?"
 
@@ -196,7 +202,7 @@ Dane set out three plates. "Does the captain sit for this, or does he eat on his
 
 Dane laughed into his shoulder, and she nearly went with him. "He'll ask her this year."
 
-"He asks her every year."
+"He asks her every year," she said.
 
 "Then he's due."
 
@@ -206,15 +212,15 @@ He had glaze at the corner of his mouth. She reached over and took it off with h
 
 "Ten minutes," he said. "It'll keep."
 
-The deckhouse door banged, and Ned came in stamping, snow on the shoulders of the green jacket. He stopped at the sight of the board, and then at Dane carving one-handed.
+The deckhouse door banged, and Ned came in stamping, snow on his shoulders. He stopped at the sight of the board, and then at Dane carving one-handed.
 
 "What'd you do to your arm?"
 
 "Door," Dane said.
 
-Ned looked at the arm, and at the slab going onto the third plate, and let himself down onto the bench hip first. "Wind's backing. Somebody expecting company?"
+Ned looked at the arm, and at the slab going onto the third plate, and sat down heavily on the bench. "Wind's backing. Somebody expecting company?"
 
-"It's lunch," Beth said, and Ned laughed till he had to wipe his eyes on his wrist.
+"It's lunch," Beth said. Ned laughed till he had to wipe his eyes on his wrist, and reached past her for the end piece.
 
 * * *
 
@@ -222,37 +228,35 @@ Ned looked at the arm, and at the slab going onto the third plate, and let himse
 
 Dane was at the forward windows. Past him the *Margaret Ann* lay to her new mooring, the town landing square off her bow, and in the lee of the pier wall one line of his prints still went down to the riprap.
 
-"The county rings the island's emergency director, because that's who a county rings," he said, "and an emergency director who keeps a federal landing to herself is doing the one part of that job anybody asked her to do."
+"The county rings the emergency director," he said, "and keeping a federal landing to herself is the one part of that job anybody asked her to do."
 
 "Town ring hangs by her safe. Second key to the float box is on it."
 
 The wheelhouse set came up on sixty-eight.
 
-"Marr's, all stations. Generator's on, store's open till nine. Kerosene's four-ten. Out of D batteries, Whitcomb, don't ask. Coffee's free to the storm."
+"Marr's, all stations. Generator's on, store's open till dark. Kerosene's four-ten. Out of D batteries, Whitcomb, don't ask. Coffee's free to the storm."
 
 "That ring has hung there since before she bought the store," Dane said, "and the whole fire company knows its way behind that curtain."
 
 "Arsenault stood at her counter," Beth said. "'Store like this lives on the boat.' She laughed."
 
-"That's a threat."
+"That's a threat," he said.
 
 "To Tess."
 
 "You read water better than anyone I've met," he said.
 
-He came round the chart table and said the rest slowly, the way he'd give it under oath.
+He came round the chart table.
 
-"Read it the way Pike will. The only phone Ned Haskell owns works in one place on this island, inside fifty feet of that store. The back step is inside the fifty feet. Ned carries his own key to the door beside it, and nobody has ever asked for it back. Who has a key when she's out?"
+"Ned Haskell's phone works in one place on this island, the store's back step, and he carries his own key to the door beside it. Who has a key when she's out?"
 
-"Ned."
+"Ned," she said.
 
 Below the windows Ned's flashlight came aft along the rail and stopped under her. Beth pulled the chart across the table and put her back to that window.
 
 "This isn't water," Dane said, quieter.
 
-"Not Ned."
-
-"Ned sends Russ along the riprap after dark," she said.
+"Not Ned," she said. "Ned sends Russ along the riprap after dark."
 
 "Don't give Haskell the night. Give it to Whitcomb alone."
 
@@ -262,7 +266,7 @@ She had read him in pencil that morning, to the foot of every page. His read on 
 
 "Calloway, if you're on," Tess said, bright, "I've got a pie with your name on it. I won't say which pie."
 
-Beth reached up and turned the set down to nothing. She took the notebook out of her coat and opened it on the chart table at a clean page past his last line, and drew the pencil out of the spine, and the point was going, so the letters came out thick, and she wrote *Teresa Marr* in the square capitals the island school had taught her, pressing them the way she'd printed her name at the church hall door at fourteen, the nights Tess waited at the foot of the steps with a flashlight to walk her home up the Harbor Road, and she went back over the second R where the lead skipped.
+Beth reached up and turned the set down to nothing. She took the notebook out of her coat and opened it on the chart table at a clean page past his last line, and drew the pencil out of the spine, and the point was going, so the letters came out thick, and she wrote *Teresa Marr* in the square capitals the island school had taught her, pressing hard, as she had printed her name at the church hall door at fourteen on the nights Tess waited at the foot of the steps with a flashlight to walk her home up the Harbor Road, and she went back over the second R where the lead skipped.
 
 She turned the book round and pushed it across to him.
 
@@ -282,15 +286,15 @@ At dusk the high water had lifted the boat till the brow lay nearly level with t
 
 Beth had her hand on the brow's rail, and the new ice on it burned her fingers white.
 
-Ned came along the deck in the green jacket, going ashore. He had combed his beard. There was a clean collar under the jacket, buttoned to the top.
+Ned came along the deck, going ashore. He had combed his beard. There was a clean collar under the jacket, buttoned to the top.
 
 "Send Russ along the riprap after dark," she said. "Tell him the constable's badge goes on the outside of his coat tonight, where it shows. And not Tess. Not tonight."
 
-Ned looked down the length of the brow. "Rail'll freeze hard by nine." He turned his collar up. "Not Tess," he said.
+Ned looked down the brow. "Rail'll freeze hard by nine." He turned his collar up. "Not Tess," he said.
 
 He went past her to the head of the brow. "Mind the ice, Bethie."
 
-He went down the brow, and its wheels ground once on the granite. Then he was on the stone and going up the pier road toward the lit store, big and slow in the dusk, his breath going up white. He took the frozen ruts with care, the bad hip leading. Up the road the store's windows were yellow and steady, and smoke stood straight up off Tess's chimney beyond them.
+He went down the brow, and its wheels ground once on the granite. Then he was on the stone and going up the pier road toward the store, big and slow in the dusk, his breath going up white. He took the frozen ruts with care, the bad hip leading. Up the road Tess had the store's front lights off already, closing for supper, and beyond the store smoke stood straight up off her chimney.
 
 She stayed at the brow head with her eyes on the green jacket the whole way up. At the top of the pier road her hand was already coming up off the rail for his wave.
 

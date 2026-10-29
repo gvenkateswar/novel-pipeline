@@ -1,6 +1,6 @@
 # Chapter Seven: His Handwriting
 
-"Same set runs the road and the float," Beth said. "Town started it Wednesday for the lifeboat."
+"Same set runs the road and the float," Beth said. "Town's put it on for the lifeboat."
 
 The road was lit all the way to the store. Below, the float lay black on the water. Somebody had been in the timer box at the ramp head.
 
@@ -30,7 +30,7 @@ He didn't finish it. They went down the lane and off the end of it onto the shor
 
 The ebb had drawn off more. At the last ledge the water came in over her boot tops, cold as a slap. He came behind her, still talking, and she could tell from his breath where his feet were.
 
-Under the bank she stopped and stripped her right glove. She found his arm in the dark by his voice. The jacket was torn high on the outside, and under it the wet was warm, a furrow the length of her finger. Shallow. She ran her thumb down to the elbow and found nothing else.
+Under the bank she stopped and stripped her right glove. She found his arm in the dark by his voice. The jacket was torn high on the outside, and under it the wet was warm, a furrow the length of her finger. Shallow. She ran two fingers down to the elbow and found nothing else.
 
 "That's it, that's all of it," he said. "I'd show you, but you've got the arm."
 
@@ -40,7 +40,7 @@ His left hand closed on hers. Slow. It closed.
 
 The gray was coming up in the east. Out past the ledges a light came in on the swell, making for the float. The lifeboat. It slowed. Its light swung, steadied, swung away.
 
-It turned.
+It turned. It would not put in to a float that had just been shot over, with her standing in the open.
 
 Dane got the phone out with his right hand. He tried to bring the left up to hold it to the sky, and the arm stopped at his shoulder. He held the phone out to her.
 
@@ -50,19 +50,23 @@ She held it up at arm's length into the gray. It buzzed in her fist, and she bro
 
 "Saturday," she said.
 
-"Fuck." He said it once, flat, at the screen. Then, quieter, to her: "Sorry. That one wasn't the arm."
+"Fuck." He said it once, flat, at the screen. Then, quieter, to her: "Sorry. That one was for Saturday."
 
 "LifeFlight. Ballfield."
 
-"That field is open ground with that deck looking straight up the harbor at it, and the front's in by mid-morning, and this is a graze. No." He thumbed one word into the phone while she held it, and she put it back up to the sky to send.
+"That field is open ground with that deck looking straight up the harbor at it, and the front's in by mid-morning, and this is a graze. No." He typed one word with his right forefinger while she held it.
 
-Out past the ledges the lifeboat's light went away south with the inspector aboard, smaller at every sea, while she stood under the bank in the gray with her arm still raised, holding the phone up to the sky for a man who couldn't lift his.
+*Graze.*
+
+She put the phone back up to the sky to send it.
+
+Out past the ledges the lifeboat's light went away south with the inspector aboard, smaller at every sea. She stood under the bank with her arm still up in the gray, and Pike came back against her palm, twice, before she could bring it down.
 
 * * *
 
 The shears from his own kit had taken the sleeve off at the shoulder. Dane sat on the bench with the arm across his knee. His jacket hung wet on the nail, the cold coming off it against the stove's heat.
 
-Beth reached the red Pelican case down off the shelf and thumbed its catches. Her father's boat kit lay inside as he had packed it: gauze, white tape, a card of butterfly strips gone yellow at the edges. Nothing missing.
+Beth reached the red Pelican case down off the shelf and snapped its catches. Her father's boat kit lay inside as he had packed it: gauze, white tape, a card of butterfly strips gone yellow at the edges. Nothing missing.
 
 She washed the furrow from the kettle. She pinched the edges together and laid the first strip across it at the middle, then worked out toward each end, one strip at a time, across the cut.
 
@@ -80,11 +84,11 @@ He laughed, short and real, and she nearly did. The ring hung on its nail by Tes
 
 Then nothing. The stove. The first snow going sideways past the edge of the blanket over the window.
 
-He let her lay the last strip. Then he spoke, slow, and very polite.
+He waited till she had the last strip on. Then he spoke, slow, and very polite.
 
-"Ms. Calloway. Whoever went in that box had a key and knew which tide we wanted. Nobody on this island had the tide from me. At the ramp head you named Haskell's key before I asked who held one. You asked Haskell about the float. Below decks, where I couldn't hear it. Tell me what you said, exactly, the way you'd tell a man who's going to write it down."
+"Ms. Calloway. Whoever went in that box had a key and knew which tide we wanted. Nobody on this island had the tide from me. Wednesday night I asked how you knew the float, and you told me you knew the float. At the ramp head you named Haskell's key before I asked who held one. So my guess, and I'd like to be wrong, is that you asked Haskell about the float, below decks, where I couldn't hear it. Tell me what you said, exactly. Tell it like I'm going to write it down."
 
-She pressed the last strip flat with her thumb.
+She pressed the last strip flat.
 
 "I said, 'Is the float workable on the ebb?' He said, 'Which tide?' I said, 'Tomorrow's first.'"
 
@@ -104,7 +108,7 @@ He wrote. She saw her own words go down in pencil. *Which tide.* The curtain. Th
 
 He put the book away and lay down on the cot on his right side, the gun on the bench by his right hand.
 
-Beth lifted the oak bar off the wall and dropped it into its irons across the door. Both her hands stayed on the oak bar till the iron quit ringing.
+Beth lifted the oak bar off the wall and dropped it into its irons across the door, and went back to the stove for the kettle.
 
 * * *
 
@@ -130,11 +134,11 @@ Her own kitchen floor, under the blanket, with her back to the chimney. The Ashb
 
 Her thumb stopped on the page.
 
-Nine thousand dollars. The first she heard of it came off a sheet of paper, in her own fish house. Her slip went into the envelope at the store, the flap tucked, never sealed. Three people saw that slip. Tess, who bagged it. The teller in Pruett, who counted it. Herself.
+Nine thousand dollars, put into her account and marked by the credit union for somebody to look at. The first she heard of it came off a sheet of paper, in her own fish house. Her slip went into the envelope at the store, the flap tucked, never sealed. Three people saw that slip. Tess, who bagged it. The teller in Pruett, who counted it. Herself.
 
 She saw the store counter and the bag open on it, the flap going under. She saw her own hands pass the pouch down to the courier at Pruett on Friday morning. Dane had stood on the ramp, watching the pouch go and nothing else.
 
-Nine thousand dollars she hadn't earned, credited to her name. She had owed nobody a dollar in eight years. Somebody had put money in her envelope for a man with a notebook to find. He had found it. He had written it down and carried it into her bed. Her face went hot in the cold room. She kept her thumb where it was.
+Nine thousand dollars she hadn't earned. She had owed nobody a dollar in eight years. Somebody had put money in her envelope for a man with a notebook to find. He had found it. He had written it down and carried it into her bed. Her face went hot in the cold room. She kept her finger on the line.
 
 *D5 0150 report. No indication.*
 
@@ -144,11 +148,11 @@ Nothing to report on her.
 
 *D6 am. Q: CU written rpt. Pouch: two bags. Seal noted: red.*
 
-Wednesday morning was the rock and the first sun on her face, and Pike and the weather. Q. Her eyes went over the rest of it and back up the page to the money.
+Wednesday morning was the rock and the first sun on her face, and Pike and the weather. Q, whoever Q was, had the credit union's written report. Two bags in Friday's pouch, the store's and the fare bag, and a red seal noted. The fare bag always rode red. A teller with a stack to count had copied the tag on top. She put it by and went back up the page to the money.
 
 On Saturday a line had lit up on his phone by her drainboard. *Do not disclose to witness.* She had read it standing at the sink as the ordinary things they kept from witnesses: names, plans, where the other man was held.
 
-She shut the book on her thumb.
+She shut the book on her finger.
 
 She sat with it shut and listened to him breathe. Under the snow the cove slapped at the ledge and drew back. Witness, on Pike's line. Subject, in his pencil.
 
@@ -156,7 +160,7 @@ She set the book face down on her knee and wiped her thumb down her jeans, hard,
 
 She opened it again, at the money.
 
-Then she looked from the page to his arm. Five strips across it, the paper of the middle one gone pink. The shot had come at the two of them as one shape on the ramp head, and found him. On paper she was already bought.
+Then she looked from the page to his arm. Five strips across it, the paper of the middle one gone pink. The shot had come at the two of them as one shape on the ramp head, and found him.
 
 She said it to him low, so as not to wake him.
 
@@ -168,19 +172,17 @@ The far shore was gone. The low had drawn the water off the ledges below the ban
 
 She put the notebook inside her coat against her ribs and did the coat up over it. She clipped her handheld inside, on nine.
 
-The fish house was on paper now. It was in a book that went to Portland, and from Portland to whoever read what Portland had. She would not sleep another night in a place that was written down.
+The fish house was in that book, and the book went to Portland, and from Portland to whoever read what Portland had.
 
 She took the red Pelican case from the end of the bench, where it had sat since the strips, and opened it beside the gun, where his right hand would find it. She left the lid up. She had never once left it open.
 
 She went to the door. The oak bar lay across it in its irons. She got both forearms under it and lifted it out. It was heavy, and the irons were cold where her wrists touched them coming free.
 
-She stood holding it.
-
-With it out, the door was only a door. Nobody could bar it from the outside. Behind her he slept on his right side, and he couldn't lift his left arm past his shoulder. She could say his name. He would wake; he woke at a footstep. She held the oak bar and didn't say it.
+She stood holding it. Nobody could bar the door from the outside. Behind her he slept on his right side, and he couldn't lift his left arm past his shoulder. She could say his name. He would wake; he woke at a footstep. She held the oak bar and didn't say it.
 
 She shifted it into the crook of one arm, its end on the planks, and went to the cot. The stubble had gone dark along his jaw, and the gun lay under his right hand with the open case beside it. She held her hand over his chest, an inch off his shirt. The warmth came up off him into her palm. She took the hand back without touching him.
 
-She carried the oak bar back across the planks and stood it against the wall beside the door. She opened the door on the snow, stepped out into it, and drew the door to behind her. Through the last of the gap: the red case open on the bench, the card of strips on top, a hand's breadth from the gun.
+She carried the oak bar back across the planks and stood it against the wall beside the door. She opened the door on the snow and stepped out into it. Through the gap, as she drew it to, the red case lay open on the bench with the card of strips on top, and then the snow was in her face and she was going down toward the low.
 
 * * *
 
@@ -188,7 +190,7 @@ The church had no heat in it. Her breath showed inside a building. Snow-light ca
 
 A truck came along the Harbor Road, slow, wipers going. Russ's.
 
-She stood at the window with her hand on the sash. Russ was the *Second Wind* and four hundred traps, and a badge. One step out and a hand up would stop him. Badges wrote things down. She kept her hand on the sash. The taillights went on toward the store, red in the snow, then gone.
+She stood at the window with her hand on the sash. Russ was the *Second Wind* and four hundred traps, and a badge. One step out and a hand up would stop him. She kept her hand on the sash. The taillights went on toward the store, red in the snow, then gone.
 
 Early afternoon. Out on the road side a handheld squawked.
 
@@ -214,11 +216,11 @@ Above her, along the top of the bank, the step and the drag came on, level with 
 
 * * *
 
-Under the face of the stone pier the riprap was black with weed, and over her head the brow's wheels ground on the granite at every surge.
+Under the face of the stone pier the riprap was black with weed, and over her head the boat's fenders groaned against the pier at every surge.
 
 The snow was over. The wind was rising ahead of the gale. Ned came on deck at last light to check the lines and the pump. She knew his hours better than her own.
 
-At last light a flashlight came along the deck, held low, and stopped at the head of the brow.
+His flashlight came along the deck when she knew it would, held low, and stopped at the head of the brow.
 
 She came up off the riprap onto the pier and into its light.
 
@@ -228,7 +230,7 @@ She came up off the riprap onto the pier and into its light.
 
 "Lines are fine. Pump's fine." The light went down her to the boots. "You're wet."
 
-He held the light down on the brow so she could see her feet, and he let her aboard without a question. Big and stooped in the green jacket, he went ahead of her slow on the hip and took her into the crew mess.
+He held the light down on the brow so she could see her feet, and took her aboard without a question. Big and stooped, he went ahead of her, slow, into the crew mess.
 
 The heater was going. A bulkhead lamp burned over the table, and somebody's mug had left a ring on it. Under her boots, under the steel, the forepeak pump ran steady, the sound of the boat keeping herself.
 
@@ -236,11 +238,7 @@ The heater was going. A bulkhead lamp burned over the table, and somebody's mug 
 
 She stood at the heater with her back to it. The salt in her jeans began to soften as they warmed. She unbuttoned the coat and took the notebook out. The edges were wet through. The pages were sound.
 
-She turned to the line about the seal and put her thumb under it.
-
-The fare bag was always red. The teller had written down the boat's bag. Ned's.
-
-She turned the page back to the money.
+The line about the seal went by under her finger, the fare bag's red, and she turned past it to the money.
 
 Ned stood in the doorway with two mugs.
 

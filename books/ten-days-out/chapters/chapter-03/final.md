@@ -60,7 +60,7 @@ He turned to the stove to pour, his back to her, and stayed that way after the m
 
 "Then don't sit with your back to me."
 
-She took the chair facing the door herself, the one he'd have taken. The other faced hers across the table and put the door behind him. He stood with a mug in each hand and looked at it, and she saw him decide to sit in it.
+She took the chair facing the door herself, the one he'd have taken. The other faced hers across the table and put the door behind him. He stood with a mug in each hand and looked at it. Then he put hers down in front of her and hooked the other chair out with his boot.
 
 * * *
 
@@ -69,11 +69,11 @@ Late in the morning, for the milk, Beth went down the planks from her back steps
 
 The hood stood at the propane cage by Marr's back step, facing the office door.
 
-"Him," Beth said.
+"Hood," Beth said.
 
 The hood turned, and the drag went off down the slope. Dane was already past her.
 
-"On me," Dane said, going. "Talk to me."
+"On me," Dane said, going. "Keep telling me where he is."
 
 She didn't. The fish houses stood on their tarred posts with the top of the tide in among them, and the hood went down the lane between two of them, sure of every plank. "Stay up top where I can see you," Dane called back, and went in after him. Beth stopped at the head of the lane. Past its far end the sea heaped up green on the ledge.
 
@@ -83,35 +83,37 @@ He stopped. He got an arm round a corner post, and the sea came up the lane whit
 
 Dane stood where she'd put him, jeans black to the knee, both arms round the post.
 
-Russ came out the back door at the noise.
+Russ Whitcomb, the island's constable when it needed one, came out the store's back door at the noise.
 
 "Russ, take her in and keep her where you can see her," Dane said. "I want to know where my guy came out."
 
-Russ took her in through the office. "Where you sleeping tonight? Asking because somebody will."
+Russ took her in through the office. "Where are you sleeping tonight? Don't tell me. Who's going to ask me before supper? Everybody."
 
-She didn't answer him either. Tess was at the counter with the storm log open, and she looked up and didn't say a word.
+She didn't answer him either. Tess was at the counter with the storm log open, and she looked up.
 
-Dane came through the office with snow on his shoulders and the sea running out of his boots, breathing hard.
+Dane came through the office with snow on his shoulders and the sea running out of his boots, breathing hard. "I owe you a floor, Ms. Marr. Put it on the government's—"
 
-"I owe you a floor, Ms. Marr," Dane said. "Put it on the government's account."
+"Mop's a dollar. Floor's free," Tess said. "Storm special."
 
 "Your man went in between those fish houses like he'd built them," Dane said to Russ. "I went in like a man looking for the restroom."
 
-"Restroom's for customers," Tess said.
+"Restroom's customers only. Coffee's two dollars. Buy one, you're a customer."
 
-Beth knocked the snow off his shoulder, and her thumb found the cold skin of his neck above the collar and rested there. Tess looked from her hand to his face and said nothing at all.
+Beth knocked the snow off his shoulder, and her thumb found the cold skin of his neck above the collar and rested there. Tess looked from her hand to his face, and then down at the log.
 
 He took a carton of milk out of the cooler and handed it to her.
 
 The bell went. Arsenault came in stamping snow off good boots: the *Margaret Ann*, the dragger that had stayed lit through the blackout. His eyes went from the water on the boards to Dane's wet knees.
 
-"Pack of Golds, and whatever the gentleman's having," Arsenault said.
+"Pack of Golds, Tess, and whatever the gentleman's having," Arsenault said. "Man goes in the harbor for this island, he drinks on me."
 
-"Coffee," Dane said.
+"Golds, eleven-forty. Coffee, two. Lyle, you're a saint."
 
-Arsenault paid for both.
+"Coffee, thank you," Dane said.
 
-The clock over the door came to noon. *Saturday noon*, the screen had said: the deadline on the Webbers Cove. The call to hold it needed open sky, and open sky meant going outside and leaving her at the counter beside Arsenault. Dane stayed where he was.
+Arsenault had it counted out on the counter before she'd finished the price.
+
+The clock over the door came to noon. *Saturday noon*, the screen had said: the deadline on the Webbers Cove. The call to hold it meant taking the phone outside and leaving her at the counter beside Arsenault. Dane stayed where he was.
 
 Arsenault nodded to Beth and went. Through the front window she saw him go down the dock to his skiff and pull away toward the moorings.
 
@@ -119,19 +121,23 @@ Beth and Dane went out the front, the bell behind them, round to the side wall. 
 
 "Need the Ashby key," Beth said. Ashby was the Connecticut place on the north point, and nobody slept there in winter.
 
-"Bethie." Ned worked a key off his ring with his thumb. "I run the generator out there every storm anyhow. Nobody'll look twice at a light." He put the key in her glove. "Nobody but—"
+"Bethie." Ned worked a key off his ring. "Glass is still going down. I run that generator out there every storm anyhow, so nobody'll look twice at a light in the house." He put the key in her glove. "Nobody but—"
 
 "Me and God. I know," Beth said.
 
-When Dane came off the corner the key was in her pocket. She hadn't given him Ned in the dark, or Tess's open log this morning, and she didn't give him either of them now.
+When Dane came off the corner the key was in her pocket.
+
+"Whose house?" he said.
+
+"Connecticut's." She started up the road with the milk, and he had to take a step backward to keep the moorings in sight.
 
 * * *
 
-They waited out the afternoon in her kitchen with the door locked. The north road went up over the spine of the island in the dark, and the snow squeaked under their boots. The Ashby key was cold through her glove. At the top she stopped and looked back at the harbor she'd left. Below, the houses were black except where a generator kept a window yellow, and out on the visitors' mooring the *Margaret Ann* lay lit end to end, as she had all through the blackout.
+They waited out the afternoon in her kitchen with the door locked. The north road went up over the spine of the island in the dark, and the snow squeaked under their boots. The Ashby key was cold through her glove. At the top she stopped and looked back at the harbor she'd left. Below, the houses were black except where a generator kept a window yellow, and out on the guest mooring the *Margaret Ann* lay lit end to end, as she had all through the blackout.
 
 Then every deck light on the *Margaret Ann* went out at once, and the outer harbor went black below the hill.
 
-Nobody said anything. They walked faster. He had moved to her harbor side, between her and the long drop to the shore, and his hand had gone to his hip and stayed there, and she let him walk there the rest of the way.
+They walked faster. He had moved to her harbor side, between her and the long drop to the shore, and his hand had gone to his hip and stayed there, and she didn't move him off it the rest of the way.
 
 Ashby came up at the end of the road, a big shingled shape with water on three sides and the generator shed on its pad below the house. She dragged the shed door open on its frozen track, primed the engine by feel, knocked on the tank, which rang near empty, and put the cord in his hand. "Long and even, and don't yank it."
 
@@ -143,15 +149,15 @@ He pulled, and the engine coughed once and quit. He pulled again and got nothing
 
 "It is for this one."
 
-On the third pull it caught. It coughed and coughed and ran, ragged and then even, and the shed filled with the hammer of it, and she was watching his face when it happened. He grinned like a boy with a fish on. He stood with the cord handle still in his fist and his other hand pressed flat to his chest, as if he could feel the engine in there. Through the open door, up the slope, the big house's windows came up yellow behind the sheets.
+On the third pull it caught. It coughed and coughed and ran, ragged and then even, and the shed filled with the hammer of it. He grinned like a boy with a fish on. He stood with the cord handle still in his fist and his other hand pressed flat to his chest, as if he could feel the engine in there. Through the open door, up the slope, the big house's windows came up yellow behind the sheets.
 
 "Is that what you look like when something works?"
 
-He looked at her, a man who talked to anybody who'd stand still, and now he didn't say a word.
+He looked at her, a man who talked to anybody who'd stand still, and had nothing ready.
 
 She put her back to the engine housing. It was warm already through her coat and getting warmer, and it shook against her with every stroke. She took his jacket in her fist and brought him down to her.
 
-His mouth was cold for a second and then warm. He went still, the whole length of him, and then he kissed her back slowly, and kept it slow. He tasted of the store's terrible coffee. She caught his lower lip in her teeth, and the breath went out of him through his nose, long and slow. She pulled off a glove and put her bare hand along his jaw where she'd watched the razor go that morning, and it was as smooth under her fingers as it had looked from the stove.
+His mouth was cold for a second and then warm. He went still all over, and then he kissed her back slowly, and kept it slow. He tasted of the store's terrible coffee. She caught his lower lip in her teeth, and the breath went out of him through his nose, long and slow. She pulled off a glove and put her bare hand along his jaw where she'd watched the razor go that morning, and it was as smooth under her fingers as it had looked from the stove.
 
 "Beth," he said against her mouth, and nothing else.
 
@@ -161,11 +167,11 @@ He brought them up and stopped an inch off her zipper, and they waited there.
 
 "Where?"
 
-"Under. Not over."
+"Under the wool."
 
 She opened her own coat. The zipper stuck halfway on the wool, and she said a word to it, and he waited. His hands went in under the sweater and the thermal and onto the bare small of her back, and they were so cold she swore into his mouth. He laughed, and she felt it against her teeth, and he kept his hands where they were, which was what she wanted.
 
-Then they warmed, and moved, up her spine and round over her ribs, the old hauler's ridge across his palms catching on her skin, and the engine beat at her back and the cold came in at the door and the house stood lit up the hill, and she had both hands in his belt, pulling him in, and she hadn't decided to, and her mouth was asking for things before she'd thought them.
+Then they warmed, and moved, up her spine and round over her ribs, the old hauler's ridge across his palms catching on her skin, and the engine beat at her back and the cold came in at the door and the house stood lit up the hill, and she had both hands in his belt, pulling him in, and nobody had told her hands to, and her mouth was asking for things her head hadn't got to yet.
 
 "Do you want—" she said.
 
@@ -191,13 +197,13 @@ He stepped back a full pace, so the engine's noise stood between them.
 
 "Don't write me down," she said.
 
-He took it without arguing. "Ms. Calloway." He let that stand a moment. "No. And I'm not going to keep talking till it sounds like yes."
+He took it without arguing. "Ms. Calloway." He gave it a moment. "No. And I'm not going to keep talking till it sounds like yes."
 
 The engine hammered on between them. Up the slope the yellow windows stood lit for nobody.
 
 "That boat went dark," he said. "I have to call it in."
 
-She shut the shed door on the engine and went up the slope ahead of him with Ned's key in her hand, and let them into a house that smelled of mothballs and cold wallpaper, where the furniture stood about under sheets.
+She shut the shed door on the engine and went up the slope ahead of him with Ned's key in her hand, and unlocked a house that smelled of mothballs and cold wallpaper, where the furniture stood about under sheets.
 
 At the door he stopped. "North end. Not the house. That's what I'll tell them."
 

@@ -4,13 +4,13 @@ Dane stood beside her at the head of the landing ramp with his left arm strapped
 
 A little before eleven, near the low, Beth stood by the locked box at the ramp head. Herring came off the bait shed in the cold. Every wash off the boats alongside lifted the float and clanged the hinge once.
 
-The lifeboat and the Marine Patrol boat had lain at the float since eight. Two men sat in the Marine Patrol boat's stern with their hands behind them, one of them wrapped in Ned's blankets. Out past the outer ledges the *Margaret Ann*'s red hull lay stopped with a Coast Guard boat alongside. Across the harbor a Marine Patrol skiff was towing the dragger's aluminum skiff off the *North Reach*'s port quarter ladder, where the boy had left it.
+The lifeboat and the Marine Patrol boat had lain at the float since eight. Two men sat in the Marine Patrol boat's stern with their hands behind them and life jackets buckled over their coats, one of them wrapped in Ned's blankets. Out past the outer ledges the *Margaret Ann*'s red hull lay stopped with a Coast Guard boat alongside. Across the harbor a Marine Patrol skiff was towing the dragger's aluminum skiff off the *North Reach*'s port quarter ladder, where the boy had left it.
 
 Two relief deputies came down the Harbor Road from the town office and stopped at the ramp head.
 
 "Pike wants your weapon," one of them said.
 
-Dane took the gun off his hip with his good hand and passed it across butt first. The deputy put it away without looking at him.
+Dane took the gun off his hip right-handed and passed it across butt first. The deputy put it away without looking at him.
 
 "Tomorrow I'm a passenger," Dane said to her. "I've seen how you treat passengers."
 
