@@ -28,7 +28,7 @@ The razor stopped on his jaw. "I can quit doing that."
 
 He wiped the razor dry on the dish towel, set it back on the drainboard, and went out to the yard with the phone. She didn't go to the window.
 
-He came back in, set the phone face up on the table with the screen still lit, and went to the stove for the pot.
+He came back in with snow melting on the screen, set the phone face up on the table to dry his hands, and went to the stove for the pot.
 
 She picked it up and turned it to the window. Last night the same light had been under his chin on the front step while somebody stood in her mudroom, and now one message was open on it.
 
@@ -90,7 +90,7 @@ He turned to Beth, kind. "I bought fuel off your father when you were about this
 
 "Banks weren't luck."
 
-Over the door the clock's hands came together at noon. Dane looked at it, then at Arsenault, and stayed where he was. The call he'd have had to make was outside under the sky, and he wasn't leaving her in a room with the dragger's skipper. Beth had read the screen that morning, and she watched him let the boat go.
+Over the door the clock's hands came together at noon. Dane looked at it, then at Arsenault, and stayed where he was. The call he'd have had to make was outside under the sky, and he wasn't going out under it with the dragger's skipper watching which way he went. Beth had read the screen that morning, and she watched him let the boat go.
 
 Behind the counter the curtain to Tess's office hung half open. Through the gap, through the office's back window, a man in a hood stood by the propane cage at the back step with his hands in his pockets, facing in. Waiting. He turned away toward the shore, and his left heel dragged a line through the snow.
 
@@ -118,7 +118,7 @@ Beth didn't. Her eyes went down the night's column and stayed there a second too
 
 The back door banged. Dane came through the curtain with snow on his shoulders, breathing hard. "Lost him in the fish houses on the co-op side. He went in between them like he'd built them, and I went in like a man looking for the restroom."
 
-Beth's palm was flat on the page, over 22:40, before she'd decided anything. She hadn't given him Ned's name last night, and she wouldn't give him Tess's hand now, and it was the same reason: they were hers, and she had never yet handed one of her own to a man from away.
+Beth's palm was flat on the page, over twenty-two forty, before she'd decided anything. She hadn't given him Ned's name last night, and she wouldn't give him Tess's hand now, and it was the same reason: they were hers, and she had never yet handed one of her own to a man from away.
 
 He stopped at her elbow, still breathing hard, close enough that she could smell the snow on him. The spiral wire bit into her wrist, and she kept her hand where it was. "What am I looking at?"
 
@@ -188,11 +188,11 @@ She opened her own coat. The zipper stuck halfway on the wool, and she said a wo
 
 Then they warmed, and moved, up her spine and round over her ribs, the old hauler's ridge across his palms catching on her skin, and the engine beat at her back and the cold came in at the door and the house stood lit up the hill, and she had both hands in his belt, pulling him in, and she hadn't decided to, and her mouth was asking for things before she'd thought them.
 
-"Do you want—"
+"Do you want—" she said.
 
 "Yes." He said it into her hair. Then, quieter: "Do you?"
 
-"Yes."
+"Yes," she said.
 
 His hands spread over her ribs and stopped there, his thumbs still, waiting on her. She put her own hand over one of them through the wool and held it to her.
 
