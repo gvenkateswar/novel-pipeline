@@ -344,6 +344,53 @@
 
 ---
 
+## Chapter 07 — Loss of Separation
+*Oct 29. `final.md` 2,898 words after cold-read triage (cold reader 5/10, "I'd keep reading, but only just"; the public confession "the best scene since the storm"). Ellen's POV. End of Act 2.*
+
+**What happened:** s1, Tue Feb 2, 5:45 p.m., her lot: Ray's truck has idled eleven minutes; he lays a cashier's check flat on the hood (bought with his savings at the credit union; her name and the sum in the teller's printing; the store's envelope beside it, blank). "Don't count it. You'll lick your thumb like Arlene, and she'd count a check the same as a fistful of ones." She reads it once: forty-eight thousand dollars. "Near all of it. None of it's the store's, and Danny's seen it." "I asked the Concord bank how a bank counts a winter like yours… Every eight dollars of this that goes on Arlene's note the day you close takes a dollar off what they need you to make." She has it: six thousand. "Put it back in the envelope" (her hand stays on the hood). His offer: write him down for whatever share that buys; he'll sign what Arlene's lawyer puts in front of him; three weeks out her back door; "You give the league its Saturday back, Linda's name and all, and you still make your number." Dale's town pickup arrives, lights on them, Dale watching from behind the wheel (sees everything, hears nothing). Her wanting (the check in her vest; the Saturday back; Linda's name off her notice; him in her office; the finger's width gone). "And Dale's crew comes home, on your word." Her hand comes off the hood; her eyes to the foot of the sign pole where they dug in December; the glove back on. "I'd sooner be in it with you than standing at the bottom of your drive." "If I take it I'll never know which of us carried it." (her one contraction). "It was true, and it was the sentence she could say. The item under it was her word, status broken, unreported." He folds the check back into the blank envelope: "Then I keep my commitment." s2, 6:20 p.m., the counter: Dale's written notice on Verna's binder on top of the Legion captain's; Verna: notice "given after the half, and so without forfeit." Dale: Gil holds lanes at half past seven; "read them January fifth." Verna reads the Jan 5 minutes in full. Dale: "Ray said it. It's in Verna's book. I'm only reading it back." Ray walks the length of the settees, comes around the end of her counter, stands beside her facing the room, his shoulder an inch from hers ("On the boards an inch would have been a loss of separation"). "She said, 'Unless the numbers say otherwise.' Said it to me in the pit behind five, the night of the storm, and Denise put a strike down over the top of it, and I never heard the end. That's mine. Put it in the book, Verna." The room starts to turn ("Well, if it's Ray's—"). "It is not yours." / "In the bob-house you asked me whether I knew you had not heard it. I knew. I watched you miss it." / "Where I worked, you hear every instruction come back before you let it go. There was no readback. I knew it, and I let it go. Then I let you stand up in this room in January and give them my word." Ray takes the inch back, then a step. "Denise." / "I asked her who she said it to. In January. She didn't tell me either." Ray walks back to six past Denise without a look. Dale: "Then the book's wrong. We're still going." The Highway crew and the Legion leave. Denise: "…what you're out is whatever those two teams would've put in that drawer between now and the Memorial… so don't you say it." (her "honey," 3 of 4) / "I still make the number. The Open carries it, and nothing else does." 6:30 PA: "Good evening, Tuesday division. Second half. Bowl when you are ready." Ray on six with the ball against his chest until she finishes; the first ball of the second half leaves a hand on lane one. s3, about 11 p.m., after close: the toggles down; Ray at the customer side of the counter, jacket zipped, having stayed through close without a stool or the back door; Denise's headlights idling in the lot. He switches off the PA. "The sign, Mrs. Daly. You knew." / "Yes." / "You will want the rest. I will give it to you in order." / "First. Linda's name was for room." / "Second. A true sentence would hold." / "New Year's too?" (not answered) / "Third. This one would have cost me you." / "You sounded fine on the radio that night too, I bet." (her pin in the pit; the midnight headset) / "Understood." She writes tomorrow's date, the third of February, on the clean page and underlines it. He works her front key off his ring a quarter turn at a time (the 1996 key stays on under its orange tag), lays it on the counter with no tag, says nothing, goes out by the front; a second pair of headlights comes on beside Denise's. She lifts the key to the cup-hook board and takes it down; into the cash drawer and out; to her own ring and stops at the gap; into her own vest pocket.
+
+**What changed:**
+- The offer: $48,000, Ray's savings, as a partner's buy-in (whatever share it buys; Arlene's lawyer's paper); refused. Ray keeps his Concord commitment: he is still the backup buyer at appraised value on March 1. The check is back in the blank envelope inside his jacket.
+- The ratio is on the page: eight dollars on the note for every dollar off the bank's number; about six thousand. Source: Ray asked the Concord bank.
+- The lie is paid, in public: Ellen told the room (and Ray) that she watched him miss the second half and let him give her word in January. Verna's pen stopped; whether the minutes now hold it is not on the page. Denise's suspicion is public too ("She didn't tell me either").
+- The Highway crew and the Legion have left for Pine Ridge (Gil, Halsey Falls, half past seven), without forfeit, notice given after the half. Dale: "Then the book's wrong. We're still going."
+- Ellen's number: still made, by the Open alone (ledger: $800 over the bar after the walkout; the Open is the margin). Nothing else carries it.
+- The break: Ray returned her front key (no tag). He has no key to her building. The key is in her own vest pocket, not on her ring. Her reasons given in order: Linda's name was for room; a true sentence would hold; this one would have cost me you. "New Year's too?" unanswered. "Understood." (2 of 4). "No readback" spoken: 2 of 2, spent. "Separation": the title plus one in her head (4 of 5).
+- Arlene's thumb-licking is on the page for the first time (Ray's line); Ch 10 pays it.
+- Feb 3 is written at the top of a clean page: tomorrow's work starts there (Ch 08's letter / the Open goes up).
+**Who knows what:**
+- Ray: she watched him miss it and let him vouch; she kissed him at New Year's knowing (asked, unanswered); her three reasons; she refused his savings; "I still make the number" was said to Denise, not to him. He has not corrected or asked Verna to strike the minutes.
+- Ellen: Ray asked Concord how a bank counts her winter; the ratio; the check's sum; that he'd buy in as a partner; "I'd sooner be in it with you"; Danny has seen the check; he kept his commitment.
+- The whole Tuesday division, Verna, Denise, Hollis: Ray's "That's mine" and Ellen's "I watched you miss it."
+- Dale: the check on the hood existed (saw, didn't hear); Ellen's confession; "the book's wrong."
+- Denise: everything; she waited in the lot after close.
+**Objects / details introduced:** the cashier's check (payee Ellen Daly; $48,000); the blank Gagnon & Son envelope; the town pickup with the seal; the foot of the sign pole / the plow bank over the December dig; Verna's binder with two written notices; the gooseneck PA; the legal pad close sheet (nine lines, eight struck); the cup-hook board behind the counter; her own key ring.
+**Plants placed:** (→ pays off Ch __)
+- "Then I keep my commitment." (→ Ch 08 the release by all three)
+- The check in the blank envelope, inside his jacket (→ Ch 08 Arlene / Ch 10: what he does with it)
+- "I'd sooner be in it with you than standing at the bottom of your drive." (→ Ch 10)
+- Arlene's thumb (→ Ch 10 the licked-thumb count)
+- "I watched you miss it." in front of the league; Verna's pen stopped (→ Ch 08: the minutes; the room's verdict; Dale's "the book's wrong")
+- Her front key in her own vest pocket, off her ring, no tag (→ Ch 08 "Not yet"; Ch 10)
+- "New Year's too?" unanswered (→ Ch 08/10: she answers it or does not)
+- "I still make the number. The Open carries it, and nothing else does." (→ Ch 09 storm day: the Open is the margin)
+- The third of February, underlined (→ Ch 08 opens on that page)
+- "The Open needs a final" / Linda's name "for room" (→ Ch 08 Ray's condition: the Memorial stays the league's; the Open gets morning and evening for a new cup)
+- Gil holding lanes at half past seven (→ Ch 08 s1 Pine Ridge, Fri Feb 5)
+**Plants paid:** (← from Ch __)
+- ← Ch 06: the cashier's check, "If she takes it, you can't buy it March first": offered, refused; "Then I keep my commitment"
+- ← Ch 06: "Did you know I didn't hear it?" / "I said it.": paid in public
+- ← Ch 06: Dale's crew and the Legion to Pine Ridge the Tuesday after the half: gone Feb 2
+- ← Ch 05: Verna's minutes read in full a second time, word for word; Denise's "Who'd you say that to?" answered to the room
+- ← Ch 03: the pin in both hands in the pit; "no readback" (the spoken use)
+- ← Ch 02: the front key she laid on his counter at 4:58: returned
+- ← Ch 04: "I'd hate to beat somebody who wasn't ready" / Ray on his feet in January: he stood against her twice, in January and tonight, and vouched both times
+**Numbers stated:** forty-eight thousand dollars; eight dollars / a dollar; six thousand; eleven minutes; a quarter to six; half past six; half past seven; January fifth; the third of February; three weeks; nine lines, eight struck; four hours; the first of December. ("$800 over the bar" is ledger-only.)
+**Ends on:** "She put it in her own vest pocket."
+**Word count:** final.md 2,898. Target 3,100.
+
+---
+
 ## Plant ledger
 | Plant | Placed Ch | Pays off Ch | Status |
 |---|---|---|---|
@@ -471,6 +518,14 @@
 - Ray's motor comparisons were a tic at five per chapter; now two. Cap: two per chapter.
 - S4 lost its Linda beat in the rewrite ("Nobody had put a thing on this counter for him without his asking since Linda" was cut as a gloss). Ch 04 or later may carry a Linda beat.
 - "owing him, which sat on her about as well as a wet coat" (S3) reads Ellen's insides from Ray's POV. Allowed once; not a habit.
+
+### Ch 07 flags
+- **Motif counts after Ch 07:** "no readback" 2 of 2 (spent); "separation" 4 of 5 (one left); "Understood." 2 of 4; "honey" 3 of 4 (one left); "unless the numbers say otherwise" 4 of 6; "read it back" 2 of 4 (Dale's "reading it back"); "Mrs. Daly" 1 (s3); Ellen's list-collapse-into-ands device used again at the hood (fourth use per the cold reader): retire it for Ch 08–10; "He did not raise his voice" twice in Ch 07 and the reader has noticed across the book: retire the phrase; "the voice she kept for the minutes" 3 uses: retire.
+- **"What the alley makes stays in the alley"** was cut from Ch 07; Ch 10's Judy must carry the full liquidity rule.
+- **Bible note:** Ray's two public stands are "in January and earlier that evening at the counter" (the bible says "an hour earlier").
+- **Ray has no key** to her building from Feb 2. Ch 08–09: he is let in or comes by the front in hours.
+- **Ellen's number after the walkout:** still made, by the Open alone (ledger $800 over). Ch 09's storm day threatens exactly that.
+- **Timeline Ch 07:** s1 Tue Feb 2 5:45–5:58 p.m.; s2 6:20–6:31 p.m.; s3 about 11 p.m. Final 2,898 words.
 
 ### Ch 06 flags
 - **The lie is on the page:** "Did you know I didn't hear it?" / "I said it." Ray does not know she watched him miss it. Ch 07–08 must pay it; the sentence she owes him is "I watched you miss it" (cold reader's hook).
