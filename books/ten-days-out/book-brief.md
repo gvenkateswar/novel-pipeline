@@ -35,4 +35,4 @@ The second test book. It tests the April 2026 finding that open-door romance is 
 
 ## Human gate log
 
-(none yet)
+- **Ch 01, Oct 29, 2026:** sent to the author (veto window), asking "Where did you drift? Would you keep going?" Simulated readers: cold reader 7/10 ("I'd keep reading, but…": the kitchen scene sags; every scene ends on a neat line); sample reader buy yes, average 3.25, s4 at 2 (pull gate fail: the limping man goes quiet and Beth never tells Dane). Ch 01 won a three-variant tournament (9 of 12 wins). Scene 4 goes to a scene-level tournament from revised beats while the author reads. Verdict open.
