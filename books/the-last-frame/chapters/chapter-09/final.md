@@ -1,6 +1,6 @@
 # Chapter 9: The D-side
 
-Her hands were empty on Ray's back step. They went into the pockets of her vest, and the right one found his key in the bottom corner of its pocket and let it lie. They came out again bare into the cold. The left corner of the step had iced where the eave dripped, so she took it on her right leg and kept the left one back, and she was one minute early. She could not remember the last door she had stood at with nothing to hand anyone. The invitation had come pencilled under the total on his invoice for the new belt on six, in the square hand he labelled parts with: *Supper. Wednesday. A quarter past five. No charge.* She had paid the invoice to the cent and kept the bottom of it, and those two words were the first thing of his she had accepted off an invoice since the gloves.
+Her hands were empty on Ray's back step. They went into the pockets of her vest, and the right one found his key in the bottom corner of its pocket and let it lie. The left corner of the step had iced where the eave dripped, so she took it on her right leg and kept the left one back, and she was one minute early. The invitation had come pencilled under the total on his invoice for the new belt on six, in the square hand he labelled parts with: *Supper. Wednesday. A quarter past five. No charge.* She had paid the invoice to the cent and kept the bottom of it, and those two words were the first thing of his she had accepted off an invoice since the gloves.
 
 Through the storm door the radio on top of his refrigerator talked to his kitchen. She had heard the forecast twice today, first at noon in her office and then at three in the car, and the Saturday storm had come farther inland on the second than on the first. She had brought none of it up his hill.
 
@@ -16,7 +16,7 @@ He opened the door before she could knock.
 
 "I put it in pencil in case you wanted to argue the price."
 
-The heat of the kitchen came out past him onto her face, hamburg and green pepper and tomatoes cooked down a long way, and she went in under his arm. He bent his head under the hanging lamp over the table, which he had plainly done so long he no longer knew he did it, and she liked looking up at someone, which she seldom got to do. Two bowls stood on the oilcloth, and they did not match. The pot sat on the back burner with a folded dishtowel under its handle.
+The heat of the kitchen came out past him onto her face, hamburg and green pepper and tomatoes cooked down a long way, and she went in under his arm. He bent his head under the hanging lamp over the table, which he had plainly done so long he no longer knew he did it. Two bowls stood on the oilcloth, and they did not match. The pot sat on the back burner with a folded dishtowel under its handle.
 
 "Same thing in that pot for thirty years," Ray said, and took the lid off it, "and it's never once let me down. Doc Moreau told me back about ninety-eight I ought to vary it, and I went home and gave it some thought, and I varied the bowl."
 
@@ -58,11 +58,11 @@ Ray looked at her standing there. Then he reached up again and turned it back on
 
 \* \* \*
 
-Ray's hands were inside three's table to the wrist, bringing it down off the top of its stroke a notch at a time, and Ellen stood behind him on the catwalk and waited for it to set. Under the day's load it had hung at the top with ten pins held in the air over the deck, and out front a family had stood at the line with a ball and nothing to throw it at. The motors along the catwalk gave off their warmth, with grease and hot belt in it, and through the masking came the crash of all ten lanes going at once, a full house, heard from behind. Each time a ball came through on four, the curtain at the end of it lifted and dropped.
+Ray's hands were inside the pinsetter on three to the wrist, bringing its table down off the top of its stroke a notch at a time, and Ellen stood behind him on the catwalk and waited for it to set. Under the day's load it had hung at the top with ten pins held in the air over the deck, and out front a family had stood at the line with a ball and nothing to throw it at. The motors along the catwalk gave off their warmth, with grease and hot belt in it, and through the masking came the crash of all ten lanes going at once, a full house, heard from behind. Each time a ball came through on four, the curtain at the end of it lifted and dropped.
 
 "She's been half a second late at the top since December," Ray said, to the table. "I let her ride."
 
-A ball came down three, and the machine swept and lifted and set ten pins on their spots, on time.
+A ball came down lane three, and the machine swept and lifted and set ten pins on their spots, on time.
 
 Ray stayed on one knee with the wrench on the nut. Ellen stood.
 
@@ -94,7 +94,7 @@ Ray had not moved.
 
 Ray laid the wrench on the catwalk and got up off his knee. He was taller than the pit allowed, and he bent his head under the beam, which brought his face down nearer hers, with a foot of catwalk between them and grease to the second knuckle of both his hands.
 
-"Read it back to me. I want to hear it in your voice."
+Ellen did not step back from him. "Read it back to me. I want to hear it in your voice."
 
 "Snow's worse after two. Evening squad's driving to Massachusetts tonight whatever we do." He wiped one hand down his thigh. "And I'm on it with you. Today, and Monday, and after."
 
@@ -102,11 +102,11 @@ Out front a strike went down on five, and the crash came back through the maskin
 
 "And you haven't sat down since Hollis called."
 
-He was right. In her whole working life she had never let a rounded number stand.
+He had said "since Hollis called" for "since ten past four." For the first time in her working life she let a rounded number stand.
 
 "Readback correct."
 
-She sat down on the ledge behind three with her back to the kickback, where the motor's warmth came through her vest, and it was the first time she had sat since ten past four. Ray saw her sit and stayed where he was, his head bent under the beam.
+She sat down on the ledge behind three with her back to the kickback, where the motor's warmth came through her vest, and it was the first time she had sat since ten past four. Ray stayed where he was, his head bent under the beam.
 
 The radio she had set on his bench clicked, and Denise came out of it. "Ellen, you back there? Hollis is at the counter with Dale on his phone."
 
@@ -118,13 +118,13 @@ Hollis held his phone out across the counter in his glove, with snow on his blaz
 
 "Dale says the town wants everybody off the roads by four this afternoon. His crew's out plowing till morning."
 
-He pocketed the phone. "Three strings a bowler on all ten lanes is two hours and some. Start at two, done past four. Who drives home after?"
+Hollis pocketed the phone. "Three strings a bowler on all ten lanes is two hours and some. Start at two, done past four. Who drives home after?"
 
 The glass block across the front had gone from white to gray since noon. Snow melted off every boot in the building and stood in puddles under the settees, and behind Denise the fryer went on without a pause.
 
 Denise answered with the basket in her hand. "Keep them, like December, when thirty-three of them slept on those settees and paid for strings at midnight, and are they still telling it at the diner? They are. Bowl the Memorial tonight, bowl the evening right after it, I'll run this fryer till morning, and nobody pays for coffee."
 
-"Thirty-three in December. Today, this room, and a boiler that quits when the power does."
+Ellen looked past the basket at the settees. "Thirty-three in December. Today it is this whole room, and a boiler that quits when the power does."
 
 Ray had come up from the pit and stood at her shoulder.
 
@@ -132,7 +132,7 @@ Ray had come up from the pit and stood at her shoulder.
 
 Denise looked past them at the trophy case, and put the fryer basket down.
 
-Ellen pulled the gooseneck down, and the hum came first.
+Ellen pulled the gooseneck down to her mouth.
 
 "Good afternoon. The Linda Gagnon Memorial moves to Sunday at one, on all ten lanes, for the league's teams. The Open's evening is cancelled. Evening entrants, please come to the counter for your entry, in cash. Everyone else, please finish the box you are on and drive home slowly."
 
@@ -150,9 +150,9 @@ Ten envelopes stood on end in the cash box, with the team names on them in Denis
 
 The first went to a Massachusetts captain whose van idled outside the glass with two car seats in the back. "Keep to the plowed side of Kettle Road," Ellen said. "Drive slowly."
 
-She said it to the second captain in the same words. The third said no bowling alley had ever handed him his money back, and got the same words. The fourth had a boy asleep over his shoulder, and he took the envelope in his teeth to get the door open. The bar sat where the bank had set it and would sit there on Monday. The evening went down the drive in license plates.
+She said it to the second captain in the same words. The third said no bowling alley had ever handed him his money back, and got the same words. The fourth had a boy asleep over his shoulder, and he took the envelope in his teeth to get the door open. The evening went down the drive in license plates.
 
-The sixth said HUTCHINS. Dale came in off the plow in his town jacket with snow to his knees, took his wife's envelope out of Ellen's hand without a word, put it inside his coat, and went back out to his truck. He had walked his crew out of her building over Linda's cup, and he had entered her evening.
+The sixth envelope said Hutchins, in Denise's round hand. Dale came in off the plow in his town jacket with snow to his knees, took his wife's envelope out of Ellen's hand without a word, put it inside his coat, and went back out to his truck.
 
 "Keep to the plowed side of Kettle Road," she said to his back. "Drive slowly."
 
@@ -172,13 +172,13 @@ Ray's shoulder shook once against hers.
 
 The cash box lay open on the counter, empty.
 
-"That was sixteen hundred dollars. I'm seventeen hundred and fifteen under thirty thousand, and Sunday can't bring that much."
+"That was sixteen hundred dollars. I'm seventeen hundred and fifteen under thirty thousand for Monday, the first of March, and Sunday can't bring that much."
 
 Ray said nothing. Ten lane lights burned over nobody. Past the glass block the snow went on.
 
 "Arlene's room is on it."
 
-Ray's hand went to the zipper of his canvas jacket, and she watched it go there. He pulled the zipper up to his chin over the inside pocket.
+Ray's hand went to the zipper of his canvas jacket, and she watched it go there. He pulled the zipper up over the inside pocket.
 
 "I asked you once, on the hood of my truck. I don't ask twice."
 

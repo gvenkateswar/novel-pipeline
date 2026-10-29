@@ -1,4 +1,4 @@
-# Audit — the-last-frame (chapters 01–09, 27,785 words)
+# Audit — the-last-frame (chapters 01–09, 27,748 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -94,6 +94,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 6× “at half past”
 - 6× “the highway crew”
 - 6× “ray said and”
+- 6× “the first time”
 - 6× “the adding machine”
 - 6× “in the pit behind five”
 - 5× “behind the counter”
@@ -104,8 +105,6 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 5× “her eyes went”
 - 5× “said a word”
 - 5× “his shirt pocket”
-- 5× “the first time”
-- 5× “she had never”
 - 5× “the linda gagnon”
 - 5× “dale looked at”
 - 5× “inside his jacket”
@@ -117,6 +116,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 4× “ball came down”
 - 4× “still warm from”
 - 4× “the bell went”
+- 4× “ray watched her”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
@@ -144,7 +144,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 06 | 2,792 | 14.9 | 10.5 | 17% | 0.0 | 0.4 | 0.7 | 2 | short |
 | 07 | 2,890 | 18.5 | 14.8 | 15% | 0.0 | 0.3 | 0.0 | 3 | mean |
 | 08 | 3,330 | 21.2 | 13.9 | 10% | 0.0 | 0.3 | 0.0 | 2 | mean |
-| 09 | 2,990 | 16.5 | 13.1 | 17% | 0.0 | 0.3 | 0.3 | 5 | short openers |
+| 09 | 2,953 | 16.6 | 13.4 | 17% | 0.0 | 0.3 | 0.0 | 4 | short openers |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -157,7 +157,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 ### Mood words per 1,000 (count; flag a cluster, not a word)
 
 - quiet: 6 (0.2/1k)
-- humm?(ing|ed)?: 8 (0.3/1k)
+- humm?(ing|ed)?: 7 (0.3/1k)
 - softly?: 0 (0.0/1k)
 - still(ness)?: 61 (2.2/1k)
 - ghost(ly)?: 0 (0.0/1k)
@@ -172,7 +172,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 ### Phrases (count, whole book; any 3+ is worth a look)
 
-- 2× for the first time
+- 3× for the first time
 - 1× let out a breath
 - 1× not quite
 
@@ -190,7 +190,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | em dashes | 0 | 0 | 0 | 1 | 0 | 3 | 4 | 3 | 2 | 13 | 0.5 | 2.0/1k |  |
 | semicolons | 3 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 0 | 6 | 0.2 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 2 | 0.1 | 1.0/1k |  |
-| one-sentence paragraph | 6 | 23 | 21 | 19 | 13 | 29 | 11 | 17 | 22 | 161 | 5.8 | report |  |
+| one-sentence paragraph | 6 | 23 | 21 | 19 | 13 | 29 | 11 | 17 | 21 | 160 | 5.8 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
