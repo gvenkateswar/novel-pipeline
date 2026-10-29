@@ -14,7 +14,7 @@ Dane took the gun off his hip right-handed and passed it across butt first. The 
 
 "Tomorrow I'm a passenger," Dane said to her. "I've seen how you treat passengers."
 
-Her hand closed on his good sleeve, once. Then she let go, and he went down the steep ramp with the deputies, his good hand on the rail.
+Her hand closed on his right sleeve, once. Then she took it back, and he went down the steep ramp with the deputies, his hand on the rail.
 
 Ned came next, between two Marine Patrol officers, cuffed in front, in the green jacket, buttoned to the top. At the ramp head the officers stopped and took an arm each for the steep part.
 
@@ -30,9 +30,9 @@ The inspector had been aboard the *North Reach* since eight, and Ned didn't ask 
 
 He turned to the officer. "The wheelhouse key's on my ring. She'll want it."
 
-The officer worked it off and put it in her hand. As the ring went back into the evidence bag she saw the store key on it, and the small brass one that fit the box at her elbow.
+The officer worked it off and put it in her hand. As the ring went back into the evidence bag she saw the store key on it, and an empty split ring where the small brass one for the box at her elbow had hung.
 
-At the float's edge Dane stepped in and took Ned's elbow in his good hand for the step down, and Ned let him. Ned couldn't swim a stroke, and nobody on that float knew it but her. The old man's weight went off the float onto Dane's one arm and out over the strip of black water, the Marine Patrol boat dipping to meet him, Dane leaning out over the gap with him, the gunwale still going down.
+At the float's edge Dane stepped in and took Ned's elbow in his good hand for the step down, and Ned leaned on it. Ned couldn't swim a stroke, and nobody on that float knew it but her. The old man's weight went off the float onto Dane's one arm and out over the strip of black water, the Marine Patrol boat dipping to meet him, Dane leaning out over the gap with him, the gunwale still going down.
 
 * * *
 

@@ -205,10 +205,12 @@ The engine hammered on between them. Up the slope the yellow windows stood lit f
 
 She shut the shed door on the engine and went up the slope ahead of him with Ned's key in her hand, and unlocked a house that smelled of mothballs and cold wallpaper, where the furniture stood about under sheets.
 
-At the door he stopped. "North end. Not the house. That's what I'll tell them."
+At the door he stopped. "North end. That's what I'll tell them, and nothing closer."
 
 He went out onto the porch, to the top step. She would sooner watch his mouth than stand behind any sheet in that house, so she went out after him, pulled the door to, and stood on the step beside him in the snow.
 
 He had the phone to his ear and his face turned up. Down the slope the generator hammered in its shed, and his voice went into it low; she could see his breath go up and come apart in the snow. Past him the water lay black round the point, and nothing showed on it.
 
-He turned his head once in the middle of it and found her at his shoulder. His mouth stopped. Then he stepped round her on the step, so that he stood between her and the water, and went on talking, and she moved up the last few inches until her arm was against his, and stayed there in the snow while he told Portland, in words she couldn't hear, where she was.
+He turned his head once in the middle of it and found her at his shoulder. His mouth stopped. Then he stepped round her on the step, so that he stood between her and the water, and went on talking, and she moved up the last few inches until her arm was against his.
+
+"North end," he said into the phone. Below them the generator missed, and caught, and she lost the rest.
