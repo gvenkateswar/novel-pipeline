@@ -1035,3 +1035,8 @@ After four sample reads with the store scene at 2, every reader and judge skimmi
 - Ch 03 S2 now keeps Tess yanking the tag through the zipper and "I won't have you in a house I can't see." No colors.
 - **Carry to Ch 04 beats (required):** plant the colors inside an action or couple scene, never as an explanation. For example, Beth handles the ferry's red-tagged pouch on the boat with Dane beside her, and the yellow store tag is in the same beat or the next one. One line, with something physical for it to stick to. It must land before the Ch 07 payoff.
 - Also cut, for the quip stacking the cold reader flagged: Russ's "Get a look at him? Didn't, did you." Dane's restroom answer now goes to Russ.
+
+### Author decision, Oct 29 (second): cut the store to a bridge
+After a fifth read at 2 ("I lost track of who was talking and why Tess was angry"), the author chose to cut S2 to a bridge: the chase, Dane's two lines and the restroom exchange, her thumb on his neck with Tess watching, the milk, Arsenault and noon, then Ned's key and "Me and God. I know." The scene now ends on the loyalty beat: she doesn't give him Ned. Bridge about 690 words; the chapter is now under its old floor, which is accepted.
+- **Carry to Ch 05 (Tess on the page):** the Tess–Beth fight, with 22:40 on Tess's knuckles and in the log, "I can see your steps from right here", "I walked you home from every dance", "I'm not your money" / "No. My money I can count", the Bangor bus line, "Then you know I don't go where I'm put", "Don't you look at my book like the bank does", and the two cot blankets put back under the counter. One scene, Beth and Tess, with no more than one other person in the room.
+- The seal-tag colors still go to Ch 04 (first decision above).

@@ -89,31 +89,7 @@ Russ came out the back door at the noise.
 
 Russ took her in through the office. "Where you sleeping tonight? Asking because somebody will."
 
-Two cot blankets sat folded by the till. Russ leaned in the office doorway in the generator's roar, where he could see the back window and the counter, and nothing said at the counter could reach him.
-
-"You went down my back slope after him on top of the tide," Tess said.
-
-"He went. I stood."
-
-Tess held up her left hand, the time in ballpoint across the knuckles. "Your back steps had a light on last night, and the net had you aboard. Twenty-two forty. I can see your steps from right here, Beth. I didn't put you on the air."
-
-"Nobody's looking but you."
-
-Tess slapped the hand down by the blankets. "If I can see them from my counter, so can anybody on that dock or any boat in this harbor. I walked you home from every dance on this island, and I'll walk you home from this one. There's the cot. You'll sleep at mine."
-
-"Can't. Not tonight, Tess," Beth said.
-
-Tess yanked the tag through the zipper of the morning's store bag so hard the bag jumped. "I won't have you in a house I can't see."
-
-"I'm not your money, Tess," Beth said.
-
-"No. My money I can count." Tess held the sealed bag up between them. "I put you to bed the winter your mother got on the Bangor bus."
-
-"Then you know I don't go where I'm put," Beth said.
-
-Tess slammed the bag into the safe behind the curtain and came back. The storm log lay open by the till. Beth's eyes went down the night's column and stayed there.
-
-"Don't you look at my book like the bank does," Tess said.
+She didn't answer him either. Tess was at the counter with the storm log open, and she looked up and didn't say a word.
 
 Dane came through the office with snow on his shoulders and the sea running out of his boots, breathing hard.
 
@@ -123,15 +99,11 @@ Dane came through the office with snow on his shoulders and the sea running out 
 
 "Restroom's for customers," Tess said.
 
-Beth put her palm flat on the log, over the night's column. With her other hand she knocked the snow off his shoulder, and her thumb found the cold skin of his neck above the collar and rested there. Tess looked from one hand to the other. Beth hadn't given him Ned in the dark, and she wasn't giving him Tess now.
+Beth knocked the snow off his shoulder, and her thumb found the cold skin of his neck above the collar and rested there. Tess looked from her hand to his face and said nothing at all.
 
-"What am I looking at?" Dane said.
+He took a carton of milk out of the cooler and handed it to her.
 
-"Nothing in it. Soup for the shut-ins and who's short on propane. Hand me the milk," Beth said.
-
-He handed her the milk.
-
-The bell went. Arsenault came in stamping snow off good boots: the *Margaret Ann*, the dragger that had stayed lit through the blackout. His eyes went from the water on the boards to Dane's wet knees, and Tess's face came up bright.
+The bell went. Arsenault came in stamping snow off good boots: the *Margaret Ann*, the dragger that had stayed lit through the blackout. His eyes went from the water on the boards to Dane's wet knees.
 
 "Pack of Golds, and whatever the gentleman's having," Arsenault said.
 
@@ -151,7 +123,7 @@ Beth and Dane went out the front, the bell behind them, round to the side wall. 
 
 "Me and God. I know," Beth said.
 
-She came back round the front. Through the window Tess took the two cot blankets off the counter and put them back under it, one and then the other. She didn't look up.
+Dane had seen the key go from Ned's ring into her glove. He didn't ask whose it was. Beth hadn't given him Ned in the dark, and she didn't give him Ned now.
 
 * * *
 
