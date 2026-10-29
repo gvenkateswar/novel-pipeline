@@ -12,6 +12,7 @@ genre-maps/<genre>.md   structural defaults per genre; a book's brief names one
 reviews/                external review prompts (blind, two-message)
 docs/                   reference: ai-fiction-tells.md, postmortem-boring.md, changelog.md
 books/_template/        blank files for a new book
+books/_series-template/ series-bible.md template; a series lives at books/<series-slug>/ with its books beneath it
 books/<slug>/           one folder per book (see below)
 ```
 

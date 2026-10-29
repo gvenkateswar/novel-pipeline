@@ -11,7 +11,7 @@
 - **Pen name:** [to set before publication; never assumed from the author]
 - **Imprint / KDP account:** [to set]
 - **KDP AI disclosure:** [AI-generated text]
-- **Series:** [standalone] or [opener; hook: …]
+- **Series:** [standalone] or [`books/<series-slug>/series-bible.md`, book N; hook into the next: …]
 - **Autopilot:** [on/off]. The three gates in CLAUDE.md apply either way.
 - **Genre-map overrides:** [none] or list each line overridden and why
 
