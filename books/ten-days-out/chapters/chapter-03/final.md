@@ -103,7 +103,7 @@ Tess slapped the hand down by the blankets. "If I can see them from my counter, 
 
 "Can't. Not tonight, Tess," Beth said.
 
-Tess yanked the yellow tag through the zipper of the morning's store bag so hard the bag jumped. "Yellow's mine. Red's the boat's. I won't have my money in Ned's color, and I won't have you in a house I can't see."
+Tess yanked the tag through the zipper of the morning's store bag so hard the bag jumped. "I won't have you in a house I can't see."
 
 "I'm not your money, Tess," Beth said.
 
@@ -119,9 +119,7 @@ Dane came through the office with snow on his shoulders and the sea running out 
 
 "I owe you a floor, Ms. Marr," Dane said. "Put it on the government's account."
 
-"Get a look at him?" Russ said. "Didn't, did you."
-
-"He went in between them like he'd built them," Dane said. "I went in like a man looking for the restroom."
+"He went in between them like he'd built them," Dane said to Russ. "I went in like a man looking for the restroom."
 
 "Restroom's for customers," Tess said.
 

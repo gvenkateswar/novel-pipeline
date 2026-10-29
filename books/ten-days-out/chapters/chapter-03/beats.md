@@ -1029,3 +1029,9 @@ Added this round:
 - Tess's emergency-management title goes to Russ's ask-and-answer line in Ch 04 s1, with Ch 05 s1 as the fallback.
 - **The S1 cliffhanger pickup (two lines) is written by the orchestrator's writer pass after the tournament.** Variants are S2 only, so judges compare like with like.
 - Every round-1 ruling still holds: no "Red's Ned's", no "Am I in it?", no "thirty-one" in S2, and "Bethie" once from Ned.
+
+### Author decision, Oct 29: move the seal-tag clue out of the store
+After four sample reads with the store scene at 2, every reader and judge skimming "Yellow's mine. Red's the boat's.", the author chose to move the clue. The facts are unchanged (store bags take yellow seal tags, the ferry's pouch takes red; the credit union report reads "Seal noted: red"). Only the reader's first sight moves.
+- Ch 03 S2 now keeps Tess yanking the tag through the zipper and "I won't have you in a house I can't see." No colors.
+- **Carry to Ch 04 beats (required):** plant the colors inside an action or couple scene, never as an explanation. For example, Beth handles the ferry's red-tagged pouch on the boat with Dane beside her, and the yellow store tag is in the same beat or the next one. One line, with something physical for it to stick to. It must land before the Ch 07 payoff.
+- Also cut, for the quip stacking the cold reader flagged: Russ's "Get a look at him? Didn't, did you." Dane's restroom answer now goes to Russ.
