@@ -1,6 +1,6 @@
 # Chapter Five: Half Tide
 
-Her jeans hung steaming on the stove rail, and the wet wool cooked. They hadn't run the set. They'd slept in their coats. At first light she'd gone along the shore to look at the fish house sill, and the squall caught her coming back and soaked her to the thigh, the rain coming sideways. Beth sat in her father's sweater with the sleeves down past her hands, Dane's fleece across her knees and her bare feet on the oven door. The heat came back into her legs from the outside in, shins first, thighs last. Dane crouched at the firebox in the Ashbys' kitchen with his sleeves shoved up and fed it one split, then another. The firelight came up under his forearms.
+Her jeans hung steaming on the stove rail, and the wet wool cooked. They'd run the set till midnight and shut it down. They'd slept in their coats. At first light she'd gone along the shore to look at the fish house sill, and the squall caught her coming back and soaked her to the thigh, the rain coming sideways. Beth sat in her father's sweater with the sleeves down past her hands, Dane's fleece across her knees and her bare feet on the oven door. The heat came back into her legs from the outside in, shins first, thighs last. Dane crouched at the firebox in the Ashbys' kitchen with his sleeves shoved up and fed it one split, then another. The firelight came up under his forearms.
 
 Between squalls the Monday air had gone dead. She put her cheek to a gap in the sheet over the window. Off the roof the smoke stood straight up in one gray stalk the whole island could read.
 
@@ -250,7 +250,7 @@ She kept her eyes on the light. "You heard Tess."
 
 He had heard every word. He waited.
 
-"I told Ned 'Home,'" she said. "Myself. Friday, at the *North Reach*'s stern, while you were at the road end. And the key to Ashby was Ned's."
+"I told Ned and Tess 'Home,'" she said. "Myself. Friday, at the *North Reach*'s stern, while you were at the road end. And the key to Ashby was Ned's."
 
 She had put the man who'd run the *North Reach* since she was in diapers in the same breath as Tess, out loud, to a man with a notebook. Out on the cove nothing changed.
 

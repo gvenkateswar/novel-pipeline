@@ -22,7 +22,7 @@ Dane had sat at the chart table in the dark for every word of it.
 
 "Look at it when it gets here," Beth said.
 
-The wake showed first, the store's light catching it as it ran down the harbor off the *Margaret Ann*'s side. Then the skiff, an outboard and no running light. A boat's length off the open stern it throttled down and lay idling, one hooded shape at the tiller, facing the boat.
+The wake showed first, the dragger's deck lights catching it as it ran down the harbor off the *Margaret Ann*'s side. Then the skiff, an outboard and no running light. A boat's length off the open stern it throttled down and lay idling, one hooded shape at the tiller, facing the boat.
 
 Beth went out the wheelhouse door and down the outside ladder in her boots, the rungs iced, and walked aft into the floods.
 

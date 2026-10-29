@@ -10,8 +10,6 @@ She stood with the next chain in her hands and watched it roll aboard. Every Thu
 
 "Bethie." Ned was at the wheelhouse rail above her, ice in his beard. "I'll work it short. Go home."
 
-In eleven years he had sent her home twice, and she'd had a fever both times.
-
 She walked to the next D-ring and knelt to it.
 
 The driver set his brake and stayed in his cab with the dome light on. She chained the trailer's forward corners, and before she went aft she reached up and put her palm on the unit's grille. Cold, and dead still. A live load on a November night, and the one machine that kept it off the freeze was dead under her palm.

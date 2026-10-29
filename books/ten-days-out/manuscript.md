@@ -12,8 +12,6 @@ She stood with the next chain in her hands and watched it roll aboard. Every Thu
 
 "Bethie." Ned was at the wheelhouse rail above her, ice in his beard. "I'll work it short. Go home."
 
-In eleven years he had sent her home twice, and she'd had a fever both times.
-
 She walked to the next D-ring and knelt to it.
 
 The driver set his brake and stayed in his cab with the dome light on. She chained the trailer's forward corners, and before she went aft she reached up and put her palm on the unit's grille. Cold, and dead still. A live load on a November night, and the one machine that kept it off the freeze was dead under her palm.
@@ -889,7 +887,7 @@ They didn't get up. She lay along him behind the set with her hand still shut on
 
 "Fish house at Calloway Cove. Bar's dry to it at low water." Her voice came out in pieces, and she stopped and started it again. "A fish house is a shed on blocks. He's checking houses."
 
-"Then Monday."
+"Then Monday. Cove's over the sill till Monday's tides."
 
 The light in the door had gone blue when a flashlight came over the spine. Dane's gun came up off the pad.
 
@@ -927,7 +925,7 @@ In the frost bloom on the cold steel, the clear print of a bare hand. Five finge
 
 # Chapter Five: Half Tide
 
-Her jeans hung steaming on the stove rail, and the wet wool cooked. They hadn't run the set. They'd slept in their coats. At first light she'd gone along the shore to look at the fish house sill, and the squall caught her coming back and soaked her to the thigh, the rain coming sideways. Beth sat in her father's sweater with the sleeves down past her hands, Dane's fleece across her knees and her bare feet on the oven door. The heat came back into her legs from the outside in, shins first, thighs last. Dane crouched at the firebox in the Ashbys' kitchen with his sleeves shoved up and fed it one split, then another. The firelight came up under his forearms.
+Her jeans hung steaming on the stove rail, and the wet wool cooked. They'd run the set till midnight and shut it down. They'd slept in their coats. At first light she'd gone along the shore to look at the fish house sill, and the squall caught her coming back and soaked her to the thigh, the rain coming sideways. Beth sat in her father's sweater with the sleeves down past her hands, Dane's fleece across her knees and her bare feet on the oven door. The heat came back into her legs from the outside in, shins first, thighs last. Dane crouched at the firebox in the Ashbys' kitchen with his sleeves shoved up and fed it one split, then another. The firelight came up under his forearms.
 
 Between squalls the Monday air had gone dead. She put her cheek to a gap in the sheet over the window. Off the roof the smoke stood straight up in one gray stalk the whole island could read.
 
@@ -1177,7 +1175,7 @@ She kept her eyes on the light. "You heard Tess."
 
 He had heard every word. He waited.
 
-"I told Ned 'Home,'" she said. "Myself. Friday, at the *North Reach*'s stern, while you were at the road end. And the key to Ashby was Ned's."
+"I told Ned and Tess 'Home,'" she said. "Myself. Friday, at the *North Reach*'s stern, while you were at the road end. And the key to Ashby was Ned's."
 
 She had put the man who'd run the *North Reach* since she was in diapers in the same breath as Tess, out loud, to a man with a notebook. Out on the cove nothing changed.
 
@@ -1295,7 +1293,7 @@ Lyle Arsenault was the only clean-shaven man on a dragger in the bay, in a jacke
 
 He had coins on the counter before Tess reached behind her for the pack, counted into a row.
 
-Tess slid the cigarettes across. "Eleven-forty, on the account. Put your money away, Lyle."
+Tess slid the cigarettes across. "Twelve-forty, on the account. Put your money away, Lyle."
 
 She opened the green ledger to his page. Beth read it upside down: night lines down the column, each one paid off in hundreds and never rung up as cash.
 
@@ -1311,7 +1309,7 @@ Tess came back through the curtain.
 
 He turned his smile on her. "You keep a good store, Tess. A store like this lives on the boat. I'd hate to see it have a hard—"
 
-Tess laughed over the end of it, high and quick. "Barge in ten days, says the state. Oil's nine fifty, Lyle. Cigarettes went up a dollar Monday." She reached for the next thing on the counter.
+Tess laughed over the end of it, high and quick. "Barge Sunday, says the state. Oil's nine fifty, Lyle. Cigarettes went up a dollar Monday." She reached for the next thing on the counter.
 
 He tucked the pack into his jacket and went out under the bell. Through the glass Beth saw him pass Dane on the dock. A nod. Dane stayed on the piling.
 
@@ -2151,7 +2149,7 @@ Dane had sat at the chart table in the dark for every word of it.
 
 "Look at it when it gets here," Beth said.
 
-The wake showed first, the store's light catching it as it ran down the harbor off the *Margaret Ann*'s side. Then the skiff, an outboard and no running light. A boat's length off the open stern it throttled down and lay idling, one hooded shape at the tiller, facing the boat.
+The wake showed first, the dragger's deck lights catching it as it ran down the harbor off the *Margaret Ann*'s side. Then the skiff, an outboard and no running light. A boat's length off the open stern it throttled down and lay idling, one hooded shape at the tiller, facing the boat.
 
 Beth went out the wheelhouse door and down the outside ladder in her boots, the rungs iced, and walked aft into the floods.
 
@@ -2389,7 +2387,7 @@ The pad lay shut on the counter under Quist's hand. She was the Q on Pike's scre
 
 "Forty-one ninety-five. Went on Haskell's account." Tess wiped the counter where nothing had spilled.
 
-"Your spare truck key was left on the back step on the thirteenth and the sixteenth. The captain's float-light key was handed over and kept. The town's key, understood to hang by your safe—"
+"Your spare truck key was left on the back step the night the bridge came down, and again Monday noon. The captain's float-light key was handed over and kept. The town's key, understood to hang by your safe—"
 
 "Never left the nail."
 
@@ -2415,6 +2413,8 @@ Quist turned pages and stopped. "Another vessel is recorded here at the same rat
 
 Beth knew the *Dorothy M.* by sight, a green forty-footer from across the bay. She tried to put a man at her wheel and couldn't.
 
+"The *Dorothy M.* was expected at that float this morning," Quist said, "and was not seen."
+
 "Goddamn," Quist said to the page. "How many of those nights was a boat carrying fentanyl fueled at your float, Ms. Marr?"
 
 Tess kept her eyes on Beth. "Haskell asked me something at supper last night. Quist, you'll see him before I do. Tell him yes."
@@ -2429,7 +2429,7 @@ He came up the iced back steps from the harbor side, out of sight of the two dep
 
 He had no gun on his hip.
 
-The kitchen was warm, the stove going and the grid back since noon, and the cold came in off his coat into the heat.
+The kitchen was warm, the stove going and the grid back since the line crew came over on the Marine Patrol boat at noon, and the cold came in off his coat into the heat.
 
 He sat down in the chair with its back to the door, and he didn't look at the door. She saw him not look.
 
@@ -2543,7 +2543,7 @@ She came down the outside ladder with her bag for Portland. Kenny was waiting at
 
 "Who's taking her home?" Kenny said.
 
-Beth put the wheelhouse key in his glove.
+Beth put the wheelhouse key in her coat's zip pocket, with the red book, and zipped it.
 
 * * *
 

@@ -50,7 +50,7 @@ The pad lay shut on the counter under Quist's hand. She was the Q on Pike's scre
 
 "Forty-one ninety-five. Went on Haskell's account." Tess wiped the counter where nothing had spilled.
 
-"Your spare truck key was left on the back step on the thirteenth and the sixteenth. The captain's float-light key was handed over and kept. The town's key, understood to hang by your safe—"
+"Your spare truck key was left on the back step the night the bridge came down, and again Monday noon. The captain's float-light key was handed over and kept. The town's key, understood to hang by your safe—"
 
 "Never left the nail."
 
@@ -76,6 +76,8 @@ Quist turned pages and stopped. "Another vessel is recorded here at the same rat
 
 Beth knew the *Dorothy M.* by sight, a green forty-footer from across the bay. She tried to put a man at her wheel and couldn't.
 
+"The *Dorothy M.* was expected at that float this morning," Quist said, "and was not seen."
+
 "Goddamn," Quist said to the page. "How many of those nights was a boat carrying fentanyl fueled at your float, Ms. Marr?"
 
 Tess kept her eyes on Beth. "Haskell asked me something at supper last night. Quist, you'll see him before I do. Tell him yes."
@@ -90,7 +92,7 @@ He came up the iced back steps from the harbor side, out of sight of the two dep
 
 He had no gun on his hip.
 
-The kitchen was warm, the stove going and the grid back since noon, and the cold came in off his coat into the heat.
+The kitchen was warm, the stove going and the grid back since the line crew came over on the Marine Patrol boat at noon, and the cold came in off his coat into the heat.
 
 He sat down in the chair with its back to the door, and he didn't look at the door. She saw him not look.
 
@@ -204,7 +206,7 @@ She came down the outside ladder with her bag for Portland. Kenny was waiting at
 
 "Who's taking her home?" Kenny said.
 
-Beth put the wheelhouse key in his glove.
+Beth put the wheelhouse key in her coat's zip pocket, with the red book, and zipped it.
 
 * * *
 

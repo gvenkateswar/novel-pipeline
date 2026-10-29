@@ -160,7 +160,7 @@ They didn't get up. She lay along him behind the set with her hand still shut on
 
 "Fish house at Calloway Cove. Bar's dry to it at low water." Her voice came out in pieces, and she stopped and started it again. "A fish house is a shed on blocks. He's checking houses."
 
-"Then Monday."
+"Then Monday. Cove's over the sill till Monday's tides."
 
 The light in the door had gone blue when a flashlight came over the spine. Dane's gun came up off the pad.
 

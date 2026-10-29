@@ -74,7 +74,7 @@ Lyle Arsenault was the only clean-shaven man on a dragger in the bay, in a jacke
 
 He had coins on the counter before Tess reached behind her for the pack, counted into a row.
 
-Tess slid the cigarettes across. "Eleven-forty, on the account. Put your money away, Lyle."
+Tess slid the cigarettes across. "Twelve-forty, on the account. Put your money away, Lyle."
 
 She opened the green ledger to his page. Beth read it upside down: night lines down the column, each one paid off in hundreds and never rung up as cash.
 
@@ -90,7 +90,7 @@ Tess came back through the curtain.
 
 He turned his smile on her. "You keep a good store, Tess. A store like this lives on the boat. I'd hate to see it have a hard—"
 
-Tess laughed over the end of it, high and quick. "Barge in ten days, says the state. Oil's nine fifty, Lyle. Cigarettes went up a dollar Monday." She reached for the next thing on the counter.
+Tess laughed over the end of it, high and quick. "Barge Sunday, says the state. Oil's nine fifty, Lyle. Cigarettes went up a dollar Monday." She reached for the next thing on the counter.
 
 He tucked the pack into his jacket and went out under the bell. Through the glass Beth saw him pass Dane on the dock. A nod. Dane stayed on the piling.
 
