@@ -1,171 +1,203 @@
-# Chapter 2: Five O'Clock
+# Chapter Two: Five O'Clock
 
-Danny had counted the drawer at six and written the total on the tape, and at half past seven Ray was counting it again, twenties first, because a drawer counted once was a drawer somebody was only hoping about. Danny was at the far end stocking ice melt and didn't look over, which was how Danny said most things.
+The store had been open since six, and Ray was behind the counter counting a drawer Danny had already counted, twenties first, the way he had every morning since he started retiring. On three stools by the coffee pot sat the Bench, three retired men who came for the free coffee and stayed because something in a hardware store was always about to happen, and Normie, on the end, called whatever it was like the Saturday show out of Boston.
 
-The bell on the door went, and the cold came down the center aisle ahead of her and lifted the smell of birdseed and cut brass off the shelves, and the Bench, three retired men on three stools by the coffee pot, turned to see who had let it in.
+At half past seven the bell went, and the cold came in with Ellen Daly and lifted the smell of birdseed and cut brass off the aisles. She came down the center aisle as if she had an appointment with the counter, pulled her right glove off with her teeth, laid her phone on his mat, and said nothing. She touched the screen.
 
-Ellen Daly came to the counter with her collar up. She pulled her right glove off with her teeth, laid it by the register, and set her phone face up on the counter between his hands and the drawer. She didn't say good morning. She touched the screen with one finger.
+Out of the little speaker came a sound like a chair dragged across an upstairs floor, then the knock, then the same wait, and the chair again.
 
-Out of the little speaker came a sound like a chair dragged across an upstairs floor, then a knock, then the same drag again after the same wait.
+Ray watched her hand. It was square and plain and red across the knuckles from the cold, and it lay flat beside the phone and waited. Last night she had finished her strip of tape before she came down the ladder.
 
-Ray looked at her hand. The knuckles were red from the lot, and there was a plain steel watch on the wrist. It was the same hand he had watched through the door glass last night run the tape over the eighth toggle and the ninth and the tenth, press it flat along its whole length with the thumb, and tear it clean on the edge of the panel while he stood out in the snow and knocked. She had finished the tape first. That was the first thing he ever knew about her, and he hadn't got past it yet.
+"And here's the new owner up the middle, boys," Normie said into his cup, "and she's brought him something."
 
-"Gagnon's at the counter, folks," Normie said, low, in the voice of the Saturday show out of Boston, "and it's awful quiet in the house."
+Ray shut his eyes. He had it before it came round a second time. That was seven's clutch letting go and catching and letting go, and the knock was the sweep coming down on her before she was ready, the way she'd been doing since the winter the Legion broke the ball return on four.
 
-"That'd be seven," Ray said, "would it?"
+"Seven's clutch," he said, and opened his eyes. "She's slipping and catching, and the sweep comes down on her late, and that's your knock. She's sulking, is all. There's a spare on a nail behind seven with my writing on the tag."
 
-"You know it is."
-
-Ray shut his eyes. He let it come round once, the drag and the knock, and before it came round again he said, "That's seven's clutch, slipping and catching, and the knock's the sweep coming down on her when she catches. She's sulking, is all." He opened his eyes. "There's a spare on a nail behind seven with my writing on the tag, been there since the winter four's motor went, so I'd guess she's got some dust on her."
-
-She put on the reading glasses that hung from a cord at her neck, took a pen out of the cup by his register without asking for it, and wrote it down on a little pad from her vest pocket. He could read it across the counter. *Clutch, slipping and catching. Sweep comes down on it. Spare on a nail behind seven, his tag.* His own words, in small square printing, down to the tag. He hadn't wanted to watch anybody do anything in six years. He watched her write his answer down, and he stood there with a twenty in his hand and lost his count.
+She put on the reading glasses from the cord at her neck, took a pen from the cup on his counter without asking, and drew a small pad from her vest pocket. He had not wanted to watch anybody do anything in six years. He watched her write his answer down, the pen stopping hard at the end of each line, and he lost his count of the twenties. Her eyes went once past his shoulder to the clock over the key cutter, and came back.
 
 "I'd like the name of the part," she said, "and your rate."
 
-"Name's a clutch. I just told you."
+"Name's a clutch. You wrote it down."
 
 "Your rate."
 
-"Haven't got one."
+"Haven't got one. Arlene never asked me for one."
 
-"Then I'll find someone who has."
+"Then I'll find someone who has one."
 
-"Go ahead and look," Ray said, and went back to the drawer and started the twenties over from the top.
+"Go ahead and look. It's a short list. Fella I knew in Tilton had an alley over there and wouldn't call me on principle, and drove all over three states looking for a pinsetter man, and found one, too, down in Lowell, eighty-some years old, and the old man listened to the machine a minute and asked him for my number."
 
-"And the veteran declines," said Normie.
+She heard him out and wrote none of it down. He started the twenties over.
 
-Ellen turned her head and looked along the three stools, one man at a time.
+"And the veteran declines," Normie said.
 
-"Noted," she said.
+She turned her head and went along the three stools, one man at a time.
 
-Normie opened his mouth and closed it again. The man on the end set his cup down on his knee and studied it, and Ray thought of lane three last night, deciding whether it had been insulted.
+"He's the youngest of the four of you," she said.
 
-She put the glove in her pocket and picked up her phone and went down the aisle with the one hand bare. At the door she turned, with the bell already going over her head.
+Nobody on the Bench said a word. Down at the far register Danny bent over a carton of sash cord and kept his face in it.
 
-"Eight o'clock, Mr. Gagnon," she said. "I'll hold the light."
+She put the pad in her vest and the glove back on and went up the aisle, and the bell was already going over her head when she turned in the open door.
 
-The door shut on the bell before he could answer.
+"Eight o'clock, Mr. Gagnon. I'll hold the light."
 
-\* \* \*
+She was gone before the bell stopped.
 
-The back door was done by twenty past eight, a storeroom latch that locked itself whenever it swung shut, and Ray was down on one knee at the front with his bag open on the mat and the door propped wide. The wind came across the lot off the open lake and found the gap between his collar and his neck, same as it had every winter of his life, and met the building's warm air at the sill, where he was kneeling.
+* * *
 
-On the counter behind him sat a cup of coffee, black, set where he would see it. He had said how he took it once, last night, to a shoelace.
+The cylinder was half out of her front door, and Ray was on his knees on the vestibule mat with the door open to the lot. The wind off the lake found the gap at the back of his collar, and the warm air off the fryer met it at the sill, so he was cold behind and warm in the face. He reached into the bag for the flashlight.
 
-He reached into the bag for the flashlight, and it wasn't there, and she was crouched on the mat beside him with it already on.
+It was already on, in her hand, aimed at his work.
 
-He started the cylinder out. She held the light steady, which most people can't, and close, which most people won't, down where his hands were working, and he could feel her breath on the back of his wrist like weather coming in off the lake. She was bare-handed on the cold barrel of it, red at every knuckle, and it didn't shake. His hands stopped. He let them stop, a second and then longer, with the cylinder half out of the door and the cold going up his sleeve, and she didn't move the light or say a word. When he went on, she moved the light ahead of his hands, to where they were going.
+She held the light steady, which most people can't, and close, which most people won't, down beside him with her shoulder an inch off his, and her breath on the back of his wrist came warm and even, like the air off a motor that's been running a while. His hands stopped. He let them stay stopped, and she didn't move the light or say a word, and the only sound in the vestibule was the door glass ticking in its frame. When he went on, the light went ahead of his hands to the place they were going next, and was waiting there when they arrived.
 
-He pushed the plug out, and the old pins came with it into his palm, small and brass and worn bright at the tips by sixty-some years of keys going in and out. The trash was two feet from his knee. He tipped them into his shirt pocket and buttoned the flap.
+He pushed the plug out, and the old pins came into his palm, small and brass and worn bright at the tips by every key that had gone in and out of that door since before he could drive. The trash can was two feet from his knee. He tipped them into his shirt pocket and buttoned the flap.
 
-"Way I've got it," he said to the cylinder, "you own the building, and Arlene's carrying the note, and if your bank hasn't paid Arlene off by March first, that paper you signed sells the building to me that afternoon at whatever the appraiser says it's worth, and I pay Arlene. Arlene gets paid either way. Only question's by who."
+He had a coffee can down cellar at home with fifty-some years of the same in it, pins and springs and the insides of locks off houses that had been sold or torn down, and Linda used to call it his retirement. On the drive out Kettle Road he had been over what he meant to say twice, and both times it had come out fine, the way things do in a truck when nobody is holding a light on you. And here he was on his knees on her mat with her old pins in his pocket, and the only thing in front of him that wasn't looking at him was the lock.
 
-"Correct," she said.
+So he told the lock. "Thing is, I'd buy this door off her, and the frame, and the building it's hung on, if she'd sell it to me."
 
-"So come March," he told the lock, "it's appraised value, and I'd guess that comes in under what you paid, and the difference comes out of that house you sold down in Merrimack." He turned the old cylinder over in his fingers. "Or you sell it to me now, at what you paid. Every dollar back. The bank in Concord's good for what the appraiser says, through the end of the year, and the credit union lends me the rest against the store, if Danny signs, and their committee sits Thursdays at five." He set the old cylinder down on the mat. "My father put the store up once, in 'seventy-four, and near lost it, and I've never asked it of the store since. I'm asking it once. This is the once."
-
-She kept the light on the empty hole in the door. "You've said all of that to the lock."
+"You've said that to the lock."
 
 "Lock's the one I'm working on."
 
-"Who else has come up the drive?"
+The light didn't move. He sat back on his heels and looked up past it at her.
 
-"Nobody. Arlene had it listed two years, and the only other one up that drive was a fella up from Concord in a car too clean for the roads, wanting the lot for condos at land value. He never came inside."
+"Arlene had this place listed two years," he said, "and the only other one who ever came up the drive was a fella from Concord who wanted the lot at land value, for condos. So she sold it to you over me. And then she came down to the store and asked me to sign behind you, in case you fell, and I signed, because she asked." He let that sit. "Now I'm asking you. Sell it to me now, at what you paid, every dollar back, the house and all. What you paid is more than she'll appraise at, and the only way I get there is to put the store up behind it. My father put the store up once, in 'seventy-four, and I watched it nearly go, him out in the truck in the dooryard after dark with the engine off. The credit union sits tomorrow at five. I'm asking it once."
 
-Ellen looked out the open door at the drive and the drift on the northwest side of the lot, and the light stayed where it was.
+She didn't answer it. She kept the light on the open lock.
 
-"No," she said, at the level she'd used on the PA, and it went out the open door and across the lot. "Granite Lakes writes me the loan the day this winter clears thirty thousand, with every dollar it makes still sitting in the account."
+"Granite Lakes writes me the loan the day this winter clears thirty thousand, with every dollar it makes still sitting in the account."
 
-He had known this building's winters since he was a boy, by what had broken in each of them, and he could not think of one that had come near that.
-
-"So it's got to come in," he said, "and then it's got to stay put."
+"So it's got to come in," Ray said, "and then it's got to stay put."
 
 "Every dollar."
 
-Ray sorted the new pins in his palm. "Nobody's cleared thirty in this building since Normand."
+"Nobody's cleared thirty in this building since Arlene's Normand, and he's been gone since before Danny was born."
 
-"Then it's overdue."
+"Then it's been done."
 
-He looked up at her over the cylinder. "Mrs. Daly."
+He waited for the rest of it.
 
-"Ms."
+"I bought it to hear all ten going at once." The light stayed where it was. "Last night I heard nine."
 
-Her phone went off in her vest. She took it out with her left hand and kept the light where it was with her right, on his hands, and she didn't stand up or step off the mat or turn her back on the job, so he heard every word.
+He put his hands back on the plug, took the next pin from the tray, gave it the small shake of the head he gave a man who wanted to rebuild a yard-sale snowblower, and set it.
 
-"Kate," she said. "I'm at the alley with the locksmith."
+Her phone went in her vest. She took it out left-handed and kept the light where it was, on his work.
 
-He set the first pin and kept his eyes on it, because it was the only place in the doorway he could decently put them. Something long came down the line, and he could hear the shape of it and none of the words.
+"Kate. I'm at the alley with the locksmith."
 
-"The house," Ellen said.
+Something long came down the line, a young woman's voice with no room for breathing in it, and he didn't try to make out a word.
 
-Then a short one.
+"The house," she said.
+
+Something short.
 
 "Not the rest."
 
-Then she didn't answer, for as long as it took him to set a pin in the new plug and reach for the next one, and her light didn't move off his hands.
+The line went quiet for as long as it took him to set a pin and seat it.
 
-"I swear," she said. "Go to bed, Kate. Sunday at seven." She ended it there and put the phone away.
+"I swear."
 
-She had put her house into this and sworn the rest of what she had to her daughter, and he had just knelt on her mat and offered her the house back.
+Another while. "Go to bed, Kate. Sunday at seven."
 
-He seated the new cylinder and worked the new key twice, and it went over smooth both times. Then he counted the new keys into her bare palm, two for the front and two for the back, and she closed her hand on them.
+Ray kept his eyes on the pin the whole time.
 
-"That's every one there is," he said.
+He seated the cylinder and ran the new key in and turned it, and it went over smooth, and he did it again, and it went over smooth again. He counted the new keys into her palm, two for the front and two for the back.
 
-Then he took out his key ring and found the orange tag, gone soft at the corners, and slid the old key into her new lock while she watched. It went in all the way and turned nothing. He worked it back out and let it fall back among the others on the ring.
+"That's every one there is."
 
-He stood with the bag in his hand.
+She closed her hand on them.
 
-"Committee's Thursday at five," he said. "After that, I'll see you March first."
+He got up off the mat, and his knees had a word to say about it, and he picked up the bag. "Then I'll see you March first."
 
-\* \* \*
+"You'll have your answer before your committee sits."
 
-Her text came at four, while he was cutting a house key for the Pelletier girl, and he read it once standing at the machine. *Lane seven. Ten o'clock. The back door is open.* Three full stops, and not a question mark anywhere in it.
+He took out his ring and found the soft orange tag by feel, and in front of her he slid his old key into her new lock. It went in all the way and turned nothing. He worked it back out and let it drop among the others.
 
-At ten to ten he came along Kettle Road with the heater ticking, and the sign came up out of the dark on its pole with the first letter out. The K had gone out the winter Danny got his license, and nobody fixed it, because Arlene said the sign still said what it meant. He turned in under the dead K. Her car wasn't in the lot.
+* * *
 
-The back door gave when he pulled it. She had left it shut on a folded square of cardboard, so the latch couldn't catch. In the pit the one caged bulb was on over the seven-and-eight pair, and the spare clutch had come down off its nail and lay on the workbench under it, with his old tag still wired to it and a strip of her tape stuck beside the tag, LANE 7 in black marker. A flashlight lay on the bench, switched on and aimed at seven's drive. Under it was an envelope with *R. Gagnon* on it in the same marker.
+Her text had come at four, while he was cutting a house key for the Pelletier girl: *Lane seven. Ten o'clock. I will let you in at the back.* Three periods and no question mark. He was in bed by half past nine most nights, and he went anyway, because tomorrow was league night.
 
-He worked. The first bolt on the old clutch had been on since before Danny was born and didn't want to come, and he leaned on it, and on the third try it gave its first quarter-turn, and he felt it in his back teeth. He stood a second with his hand on the wrench and enjoyed it. He swapped the clutch bolt by bolt in the light she'd aimed for him. Then he ran her from the pit. Seven set clean, and the sweep came down and lifted with no knock under it.
+He knocked at the back. The lock he had pinned that morning turned over from the inside, and she was in the doorway.
 
-He ran her twice more and let her stop, and the motors ticked down, and he stood on the catwalk in the warm that came off them. Through the gap under the masking he could see the lanes backward and bright under the lights she had left on, running away from him to a counter with nobody at it. He listened. He was listening for a voice that carried to lane ten without being raised, that had said *cleared to bowl* to forty-some people last night and had them listening by the last word, and the building gave him the furnace and a ticking motor and nothing else. He had been in here alone a hundred nights and never once listened for anybody.
+"You'll be coming down to let me in every time one of them gets a notion, then."
 
-He left the envelope on the bench unopened. He set the old clutch on top of it so it wouldn't blow off, and switched off her flashlight, and went out the back.
+"Then they had better not get notions."
 
-The cardboard dropped to the step when he pulled the door to, and he heard the lock he had pinned that morning take, and he was on the outside of it with his hand on the cold handle.
+The pit was dark but for one caged bulb over the seven-and-eight pair, and on the bench under it lay the spare clutch, already down off its nail. His tag was still wired to it with *seven* on it in his own hand, and beside the tag she had laid a strip of tape that said LANE SEVEN in black marker, in case the part had any doubts. Next to it was an envelope marked *R. Gagnon* in the same marker. He left that where it was.
 
-\* \* \*
+She didn't stay. She went back out through the steel door, and in a minute the lights came on over seven, and she stood on seven's approach, small and lit at the far end of the lane.
 
-The credit union's form lay on the counter under Ray's left hand, with Danny's signature across the bottom of the second page in blue ballpoint, and beside it a slip with the loan officer's number in carpenter's pencil. Danny was at the far register ringing up rock salt and hadn't said a word about it since he signed it. Ray squared the form to the edge of the counter for the third time since four and looked at the door. The phone by the register could ring all it liked.
+"What's it doing?" she said.
 
-The guard on the key cutter had a screw that had worked loose sometime in the fall, and he took a screwdriver out of the cup and went after it. "You've been backing out on me since Thanksgiving," he told it, "and I've let you, and that's on me." He gave it another eighth of a turn. "There."
+"Thinking it over," he called.
 
-The Bench was on its stools. Normie had bowled with Lucien in 'seventy-four, the winter the store was on the line, and knew to the dollar what it had nearly cost, and he hadn't called a thing all afternoon.
+"For how long?"
 
-The clock over the key cutter moved in small jumps, the minute hand sitting and sitting and then going all at once. It said two minutes to five when the bell on the door went.
+"Depends who's asking."
 
-It was Ellen, and the Bench stopped calling anything at all. The coffee pot ticked on its plate. Somebody set a cup down beside it with great care, and at the far register Danny held a bag of rock salt in the air and left it there.
+She hadn't raised her voice. It came down sixty feet of maple and under the masking and got to him whole, every word where she'd put it, and he had to holler to send anything back, and he hollered. A good many voices had come down that lane at him, Linda's among them, and none of them had come this low or got here in one piece. She kept talking, about nothing that needed an answer, and he answered all of it. The bolt on the old clutch had been in there since the winter nine's belt let go the first time, and he set the wrench on it and leaned, and felt it give its first quarter-turn. He felt that in his back teeth, the way he always had, and he stayed on his heels a second with the wrench in his hand and let himself have it.
 
-She came down the center aisle and stopped across the counter from him. She took her right glove off to get at her vest pocket, and he watched the hand come out of it, red at the knuckles, the steel watch on the wrist. She laid one new key on his counter, with no tag and no ring, and said nothing. It lay between his hand and Danny's signature, bright from his own cutter.
+He had the new clutch on and the belt back over it, and he ran her, and the warmth came up off the motor into his face.
 
-She looked up at the clock over the key cutter, and so did he.
+"Throw one," he called.
 
-The minute hand sat on the last line before the twelve. Ray kept his hand flat on the form. People had been setting things down on this counter for him since he was tall enough to see over it, money and returns and complaints and every broken thing in Ambrose, and he could not think of one thing anybody had put there without his asking since Linda, and what she had put there was a key to the building he was under contract to buy. He could ask her now. The form was under his hand with Danny's name on it, and there was a minute left before the committee sat, and he could say it again and she would have to answer him out loud in front of the Bench. He had sworn after 'seventy-four, at his father's kitchen table, that he would never ask the store twice, and he had asked it once, yesterday, on one knee on her mat, and so he wouldn't.
+Her ball came down the lane slow enough that he could have read the maker's name on it. Two-thirds of the way down it wobbled, as if it had changed its mind, then went on and took the ten pin out of the far corner and nothing else. Seven swept and set clean, with no knock under it anywhere, and he heard it was right the way you hear a door shut true.
 
-He watched her watch the clock. Her face was as calm as any face he'd ever seen across this counter, and her breathing was all wrong for it. He could hear it from where he stood, short and held and let go, and held again, the breath of somebody counting something behind a calm face and keeping the count to herself. Her bare hand lay on the counter an inch from the key, and it didn't go toward it and it didn't come away. The minute hand sat, and sat. Down the counter Danny set the rock salt down at last, and the minute hand jumped and stood on the twelve.
+"Again," he called.
 
-It was five o'clock. Ellen turned and went back down the aisle without a word, and the bell on the door rang behind her.
+She threw again. It was worse.
 
-"That's the bell," said Normie.
+She came back through the steel door into the pit, and he opened the envelope in front of her. Folded bills were inside a page off her pad, and on the page, in her printing, were a pinsetter man in Worcester, his rate by the hour, his hours, the part, and a total underlined twice.
 
-## Counts
+"I found someone who has a rate," she said. "That is what he would have charged."
 
-Hand counts (no shell available to this agent; orchestrator to confirm with `wc -w`):
+"Machine's fixed, then," Ray said. "And as for the bowler, I'd send her down to Worcester."
 
-| Scene | Target | Draft | Difference |
-|---|---|---|---|
-| Scene 1 (the store, half past seven) | 650 | ~676 | +4% |
-| Scene 2 (the rekey, the offer, Kate) | 1,050 | ~1,043 | -1% |
-| Scene 3 (the pit, ten o'clock) | 450 | ~502 | +12% |
-| Scene 4 (five o'clock) | 650 | ~663 | +2% (the minute, key on counter to the twelve: ~300) |
-| **Chapter** | **2,800** | **~2,884** | **+3% (band 2,576–3,024)** |
+"I asked him. He only does machines."
+
+He took the page out, folded it twice, and buttoned it into his shirt pocket with the old pins. He held the envelope out to her with the money still in it. "I'll keep the paperwork."
+
+"An invoice goes with the money, Mr. Gagnon. That is the entire point of one."
+
+"That's how this one works."
+
+She took the envelope back and stood holding it in both hands, owing him, which sat on her about as well as a wet coat, and she didn't put it down.
+
+At the back door she said, "Your committee sits at five tomorrow."
+
+"You'll know where to find me."
+
+"At your counter," she said. "Under the clock."
+
+* * *
+
+The credit union's form lay flat under Ray's left hand, and the loan officer's number was on a slip by the phone: one call before five, and the committee would take it up tonight. Danny's signature was on the last line. Ray had never asked him for it. Danny had signed it anyway, put it in the drawer under the register, and never said a word, and he was down at the far register now, restocking.
+
+The guard on the key cutter had a loose screw. Ray took the driver from the cup and gave it a quarter-turn, and another, and it had been tight after the first, and he gave it a third. Normie hadn't called a thing all afternoon. He sat on the end stool with his cup on his knee and watched the door.
+
+Over the key cutter the clock's minute hand sat on its mark, and sat there, and jumped.
+
+At two minutes to five the bell went over the door.
+
+The Bench went quiet. The coffee pot ticked on its plate. Somebody set a cup down with care. Down at the far register Danny had a bag of rock salt halfway to the shelf, and he held it there in the air and left it there.
+
+She came down the center aisle and stopped across the counter from him. She took her right glove off to get at her vest pocket, and her hand came out with one key in it, new, with no tag and no ring, and she laid it on the counter between his hand and Danny's name and said nothing. He knew the cut without picking it up. It was her front door, and he had cut it on his own machine yesterday morning.
+
+She looked up at the clock, and he looked up with her.
+
+The key opened her front door. It opened it at any hour, without his knocking on the glass and without her coming down through her dark building to let him in, which was the thing they had stood at her back door about last night, and she had answered it without asking him for a thing. The building stayed on her side of the counter. She was letting his one ask run out on his own clock, in his own store, with the Bench watching her do it, and that was her answer, the one she had promised him before the committee sat, and it was a no to selling. Whether it said anything past the door he could not read. He looked at the key, and it told him what a key tells anybody, and he stood there wanting it to tell him more.
+
+Nobody had put a thing on this counter for him without his asking since Linda.
+
+The phone was a foot from his right hand, with the slip beside it, and there was a minute left on the clock, and he could ask her again. He had told her he would ask once. He would not ask the store twice; he had sworn that the winter his father sat out in the truck, and he had held to it every winter since. He kept his left hand flat on the form.
+
+He watched her watch the clock. Her face was as calm as any face he had seen across this counter, and her breathing was wrong for it. It came short, and held, and let go, and held again, and he heard it the way he heard a machine from the lot when she was about to go, one small wrong beat under a sound that was otherwise fine. Her bare hand lay on the counter an inch from the key. It did not move, and neither did his.
+
+The minute hand jumped to the twelve.
+
+Danny let the rock salt down onto the shelf. She turned and went back down the aisle without a word, and the bell rang behind her.
+
+"That's the bell," Normie said.
