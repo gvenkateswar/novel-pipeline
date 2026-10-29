@@ -60,11 +60,11 @@ Tess wrote it in ballpoint on the back of her left hand, *CALLOWAY — BOAT*, un
 
 "Like the dog," Dane agreed.
 
-Tess dug in her red vest for the pen cap, and a fold of bills came up with it, hundreds on the outside. It was back in the pocket before the cap was on. Beth saw it. So did Dane.
+Tess dug in her red vest for the pen cap, and a fold of bills came up with it, hundreds on the outside. It was back in the pocket before the cap was on. Beth saw it.
 
 "D batteries are up a quarter till the boat runs," Tess said, loud and quick, "and the boat's not running. Lamp oil I've got. Sense I'm out of."
 
-Behind her, out past the moorings, a big steel fishing boat lit her deck lights stem to stern with nobody on her deck. Dane's eyes went to her over Tess's shoulder and stayed.
+Behind her, out past the moorings, a big steel fishing boat lit her deck lights stem to stern with nobody on her deck. Dane's eyes went to the boat over Tess's shoulder and stayed.
 
 "That one?"
 
@@ -156,7 +156,7 @@ She killed it. In the dark she lifted the kitchen latch and shoved, and the door
 
 The mudroom's outer door knocked against its latch in every gust. A hollow knock, then nothing, then the knock.
 
-They sat on the kitchen floor with their backs to the chimney, the one wall in the house a bullet wouldn't go through, under her father's blanket, with no lamp and no stove. Out on the harbor the dragger lay in her deck lights, and a man stood on her afterdeck, facing the hill.
+They sat on the kitchen floor with their backs to the chimney, the one wall in the house a bullet wouldn't go through, under her father's blanket, with no lamp and no stove. Out on the harbor the Gloucester dragger lay in her deck lights, and a man stood on her afterdeck, facing the hill.
 
 Beth knew the set of him. The man in the skiff had sat that way, square to her house. Standing still, from up here, a man showed you no limp at all.
 
@@ -238,7 +238,7 @@ He waited the length of a long breath. Then he lifted and shoved, and past his s
 
 He shut both doors and came back to the brick, and didn't sit.
 
-"Who knew you were here?"
+"Who knew you were here?" he said.
 
 "You."
 

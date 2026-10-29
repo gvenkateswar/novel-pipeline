@@ -28,3 +28,10 @@ Cash-sum clause; "Where you sleeping?"; any clock time on the net; the "hole in 
 ## Flags (no plot change made)
 - "Tuesday" appears twice ("a Tuesday in June", "married by Tuesday"); the first is Ned's understated register, the second is Beth's Tess-voice. Both are in different mouths and under cap, but the audit may flag the pair.
 - Beth's place-by-boat habit is not on the page this chapter (one use available); not added, since no new beats were permitted.
+
+## Orchestrator triage after cold read (Oct 29, pull 4/5)
+- Cut "So did Dane." after the fold of hundreds (planted too visibly).
+- "Dane's eyes went to her" → "to the boat" (her/her ambiguity for the listener).
+- "the dragger" → "the Gloucester dragger" in the kitchen (reader lost the link).
+- Tagged "Who knew you were here?" he said.
+- Left as designed: Beth's "You." leaving Ned out (the reader noticed; that is the loyalty clue). Left for later passes: the latch opening, the bridge-definition paragraph, the stern walk after the collapse; the said-to-an-object tic is logged for the manuscript audit.
