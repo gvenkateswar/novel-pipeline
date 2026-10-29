@@ -2,6 +2,14 @@
 
 The pipeline's own history. A lesson learned on a book is committed here and to the agents, never only to that book's files. Each entry: what happened, what it taught, what changed.
 
+## 2026-10-28 (evening) — The judge panel and the first tournament
+
+**Why:** the author's goal is a series factory with as few human gates as possible. Every human gate can only go once something else predicts his verdict, and nothing did: both books passed every simulated read and bored him. So the pipeline stops asking one agent to score one draft and starts asking several agents to compare several drafts.
+
+**Added:** `.claude/agents/judge.md` (blind pairwise, forced choice, three personas, quotes the line where each text lost it); `docs/judging.md` (tournaments: three variants from one beat sheet, 18 blind comparisons, plus the current final as a fourth entrant); `docs/calibration.md` (every real human verdict, with the judges' agreement against it); `docs/factory-plan.md` (the trust ladder); `books/_series-template/`. The human gate on autopilot became a 48-hour veto window. Pull-gate failures now trigger a tournament, never line edits.
+
+**First results.** Judges on the calibration pair (v1 Ch 01, which bored the author, against v2 Ch 01, which he liked): 6 of 6 agreed with him, and all six named the same stop line. First tournament, *The Last Frame* Ch 02: three variants were close (7–6–5, mostly medium confidence), and the winner then beat the pre-tournament chapter 6–0 at high confidence. All six judges named the same line where the old chapter lost them, the same passage the sample reader had scored 2. Two things to carry forward: comparison works where scoring did not, and the beat change (keep the couple in the room, never recite the contract) did more than any lead instruction. Skimmer judges and craft judges pull in opposite directions (skimmers punish long interior paragraphs; craft judges reward distinct voices), so neither persona alone should decide.
+
 ## 2026-10-28 — Version 2: the combined repo and the rebuilt system
 
 ### What happened
