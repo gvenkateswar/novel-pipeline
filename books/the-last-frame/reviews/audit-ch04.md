@@ -1,4 +1,4 @@
-# Audit — the-last-frame (chapters 01–04, 12,651 words)
+# Audit — the-last-frame (chapters 01–04, 12,594 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -19,7 +19,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "honey" (Denise, before something hard) | 1 | 0 | 1 | 0 | 2 | 4 |  |
 | Denise's "You'll live" | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | The sign's buzz | 0 | 0 | 0 | 0 | 0 | 3 |  |
-| The dead K | 0 | 0 | 1 | 1 | 2 | 4 |  |
+| The dead K | 0 | 0 | 1 | 0 | 1 | 4 |  |
 | Ettle / Ettle's | 1 | 0 | 0 | 0 | 1 | 2 |  |
 | Hollis's cap | 0 | 0 | 0 | 0 | 0 | 3 |  |
 | Ray's key ring | 1 | 0 | 0 | 0 | 1 | 4 |  |
@@ -39,14 +39,14 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Separation (incl. Ch 7 title) | 0 | 0 | 1 | 0 | 1 | 5 |  |
 | "Understood." (Ellen hurt) | 1 | 0 | 0 | 0 | 1 | 4 |  |
 | Story about some other fella | 0 | 1 | 0 | 0 | 1 | 3 |  |
-| "fella," any use | 0 | 2 | 1 | 0 | 3 | 8 |  |
-| Knuckle on the trophy glass | 1 | 0 | 0 | 1 | 2 | 3 |  |
-| "Mrs. Daly" (once a chapter at most) | 1 | 0 | 0 | 1 | 2 | 10 |  |
+| "fella," any use | 0 | 2 | 1 | 1 | 4 | 8 |  |
+| Knuckle on the trophy glass | 1 | 0 | 0 | 0 | 1 | 3 |  |
+| "Mrs. Daly" (once a chapter at most) | 1 | 0 | 0 | 0 | 1 | 10 |  |
 | "Linda wouldn't have" (before Ch 7) | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | "unless the numbers say otherwise" | 0 | 0 | 1 | 0 | 1 | 6 |  |
 | "The wood stays on the lane" (Ch 4 only) | 0 | 0 | 0 | 1 | 1 | 1 |  |
 | deadwood (never a metaphor) | 0 | 0 | 0 | 0 | 0 | 2 |  |
-| Machines sulking | 0 | 1 | 0 | 0 | 1 | 3 |  |
+| Machines sulking | 0 | 1 | 0 | 1 | 2 | 3 |  |
 | "a quarter past five" | 0 | 0 | 0 | 1 | 1 | 3 |  |
 | American chop suey | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | "Scale of one to ten" | 0 | 0 | 0 | 0 | 0 | 3 |  |
@@ -77,28 +77,28 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 
 ### Frequent 3–5 word n-grams (4+ uses, whole book)
 
-- 7× “the glass block”
-- 6× “and said nothing”
-- 5× “behind the counter”
+- 6× “the glass block”
 - 5× “through the glass”
 - 5× “in both hands”
-- 4× “let go of”
+- 5× “the end stool”
+- 5× “let go of”
+- 5× “and said nothing”
+- 4× “behind the counter”
 - 4× “the snack bar”
-- 4× “said a word”
-- 4× “all ten lanes”
-- 4× “a quarter past”
-- 4× “under the sign”
+- 4× “the key cutter”
+- 4× “a pinsetter man”
+- 4× “his shirt pocket”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
 - jaw: 1 (0.1/1k)
-- knuckles?: 5 (0.4/1k)
+- knuckles?: 4 (0.3/1k)
 - throat: 0 (0.0/1k)
 - reath: 1 (0.1/1k)
-- pulse: 0 (0.0/1k)
-- chest: 1 (0.1/1k)
+- pulse: 1 (0.1/1k)
+- chest: 2 (0.2/1k)
 - hands? (stopped|stilled|went still|flat): 1 (0.1/1k)
-- shoulders?: 12 (0.9/1k)
+- shoulders?: 13 (1.0/1k)
 - gaze: 0 (0.0/1k)
 - tightened: 0 (0.0/1k)
 - swallowed: 0 (0.0/1k)
@@ -110,7 +110,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 01 | 3,271 | 19.8 | 18.7 | 18% | 0.0 | 0.9 | 0.0 | 2 | mean short |
 | 02 | 2,981 | 17.9 | 13.2 | 19% | 0.0 | 0.3 | 0.7 | 2 | short |
 | 03 | 3,286 | 17.5 | 13.7 | 15% | 0.0 | 0.3 | 0.0 | 2 |  |
-| 04 | 3,113 | 20.9 | 16.1 | 17% | 0.0 | 0.3 | 0.0 | 3 | mean short |
+| 04 | 3,056 | 19.6 | 16.3 | 13% | 0.0 | 0.3 | 1.0 | 3 | mean |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -122,10 +122,10 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 ### Mood words per 1,000 (count; flag a cluster, not a word)
 
-- quiet: 4 (0.3/1k)
-- humm?(ing|ed)?: 2 (0.2/1k)
+- quiet: 3 (0.2/1k)
+- humm?(ing|ed)?: 3 (0.2/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 30 (2.4/1k)
+- still(ness)?: 27 (2.1/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 0 (0.0/1k)
@@ -144,17 +144,17 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 | Construction | 01 | 02 | 03 | 04 | Total | /1k | Cap | |
 |---|---|---|---|---|---|---|---|---|
-| as if / as though | 0 | 0 | 1 | 1 | 2 | 0.2 | 1.0/1k |  |
-| the way (a|the|people|someone) ... | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
+| as if / as though | 0 | 0 | 1 | 0 | 1 | 0.1 | 1.0/1k |  |
+| the way (a|the|people|someone) ... | 0 | 0 | 0 | 2 | 2 | 0.2 | 1/ch | FLAG |
 | the kind of ... that | 0 | 0 | 0 | 0 | 0 | 0.0 | 2/ch |  |
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 1 | 0 | 1 | 0.1 | 0.0/1k | FLAG |
-| sentence-initial And/But/And yet | 2 | 1 | 1 | 3 | 7 | 0.6 | 3.0/1k |  |
-| em dashes | 0 | 0 | 0 | 5 | 5 | 0.4 | 2.0/1k |  |
+| sentence-initial And/But/And yet | 2 | 1 | 1 | 0 | 4 | 0.3 | 3.0/1k |  |
+| em dashes | 0 | 0 | 0 | 1 | 1 | 0.1 | 2.0/1k |  |
 | semicolons | 3 | 0 | 1 | 0 | 4 | 0.3 | 2.0/1k |  |
-| perception filter (she noticed / could hear) | 1 | 0 | 0 | 1 | 2 | 0.2 | 1.0/1k |  |
-| one-sentence paragraph | 6 | 23 | 21 | 18 | 68 | 5.4 | report |  |
+| perception filter (she noticed / could hear) | 1 | 0 | 0 | 0 | 1 | 0.1 | 1.0/1k |  |
+| one-sentence paragraph | 6 | 23 | 21 | 16 | 66 | 5.2 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
