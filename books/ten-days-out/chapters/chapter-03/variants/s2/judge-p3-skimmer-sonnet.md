@@ -1,0 +1,8 @@
+Winner: B
+
+1. Winner: B
+2. Why: B's store scene is two women who sound different arguing in a room I can picture, so my thumb stayed slow; A's is the same material chopped into fragments where I kept losing who stood where.
+3. Where A lost me: "She got Tess in, hanging the keys straight on the hook, her knuckles in the charging cords among the phones, Ned's in its rubber band." (~45%). Before that my thumb sped up at "She found the Golds behind her. When she turned, his money was on the counter, counted, and she still didn't know the price." (~35%). The generator quitting, "Mind the counter, Calloway," Ned handing over the key, and Tess "through the curtain" all pile up, and I stopped tracking positions. The hooded man at the curtain with the shape in his pocket is the best beat in either version, but I had to wade through logistics to reach it.
+4. Where B lost me: "Going back in, Beth picked the keys for Tess's Ford off the charging shelf where the hook had thrown them and hung them up again, her knuckles in among the cords and phones, Ned's in its rubber band." (~47%). It's the same key and cord inventory, and I skimmed it. The Ned key handoff right after it is a short errand beat and I read it fast. Nothing else slowed me down.
+5. Confidence: medium. A has the more physical scare and I could see someone picking it for that. B's Tess lines ("No. My money I can count." / "I put you to bed the winter your mother got on the Bangor bus.") are what kept me.
+6. Same-author check: Yes. The opening and closing scenes are word-for-word identical, and only the middle was rewritten.
