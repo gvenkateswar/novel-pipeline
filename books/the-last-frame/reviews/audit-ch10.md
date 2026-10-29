@@ -1,4 +1,4 @@
-# Audit — the-last-frame (chapters 01–10, 31,163 words)
+# Audit — the-last-frame (chapters 01–10, 31,132 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -13,16 +13,16 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "I'm aware" (anger only) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | "No readback" (Ch 3 thought, Ch 7 spoken) | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 2 | 2 |  |
 | Readback, the noun | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 3 | 4 |  |
-| Read (it) back, the verb | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 1 | 1 | 4 | 4 |  |
+| Read (it) back, the verb | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 1 | 0 | 3 | 4 |  |
 | The D-side | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 3 | 3 |  |
 | Denise's crossword | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
-| "honey" (Denise, before something hard) | 1 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 4 | 4 |  |
+| "honey" (Denise, before something hard) | 1 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 3 | 4 |  |
 | Denise's "You'll live" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | The sign's buzz | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 3 |  |
 | The dead K | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |  |
 | Ettle / Ettle's | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 | 2 |  |
 | Hollis's cap | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 3 |  |
-| Ray's key ring | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 3 | 4 |  |
+| Ray's key ring | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 2 | 4 |  |
 | Holding out the key | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
 | "Not yet" (Ch 8's line) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 3 |  |
 | "upside down" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
@@ -46,12 +46,12 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "unless the numbers say otherwise" | 0 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 4 | 6 |  |
 | "The wood stays on the lane" (Ch 4 only) | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
 | deadwood (never a metaphor) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
-| Machines sulking | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 3 |  |
+| Machines sulking | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 3 | 3 |  |
 | "a quarter past five" | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 3 |  |
 | American chop suey | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | "Scale of one to ten" | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 2 | 3 |  |
 | "The Pines doesn't take half" | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
-| "Voyons donc" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 |  |
+| "Voyons donc" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | Licked thumb | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 2 | 2 |  |
 | Gloves off | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 3 | 4 |  |
 | Breath on his wrist | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
@@ -60,9 +60,9 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "Stay on the step" / the step | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |  |
 | Pencil behind the ear | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | Glasses on the forehead | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
-| The pool sheet | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 | 5 |  |
+| The pool sheet | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 5 |  |
 | Locker fourteen | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 4 | 5 |  |
-| Linda's 187 | 1 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 4 | 4 |  |
+| Linda's 187 | 1 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 3 | 4 |  |
 | Crash like wooden spoons | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
 | Chair dragged (the table's sound) | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
 | "Traffic, twelve o'clock, one mile" | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
@@ -72,64 +72,64 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "Ayuh" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
 | "For Pete's sake" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | Ellen waking at ten to four | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
-| "twenty-eight thousand nine hundred" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 |  |
+| "twenty-eight thousand nine hundred" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | "Both words" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 |  |
 
 ### Frequent 3–5 word n-grams (4+ uses, whole book)
 
 - 13× “all ten lanes”
+- 10× “and said nothing”
 - 10× “the glass block”
 - 9× “on all ten lanes”
+- 8× “through the glass”
 - 8× “in both hands”
 - 8× “the end stool”
-- 8× “across the counter”
 - 8× “the highway crew”
-- 8× “and said nothing”
 - 8× “her vest pocket”
-- 7× “through the glass”
 - 7× “the steel door”
 - 7× “let go of”
-- 7× “gagnon and son”
 - 7× “at half past”
 - 7× “the snack bar”
-- 7× “ray said and”
+- 7× “his shirt pocket”
 - 7× “let it go”
-- 7× “inside his jacket”
-- 7× “in the pit behind”
 - 7× “the end of the counter”
 - 6× “behind the counter”
 - 6× “the highway department”
 - 6× “through the steel”
-- 6× “ray put his”
-- 6× “said a word”
-- 6× “his shirt pocket”
+- 6× “across the counter”
+- 6× “ray said and”
 - 6× “the first time”
 - 6× “the adding machine”
+- 6× “the night of the storm”
 - 6× “in the pit behind five”
+- 5× “the shoe cubbies”
+- 5× “gagnon and son”
+- 5× “ray put his”
+- 5× “the far end”
 - 5× “the scorer's table”
 - 5× “her eyes went”
-- 5× “the credit union”
-- 5× “under his arm”
+- 5× “said a word”
+- 5× “without a word”
+- 5× “had never once”
+- 5× “her other hand”
+- 5× “she had left”
 - 5× “the linda gagnon”
+- 5× “the plow bank”
 - 5× “dale looked at”
-- 5× “through the steel door”
-- 5× “standing at the bottom of”
-- 5× “the night of the storm”
-- 4× “of kettle road”
-- 4× “the shoe cubbies”
+- 5× “inside his jacket”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
-- jaw: 2 (0.1/1k)
+- jaw: 3 (0.1/1k)
 - knuckles?: 7 (0.2/1k)
 - throat: 0 (0.0/1k)
-- reath: 3 (0.1/1k)
+- reath: 5 (0.2/1k)
 - pulse: 1 (0.0/1k)
 - chest: 4 (0.1/1k)
-- hands? (stopped|stilled|went still|flat): 4 (0.1/1k)
+- hands? (stopped|stilled|went still|flat): 5 (0.2/1k)
 - shoulders?: 23 (0.7/1k)
 - gaze: 0 (0.0/1k)
-- tightened: 1 (0.0/1k)
+- tightened: 0 (0.0/1k)
 - swallowed: 1 (0.0/1k)
 
 ## 2. Ear (read-aloud check)
@@ -145,7 +145,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 07 | 2,890 | 18.5 | 14.8 | 15% | 0.0 | 0.3 | 0.0 | 3 | mean |
 | 08 | 3,330 | 21.2 | 13.9 | 10% | 0.0 | 0.3 | 0.0 | 2 | mean |
 | 09 | 2,953 | 16.6 | 13.4 | 17% | 0.0 | 0.3 | 0.0 | 4 | short openers |
-| 10 | 3,415 | 18.6 | 14.3 | 12% | 0.0 | 0.3 | 0.0 | 2 | mean |
+| 10 | 3,384 | 15.6 | 11.7 | 16% | 0.0 | 0.3 | 0.6 | 3 | short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -157,10 +157,10 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 ### Mood words per 1,000 (count; flag a cluster, not a word)
 
-- quiet: 8 (0.3/1k)
+- quiet: 7 (0.2/1k)
 - humm?(ing|ed)?: 7 (0.2/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 68 (2.2/1k)
+- still(ness)?: 70 (2.2/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 0 (0.0/1k)
@@ -176,6 +176,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 - 3× for the first time
 - 1× let out a breath
 - 1× not quite
+- 1× washed over
 
 ### Constructions against Part 3 caps
 
@@ -187,11 +188,11 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0.0 | 0.0/1k | FLAG |
-| sentence-initial And/But/And yet | 2 | 1 | 1 | 0 | 1 | 0 | 1 | 2 | 0 | 1 | 9 | 0.3 | 3.0/1k |  |
-| em dashes | 0 | 0 | 0 | 1 | 0 | 3 | 4 | 3 | 2 | 0 | 13 | 0.4 | 2.0/1k |  |
+| sentence-initial And/But/And yet | 2 | 1 | 1 | 0 | 1 | 0 | 1 | 2 | 0 | 0 | 8 | 0.3 | 3.0/1k |  |
+| em dashes | 0 | 0 | 0 | 1 | 0 | 3 | 4 | 3 | 2 | 1 | 14 | 0.4 | 2.0/1k |  |
 | semicolons | 3 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 6 | 0.2 | 2.0/1k |  |
-| perception filter (she noticed / could hear) | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 4 | 6 | 0.2 | 1.0/1k |  |
-| one-sentence paragraph | 6 | 23 | 21 | 19 | 13 | 29 | 11 | 17 | 21 | 13 | 173 | 5.6 | report |  |
+| perception filter (she noticed / could hear) | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 2 | 4 | 0.1 | 1.0/1k |  |
+| one-sentence paragraph | 6 | 23 | 21 | 19 | 13 | 29 | 11 | 17 | 21 | 24 | 184 | 5.9 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 

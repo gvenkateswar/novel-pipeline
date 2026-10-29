@@ -49,3 +49,50 @@ Word count: about 3,400 by estimate (draft 3,304, net about +95). That is inside
 - Lines added: 4 (Ray, Ellen in s1; Ray in s2; Judy's sound cue in s4)   Lines cut: 0 (one Judy sentence rewritten shorter; one clause trimmed in Denise's speech)
 - Word count: about 3,443 (3,405 plus 38), under the 3,456 ceiling. Floors held: s2 above 900, s3 about 810, kiss beat about 193, s4 about 725.
 - Tag-strip test: pass. Kate rambles and cuts herself off. Ellen speaks in full stops and exact measures. Ray uses and-chains, rounding and "about". Judy speaks in criteria. Denise runs on and qualifies. Arlene uses full names and money as weather. Danny speaks in inventory. Hollis is flat. The closest pair is Ray's "I heard her." and Ellen's plainest lines in s3; context and the surrounding rhythm carry it.
+
+## Voice editor (draft-dialogue.md → final.md), Oct 29
+
+Draft edited: draft-dialogue.md (3,445 words), Oct 29. Saved to `final.md`, prose only. tools/audit.py not run, per instruction.
+
+**Word count (`wc -w final.md`): 3,398** (heading included; 3,445 before, net -47; inside the 2,944–3,456 band).
+By scene vs floor (heading in s1): s1 about 497 (no floor); s2 1,007 (floor 900; bowling about 150 words, at the cap); s3 811 (floor 800); kiss beat 207 (floor 150); s4 722 (floor 600); s5 346. A first pass took s3 to 778, under the floor; two clauses went back as life (see Added life), not padding.
+
+Protected moments untouched, word for word: Kate on the speaker ("Then do it." / "And call me first next time." / "Like this." / "You weren't asked." / the plow question); "Is that Ray Gagnon on my chair?" / "In it."; the headlight line; "Third." and "Third item… You love me."; "He waited to be corrected."; "Ray." / "Will you take it?"; the last three lines. One dollar figure ("eighty-eight hundred"); Judy's condition is still one plain sentence.
+
+**Tells and tics cut**
+- [Ticks] Draft had eight (tick, ticked x2, ticking x2 on motors/fryer, the key, the watch, the motor "one more tick and quit"). Now four, each a different source: the turn signal, the case glass (the s2 anchor), the motors cooling, Ellen's watch. Key on her pen → "chink"; fryer → "settling"; "He let them tick." cut; "gave one more tick and quit" → "quit".
+- [Inch] Draft had three plus Hollis's. Cord "an inch from him" → "her mouth still a breath from his"; Judy's blotter "a quarter inch under" → "a shade under". Kept "an inch and a half" (Ellen's dodge) and Hollis's "four inches".
+- [Filler openers] "There was one thing more" cut; "There were ten lanes" → "Ten lanes of sheets wanted pencils"; "There was no ring on the glass" → "No ring marked the glass"; "At the end it came down to" → "It came down to".
+- [Ray openers] "Ray's first box" → "His first box"; one paragraph opens on "Ray" in the chapter (the laugh, its own sentence), against a cap of eight.
+- [Decoding / restating] "and did not hurry her" cut (the clause explained the sit). The urn and "grease and belt smell" clauses cut from the iron-step paragraph (one texture piece per scene; the motors). "Nobody in the alley moved." cut after Kate's silence (the "Like this." that follows carries the pause).
+- [Unclear referent] "and neither of them saw to it" (cord) → "and the cord stayed where it was". "Cord drawn tight" x3 → "biting at the back of her neck" / "over the cord" / one "drew tight again".
+- [Town jackets] x2 → Dale keeps "his town jacket"; the crew in the ovation are "getting up red-eyed" (calls back their first appearance).
+- [Back / back] "gone back ahead of him… came back past" → "passed the counter".
+- [Listener] "The Pines held her room through the first" → "through today and no longer" (a listener can lose "the first"). "Her voice came" → "Ellen's voice came" at the open of s4 (speaker of "You're in the other chair"). Judy's wire sentence trimmed to one clock reference ("the minute hand most of the way round to the top").
+- [Pocketbook] The draft has Arlene's pocketbook only (Judy has a folded program), so the collision is not live in this text; Arlene's is changed anyway to "clamped under one elbow", which stays hers from Ch 01 and no longer reads as "on her arm".
+- [Same sheet, two pockets] s5's "shop's sheet in his shirt pocket" → "jacket pocket"; Linda's sheet is the shirt-pocket sheet.
+- [Buzz] "he felt the buzz of it in the pole" → "the buzz came down the pole" (filter out). "Red came down" twice → "Red washed over the plow bank".
+- [Ray's 187] "while she bowled her hundred and eighty-seven" → "while she set the house record". The beat sheet's motif table has "eighty-seven" at 0 on the page.
+- [Line hygiene] "slow," cut from the key on the ring (a quarter turn at a time is already slow). "on the settee at lane five" → "on the settee". "with her shoes on top of it" → "on top"; "her ball sat on the shelf above where she had left it" → "her ball on the shelf above, where she had left it".
+
+**Added life** (inside the scene's facts; no new object, character or event)
+- s3, one clause: "Lane seven sat quiet at his back on the clutch he had put in the first week of December, and she hadn't sulked since." Ray's voice: a date by what broke, "she" for the machine. It pays the Ch 02 repair (clutch from his spare).
+- s3, one sentence in the kiss: "She tasted of the urn's coffee, burnt and sweet." The scene's one taste; the urn was Ellen's all day (s1).
+- s3, cue for Ellen's first speech: "and her eyes were on the curtain" (speaker cued by an action at the peak).
+- s4, cue for "None of it is his.": "Ellen kept her eyes on Judy."
+
+**Voice**
+- Tag-strip test, s1–s5: pass. Ray: and-chains with the weight last ("and the pencil in his hand had come to a point and gone on past it, and it was getting short"; "and he had carried it out to the car for her more Tuesdays than he had ever counted"), rounding ("about", "a couple"), machines as "she" ("Throw her"; lane seven "hadn't sulked"), a date by what broke. Ellen: full stops, one ordinal, exact measure ("an inch and a half"; "Twice behind lane seven and once under the sign"). Motor comparisons: one ("quicker than any motor"). No "fella", no object addressed as a listener.
+- Closest pair: Ray's "I heard her." and Ellen's plain lines in the pit, carried by the rhythm around them and by Ellen's eyes on the curtain.
+
+**Not found in this text** (checked): "back teeth", "squared… though it was square", "bare and cold, as they always were", "came up out of him", "heavier than it looked", any line said "to" an object, "Voyons donc", "four-horse", a spoken "Ettle's", a thesis in Ray's mouth, a motion or a second. "Ettle's" appears once in s5 narration (optional per beats).
+
+**Left as is, on purpose**
+- Denise's speech: already one beat shorter from the dialogue doctor; the qualifier is the joke and sets up Ray's answer. One tournament judge wanted it shorter; the beats keep it.
+- "a heading with nothing yet under it" (the judges named it) and "heard her words come out in his voice".
+- "Sunday's snack bar closed part of the gap. This page closes the rest." No figure. It is the on-page source of Sunday's +$615 on the log's chain; cutting it would strand the ledger.
+
+**Flagged for writer / orchestrator**
+- None needing plot change. Texture budget holds: one piece per scene except s2, where the stiff padlock and the box on lane five are both in the beats.
+- Continuity: Linda's 187 is no longer on the page in Ch 10 ("the house record"). Ch 03's account of who watched from the pit is still to be checked against "he had watched from the pit one February".
+- Pipeline pairs for the log: (1) stop: any recurring sound word (tick, buzz, hum) used for three different sources in one chapter; do: give each source its own verb and let one sound belong to the scene's anchor. (2) stop: a numeric in-world record ("hundred and eighty-seven") when the beat sheet caps it; do: name it by what it was ("the house record").
