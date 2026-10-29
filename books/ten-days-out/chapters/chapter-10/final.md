@@ -46,23 +46,19 @@ The pad lay shut on the counter under Quist's hand. She was the Q on Pike's scre
 
 "I sold you condoms."
 
-"An impeller in a box bearing your price sticker was taken from that shelf at noon on Monday, while you were on your rounds. Was it missed?"
+"An impeller bearing your price sticker was taken from that shelf at noon on the sixteenth. Was it missed?"
 
-"Forty-one ninety-five. Got back at three and put it on Haskell's account." Tess wiped the counter where nothing had spilled. "Figured he'd come up for his phone."
+"Forty-one ninety-five. Went on Haskell's account." Tess wiped the counter where nothing had spilled.
 
-"The spare key to your truck was left on the back step Friday night and again that Monday noon. How many keys on that hook, Ms. Marr?"
-
-"Two."
-
-"The captain's float-light key was handed over Wednesday and kept. The town's key, which is understood to hang by your safe—"
+"Your spare truck key was left on the back step on the thirteenth and the sixteenth. The captain's float-light key was handed over and kept. The town's key, understood to hang by your safe—"
 
 "Never left the nail."
 
-"—was therefore not required," Quist said. "They were also told how the Calloway kitchen door is opened."
+"They were also told," Quist said, "how the Calloway kitchen door is opened."
 
 "Lift it and lean on it," Beth said.
 
-Ned had come in by that door every winter of her life without being shown.
+Ned had come in by that door every winter of her life without being shown. Dane she had shown once, in the mudroom. He had it on the first try.
 
 Tess bent below the counter and came up with a book, cloth-bound, gray, soft at the corners, and laid it on the pad.
 
@@ -112,19 +108,19 @@ She left it burning.
 
 He came up the stairs behind her. She undid the strapping herself, the buckle and the long strap round his back, and eased the arm out of it and laid it on the pillow.
 
-"Leave it there."
+"Leave it there," she said.
 
 In the lamplight she could see the bruise whole, black and green over the shoulder down to the strips, and the old white scars across his right knuckles that she had only ever felt.
 
 He tried her father's sweater one-handed. It came halfway over her head and stuck at the darned elbows, her arms up inside it and her face in the wool.
 
-"Worst one-handed job I've seen since you came over my rail," she said into it.
+"Worst one-handed job I've seen since you came over my ramp," she said into it.
 
-"I had two hands for your rail, and it went about like this."
+"I had two hands for your ramp, and it went about like this."
 
 She laughed, blind with her arms up, and he laughed with her, his forehead against hers through the wool, until she worked one elbow loose, then the other, and came out with her braid half down.
 
-She put him down on the bed by his good shoulder.
+She put him down on the bed by his right shoulder.
 
 She got the rest of his clothes off him, careful on the left side, and then her own. She knelt over him with the lamp behind her.
 
@@ -136,17 +132,17 @@ The lamp showed her his face while she did it.
 
 She closed her hand round his cock and moved it once, slow.
 
-"Look at me."
+"Look at me," she said.
 
 "I am."
 
 His eyes in the lamplight had her in them, small, with the flame beside her.
 
-"You're sure. About the window."
+"You're sure," he said. "About the window."
 
 "Leave it."
 
-His good hand came down her back to her hip, and stopped there, and waited.
+His hand came down her back to her hip, and stopped there, and waited.
 
 "Yes. I want you inside me."
 
@@ -156,45 +152,47 @@ Out front a car door opened and shut, and the deputies' engine ran on.
 
 She lowered herself onto him slowly, a little and then all of him, and stayed there. His head went back on the pillow.
 
-"Arm?"
+"Arm?" she said.
 
 "Fine."
 
-"Don't move it. Let me."
+"Don't move it. I'll do the work."
 
-He left the arm where she'd put it. She moved on him, slow, her hands spread on his chest, and his good hand held her hip and let her set it.
+He left the arm where she'd put it. She moved on him, slow, her hands spread on his chest, and set the pace herself.
 
-"Deputies'll hear."
+"Deputies'll hear," she said.
 
 "Beth."
 
-She moved faster, and the lamp burned in the window behind her and the harbor could see it and the store could see it and Tess could put it in her book, and the boat lay at the stone pier waiting for first light and her two hands and Kenny on the lines at quarter to six, and his good hand was hard on her hip and his breath was coming short, and the window breathed cold on her back and the woodsmoke from the kitchen stove came up the stairs and the heat of him came up into her, and then none of that was anywhere.
+She moved faster. The lamp burned in the window at her back, where the harbor could see it, and the store. His hand was hard on her hip. His breath came short. Cold came off the glass onto her shoulders, and the heat of him came up into her.
 
-She came with her head down and her hands pressed to his chest, a long pull that went through all of her, and she made no effort at all to be quiet in her own house. He came after her with his eyes open on her face.
+She came with her head down and her hands pressed flat to his chest. It went through her in one long pull. She made no effort to be quiet in her own house. He came after her with his eyes open on her face.
 
-After, she lay along his good side and pulled the sheet up over them both. The bad arm lay on its pillow where she'd left it. Downstairs the refrigerator came on.
+After, she lay along his right side and pulled the sheet up over them both. The bad arm lay on its pillow where she'd left it. Downstairs the refrigerator came on.
 
 "I love you," she said.
 
-"Since when?"
+"Since when?" he said.
 
 "You jumped."
 
 He turned his head on the pillow. "I love you. I've been wrong about you every single time since the ramp. It's the best run I've had in four years. Don't fix it."
 
+She reached across him and set the bad arm straighter on its pillow.
+
 * * *
 
 At quarter to six the wheelhouse heater was blowing and the windows were black. Beth took a dry dish towel to Ned's smears and worked them pane by pane until the windows were clear.
 
-Then she went down to the forepeak with a flashlight. The inspector's temporary repair sat forward where the frames came together, and she put her hand on it, cold and dry. The pump was quiet.
+Then she went down to the forepeak with a flashlight. The temporary repair the inspector had passed sat forward where the frames came together, and she put her hand on it, cold and dry. The pump was quiet.
 
-Kenny was on the lines, back over from Pruett on the Marine Patrol boat and still gray from the flu that had kept him ashore all week. The two of them were the whole crew the certificate asked for. Islanders came aboard over the temporary ramp with their bags and their dogs. Up the road the store's front window was lit, and nobody stood in it.
+Kenny was on the lines, back over from Pruett on the Marine Patrol boat and still gray from the flu that had kept him ashore all week. The two of them were the whole crew the certificate asked for. The district had rung the store at noon Saturday: the boat was hers till they said otherwise. Islanders came aboard over the temporary ramp with their bags and their dogs. Up the road the store's front window was lit, and nobody stood in it.
 
 Dane stood on the car deck among the foot passengers with the empty sleeve pinned, looking up. She could see him through the windows she had cleaned.
 
 "Single up," she called down to Kenny. He took in the last line and coiled it down and stood clear.
 
-The light air came off the land and did her work, and she let it. The stern walked off the granite. She eased the throttles up and put the wheel over. The *North Reach* came round under her hands in one long slow swing, the diesel coming up through the soles of her boots. For a year she had done this in her head every morning, with Ned at this wheel and his coffee going cold beside her. This morning the coffee was hers, made his way, too strong to drink till Pruett.
+The light air came off the land and did half her work. The stern walked off the granite. She eased the throttles up and put the wheel over. The *North Reach* came round under her hands in one long slow swing, the diesel coming up through the soles of her boots. For a year she had done this in her head every morning, with Ned at this wheel and his coffee going cold beside her. This morning the coffee was hers, made his way, too strong to drink till Pruett.
 
 The crossing was flat and took the forty-five minutes it always took. Off Pruett the state's barge was coming out with a crane on her deck, bound for the island slip. Ten days, Ned had said, if the state got a barge out.
 
@@ -206,11 +204,13 @@ She came down the outside ladder with her bag for Portland. Kenny was waiting at
 
 "Who's taking her home?" Kenny said.
 
+Beth put the wheelhouse key in his glove.
+
 * * *
 
 The prosecutor turned a page and asked who had carried the bags up from the car deck that Thursday night.
 
-Beth had both hands on the edge of the table, the old white scar across her palm pressed to the wood.
+Beth had both hands flat on the edge of the table.
 
 "The captain," she said. "Edward Haskell."
 
