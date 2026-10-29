@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–08, 23,883 words)
+# Audit — ten-days-out (chapters 01–08, 23,809 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -42,10 +42,10 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "I don't bet" | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
 | Dane's predictions, "There it is" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
 | Exact change | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
-| "Here's how this goes" | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 | 3 |  |
+| "Here's how this goes" | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |  |
 | "Talk to me" | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |  |
 | "For the record" (Dane only) | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |  |
-| "Ms. Calloway" | 2 | 0 | 1 | 0 | 0 | 0 | 1 | 2 | 6 | 8 |  |
+| "Ms. Calloway" | 2 | 0 | 1 | 0 | 0 | 0 | 1 | 1 | 5 | 8 |  |
 | "Your marshal" | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 4 |  |
 | "Okay" (Dane's pivot; Beth never) | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 30 |  |
 | Back to the wall | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
@@ -83,11 +83,11 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | The screen | 1 | 0 | 2 | 0 | 0 | 0 | 1 | 0 | 4 | 6 |  |
 | "Is this going in your log" | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 1 |  |
 | "We go down to look" | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 2 |  |
-| "Not again today" | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 | 2 |  |
+| "Not again today" | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 2 |  |
 | "They burned Ashby" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 |  |
 | "Not Tess. Not tonight." | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 |  |
 | "This isn't water" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 |  |
-| The ham | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 3 | 5 |  |
+| The ham | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 2 | 5 |  |
 | Eleven pounds | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 |  |
 | "Disappointing kit" | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 2 |  |
 | "Good till" (the condoms) | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 2 | 2 |  |
@@ -140,9 +140,9 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "Not yet I can't afford" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
 | "Long enough to be useful" | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 1 |  |
 | LifeFlight | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 2 | 3 |  |
-| The ballfield | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 | 3 |  |
+| The ballfield | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 3 |  |
 | Deck lights | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 3 |  |
-| Sleet | 2 | 1 | 0 | 1 | 0 | 0 | 0 | 3 | 7 | 12 |  |
+| Sleet | 2 | 1 | 0 | 1 | 0 | 0 | 0 | 2 | 6 | 12 |  |
 | Woodsmoke | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
 | Thrum | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | Her Tess voice (Beth's mimicry) | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 1 |  |
@@ -155,46 +155,46 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 
 ### Frequent 3–5 word n-grams (4+ uses, whole book)
 
-- 12× “the fish house”
 - 11× “the margaret ann”
 - 11× “the oak bar”
+- 10× “the fish house”
 - 10× “under the bank”
 - 9× “his right hand”
-- 8× “the north road”
-- 8× “the ramp head”
 - 7× “the north reach”
 - 7× “the harbor road”
-- 7× “top of the tide”
+- 7× “the north road”
+- 7× “the ramp head”
 - 6× “she could see”
-- 6× “could see the”
 - 6× “along the harbor”
 - 6× “under the set”
-- 6× “the top of the tide”
+- 6× “top of the tide”
 - 5× “had never once”
 - 5× “the outside ladder”
-- 5× “put it away”
+- 5× “could see the”
 - 5× “at first light”
 - 5× “the cold came”
 - 5× “round the point”
+- 5× “her eyes went”
 - 5× “came along the”
 - 5× “under her boots”
-- 5× “across the cove”
 - 5× “across the door”
 - 5× “the bait shed”
-- 5× “his good hand”
 - 5× “along the harbor road”
+- 5× “the margaret ann s”
+- 5× “the top of the tide”
 - 4× “under her fingers”
 - 4× “hand stayed on”
 - 4× “went along the”
 - 4× “the whole way”
 - 4× “the fuel float”
 - 4× “the bad hip”
-- 4× “i'm going to”
+- 4× “put it away”
 - 4× “the left heel”
 - 4× “the kitchen door”
 - 4× “the door went”
+- 4× “eyes went to”
 - 4× “along the deck”
-- 4× “thumb found the”
+- 4× “past his shoulder”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
@@ -205,7 +205,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - pulse: 2 (0.1/1k)
 - chest: 4 (0.2/1k)
 - hands? (stopped|stilled|went still|flat): 1 (0.0/1k)
-- shoulders?: 30 (1.3/1k)
+- shoulders?: 31 (1.3/1k)
 - gaze: 0 (0.0/1k)
 - tightened: 0 (0.0/1k)
 - swallowed: 1 (0.0/1k)
@@ -221,7 +221,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 05 | 3,686 | 11.1 | 8.2 | 25% | 0.0 | 0.5 | 0.0 | 4 | mean short openers |
 | 06 | 3,258 | 10.8 | 7.7 | 26% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 | 07 | 3,060 | 11.6 | 8.9 | 24% | 0.0 | 0.7 | 0.0 | 5 | mean short openers |
-| 08 | 3,108 | 15.6 | 12.3 | 14% | 0.0 | 0.0 | 0.0 | 3 |  |
+| 08 | 3,034 | 15.2 | 10.4 | 14% | 0.0 | 0.0 | 0.0 | 2 |  |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -236,7 +236,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 - quiet: 13 (0.5/1k)
 - humm?(ing|ed)?: 4 (0.2/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 41 (1.7/1k)
+- still(ness)?: 39 (1.6/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 1 (0.0/1k)
@@ -262,14 +262,14 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0.0 | 0.0/1k | FLAG |
-| sentence-initial And/But/And yet | 1 | 0 | 2 | 0 | 4 | 0 | 0 | 4 | 11 | 0.5 | 3.0/1k |  |
+| sentence-initial And/But/And yet | 1 | 0 | 2 | 0 | 4 | 0 | 0 | 3 | 10 | 0.4 | 3.0/1k |  |
 | em dashes | 1 | 1 | 2 | 0 | 1 | 0 | 1 | 2 | 8 | 0.3 | 2.0/1k |  |
 | semicolons | 0 | 3 | 1 | 5 | 0 | 1 | 1 | 0 | 11 | 0.5 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 2 | 1 | 3 | 1 | 3 | 0 | 2 | 0 | 12 | 0.5 | 1.0/1k |  |
-| one-sentence paragraph | 17 | 18 | 24 | 15 | 35 | 41 | 27 | 18 | 195 | 8.2 | report |  |
+| one-sentence paragraph | 17 | 18 | 24 | 15 | 35 | 41 | 27 | 21 | 198 | 8.3 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
 
 
-Orchestrator note: the one contrast FLAG is the Ch 06 conditional, a known false positive. Clean.
+Orchestrator note (fix round 1 text, 3,049 words): the one contrast FLAG is the Ch 06 conditional, a known false positive. Clean.
