@@ -72,7 +72,7 @@ She unfolded the three pages on the cooler lid and flattened them with her bare 
 
 "The Open needs a final."
 
-Ray stopped talking. The heater hissed warm at his face while the cold lay on his boots, and on the guard her gloves steamed.
+Ray stopped talking. The cold lay on his boots, and on the guard her gloves steamed.
 
 "You gave me your word," he said. "In the pit. Behind five. I told the whole league so. Verna wrote it down. Dale's crew paid on it."
 
@@ -92,7 +92,7 @@ She let him. He took it off the cooler and did it the same, thumb first, one fin
 
 "Hollis heard me. Twenty captains heard me."
 
-She put a gloved finger to the corner of the page. The leather slid over the paper. Pinched, two sheets came up together and dropped back together. On the next try, slower, with the thumb, the thumb of his glove ran an inch past hers and folded over at the end. She laid both hands flat on the pages and left them there.
+In his gloves she could not turn the page. She laid both hands flat on the pages and left them there.
 
 On the guard one of her own gloves let a drop go onto the burner, and it spat.
 
@@ -160,9 +160,7 @@ She had a printed page and a box of tacks. "May I put this on your board?"
 
 She tacked it up beside the Bench's stools, one tack to a corner.
 
-From the register he could read it. The Kettle Lanes Open, across the top in heavy black type, and under it the last Saturday in February, with the Great Kettle Derby, any team of four. The last line said cash refunds if weather stops play. The top tack on the left had gone in crooked, and the sheet hung a hair off true from it.
-
-Between those, a line to itself: the final, the Linda Gagnon Memorial, on all ten lanes. He had seen that name in Verna's hand for six years and cut small into the cup in the case. He had never seen it on a flyer. Behind it the coffee maker hissed on.
+From the register he could read the line that sat by itself in the middle: the final, the Linda Gagnon Memorial, on all ten lanes. He had seen that name in Verna's hand for six years, and on the framed card in the alley's case beside her hundred and eighty-seven. He had never seen it on a flyer.
 
 She had spelled it right.
 
@@ -170,7 +168,7 @@ She had spelled it right.
 
 "Hollis said."
 
-She came back to the counter and stood at it. Her side had nowhere to sit, and his had only Linda's chair, which she kept her eyes off.
+She came back to the counter and stood at it. There was nowhere to sit on her side of it.
 
 "In the bob-house you asked me whether I knew—"
 
@@ -186,7 +184,7 @@ He finished, wrote the count on the slip, and shut the drawer.
 
 "Mr. Gagnon. I would like—"
 
-The coffee maker quit, and the bell went.
+The coffee maker quit.
 
 Normie came in first, stamping, with the other two behind him, and had the call going before the door swung to. "And the owner's in the store ahead of the Bench, boys, first time in the history of the franchise, and the veteran's recounting the boy's drawer, never did trust a rookie with the till."
 
@@ -196,7 +194,7 @@ She turned to the Bench. "Good morning. There is a notice on your board. It conc
 
 She went out, and the bell went once behind her.
 
-Ray's hand was flat on the shut drawer. Normie was at the board before his cup was poured, reading it out in the Saturday-show voice. "The Kettle Lanes Open, boys, any team of four, the final on all ten lanes, the Linda Gagnon—"
+Ray's hand was flat on the shut drawer. Normie was at the board before his cup was poured, reading it out in the Saturday-show voice. "The Kettle Lanes Open, boys, any team of four, cash refunds if weather stops play, and the final on all ten lanes, the Linda Gagnon—"
 
 \* \* \*
 
@@ -236,9 +234,9 @@ The clock over lane one said twenty past. Denise had quit pretending to watch he
 
 Ray laid the pen across the pad, below the empty line. He took out his wallet and counted cash onto the counter, on top of the envelope, and along the stools nobody ate.
 
-"Gagnon and Son," he said. "Every Tuesday after tonight, up to the Memorial."
+"The envelope is tonight's lineage for my team," he said to Ellen. "The cash is every Tuesday after tonight, up to the Memorial, paid ahead. Gagnon and Son stays in your book through Linda's night."
 
-Ellen slit the envelope with her thumbnail and counted it in with the rest, once, without a word. She wrote the receipt on the alley's pad in her printing and tore it off and held it across the counter, and it stayed there between them a second before he took it.
+Ellen slit the envelope with her thumbnail and counted both in, once, without a word. She wrote the receipt on the alley's pad in her printing and tore it off and held it across the counter, and it stayed there between them a second before he took it.
 
 "Your receipt, Mr. Gagnon."
 
@@ -252,9 +250,7 @@ Dale picked up the pad and the pen and walked down the settees to four. The Legi
 
 \* \* \*
 
-On Monday, the first of February, the day before the second half started, Ray stood at the credit union's left-hand window at ten minutes to five. Danny was behind him in line with the store's deposit bag, as he was every weekday before five, and behind Danny a woman in a Sportsmen's Club jacket held a coin roll in each fist and watched the clock over the tellers.
-
-The teller slid the cashier's check under the glass and kept two fingers on it.
+The teller slid the cashier's check under the glass and kept two fingers on it. Danny stood behind Ray in line with the store's deposit bag, as he did every weekday before five, and behind Danny a woman in a Sportsmen's Club jacket held a coin roll in each fist and watched the clock over the tellers.
 
 "Are you sure, Mr. Gagnon? It's nearly all of it."
 
@@ -262,7 +258,7 @@ The teller slid the cashier's check under the glass and kept two fingers on it.
 
 She took her fingers off it.
 
-He carried it to the stand-up counter and laid it face down beside the store envelope he had brought in his jacket that morning. Danny made his deposit and came and stood next to him, folding the empty bag, and his elbow caught the ballpoint and set its bead chain rattling. The woman with the coin rolls had gone up to the window. They kept their voices down.
+He carried it to the stand-up counter, a day before the second half, and laid it face down beside the store envelope he had brought in his jacket that morning. Danny made his deposit and came and stood next to him, folding the empty bag, and his elbow caught the ballpoint and set its bead chain rattling. The woman with the coin rolls had gone up to the window. They kept their voices down.
 
 "That's your down payment on the alley," Danny said.
 

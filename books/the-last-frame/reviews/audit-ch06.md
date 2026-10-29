@@ -1,4 +1,4 @@
-# Audit — the-last-frame (chapters 01–06, 18,689 words)
+# Audit — the-last-frame (chapters 01–06, 18,575 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -62,7 +62,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Glasses on the forehead | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | The pool sheet | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 5 |  |
 | Locker fourteen | 1 | 0 | 1 | 0 | 0 | 0 | 2 | 5 |  |
-| Linda's 187 | 1 | 0 | 1 | 0 | 0 | 0 | 2 | 4 |  |
+| Linda's 187 | 1 | 0 | 1 | 0 | 0 | 1 | 3 | 4 |  |
 | Crash like wooden spoons | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
 | Chair dragged (the table's sound) | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 1 |  |
 | "Traffic, twelve o'clock, one mile" | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 1 |  |
@@ -85,7 +85,6 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 5× “in both hands”
 - 5× “the steel door”
 - 5× “let go of”
-- 5× “the bell went”
 - 5× “and said nothing”
 - 5× “his shirt pocket”
 - 5× “ray said and”
@@ -93,6 +92,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 4× “behind the counter”
 - 4× “the highway department”
 - 4× “the snack bar”
+- 4× “the bell went”
 - 4× “ray watched her”
 - 4× “the key cutter”
 - 4× “a pinsetter man”
@@ -103,8 +103,6 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 4× “the january meeting”
 - 4× “the second chair”
 - 4× “through the steel door”
-- 4× “last saturday in february”
-- 4× “any team of four”
 - 4× “the end of the counter”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
@@ -130,7 +128,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 03 | 3,286 | 17.5 | 13.7 | 15% | 0.0 | 0.3 | 0.0 | 2 |  |
 | 04 | 3,119 | 19.3 | 16.0 | 15% | 0.0 | 0.3 | 1.0 | 3 | mean |
 | 05 | 3,126 | 20.3 | 16.3 | 16% | 0.0 | 0.3 | 0.0 | 2 | mean short |
-| 06 | 2,906 | 14.9 | 10.3 | 16% | 0.0 | 0.3 | 0.7 | 3 | short |
+| 06 | 2,792 | 14.9 | 10.5 | 17% | 0.0 | 0.4 | 0.7 | 2 | short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -175,7 +173,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | em dashes | 0 | 0 | 0 | 1 | 0 | 3 | 4 | 0.2 | 2.0/1k |  |
 | semicolons | 3 | 0 | 1 | 0 | 1 | 0 | 5 | 0.3 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0.1 | 1.0/1k |  |
-| one-sentence paragraph | 6 | 23 | 21 | 19 | 13 | 30 | 112 | 6.0 | report |  |
+| one-sentence paragraph | 6 | 23 | 21 | 19 | 13 | 29 | 111 | 6.0 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
