@@ -1,68 +1,147 @@
-# Pull curve: whole book (Ch 1–10)
+# Pull curve: The Last Frame
 
-**Draft read:** all ten `chapters/chapter-XX/final.md` files, in order, as they stood on Oct 27, 2026. That is the second draft (external-review revision), plus the round-2 polish pass on Ch 1, 3, 5, 6, 7, 8, 9 and 10 and the round-3 final-review fixes on Ch 7, 8 and 9. Everything from "## Edit log" down was stripped before reading. About 34,000 words. No planning or review files were opened.
+**Draft read:** `books/the-last-frame/manuscript.md`, Oct 29, 2026, the first full draft (Ch 01–10, all of it). Nothing else in the folder was read except `research/chosen-angle.md`, and that only to build the persona below.
 
-**Reader:** Carol, 59, the same reader as `sample-read-sample-mark.md`. She reads clean, later-in-life, small-town romance on Kindle Unlimited, on her phone in bed, three or four books a month.
+**Persona.** Joanne, 63, a retired school secretary in central Massachusetts. She reads on her phone in bed and in waiting rooms. Last month she read two Kindle Unlimited later-in-life romances (one at a Cape bakery, one at a Vermont inn) and reread a Debbie Macomber. She is tired of bakeries, of widows "starting over" after a cheating husband, and of sappy. She wants to laugh out loud. She paid $4.99 for the last book she finished, and she has quit two quiet small-town books this fall.
 
 ---
 
+## Warning (above every score)
+
+**"I'd keep reading, but…"** At the end of the sample I bought it, but I had already been lost twice by the money: the contract in Ch 1, and the clock scene in Ch 2. I kept going for the pit and the kiss. The money is what lost me later.
+
 ## 1. Where I stopped
 
-I finished the book.
+**Ch 06, scene 4 (the bank teller), at about 59%:**
+> "He put the envelope, blank, inside his jacket, in the pocket where his own checkbook lived, and pulled the zipper up over it."
 
-## Pull curve by chapter
+That was three scenes in a row of a flyer, a petition pad and a cashier's check. The two of them had stopped talking to each other, and nobody had made me laugh since the bob-house. I put the phone down and picked up something else. Everything after this point was read only because I was asked to.
 
-| Ch | Pull | Why |
-|---|---|---|
-| 1 | 4 | The locksmith on the mat, the ball in his lane, the pool sheet. I was in. |
-| 2 | 4 | His side. The recording on the counter, the buy-out offer, the card tied to the clutch. |
-| 3 | 3 | The bank and the arithmetic dragged. The lesson and the glowing tape pulled me back. |
-| 4 | 5 | The storm. Setting pins by hand under the table, "Traffic, twelve o'clock," then him telling her about the 187. I didn't put the phone down. |
-| 5 | 4 | The birthday-party Saturday and the kiss at the sign were lovely. Then I skimmed the green ledgers for a while. |
-| 6 | 4 | Supper standing at the counter, the cellar stairs, and then the fight at his store. "You have not heard one new thing in six years" hurt. |
-| 7 | 4 | The check on the hood, the league meeting, the key that wouldn't go in the ignition. The meeting ran long. |
-| 8 | 3 | Arlene was good and the Pine Ridge match was fun. But they're apart the whole chapter, and Denise retold the match I'd just watched. Then more shortfall numbers. |
-| 9 | 4 | "I cannot hold the floor by myself today." The final and Denise with the trophy. The release dated the sixteenth got me. |
-| 10 | 4 | The underwriter call was a bank scene at the moment I wanted them together. The pit and the sign made up for it. |
+## 2. Buy
 
-## The chapter where I'd most likely have put it down for good
+- **After the sample (Ch 01–03): yes.** The blackout in the pit and the kiss under the dead K were enough to pay $4.99, just barely.
+- **After the whole book: no.** The good scenes in Ch 9 and 10 come after the middle I quit in. I wouldn't tell a friend to pay for it.
 
-**Chapter 3**, at the bank. That's where I was least invested and the book was explaining money to me. If I'd been tired that night, I'd have opened something else and not come back. Past Ch 4 I wasn't going anywhere. Ch 8 sagged, but by then I had to know.
+## 3. Pull score per scene (1–5)
 
-## Would I read this author again?
+Scenes after the stop line are marked *(after stop)*.
 
-**Yes.** I'd look for the next one by name, and I'd buy a Denise book.
+| Ch | Scene (first words) | Pull | What I wanted next |
+|---|---|---|---|
+| 01 | "The knock came while Ellen was on the stepladder" | 3 | For them to keep arguing on the step. I had to reread the March first contract to follow it. |
+| 01 | "By six minutes past six the vestibule smelled" | 3 | To know what was in locker fourteen. I skimmed the list of who was in the room. |
+| 01 | "At half past six she bent to the gooseneck microphone" | 4 | More of the two of them holding that ball. |
+| 01 | "'Lane seven is unable for the night,'" | 3 | To see who bought which square on the pool sheet. |
+| 02 | "The store had been open since six" | 4 | More of her against the Bench. |
+| 02 | "The cylinder was half out of her front door" | 3 | To know what she swore to Kate. Ray's loan speech lost me. |
+| 02 | "Her text had come at four" | 3 | Nothing much. It was cute. |
+| 02 | "The credit union's form lay flat under Ray's left hand" | **2** | To understand what had just happened. |
+| 03 | "At ten to nine Ellen stood at the front glass" | 4 | To see thirty-three people stuck overnight. |
+| 03 | "At a quarter past eleven Denise ran a first tape" | 3 | For the lights to come back. |
+| 03 | "On her knees on the pin deck behind lane five" | 4 | For him to find out he missed "unless the numbers say otherwise." |
+| 03 | "The windrow the town loader had left" | 4 | To see what the town says about the kiss. |
+| 04 | "Ray drove past the alley in the dark" | 4 | More of the wrist and the watch. |
+| 04 | "The bell went over the door at half past eight" | **2** | Nothing. |
+| 04 | "Ray was on an upturned pin crate by the workbench" | 4 | More of that radio. |
+| 04 | "Ray stood in the office doorway with his first invoice" | **2** | Only for her to stop reading bylaws at him. The chair at the end was nice. |
+| 05 | "'Mom. Scale of one to ten,' Kate said" | 3 | For Kate to get her answer. |
+| 05 | "At two minutes to twelve Ellen went through the steel door" | 4 | For it to last. |
+| 05 | "The folding chairs had come up from the cellar" | 3 | For the other shoe to drop. I knew it would, and the meeting took a long time getting there. |
+| 05 | "At a quarter to seven Ellen stood at the adding machine" | **2** | Nothing. |
+| 06 | "Every flag out the bob-house window was down on Saturday" | 4 | For her to answer "Did you know I didn't hear it?" |
+| 06 | "The bell over the door went at a minute past six" | 3 | For him to let her finish a sentence. |
+| 06 | "On the last Tuesday before the half, at ten past six" | **2** | Nothing. |
+| 06 | "The teller slid the cashier's check under the glass" | **2** | Nothing. **I stopped here.** |
+| 07 | "Ray got down out of his truck" *(after stop)* | 3 | For her to just take the check. |
+| 07 | "Dale Hutchins's hand flattened a folded sheet" *(after stop)* | 4 | For Ray to turn around. |
+| 07 | "Ellen ran her hand down the lane toggles" *(after stop)* | 4 | For her to put that key somewhere. |
+| 08 | "Gil Arsenault held the house ball out" *(after stop)* | 3 | To read her letter. |
+| 08 | "He had his hand on the bolt before he knew it" *(after stop)* | 3 | For him to take out the letter. |
+| 08 | "Arlene set the plate down in front of him" *(after stop)* | 3 | More Arlene. |
+| 08 | "The door glass rattled in its frame" *(after stop)* | **2** | Nothing. |
+| 09 | "Her hands were empty on Ray's back step" *(after stop)* | 4 | For the radio to stay off. |
+| 09 | "Ray's hands were inside the pinsetter on three" *(after stop)* | 5 | Nothing more. That scene was the book. |
+| 09 | "Hollis held his phone out across the counter" *(after stop)* | 3 | To find out what Kate says. |
+| 09 | "The phone was lit in her hand with Kate's name on it" *(after stop)* | 4 | To see Sunday. |
+| 10 | "The pocketknife in Ray's hand took the cedar off" *(after stop)* | 3 | To understand what Kate meant by "Like this." |
+| 10 | "He stood at the customer side of her counter" *(after stop)* | 4 | To see the third item. |
+| 10 | "His fingers were in the double knot of his bowling shoe" *(after stop)* | 4 | Only the ending. |
+| 10 | "Ray stood at his own counter under the clock" *(after stop)* | **2** | Nothing. |
+| 10 | "The new K was cold glass the length of his forearm" *(after stop)* | 4 | Nothing. It was done, and that was right. |
 
-## 2. Buy: yes or no
+Sample average (Ch 01–03, 12 scenes): **3.33**.
 
-**Yes.** It's a grown-up couple with real jobs, in a town I could draw a map of, and the ending earned its "I love you."
+### Every scene at 2 or under, and the one thing that put it there
 
-## 4. Do I care about these two people?
+- **Ch 02, "The credit union's form…"**: I didn't know what the key on the counter meant, or who had won when the minute hand jumped. I watched a clock without knowing the bet.
+- **Ch 04, "The bell went over the door…"**: Another bank, another loan, another fee, read out from a letter.
+- **Ch 04, "Ray stood in the office doorway…"**: Bylaws, a 2004 notice and "paragraph four." I skimmed the ledger.
+- **Ch 05, "At a quarter to seven…"**: Twenty-six thousand against thirty, four thousand short, said over fries.
+- **Ch 06, "On the last Tuesday before the half…"**: League politics with a man I couldn't place (Dale), over a petition pad.
+- **Ch 06, "The teller slid the cashier's check…"**: A cashier's check at a teller window, which is where I quit.
+- **Ch 08, "The door glass rattled…"**: A release form and "a hundred and fifteen dollars under thirty thousand" at the heart of what should have been the make-up scene.
+- **Ch 10, "Ray stood at his own counter under the clock…"**: The climax is a notary snag and a wire transfer.
 
-**Yes.** By the cellar stairs I cared about them as a pair, not just each one. When she couldn't get the key into the ignition and his truck stayed dark, I wanted to bang on his window myself.
+## 4. Pull curve by chapter (1–10)
 
-## 5. Did anyone make me laugh?
+| Ch | Score |
+|---|---|
+| 01 | 6 |
+| 02 | 5 |
+| 03 | 8 |
+| 04 | 5 |
+| 05 | 5 |
+| 06 | 4 |
+| 07 | 6 *(after stop)* |
+| 08 | 5 *(after stop)* |
+| 09 | 7 *(after stop)* |
+| 10 | 6 *(after stop)* |
 
-Yes, out loud, in bed:
+**Lowest chapter: Ch 06 (4).** After the bob-house the two of them barely speak. The chapter turns into a flyer on a board, a petition pad passed down the settees, and a man buying a cashier's check. This is where I put it down for good.
 
-> Ellen was squaring the 10 pin on its spot. She didn't look up.
-> "Traffic, twelve o'clock, one mile."
-> He laughed until he had to put a hand down flat on the boards to stay sitting up.
+## 5. Do I care about these two people?
 
-Also "I make one supper… It has never failed." / "What do you make the second night?" / "That one." And Danny: "Dad. Whatever you're shopping for now, we don't carry it. I checked."
+**Yes.** Ray won me in the pit with the pin turning in his hands. Ellen won me with the tape she listened to after the near-miss. But I kept losing them behind columns of numbers.
 
-## 6. Did anyone make me want?
+## 6. Did anyone make me laugh?
 
-> He kissed her, or she kissed him. Afterward he couldn't have sworn to which. Her nose was cold against his cheek. Her bare hand closed on the front of his work jacket and held a fistful of canvas, and somewhere in it the shaking quit.
+Yes, out loud at the first one:
+- "The locksmith's my father," Danny said. "He's at your place. It's Tuesday, so he's about four feet from you with a shoe in his hand."
+- "He's the youngest of the four of you."
+- "Sleeping is free. Strings are not."
+- "Wilco means you will comply," she said. "I have not asked you for anything yet."
+- "How much of it standing?" / "To the third turn."
 
-Close behind it was "I'd like to be asked in. Here. With you running it."
+## 7. Did anyone make me want?
 
-## 7. The three most boring passages
+Yes:
+- "When he went on, the light went ahead of his hands to the place they were going next, and was waiting there when they arrived." (Ch 02)
+- "Under the band her pulse was going quick, the way a motor runs fast before it's warmed through." (Ch 04)
+- "I keep the position. I want you on it with me. Today, and after Monday, whatever the bank decides." (Ch 09)
 
-1. **About 21%, Ch 3 opening:** Judy's two numbers. "The new loan costs about twenty-four thousand a year. The committee wants a quarter more than that coming in… Twenty-five thousand cash on the twenty-eighth…" I skimmed the bank.
-2. **About 47%, Ch 5, Ellen alone with the ledgers:** "She lined up her own December and January by night of the week against Arlene's last three winters…" then the tape and the "She worked the alternatives one at a time" stretch. *Tried to give him a ham* and *Voyons donc* were wonderful. The adding-machine paragraphs around them I skimmed.
-3. **About 81%, Ch 8, the whiteboard morning:** "Behind the register the pace sheet carried every dollar of it and still said what it had said all week… Eighteen hundred dollars short on Judy's first line… Twelve hundred and fifty short on her second." By then I couldn't remember which line was which, and I didn't try. Then Denise retold the Pine Ridge match, which I had just read.
+## 8. The three most boring passages
 
-## 8. What I think was going on, and what I'd guessed
+1. **About 10%, Ch 02:** "Arlene had this place listed two years… The credit union sits tomorrow at five. I'm asking it once." Then "Granite Lakes writes me the loan the day this winter clears thirty thousand." Two lenders and a committee in one breath, while he was fixing a lock.
+2. **About 35%, Ch 04:** "December of two thousand four. Posted on the board in Arlene's hand, charged from the next league night." Then "Paragraph four says 'as the league's bylaws provide.'" I skimmed to the chair.
+3. **About 57%, Ch 06:** "'Are you sure, Mr. Gagnon? It's nearly all of it.'" The whole bank-lobby scene, pen on its bead chain and all.
 
-I called the big fight from the handshake in Ch 3: he didn't hear "unless the numbers say otherwise." I guessed early that the ledgers would show the league losing money and Ray working free, and that Arlene picked Ellen on purpose. All of that came true, so none of it surprised me. What did surprise me was the release being dated the sixteenth, before she asked him in the pit. I'd seen him sign it at the lawyer's, but I'd forgotten the date until she read it twice. I expected him to win the Memorial with Linda's ball, and he didn't. Denise winning it was better. I never quite understood whether Ellen made her numbers on her own or because of the two teams he won back, and the book seemed to want me to wonder. I let it go. I still don't know exactly what Arlene told Ray about why she picked Ellen in a way Ellen ever heard. "Ask him" sounded like Ellen would, and I didn't see it happen. Kate turning up for one day and running the refund line made me wish she'd been in it more.
+## 9. Three scenes I'd tell a friend about
+
+1. The blackout, with the two of them setting pins by hand behind lane five, "Traffic, twelve o'clock, one mile," and her near-miss story (Ch 03).
+2. The radio day: "Pit, say intentions." / "Intentions are to quit." / "Unable." (Ch 04).
+3. The D-side briefing on the catwalk, with "Readback correct." (Ch 09).
+
+## 10. What I think is going on (as of my stop, at 59%)
+
+From the moment she thought "No readback" in Ch 3, I knew he had missed "unless the numbers say otherwise." After that I was waiting for the scene where he finds out. My predictions at the stop point:
+- She will confess in front of the league that she knew he hadn't heard it, and he will put her key back.
+- He will offer her the cashier's check, and she will refuse it.
+- She will come up a little short, ask Kate for permission to spend her own savings, and get it.
+- Linda's name will go back on the league's Memorial.
+- Locker fourteen will open in the last chapter, the K will be lit on the last page, and "Ettle Lanes" will read right.
+
+Every one of those happened. The page gave the whole back half away by Ch 6.
+
+## 11. Would I read the next book by this author?
+
+**No.**
