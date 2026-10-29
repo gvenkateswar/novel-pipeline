@@ -34,3 +34,18 @@ Word count: about 3,400 by estimate (draft 3,304, net about +95). That is inside
 - Ray's last box left two pins standing, and Lakeview won by two pins. The Memorial cup was lost on Linda's ball, on the page.
 - Dale saw Linda's name given to next year's Open and let it go without a word. No Ch 08 condition is restated or voted on.
 - Arlene's "You two done sitting in cars?" pays the Ch 08 plant. It implies she knows Ellen is at the bank and Ray is going there.
+
+## Dialogue doctor (draft-revised.md → draft-dialogue.md), Oct 29
+
+## Dialogue log
+- Scene 1: exchange added before the phone. Ray goes at it sideways and changes the subject ("Every bob-house on the lake just got a Sunday off it never asked for"), the not-asking under it. Ellen dodges in her own voice by measuring his pencil ("That one's an inch and a half now"): exact, and it tells him she has watched him wait. The phone cuts in before he can answer. Kate's call is unchanged.
+- Scene 2: Denise's run-on is one beat shorter ("she told me" becomes "told me"). The joke and the qualifier stay.
+- Scene 2: Ray's comeback added, in his and-chain with the weight on the last word ("You'd feel bad for about a box, Denise, and then you'd want to know who does the engraving."). He teases her about Linda without flinching (bible, Ray/Denise), rounds the number, and doesn't wait for a laugh. No new fact. It sets up Denise sitting silent with the cup and never asking.
+- Scene 3: no change. Every line is Ellen's (full stops, an ordinal, a true sentence) or Ray's (rounding, "about", a date by what broke). The judges' lines are untouched. s3 measures about 810 against the 800 floor, so the iron-step paragraph was left alone.
+- Scene 4: Judy's "I can hear you, Ray" is now cued by a sound of hers, "The cellophane stopped." That is the laugh's comeback, and it keeps the cue rule for her lines on the phone.
+- Scene 4: "The Memorial crowd at Denise's fryer closed part of the gap on Sunday, and this page closes the rest." becomes "Sunday's snack bar closed part of the gap. This page closes the rest." That is Judy's register: criteria, short, read into the record at a signing. The Sunday-money fact from the continuity revision stays.
+- Scene 4: Judy's condition is unchanged: one sentence, plain, with "four" and "the wire" as its only procedure words. The phone passage still has four voices (Ellen, Judy, Ray, Danny), one per paragraph, each cued. Normie and the Bench have no line, per beats flag 9.
+- Scene 5: no change. Every line in it is protected or a model line.
+- Lines added: 4 (Ray, Ellen in s1; Ray in s2; Judy's sound cue in s4)   Lines cut: 0 (one Judy sentence rewritten shorter; one clause trimmed in Denise's speech)
+- Word count: about 3,443 (3,405 plus 38), under the 3,456 ceiling. Floors held: s2 above 900, s3 about 810, kiss beat about 193, s4 about 725.
+- Tag-strip test: pass. Kate rambles and cuts herself off. Ellen speaks in full stops and exact measures. Ray uses and-chains, rounding and "about". Judy speaks in criteria. Denise runs on and qualifies. Arlene uses full names and money as weather. Danny speaks in inventory. Hollis is flat. The closest pair is Ray's "I heard her." and Ellen's plainest lines in s3; context and the surrounding rhythm carry it.
