@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–02, 6,172 words)
+# Audit — ten-days-out (chapters 01–02, 5,941 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -22,7 +22,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Gloves off | 1 | 0 | 1 | 5 |  |
 | Bare-handed | 0 | 0 | 0 | 5 |  |
 | Her bare hands | 0 | 0 | 0 | 3 |  |
-| "Bethie" (Ned only) | 1 | 1 | 2 | 6 |  |
+| "Bethie" (Ned only) | 1 | 0 | 1 | 6 |  |
 | "Water side" | 0 | 0 | 0 | 2 |  |
 | "Me and God" | 0 | 1 | 1 | 3 |  |
 | "Ned's color" | 0 | 0 | 0 | 2 |  |
@@ -142,7 +142,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | LifeFlight | 0 | 0 | 0 | 3 |  |
 | The ballfield | 0 | 0 | 0 | 3 |  |
 | Deck lights | 0 | 2 | 2 | 3 |  |
-| Sleet | 2 | 2 | 4 | 12 |  |
+| Sleet | 2 | 1 | 3 | 12 |  |
 | Woodsmoke | 0 | 0 | 0 | 3 |  |
 | Thrum | 0 | 0 | 0 | 2 |  |
 | Her Tess voice (Beth's mimicry) | 0 | 0 | 0 | 1 |  |
@@ -156,19 +156,18 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 ### Frequent 3–5 word n-grams (4+ uses, whole book)
 
 - 4× “the fuel float”
-- 4× “the outer door”
-- 4× “the harbor road”
+- 4× “the door went”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
 - jaw: 0 (0.0/1k)
 - knuckles?: 1 (0.2/1k)
 - throat: 1 (0.2/1k)
-- reath: 4 (0.6/1k)
+- reath: 4 (0.7/1k)
 - pulse: 0 (0.0/1k)
 - chest: 1 (0.2/1k)
 - hands? (stopped|stilled|went still|flat): 0 (0.0/1k)
-- shoulders?: 8 (1.3/1k)
+- shoulders?: 7 (1.2/1k)
 - gaze: 0 (0.0/1k)
 - tightened: 0 (0.0/1k)
 - swallowed: 0 (0.0/1k)
@@ -178,7 +177,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Ch | Words | Mean sent. | SD | ≤5-word share | Codes/1k | Numerals/1k | ALLCAPS/1k | Max opener run | Flags |
 |---|---|---|---|---|---|---|---|---|---|
 | 01 | 3,103 | 15.2 | 11.9 | 21% | 0.0 | 0.0 | 0.0 | 2 | short |
-| 02 | 3,069 | 17.4 | 11.2 | 12% | 0.0 | 0.0 | 0.7 | 3 |  |
+| 02 | 2,838 | 15.6 | 10.4 | 18% | 0.0 | 0.0 | 0.7 | 3 | short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -193,7 +192,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 - quiet: 5 (0.8/1k)
 - humm?(ing|ed)?: 2 (0.3/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 9 (1.5/1k)
+- still(ness)?: 10 (1.7/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 0 (0.0/1k)
@@ -220,9 +219,9 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 0 | 0.0 | 0.0/1k |  |
 | sentence-initial And/But/And yet | 1 | 0 | 1 | 0.2 | 3.0/1k |  |
 | em dashes | 1 | 1 | 2 | 0.3 | 2.0/1k |  |
-| semicolons | 0 | 5 | 5 | 0.8 | 2.0/1k |  |
-| perception filter (she noticed / could hear) | 2 | 0 | 2 | 0.3 | 1.0/1k |  |
-| one-sentence paragraph | 17 | 18 | 35 | 5.7 | report |  |
+| semicolons | 0 | 3 | 3 | 0.5 | 2.0/1k |  |
+| perception filter (she noticed / could hear) | 2 | 1 | 3 | 0.5 | 1.0/1k |  |
+| one-sentence paragraph | 17 | 17 | 34 | 5.7 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 

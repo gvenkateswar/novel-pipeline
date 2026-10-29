@@ -1,26 +1,28 @@
 # Chapter Two: The Weather Hold
 
-The back door shook on its latch, iron on iron, and stopped, and shook again.
+She had let Reyes out through the mudroom to look at the back steps, and now the kitchen door wouldn't let him back in.
 
-Somebody in her mudroom was trying to come into her kitchen politely, and then less politely, and the old iron wasn't having either. Beth lifted the thumb-piece hard and put her shoulder to the boards, and the door went open on him.
+It shook on its latch, iron on iron, and stopped, and shook again. Beth lifted the thumb-piece hard and put her shoulder to the boards, and the door went open on him.
 
-Dane Reyes stood in the mudroom with snow in his hair and his right hand on his hip under the jacket, and behind him the outer door stood open on the weather.
+He stood in the mudroom with snow in his hair and his right hand on his hip under the jacket. Behind him the outer door stood open on the weather.
 
 "Lift and shove."
 
-He shut the kitchen door between them and tried it: a clank, a rattle, the whole door bucking. Then he lifted and shoved, and it came, loud, and the third time it opened without a sound.
+He shut the door between them and tried it from his side: a clank, a rattle, the whole door bucking. Then he lifted and shoved, and it came, loud. The third time it opened without a sound.
 
 "Nobody who's been in this house makes the noise you made first."
 
-She went by him and outside onto the step, into a wind making from the east with the first of the snow in it. Below the road the fuel float was bare. She went along the moorings with her eyes the way she'd go along a chain with her hand, and found the skiff past the last of them: one man at the oars, his face to her hill, pulling long and even for the outer harbor. He rowed like somebody who had learned before he could walk.
+He nodded, as if she'd handed him a fact he could use, and pushed the wet hair off his forehead with the heel of his hand. Snow had caught in the gray at his temples and was melting there, and she watched one drop run down past his ear all the way to his collar.
 
-A squall came down across the water in a gray wall with snow inside it and took the outer moorings, and then the skiff, two lengths short of any boat. She stood in the cold and looked at the place where he had been while the moorings came back out of the snow one at a time, and he didn't.
+She went by him and out onto the step, into a wind making from the east with the first snow in it. Below the road the fuel float was bare. She went along the moorings with her eyes, one ball at a time, and found the skiff past the last of them: one man at the oars, his face to her hill, pulling long and even for the outer harbor. He rowed like somebody who had learned before he could walk.
 
-Dane said nothing beside her, his eyes on the same place.
+A squall came down across the water in a gray wall with snow inside it. It took the outer moorings, and then the skiff, two lengths short of any boat. She stood in the cold and watched the place where he had been while the moorings came back out of the snow one at a time. He didn't.
 
-He made the call there under open sky, with the harbor at his back. She went in, and through the kitchen window she watched his mouth and couldn't hear a word of it, and she put a stick in the stove it didn't need.
+Reyes said nothing beside her. His eyes were on the same place.
 
-He came in with snow on his shoulders. "Portland knows about your man with the heel now, which they didn't this morning." He let that sit long enough for her to hear it. "And the grand jury sits Monday. It's the last sitting before Pelletier walks, and they'd like you in front of it."
+He made the call there under open sky, with the harbor at his back. She went in, and through the kitchen window she watched his mouth move and couldn't hear a word of it. She put a stick in the stove it didn't need.
+
+He came in with snow on his shoulders. "Portland knows about your man with the heel now. They didn't this morning." He let her hear that. "And the grand jury sits Monday. It's the last sitting before Pelletier walks, and they'd like you in front of it."
 
 She looked once at the subpoena under the barometer.
 
@@ -32,135 +34,125 @@ She looked once at the subpoena under the barometer.
 
 "Not across."
 
-"Then tonight I want one way in from the land, a door that locks, and somebody awake behind it. I'll be the somebody." He didn't say where. He waited, the way he had waited on the ramp.
+"Then tonight I want one way in from the land, a door that locks, and two people awake behind it, one of whom is me." He didn't say where. He stood by the stove with his hands open and let her get there.
 
-She looked down at the boat in the slip, going white along her rails, and then round the kitchen, at her father's chair and his clock and the door it had taken the marshal three tries to open quietly.
+She looked down at the *North Reach* in the slip, white along the rails, with the one road down to the boat from the shore and Ned aboard with the coffee on and the heater going. Then she looked round the kitchen, at her father's chair and his clock and the door it had taken the marshal three tries to open quietly.
 
 "Boat."
 
 * * *
 
-The wind came down the store dock with snow in it, the harbor going dark below, and the bell over the door knocked on its spring every time it gusted.
+The last of the light was going out of the harbor when Tess came down the granite pier with a clipboard under her oilskin, blowing from the hill.
 
-Tess had the door propped on her hip and the pencil through her glasses. She ran the storm net, the island's roll call on the radio every night of weather, so nobody's house went dark without somebody knowing why.
+Beth was on the pier with a spare line, taking a second turn round an iron post. Below her the ferry lay in the slip with her bow shoved up under the bridge, the steel ramp the cars drove aboard on, hung from two towers. Every sea lifted the boat into it, and the bridge ground and knocked, a long iron groan, and again.
 
-"Calloway. I've got Whitcomb aboard his boat, the north end saving their diesel, and nothing from you. Where you sleeping?"
+"Calloway. Net's tonight. Aboard or ashore for the roll?"
 
 "On the boat."
 
-Tess wrote it in ballpoint on the back of her left hand, *CALLOWAY — BOAT*, under a column of other names, and blew on the ink. Beth watched her own name dry on somebody else's skin.
+Tess wrote it in ballpoint on the back of her left hand, *CALLOWAY — BOAT*, under a column of other names, and blew on the ink. Then she looked past Beth at the marshal, standing a stride back in the snow in his wrong boots.
 
-Tess dug in her red vest for the pen cap, and a fold of bills came up with it, hundreds on the outside. It was back in the pocket before the cap was on.
+"And what do I call you, when I'm not calling you Marshal?"
 
-"Milk's up a quarter till the boat runs, bread's gone, eggs I've got till Easter. Marshal, you go on the net as 'plus one.' Free to say, two dollars to hear." She had it all out at once, brighter than the weather called for, and swung the door wider on the cold.
+"Dane."
 
-"What's it cost to stay off it?"
+"Dane." She wrote that too. "Like the dog."
 
-"On my net? More than a marshal makes."
+"Like the dog," Dane agreed.
 
-Beth looked at the pocket, and so did Dane, and neither of them said anything.
+Tess dug in her red vest for the pen cap, and a fold of bills came up with it, hundreds on the outside. It was back in the pocket before the cap was on. Beth saw it. So did Dane.
 
-Out on the visitors' mooring a dragger's deck lights came on, stem to stern, with nobody on her deck. She was a Gloucester boat, and Dane's eyes went to her and stayed.
+"D batteries are up a quarter till the boat runs," Tess said, loud and quick, "and the boat's not running. Lamp oil I've got. Sense I'm out of."
+
+Behind her, out past the moorings, a big steel fishing boat lit her deck lights stem to stern with nobody on her deck. Dane's eyes went to her over Tess's shoulder and stayed.
 
 "That one?"
 
-"In for the weather."
+"Gloucester boat," Beth said. "In for the weather."
 
-Tess went in with her inked hand held up to dry, and the bell swung on its spring behind her.
+Up the slip the bridge groaned, and the near tower gave a little, a lean you could see against the last gray in the sky.
 
-* * *
+"Ms. Marr." Dane said it as politely as he'd said anything all day. "I'd be grateful if you'd run the rest of your roll call from the store, because that tower's leaning toward where you're standing, and I'd like to be wrong about it from a distance."
 
-Beth went forward down the one lane of steel between the two trucks, the fire company's propane truck and the co-op's bait truck, chained there for the two o'clock that never ran. The tide was coming in on top of the storm. Every sea lifted the boat and shoved her bow up under the steel bridge the cars drove across from the shore, and the bridge ground on its pilings over her head, a long iron groan and a knock, and again.
+Tess looked at the tower and then at him, pricing both. "Wrong's free, Marshal. Right goes on your tab."
 
-She wanted the bow lines doubled before the top of the tide, by her own hands. Dane had asked her twice to come in. When she didn't, he came out, and now he was a stride behind her in the driving snow.
+She went up the pier quick with the inked hand held out to dry, and a minute later the store bell rang faintly down the wind.
+
+Beth doubled the lines that held the bow to the pier at dusk, and again in full dark, with the tide coming in on top of the storm. Dane had asked her twice to come in. When she didn't, he stayed a stride behind her, down the one lane of steel between the two trucks left for the two o'clock that never ran.
 
 She had the spare line in her fist when something above them screamed.
 
-It came from the seaward end of the bridge, where it hung from its towers, a shriek she heard in her back teeth, and a cable came across the bow at head height, whipping, alive.
+The shriek came off the top of the near tower and went into her back teeth, and a cable came across the bow at head height, whipping, alive.
 
-He hit her from behind and took her down flat under the bulwark, the waist-high wall of steel along the bow, and on the way down her fist went into his collar and closed.
+He hit her from behind and took her down flat under the rail, and on the way down her fist went into his collar and closed.
 
-Then it came to her in order. The steel, so cold against her cheek it burned. Then him, all of him, across her back, his knee by her hip, his arm over her head. Then his voice at her ear, low, and it didn't stop.
+She got it in order. The steel, so cold on her cheek it burned. Then him, the whole length of him across her back, his arm over her head. Then his voice in her ear, low, running on.
 
-"That was a cable. It went over us and over the bait truck, and I think it's in the water. I'm on top of you. That's me, I'm heavy, I'm sorry about it. Keep your face on the steel. The bridge is still up. The left tower's leaning, and I don't love the lean. I'm staying right here until you tell me to move, and you're not telling me anything, so we're staying."
+"Cable. It's going over us, it's going over the bait truck, it's in the water, I can hear it in the water. That's my knee by your hip, sorry about the knee. The tower's still up. I can see the top of it from here, and it's leaning worse. Keep your cheek on the deck. You're very good at lying down."
 
-She told him nothing. Under his voice she heard the cable's end rattle along the bow and go quiet; the bridge groaning; a sea booming hollow under them; a hum up in the towers, high and thin, from whatever was still holding.
+She said nothing. Under his voice she heard the cable's end rattle along the deck and go quiet; the bridge groaning; a sea booming hollow under them; a hum up in the towers, high and thin, from whatever was still holding.
 
-The cable lay still. A sea lifted the two of them and set them down again, and neither of them moved, and her fist stayed in his collar.
+The cable lay still. Her fist was still in his collar when she noticed it was, and she left it there for one more sea.
 
 Then the bridge came down.
 
-It came down on the bow with a sound she took through the deck into her ribs, and twisted, and settled with its far end in the water: the road off the island, folded across her boat. Beth let out all the air she had. Her shoulders came down from where they had been since the night freight.
+It folded onto the bow like a dropped drawbridge, its far end in the water, with a sound she took through the deck into her ribs.
 
-Then she was up. The boat had to come off before that wreck ground through her. She threw the bow line across the gap, and the eye dropped over an iron post on the granite pier beside the slip the first time. Dane had the tail round the bow cleat and was taking his turns the wrong way.
+Then she was up. The boat had to come off the slip before that wreck ground through the bow. She threw off the doubled lines, and the boat moved under her, and she threw the long spare across the gap, and the eye dropped over the iron post on the pier the first time. Dane had the tail round the cleat and was taking his turns the wrong way.
 
 "Other way. Unless you want to go with it."
 
-He took them the other way, and the line came taut between the boat and the stone and held.
+He took them the other way, and the line came taut between the boat and the stone and held. Ned backed the *North Reach* off with the bridge scraping down her bow and laid her alongside the pier as if it were a Tuesday in June.
 
-Ned backed her off the slip with the bridge scraping down her bow, and laid her in alongside the pier as if it were a Tuesday in June.
+The power went in the same surge. The lights along the Harbor Road went out together. Out past the moorings the Gloucester boat didn't blink.
 
-The power went in the same surge. The lights along the Harbor Road went out together, and the harbor went black. Out on the visitors' mooring the dragger didn't so much as blink.
+Ned came down the outside ladder with a flashlight and went forward into the dark of the bow, a man who couldn't swim a stroke, and came back wet to the shins.
 
-Ned came down the outside ladder with a flashlight. "Water's coming in up there." He went down the hatch forward, into the space right up in the bow under the car deck. Ned couldn't swim, and nobody on the island knew it but her, and she went down after him.
+"There's a crack in her up there, and the water's coming through it." He put the light on the wreck across the bow. "Well. That's the bridge."
 
-He stood in water to his shins with the pumps going and the flashlight on a long crack in the plating, the sea coming through it in a sheet, and he looked at it the way he looked at weather.
-
-"Well," Ned said. "That's the bridge."
-
-Dane's head and shoulders were in the hatch above them. "Does it do that a lot?"
+Dane was getting up off one knee. "Does it do that a lot?"
 
 "Just the once."
 
-"When does it run again?"
+Ned watched the snow come through his light. "She's not carrying anybody till somebody from the Coast Guard has his hand on that crack. I'll call it in tonight, by the book."
 
-"She," Beth said.
+"And how long does that usually take?"
 
-"When does she run again?"
+"Ten days," Ned said, "if the state gets a barge out."
 
-"She's not carrying anybody till somebody from the Coast Guard has his hand on that." Ned put his own hand beside the crack. He'd call it in to the Coast Guard tonight, by the book. "Ten days, if the state gets a barge out."
+Dane's hand went to the pocket with the phone in it and stayed there.
 
-Dane came down two rungs and laid his hand on the hull. "At least she's steel."
+"At least it's steel."
 
 "Steel doesn't burn," Ned said. "Everything in it does."
 
-He handed Beth the flashlight and bent to the pump intake, his beard nearly in the water. "Hold it there, Bethie. No, there." She held it until he grunted, and then she climbed out.
+Ned took them aft with the light. At the stern the deck ran out low to the black water behind a chain, and a sea slopped in round their boots.
 
-The car deck was dark, and the whole island was black from the shore to the spine of it, until a generator caught somewhere along the Harbor Road and a kitchen window came up yellow, and another farther on, one window at a time, like somebody walking the shore with a lamp. Out on her mooring the dragger lay lit from end to end, as if nothing had happened.
+Dane looked at the chain. "Anyone with a skiff."
 
-* * *
+"Nobody's coming over that stern in this."
 
-At the stern the deck ran out low and open to the black water, with nothing across it but a chain. Ned had come aft with them, his flashlight on the chain. A sea slopped in around their feet and drained away.
+"I believe you." Dane said it politely, to the chain. "But the whole island's had her on this boat since the net. So tonight she isn't on it. Thank you, Captain."
 
-"Anyone with a skiff," Dane said.
+He went up the aluminum gangway, its wheels grinding on the granite each time the boat surged, and along the pier toward the road end, out of earshot.
 
-"Nobody's coming over that stern in this," Ned said.
-
-"I believe you." Dane said it politely, to the chain. "And the whole island's got her aboard tonight, off the net. Nobody's looking at her house."
-
-Ned looked at the chain a while, and when he spoke it was to the weather. "Lumpy."
-
-Dane went up the aluminum gangway to the pier, its wheels grinding on the granite each time the boat surged, and on to the road end, out of earshot.
-
-Ned pulled off his gloves and held them out to her without a word, as he did every winter. She put them on, warm from his hands.
-
-"Where'll you be?"
+Ned put the light on the chain. "Where'll you be?"
 
 "Home. Don't tell anybody."
 
-"Nobody but me and God." He tapped the handheld on her coat, which lived on nine. "You need me, nine. Like your dad."
+"Nobody but me and God." He pushed his gloves into her hands and tapped the handheld on her coat, which lived on nine. "You need me, nine. Like your dad."
 
-She went up the gangway with the wheels grinding under her, and at the top she glanced down. Ned had already stopped on his way forward to the pumps and turned, the way he always did, and he nodded to her once and went on.
+He went forward toward the pumps. Halfway along the deck he turned in the dark, the flashlight hanging from his hand, and gave her one nod, and went on.
 
-They went home by the shore with no lamp, her first; it was her shore. Sleet off the water in her face, rockweed under the snow, and the knee-high ledge below the church that her feet stepped over without asking her, and that she heard him find behind her with his shin.
+From the road end Dane whistled once, low. She was already on the gangway, the wheels grinding under her.
 
-The back steps were iced, so she thumbed the flashlight on, and they came up out of the dark glazed and gray, and she was most of the way up before he spoke.
+* * *
+
+They went home by the shore with no lamp, Beth first, over rockweed and new snow, and she heard him find the knee-high ledge below the church with his shin. The back steps were iced, so she thumbed the flashlight on for the length of a few breaths, and they came up out of the dark glazed and gray.
 
 "Light."
 
-She killed it, and in the dark she went in through the outer door and across the mudroom, found the inner latch under her thumb in Ned's wool, lifted it and shoved, and the kitchen door went open without a sound.
-
-* * *
+She killed it. In the dark she lifted the kitchen latch and shoved, and the door went open without a sound.
 
 The mudroom's outer door knocked against its latch in every gust. A hollow knock, then nothing, then the knock.
 
@@ -168,15 +160,15 @@ They sat on the kitchen floor with their backs to the chimney, the one wall in t
 
 Beth knew the set of him. The man in the skiff had sat that way, square to her house. Standing still, from up here, a man showed you no limp at all.
 
-"Him, maybe," she said, and Dane said, "Maybe."
+"Him, maybe," she said.
+
+"Maybe."
 
 The door knocked.
 
 "Who's awake?" Dane said, low. "Give me the island."
 
-So she gave it to him in a whisper, house by house. The house past the co-op was on candles, saving its diesel, the way it did every blow. Russ was the *Second Wind*, and tonight he'd be aboard her with the radio up and the heater going. The two yellow windows at the bend in the road would have the pair of them married by Tuesday and the marshal's people looked up by Wednesday. Ida Dyer had her scanner on; she always did, and she'd have heard the bridge go.
-
-Tess had done the net by now, so Beth did it for him, bright and quick, net control on a bad night:
+So she gave it to him in a whisper. The two yellow windows at the bend in the road would have the pair of them married by Tuesday and the marshal's people looked up by Wednesday. Tess had done the net by now, so Beth did it for him, bright and quick, net control on a bad night:
 
 "Calloway, aboard. Marshal, aboard." A small pause, exactly Tess's. "Allegedly."
 
@@ -200,19 +192,25 @@ She waited.
 
 "You. Since this morning."
 
-She put her face in the blanket and laughed without a sound. It shook her against his shoulder, and his knee was against hers, and neither of them moved it.
+She put her face in the blanket and laughed without a sound. It shook her against his shoulder, and his knee was against hers.
 
 A little after eleven an engine came up the Harbor Road from the village end in low gear, a pickup with no lights. It slowed under the house on the road side and idled there, and the idle came up through the floor into her.
 
 "Still," Dane said, on a breath, and then nothing.
 
-The door knocked, and the pickup went on up the road and was gone. For as long as it had sat there he hadn't said one word, and she had heard every second of that.
+The door knocked. The pickup went on up the road and was gone. For as long as it had sat there he hadn't said one word, and she had heard every second of that.
 
-The boat was crippled and open at the stern, the storm was on, the truck could be waiting up the road, and the brick at her back and the gun on his hip were the best she had.
+"I'm sorry about the floor," he whispered.
 
-"Portland has to hear that," he said. "And the phone needs sky."
+"It's my floor."
 
-He went out the front, to the road side, and looked a long moment up the road the truck had taken before he turned to the house. Through the front-room window there was almost nothing of him to see but a faint glow under his chin. The house stood between him and the harbor, and the back steps.
+"Then I'm sorry about the boat, which is open at the back, and the truck, which could be sitting up the road with its engine off. This brick is the best wall on the island, and it's what I've got." He was already getting up. "Portland has to hear about the truck."
+
+He went to the front door and opened it and stood on the step with his back half turned to the house so the phone could see the sky.
+
+"I'm on the front step, the length of the hall from you," he said. "You can see me."
+
+She could. Through the open door there was almost nothing of him but a faint glow under his chin, and past him the road the truck had taken. The house stood between him and the harbor, and the back steps.
 
 The mudroom door knocked, and the next gust went over the roof, and the door didn't.
 
@@ -220,11 +218,11 @@ The one after came hard off the water and shook the kitchen window in its frame,
 
 She listened. Her father's alarm clock on its shelf, going on. The wind on the clapboards. Snow ticking at the window. From the mudroom, nothing, and nothing, and nothing.
 
-She went down the hall without a light, along the wall where the boards didn't talk, and opened the front door a crack and got him by the sleeve. At his ear: "Don't talk. Door's gone quiet."
+She went down the hall without a light, along the wall where the boards didn't talk, and reached through the open front door and got him by the sleeve. At his ear: "Don't talk. Door's gone quiet."
 
-Back at the brick his hand was on the gun, and then he talked, so low it came to her through his shoulder, and he didn't stop.
+Back at the brick his hand was on the gun, and he talked so low it came to her through his shoulder.
 
-"I'm on your right. The brick's at your back, and it's still warm, which is good of it. Your father's clock is going to keep going, and that's fine, let it. Anything that comes through that door comes to me first." His hand found her knee under the blanket, once, and went back to the gun. "He comes to us. Not the other way."
+"I'm on your right. The brick's at your back, and it's still warm, which is good of it. Your father's clock is going to keep going, and that's fine, let it. Anything that comes through that door meets me first." His hand found her knee under the blanket, once, and went back to the gun. "Let him come to us."
 
 In the snow-light from the window, the clock's hands on its shelf stood at twenty to twelve.
 
@@ -244,4 +242,4 @@ He shut both doors and came back to the brick, and didn't sit.
 
 "You."
 
-She saw it again: the small glow under his chin out in the front yard, a few minutes before the door went quiet.
+She saw it again: the small glow under his chin out on the front step, a few minutes before the door went quiet.
