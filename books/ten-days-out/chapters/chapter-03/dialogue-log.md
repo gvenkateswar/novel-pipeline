@@ -23,3 +23,22 @@
   - Ned: keeps his subject ("Nobody but—").
   - Arsenault: first names and advice that is a threat.
   - Watch item for the voice editor: Russ "asked the coffee in his hand" and Tess "told it" (the phone) are two lines in one scene spoken to objects. Don't add a third.
+
+## S2 after scene tournament
+
+*Dialogue doctor, October 29, 2026. Input: chapters/chapter-03/draft-revised.md (2,990 words). The S2 winner is Variant B. Output: chapters/chapter-03/draft-dialogue.md, about 3,000 words (+9; orchestrator to confirm with wc -w; band 2,622–3,078). S1 and S3 were copied across unchanged.*
+
+- Scene 2: a light pass. The tournament text already runs on tactics: Tess uses leverage (twenty-two forty, "who else has a window"), nostalgia (the dances), orders (the cot) and the tag as a weapon. Beth refuses in four words, corrects in the third person ("No. She isn't."), and answers the tag with "I'm not your money, Tess." Two lines were changed:
+  - **Russ, the line given its shape:** "Get a look at him?" became "Get a look at him?" Russ said. "Didn't, did you." Before, the bare question could have come from anyone. Now he asks and answers it himself, which is his tag-strip cue, and it puts a little needle on Dane ahead of the restroom line.
+  - **The laugh gets a refusal:** after Dane's restroom line, Tess says "Restroom's for customers." It is in her store-and-charges voice, says no to the joke, and goes on with the owing motif after "Put it on the government's account." It is said aloud, so Tess is still not narrated as laughing.
+- Locked lines kept verbatim: the tag line; "like a man looking for the restroom"; "walked you home from every dance"; "Hand me the milk"; "No. My money I can count."; "I put you to bed the winter your mother got on the Bangor bus."; "Then you know I don't go where I'm put."; "I owe you a floor, Ms. Marr. Put it on the government's account."; "Nobody but—" / "Me and God. I know."; the blankets going back under the counter.
+- Not added anywhere: "Red's Ned's", "Am I in it?", "thirty-one" (S2 has none). "Bethie" appears once, from Ned. Dane's S2 lines are "Coffee," the floor line (two sentences) and the restroom line (two sentences).
+- Lines added: 2 (Russ "Didn't, did you."; Tess "Restroom's for customers.")   Lines cut: 0
+- Tag-strip test: pass.
+  - Tess: headlines, store and charges, "Beth" once.
+  - Beth: dropped subjects, verdicts, the lie that comes too short and ends on a task.
+  - Dane: whole sentences ending on a dry turn.
+  - Russ: asks and answers himself, "somebody."
+  - Arsenault: first names, advice that reads as weather.
+  - Ned: keeps his subject, "Bethie," the generator.
+- Watch item for the voice editor: "They're all hard," Tess said, and "Restroom's for customers," Tess said, are both short Tess deflections. Don't add a third.

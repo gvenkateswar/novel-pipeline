@@ -14,7 +14,9 @@ He poured kettle water into the basin and bent to the mirror. "Your father didn'
 
 "Enough to shave."
 
-He shaved slowly. He tipped his head back for the throat, and she watched the long line of it go taut under the lather, and the razor come up it in short strokes, and the cords in his forearm move when he rinsed the blade and tapped it twice on the edge of the basin, which was what her father had done, and which nobody had shown him. His sleeves were shoved up past the elbow, and his forearms were paler than his hands.
+He shaved slowly. He tipped his head back for the throat, and she watched the long line of it go taut under the lather and the razor come up it in short strokes.
+
+When he rinsed the blade, the cords in his forearm moved, and he tapped it twice on the edge of the basin, which was what her father had done and nobody had shown him. His sleeves were shoved up past the elbow, and his forearms were paler than his hands.
 
 A man was in her father's kitchen, at her father's sink, being careful, and she was standing by the stove with a mug going cold in her hands and looking at his mouth when he drew his upper lip down for the razor. She told herself she was watching so he wouldn't nick himself on a blade she'd have to clean. That lasted until he turned his jaw to the light and ran his thumb along it to check, and she wanted it to be her thumb.
 
@@ -26,7 +28,7 @@ The razor stopped on his jaw. "I can quit doing that."
 
 He wiped the razor dry on the dish towel, set it back on the drainboard, and went out to the yard with the phone. She didn't go to the window.
 
-He came back in, set the phone face up on the table with the screen still lit, and went to the stove for the pot.
+He came back in with snow melting on the screen, set the phone face up on the table to dry his hands, and went to the stove for the pot.
 
 She picked it up and turned it to the window. Last night the same light had been under his chin on the front step while somebody stood in her mudroom, and now one message was open on it.
 
@@ -58,89 +60,107 @@ She took the chair facing the door herself, the one he'd have taken. The other f
 
 * * *
 
-Marr's was full, because in a storm everybody on Cutter came to the store, and out back the generator's roar came through Tess's office and into the floor.
 
-Dane had his back to the hardware shelf. "Anybody know a man who drags his left heel? Leaves a groove in the slush."
+Two cot blankets sat folded by the till, and Beth knew they'd been there since before she came in.
 
-Russ Whitcomb was leaning on the counter. "That narrows it to about forty of us."
+Tess held her left hand up across the counter. The time was in ballpoint across her knuckles, under a column of other people's gallons. "Twenty-two forty." The bell over the door was still swinging behind Dane and Russ, gone down to the store dock to find the heel's track in daylight.
 
-"That's thirty-nine more than I was hoping for. What about the bridge cable? I've been thinking about it since it went over my head."
+"Net had you aboard. Your back steps had you home." Tess came round the counter with a carton of D batteries that didn't need moving. "I can see your steps from right here, Beth. I didn't put you on the air."
 
-"Somebody cut that cable?" Russ asked the coffee in his hand. "Somebody'd have to beat the rust to it. That tower's been on the district's list since Labor Day." He looked at Beth. "Minute it lays down, I'll run her to Pruett on the *Second Wind*. Somebody ought to offer."
+"I know you didn't."
 
-"Kind of you," Dane said. "Show me which boats out there aren't theirs, and I'm all yours."
-
-Russ looked out the front window at the moorings. "Can't, can I? No."
-
-"Then we wait. Whatever she crosses in, the whole bay gets to watch it go."
-
-Russ nodded at that as if he'd been told the price of bait, and didn't look put out at all.
-
-The bell went, and a tall man came in out of the snow in a good Musto jacket, the only clean-shaven man on a dragger in the bay. Lyle Arsenault, who skippered the *Margaret Ann*, the Gloucester boat that had stayed lit through the blackout.
-
-"Pack of Golds, and whatever the gentleman's having." He counted change onto the counter before Tess said the price.
-
-"The gentleman's having the free coffee," Dane said. "But I'll take the thought."
-
-"Put that away, Lyle. It's on your account." Tess laughed, too loud, the laugh you could hear from the fuel float.
-
-He turned to Beth, kind. "I bought fuel off your father when you were about this high. Good man. Bad luck with banks."
-
-"Banks weren't luck."
-
-Over the door the clock's hands came together at noon. Dane looked at it, then at Arsenault, and stayed where he was. The call he'd have had to make was outside under the sky, and he wasn't leaving her in a room with the dragger's skipper. Beth had read the screen that morning, and she watched him let the boat go.
-
-Behind the counter the curtain to Tess's office hung half open. Through the gap, through the office's back window, a man in a hood stood by the propane cage at the back step with his hands in his pockets, facing in. Waiting. He turned away toward the shore, and his left heel dragged a line through the snow.
-
-"Him."
-
-Dane looked at Arsenault, then at her. "That's your mudroom. I'd like to see which boat he rows home to. Russ, the front." He was through the curtain before Tess could open her mouth. Beth was at the office doorway a step behind him: the hook with the two keys for Tess's Ford on their MARR'S tag, the shelf of phones charging under it with Ned's among them in its rubber band, the back door banging, and the step empty. Russ went out the front.
-
-Arsenault picked up his cigarettes and tucked them in the Musto, unhurried. "Tess, this store's the heart of the island. I'd hate to see it have a hard winter." The bell rang behind him.
-
-Tess snapped a yellow tag through the zipper of the deposit bag that would sit in the safe till a boat ran. "Yellow's mine. Red's the boat's. I won't have my money in Ned's color." Then she put both hands flat on the counter.
-
-"Net had you aboard. Your back steps had you home, twenty-two forty." It was on her left hand in ballpoint, and in the storm log open between them. "I can see your steps from right here, Beth. Didn't put you on the air."
-
-The store looked up at the back of her house. It always had.
-
-"You'll sleep at mine. I walked you home from every dance on this island, and I'll walk you home from this one. Cot's made up, and the marshal can eat on the porch."
+"Then you know who else has a window." She slapped the carton down on the cooler. "I walked you home from every dance on this island, and I'll walk you home from this one. Those are for the cot in my front room. Marshal can eat on the porch. You'll sleep at mine."
 
 "Can't. Not tonight, Tess."
 
-"Can't I don't stock. Try again."
+Tess turned round with her mouth already open, and the bell went.
 
-Beth didn't. Her eyes went down the night's column and stayed there a second too long, and Tess went sharp. "Don't you look at my book like the bank does."
+Arsenault came in a step ahead of Dane and Russ, stamping snow off good boots, his collar up and his face shaved close. Arsenault. The *Margaret Ann*, the dragger that had stayed lit through the blackout.
 
-The back door banged. Dane came through the curtain with snow on his shoulders, breathing hard. "Lost him in the fish houses on the co-op side. He went in between them like he'd built them, and I went in like a man looking for the restroom."
+"Pack of Golds, and whatever the gentleman's having."
 
-Beth's palm was flat on the page, over 22:40, before she'd decided anything. She hadn't given him Ned's name last night, and she wouldn't give him Tess's hand now, and it was the same reason: they were hers, and she had never yet handed one of her own to a man from away.
+"Coffee," Dane said.
 
-He stopped at her elbow, still breathing hard, close enough that she could smell the snow on him. The spiral wire bit into her wrist, and she kept her hand where it was. "What am I looking at?"
+The money was on the counter before Tess had the cigarettes down, counted into a short stack with the coins on top. Tess's face changed between Beth and the till and came up bright.
 
-"Nothing in it. Soup for Ida and who's short on propane. Hand me the milk."
+"Put that away, Lyle. It's on your account."
+
+He left it where it lay while she rang it up on his account. "Long winter for a store, no boat. Hard one, this looks like."
+
+"They're all hard," Tess said.
+
+The clock over the door came up on noon. *Saturday noon*, the screen had said. Dane looked at the clock, then at Arsenault, and nothing moved in his face. He stayed at the end of the counter with his coffee, and his hand didn't go near the pocket with the phone in it.
+
+Arsenault took the cigarettes, nodded to Beth, said "Beth," and went out into the snow.
+
+Russ leaned on the bread rack. "Where you sleeping tonight? Not asking for me. Asking because somebody will."
+
+"She's sleeping at mine," Tess said.
+
+"No," Beth said. "She isn't."
+
+Over Tess's shoulder, through the office curtain and the back window, a man in a hood stood by the propane cage at the back step, facing in. He turned away down the slope, and his left foot came after him through the snow a beat late.
+
+"Him."
+
+Dane was through the curtain before the word was finished, and his shoulder caught the key hook going by. Beth got as far as the back step. A hand closed on her sleeve.
+
+"You stay," Tess said.
+
+Below the step the shore fell away to the fish houses on their tarred posts, with the top of the tide in among them. The hood went down the lane between two of them quick and sure of every plank. Dane went in after him running, and out past the end of the lane Beth saw the sea heap up green on the ledge.
+
+"Sea coming. Stand still."
+
+He stopped. He got an arm round a corner post, and the sea came up the lane white and went through to his knees and sucked back out at him, all of it pulling for the harbor. The man stepped up onto a sill he knew and was gone through a door.
+
+Dane stood in the lane where she'd put him, his jeans black to the knee, both arms still round the post. Russ went out the front.
+
+Going back in through the office, Beth picked the two keys for Tess's Ford on their MARR'S tag off the charging shelf and hung them back on the hook, her knuckles in the cords, Ned's phone in its rubber band among the others.
+
+Tess had the morning's store bag in her hands at the counter, and she was talking before the curtain fell shut behind Beth.
+
+"That's what's out back of my store." She yanked the yellow tag through the zipper so hard the bag jumped. "Yellow's mine. Red's the boat's. I won't have my money in Ned's color, and I won't have you in a house I can't see."
+
+"I'm not your money, Tess."
+
+"No. My money I can count." She held the sealed bag up between them. "I put you to bed the winter your mother got on the Bangor bus."
+
+"Then you know I don't go where I'm put."
+
+Tess went back through the curtain, threw the bag in the safe and slammed it, and came out again to the counter. Beth's eyes went down the open log by the till a second longer than they should have.
+
+"Don't you look at my book like the bank does."
+
+The back door banged. Dane came through the curtain with snow on his shoulders and the sea running out of his boots, breathing hard. Russ came in the front behind him.
+
+Dane looked down at the water spreading from his boots across her boards. "I owe you a floor, Ms. Marr. Put it on the government's account."
+
+"Get a look at him?" Russ said. "Didn't, did you."
+
+"He went in between them like he'd built them," Dane said. "I went in like a man looking for the restroom."
+
+"Restroom's for customers," Tess said.
+
+Beth's palm went flat on the log, over the night's column, before she'd decided anything. With the other hand she knocked the snow off his shoulder, and her hand stayed at his wet collar a beat longer than snow needed. She hadn't given him Ned last night, and she wasn't giving him Tess now.
+
+"What am I looking at?"
+
+"Nothing in it. Soup for the shut-ins and who's short on propane. Hand me the milk."
 
 He handed her the milk.
 
-Tess's phone rang in her vest. "Only place on the island it's a phone," she told it, and took it out. She listened, said "Pilot's call. I know it is," and put it back. "LifeFlight won't lift Ida Dyer. If they won't fly Ida, nobody's flying."
+Ned was at the side wall out of the wind, a paper cup from the urn steaming in his hand. Dane kept the corner, his eyes on the moorings.
 
-"And they'd tell you," Dane said, "because you're what, exactly?"
+"I need the Ashby key, Ned."
 
-"Emergency management director. I was slow putting my hand down."
+"Bethie. I run the Ashby generator every storm anyhow. Nobody'll look twice at a light." He worked a key off his ring with his thumb and put it in her glove.
 
-"She never put it down," Beth said.
-
-"Thank you, Calloway. Milk's on yours."
-
-Ned was round the side wall with a cup from the urn, nobody else in earshot.
-
-"Ashby," Beth said. Her father's fish house had the cove over its sill till Monday. The Connecticut people's place on the north point was shut for the winter, one road in. "You run its generator every storm. Nobody looks twice at a light out there."
-
-He worked a key off his ring and put it in her glove. "Nobody but—"
+"Nobody but—"
 
 "Me and God. I know."
 
-Russ came round the corner with Dane and leaned on the shingles. "Where you sleeping tonight? Not asking for me. Asking because somebody will."
+She came round the front of the store. Through the window Tess took the two folded cot blankets off the counter and put them back under it, one and then the other. She didn't look up.
+
 
 * * *
 
@@ -184,11 +204,11 @@ She opened her own coat. The zipper stuck halfway on the wool, and she said a wo
 
 Then they warmed, and moved, up her spine and round over her ribs, the old hauler's ridge across his palms catching on her skin, and the engine beat at her back and the cold came in at the door and the house stood lit up the hill, and she had both hands in his belt, pulling him in, and she hadn't decided to, and her mouth was asking for things before she'd thought them.
 
-"Do you want—"
+"Do you want—" she said.
 
 "Yes." He said it into her hair. Then, quieter: "Do you?"
 
-"Yes."
+"Yes," she said.
 
 His hands spread over her ribs and stopped there, his thumbs still, waiting on her. She put her own hand over one of them through the wool and held it to her.
 
@@ -218,7 +238,7 @@ She shut the shed door on the engine and went up the slope ahead of him with Ned
 
 At the door he stopped. "North end. Not the house. That's what I'll tell them."
 
-He went out onto the porch, to the top step under the open sky. She would sooner stand where she could watch his mouth than behind any sheet in that house. She went out after him, pulled the door to behind her, and stood on the step beside him in the snow.
+He went out onto the porch, to the top step under the open sky. She would sooner watch his mouth than stand behind any sheet in that house, so she went out after him, pulled the door to, and stood on the step beside him in the snow.
 
 He had the phone to his ear and his face turned up. Down the slope the generator hammered in its shed, and his voice went into it low; she could see his breath go up and come apart in the snow. Past him the water lay black round the point, and nothing showed on it.
 
