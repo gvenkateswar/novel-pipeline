@@ -4,7 +4,7 @@ An outboard woke her.
 
 Small and high, a long way off, it came round the point. Beth lay still. The cot was cold beside her. The door was shut. The oak bar leaned beside it, where it lived. His jacket was gone off the nail. So was the gun.
 
-She got up on one elbow at the small window. At the Ashby end of the bar a flashlight stood at the water's edge. Short. Then long.
+She got up on one elbow at the small window. At the Ashby end of the gravel bar a flashlight stood at the water's edge. Short. Then long.
 
 The outboard answered it. It came on round the point, and she knew it before there was anything to see: a light aluminum hull slapping flat on every sea, and a motor too small for the noise it made. The *Margaret Ann*'s skiff.
 
@@ -30,7 +30,7 @@ She lifted the oak bar.
 
 He came in past her with the cold on him. She caught his jeans at the ankle as he went by. Soaked. Cold in her bare hand, and stiff with salt.
 
-"Tess?" she said.
+"What about Tess?" she said.
 
 "I sent the fire up. Ashby's shed, and a store vehicle in the drive. No name."
 
@@ -38,7 +38,7 @@ He came in past her with the cold on him. She caught his jeans at the ankle as h
 
 "Walked the bar."
 
-The tide was at the top. Out there the bar was over a man's head.
+The tide was at the top. Out there the gravel bar was over a man's head.
 
 She didn't ask.
 
@@ -134,7 +134,7 @@ The rock was wet. She took it slow, and he came down behind her.
 
 "No helicopter."
 
-"Pike asked. 'District won't put a helicopter on a non-emergency move, and the one they've got is offshore on a case.'" He stepped down after her. "If it isn't tomorrow, it's Saturday at best, and Monday you're in Portland."
+"Pike asked. The district won't put a helicopter on a non-emergency move, and theirs is offshore on a case." He stepped down after her. "If it isn't tomorrow, it's Saturday at best, and Monday you're in Portland."
 
 They came down off the granite onto the shore under the bank. The ebb was drawing off the ledges. The weed lay flat on them, shining.
 
@@ -224,7 +224,7 @@ Ned wiped his hands down his jacket. "Which tide?"
 
 * * *
 
-The gray blanket was nailed over the small window so no light showed on the water, and the drum ran low, its heat on one side of the room. Their wool hung on the wire. His pot sat on the back of the drum, still half full; he had cooked for a crew. The bar was across the door. The gun lay on the bench at the head of the cot, within his reach.
+The gray blanket was nailed over the small window so no light showed on the water, and the drum ran low, its heat on one side of the room. Their wool hung on the wire. His pot sat on the back of the drum, still half full; he had cooked for a crew. The oak bar was across the door. The gun lay on the bench at the head of the cot, within his reach.
 
 Beth took the box out of her coat and set it on the bench beside the gun.
 
@@ -262,7 +262,7 @@ He didn't answer. He undid her shirt from the top, his hard fingertips catching 
 
 The drum's heat lay along one side of her. The cove's cold came up through the planks on the other.
 
-She pulled his shirt off over his head. He was warm on the drum side and cold on the other, the same as her. She put her mouth to the warm side.
+She pulled his shirt off over his head. She put her mouth to the warm side of him.
 
 They got down on the cot together. His hand came up under her breast, hard-palmed, careful, and his thumb went over the nipple once and away.
 
@@ -274,7 +274,7 @@ He did it again. Then his hand went down her arm to hers. His thumb found the wh
 
 He put his mouth to it.
 
-Over his shoulder the bar lay across the door. Her eyes stayed on it. She thought of the forepeak, and the water going down the rung. Then she brought her eyes back to his face.
+Over his shoulder the oak bar lay across the door. Her eyes stayed on it. She thought of the forepeak, and the water going down the rung. Then she brought her eyes back to his face.
 
 "Beth," he said. His hand was at the button of her jeans. "Here?"
 

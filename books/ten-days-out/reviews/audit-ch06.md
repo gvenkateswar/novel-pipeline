@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–06, 17,725 words)
+# Audit — ten-days-out (chapters 01–06, 17,715 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -159,6 +159,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 7× “the north reach”
 - 6× “the north road”
 - 6× “under the set”
+- 6× “the oak bar”
 - 5× “round the point”
 - 5× “under the bank”
 - 4× “under her fingers”
@@ -180,11 +181,9 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 4× “the fish house”
 - 4× “his hand came”
 - 4× “under her boots”
-- 4× “the oak bar”
 - 4× “across the door”
 - 4× “came up through the”
 - 4× “round the point and”
-- 4× “end of the bar”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
@@ -209,7 +208,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 03 | 2,607 | 16.2 | 11.9 | 19% | 0.0 | 0.0 | 0.0 | 2 | short |
 | 04 | 2,236 | 11.2 | 7.9 | 27% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 | 05 | 3,686 | 11.1 | 8.2 | 25% | 0.0 | 0.5 | 0.0 | 4 | mean short openers |
-| 06 | 3,268 | 10.8 | 7.7 | 26% | 0.0 | 0.0 | 0.0 | 3 | mean short |
+| 06 | 3,258 | 10.8 | 7.7 | 26% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -258,3 +257,6 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
+
+
+Orchestrator note: the one contrast FLAG (Ch 06, "If it isn't tomorrow, it's Saturday at best") is a conditional, a known false positive. Clean.
