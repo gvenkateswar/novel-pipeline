@@ -49,3 +49,7 @@ Word target: N   Word floor: N (only for intimate, dark-moment, repair and clima
 - If the log conflicts with the outline entry, flag it at the top before writing the beats.
 
 Save to `chapters/chapter-XX/beats.md`.
+
+## Outline lines are checked too (Oct 29, 2026, Ten Days Out Ch 08)
+
+Before you put any line of dialogue from the outline or the bible into a beat sheet, check it against the zero-tolerance contrast rule ("not X, Y", "That's not a reason. That's a load."). If it fails, rewrite it into a plain line that keeps the beat, and flag the change. The paired positive rule: every quoted line in a beat sheet must be one the writer can use word for word.
