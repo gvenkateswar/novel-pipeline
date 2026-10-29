@@ -44,3 +44,5 @@ Reading: the v1 readers were too kind by a wide margin (A1, A2). The calibrated 
 1. Add the row with a stable ID, the exact file(s), who judged, the format, the verdict in their words, the date.
 2. Run the judge panel on the same text (`docs/judging.md`, "calibration mode") and fill the second table.
 3. Update the agreement log. Report the agreement number in the next milestone message.
+
+- **Oct 29, 2026, Ten Days Out v2 manuscript (30,041 words):** sample reader failed the whole-book pull gate (five scenes at 2; Ch 06, 08, 10 at 5 of 10; scene average 3.35; finished, buy yes, book 2 no). The cold reader scored the same text 8/8/6/8/7/6/9/8/7/7 (no chapter at 5). Readers agreed on where it sags (Ch 03 s2, Ch 06 s3) and on Ned being guessable early. Reader variance about a point again (see A8). The author's verdict on the full draft is open.
