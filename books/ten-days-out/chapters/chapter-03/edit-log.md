@@ -1,32 +1,19 @@
-# Chapter 03 — Voice edit log
+## Edit log (Ch 03, voice pass on draft-dialogue.md)
 
-*Voice-editor pass on `draft-dialogue.md`, Oct 29, 2026. Output: `final.md`. No events, facts or decisions added; nothing the continuity pass removed was restored (loyalty maxim, toothbrush backstory, "Am I in it?"). "Under. Not over." kept as written.*
+Word count after edit: about 2,960 by estimate (I had no shell to run wc; the orchestrator should confirm against floor 2,622 and ceiling 3,078; the pass only split paragraphs and cut about ten words). This was a light pass; the dialogue doctor's text was already in register.
 
-## Edit log
-- Short-sentence merge (narration, s1): "set it on the drainboard. ... She didn't say anything." → "set it on the drainboard without a word."
-- Paragraph split / filler opener (s1, ~190 words): "...nobody had shown him. His sleeves were shoved up past the elbow. There was a man in her father's kitchen..." → split at the beat; "A man was in her father's kitchen..."; added "and his forearms were paler than his hands" (her eye, one clause).
-- Short-sentence merge (s1): "went to the stove for the pot. The phone was still lit." → "set the phone face up on the table with the screen still lit, and went to the stove for the pot."
-- Voice (s1, her checking habit, Issue 1 kept): "She picked it up. Last night the same light..." → "She picked it up and held it the way she'd hold anything she meant to check. Last night the same light ... and now one message was open on it."
-- Short-sentence merge (s1): "She pressed the arrow once." → "She pressed the arrow once with her thumb, and the next line came up."; "A log, then. Where they kept her..." → "A log, then: where they kept her..."
-- Tense (s1): "the size a man packs" → "the size a man packed".
-- Tag merges (s2): "Net had you aboard." She said it low → "Net had you aboard," she said, low; "Your back steps had you home. Twenty-two forty." → "Your back steps had you home, twenty-two forty." (beats wording).
-- Dialogue fragment (s2, read as a "not X" fragment): "Not wherever the two of you are hiding." → "My porch is warmer than wherever the two of you are hiding." (Tess pricing her love; same meaning).
-- Tess busy-under-stress (s2): "Then tomorrow." → "Then tomorrow," Tess said, and squared the deposit bag on the counter as if that settled it.
-- Short-sentence merge (s2): "Beth didn't answer that. She looked at the log a second too long..." → one sentence.
-- Longing, one clause (s2): after "What am I looking at?" → "He was close enough that she could smell the snow on him."
-- Merges (s2): Ida call ("Ida Dyer, eighty-eight, with that heart." / "She listened, and made change with her free hand." / "Pilot's call, icing and ceiling."); "The bell again. A tall man came in" → "The bell went again, and a tall man came in"; "Good man. Bad luck with banks." → "Good man, bad luck with banks."; Ned found "outside, round the side wall..." (clarifies the move out of the store).
-- Repetition (s3): "The snow squeaked a while." (echoed the scene's first sentence) → "They went on a way with nothing but the snow under their boots."; "She walked fast." / "She didn't answer." merged into neighbouring sentences.
-- Desire register (s4): "His mouth was cold for a second and then it wasn't." → "cold for a second and then warm."; added her hand on his jaw where she'd watched the razor go (ties the s1 longing into the kiss; her action, no new beat); "the hard ridge across his palms" in the and-chain (word "callus" avoided for the cap).
-- Merges (s4): "Against her mouth. Nothing else." → "he said against her mouth, and nothing else."; "He laughed. She felt it..." → one sentence; "square and hard. The phone." → "square and hard: the phone."; "She took her hands back. He stopped at once." → one sentence; "He looked at her. He had talked all day..." → "He looked at her, a man who had talked all day..."
-- Anger register, subject kept (s4): "I'm asking now. What you write every day." → "I'm asking now about what you write every day."
-- Ending (s4), restatement cut: "...and kept talking. / He was still looking at her, still talking. She let go. The sheet dropped..." → "...and went on talking. He was still looking when she let go, and the sheet dropped back over the glass between them, out of her opening hand." Still ends on her hand opening.
+- Paragraph split (shaving): one 70-word sentence about the throat, the strokes, the forearm and the tap became two paragraphs, breaking after "short strokes". Original: "...and the razor come up it in short strokes, and the cords in his forearm move when he rinsed the blade and tapped it twice..." → "When he rinsed the blade, the cords in his forearm moved, and he tapped it twice on the edge of the basin, which was what her father had done and nobody had shown him." Also folded "and which nobody had shown him" to "and nobody had shown him".
+- Paragraph split (store, the chase): the 100-word run from "Dane looked at Arsenault, then at her" through "Russ went out the front" broke after Dane's exit line. Beth's stretch is now its own paragraph in plain sentences: "She saw the hook with the two keys for Tess's Ford on their MARR'S tag, and the shelf of phones charging under it with Ned's among them in its rubber band, and the back door banging, and the step empty." (Same objects, same order; the colon-list became a clean "she saw" series.)
+- Tightening (Ashby porch): "She would sooner stand where she could watch his mouth than behind any sheet in that house. She went out after him, pulled the door to behind her, and stood on the step beside him in the snow." → "She would sooner watch his mouth than stand behind any sheet in that house, so she went out after him, pulled the door to, and stood on the step beside him in the snow."
+- No other text changed.
+- Kept exactly, as instructed: "like a man looking for the restroom"; "walked you home from every dance"; Tess's yellow/red tag speech; the 22:40 fact; "That's the phone." / "Yes."; the stuck zipper and the bitten lip; the *Margaret Ann* going dark at once; the final paragraph.
+- Voices: checked Beth (dropped subjects, conclusion first, questions only in desire: "Is that what you look like when something works?", "Where?", "Do you?" is Dane's), Dane (longer sentences with a dry turn; short and quiet in the shed), Tess (headlines, surnames, "Beth" only when serious), Russ (asks and answers himself, "somebody"), Arsenault (first names, threat as advice). No flattening found; nothing rewritten for register.
+- Forbidden-phrase sweep: no hits against the FORBIDDEN PHRASES list, no contrast constructions in narration. "Under. Not over." and "North end. Not the house." are directions in dialogue, left as given. "Kind of you" is an idiom, left.
+- Motif caps checked for this chapter: "palm flat" once (Ch 3's allowed use), "shut his eyes" once, "thirty-one" once in dialogue and once on the screen, "twenty-two forty" once, "Ned's color" once, "Bethie" zero.
+- Objects spoken to: two only (the zipper, the phone Tess answers: "Only place on the island it's a phone"). No third added.
+- Not brought back: the Ashby real-estate description, the trimmed deposit-bag patter, long Dane explaining speeches. No "Am I in it?" in any form.
 
-## Checks
-- Forbidden phrases: none found. Remaining "not X" forms are beat-locked dialogue ("Under. Not over.", "Can't. Not tonight, Tess.", Russ's "Not asking for me").
-- Motifs in this chapter: palm flat 1; thirty-one 3; the screen 1; back of her hand 1; ballpoint 1; exact change 1; shut his eyes 1; Golds 1; me and God 1; Ned's color 1; twenty-two forty 1; LifeFlight 1; okay 0; callus 0; stubble 0.
-- Short sentences: about 25 short narration/dialogue sentences merged. My hand estimate puts ≤5-word sentences near 17–19%. What's left is almost all beat-locked or bible dialogue (Russ's lines, Tess's EMD joke, the lie line, "Third one," "Yes," "No," "Don't."). If the audit still shows over 15%, the next things to merge are Tess's "Yellow's mine. Red's the boat's." and the "Propane's up a dollar" exchange, which I left alone to protect the comic rhythm.
-- Word count estimate: about 2,880 (+40). Inside 2,576–3,024; please confirm with wc.
-
-## For the orchestrator (not changed)
-- Beats Flag 3's loyalty interior sentence is still missing (the orchestrator held it back under continuity Issues 5–6). The palm beat carries the hiding. If the orchestrator wants the plant, a Tess-first version with no maxim and no Ned recall would be: *She had kept her own people out of his notebook before, and she would keep Tess's hand out of it now.* That's a plot-plant decision, so I didn't add it.
-- Orchestrator: one "the way people" construction rephrased to clear the audit cap.
+Flags for the orchestrator (no change made):
+- Beth's question in the shed is "What you write every day, and what's in it that I don't get told." as specified. 
+- Audit note: "The Connecticut people's place" in Beth's thought is the Ashby description's only survivor (one clause, geography for the ferry-lit north point); leave unless the audit objects.
+- The line "Beth had read the screen that morning, and she watched him let the boat go" carries the Ch 3 s2 secondary choice for Dane inside Beth's POV; it reads two ways, as the bible requires.
