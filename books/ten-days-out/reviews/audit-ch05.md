@@ -136,7 +136,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Bucket | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
 | "It's a Tuesday" | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
 | "Traps out by Tuesday" | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
-| "Ninety seconds" | 0 | 0 | 0 | 0 | 2 | 2 | 1 | FLAG |
+| "Ninety seconds" | 0 | 0 | 0 | 0 | 1 | 1 | 1 |  |
 | "Not yet I can't afford" | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
 | "Long enough to be useful" | 0 | 0 | 0 | 1 | 0 | 1 | 1 |  |
 | LifeFlight | 0 | 0 | 0 | 1 | 0 | 1 | 3 |  |
@@ -187,8 +187,8 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 01 | 3,103 | 15.2 | 11.9 | 21% | 0.0 | 0.0 | 0.0 | 2 | short |
 | 02 | 2,825 | 15.5 | 10.3 | 17% | 0.0 | 0.0 | 0.7 | 3 | short |
 | 03 | 2,607 | 16.2 | 11.9 | 19% | 0.0 | 0.0 | 0.0 | 2 | short |
-| 04 | 2,224 | 11.2 | 8.1 | 26% | 0.0 | 0.0 | 0.0 | 3 | mean short |
-| 05 | 3,683 | 11.1 | 8.2 | 25% | 0.0 | 0.5 | 0.0 | 4 | mean short openers |
+| 04 | 2,223 | 11.2 | 8.1 | 26% | 0.0 | 0.0 | 0.0 | 3 | mean short |
+| 05 | 3,684 | 11.1 | 8.2 | 25% | 0.0 | 0.5 | 0.0 | 4 | mean short openers |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -223,7 +223,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | Construction | 01 | 02 | 03 | 04 | 05 | Total | /1k | Cap | |
 |---|---|---|---|---|---|---|---|---|---|
 | as if / as though | 3 | 2 | 1 | 2 | 1 | 9 | 0.6 | 1.0/1k |  |
-| the way (a|the|people|someone) ... | 1 | 0 | 0 | 2 | 0 | 3 | 0.2 | 1/ch | FLAG |
+| the way (a|the|people|someone) ... | 1 | 0 | 0 | 1 | 0 | 2 | 0.1 | 1/ch |  |
 | the kind of ... that | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 2/ch |  |
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |

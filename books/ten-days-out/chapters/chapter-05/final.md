@@ -138,7 +138,7 @@ She moved on the draw, one step, while the water was going her way, and stopped 
 
 On the shore the beam stopped on the water once more, a long time, a long way short. Then it lifted and went back up the path toward the house. The ledge went dark.
 
-Ninety seconds, she'd said at the stove. They had spent more than that standing still.
+They had spent more than the whole crossing she'd promised him at the stove, standing still.
 
 She went on, slow, a foot at a time. The bar rose under her. The water let go of her knees, then her ankles, and the cove was in front of them.
 
