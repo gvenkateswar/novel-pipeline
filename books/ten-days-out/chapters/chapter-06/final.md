@@ -8,7 +8,7 @@ She got up on one elbow at the small window. At the Ashby end of the bar a flash
 
 The outboard answered it. It came on round the point, and she knew it before there was anything to see: a light aluminum hull slapping flat on every sea, and a motor too small for the noise it made. The *Margaret Ann*'s skiff.
 
-She shut the stove damper by feel so the pipe couldn't throw a spark. She crossed the planks in her bare feet, found the bar and dropped it into its irons across the door. Then she got down under the window.
+She shut the stove damper by feel so the pipe couldn't throw a spark. She crossed the planks in her bare feet, found the oak bar and dropped it into its irons across the door. Then she got down under the window.
 
 The motor dropped to an idle.
 
@@ -22,7 +22,7 @@ Footsteps on the landward side. A knock.
 
 "Dane," he said through the boards. Nothing else.
 
-She lifted the bar.
+She lifted the oak bar.
 
 "You barred me out."
 
@@ -42,13 +42,13 @@ The tide was at the top. Out there the bar was over a man's head.
 
 She didn't ask.
 
-She set the bar back across the door with him inside, and kept her hand on it a second.
+She set the oak bar back across the door with him inside, and kept her hand on it a second.
 
 * * *
 
 Dane came out of Marr's onto the dock with the bell still going behind him and gave her one nod. Tuesday, the morning low, the shore under the bank dry all the way back to the cove. She went in past him.
 
-Through the front window she saw him set his back to the piling, hands out of his pockets, where she could see them.
+Through the front window she saw him set his back to the piling. From there he had the store door and the dragger both. His hands stayed out of his pockets.
 
 Inside it was fifty-eight degrees and smelled of coffee and kerosene. Tess spoke before Beth reached the counter.
 
@@ -70,7 +70,7 @@ The bell went.
 
 Tess came up brighter. "Lyle."
 
-He was the only clean-shaven man on a dragger in the bay, in a jacket that had cost more than her boots. He came to the counter at Beth's elbow, close enough that she could smell his soap. His eyes went to the box. Then out the window to the man on the dock. Then back.
+Lyle Arsenault was the only clean-shaven man on a dragger in the bay, in a jacket that had cost more than her boots. He came to the counter at Beth's elbow, close enough that she could smell his soap. His eyes went to the box. Then out the window to the man on the dock. Then back.
 
 "Pack of Golds."
 
@@ -90,7 +90,7 @@ Beth looked at the hand until he put it away.
 
 Tess came back through the curtain.
 
-He turned his smile on her. "Tess, this store's the heart of the island. I'd hate to see it have a hard winter."
+He turned his smile on her. "You run a good store, Tess. Store like this lives on the boat."
 
 Tess laughed, high and quick. "Every winter's hard, Lyle. That's why the oil's nine fifty." She reached for the next thing on the counter.
 
@@ -106,39 +106,25 @@ At the end of the dock she turned. Through the front window Tess stood at the co
 
 * * *
 
-The phone went off in his jacket as he topped the rock. He didn't reach for it yet.
+Wednesday's first sun came over the water flat from the east and lay on the ledge. It lay on both of them. Beth held her face up to it with her eyes shut. It had no warmth in it worth the name, and she stayed in it anyway.
 
-"Dollar says she opens with the weather."
+The phone went off in his jacket.
+
+"Dollar says Portland opens with the weather."
 
 "Nobody'd take that bet."
 
-He answered it with his back to the wind. Afternoon, the tide high, the shore under the bank awash all the way to town, so nobody was walking anywhere. Beth climbed up after him and sat one rock below, facing up. The lichen was wet through her jeans.
+He answered it with his back to the wind. The wind came over the ledge with nothing in its way and took every word before it reached her. He listened more than he talked, and wrote on his knee, his thumb pinning the page.
 
-The wind came over the ledge with nothing in its way and took every word he said before it reached her. It lifted his collar against his jaw. She reached up and turned it down.
-
-He listened more than he talked. He got the notebook out one-handed and wrote on his knee, his thumb pinning the pages the wind kept trying to take.
-
-Far down past his shoulder the inner harbor lay small and exact. The dragger sat on her guest mooring. Glass flashed on her wheelhouse, once, then again.
+Far down past his shoulder the dragger sat on her guest mooring. Glass flashed on her wheelhouse, once, then again.
 
 "Down," Beth said.
 
-He went down on one knee, still listening, and finished the call crouched, his head below the line of the rock. The glass didn't flash again.
-
-When it was done he sat looking at what he'd written. His thumb went to the red tag on his wrist and turned it once.
+He went down on one knee and finished the call crouched below the line of the rock. The glass didn't flash again. When it was done his thumb went to the red tag on his wrist and turned it once.
 
 "Pike?"
 
-"Pike. Weather."
-
-Beth looked at the harbor.
-
-He zipped the notebook into his jacket. She was already going down off the rock toward the fish house.
-
-* * *
-
-Wednesday's first sun came over the water flat from the east and lay on the ledge. It lay on both of them. Beth held her face up to it with her eyes shut. It had no warmth in it worth the name, and she stayed in it anyway until he moved.
-
-Pike's answers had come in on the ledge before light. He gave them to her going down off the rock, one at a time.
+"Pike. Weather." He gave her the rest going down off the rock, one at a time.
 
 "Coast Guard's sending a lifeboat at first light tomorrow, to the town float, because it's the only lee in this swell."
 
@@ -162,7 +148,7 @@ Beth stopped on the weed. The county would ring the island. The island had one p
 
 She went on.
 
-Where the shore turned, the low ground opened onto the inner harbor. The *Margaret Ann* was off her guest mooring. She lay on a new one, closer in, with the town landing square in front of her bow.
+Where the shore turned, the low ground opened onto the inner harbor. The *Margaret Ann* was off her guest mooring. She lay on a new one, closer in, with the town landing square in front of her bow. A man went aft along her rail, the left heel dragging.
 
 "Moorings swing," Dane said.
 
@@ -228,7 +214,7 @@ She took her hand off the impeller and put it on his arm, on the wet green wool,
 
 He threw the switch. The pump coughed, caught and ran. The water started down the rung. Ned sat back on his heels in it and listened.
 
-She had said Nobody on the shore, not half an hour back, and meant it. Ned was the boat. A question to the boat told nobody. She knew what she'd promised, and she asked him anyway.
+She had said Nobody on the shore, not half an hour back. She asked him anyway.
 
 "Is the float workable on the ebb?"
 
@@ -238,7 +224,7 @@ Ned wiped his hands down his jacket. "Which tide?"
 
 * * *
 
-The gray blanket was nailed over the small window so no light showed on the water, and the drum ran low, its heat on one side of the room. Their wool steamed on the wire. His pot sat on the back of the drum, still half full; he had cooked for a crew. The bar was across the door. The gun lay on the bench at the head of the cot, within his reach.
+The gray blanket was nailed over the small window so no light showed on the water, and the drum ran low, its heat on one side of the room. Their wool hung on the wire. His pot sat on the back of the drum, still half full; he had cooked for a crew. The bar was across the door. The gun lay on the bench at the head of the cot, within his reach.
 
 Beth took the box out of her coat and set it on the bench beside the gun.
 
@@ -262,15 +248,13 @@ The drum ticked.
 
 "Then she asked for ten minutes at her sister's, and I gave her ten minutes. She's buried in Lawrence."
 
-Beth got up. She took her wallet out of her coat on the nail, found the license and put it in his hand. "Hundred-ton," she said. "Never used." The corners were still sharp. Her father had done everything right on the water and lost anyway. She had never wanted to be the one at the wheel when it went wrong.
+Beth got up. She took her wallet out of her coat on the nail, found the license and put it in his hand. "Hundred-ton," she said. "Never used." The corners were still sharp.
 
 He tipped it to the drum's glow and read it. Then he gave it back, and she put it away.
 
 When she turned round he was standing, and she tore the box open on the bench in the coal light.
 
 He kissed her, his hands cold from the boot. She took him by the wrists and brought them up under her shirt to warm them.
-
-She laughed against his mouth. He kissed her through it.
 
 "Slower than Monday," she said. "Can you?"
 
@@ -308,7 +292,7 @@ He got the condom on with his hands not quite steady. Then he was inside her, sl
 
 "Beth."
 
-He moved, and she moved with him, and the wool on the wire steamed and the drum ticked down and his breath was at her ear and his rough palm was under her shoulder blade, holding her up off the cold, and she was asking him for something and then for something else and he gave her both without a word, and somewhere in all of it she noticed she had stopped listening for the door.
+He moved, and she moved with him, and the drum ticked down and his breath was at her ear and his rough palm was under her shoulder blade, holding her up off the cold, and she was asking him for something and then for something else and he gave her both without a word, and somewhere in all of it she had stopped listening for the door.
 
 The cot's legs walked an inch on the planks.
 
@@ -344,7 +328,7 @@ She went in. The water came up past her knees, then closed round her thighs, and
 
 Behind her Dane was talking, low, a little at a time. She let him.
 
-"Six days on this island," he said, "and I'm a worse wader every one of them. I didn't know you could lose a skill you never had."
+"Seven days on this island," he said, "and I'm a worse wader every one of them. I didn't know you could lose a skill you never had."
 
 "You were fine Monday."
 
@@ -352,6 +336,6 @@ His hand found the back of her coat and held on.
 
 The rock came up under her boots. Then the lane, up behind the bait shed, frozen ruts and nobody in it. The shed's back door was shut. The ramp head. Off the landing the dragger's engine turned over.
 
-Below them, the float.
+Below them, the float. Along the harbor road the lights were on, all the way to the store.
 
 The float lights were dark.

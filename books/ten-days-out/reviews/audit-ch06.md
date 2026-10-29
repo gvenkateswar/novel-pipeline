@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–06, 17,891 words)
+# Audit — ten-days-out (chapters 01–06, 17,725 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -130,8 +130,8 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Propane cage | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 3 |  |
 | Timer | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 |  |
 | Golds | 0 | 0 | 1 | 0 | 0 | 1 | 2 | 2 |  |
-| "Heart of the island" | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 |  |
-| "Hard winter" | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 |  |
+| "Heart of the island" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
+| "Hard winter" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
 | "Agent Quist" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
 | Bucket | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
 | "It's a Tuesday" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
@@ -159,25 +159,28 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 7× “the north reach”
 - 6× “the north road”
 - 6× “under the set”
-- 6× “under the bank”
-- 5× “she could see”
 - 5× “round the point”
-- 5× “the fish house”
+- 5× “under the bank”
 - 4× “under her fingers”
 - 4× “hand stayed on”
 - 4× “went along the”
 - 4× “the outside ladder”
 - 4× “the fuel float”
+- 4× “she could see”
 - 4× “could see the”
 - 4× “put it away”
+- 4× “the left heel”
 - 4× “the kitchen door”
 - 4× “the door went”
+- 4× “the harbor road”
 - 4× “at first light”
 - 4× “thumb found the”
 - 4× “beth he said”
 - 4× “against her hip”
+- 4× “the fish house”
 - 4× “his hand came”
 - 4× “under her boots”
+- 4× “the oak bar”
 - 4× “across the door”
 - 4× “came up through the”
 - 4× “round the point and”
@@ -185,7 +188,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
-- jaw: 6 (0.3/1k)
+- jaw: 5 (0.3/1k)
 - knuckles?: 2 (0.1/1k)
 - throat: 4 (0.2/1k)
 - reath: 10 (0.6/1k)
@@ -206,7 +209,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 03 | 2,607 | 16.2 | 11.9 | 19% | 0.0 | 0.0 | 0.0 | 2 | short |
 | 04 | 2,236 | 11.2 | 7.9 | 27% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 | 05 | 3,686 | 11.1 | 8.2 | 25% | 0.0 | 0.5 | 0.0 | 4 | mean short openers |
-| 06 | 3,434 | 10.8 | 8.0 | 25% | 0.0 | 0.0 | 0.0 | 3 | mean short |
+| 06 | 3,268 | 10.8 | 7.7 | 26% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -221,7 +224,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 - quiet: 10 (0.6/1k)
 - humm?(ing|ed)?: 4 (0.2/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 34 (1.9/1k)
+- still(ness)?: 33 (1.9/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 1 (0.1/1k)
@@ -250,11 +253,8 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | sentence-initial And/But/And yet | 1 | 0 | 2 | 0 | 4 | 0 | 7 | 0.4 | 3.0/1k |  |
 | em dashes | 1 | 1 | 2 | 0 | 1 | 0 | 5 | 0.3 | 2.0/1k |  |
 | semicolons | 0 | 3 | 1 | 5 | 0 | 1 | 10 | 0.6 | 2.0/1k |  |
-| perception filter (she noticed / could hear) | 2 | 1 | 3 | 1 | 3 | 2 | 12 | 0.7 | 1.0/1k |  |
-| one-sentence paragraph | 17 | 18 | 24 | 15 | 35 | 41 | 150 | 8.4 | report |  |
+| perception filter (she noticed / could hear) | 2 | 1 | 3 | 1 | 3 | 0 | 10 | 0.6 | 1.0/1k |  |
+| one-sentence paragraph | 17 | 18 | 24 | 15 | 35 | 41 | 150 | 8.5 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
-
-
-Orchestrator note: the one contrast FLAG (Ch 06, "If it isn't tomorrow, it's Saturday at best") is a conditional, a known false positive of the regex. No change. Clean.
