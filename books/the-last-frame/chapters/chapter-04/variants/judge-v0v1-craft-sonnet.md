@@ -1,0 +1,13 @@
+A = variants/v0.md, B = variants/v1.md. Persona: Craft. Model: Sonnet. Read: A, B, docs/calibration.md only.
+
+1. **Winner:** B
+
+2. **Why:** B has people reacting to each other in rooms (the clipboard with his name already on it, the pulse under the watch band, the chair hooked out at the end), while A spends its middle on a bank call and a contract argument and leaves the couple on a dark driveway with a shrug of an ending.
+
+3. **Where A lost me:** The bank call, about 38% in: "Appraised value, Mr. Gagnon, and not a dollar over. The commitment's good through the thirty-first." From there through "There's an extension fee. You pay it whether you close or not" I was reading a loan officer explain terms, which is the A1 problem (the couple isn't even in the scene). The second dip is the driveway exposition, about 80%: "Every September Arlene had signed a season agreement with the league, and this one had come to her at closing with the ledgers and the keys, and paragraph four held the rate where it stood until the January meeting voted." That is a sentence I had to work to get through, and it explains what the dialogue should have carried. The last line, "with the red on everything he couldn't tell whether it was there," also lets the air out. The opening paragraph is packed too (trophy case, Linda's card, Hollis's finger off the wheel) before I know what the scene is.
+
+4. **Where B lost me:** The "First. December of two thousand four... Second. Paragraph four says... Third. I asked Verna for the bylaws..." speech, about 83%. It is a numbered argument in a woman's mouth, the device calibration already flagged in A3, and I felt my thumb speed up for three sentences. It is saved because "Who put it there?" / "I did." lands right after it. Smaller: the motor simile for her pulse in the wrist scene and again for her voice at the end ("the second before it catches") is the same trick used twice.
+
+5. **Confidence:** Medium-high. B's weak spot is real (the First/Second/Third speech), and A has the funnier boiler/temperature opening exchange and a better pit-room paragraph ("He had always kept time by what broke"), so it is not a blowout. But B's clipboard line, Danny's Valentine's square, the chair at the end, and the closed-door office with the two of them a foot apart are scenes a reader keeps going for. A's best material is Ray alone.
+
+6. **Same-author check:** Yes. Same radio bit ("Ten-four is the state police"), same Denise shoe rant, same "I hire out what I am not qualified for" exchange, same "I'd hate to beat somebody who wasn't ready." These share a lot of lines, so the difference is structure and how much of the couple is on the page together.

@@ -1,0 +1,13 @@
+A = variants/v0.md, B = variants/v1.md. Persona: Skimmer. Model: Sonnet. Calibration file read (docs/calibration.md).
+
+1. **Winner: B**
+
+2. **Why:** B keeps the two of them in a small room together, close enough to feel a pulse and see ink on her fingers, and ends on a chair she hooks out with her boot. A spends a lot of its middle on a man alone in a pit and a man on the phone with a bank.
+
+3. **Where A lost me:** I started skimming at the bank call, about 38%: "Appraised value, Mr. Gagnon, and not a dollar over. The commitment's good through the thirty-first." From there it was loan officer dialogue (lapses, extension fee, "Then you've paid us to hold a loan you never use") and I only caught the end. I slowed down again at "If she makes it, Dad, what've you bought?" The pit scene lost me a second time, about 55%. After the radio banter ends it's Ray alone with ten machines and a paragraph of his own thoughts: "He had always kept time by what broke: the winter the K went, the winter nine's belt went the first time, the two pinsetters after Linda." That is a man alone with a machine, and my thumb moved. The drive scene at the end is outside in the cold, mostly him explaining the foreclosure chain ("Foreclose." / "—through the lawyers…") and then "Read paragraph four, Mrs. Daly." That's the contract again. The ending, "he couldn't tell whether it was there," leaves them apart.
+
+4. **Where B lost me:** Small. About 5 to 8%, the opening: "He took a ball off the rack and walked the line, throwing one down every lane so each machine swept and set ten fresh… Three came round half a second late at the top of her table." That's a man alone with machines. It's short and she walks in soon after, so I only sped up a little. The real skim is about 82 to 85%: "First. December of two thousand four… Second. Paragraph four says lineage stands as set in September… Third. I asked Verna for the bylaws…" That's a numbered list read out loud, and I skipped to "I did." I'm glad I got there, because "Who put it there?" / "I did." is the best beat in either version. Without the First/Second/Third I wouldn't have skimmed at all.
+
+5. **Confidence: medium.** Both versions have a procedural middle. B's is shorter, the bank beat is done in a few lines through Danny, and the money argument happens with the two of them boxed in a closed office. A's best moments (the red sign light, the Hollis plow, Normie's replay) are good. But I'd be skimming for about a third of A and only for a few lines in B.
+
+6. **Same-author check:** Yes. Same Ray and Ellen, same deadpan, and the same lines in both ("I'm very good with a clock," "Unable," the K, "Let the lane have it").
