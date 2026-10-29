@@ -169,7 +169,7 @@ Then they warmed, and moved, up her spine and round over her ribs, the old haule
 
 "Do you want—" she said.
 
-"Yes." He said it into her hair. Then, quieter: "Do you?"
+"Yes." He said it against her temple. Then, quieter: "Do you?"
 
 "Yes," she said.
 
