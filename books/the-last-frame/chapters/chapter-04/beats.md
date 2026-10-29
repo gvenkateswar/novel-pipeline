@@ -1,209 +1,235 @@
-# Chapter 04 — Say Intentions — Beat Sheet
+# Chapter 04 — Say Intentions — Beat Sheet (tournament rebuild)
 
-*Plot-architect, Oct 28, 2026. Built from outline.md rev 3.1 (Ch 04 entry, Shape, plants table), continuity-log.md (Ch 01, the rewritten Ch 02 and Ch 03 entries, "Ch 02 rewrite flags", "Ch 03 flags", plant and numbers ledgers), story-bible.md, genre-maps/romance.md, ch-02 and ch-03 final.md, and the orchestrator's eight hard requirements.*
+*Plot-architect, Oct 28, 2026, late. This replaces the earlier Ch 04 beat sheet. Built from `reader-notes.md` (cold reader, 4/10, "I'd keep reading, but…"), the Ch 04 `final.md` it read, outline.md rev 3.1 (Ch 04 and Ch 05), continuity-log.md, story-bible.md, genre-maps/romance.md, ch-03 final.md, and the orchestrator's seven required changes. The scene logic is rebuilt from scratch. A few lines that the reader singled out as working are kept on purpose and marked **(keep)**. Everything else is new.*
 
 ## Flags (read before the beats)
 
-1. **One day, not two.** The outline's opener says "two days after the kiss." The kiss is at dawn on Friday, Dec 18 (Ch 03, on the page), and this chapter is Saturday, Dec 19. The page says "Friday" and never counts days.
-2. **The numbers ledger row for the lender commitment is stale** (continuity-log, numbers ledger, "Ray's Concord lender commitment … first stated Ch 02 (S4 narration)"). Since the Ch 02 rewrite it isn't on the page anywhere, which the plant ledger and Master flags both say. **This chapter states it for the first time, in S2.** The log should correct the row to "first stated Ch 04 S2".
-3. **Item 2, Ray's rate: Ray starts invoicing in this chapter.** S1 carries one line, in character: an invoice for lane seven at the Worcester man's rate, and every call from here on. The bible's weekly-loss ledger (−$700, including "Ray's invoiced calls −$160") stands unchanged, and Ellen's S4 figure is true on the day she says it. It also sets up Ch 08 s4 ("on an invoiced call for lane 4") and gives S3 a reason for Ray to be in the pit all day (he's on the clock).
-4. **The extension fee stays off the page.** The bible's $1,500 is a constraint and is never said or seen. What renewing costs him is said in words: a fee he pays whether he ever buys or not. The chapter's one money fact is the seven hundred dollars (Ellen, at Ray, S4).
-5. **The fee comes out of Ray's own checkbook.** The outline says "he pays it from the store's back room." The room is the store's, and the money is his. He reaches for the store checkbook from habit and puts it back (Lucien, 1974, unsaid). That keeps Ch 06's "Ray's own savings, never the store" consistent.
-6. **"He offers again to fix the K."** No earlier offer is on the page, so S4 is the first one there. Nobody says "again."
-7. **"Raising lineage tomorrow."** Tomorrow is Sunday, Dec 20. Her notice goes on the vestibule board Sunday, for Tuesday's league (Dec 22). The new price stays off the page (bible: lineage prices are off page).
-8. **"Arlene's Normand" isn't spoken anywhere in Ch 04.** That lets Normie be named in S2. If a writer or editor brings Normand in (the condo-man reason in S4 is where it would creep in), Normie's name comes out of S2.
-9. **Struck facts stay struck.** There's no envelope, no back door and no deed. Ray gets in at 6:45 by the front key Ellen gave him on Dec 3. It's the first time he has used it on the page.
-10. **"Twice this week"** (Ray's supper line) means Thursday's storm night and tonight. Nobody explains Thursday.
+1. **Item 1 fix: the clause lives in Verna's binder, and Ray wrote it.** Ellen *has* read paragraph four. It says lineage stands as set in September "as the league's bylaws provide." The day after closing she asked Verna for the bylaws, and Verna told her the secretary reads them aloud at the January meeting, in full, and the binder never leaves the secretary. Ellen also read every green ledger and found her precedent there: in December 2004 Arlene raised lineage in the middle of the season with a notice on the vestibule board, and charged it from the next league night. Ellen modeled her notice on Arlene's. What she couldn't see is the bylaw that came out of Arlene's notice. At the January 2005 meeting Ray moved that the September rate holds until the January meeting votes, and the league adopted it. Ellen did her homework, and the homework pointed her the wrong way. The one piece she lacked was in a binder she was refused and in the memory of the man she won't ask. Her miss comes from her flaw (she briefs instead of asking), not from carelessness.
+   - **Outline and bible effect.** The bible's mechanism stands: paragraph four still holds the rate until the January meeting votes, now by incorporating the bylaw. Changed: outline Ch 04 "She hadn't read it closely" and the Cost line "Ellen missed paragraph four" become "Ellen read every page she could get. The rule was in Verna's binder, and Ray put it there." The bible's Ray sample line 4 ("Read paragraph four, Mrs. Daly… sitting in your desk since September") is retired for this chapter, because it is the believability break. "Lineage frozen since 2004" in the bible's research table now has a cause on the page.
+   - **New facts for the log:** Arlene's mid-season raise in December 2004, by notice, to the current rate. Ray's bylaw at the January 2005 meeting. Ellen's request to Verna the day after closing, and Verna's refusal. **Ch 05 beats should use this:** Verna reads the bylaw aloud at the January meeting, and Ray stands behind his own rule.
+2. **One day, not two.** The outline says "two days after the kiss." The kiss was at dawn Friday, Dec 18. This chapter is Saturday, Dec 19. The page never counts days.
+3. **The numbers-ledger row for the lender commitment is stale** ("first stated Ch 02"). It has not been on the page since the Ch 02 rewrite. It is first stated here, in S2. Correct the row.
+4. **Ending changed from the outline's wording, same type.** Outline: "He'd braced for her to be hurt, and can't tell whether she is." The reader couldn't tell what hurt meant. The reversal is now legible in an action: he braced to be sent out of her office, and instead she sits down and pushes the second chair out for him. The outline's line "Good. I'd hate to beat somebody who wasn't ready." stays as the second-to-last beat.
+5. **The K offer moves to S1**, inside the hiring. It is the first offer on the page, so nobody says "again."
+6. **Ray's invoicing starts because Ellen hires him** for party Saturday, ten to close, at the Worcester man's rate, and every call after. He takes it, and the scene shows why (S1). In S4 he hands her his first invoice and keeps her check. The bible's weekly-loss ledger (−$700, including "Ray's invoiced calls −$160") stands.
+7. **Radio call signs are now "Counter" and "Pit."** The listener couldn't separate "Kettle Counter" from "Kettle Maintenance." Ch 09 and Ch 10 beats should inherit these. Ch 10's PA "Gagnon, say request" is unaffected.
+8. **Only one lender is named on the page: "the bank in Concord."** No credit union and no Granite Lakes in this chapter. Ellen says "my number," never the bank's name or the figure.
+9. **New plant: the Bench's new sheet** (S2). It's hand-ruled, with dates down the side and squares at a dollar. What it bets on is never said. Danny has Valentine's Day. This feeds Ch 10's "wedding date" square, and the Ch 10 beats must settle who holds the sheet by then.
+10. **Normie is named in S2. "Arlene's Normand" is spoken nowhere in this chapter.** If Normand creeps into S4 by way of Arlene's ledgers, Normie comes out of S2 and out of S4's "before Normie tells it."
+11. **No Hollis in this chapter.** His silence joke is spent.
+12. **"Twice this week"** (S4) means Thursday's storm night and today. S3 shows today's.
+13. **Struck facts stay struck:** no envelope, no back door, no deed. Ray uses the front key she gave him on Dec 3, for the first time on the page.
 
 ---
 
 ## Header
 
-**Chapter total target:** 2,900 words (S1 800 · S2 550 · S3 650 · S4 900). Floors total 2,540.
+**Chapter total target:** 2,900 words (S1 850 · S2 500 · S3 650 · S4 900).
 
 | Required beat | Scene | What it is |
 |---|---|---|
-| **The turn** | S2, made known to Ellen in S4 | He renews the Concord commitment to March first. He stays her buyer by choice, on the day he knows he loves her (S1 wrist, S3 supper missed), and tells her so to her face. |
-| **The longing** | S1 (peak), S3, S4 | S1: his hand on her wrist; he lets go first and puts the hand in the pocket with her key. S3: her voice in his ear all day, and he misses supper to keep hearing it. S4: "on purpose or just no good with a clock" / "I'm very good with a clock." |
-| **The laugh** | S3 (primary), S2 | S3: Ellen at Ray on the radio: "Kettle Maintenance, say intentions." / "Intentions are to quit." / "Unable." Earlier, Ray answers in her phraseology, badly and on purpose, and his readback is the book's one readback joke. Also S3: Denise at a twelve-year-old's shoes, heard over Ellen's open mic. S2: the Bench on the truck in her lot. |
+| **The turn** | S2, told to Ellen in S4 | He renews the Concord commitment to March first, paid from his own checkbook, the morning after she kissed him, and he tells her that night with his reason. He stays her buyer by choice. |
+| **The longing** | S1 (peak), S3, S4 | S1: he runs all ten machines for her before she arrives. His hand covers her wrist and her watch, she tells him the time anyway and doesn't move, and he lets go first. S3: her voice at his hip all day, "Negative on the last item," and "Unable." S4: she tells him to shut the door. Then the supper line and "I'm very good with a clock," and the chair. |
+| **The laugh** | S3 (primary), S2, S1, S4 | S3: his readback, which turns her clipped call into his long sideways register and adds one item she didn't say. Her answer is "Negative on the last item," his is "Which item was that," and she sends him to a lane instead of replying. Then "Pit, say intentions." / "Intentions are to quit." / "Unable." S2: Danny has Valentine's Day on the Bench's new sheet ("It was a dollar."). S1: "You are a pinsetter man. That is a neon tube." S4: Verna's binder never leaves the secretary. |
 
-**Plant list** (every item on the page):
+**Plant list:**
 
 | Plant | Scene | Pays off |
 |---|---|---|
-| **Ray's lender commitment, fresh.** The bank in Concord lends him what the appraiser says the building is worth. It's good through the thirty-first, and then it lapses and he has nothing to buy with on March first. Keeping it good to March first costs a fee he pays whether he buys or not. One plain exchange on the phone. | S2 | 07 ("then I keep my commitment"), 08 (released; he lets it lapse Feb 17; ninety days to start over) |
-| Ray tells Ellen he renewed, with his reason (bible character rule 3). If he'd let it go and she missed, the contract couldn't close, Arlene would have to take the building back the long way, and the man from Concord gets the lot for condos. "If somebody's going to be at the bottom of your drive on March first, I'd sooner it was me." | S4 | 07, 08 s2 (Arlene names the same cost) |
-| Ray invoices from today, at the Worcester rate, lane seven and every call after | S1 | running; Ch 08 s4 (invoiced call); the friction "paying against not being paid" |
-| The season agreement, **paragraph four**: Arlene signed it with the league in September and Ellen inherited it at closing. It holds the rate until the January meeting votes. | S4 | 05 (the vote) |
-| Ellen will put the raise to the January meeting, and Ray will stand against it, said to her face | S4 | 05 |
-| "I eat supper at a quarter past five." | S4 (missed on the page in S3) | 09 s1 |
-| The K, offered and refused ("I hire out what I'm not qualified for") | S4 | 08 (ordered from Laconia), 10 |
-| The radio call signs "Kettle Counter" / "Kettle Maintenance" | S3 | 09 (the D-side), 10 ("Gagnon, say request") |
-| Ellen's lineage notice, printed by her, not yet posted | S4 | 05 (her three minutes) |
-| Ray missed opening the store at six (the Bench catches it) | S2 | 06 (Danny: "You're allowed to want something that isn't on a shelf") |
+| **Ray's lender commitment, fresh and plain.** The bank in Concord will lend him what the appraiser says the building is worth, to buy it on March first. The promise is good through New Year's Eve, and then it's gone. Keeping it to March first costs a fee he pays whether he buys or not. Danny reads it to him in three sentences. | S2 | 07 ("then I keep my commitment"), 08 (released; he lets it lapse Feb 17; ninety days to start over) |
+| Ray tells Ellen he renewed, before the town does, with Arlene's reason in one line and his own in one line (bible character rule 3) | S4 | 07, 08 s2 |
+| Ray paid the fee from his own checkbook, not the store's | S2 | 06 (the check comes from his own savings) |
+| Ray's invoicing: hired ten to close at the Worcester man's rate, every call after. First invoice paid, and he keeps her check. | S1, S4 | running; 08 s4 (invoiced call) |
+| Paragraph four reads "as the league's bylaws provide." The bylaw (the September rate holds until the January meeting votes) is in Verna's binder, and Ray moved it the January after Arlene's December 2004 notice. | S4 | 05 (Verna reads it aloud; the vote) |
+| Ellen will put the raise to the January meeting, and Ray will stand against it, said to her face. The old teams mostly vote the way he stands. | S4 | 05 |
+| Ellen's lineage notice, printed by her, not posted | S4 | 05 (her three minutes) |
+| "I eat supper at a quarter past five." | S4 (missed on the page in S3: "ten minutes to supper") | 09 s1 |
+| The K, offered and refused ("I hire out what I am not qualified for"; "a shop in Laconia bends them") | S1 | 08 (ordered from Laconia), 10 |
+| Radio call signs "Counter" and "Pit"; "say intentions" / "Unable." | S3 | 09 (the D-side), 10 ("Gagnon, say request") |
+| The Bench's new sheet, a dollar a square, with Danny on Valentine's Day | S2 | 10 (the wedding-date square) |
+| Ray missed opening the store at six (Normie calls it) | S2 | 06 ("You're allowed to want something that isn't on a shelf") |
+| **Ellen's camp**, said plainly once: a summer cottage somebody winterized, rented, a mile past the alley on Kettle Road, on the water | S1 | 05 (car), 09 s5 |
 
-**Payoffs** (paid here):
+**Payoffs:**
 
 | Payoff | Planted | Scene |
 |---|---|---|
-| Backup contract, "Appraised value. Not a dollar under." | 01 | S2, S4: renewed. The lender "lends what the appraiser says" (no figure). |
-| The new front key | 02, 03 | S1: Ray uses it for the first time. Partial; the object stays open for 07, 08, 10 |
-| "I'll find someone who has a rate" / "An invoice goes with the money" / the Worcester page | 02 S1, S3 | S1: he bills her at the Worcester man's rate. The page itself stays in his shirt pocket (it's for Ch 09's coffee can, so he doesn't hand it over) |
-| The first kiss, seen by the town | 03 | S1 (Hollis's one finger off the wheel), S2 (the Bench) |
-| Hollis out at five; lot empty by eight, oldest first | 03 | S2: inside the Bench's call |
-| Knuckle on the trophy glass | 01 | S1, motif 2 of 3 (a Linda beat, which the Ch 02 flags asked for) |
-| The condo man from Concord | 02 | S4, as Ray's reason. Partial; Ch 08 s2 pays it in full |
-| The dead K | 01, 02, 03 | S4, offered and refused |
+| "Appraised value. Not a dollar under." | 01 | S2: the Concord bank lends what the appraiser says (no figure) |
+| The new front key | 02, 03 | S1: first use, one clause. The object stays open for 07, 08, 10 |
+| "I bought it to hear all ten going at once." | 02 | S1: he runs all ten for her before the parties. Partial; Ch 10 pays it with people in the building |
+| "I'll find someone who has a rate" / "An invoice goes with the money" / the Worcester page | 02 | S1: she hires him at the Worcester man's rate. S4: he bills her and keeps the money. The page stays in his shirt pocket for Ch 09 |
+| The first kiss, seen by the town | 03 | S2: the Bench's new sheet. Present all chapter in what the two of them do |
+| The condo man from Concord | 02 | S4, one clause inside Ray's one-line reason. Ch 08 s2 pays it in full |
+| The dead K | 01–03 | S1, offered and refused. The sign is not described |
+| Ellen reads the rules first (Ch 01) | 01 | S4: she read the agreement and every ledger, and asked Verna |
 
-**Numbers used** (all in words):
-- quarter to seven (the key) · two minutes past seven (Ellen in) · a quarter past seven (her deadline) · six inches (the lesson)
-- six o'clock (the store, missed) · eight (the lot Friday, the Bench) · nine o'clock (the call) · the thirty-first / the end of the year · March first
-- lane one, lane four, the six pin, ten lanes, twelve (the birthday boy), a quarter past five (once), thirty years, twice this week
-- **seven hundred dollars, every week it bowls.** Ellen, at Ray, S4. This is the chapter's one money fact. Ellen says it exactly, with no "about" and no cents.
-- paragraph four · September · the January meeting
-- **Not on the page:** the fee, Ray's rate, the lineage price, the appraisal, thirty thousand (Ellen says "my number"), any projection, Ray's savings.
+**Numbers used** (all in words; at most two clock times per scene):
+- S1: twenty to seven (her kitchen light) · nine minutes past seven (her line, under his hand) · a mile (the camp) · ten lanes, three parties, ten to close · six inches · fifteen minutes
+- S2: six (Danny opened) · New Year's Eve · March first
+- S3: five past five · ten minutes to supper · one or two lane numbers in all (avoid four; S4 has "paragraph four") · twelve (the boy)
+- S4: **seven hundred dollars every week it bowls** (Ellen, exactly; the chapter's one money fact) · two thousand four (Ellen, once) · paragraph four · September · the January meeting · March first · a quarter past five · thirty years · twice this week
+- **Not on the page:** the fee, Ray's rate, the lineage price, the appraisal, thirty thousand ("my number"), the day's take, any projection, Ray's savings, "the thirty-first," a bylaw article number.
 
-**Register:** Comic. Chapter 3 was warm, at night, in Ellen's head: chaos, then the slowest and most tender scene in the book so far. Chapter 4 is a bright, cold Saturday from Ray's side, full of people and radios. The romance plays as two people conspicuously not talking about Friday while the whole town does. The comedy is quick and exchanged. The tender beats are short and physical and are never discussed. The chapter ends cooler than it starts, with the two of them squared off and enjoying it. Ray's syntax throughout: *and*-chains with the weight on the last word, rounding, machines as *she*, time dated by what broke, long interior sentences that end on a short one. Ellen is seen from outside only: Ray reads her by sound, hands and what she does next, never by her thoughts.
+**Register:** Comic. Chapter 3 was warm, at night, in Ellen's head: chaos, then the slowest and most tender scene in the book. Chapter 4 is a bright, cold Saturday from Ray's side, full of radios and the town, and the comedy is quick and traded. The kiss is in every room and nobody names it. It shows in what they arrange (her schedule, his ten machines), what they trade (money for minutes), what they won't say on an open channel, and what the Bench puts on a sheet. The narrator never says they are avoiding anything. The chapter ends squared off on the vote and closer than it started.
 
 **Chapter budgets:**
-- **ATC phrases:** the set piece is in S3, chapter cap six. Ellen's are planned at four: the call-up, "Read it back," "say intentions," "unable." Ray's mangled versions count as texture, not against her cap. None in S1, S2 or S4.
-- **Ray's motor comparisons: cap two for the chapter** (orchestrator). At most one in S1 and one in S4, and zero in S3, where the machines are literal.
-- **Ending types:** see each scene. **Only one scene ends on a button (S4).**
-- **Motifs:** "The wood stays on the lane. You play what's left." once, S1, its one use in the book. Knuckle on trophy glass once (S1). "dead K" once (S4). "Mrs. Daly" once (S4). "a quarter past five" once (S4). "sulk" at most once (S3). Readback, verb, once (S3). Zero uses of: "Ettle," "honey," "fella I knew," "Linda wouldn't have," "eight days," "unless the numbers say otherwise," "gloves off," "breath on," "masking tape" (say "tape"), "upside down," "That's the bell," "Coffee's on." "Noted." never as a button.
-- **Nobody says the word "kiss" between the leads.** The town may.
-- **Forbidden:** contrast constructions in any form; recap of Ch 03; the envelope, the back door, the deed; "Arlene's Normand"; any kiss (three in the book, fixed).
+- **Ray's motor comparisons: two at most.** One in S1 and one in S4, none in S2 or S3.
+- **ATC phrases:** the set piece is S3 (cap six). Ellen's planned phrases are the call-up, "Read it back," "Negative," "say intentions" and "Unable." Ray's mangled radio talk is texture and doesn't count against her cap. None in S1, S2 or S4.
+- **Motifs:** "The wood stays on the lane. You play what's left." once, in S1, its one use in the book. "a quarter past five" once (S4). "sulk" at most once (S3). Readback as a verb once (S3). "Mrs. Daly" at most once, optional. "fella" at most twice. **Zero:** "dead K," "Ettle," any description of the sign (no red script, no white candlepin, no dark first letter), the knuckle on the trophy glass, the trophy case, warm steel or the kickback's warmth, Hollis, anyone "saying nothing" as a joke, two people holding the same object, "honey," "Noted.," "That's the bell," "Coffee's on," "unless the numbers say otherwise," "eight days," "gloves off," "breath on," "masking tape" (say "tape"), "upside down," "didn't look up."
+- **Nobody says "kiss" or "Friday" as a subject between the leads.** Normie may say "Friday" once, as a fact.
+- **Forbidden:** contrast constructions in any form. Any recap of Ch 03, including a clause reminding the reader of the Memorial promise. The narrator glossing a gesture ("He wasn't having her owe him," "neither of them remarked on it," "Neither of them had said a word about Friday"). An aphorism at a scene end. A radio or PA line that opens on a dash with no tag.
+- **Rhythm (listener pass):** at most one long *and*-chain of narration per scene, outside dialogue. Ray's *and*-chains belong mainly in his speech. Don't follow a long sentence with a three-word stopper more than once a scene. Vary how paragraphs open. Clock times are told in order and never stacked.
 
 ---
 
 ### Scene 1
-**Setting:** Kettle Lanes, lane one, Saturday, December 19, 6:58 to about 7:15 a.m. Sunrise is 7:09. The building is cold and the boiler is just catching up. Only lane one's light is on, from the toggle with Ellen's tape number on it, and the other nine lanes are dark. Sensory anchor: the glass block going from blue to gray to gold across the front of the room while they stand at the foul line.
+**Setting:** Kettle Road, then Kettle Lanes, Saturday, December 19, from twenty to seven to about a quarter past seven. It is dark on the road and gray in the building by the end. Sensory anchor: **all ten machines running in an empty building**, set and humming, ten lanes lit and nobody on them.
 **Characters:** Ray, Ellen.
 **Want:**
-- **Ray** wants a reason to stand close to her that isn't Friday, and to get his hand on hers again without a word about it. The reader learns it in his interior at the key: he came at a quarter to seven so he'd have something in his hands when she walked in.
-- **Ellen** wants to open on her schedule, with party Saturday booked on every lane from ten, and not to discuss Friday in a building that opens in three hours. The reader learns it at her line giving him until a quarter past seven.
-- **In the way:** each other, and the thing neither will say.
+- **Ray** wants to be near her with a reason he can say out loud, and to get fifteen minutes of her that aren't business. The reader learns it at his condition: "Fifteen minutes on lane one first, and those I don't bill."
+- **Ellen** wants him in her building all day without asking for him. The reader learns it when Ray sees his own name already printed on her maintenance line, written before she asked him.
+- **In the way:** neither will name what happened at the sign; the money between them; parties on every lane from ten.
 
 **Surface action:**
-1. Open in motion: Ray at lane one with a house ball in each hand, lane one lit. In one or two clauses: at a quarter to seven he turned her key in her front door for the first time, and the cut he made went over smooth. On the way past the trophy case he laid one knuckle on the glass over Linda's card and kept walking, with nothing said and no gloss. One clause of dramatic irony in his head: the Memorial is the one thing he asked her, and she said it stays. **Don't quote her condition.** On Kettle Road at twenty to seven Hollis's plow passed him going the other way, and Hollis lifted one finger off the wheel and said nothing, same as Friday.
-2. He hears her car come into the lot at 6:58. The car door doesn't open for four minutes. That's Ray's ear, and it shows her hesitation without naming it. At two minutes past seven she comes in with a clipboard. Ray sees what's on it: the day, every lane, three parties, in her printing. **This is her move toward the number, in her hands, and it supports S4's notice.**
-3. Neither says a word about Friday. Play it for comedy. Both talk at once about anything else (the boiler, the lot, the temperature, the clipboard), and every sentence goes the long way around the subject.
-4. **The invoice (item 2, one line).** Ray lays a Gagnon & Son invoice slip under her clip: lane seven, the second of the month, at the Worcester man's rate, and every call after this one. The spoken reason is a lie, easy, in character ("Danny's after me to keep the books straight"). The true reason gets one plain clause in his interior: he wasn't going to have her owing him, not after Friday. Her answer is one exact line (she'll pay it Monday, or it's seventeen days late). She folds it into the clipboard. No figure, and no mention of the old envelope.
-5. "I open at seven. You have until a quarter past." The lesson. He hands her a ball (small, heavy, a grapefruit in one hand). Turn the wrist, lower it six inches, "Let the lane have it." He steps in behind her shoulder and puts his hand on her wrist and turns it. Give it one sharp sensory detail: the cold ball, the small bones under his thumb, the smell of her coffee. He holds it a beat past what the lesson needs. **He lets go first,** and the hand goes into his jacket pocket, where her key is. This is the longing. One long interior sentence of his ends on a short one. One motor comparison is allowed here at most.
-6. Her first ball is better than anything he's seen from her. It takes the front of the rack and leaves wood lying across the deck with pins standing behind it. Ellen, procedural: "Reset it." She wants a clean deck and the sequence started over.
-7. Ray: **"The wood stays on the lane. You play what's left."** It's the one use in the book. Nobody comments on it, and no sentence explains what else it means.
-8. She looks at the wood a long second. She takes the second ball and turns her own wrist the way he turned it, without his hand. She throws.
+1. **Open in motion, no recap.** Ray drives past the alley and keeps going a mile out Kettle Road to where she rents a camp, a summer cottage somebody winterized, on the water. **This is the one plain setup of "the camp."** Her kitchen light is on at twenty to seven and her car is in the dooryard. He turns around at the end of the plowed road and drives back to the alley. No reason is given, and the narration doesn't need one.
+2. He lets himself in with her key, the first time he has used it, and the cut he made goes over smooth (one clause). At the counter he flips all ten toggles on her taped numbers. He walks the line and throws one ball down each lane so every machine cycles and sets. **Texture 1:** running every machine before a party day, the way you'd check them, and he can hear which one is slow to set. By the time he's back at lane one, all ten are set and running.
+3. Her car comes in. She opens the vestibule door, stops in it with the cold coming in past her, and listens. From lane one Ray watches her listen. Nobody speaks. She lets the door close behind her. If she asks, he gives the true cover: party Saturday, and he wanted to hear all ten before her parties did. Nothing else.
+4. **The hiring (item: invoicing starts).** Her clipboard has the day in her printing: three parties, every lane from ten until close, every hour ruled off. At the bottom is a line for maintenance, ten to close, and his name is already on it. She doesn't mention that. She briefs him: she needs a pinsetter man in the pit from ten until close, at the Worcester man's rate, today and every call after. Ray: Worcester's two hours off in this and the fella will want his mileage. Ellen: then she'll call Worcester. Ray looks at his name on her line and takes the job. **The flip shows in the setup and nobody explains it:** refusing the money would mean saying why he wants to be there.
+5. **The K (keep the exchange the reader laughed at).** As long as he's on the clock, he offers to get her K lit. "No. I hire out what I am not qualified for, and so should you. You are a pinsetter man. That is a neon tube." He starts on a shop in Laconia that bends them. She closes it: a sign shop's job, and not on her list this winter. Don't describe the sign.
+6. **His condition:** fifteen minutes on lane one first, and those he doesn't bill. She agrees with a number, not a yes.
+7. **The lesson.** She takes a ball off the return herself. He tells her the release: turn the wrist under, lower it six inches more than she thinks, let the lane have it. He steps in behind her right shoulder and puts his hand over her wrist, over the steel band of her watch, and turns it. Give it one sharp new detail (the watch band cold under his fingers, or the small weight of the ball changing in her hand). He holds it a beat longer than the lesson needs. **(keep)** With her watch under his hand, she tells him the time anyway, "It is nine minutes past seven," and doesn't move. He lets go first. At most one sensory clause of memory in his interior, with no reflection. One motor comparison at most.
+8. Her throw is the best ball he has seen from her. Wood lies across the deck with pins standing behind it. "Reset it." / The machine won't, in the middle of a box. / **"The wood stays on the lane. You play what's left."** / "Who made that rule?" / "Nobody you can take it up with." (This sets up S4's "Who put it there?" / "I did." Nobody remarks on it.)
+9. She takes the second ball and turns her own wrist under, with his hand nowhere near it, and throws.
 
-**Subtext:** Both of them would rather touch than talk, and the lesson lets them do that in daylight with a clipboard in the room. The rule he gives her is the rule of her whole winter, and neither of them hears it that way.
-**Texture budget:** (1) The release: wrist turned, lowered six inches, let the lane have it. It shows his patience and puts his hand on her. (2) Fallen wood stays in play. It's the one rule explained in the scene, and only because the scene turns on it.
+**Subtext:** Each of them has arranged the morning so they'd be in one room without saying so. He drove a mile out of his way and started ten machines; she wrote his name before she asked. Business lets them stand close in daylight.
+**Texture budget:** (1) Running all ten machines before a party day, which is his gift disguised as his job. (2) The release, wrist and six inches, which puts his hand on her.
 **Point of view:** Ray.
-**Ends on:** **Mid-motion** (orchestrator's required one). The last sentence is the ball on its way down lane one toward the wood, with no result, no pins, no reaction and no thought after it. Cut while it's rolling.
-**Word target:** 800   **Word floor:** 700
+**Ends on:** **Cut**, mid-motion. The last sentence is her ball on its way down lane one toward the wood: no result, no reaction, no thought after it.
+**Word target:** 850   **Word floor:** 800 (the chapter's touch)
 
 ---
 
 ### Scene 2
-**Setting:** Gagnon & Son Hardware, 8:55 to about 9:10 a.m. First the front counter and the Bench, then the back room: a desk under a box of hinges, the store phone, the smell of kerosene and cut brass. Sensory anchor: the letter from the Concord bank, which came in Friday's mail and has sat under the hinge box since, unopened until this morning.
-**Characters:** Ray, Danny, Normie and the Bench, the Concord loan officer (on the phone, unnamed).
+**Setting:** Gagnon & Son Hardware, about half past eight. First the front counter and the Bench's three stools by the pot, then the back room. Sensory anchor: the key cutter whining under Danny's hands at the end of the counter.
+**Characters:** Ray, Danny, Normie and the Bench.
 **Want:**
-- **Ray** wants the commitment kept, and done before he has to say why. The reader learns it when he dials at nine sharp without sitting down.
-- **Danny** wants his father to say out loud what he's buying.
-- **In the way:** the date on the letter, and Danny in the doorway.
+- **Ray** wants his invoice pad (he's billing her from ten) and wants to be out again before anybody asks him anything. The reader learns it from what he goes for: straight to the back, for the pad.
+- **Danny** wants his father to say out loud what he's doing with his money and his mornings.
+- **In the way:** the Bench, the sheet, and a letter Danny has already opened.
 
 **Surface action:**
-1. **The laugh.** Ray comes in the front at five to nine. Danny opened at six, and Ray has opened every morning for forty years. Normie calls it from the end stool like the Saturday show. Something close to: "Lot out at the alley was empty by eight Friday, boys, oldest first, and the last truck in it was the veteran's. And this morning he's the first." (This pays Ch 03's "oldest first, lot empty by eight.") Ray goes through to the back without answering. Normie may be named here, and Normand isn't spoken anywhere in the chapter.
-2. Back room. The letter has a date on it. Danny follows him in with a carton he doesn't need to be carrying and stays in the doorway.
-3. **The plain exchange (item 1).** It's nine, and the Concord bank keeps Saturday hours. Ray calls. The loan officer says it plainly, in two or three lines: they'll lend him what the appraiser says the building's worth. The commitment is good through the thirty-first. After that it lapses, and on March first he'd have nothing to buy with. To keep it good to March first there's a fee, and he pays it whether he closes or not. Ray asks one question he knows the answer to: "And if she makes her number?" The officer: then he's paid them to hold a loan he never uses. Ray: keep it. **No figure, no other terms,** no "SBA," no ninety days (that's Ch 08).
-4. He opens the drawer for the store's checkbook, stops, shuts the drawer, and writes it from his own checkbook, out of his jacket, on his knee. Lucien and 'seventy-four are unsaid. The reader saw the truck in the dooryard in Ch 02 and will make the connection. The amount is never seen. Danny watches him do it.
-5. Danny, in inventory terms, plain and even, at his father: **"If she makes it, Dad, what've you bought?"**
+1. **The laugh, no replay.** The bell, and Normie calls Ray in like the Saturday show, in the present tense only. The veteran has come in from the Kettle Road end, a couple of hours late to his own store, and Danny opened at six. **No replay of the kiss** in any form.
+2. Tacked up by the register is a new sheet in Normie's hand, ruled by hand, dates down the side, a dollar a square. Nobody says what it's for. Normie: the sheet's open, and Valentine's is gone. Ray reads whose initials are on Valentine's: Danny's. He looks down the counter at Danny at the key cutter. Danny keeps cutting: "It was a dollar."
+3. The back room, for the invoice pad. Danny follows him with a letter that came to the store Friday with the supplier bills. Danny opens everything that comes to the store, and he opened this. **The plant, in Danny's inventory voice, three sentences at most:** the bank in Concord will lend Ray what the appraiser says the alley's worth, to buy it March first. That holds through New Year's Eve and then it's gone. Keeping it to March first costs a fee, and he pays it whether he buys or not. Danny reads him the fee, and the figure stays off the page. **Nothing else about the loan.** No phone call, no officer, no other lender.
+4. Ray reaches for the store's long checkbook with the stubs, stops, shuts the drawer, and writes the fee out of his own checkbook from his jacket. Lucien and 'seventy-four go unsaid. Danny watches.
+5. Danny, plain, at his father: **"If she makes it, Dad, what've you bought?"** Ray doesn't answer. He picks up the invoice pad, which is what he came for.
+6. **Consequence.** Out front, Ray drops the envelope addressed to the bank in Concord into the store's outgoing mail on the counter, address up, the way all mail goes out, and goes out the door with the pad under his arm. Normie leans over the tray and reads the address, moving his lips.
 
-**Subtext:** He's paying to stay the man waiting to buy her building on the morning after the night she kissed him. Danny sees that, and Ray can't say why he's doing it, because the true answer is about her and the reason he has (S4) is about Arlene and the condos.
-**Texture budget:** (1) The commitment and its extension fee, one exchange only. It's the turn, and it shows that he'll pay to lose. (2) The two checkbooks, which shows the store rule without a word.
+**Subtext:** On the morning after she kissed him he pays to stay the man waiting to buy her building, while his son has a dollar on the opposite bet. He can't answer Danny, because the true answer is about her and the reason he has words for is about Arlene.
+**Texture budget:** (1) The commitment and its extension fee, in Danny's three sentences. (2) The two checkbooks.
 **Point of view:** Ray.
-**Ends on:** **Unanswered line** (orchestrator's required one). Danny's question is the last line. Ray doesn't answer, and there's no reaction beat, no prop and no thought after it.
-**Word target:** 550   **Word floor:** 480
+**Ends on:** **Consequence.** The town has the address. The last beat is Normie reading it, an action with no line from the Bench after it. That is why S4 opens with Ray telling her first.
+**Word target:** 500
 
 ---
 
 ### Scene 3
-**Setting:** The pit, behind the lanes, party Saturday, about 4:50 to 5:20 p.m. It's dark outside since a quarter past four. All ten machines are running at once, warmth comes off the motors, and through the gap under the masking the ten lanes show bright and backward with people's feet going by. Sensory anchor: the radio on his belt. Ellen bought two for the day, one for the counter and one for maintenance. Her voice comes out of it right at his ear, low and level, over all ten machines.
-**Characters:** Ray; Ellen (by radio); Denise and a twelve-year-old birthday boy (overheard through Ellen's open mic).
+**Setting:** The pit, behind the lanes, party Saturday, mid-afternoon to five past five. The lanes show bright and backward through the gap under the curtain, and feet go by in rented shoes. One caged bulb over each pair. Ray sits on an upturned pin crate by the workbench (not against the kickback). Sensory anchor: **the radio on his belt**, her voice at his hip, low and level, over ten machines.
+**Characters:** Ray; Ellen (by radio); Denise and a twelve-year-old birthday boy (heard through Ellen's open mic).
 **Want:**
-- **Ellen** wants the day run with no lane down, because it's the best day the building has had and she needs every string of it. Ray knows what a ten-lane Saturday means to her.
-- **Ray** wants to go home to supper at a quarter past five, as he has for thirty years, and he wants to stay where her voice is. The reader learns the second want at "Intentions are to quit," and in the fact that he stays put after "Unable."
-- **In the way:** his habit, and nothing being broken.
+- **Ellen** wants every lane running through the best day the building has had, with no lane down for a minute.
+- **Ray** wants to quit at five for supper at a quarter past, as he has for thirty years, and wants to stay where her voice is. The reader learns the second want at "Intentions are to quit," answered by "Unable."
+- **In the way:** his habit, and an open channel the counter can hear.
 
 **Surface action:**
-1. Open in motion on the radio: "Kettle Maintenance, Kettle Counter. Lane four is setting nine. The six pin is missing." (She named the call signs. One clause says so, and that he's on the clock today.)
-2. **Ray answers in her phraseology, badly, on purpose.** He piles on every radio word he's ever heard in a movie. She corrects him exactly and briefly. Then **"Read it back,"** and he reads it back worse. That's the book's one readback joke. She corrects that too. The correcting is the point, and both of them know it.
-3. **Texture:** he finds the six pin by ear, jammed in four's elevator, and frees it. Four sets ten. Give lane four a *she* (at most one "sulking").
-4. **The laugh, part two.** Ellen keys the mic to call him while Denise, at the counter, is telling a twelve-year-old what she thinks of his complaint about the shoes. Ray gets all of Denise's run-on paragraph, then the click. Denise doesn't say "honey." Ellen's next transmission makes no reference to it.
-5. About 5:05: **"Kettle Maintenance, say intentions."** / **"Intentions are to quit."** / **"Unable."** He stays. Don't end the scene here; this is the chapter's laugh, and it isn't the scene's last line.
-6. A quarter past five comes by his watch. In thirty years the clock in his kitchen has never once seen the pot go on late, and he's sitting with his back to the kickback in her pit. Nothing has broken since lane four, and he keeps listening for something to and nothing does. His habit of dating time by what broke appears once, plainly, as a fact about him. **No sentence says what this day means.** The reader puts love on it.
-7. Her voice comes once more on the radio, calling the next party up on the PA. The radio picks it up, so he hears her twice, close and far.
+1. **Tagged, no dash.** Her voice comes off his belt calling him: "Pit, Counter," and a lane short a pin. One clause says she bought two radios for the day and named them Counter and Pit.
+2. **(keep)** Ray answers with every radio word he has ever heard in a movie ("roger that, copy, ten-four, wilco, over and out"). **(keep)** She corrects him, exact and brief: one of those will do. Ten-four is the state police. Over and out asks her to answer him and tells her not to.
+3. **Texture:** he finds the missing pin by ear, jammed crossways in that machine's elevator so the elevator comes round with a hitch, works it loose, and she sets clean. One "she" for the machine; at most one "sulking."
+4. **The readback, rebuilt on words.** She calls a second trouble in clipped phraseology: a lane, a slow ball return, a birthday party, cake at a set time. Then **"Read it back."** Ray reads it back in his own register, long and sideways and accurate, and adds one last item she never said. The item is about her wanting him near (for example: that the counter would like him up front where she can see him). It never says "kiss" and never says Friday. Ellen: **"Negative on the last item."** Ray: "Which item was that, Counter?" The channel stays open a second with the counter's noise behind it, and then she gives him a lane number instead of an answer. The joke is in the words, and a listener can follow it without holding a single number.
+5. **Denise, tagged.** The next time Ellen keys the mic to call him, what comes through first is Denise at the register, identified in the narration before she speaks, telling a twelve-year-old about the shoes in one run-on: the shoes are sprayed toe and heel, the boy's father bowls a low average and never complained, and if he'd like shoes that smell like him he can bowl in the ones he came in. The click cuts her off. Ellen never refers to it.
+6. Five past five: **"Pit, say intentions."** Ray's watch says ten minutes to supper. **"Intentions are to quit."** The channel stays open, with the counter's noise behind it. **"Unable."**
 
-**Subtext:** He's choosing her voice over his supper without saying so, and she's keeping him without asking. "Unable" is the closest Ellen has ever come to asking anyone to stay.
-**Texture budget:** (1) The radio phraseology, a set piece with Ellen's four phrases, which is the relationship's own joke. (2) The six pin in the elevator, found by ear.
+**Subtext:** Today the radio is the one place they can talk about Friday, and they do it inside a joke on a channel where Denise can hear. "Unable" is the closest Ellen has ever come to asking anyone to stay.
+**Texture budget:** (1) The radio phraseology set piece, with Ellen's five phrases. (2) A pin jammed in an elevator, found by ear.
 **Point of view:** Ray.
-**Ends on:** **Open image.** The last sentence is sound and sight, all ten going at once through the gap and the radio quiet on his belt. It isn't dialogue, a quip or a thought, and nothing explains it.
-**Word target:** 650   **Word floor:** 560
+**Ends on:** **Dialogue.** "Unable." is the last word of the scene. Nothing after it: no reaction, no sitting down, no reverie, no image.
+**Word target:** 650
 
 ---
 
 ### Scene 4
-**Setting:** The bottom of the drive at the sign pole, about 11:05 p.m., after close. Ray's truck is on the shoulder under the sign, where he left it at noon when the party cars filled the lot. The sign is lit red, white candlepin, first letter dark. Sensory anchor: the red light on the hood and the windshield frost he scrapes the whole time they talk. He fixes things while he talks, hardest when it's about him.
+**Setting:** The office at Kettle Lanes, after close, after eleven. It's a converted coatroom behind the counter: steel desk, printing adding machine, rotary phone, space heater ticking, Arlene's green ledgers on two shelves with one of them out of line. Denise has gone home (one clause). The building is dark and quiet behind the door. Sensory anchor: **the adding machine's tape**, the day's count, curling off the desk edge to the floor.
 **Characters:** Ray, Ellen.
 **Want:**
-- **Ellen** wants to brief him before anyone else hears: the league costs her money, and lineage goes up Tuesday. She's holding the notice, one sheet, printed by her, to go on the vestibule board tomorrow. The reader learns her want when she says she wants him to hear it from her first.
-- **Ray** wants to tell her what he did this morning before she hears it anywhere else (rule 20), and wants her not to be hurt by it.
-- **In the way:** both wants put them on opposite sides.
+- **Ellen** wants to settle accounts (pay his invoice, as she pays everything) and to brief him on her notice before it goes on the board tomorrow. The reader learns it at "I wanted you to hear it from me first." Underneath, she wants him to tell her she has it right, and she won't ask.
+- **Ray** wants to tell her about Concord before Normie tells the town (bible world rule 20). He also wants not to be sent out of the room. His jacket stays zipped the whole scene, the jacket of a man expecting to be shown the door. The narration never says so.
+- **In the way:** both of them are right about what they want, and the wants put them on opposite sides.
 
 **Surface action:**
-1. Open in motion: Ray scraping the windshield. Ellen comes down the drive with the sheet of paper.
-2. He speaks first, before she can brief him, in one line: he paid Concord this morning to keep his loan good to March first. Nothing more is explained (the reader has S2).
-3. Ellen, exact and level, as a statement: "Tell me why." Ray gives the reason in his own syntax, sideways, with the important word last (bible character rule 3). If he'd let it lapse and she missed, the contract couldn't close, and Arlene would have to take it back the long way and wait months to be paid. The fella from Concord gets the lot for the dirt, for condos. "If somebody's going to be standing at the bottom of your drive on March first, I'd sooner it was me." He's standing at the bottom of her drive as he says it, and neither of them remarks on it.
-4. **Her tactic.** She takes him at his word and briefs him as her buyer: since he's buying, he'll want to know what his league costs her. **"Seven hundred dollars every week it bowls."** Ray: it always has, and Arlene carried it. Ellen, in one clause: Arlene had you for nothing. (That's the invoice component made legible. Say no more.) She hands him the notice. Lineage goes up Tuesday, and it goes on the board tomorrow. **This is her concrete move toward the number, in her own hands (item 3).** He reads it by the red light. The price stays off the page.
-5. **The threat.** Ray hands it back. **"Read paragraph four, Mrs. Daly. Take your time. It's short, and it's been sitting in your desk since September."** In one sentence: the season agreement Arlene signed with the league every September came to her at closing, and paragraph four holds the rate where it is until the January meeting votes. She hadn't read it closely. Ray sees it land by what she does: she folds the notice in half and then in half again, edges square. Then she says the threat out loud in her own words: at the new rate she makes her number, and at the old rate she doesn't. No figure. **This exchange ends with her wrong (rule 14).**
-6. She'll put it to the January meeting. Ray says he'll stand against it. The old teams can't pay it (one clause, the Highway crew and the Legion). He's telling her now so she hears it from him. Keep Linda out of it; Ch 05 has that speech.
-7. **The quiet beat** (longing). He stops scraping. "I eat supper at a quarter past five, have for thirty years, and you've made me late twice this week, and I can't tell if you're doing it on purpose or you're just no good with a clock." Ellen answers exactly the question asked, and the gap is the comedy and the confession: she's very good with a clock. They don't touch. The notice is between their hands for a moment while it's passed back and forth. One motor comparison is allowed here at most, Ray reading her.
-8. He looks up at the sign and offers to get the dead K lit. She refuses: she hires out what she isn't qualified for, and he's a pinsetter man, and that's a neon tube. He can't argue with it, because it's true (bible rule 4). The K is refused. There's one line at most of him, almost, reaching for the Laconia shop, and she closes it.
-9. Back to the vote, briefly. Ray, plainly, using "Ellen" now: he'll be on his feet in January. **Ellen: "Good. I'd hate to beat somebody who wasn't ready."**
-10. One beat: he'd braced for her to be hurt. He looks for it in her face by the red light and can't tell whether it's there. Stop.
+1. **Open in motion.** Ray is in the office doorway with his first invoice, torn off the Gagnon & Son pad. Ellen is at the adding machine with the tape running long. Without looking round she says: "Shut the door. The heater cannot keep up with the hall." He shuts it. The room is too small for two people to stand apart in, and the narration shows that with one physical fact and no gloss.
+2. She reads the invoice once, writes a check on the alley's book, and lays it on his side of the desk. He puts it in his shirt pocket, behind the Worcester page. No comment from anyone.
+3. She tears off the tape. It's the best Saturday in Arlene's ledgers, and she knows because she has read all of them. Ray squares the ledger that's out of line, which is his habit of fixing things while he talks, and it's harder when the talk is about him.
+4. **The turn, told.** Ray, first, before Normie tells it at the post office: he paid the bank in Concord this morning to keep his loan good to March first. Ellen: "Tell me why." **Ray, one sentence, Arlene's reason:** if he'd let it go and she came up short, there'd be nobody to buy it March first, Arlene would wait on lawyers for her money and lose her place, and the condo fella from Concord would get the lot. That is the whole foreclosure mechanism, in one line, with no follow-up. Ellen: "That is Arlene's reason." **Ray, his own: "If somebody's going to be standing at the bottom of your drive on March first, I'd sooner it was me."** No narration after it.
+5. **Her tactic.** She takes him at his word and briefs him as her buyer: then he'll want to know what his league costs her. **"Seven hundred dollars every week it bowls."** Ray: always has, and Arlene carried it. Ellen: "Arlene had you for nothing." Her check is in his pocket. Nobody points at it.
+6. She hands him the notice, one sheet in her printing: the new lineage from Tuesday, to go on the vestibule board tomorrow. "I wanted you to hear it from me first." The price stays off the page.
+7. **The trap (item 1).** Ray: Arlene put this same notice up once. Ellen, in items, exact, the careful woman's case: first, December of two thousand four, posted on the board and charged from the next league night, in Arlene's hand, which is where she took the form. Second, paragraph four says lineage stands as set in September "as the league's bylaws provide." Third, she asked Verna for the bylaws the day after she closed. Ray: "And Verna said." Ellen: **the secretary reads the bylaws aloud at the January meeting, in full, and the binder does not leave the secretary.** (The laugh. Verna out-procedures her.) Ray, the mechanism in one line: there's a line in them that says the September rate holds till the January meeting votes, and it went in the January after Arlene's notice. Ellen: "Who put it there?" Ray, with his hand on the ledger he squared: **"I did."**
+8. Ray reads how it lands from outside only, by her hands and what she does next. Give her one new action, not the old fold-and-crease: she might turn the notice face down on the tape, or take the December ledger down and find the page. Then she says the threat in her own words: at the new rate she makes her number, and at the old one she does not. No figure. **This exchange ends with her wrong (bible world rule 14).**
+9. She'll put it to the January meeting. Ray will stand up against it. The old teams can't pay it (one clause: the Highway crew on twelve-hour shifts, the Legion on what the government sends). Ellen asks the one question she needs: will they vote the way he stands? Ray: "Mostly." Keep Linda out of it; Ch 05 has that speech.
+10. **The quiet beat (longing).** He stops squaring things. **(keep)** "I eat supper at a quarter past five, have for thirty years, and you've made me late twice this week, and I can't tell if you're doing it on purpose or you're just no good with a clock." / "I'm very good with a clock." She answers exactly the question he asked, and the gap between question and answer is the confession. They don't touch. One motor comparison is allowed here at most, Ray reading her.
+11. Ray, plainly, by her first name: "I'll be on my feet in January, Ellen." Ellen: **"Good. I'd hate to beat somebody who wasn't ready."**
+12. **The reversal.** She sits down. (She stands for bad news and sits once something is decided. Ray knows that, and the narration doesn't explain it.) Then she hooks the second chair out from under the desk with her boot and leaves it there, facing her. Stop.
 
-**Subtext:** The man she kissed has paid a bank to stay the man waiting to buy, and has promised to vote against her, and he's told her both to her face because that's the most honest thing he knows how to do. She answers with the only armor she has, which is taking him exactly at his word. The reader sees what neither says: she's hurt, she's enjoying it, and she's ready.
-**Texture budget:** (1) Paragraph four of the season agreement, said once in one sentence. It's the cost of the chapter and the threat for Ch 05. (2) Neon is a sign shop's trade, which is why the K stays dark.
-**Point of view:** Ray. He reads her from outside only: hands, what she folds, where she stands. No access to her thoughts.
-**Ends on:** **Reversal**, and **this is the chapter's one button.** Ellen's line, then Ray's single beat of not being able to read her, and nothing after it. This sets up the chapter promise: will he really stand against her in front of the league?
-**Word target:** 900   **Word floor:** 800 (the chapter's charged scene: the turn told, the threat, the longing)
+**Subtext:** The man she kissed has paid a bank to stay the man waiting to buy and has promised to vote against her, and he tells her both to her face because it's the most honest thing he knows how to do. She lost the argument to a rule he wrote. She answers by taking him at his word and then by keeping him in the room. The reader sees what neither says: she's stung, she's enjoying it, and she isn't sending him home.
+**Texture budget:** (1) Paragraph four and the bylaw in Verna's binder, one line of mechanism. It's the threat for Ch 05 and the reason the careful woman missed it. (2) The commitment's reason, one line. **No foreclosure explanation beyond that line.**
+**Point of view:** Ray. He reads her from outside only: hands, what she picks up, where she stands, when she sits.
+**Ends on:** **Reversal.** He braced to be sent out, and instead she sits and offers him the chair. The last beat is the chair, with no line, no thought and no gloss after it. This is the chapter's only prop ending. It sets up the chapter promise: he'll really stand against her in front of the league, and she's keeping him anyway. What does that do to New Year's Eve?
+**Word target:** 900
 
 ---
 
-## Ending-type check (orchestrator item 4)
+## Ending-type check
 
-| Scene | Ending type | Kind |
-|---|---|---|
-| S1 | Mid-motion (the ball still rolling) | the required mid-motion ending |
-| S2 | Unanswered line (Danny's question) | the required unanswered line |
-| S3 | Open image (all ten going, the radio quiet) | sound and sight, not a line |
-| S4 | Reversal ("Good. I'd hate to beat somebody who wasn't ready." plus one beat) | **the one button** |
+| Scene | Ending type | Last beat | Kind |
+|---|---|---|---|
+| S1 | Cut | her second ball rolling toward the wood | motion |
+| S2 | Consequence | Normie reads the Concord address | the town has it |
+| S3 | Dialogue | "Unable." | a line, not a button: the scene's peak, and it stops |
+| S4 | Reversal | she sits and pushes the chair out to him | the chapter's one prop ending |
 
-No scene ends on a withheld action, a prop or a silence. No two adjacent scenes end alike. The chapter's ending type (reversal) matches the outline.
+No two adjacent scenes end alike. One scene ends on a prop, none on a withheld action or a silence. No scene ends on an aphorism or a quip that closes a topic. The chapter ending type (reversal) matches the outline.
 
 ## Orchestrator requirements, where each lands
-1. Lender commitment planted fresh, in one plain exchange: S2 (what lapses on the thirty-first; a fee to keep it to March first, paid whether he buys or not). Told to Ellen in S4. The turn is on the day he knows he loves her (S1, S3).
-2. Ray's rate: **he starts invoicing** (S1, one line, Worcester rate). The seven hundred dollars is stated with the ledger unchanged.
-3. Threat: paragraph four, the January vote, Ray on the other side, and the condo man if she misses (S4). Ellen's move in her own hands: the lineage notice she printed (S4), supported by the clipboard of bookings (S1).
-4. Endings: as in the table above.
-5. Normand isn't spoken anywhere in the chapter. Normie is named in S2 only.
-6. Ray's motor comparisons: cap two (S1 ≤ 1, S4 ≤ 1, S3 zero).
-7. Ray enters by the front key at a quarter to seven (S1). No envelope, back door or deed.
-8. Turn, longing, laugh, texture budgets, plants, floors and 2,900 words are all above. "The wood stays on the lane. You play what's left." appears once, S1.
+
+1. **Believability (item 1):** Ellen read paragraph four, read the ledgers and asked Verna. The hold lives in the bylaws in Verna's binder, and Ray wrote it (S4). Her miss comes from never asking, and the cost is learning it from him.
+2. **The kiss in the room (item 2):** S1, the drive past her camp, ten machines, his name on her sheet before she asked, the money-for-minutes trade, the wrist. S2, the Bench's sheet and Danny's dollar. S3, the readback's last item and "Unable." S4, "Shut the door," the zipped jacket, the chair. The narrator never names avoidance.
+3. **One lender, plain, a quarter of the words (item 3):** Concord only, in Danny's three sentences inside the Bench scene (S2), and Ray's two lines in S4.
+4. **Foreclosure in one line (item 4):** S4 step 4. The argument is about the two of them and the rule he wrote.
+5. **The camp and the date (item 5):** the camp is set up once in S1. The commitment runs out "New Year's Eve" (S2). The word "thirty-first" does not appear.
+6. **The readback in words (item 6):** S3 step 4, built on his translation plus the item she didn't say.
+7. **Retired details (item 7):** no sign description, no knuckle on the glass, no warm steel, no Hollis, no shared grip on an object.
+- **Hard requirements kept:** the commitment planted plainly (S2) and told (S4). Invoicing starts (S1, S4). A threat (S4: the vote, Ray as the swing, "at the old one I do not"). Ellen's move toward the number (S1, party Saturday booked solid and staffed. S4, the best Saturday in the ledgers and her notice). Varied endings. Normie named only on a page without Normand. Two motor comparisons at most.
 
 ## Notes for the continuity log
-- Ray uses Ellen's front key for the first time: Sat Dec 19, 6:45 a.m.
-- Ray's invoicing starts Dec 19, at the Worcester man's rate (no figure on the page), with lane seven (Dec 2) billed in arrears. The Worcester page stays in his shirt pocket.
-- The lender commitment is first on the page in Ch 04 S2. It was renewed to March first on Dec 19. The fee is off page (bible $1,500), paid from Ray's personal checkbook and not the store's. Correct the numbers-ledger row.
-- Ellen's lineage notice was printed, not posted, and folded. Whether she posts a notice of the January motion is Ch 05's call.
-- Ray missed opening the store at six for the first time on the page. The Bench saw it.
-- Ray missed supper at a quarter past five (S3). "Twice this week" means Thursday and Saturday.
-- Ellen bought two radios (counter and maintenance) for party Saturday.
+- Ray drove out to Ellen's camp and back before opening (Dec 19, about 6:40 a.m.). The camp is on the page: a mile past the alley, on the water, kitchen light on.
+- Ray used the front key for the first time on Dec 19, before seven. He ran all ten machines before party Saturday.
+- Ellen hired Ray for party Saturday, ten to close, at the Worcester man's rate, and every call after. He took it. His first invoice was paid by check that night, and he keeps the check in his shirt pocket with the Worcester page.
+- The K was offered by Ray and refused by Ellen (S1). "A shop in Laconia bends them" is on the page.
+- The lender commitment is first on the page in Ch 04 S2: the bank in Concord, what the appraiser says, good through New Year's Eve, a fee to keep it to March first paid whether he buys or not. Paid from Ray's own checkbook. The fee is off page (bible $1,500). The Bench read the envelope. Correct the numbers-ledger row.
+- The Bench's new sheet: a dollar a square, purpose unstated, with Danny on Valentine's Day.
+- Arlene raised lineage mid-season in December 2004 by notice. Ray moved the bylaw at the January 2005 meeting. Paragraph four incorporates the bylaws. Ellen asked Verna for them the day after closing and was told they're read aloud in January.
+- Ellen's notice was printed, not posted. She'll put the raise to the January meeting. Ray will stand against it, and the old teams "mostly" vote his way.
+- Ray missed opening the store at six and missed supper at a quarter past five. "Twice this week" means Thursday and Saturday.
+- Radios: two, "Counter" and "Pit."
 - Money on the page: seven hundred dollars a week (Ellen). Nothing else.
+
+---
+
+## Tournament lead instructions
+
+Each variant writes the same four scenes, the same beats, the same endings and the same word targets. Only the lead changes.
+
+**V1: Lead with the couple in the room.** *(From reader notes §8: "The romance runs entirely through banter, and that makes the kiss feel like it didn't happen," and §4: "Nobody mentions the kiss, all day.")* Every beat between Ellen and Ray is played in real time and in the body. Track the distance between them in every exchange, and what each one's hands are doing with the object in them (clipboard, ball, watch, invoice, ledger, chair). Ray reads her only by what he can see and hear, and lets it register on him in one plain physical clause, never an explanation. Let silences sit a beat longer than is comfortable before anyone fills them. In S2 and S3, where she isn't in the room, keep her present: the sheet, the radio at his hip. The kiss is never named. The reader should feel it in every room by how carefully the two of them handle everything else.
+
+**V2: Lead with pace and the comic register.** *(From reader notes §2, the boredom ledger: the small talk, the bank call read aloud, the reverie, the flowchart. And §1: "nothing is pressing on me.")* Enter every scene late and leave the instant the ending beat lands. No logistics, no transit, no time-keeping beyond the clock times in the numbers list. Keep exchanges quick and traded, and let interruptions happen. Play each laugh at full strength and move on without a reaction beat: the neon tube, Danny's dollar, the readback's last item, Verna's binder, "Unable." The plant in S2 and the trap in S4 move at the speed of a joke, one line each, inside the comedy. Every paragraph of narration has to earn its place by moving someone or something. Aim at the bottom of each scene's word range, never under it.
+
+**V3: Lead with Ray's voice and what he notices.** *(From reader notes §5: "Voices are not the problem… The trouble is the narration around them," and the listener's "drone, thud" gait.)* Let the narration take Ray's attention without his rhythm tic. Sound first (a slow machine, the key cutter, her voice on the radio over ten others), then wear (her watch band, the shine on a ledger spine, Danny's cut fingers), and time dated by what broke, once, where it fits. His humor lives in his spoken sentences, long and sideways with the weight on the last word. His narration is plainer and varied. At most one long *and*-chain of narration per scene, sentence openings that don't repeat, and no short stopper after a long sentence more than once a scene. Three interior passages may run longer than the dialogue around them, and each must be about what is in front of him, aimed at her. No musing about the past, the clock or what the day means.
