@@ -42,3 +42,26 @@
   - Arsenault: first names, advice that reads as weather.
   - Ned: keeps his subject, "Bethie," the generator.
 - Watch item for the voice editor: "They're all hard," Tess said, and "Restroom's for customers," Tess said, are both short Tess deflections. Don't add a third.
+
+## S2 round 2
+
+*Dialogue doctor, October 29, 2026. Input: chapters/chapter-03/draft-revised.md (2,922 words). Output: chapters/chapter-03/draft-dialogue.md, about 2,929 words by hand count (+7; orchestrator to confirm with wc -w; band 2,622–3,078). This was a light pass on the S1 opening lines and S2 only. S1 past the opening and all of S3 are copied unchanged.*
+
+- S1 opening ("Somebody else knew you were here… short list." / "She didn't answer him."): unchanged. It passes the tag-strip test, since it is a whole sentence that builds to a dry "which" turn, which is Dane's shape. Beth's silence is her tactic, letting it sit.
+- S2, Tess's speech broken up. Before, Tess had two paragraphs in a row (slope, hand, 22:40, the steps, "on the air", then "If I can see them…", the dances, the cot) with no reply from Beth. That read as a speech. Two Beth lines now come between:
+  - "He went. I stood." Tess announces and Beth corrects in four words, conclusion first, with dropped subjects. It does not add a fact: Dane went down the lane and Beth stopped at its head.
+  - "Nobody's looking but you." This is deflection, Beth refusing the point. Tess's existing "If I can see them from my counter, so can anybody…" now answers it directly. "Tess slapped the hand down by the blankets" moves to the front of her paragraph so the speaker is clear.
+- S2, Dane to Russ: "Russ. Take her in. Keep her where you can see her," / "I want to know where he came out." became "Russ, take her in and keep her where you can see her," / "I want to know where my guy came out." The clipped imperatives were Beth's shape and failed the tag-strip test. Dane now has one whole sentence and his own word, "my guy."
+- S2, Beth to Ned: "I need the Ashby key, Ned," became "Need the Ashby key," with the dropped subject. Stripped of tags, the old line could have come from anyone. Ned is already placed in the paragraph before it.
+- Prose typo fixed: "he went down the dock to his skiff and pull away" became "…and pulled away".
+- Locked lines kept verbatim: the tag line; "like a man looking for the restroom"; "Restroom's for customers"; "walked you home from every dance"; "Hand me the milk"; "No. My money I can count."; the Bangor bus line; "Then you know I don't go where I'm put."; "I owe you a floor, Ms. Marr. Put it on the government's account."; "Me and God. I know"; "Asking because somebody will."; the blankets going back under the counter.
+- Banned items: none added. "Bethie" appears once, from Ned. S2 has no "thirty-one", "Red's Ned's", "Am I in it?", "too loud", "watched him" or contrast construction.
+- Flag for the orchestrator, untouched because it is outside scope: S1's last paragraph has "she watched him decide to sit in it". "Thirty-one" appears in S1 (the screen, plus Beth's and Dane's lines) as the bible places it.
+- Lines added: 2 (Beth "He went. I stood."; Beth "Nobody's looking but you.")   Lines rewritten: 2 (Dane to Russ; Beth to Ned)   Lines cut: 0
+- Tag-strip test: pass.
+  - Beth: dropped subjects, corrections, refusals.
+  - Dane: whole sentences, "my guy", "Talk to me", "What am I looking at?"
+  - Tess: headlines, store and charges, "Beth" once.
+  - Russ: asks and answers himself, "somebody."
+  - Ned: keeps his subject, "Bethie."
+  - Arsenault: "the gentleman."
