@@ -1,4 +1,4 @@
-# Audit — the-last-frame (chapters 01–05, 15,885 words)
+# Audit — the-last-frame (chapters 01–05, 15,783 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -31,8 +31,8 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Block capitals | 1 | 0 | 0 | 0 | 0 | 1 | 3 |  |
 | Masking tape | 1 | 0 | 0 | 0 | 0 | 1 | 4 |  |
 | "forty minutes" | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
-| "thirty-one years" | 0 | 0 | 1 | 0 | 0 | 1 | 3 |  |
-| Thirty-one, every use | 0 | 0 | 1 | 0 | 0 | 1 | 7 |  |
+| "thirty-one years" | 0 | 0 | 1 | 0 | 2 | 3 | 3 |  |
+| Thirty-one, every use | 0 | 0 | 1 | 0 | 2 | 3 | 7 |  |
 | Marble cake | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
 | "eight days" | 1 | 0 | 0 | 0 | 0 | 1 | 3 |  |
 | Two in the morning (the 2 a.m. night) | 0 | 0 | 1 | 0 | 0 | 1 | 4 |  |
@@ -91,6 +91,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 4× “a pinsetter man”
 - 4× “his shirt pocket”
 - 4× “ray said and”
+- 4× “the first time”
 - 4× “all ten lanes”
 - 4× “did not look”
 - 4× “the january meeting”
@@ -119,7 +120,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 02 | 2,981 | 17.9 | 13.2 | 19% | 0.0 | 0.3 | 0.7 | 2 | short |
 | 03 | 3,286 | 17.5 | 13.7 | 15% | 0.0 | 0.3 | 0.0 | 2 |  |
 | 04 | 3,119 | 19.3 | 16.0 | 15% | 0.0 | 0.3 | 1.0 | 3 | mean |
-| 05 | 3,228 | 21.5 | 17.7 | 15% | 0.0 | 0.3 | 0.0 | 2 | mean short |
+| 05 | 3,126 | 20.3 | 16.3 | 16% | 0.0 | 0.3 | 0.0 | 2 | mean short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -134,7 +135,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 - quiet: 3 (0.2/1k)
 - humm?(ing|ed)?: 3 (0.2/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 36 (2.3/1k)
+- still(ness)?: 35 (2.2/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 0 (0.0/1k)
@@ -147,8 +148,8 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 ### Phrases (count, whole book; any 3+ is worth a look)
 
+- 2× for the first time
 - 1× not quite
-- 1× for the first time
 
 ### Constructions against Part 3 caps
 
@@ -162,9 +163,9 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 1 | 0 | 0 | 1 | 0.1 | 0.0/1k | FLAG |
 | sentence-initial And/But/And yet | 2 | 1 | 1 | 0 | 1 | 5 | 0.3 | 3.0/1k |  |
 | em dashes | 0 | 0 | 0 | 1 | 0 | 1 | 0.1 | 2.0/1k |  |
-| semicolons | 3 | 0 | 1 | 0 | 2 | 6 | 0.4 | 2.0/1k |  |
+| semicolons | 3 | 0 | 1 | 0 | 1 | 5 | 0.3 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 1 | 0 | 0 | 0 | 0 | 1 | 0.1 | 1.0/1k |  |
-| one-sentence paragraph | 6 | 23 | 21 | 19 | 9 | 78 | 4.9 | report |  |
+| one-sentence paragraph | 6 | 23 | 21 | 19 | 13 | 82 | 5.2 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
