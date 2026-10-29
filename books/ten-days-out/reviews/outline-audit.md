@@ -383,3 +383,254 @@ A reasonable reader will condemn the Ch 8 accusation and the Ch 6 slip. **Pass**
 ## Verdict
 
 **BLOCKED: 10 blocking items** (Findings 1–10: the Day 2 fish-house option, Dane and the log, the landing routed through the emergency management director, the Day 6–7 extraction method, the Day 7 daylight retry, what the seal color means and who can read it, nobody moving on Doucette, Ned at supper on Day 8 with the plan, how the fish house stays unfound, and the receiving end of Ned's phone). Each has a one- or two-line fix that leaves the outline's plot intact. Twelve non-blocking findings (11–22) to fold into the beats or the bible. Findings 13 and 20 affect the mystery's fairness and should be settled before the bible is built.
+
+---
+---
+
+# Round 2 — outline revision 2
+
+*Plot-auditor, Mode 1, October 28, 2026. Read: `outline.md` revision 2 (all 572 lines, changelog included), `docs/ai-fiction-tells.md` Part 7 (read this round, for Part D), and the round 1 sources again where a fix touched them (`story-bible-v1.md` tides and layout, `genre-maps/romance.md`). Round 1 above stands as the record. Same bar: a finding blocks only if question 2, 3 or 4 has no answer in the outline. Tide times are worked from the bible's verified Day 4 lows (7:10 a.m. and 7:35 p.m.), advancing about 50 minutes a day.*
+
+## R2 Part A. Round 1 blocking items 1–10
+
+| # | Round 1 finding | Revision 2 answer | Status |
+|---|---|---|---|
+| 1 | Fish house on Day 2 | The cove is over the sill on the surge tides; by Day 4 night it's wet but usable; held in reserve (Ch 3 s2, Ch 5 s2) | **Closed.** One staging point (R2-7): the reasoning must be in her head or said to Dane alone, not aloud in a full store |
+| 2 | Dane and the open log | Dane is outside with Russ; Beth's palm on the page; both names given in Ch 5 s4 | **Closed** for the log. But Dane is back inside for the next line Tess says, which opens R2-1 |
+| 3 | Landing through the EMD | Portland told the county before Dane knew; "You told the county?"; the Coast Guard won't use a town landing without the town knowing | **Closed on its own terms.** Once he knows, he goes anyway: folded into R2-2 |
+| 4 | Day 6–7 method and site | No non-SAR flight, the one helicopter offshore (Pike); the float is the only lee; the dragger's move is seen | **Closed** for aircraft and site. Showing the move opens R2-2 |
+| 5 | Daylight retry | Second system on the glass at 5:50 and arriving mid-morning; "Not again today"; first light Day 9 | **Closed** |
+| 6 | The seal color | The tags are off-the-shelf private habit; the teller's "red seal" is description; the tags ride inside the courier's zipped pouch, so Beth never sees them | **Closed** for the credit union, the teller, Quist and the handoff. The new Ch 3 staging lets Dane hear it: R2-1 |
+| 7 | Nobody moves on Doucette | Quist wants the transfer vessel and the dealer; a hood and a limp won't hold him; one constable is a body count; Russ is told to stay off (Ch 4 s1) | **Closed.** It is also now a listed condemnable federal choice, which is good |
+| 8 | Ned at supper on Day 8 | "Not Tess. Not tonight." He keeps it. Daylight sat calls on the seaward side of the deckhouse, said once | **Closed** |
+| 9 | Fish house unfound | Shore at low water, never the road; Ned guessed it on Day 5 and never told (confession) | **Closed in principle.** The low-water rule has to fit Day 6's afternoon (R2-6) |
+| 10 | Arsenault's end of the call | The *Margaret Ann*'s Iridium, called from Ned's cell on the store's back step; a word at the propane cage on Day 6 and Day 8; Tess never in earshot | **Closed.** The domain checker should confirm a cell-to-Iridium call (already in Ch 9's "Get right") |
+
+**Round 1 non-blocking items 11–22:**
+- **11:** closed (the water question, the hour slipping out, Tess keeping the county call).
+- **12:** closed. Day 5 high water is about 1:45 a.m., so 1:30–2:20 is the top of the tide and "D5, 0150" agrees.
+- **13:** closed. The entry is misreadable, and Beth has a line for the graze. The fire endangering him remains an argument for his innocence, which is acceptable.
+- **14, 16, 17, 18, 19 and 22:** closed.
+- **15:** closed, pending the domain check the architect lists.
+- **20:** see R2 Part C.
+- **21:** accepted. Accountability is at 72%, verification at 74%, the condition at 75% and the ordinary beat at 76%, with all four in order. A reader won't feel three points, and the architect's reasons for not moving further are sound.
+
+## R2 Part B. New findings
+
+### Blocking
+
+**R2-1. Ch 3 s2: Dane hears "Ned's color" while holding the teller's "red seal"**
+**Where:**
+- Ch 3 s2, in this order: Dane outside with Russ → "When he comes back in, Beth's palm is flat over the page" → "Tess seals a bag… 'Yellow's mine. Red's the boat's. I won't have my money in Ned's color.'"
+- The discriminating clue: "The colors mean nothing to the credit union, the teller, Quist or Dane. Only an islander who has watched Tess seal a bag knows."
+- Ch 3 s1 ("Daily. Understood." on the morning of Day 2).
+- Ch 7 notebook ("Red seal (teller's note)").
+
+**Fails:** Q3. The case has its own channel to the answer, and the outline doesn't close it.
+The order and the $9,000 come together on the morning of Day 2 (v1 write-around 24, which nothing in revision 2 moves). So by the store scene Dane may already hold "red seal." He is back inside when Tess snaps a yellow tag on and names red as Ned's. The outline's own staging has a non-islander watching Tess seal a bag, which is the exact condition its claim says only islanders meet. A deputy who reads hands, holding a note about the color of the seal on the bag that carried the money, hears a local name whose color it is. He would ask one question. If he does, the mystery ends on Day 2. If he doesn't, he is incompetent on the page.
+**The architect must answer:** one of these.
+- (a) Stage the tag line while Dane is still outside. For example, Tess says it to Beth while the bell is still swinging behind him, and he comes back in after.
+- (b) Say when the teller's description reaches Dane, and make it after Day 2. For example, Quist relays "red seal" from the credit union's written report on Day 5, so it first appears in the notebook as a D5 entry.
+
+Either way, add one clause to Ch 4 s2: Dane can't ask Beth about the seal without telling her what the teller found, and he is under orders not to.
+
+**R2-2. Day 6 into Day 7: they go to the float knowing a suspect has the time and having watched the dragger move onto the landing**
+**Where:** Ch 6 s3 ("You told the county?"; "Below them the dragger is moving to a new mooring with the inner harbor in front of her. 'Moorings swing.' 'That isn't swinging.'"); Ch 6 s5 (down the shore lane at 5:50); Ch 7 s1 (the abort at the ramp head).
+**Fails:** Q4.
+The revision answers Findings 3 and 4 by putting both facts in front of Dane and Beth on the ledge, in the same scene:
+- the time and place are with the county and the island's coordinator, one of the three names they hold;
+- the dragger has just moved to watch the float. Dane himself says it isn't swinging.
+
+The next morning they walk down to that float. The outline never weighs the safer options this creates:
+- scrub and wait for the next window;
+- ask the Coast Guard for a different hour without going back through the county;
+- put Russ on the float, or at the bait shed, before six.
+
+As written, Beth's abort at the ramp head looks lucky, and the pair look reckless. Rev 2 has also made her competence the point of that beat.
+**The architect must answer:** one exchange on the ledge in Ch 6 s3.
+- Pike, or Dane: the second system means the next chance is Day 9 at best, and a witness who isn't in Portland on Monday ends the case.
+- Dane: "We go down to look. Anything wrong at the ramp head, we turn round." Beth: "I'll know before you do."
+
+Then the abort is the plan working. The dark float lights are the thing nobody could have checked from the ledge, and the shot is what the plan couldn't stop. Also add one clause on why Russ isn't on the float: Quist's stay-off order, or a constable on the float tells them the time is right.
+
+### Non-blocking, ordered by cost to the reader
+
+**R2-3. Dane's bus: the arithmetic doesn't work**
+**Where:** Changelog ("Dane promised to ride it… he'd be back by noon"); Ch 1 s3 ("He'll make it if the 2 p.m. runs"); Ch 1 s2 ("the 10:30 back to Boston and his father's last bus at 3:40").
+**Fails:** Q5 (what he knows), and possibly Q4.
+- **The 2 p.m. can't get him there.** The 2 p.m. sailing lands at Pruett about 2:45. Pruett is midcoast Maine, roughly three hours by road from Lowell, so a 3:40 route is lost the moment he jumps. Dane, who counts distances for a living, would know it.
+- **An earlier sailing would be a safer option.** If any boat leaves the island before two, it is a chance to take her off, and the outline doesn't say there isn't one.
+
+**The architect should:**
+- Make Rafael's last run an evening route (a 6:40 or 7:10 departure), or have Dane promise to be on board for the last stop.
+- Say that the 2 p.m. is the only sailing left that day.
+- Say what Beth agreed to at Pruett. For example: "I'll work her in and the two o'clock back, and I'm yours on the ramp at quarter to three." That is the deal her "You'll be unpacking by two" breaks.
+
+Domain: Lowell Regional Transit Authority as a named employer, already listed.
+
+**R2-4. Ned's noon visit to the store needs the store empty**
+**Where:** The leak: Ned ("At noon on Day 4, up the back way for an impeller, he gives it up"); Who-knew table, Day 4 row (Tess: "smoke at noon, chowder at 2 p.m."); Ch 5 s1 (Tess: "Ned's been on the boat since yesterday").
+**Fails:** Q1.
+Tess sees the Ashby smoke at noon on her rounds, so she is out of the store, which works. The outline has to say it. Otherwise her 2 p.m. "on the boat since yesterday" is either a lie covering him, which makes Tess complicit, or a failure to notice a man in her own store.
+**The architect should:** say in the bible's Ned timeline that he came up while Tess was out on rounds, let himself in with his own key, took the impeller off the shelf and his phone from behind the counter, and called from the back step. Record in Tess's "what she knows" that she didn't see him, and that her stock count shows it later, if you want that for Ch 10.
+
+**R2-5. Ch 4 s4: wet to the thigh at dead low water**
+**Where:** Ch 4 s4 ("Dead low water. She walks the bar… wet to the thigh"); `story-bible-v1.md` Research note 36 (a bar that dries at low water and is knee-deep at half tide); Ch 5 s2 ("knee-deep" at half tide).
+**Fails:** a fact conflict. The bar can't be thigh-deep at low water and knee-deep at half tide.
+She has to come off it soaked, because that is why Dane lights the stove.
+**The architect should:** soak her another way. A sea breaks over the bar while she counts, or she wades the gut at its seaward end to find where it drops. Keep "dead low" for the bar itself.
+
+**R2-6. "Never the road": the low-water rule against the clock**
+**Where:** Ch 6 s2 ("They go by the shore at low water, never the road, as they will every time"); Ch 6 s3 ("That afternoon she's aboard the *North Reach*"); Ch 6 s5 (5:50 a.m., Day 7).
+**Fails:** Q2, at low cost.
+Lows run about:
+- Day 5: 8:00 a.m. and 8:25 p.m.;
+- Day 6: 8:50 a.m. and 9:15 p.m.;
+- Day 7: 9:40 a.m.
+
+How each trip fits:
+- The Day 5 store trip fits the morning low.
+- Day 6 afternoon is near high water (about 2:40 p.m.). To keep her own rule she leaves at the morning low and comes back at the night low, which is twelve hours from the fish house.
+- At 5:50 a.m. on Day 7 the tide is about two-thirds ebbed.
+
+**The architect should:** state the Day 6 timing in one line. She goes out at the morning low and spends the day at the pumps, and that is why Ned has the whole afternoon with her. Name the Day 7 route. That way the plot architect doesn't break the rule by accident.
+
+**R2-7. Ch 3 s2: what is said aloud in a full store**
+**Where:** Ch 3 s2 ("Everyone's at the store in a storm"; Arsenault in the same scene; "Beth asks Ned for Ashby. Dad's fish house will have the cove in it till Monday…").
+**Fails:** Q2, through ambiguity.
+If Beth asks for Ashby within earshot of the room, Arsenault is buying Golds a few feet away, Ashby needs no leak, and the Day 3 search of her empty cottage contradicts it. The same goes for the fish house if she gives the reason aloud.
+**The architect should:** stage the key outside, as revision 1 did ("Ned walks them out"). Keep the fish-house reasoning in her head, or say it to Dane on the north road.
+
+**R2-8. Ned's Day 6 choice against his Day 5 restraint**
+**Where:** The leak: Ned ("Day 5: he guesses the fish house and never tells them. Day 6: he works out the landing hour… gives it to them").
+**Fails:** Q5.
+He holds the fish house, the one fact that would put her in their hands asleep, and the next day gives them the landing. The outline doesn't say why he draws the line there.
+**The architect should:** put one line in the confession. For example: "They said they only wanted to watch her go. With the Coast Guard right there, what could they do?" Then the landing is the lie he could tell himself, and the fish house the one he couldn't.
+
+**R2-9. "Shorts" against what Ned saw**
+**Where:** The leak: Ned, "Motive" ("He thought it was shorts"); Ch 1 opening (the unit has droned "every Thursday for six years").
+**Fails:** Q5.
+Live shorts need a running reefer. If the unit had ever been dark on a Thursday, a man with 31 years on that boat doesn't believe the load is live lobster. The outline is consistent if what Ned saw for a year was the weights and the sternman from away, with the unit running every week until Day 0.
+**The architect should:** say so in the bible's Ned entry. "The unit ran; the weights didn't match the manifest." Then Day 0's dark display is new to him too, which supports his "I'll work it short" being about shorts.
+
+**R2-10. Beth reads past "red seal" for a day and a half**
+**Where:** Ch 3 s2 ("I won't have my money in Ned's color"); Ch 7 s3 ("Her eyes go past *red* to the money"); Ch 8 s5 (she builds Tess's case out loud: the light, the smoke, the county, the hundreds, the ring, the night fuel). Revision 2 drops revision 1's "The bag went through three pairs of hands."
+**Fails:** Q5.
+Grief covers Ch 7's night. It doesn't cover a full day of building the case out loud with the notebook in reach and "Ned's color" in her memory. A careful reader who has made the connection in Ch 7 will watch Beth fail to make it through all of Ch 8. That costs her the competence the brief makes her selling point.
+**The architect should:** give her the misreading that the pouch now makes possible. The teller's "red seal" must be the district's fare bag, which rides in the same pouch. She assumes the note describes the pouch's other bag and dismisses it in a clause in Ch 8 s5. Then in Ch 9 the click is a correction ("the store bag was the red one"), not something she finally notices. It also keeps the reader honest: the misreading is on the page to be doubted.
+
+**R2-11. After the shot: a medevac**
+**Where:** Ch 7 s1–s2.
+**Fails:** Q4, at low cost.
+A federal officer with a gunshot wound is a medical case. A reader may ask why nobody tries a medevac for him with the witness aboard before the second system closes in.
+**The architect should:** add one clause. Dane won't call a graze in as a medevac: it would put her on the ballfield in the open with the weather coming, and LifeFlight won't fly into the front anyway. That is also one more Dane-suspect beat, since he is keeping her on the island.
+
+**R2-12. The first try is in the dark**
+**Where:** Ch 7 s1 (5:52; "no second try in the dark" from round 1, and "Not again today" now).
+**Fails:** Q5, at low cost.
+Sunrise is about 6:30. A reader may ask why the Coast Guard makes its first attempt in the dark.
+**The architect should:** add one clause. The lifeboat times its arrival at the float for first light, and the walk down is in the dark so that she isn't seen.
+
+**R2-13. Tess's light: can the store see the back steps?**
+**Where:** Ch 2 s4 (the flashlight on the iced back steps); Who-knew table, Day 1 row ("Beth's flashlight on the back steps at 10:40"); `story-bible-v1.md` (the kitchen window looks down on the harbor and the fuel float; the back door is off the mudroom).
+**Fails:** Q2, a geography fact.
+If the house faces the harbor, the back steps face away from the store.
+**The architect should:** have the bible put the back steps, or the mudroom gable they light, on the harbor side, or have Tess see the light on the side path. One line in the cottage entry. Tess's own source depends on it.
+
+**R2-14. Ch 8's last image, read cold**
+**Where:** Ch 8 ending ("Ned going up the pier road… not looking back, and Beth watching him go to safety").
+**Fails:** Part 7 (scene endings). See Part D.
+For a first-time reader who doesn't know Ned is the leak, Beth watching him "go to safety" is a soft hopeful beat. The irony works only on a reread.
+**The architect should:** keep the image and put one grain of unease in it that the reader can feel without solving it. For example, he doesn't look back, and he always looks back. Or the supper bag hangs heavier than supper.
+
+## R2 Part C. Questions 6–9
+
+**6. Stakes curve.** Same as round 1, plus Dane's bus in Act 1 (he loses something by choosing her before either of them knows what the island will cost). Rising. **Pass.**
+
+**7. Subplots.** Four, none resolved by Beth. **Pass.**
+
+**8. Moral weight.** Five condemnable choices:
+- Beth's tide question;
+- Beth naming Tess;
+- Dane's investigation;
+- Quist's call to leave the boat, off the page;
+- Beth leaving him with the bar off the door.
+
+The tide question is now consistent: she guards nothing else from Ned in that scene, she thinks Tess has the time anyway, and Ch 10 shows Tess kept it, so the cost is real and lands on her alone. **Pass.**
+
+**9. Reader knowledge: the earliest a careful reader can name Ned.**
+- **Ch 1–3: suspicion, not a solution.** "I'll work it short. Go home." is the strongest single flag in the sample, and the synopsis reader used it in revision 1. Revision 2 balances it with three sources, each with an action behind it:
+  - Tess saw the light, logged it at 22:40 before Ned reported the bridge, and said so aloud;
+  - Ned was told;
+  - Dane made the call from the yard.
+- **Ch 4–5: tilts away from Ned, and this is the best piece of the revision.**
+  - Ned had Ashby from Day 2, and the network searched the empty cottage on Day 3. A reader concludes that whoever leaked didn't have Ashby yet.
+  - Tess learns it from the smoke at noon on Day 4, and the fire comes ten hours later.
+  - Ned is "aboard since yesterday." Tess carrying his supper down makes it look solid.
+- **Ch 6: two readings for each clue.**
+  - The confession ("shorts," "no money") explains the Ch 4 lie.
+  - The impeller box: Tess carried supper on the page, so she could have carried the box.
+  - The tide question: the county also had the time.
+  - The timer keys: Ned's, and the town ring by Tess's safe.
+- **Ch 7 s3: the naming.** "Red seal" in the notebook, against Ch 3's "I won't have my money in Ned's color." Revision 2's wording is sharper than revision 1's "the boat's," because it maps red to Ned rather than to the boat's crew, which includes Beth. **Earliest naming: Ch 7 s3, about 66%. Reveal: Ch 9 s4, about 85%. Two chapters, inside the limit. Pass**, on three conditions:
+  - R2-1 keeps Dane from hearing the line;
+  - the Ch 1 handoff keeps the tags inside the pouch;
+  - Ch 5 s1's "she's carrying his supper down" is on the page and plain. If a reader doesn't see Tess carry Ned's supper, the impeller box in Ch 6 reads as a broken alibi at about 52%, and Ned is named three chapters early.
+- **Dane.** Live through Ch 7: the stove he lit, the pouch he watched, the calls, the bar, the misreadable entry, and "they missed the one they'd paid." Cleared at Ch 8 s3 (about 74%) by Beth's own call. **Pass.**
+- **Fairness.** Nobody is introduced late, and the reveal needs no fact the page hasn't shown.
+
+## R2 Part D. Part 7 checklist at outline level (`docs/ai-fiction-tells.md` Part 7, read this round)
+
+1. **Count subplots. Fewer than two, or all resolved by the protagonist personally, means restructure.** Four (Tess and Beth; Ned's fate; the ledger; Dane's career), none resolved by Beth. **Pass.**
+2. **Map the escalation.** Each act costs more (R2 Part C, question 6). **Pass.**
+3. **List every scene ending; more than one in four soft, or any two in a row, means rewrite.**
+   - The Part 7 taxonomy has five types: consequence, reversal, question, cut, soft hopeful beat. "Open image" is not one of them, and three chapters end on it (Ch 4, Ch 8, Ch 10). Classified:
+     - Ch 4 (she walks off one minute inside her count, shaking): a consequence.
+     - Ch 8: soft, read cold (R2-14).
+     - Ch 10: soft, which the genre allows for the final scene.
+   - That makes two soft endings in ten chapters, not adjacent. Under the cap.
+   - Scene-level endings are still mostly unassigned. The plot architect must assign one per scene and keep Ch 10 s4 (the grand jury answer, a consequence) from going soft, because s5 will be.
+4. **Find every sentence that states the theme or a general truth about people; delete all of them.**
+   - **Flag:** "A man who wants to talk doesn't try doors" (The leak: Ned, Day 1). This is a general truth about people. It is allowed only as Ned's quoted self-deception in the confession, never in narration. Better: "He said they wanted to talk to you."
+   - **Flag:** "Locked rooms get burned" (Ch 8 s5). Say the specific thing instead: "They burned Ashby."
+   - **Planning language that must not reach the page:** "the son and husband who doesn't show up," "the same want turned inside out," "the competent person's mistake."
+   - **Allowed as trade truths in a voice:** "Chimney smoke's people"; "Steel doesn't burn. Everything in it does."; "Anybody can walk it backward"; "Moorings swing." / "That isn't swinging."
+   - **Specific, not general:** "She wants me alive long enough to be useful."
+5. **Find every moral choice; if none would be condemned, add one.** Five, listed in Part C. **Pass.**
+6. **Strip tags from one scene per chapter.** Not testable in an outline.
+   - Highest risk: Ch 8 s1 (Ned and Beth at dawn) and Ch 9 s5 (Ned's confession). Ned and Beth are the pair that failed the strip test in v1 Ch 08.
+   - Second risk: Pike's two lines and Quist's in the same book. They also failed in v1.
+   - The character designer must give Ned a syntax that isn't Beth's clipped register.
+7. **Cross-chapter frequency count.** Planned recurrences that will become tics unless rested:
+   - **Hands.** v1's densest gesture family. Rest it in Ch 4 or Ch 9, or change its form. The planned beats:
+     - the jacket front and his hands on the subpoena (Ch 1);
+     - her hands on the pull cord with his light on them, and her palm over the log (Ch 3);
+     - both hands in diesel (Ch 4);
+     - bare hands on his face, like a binder (Ch 9);
+     - her hand putting his right on the binder (Ch 10).
+   - **Cold and shaking, three beats in a row.** Ch 4 ends with her shaking; Ch 5 opens with her shaking; Ch 5 s3 has three broken matches. Vary at least one.
+   - **Tess not looking at anyone,** twice in a row: Ch 9 s5 and Ch 10 s1. Vary one.
+   - **Fine as callbacks:** "Me and God" (three times) and the ham (three times).
+8. **Check the timeline.** Linear and day-stamped. Ch 9 s3 overlaps in time; Ch 10 jumps four times. The genre allows more, and none is needed. **Pass.**
+9. **Dream sequences and backward-looking frames.** None. **Pass.**
+10. **Humor: zero jokes that land means add banter.** About eighteen planned, at least one in every chapter:
+    - Ch 1: the boots, "rained on," Tess on the float.
+    - Ch 2: "Just the once."
+    - Ch 3: Tess's titles, the forty big-footed men.
+    - Ch 4: "narrow definition of waterproof," the work light, Russ.
+    - Ch 5: the kit, the potato.
+    - Ch 6: August, the receipt.
+    - Ch 7: the strips.
+    - Ch 8: the ham.
+    - Ch 9: Russ at the ladder.
+    - Ch 10: the bucket, Dane's father, "It's a load."
+
+    **Pass** at outline level.
+
+## Round 2 verdict
+
+**BLOCKED: 2 blocking items.**
+- **R2-1:** Dane hears "Ned's color" in Ch 3 while holding "red seal."
+- **R2-2:** they go to the float after learning a suspect has the time and watching the dragger move onto it.
+
+Round 1's blocking items 1–10 are all closed on the outline's own terms. Two of the fixes (Dane back inside for Finding 2; the dragger's move shown for Finding 4) opened the two new blockers. Each closes with a line of staging or one exchange. Twelve new non-blocking items (R2-3 to R2-14) go into the beats or the bible. R2-3 (the bus), R2-5 (the bar at low water), R2-6 (the tide clock), R2-10 (Beth's misreading of the seal) and R2-13 (the light's sightline) should be settled before the bible is built, because the bible records the facts they depend on. Fairness passes: a careful reader can name Ned at Ch 7 s3, two chapters before the reveal.
