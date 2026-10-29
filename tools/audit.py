@@ -90,11 +90,11 @@ def load_motifs(book):
         if len(cells) >= 3 and cells[0].lower() not in ("name", "motif", "") and not set(cells[0]) <= set("-: "):
             try: cap = int(re.findall(r"\d+", cells[2])[0])
             except Exception: cap = 3
-            rows.append((cells[0], cells[1], cap))
+            rows.append((cells[0], cells[1].strip("`"), cap))
     return rows
 
 def scenes_of(t):
-    parts = re.split(r"\n\s*(?:\*\s*\*\s*\*|#{1,3} [^\n]*|—{3,}|-{3,}|\* \* \*)\s*\n", t)
+    parts = re.split(r"\n\s*(?:(?:\\?\*\s*){3}|#{1,3} [^\n]*|—{3,}|-{3,})\s*\n", t)
     return [p for p in parts if len(words(p)) > 150] or [t]
 
 def main():
