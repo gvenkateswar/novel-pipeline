@@ -1,0 +1,24 @@
+# Chapter 06 revision notes (draft.md -> draft-revised.md)
+
+- Issue 1 (s4): "not two hours back" -> "not half an hour back". Elapsed time from the shore to the forepeak.
+- Issue 2 (s4): "We go down to look," he said -> "Tomorrow we go down to look." The plan is plainly for tomorrow; dropped "he said" to pay for it (speaker is clear after her sleeve is touched).
+- Issue 3 (s5): hands-on-ribs run cut to two sentences ("He kissed her, his hands cold from the boot. She took him by the wrists and brought them up under her shirt to warm them."). Undressing run cut to two ("He undid her shirt from the top, his hard fingertips catching at every button. At the fourth she lost patience and did the rest herself, and her bra after."). Kept "Hawser. Twenty-three.", the cot legs, "Beth"/"Here?", the condom, the yes and the check.
+- Issue 4 (s4, s5): cut ", the way he'd read her a route" and ", the way she'd asked for". Sentences now end plainly.
+- Issue 5 (s2): lamp oil "Nine forty" -> "Nine fifty a gallon". Ledger needs the new number.
+- Issue 6: no change ("three days a week" kept, already logged).
+- Issue 7 (s4): cut "Ned didn't look up."; the two halves of his line merged into one quote.
+- Issue 8 (s4): "Boxes rode heavy too." -> "Boxes rode heavy, and I never gave that a thought." Keeps the bible fact; shows he never connected it.
+- Issue 9 (s3): prediction drops the name: "Dollar says she opens with the weather."
+- Issue 10 (s3): "That's not a bet. That's Pike." -> "Nobody'd take that bet." Removes the contrast construction.
+- Issue 11 (s2): "the box" -> "the box of condoms" on first appearance, once.
+- Issue 12 (s2): the ledger line now reads "each one paid off in hundreds against his account and never rung up as cash." Removed the conflicting *cash* at line ends.
+- Issue 13 (s6): added "Off the landing the dragger's engine turned over." at the ramp head. No interior.
+- Issue 14 (s4): Dane's info lines loosened into his register: the lifeboat line gets "because"; the inspector line gets "which saves the government a boat"; the Saturday line becomes a full sentence. County line left as it was (already his register).
+- Issue 15 (s2): "two fingers" -> "the back of her hand".
+- Issue 16 (s2): "on its charger under the hook" -> "on her shelf", matching Ch 05.
+- Issue 17 (s1): first mention now "the oak bar for the door". Later mentions unchanged ("across the door" disambiguates).
+- Issue 18: no change.
+- Issue 19 (s5): blanket nailed "so no light showed on the water".
+- Issue 20 (s5): "Then she asked for ten minutes at her sister's, and I gave her ten minutes. She's buried in Lawrence." Two lines about the death.
+- Flag 1 (s4): "He'd had Pike's answers from before light." -> "Pike's answers had come in on the ledge before light."
+- Flag 2: "She's buried in Lawrence." kept.
