@@ -1,0 +1,13 @@
+A = chapters/chapter-10/variants/v3.md · B = chapters/chapter-10/variants/v2.md · Judge: Skimmer, Opus · Read: A, B, docs/calibration.md
+
+1. **Winner: B.**
+
+2. **Why:** Same story, nearly the same skeleton. B's people make me smile more on the way through: Kate's garage-and-charge-nurse chatter, Ellen fighting her own mouth at the shoe cubbies, the left headlight "aimed at the ditch since Christmas," Judy's "Is that Ray Gagnon on my chair?" A is leaner, but it's leaner by cutting the jokes. On a tired night the jokes are what kept my thumb slow.
+
+3. **Where A lost me:** About 19%, at the roll call while the key comes off his ring: "The Highway crew had come straight in off the night's plowing with their eyes red to the rims, Dale Hutchins among them with his hood still up. Gil Arsenault stood at the rail in his good overcoat, over from Halsey Falls for Linda's day. Judy from the bank had a place in the standing room by the shoe cubbies..." That's a guest list, and I skimmed it. At about 46% I skimmed the motors paragraph whole ("Down the catwalk the motors ticked as they gave up the day's heat, one behind lane nine, then one behind lane four..."). Then at about 68% came the contract: "Your contract with Arlene is on record at the county... The release her lawyer drew in February was never signed in front of anybody, and title won't insure over it." The orphan line after it, "The Pines held her room through the first.", made me stop and work out who it belonged to. The kiss and "He laughed. It went down the dark catwalk and came back off the far wall" pulled me back in.
+
+4. **Where B lost me:** About 55%, in the third stall before the declaration: "The motor nearest them gave one more tick and quit. On the other side of the masking the whole building had gone still, and he could hear the urn at the snack bar cooling, a long way off, and a car go by on Kettle Road with its tires in the slush." The ticking motors, then her watch, then the urn: I knew what was coming and ran ahead to "I love you." At about 71% I skimmed the same contract as in A: "the release from February was never notarized, so title won't insure over it." Judy's chair line caught me again right after.
+
+5. **Confidence: low.** Close to a coin flip. A moves faster and its laugh-into-kiss is the better single moment. B has more of the people being funny with each other in the last chapter of a book, and that's what tipped it.
+
+6. **Same-author check:** Yes. The same scenes and beats, the same lines word for word in places ("Gagnon, say request," "Both words"), and the same rhythm; one draft is just trimmed harder than the other.

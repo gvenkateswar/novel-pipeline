@@ -1,0 +1,13 @@
+A = chapters/chapter-10/variants/v0.md ; B = chapters/chapter-10/variants/v2.md (persona: Skimmer, model: Sonnet)
+
+1. **Winner: B**
+
+2. **Why:** B puts Kate's answer on the speaker in the room, live, and ends it on her question about the plow, so the book's biggest withheld line pays off in the first minute; A has Ellen relay it secondhand and then spends a whole scene on the couple doing arithmetic.
+
+3. **Where A lost me:** The thumb picked up speed at the Judy exchange, "The winter's cash stays where it is, every dollar it made still sitting in the account. Anything you put on the note is new money, and I'll want to see where it came from." (~22%). It really went when the couple started doing business at the register: "Ellen drew a line under the last column with her pen. 'Twenty-eight thousand nine hundred.'" followed by "Tomorrow I sign eighty-eight hundred of mine onto Arlene's note, and when the committee says yes, the bank's number comes down to meet it." (~40%). That is the A1 shape, a ledger and a plan read aloud. Judy's "Monday was in it" and "I'll be on it. I won't be in the chair" is a negotiation about logistics. I skimmed to the lane-seven door. Some of the front half also reads as a roll call of townspeople (Dale, Hollis and Judy with the snowblower and the notebook), which I skimmed lightly.
+
+4. **Where B lost me:** One place, late: "Your contract with Arlene is on record at the county, and the release from February was never notarized, so title won't insure over it." (~72%). That is a contract clause, and I skimmed it. A fresh twist at the end of the last chapter also felt like paperwork invented for the occasion. But it is one sentence, it comes with a clock ("before the wire room shuts at four") and Ray running up Main Street, and I was back in the scene by Arlene on the sidewalk. The envelope handed to Danny, "Danny didn't open it," is slightly vague but not a skim.
+
+5. **Confidence: medium-high.** B has a live phone call, Linda's last league sheet folded in the locker, the "Third item" callback in the catwalk scene, and the glasses cord that draws tight again. A has the better glasses-on-the-zipper laugh and a stronger tournament finish with Denise and Gil's "That's twice," and its "Throw her, Mrs. Daly" / "Both words" close is as good as B's. Both land the same last line. The tournament in B is flatter, with Verna announcing the result and Denise sitting silent, but it is short. I would bet on B, not a lot of money.
+
+6. **Same-author check:** Yes. Same Ray and Ellen speech patterns, same Bench, same "Throw her, Mrs. Daly" and "Both words" ending, same Denise "don't you go bowling it sentimental" line.
