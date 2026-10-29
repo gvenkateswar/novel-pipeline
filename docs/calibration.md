@@ -26,7 +26,7 @@ Reading: the v1 readers were too kind by a wide margin (A1, A2). The calibrated 
 
 | Date | Judge config | Anchors tested | Agreement | Notes |
 |---|---|---|---|---|
-| — | — | — | — | first run pending |
+| Oct 28 | 3 personas × 2 models (opus, sonnet), A/B order randomized, blind to this file | A1 Ch 01 vs A3 Ch 01 (author: A3 better) | **6 of 6** picked A3 (4 high, 2 medium) | Every judge named the same stop line in A1: the flight-strip code "04 / 1830 / LG / 4 / —" at ~2–4%. Four judges named the same two weak spots in A3: the room-count "First, the ones moving…" at ~30% and the "First, the ball… Third…" device at ~50%. One pair is not a track record; it is the first point. |
 
 ## How to add an anchor
 
