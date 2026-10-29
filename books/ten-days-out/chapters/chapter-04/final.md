@@ -1,6 +1,6 @@
 # Chapter Four: Feeling for Warm
 
-Beth lay flat on the top of Lookout Hill beside Dane, the Ashbys' binoculars to her eyes. It was Sunday, first light, and the granite had been wet all night; its cold had got into her breastbone and sat there like a swallowed stone. Below them the island lay small and exact, her own roof on the knoll, the chimney cold.
+Beth lay flat on the top of Lookout Hill beside Dane, the Ashbys' binoculars to her eyes. Sunday, first light, and the granite had been wet all night; its cold had got into her breastbone and sat there like a swallowed stone. Below them the island lay small and exact, her own roof on the knoll, the chimney cold.
 
 The hood came up the path from the store side. She had him at the second bend: a right boot set down clean on the frozen ruts, the left heel dragging after it.
 
@@ -60,7 +60,7 @@ She took the sheet out of his fingers, folded it back along its own creases, and
 
 "Off the top," he said. "Now. That deck has binoculars too."
 
-They went off the back of the hill into the spruce at nearly a run. Over his head a bough let go its snow, and it came down on his shoulders in a clump.
+They went off the back of the hill into the spruce at nearly a run. Over his head a bough dropped its snow, and it came down on his shoulders in a clump.
 
 * * *
 
@@ -68,7 +68,7 @@ Sunday afternoon, an hour before sunset, the generator had been dead since noon.
 
 Over his chest, through the propped door, the long drive ran straight up to the spine of the north road. When they started the bleed, a man had stood on the spine. Hood. Binoculars. They had lain flat on the pad until he went over the rise. Then they went back to the screw. Ned ran this set every storm, and the north point knew its note; a dead one was the news.
 
-It was bare now. Gravel and ledge, and a gray sky sitting on it.
+Bare now. Gravel and ledge, and a gray sky sitting on it.
 
 "Anything?" Dane said from under the set.
 
@@ -78,7 +78,7 @@ He went on working.
 
 It had run dry and sucked air, and the last of the fuel can was in it now. She had the bleed screw cracked a quarter turn. It spat air at her, then froth.
 
-His left hand came out from under the set for the rag. She dug in her coat pocket and came out with an old red seal the credit union had sent back in an empty pouch. She pushed his cuff back with her thumb and knotted it round his bare wrist.
+His left hand came out from under the set for the rag. She dug in her coat pocket and came out with an old red seal the credit union had sent back in an empty pouch. She pushed his cuff back and knotted it round his bare wrist.
 
 "What's that off?"
 
@@ -116,7 +116,9 @@ Up the drive, a step on gravel.
 
 She lifted her eyes. The hood, on the drive, coming down.
 
-Beth put the wrench to the screw to close it, and the jaw rang on the fitting, one bright note. She took it off. The door was propped on its frozen track, and it shrieked when it moved, loud enough for the drive. One door. It faced the drive. The gale off three sides of water had scoured the point to frozen gravel and ledge by afternoon; too little snow lay on it to hold a track, theirs or his.
+Beth put the wrench to the screw to close it, and the jaw rang on the fitting, one bright note. She took it off. The door was propped on its frozen track, and it shrieked when it moved, loud enough for the drive.
+
+One door, and it faced the drive. The gale off three sides of water had scoured the point to frozen gravel and ledge by afternoon; too little snow lay on it to hold a track, theirs or his.
 
 Dane slid out from under the set. She went behind the housing into the dark on her belly, and he came after her. She lay flat on the pad at the back of the set with the steel close to her face, furred white where snow melted by the morning's run had bloomed to frost since noon. He lay along her side with one knee against hers. He drew.
 
@@ -154,7 +156,7 @@ Under his oilskin a handheld broke squelch. A voice said something short, and he
 
 Then gravel again, going away. Past the end of the housing she had a slice of the drive through the door, and the man in it going up, the heel dragging, until he went over the rise and turned down the east-shore fork toward the next empty house.
 
-They didn't get up. She lay along him behind the set with her hand still shut on his wrist. The knot of the seal was under her thumb, and the thumb would not keep still on it.
+They didn't get up. She lay along him behind the set with her hand still shut on his wrist. The knot of the seal was under her thumb, and it would not keep still.
 
 "He's checking houses," Dane said. "We move tonight."
 

@@ -10,7 +10,7 @@ At first light she took the kettle out onto the back step for snow, Dane in the 
 
 Inside, the stove was lit at last, and the kettle had the window over the sink running with steam.
 
-Dane stood at the counter drawing a thumb along his jaw. He had come over with nothing but what was on his back.
+Dane stood at the counter rubbing his jaw. He had come over with nothing but what was on his back.
 
 She opened the cabinet over the sink, took down her father's razor, the heavy safety razor with the knurled handle, and set it on the drainboard without a word. She took down his shaving mirror too and propped it in the window frame where he used to prop it.
 
@@ -22,7 +22,7 @@ He shaved slowly. He tipped his head back for the throat, and she watched the lo
 
 When he rinsed the blade, the cords in his forearm moved, and he tapped it twice on the edge of the basin, which was what her father had done and nobody had shown him. His sleeves were shoved up past the elbow, and his forearms were paler than his hands.
 
-A man was in her father's kitchen, at her father's sink, being careful, and she was standing by the stove with a mug going cold in her hands and looking at his mouth when he drew his upper lip down for the razor. She told herself she was watching so he wouldn't nick himself on a blade she'd have to clean. That lasted until he turned his jaw to the light and ran his thumb along it to check, and she wanted it to be her thumb.
+A man was in her father's kitchen, at her father's sink, being careful, and she was standing by the stove with a mug going cold in her hands and looking at his mouth when he drew his upper lip down for the razor. She told herself she was watching so he wouldn't nick himself on a blade she'd have to clean. That lasted until he turned his jaw to the light and ran his hand along it to check, and she wanted it to be hers.
 
 "He tapped it twice too," she said. "On the basin."
 
@@ -64,7 +64,6 @@ She took the chair facing the door herself, the one he'd have taken. The other f
 
 * * *
 
-
 Late in the morning, for the milk, Beth went down the planks from her back steps toward the store with Dane a step behind her. The planks were iced, and she heard it before she saw anything: a step and a drag on the boards below, the left foot late every time.
 
 The hood stood at the propane cage by Marr's back step, facing the office door.
@@ -99,7 +98,7 @@ Dane came through the office with snow on his shoulders and the sea running out 
 
 "Restroom's customers only," Tess said. "Coffee's two. Buy one, you're a customer."
 
-Beth knocked the snow off his shoulder, and her thumb found the cold skin of his neck above the collar and rested there. Tess looked from her hand to his face, and then down at the log.
+Beth knocked the snow off his shoulder, and her fingers found the cold skin of his neck above the collar and rested there. Tess looked from her hand to his face, and then down at the log.
 
 He took a carton of milk out of the cooler and handed it to her.
 
@@ -157,7 +156,7 @@ He looked at her, a man who talked to anybody who'd stand still, and had nothing
 
 She put her back to the engine housing. It was warm already through her coat and getting warmer, and it shook against her with every stroke. She took his jacket in her fist and brought him down to her.
 
-His mouth was cold for a second and then warm. He went still all over, and then he kissed her back slowly, and kept it slow. He tasted of the store's terrible coffee. She caught his lower lip in her teeth, and the breath went out of him through his nose, long and slow. She pulled off a glove and put her bare hand along his jaw where she'd watched the razor go that morning, and it was as smooth under her fingers as it had looked from the stove.
+His mouth was cold for a second and then warm. He went still all over, and then he kissed her back slowly, and kept it slow. He tasted of the store's terrible coffee. She caught his lower lip in her teeth, and the breath went out of him through his nose, long. She pulled off a glove and put her bare hand along his jaw where she'd watched the razor go that morning, and it was as smooth under her fingers as it had looked from the stove.
 
 "Beth," he said against her mouth, and nothing else.
 
@@ -171,7 +170,7 @@ He brought them up and stopped an inch off her zipper, and they waited there.
 
 She opened her own coat. The zipper stuck halfway on the wool, and she said a word to it, and he waited. His hands went in under the sweater and the thermal and onto the bare small of her back, and they were so cold she swore into his mouth. He laughed, and she felt it against her teeth, and he kept his hands where they were, which was what she wanted.
 
-Then they warmed, and moved, up her spine and round over her ribs, the old hauler's ridge across his palms catching on her skin, and the engine beat at her back and the cold came in at the door and the house stood lit up the hill, and she had both hands in his belt, pulling him in, and nobody had told her hands to, and her mouth was asking for things her head hadn't got to yet.
+Then they warmed, and moved, up her spine and round over her ribs, the old hauler's ridge across his palms catching on her skin, and the engine beat at her back and the cold came in at the door and the house stood lit up the hill, and she had both hands in his belt, pulling him in.
 
 "Do you want—" she said.
 
@@ -179,7 +178,7 @@ Then they warmed, and moved, up her spine and round over her ribs, the old haule
 
 "Yes," she said.
 
-His hands spread over her ribs and stopped there, his thumbs still, waiting on her. She put her own hand over one of them through the wool and held it to her.
+His hands spread over her ribs and stopped there, waiting on her. She put her own hand over one of them through the wool and held it to her.
 
 He leaned in, and his jacket swung against her hip, and something in the inside pocket pressed into her through everything, square and hard. *Log daily*, and the other thing, the one he couldn't tell her.
 

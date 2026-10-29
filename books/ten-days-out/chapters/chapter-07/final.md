@@ -156,7 +156,7 @@ She shut the book on her finger.
 
 She sat with it shut and listened to him breathe. Under the snow the cove slapped at the ledge and drew back. Witness, on Pike's line. Subject, in his pencil.
 
-She set the book face down on her knee and wiped her thumb down her jeans, hard, twice.
+She set the book face down on her knee and wiped her fingers down her jeans, hard, twice.
 
 She opened it again, at the money.
 
@@ -171,8 +171,6 @@ She said it to him low, so as not to wake him.
 The far shore was gone. The low had drawn the water off the ledges below the bank, and she could see the first of them dry and dark before the white took them.
 
 She put the notebook inside her coat against her ribs and did the coat up over it. She clipped her handheld inside, on nine.
-
-The fish house was in that book, and the book went to Portland, and from Portland to whoever read what Portland had.
 
 She took the red Pelican case from the end of the bench, where it had sat since the strips, and opened it beside the gun, where his right hand would find it. She left the lid up. She had never once left it open.
 

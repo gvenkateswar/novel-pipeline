@@ -14,7 +14,7 @@ Toward the top of the tide the boat began to work against the pier, and she coul
 
 A figure was coming along the riprap below the pier from the town end, out of the store's sightline, slow, trying each stone. One arm was held across the body. In the other hand something square caught Ned's light as it swung, and showed red.
 
-She was out the wheelhouse door and down the outside ladder and the rungs were iced under her hands and the brow lifted and dropped below her and Ned's light went across the stone and the red of the case came and went in it, and her body was a rung ahead of her the whole way down.
+She was out the wheelhouse door and down the outside ladder and the rungs were iced under her hands and the brow lifted and dropped below her and Ned's light went across the stone and the red of the case came and went in it.
 
 Ned stood halfway down the brow with the light on the man at its foot.
 
@@ -134,7 +134,9 @@ The line hissed for a breath. "I don't apologize for orders, Ms. Calloway."
 
 "I'll tell you what they were. Homeland Security asked for a daily log on you, and I ordered it. You weren't to be told. Nine thousand dollars came into your account in your own envelope, and you weren't to be told that either, not till we knew whose it was."
 
-Beth had the notebook open in the lee of her coat. She turned back to Saturday night and came forward one night at a time. His pencil was small and even, and it didn't hurry anywhere. Some nights had the weather over them, some a time, one only the tide. At the foot of the first night's entry were two words, *No indication*, and she put her thumb under them. She turned the page and found them at its foot. She found them at the foot of the next, in the same place, as if he had measured where they would go.
+Beth had the notebook open in the lee of her coat. She turned back to Saturday night and came forward one night at a time. His pencil was small and even, and it didn't hurry anywhere. Some nights had the weather over them, some a time, one only the tide. At the foot of the first night's entry were two words, *No indication*, and she put a finger under them.
+
+She turned the page and found them at its foot. She found them at the foot of the next, in the same place, as if he had measured where they would go.
 
 Snow spotted the paper and didn't run the pencil. She quit reading the rest of each night and only turned and looked at the bottom, page after page, till the pages ran out on the morning she had gone out his door.
 
@@ -182,7 +184,9 @@ He spooned the glaze on, and the lines held it.
 
 "It's lunch."
 
-He cut the first slice off the end and held it out to her on the fork. It was too hot. She ate it anyway, standing in the oven's heat with her shins warm through Kenny's jeans, the glaze running at the edge, a clove driven into it, the salt underneath. Outside the weather kept on at the steel. In here it smelled like somebody's kitchen on a holiday, and for once the boat lay quiet against the pier and asked nothing of her. She took a second piece off the board with her fingers and didn't apologize for it.
+He cut the first slice off the end and held it out to her on the fork. It was too hot. She ate it anyway, standing in the oven's heat with her shins warm through Kenny's jeans, the glaze running at the edge, a clove driven into it, the salt underneath.
+
+Outside the weather kept on at the steel. In here it smelled like somebody's kitchen on a holiday, and for once the boat lay quiet against the pier and asked nothing of her. She took a second piece off the board with her fingers and didn't apologize for it.
 
 Dane set out three plates. "Does the captain sit for this, or does he eat on his feet?"
 
@@ -266,7 +270,9 @@ She had read him in pencil that morning, to the foot of every page. His read on 
 
 "Calloway, if you're on," Tess said, bright, "I've got a pie with your name on it. I won't say which pie."
 
-Beth reached up and turned the set down to nothing. She took the notebook out of her coat and opened it on the chart table at a clean page past his last line, and drew the pencil out of the spine, and the point was going, so the letters came out thick, and she wrote *Teresa Marr* in the square capitals the island school had taught her, pressing hard, as she had printed her name at the church hall door at fourteen on the nights Tess waited at the foot of the steps with a flashlight to walk her home up the Harbor Road, and she went back over the second R where the lead skipped.
+Beth reached up and turned the set down to nothing.
+
+She took the notebook out of her coat and opened it on the chart table at a clean page past his last line, and drew the pencil out of the spine, and the point was going, so the letters came out thick, and she wrote *Teresa Marr* in the square capitals the island school had taught her, pressing hard, as she had printed her name at the church hall door at fourteen on the nights Tess waited at the foot of the steps with a flashlight to walk her home up the Harbor Road, and she went back over the second R where the lead skipped.
 
 She turned the book round and pushed it across to him.
 
@@ -298,6 +304,6 @@ He went down the brow, and its wheels ground once on the granite. Then he was on
 
 She stayed at the brow head with her eyes on the green jacket the whole way up. At the top of the pier road her hand was already coming up off the rail for his wave.
 
-He went on round the corner of the Harbor Road toward the store, and her hand was up in the cold for nobody.
+He went on round the corner, and her hand was up in the cold for nobody.
 
 He didn't look back.

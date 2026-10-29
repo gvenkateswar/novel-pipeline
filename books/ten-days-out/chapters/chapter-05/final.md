@@ -1,6 +1,8 @@
 # Chapter Five: Half Tide
 
-Her jeans hung steaming on the stove rail, and the wet wool cooked. They'd run the set till midnight and shut it down. They'd slept in their coats. At first light she'd gone along the shore to look at the fish house sill, and the squall caught her coming back and soaked her to the thigh, the rain coming sideways. Beth sat in her father's sweater with the sleeves down past her hands, Dane's fleece across her knees and her bare feet on the oven door. The heat came back into her legs from the outside in, shins first, thighs last. Dane crouched at the firebox in the Ashbys' kitchen with his sleeves shoved up and fed it one split, then another. The firelight came up under his forearms.
+Her jeans hung steaming on the stove rail, and the wet wool cooked. They'd run the set till midnight for the north point to hear, and slept in their coats. At first light she'd gone along the shore to look at the fish house sill, and the squall caught her coming back and soaked her to the thigh, the rain coming sideways.
+
+Beth sat in her father's sweater with the sleeves down past her hands, Dane's fleece across her knees and her bare feet on the oven door. The heat came back into her legs from the outside in, shins first, thighs last. Dane crouched at the firebox in the Ashbys' kitchen with his sleeves shoved up and fed it one split, then another. The firelight came up under his forearms.
 
 Between squalls the Monday air had gone dead. She put her cheek to a gap in the sheet over the window. Off the roof the smoke stood straight up in one gray stalk the whole island could read.
 
@@ -42,7 +44,7 @@ Tess held up her left hand, back out. Across the knuckles, in ballpoint, under t
 
 "Friday night. A flashlight on your back steps, ten seconds. I could see your steps from my counter, Beth." Her hand came down. "I didn't put you on the air."
 
-Beth's thumb went to the corner of the towel on the pot and worked it. On the corner Dane held his place.
+Beth's fingers went to the corner of the towel on the pot and worked it. On the corner Dane held his place.
 
 "Sat on it since Friday, Calloway. And you let me find you by your smoke."
 
@@ -56,7 +58,7 @@ Tess went brighter and faster, ringing it up like a long order. "I know where ev
 
 "I'm not your money, Tess," Beth said.
 
-"No. My money I can count."
+"No. Money I can count. Eleven-forty, nine fifty."
 
 Beth reached in at the far window and put two fingers on the book to turn it to today's page, to see whether Ashby was on it.
 
@@ -108,15 +110,17 @@ He came away from the window and took his jacket off the chair.
 
 Out the back. Down onto the ledge below the house and along the shore path in the rock's shadow, a bag on each of their shoulders. The ledge stood between them and the fire, so the glow went up into the sky and left the water black. Behind them something in the shed went with a bang. Beth didn't turn round.
 
-The bar ran out from the foot of the ledge into the dark. "Behind me," she said. "Feet where mine go." She went in without stopping. The flood came over the tops of her boots and filled them. Knee-deep. She had walked the dry top of this bar since she was six. The seaward lip never came out of the water, and she had never once felt it. Somewhere on her left was the gut, where the bottom went. His belt in her fist. Dane behind her, his feet going where hers went. The bags rode high, clear of the wet.
+The bar ran out from the foot of the ledge into the dark. "Behind me," she said. "Feet where mine go." She went in without stopping. The flood came over the tops of her boots and filled them. Knee-deep. She had walked the dry top of this bar since she was six. The seaward lip never came out of the water, and she had never once felt it.
 
-He didn't talk. Nobody had told him to. It was the first time she'd known him quiet with something burning at his back.
+Somewhere on her left was the gut, where the bottom went. His belt in her fist. Dane behind her, his feet going where hers went. The bags rode high, clear of the wet.
 
-Once his hand came back and closed on her wrist. A second. Then it let go.
+He didn't talk. Nobody had told him to. First time she'd known him quiet with something burning at his back.
+
+Once his hand came back and closed on her wrist. A second. Then it was gone.
 
 Cobbles knocking under the flood. The water working at the drop on her left, a deeper note than the bar's. Behind them the fire, a crack and a long sigh. His breathing. Over the ledge the clouds had gone red underneath.
 
-Her feet read the bar as her hands read a binder. Cobble, cobble, a flat stone that rocked. Then her left foot came down on ledge, hard and square under the weed, and past the edge of it found nothing at all. She drew the foot back and took them both a stride to the right. The cold had her shins and was working at the backs of her knees. The water in her boots was weight now.
+Her feet read the bar as her hands read a binder. Cobble, cobble, a flat stone that rocked. Then her left foot came down on ledge, hard and square under the weed, and past the edge of it found nothing at all. She drew the foot back and took them both a long step to the right. The cold had her shins and was working at the backs of her knees. The water in her boots was weight now.
 
 Then a light.
 
@@ -140,7 +144,7 @@ On the shore the beam stopped on the water once more, a long time, a long way sh
 
 They had spent more than the whole crossing she'd promised him at the stove, standing still.
 
-She went on, slow, a foot at a time. The bar rose under her. The water let go of her knees, then her ankles, and the cove was in front of them.
+She went on, slow, a foot at a time. The bar rose under her. The water dropped from her knees, then her ankles, and the cove was in front of them.
 
 The tide had been in over the sill and gone out again. The sill was wet under her hand when she found it. Inside the planks gave damp under her boots. Dark. Cold. Old bait. One door, facing the land, and she shut it behind him.
 
@@ -148,7 +152,9 @@ The matches were on the shelf where they'd always been. She found them by feel. 
 
 * * *
 
-The fish house sat under the ledge with its back to the road and the store, and its one window looked out on the bar and across the cove to the Ashby shore. The stove caught on the first match. The kindling went up with a small fierce sound. She fed it shavings off the bench, then two splits of spruce. She shut the door and sat back on her heels. In a minute the drum began to tick. In five the cold had gone down to the floor and lay along the planks. The walls began to give up their smell as the boards warmed, the pine tar coming out of them sweet and dark. She shut her eyes and breathed it in.
+The fish house sat under the ledge with its back to the road and the store, and its one window looked out on the bar and across the cove to the Ashby shore. The stove caught on the first match. The kindling went up with a small fierce sound. She fed it shavings off the bench, then two splits of spruce. She shut the door and sat back on her heels.
+
+In a minute the drum began to tick. In five the cold had gone down to the floor and lay along the planks. The walls began to give up their smell as the boards warmed, the pine tar coming out of them sweet and dark. She shut her eyes and breathed it in.
 
 She lit the lantern from a sliver out of the stove and turned it low.
 
@@ -182,11 +188,11 @@ His hand came to the hem of her father's sweater and waited there, the warm back
 
 "It's a very disappointing kit," he said.
 
-She laughed out loud. It came up out of her and filled the fish house. He knelt there with the kit in one hand and the other on her ribs and let her. That made it worse.
+She laughed out loud. It came up out of her and filled the fish house. He knelt there with the kit in one hand and the other on her ribs and waited. That made it worse.
 
 "Hands, then," she said. "And mouths. Come here."
 
-He dropped the kit on the jacket and came up onto the cot. She pulled the sweater off over her head herself, and the shirt after it. The cold off the planks came up over her bare back and shoulders. She let it.
+He dropped the kit on the jacket and came up onto the cot. She pulled the sweater off over her head herself, and the shirt after it. The cold off the planks came up over her bare back and shoulders.
 
 "Your shirt," she said. "Off."
 
@@ -196,7 +202,7 @@ Then his mouth was on her breast, and two days of stubble since Saturday's razor
 
 "There," she said. "Like that. Slower."
 
-He went slower. His tongue went over her nipple and away and back, and her head was against the boards of the wall and her eyes were shut, and the stove ticked, and outside the cove slapped at the ledge, and she was working out how high the tide would come tonight and whether the sill would stay dry, and then she lost the sum halfway, and let it go, and she heard her own voice asking him for something and couldn't have said what, and she noticed she wasn't steering any of it.
+He went slower. His tongue went over her nipple and away and back, and her head was against the boards of the wall and her eyes were shut, and the stove ticked, and outside the cove slapped at the ledge, and she was working out how high the tide would come tonight and whether the sill would stay dry, and then she lost the sum halfway and didn't go back for it, and she heard her own voice asking him for something and couldn't have said what, and she noticed she wasn't steering any of it.
 
 She got her hands on his belt. Her fingers were stiff from the bar, and the buckle beat her twice. He laughed against her ribs. "Don't help," she said. He didn't. On the next try it came.
 
@@ -218,11 +224,11 @@ She was wet, and he found it out with his tongue. The sound he made was low and 
 
 "Don't stop," she said. Then: "There. Stay there."
 
-He stayed. His mouth went slow on her, and then less slow. The red tag on his wrist dragged across her belly where his hand lay. Across the cove Ashby's fire put a dull red in the window. Wet wool dripped off the wire onto the drum and spat. Her heel went hard into his back. She came with her hand over her own mouth. Then she took the hand away, because there was no one this side of the ledge to hear her, and let the sound go.
+He stayed. His mouth went slow on her, and then less slow. The red tag on his wrist dragged across her belly where his hand lay. Across the cove Ashby's fire put a dull red in the window. Wet wool dripped off the wire onto the drum and spat. Her heel went hard into his back. She came with her hand over her own mouth. Then she took the hand away, because there was no one this side of the ledge to hear her, and the sound came out of her.
 
 The cot's iron cried out again as he came up it to her. She pulled him down alongside her and got her hand round him.
 
-"Show me," she said. He put his hand over hers and showed her. Then he took it away and let her.
+"Show me," she said. He put his hand over hers and showed her. Then he took it away and she went on alone.
 
 The man who had talked to her through the whole of Friday night had nothing to say now. He breathed, hard. "Like that?" she said. "Yes," he said, and it was the last word he had. He came in her hand with his face in her neck.
 
@@ -264,7 +270,7 @@ Her thumb found the white line across her left palm and went along it, end to en
 
 He came away from the door and sat by her on the cot. She gave him half the blanket.
 
-Under the blanket his hand found hers and stopped her thumb on the scar.
+Under the blanket his hand found hers and stopped it on the scar.
 
 "Keep her name out of what you send," Beth said.
 

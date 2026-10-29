@@ -24,7 +24,7 @@ She lifted the oak bar.
 
 "You barred me out."
 
-"Barred it. You were out."
+"You were out already."
 
 He came in past her with the cold on him. She caught his jeans at the ankle as he went by. Soaked. Cold in her bare hand, and stiff with salt.
 
@@ -190,7 +190,7 @@ She went down the ladder. The cold came through her boots at the second rung and
 
 At the hatch he stopped and looked back down at her. Then he was gone.
 
-The cold had got into the bones of her fingers, an ache down to the wrist.
+The cold ached in her fingers to the wrist.
 
 Ned came down with the new impeller in a box with Marr's price sticker on the end.
 
@@ -252,7 +252,7 @@ She took his hand off the boot and turned it over. Her thumb found the ridge of 
 
 "That's where," she said. "Why?"
 
-"Because of a girl named Marisol." He let her keep the hand. "In the car, on the way to the safe site, she asked me what I'd do if I weren't this. I said I didn't know. She said everybody who says that wants a boat."
+"Because of a girl named Marisol." His hand stayed in hers. "In the car, on the way to the safe site, she asked me what I'd do if I weren't this. I said I didn't know. She said everybody who says that wants a boat."
 
 The drum ticked.
 
@@ -274,7 +274,7 @@ The drum's heat lay along one side of her. The cove's cold came up through the p
 
 She pulled his shirt off over his head. She put her mouth to the warm side of him.
 
-They got down on the cot together. His hand came up under her breast, hard-palmed, careful, and his thumb went over the nipple once and away.
+They got down on the cot together. His hand came up under her breast, hard-palmed, careful, and brushed the nipple once and away.
 
 "Again," she said.
 

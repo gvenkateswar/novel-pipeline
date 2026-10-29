@@ -32,7 +32,7 @@ He turned to the officer. "The wheelhouse key's on my ring. She'll want it."
 
 The officer worked it off and put it in her hand. As the ring went back into the evidence bag she saw the store key on it, and an empty split ring where the small brass one for the box at her elbow had hung.
 
-At the float's edge Dane stepped in and took Ned's elbow in his good hand for the step down, and Ned leaned on it. Ned couldn't swim a stroke, and nobody on that float knew it but her. The old man's weight went off the float onto Dane's one arm and out over the strip of black water, the Marine Patrol boat dipping to meet him, Dane leaning out over the gap with him, the gunwale still going down.
+At the float's edge Dane stepped in and took Ned's elbow in his good hand for the step down, and Ned leaned on it. Ned couldn't swim a stroke, and nobody on that float knew it but her. The old man went off the float onto Dane's one arm and out over the strip of black water, the Marine Patrol boat dipping to meet him, Dane leaning out over the gap with him, the gunwale still going down.
 
 * * *
 
@@ -200,7 +200,7 @@ Dane stood on the car deck among the foot passengers with the empty sleeve pinne
 
 The light air came off the land and did half her work. The stern walked off the granite. She eased the throttles up and put the wheel over. The *North Reach* came round under her hands in one long slow swing, the diesel coming up through the soles of her boots. For a year she had done this in her head every morning, with Ned at this wheel and his coffee going cold beside her. This morning the coffee was hers, made his way, too strong to drink till Pruett.
 
-The crossing was flat and took the forty-five minutes it always took. Off Pruett the state's barge was coming out with a crane on her deck, bound for the island slip. Ten days, Ned had said, if the state got a barge out.
+The crossing was flat and took the forty-five minutes it always took. Off Pruett the state's barge was coming out with a crane on her deck, bound for the island slip. Sunday, Tess had told Lyle across her counter, and here it was.
 
 Coming into the Pruett slip, the gust came down off the hill and set her toward the north dolphin. She had the correction on before it landed, and nobody stood beside her to make it after her.
 
@@ -252,7 +252,7 @@ Beth looked at the stairwell. The *North Reach* lay at the Pruett slip with nobo
 
 Beth was already on the stairs.
 
-"Side door," Pike said behind her. "The trooper drives the speed I give him, Ms. Calloway, and I've given him two."
+"Side door," Pike said behind her. "The trooper drives the speed I give him, Ms. Calloway, and I've given him twice the limit."
 
 * * *
 
@@ -286,6 +286,6 @@ She came to the transom and stopped where she could see the letters, half of the
 
 He took the bet anyway, knowing he'd lose it, and paid her a dollar out of his pocket. She folded it once and put it in her back pocket with Ned's gloves.
 
-The last binder was on the trailer chain. He took it up with his good hand, the bad one helping where it could, and stopped short of the last quarter turn because the arm had nothing left and he had no wish to say so. Beth put her hand over his and gave it the quarter turn. Her hand was cold. Then she went forward to the ladder.
+The last binder was on the trailer chain. He took it up with his right hand, the left helping where it could, and stopped short of the last quarter turn because the arm had nothing left and he had no wish to say so. Beth put her hand over his and gave it the quarter turn. Her hand was cold. Then she went forward to the ladder.
 
 Up forward Kenny started the bow ramp up on its hydraulics. The sodium light narrowed on the steel as it rose. Dane stood at the trailer with his hand still on the binder, and above him, in the wheelhouse window, Beth had the wheel, and the gap of black water was opening between the boat and Pruett.

@@ -64,7 +64,7 @@ A body's length from his left shoulder the propane truck carried its cylinders i
 
 An hour ago, from this lane, he had sent Pike one text: *The witness put herself on the air tonight as bait. It was her call. I'm staying with it.* He hadn't waited for an answer, and he hadn't taken the phone out since.
 
-He heard her before he saw her, and he knew it was her because he hardly heard her at all. She came down the outside ladder in her socks, her boots left at the top, with a mug in one hand, and crossed the lane and put it into his good hand. The captain's coffee, stewed since afternoon.
+He heard her before he saw her, and he knew it was her because he hardly heard her at all. She came down the outside ladder in her socks, her boots left at the top, with a mug in one hand, and crossed the lane and put it into his right hand. The captain's coffee, stewed since afternoon.
 
 "I'd still put Haskell on the list," Dane said.
 
@@ -138,7 +138,7 @@ Behind her Dane had come up on one arm.
 
 "Jesus Christ, Beth," Dane said. "The man came aboard to set you on fire, and you've thrown him your buoy, which I gather is how it's done out here."
 
-The line came taut in her hands exactly where she had meant it to, with a man's whole weight hanging on the end of it in the black water off the stern, and the gasoline going cold in the wool at her feet. She got a heel on a D-ring and hauled.
+The line came taut in her hands exactly where she had meant it to, with a man hanging on the end of it in the black water astern, and the gasoline going cold in the wool at her feet. She got a heel on a D-ring and hauled.
 
 * * *
 
@@ -158,7 +158,7 @@ Ned sat on the stool in the clean collar from supper, the store's set on the she
 
 "Ned," Beth said.
 
-"I come down after supper for the phone. I stood out back where it gets its bar, on to Sector about the inspector, is he on the eight o'clock, and he is. Then I see a skiff under the dragger with no light on her, so I came in and keyed nine."
+"I came down after supper for the phone. I stood out back where it gets its bar, on to Sector about the inspector, is he on the eight o'clock, and he is. Then I saw a skiff under the dragger with no light on her, so I came in and keyed nine."
 
 "Where's your cop," Beth said.
 

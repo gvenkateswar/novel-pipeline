@@ -1,6 +1,6 @@
 # Chapter Two: The Weather Hold
 
-She had sent Reyes out through the mudroom to look at the back steps, and now the kitchen door wouldn't let him back in.
+She had sent Reyes out through the mudroom to look at the back steps, and now the kitchen door kept him out.
 
 It shook on its latch, iron on iron, and stopped, and shook again. Beth lifted the thumb-piece hard and put her shoulder to the boards, and the door went open on him.
 
@@ -12,7 +12,7 @@ He shut the door between them and tried it from his side: a clank, a rattle, the
 
 "Nobody who's been in this house makes the noise you made first."
 
-He nodded, as if she'd handed him a fact he could use, and pushed the wet hair off his forehead with the heel of his hand. Snow had caught in the gray at his temples and was melting there, and she watched one drop run down past his ear all the way to his collar.
+He nodded, as if she'd handed him a fact he could use. Snow had caught in the gray at his temples, and she watched one drop run down past his ear to his collar.
 
 She went by him and out onto the step, into a wind making from the east with the first snow in it. Below the road the fuel float was bare. She went along the moorings with her eyes, one ball at a time, and found the skiff past the last of them: one man at the oars, his face to her hill, pulling long and even for the outer harbor. He rowed like somebody who had learned before he could walk.
 
@@ -78,7 +78,7 @@ Tess looked at the tower and then at him, pricing both. "Wrong's free, Marshal. 
 
 She went up the pier quick with the inked hand held out to dry, and a minute later the store bell rang faintly down the wind.
 
-Back aboard, Beth doubled the bow lines to the pier at dusk, and again in full dark, with the tide coming in on top of the storm. Dane had asked her twice to come in. When she didn't, he stayed a stride behind her on the car deck, down the one lane of steel between the bait truck and the propane truck, booked for the two o'clock and the propane run behind it, neither of which ran.
+Back aboard, Beth doubled the bow lines to the pier at dusk, and again in full dark, with the tide coming in on top of the storm. Dane had asked her twice to come in. When she didn't, he stayed a step behind her on the car deck, down the one lane of steel between the bait truck and the propane truck, booked for the two o'clock and the propane run behind it, neither of which ran.
 
 She had the spare line in her fist when something above them screamed.
 
@@ -158,7 +158,7 @@ From the road end Dane whistled once, low. She was already on the gangway, the w
 
 * * *
 
-They went home by the shore with no lamp, Beth first, over rockweed and new snow, and she heard him find the knee-high ledge below the church with his shin. The back steps were iced, so she thumbed the flashlight on for a few breaths, and they came up out of the dark glazed and gray.
+They went home by the shore with no lamp, Beth first, over rockweed and new snow, and she heard him find the knee-high ledge below the church with his shin. The back steps were iced, so she switched the flashlight on for a few breaths, and they came up out of the dark glazed and gray.
 
 "Light."
 
@@ -232,7 +232,7 @@ She went down the hall without a light, along the wall where the boards didn't t
 
 Back at the brick his hand was on the gun, and he talked so low it came to her through his shoulder.
 
-"I'm on your right. The brick's at your back, and it's still warm, which is good of it. Your father's clock is going to keep going, and that's fine, let it. Anything that comes through that door meets me first." His hand found her knee under the blanket, once, and went back to the gun. "Let him come to us."
+"I'm on your right. The brick's at your back, and it's still warm, which is good of it. Your father's clock is going to keep going, and that's fine. Anything that comes through that door meets me first." His hand found her knee under the blanket, once, and went back to the gun. "Let him come to us."
 
 In the snow-light from the window, the clock's hands on its shelf stood at twenty to twelve.
 
@@ -244,7 +244,7 @@ Dane was at the kitchen door before the second lift had finished, against the wa
 
 The outer door banged. Feet went down the back steps, fast, and away toward the harbor.
 
-He waited a long breath. Then he lifted and shoved, and past his shoulder she saw the mudroom door swinging and the steps white under the sky, with dark scuffs going down them in the sleet.
+He waited a long breath. Then he lifted and shoved, and past his shoulder she saw the mudroom door swinging and the steps white with new snow, with dark scuffs going down them in the sleet.
 
 He shut both doors and came back to the brick, and didn't sit.
 

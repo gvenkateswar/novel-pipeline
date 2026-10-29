@@ -2,7 +2,7 @@
 
 Beth went down the trucks with her gloves off.
 
-Sleet came flat across the car deck at twenty to nine, orange where it crossed under the floods, and it found the gap between her cuffs and her wrists every time she bent. She read the binders by feel. The co-op's bait truck smelled like a decision somebody had made about herring in August. The plumber had chained his own van, the way he billed, generously and with gaps, and its aft binder gave a quarter turn under her fingers that it had no business giving. Her hands had it taken up while her eyes were still on the next one.
+Sleet came flat across the car deck at twenty to nine, orange where it crossed under the floods, and it found the gap between her cuffs and her wrists every time she bent. She read the binders by feel. The co-op's bait truck smelled like a decision somebody had made about herring in August. The plumber had chained his own van, the way he billed, generously and with gaps, and its aft binder gave a quarter turn under her fingers that it had no business giving. She took it up and went to the next one.
 
 The dealer's reefer came up the ramp last. The unit on its nose was dark.
 
@@ -84,7 +84,7 @@ The courier's van backed down to the head of the ramp and the courier lifted one
 
 That brought him back, and she got his eyes for the first time, brown and tired at the corners. "I watch whatever leaves your hands. It's a habit, and not one of my better ones."
 
-After that he watched her instead. She felt it on the side of her face while she worked, steady and unhurried, and she made the line do a thing it didn't need to.
+After that he watched her instead. She felt it on the side of her face while she worked, steady and unhurried, and she paid the same fathom out twice.
 
 "Kenny's puking and there's no relief on a storm Friday." She put a turn on the cleat. "Master and one deck. That's the certificate. Without me she doesn't leave the slip."
 
@@ -122,7 +122,7 @@ He jumped badly, all knees and no plan, and the new boots hit the lip of the ris
 
 He kept the wrist, and she kept the jacket. She could feel the sea working under the ramp through the soles of her boots, and the cold of his hand, colder than hers, wrapped all the way round the bones of her wrist like he had measured it, and the water widening behind him where Pruett had been, and his breath going in and out against her knuckles, and she was still holding on.
 
-She had him, and she'd had him for a while now. Somewhere in there it had turned into two people on a cold deck holding each other by the clothes, and she couldn't have said which of them was supposed to move first.
+Somewhere in there it had turned into two people on a cold deck holding each other by the clothes, and she couldn't have said which of them was supposed to move first.
 
 She opened her hands first.
 
@@ -176,9 +176,9 @@ His hand went inside his jacket and came out with a folded paper, dry, the only 
 
 "I can't put you in the car," he said. "This I can do."
 
-She opened it with her thumb. The court at the top, in capitals. And under it, typed, all three of them: *Elizabeth Ann Calloway*.
+She unfolded it. The court at the top, in capitals. And under it, typed, all three of them: *Elizabeth Ann Calloway*.
 
-She turned it to the light. It didn't give under her thumb the way a binder gave. He'd had it on him the whole time, at the cleat, on the ramp, with her fists knotted in his jacket right over it, and he'd waited till she had him aboard to bring it out. He was watching her hands again.
+She turned it to the light. He'd had it on him the whole time, at the cleat, on the ramp, with her fists knotted in his jacket right over it, and he'd waited till she had him aboard to bring it out. He was watching her hands again.
 
 She folded it once along the crease he'd made and pushed it down into her bib pocket.
 
@@ -202,7 +202,7 @@ Past the head of Marr's dock the night's slush lay on the planks, and one set of
 
 Reyes was on her other side, looking up the hill at the houses. Beth stepped over the line where it crossed the head of the dock and kept walking.
 
-Halfway up the hill his phone buzzed. He read it and didn't put it away. He typed as he walked, thumbs quick, and she watched somebody she would never meet get a line about her morning. She took him in by the front door.
+Halfway up the hill his phone buzzed. He read it and didn't put it away. He typed as he walked, fast, and she watched somebody she would never meet get a line about her morning. She took him in by the front door.
 
 In the kitchen she pinned the subpoena under the barometer and tapped the glass, and the needle dropped.
 
