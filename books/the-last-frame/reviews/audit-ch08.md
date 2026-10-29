@@ -1,4 +1,4 @@
-# Audit — the-last-frame (chapters 01–08, 24,771 words)
+# Audit — the-last-frame (chapters 01–08, 24,795 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -77,11 +77,11 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 
 ### Frequent 3–5 word n-grams (4+ uses, whole book)
 
-- 9× “the end stool”
 - 8× “the glass block”
 - 8× “all ten lanes”
 - 7× “through the glass”
 - 7× “in both hands”
+- 7× “the end stool”
 - 7× “the snack bar”
 - 7× “and said nothing”
 - 7× “let it go”
@@ -143,7 +143,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 05 | 3,126 | 20.3 | 16.3 | 16% | 0.0 | 0.3 | 0.0 | 2 | mean short |
 | 06 | 2,792 | 14.9 | 10.5 | 17% | 0.0 | 0.4 | 0.7 | 2 | short |
 | 07 | 2,890 | 18.5 | 14.8 | 15% | 0.0 | 0.3 | 0.0 | 3 | mean |
-| 08 | 3,306 | 21.5 | 14.8 | 9% | 0.0 | 0.3 | 0.0 | 2 | mean |
+| 08 | 3,330 | 21.2 | 13.9 | 10% | 0.0 | 0.3 | 0.0 | 2 | mean |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -188,7 +188,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | em dashes | 0 | 0 | 0 | 1 | 0 | 3 | 4 | 3 | 11 | 0.4 | 2.0/1k |  |
 | semicolons | 3 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 6 | 0.2 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0.1 | 1.0/1k |  |
-| one-sentence paragraph | 6 | 23 | 21 | 19 | 13 | 29 | 11 | 16 | 138 | 5.6 | report |  |
+| one-sentence paragraph | 6 | 23 | 21 | 19 | 13 | 29 | 11 | 17 | 139 | 5.6 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 

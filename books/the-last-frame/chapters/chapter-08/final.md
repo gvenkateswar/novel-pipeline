@@ -1,6 +1,6 @@
 # Chapter 8: Position Relief
 
-Gil Arsenault held the house ball out in a bowling glove he had no use for, his good wool overcoat still buttoned.
+Gil Arsenault held the house ball out in a bowling glove he had no use for, his good wool overcoat still buttoned. Ray had called the match himself, three strings to bring Ellen's two walkout teams home from this building, and it was his money on the table.
 
 "House rules, Ray. Three strings, total pins, my house balls. You'll forgive the house balls; they're older than you."
 
@@ -44,7 +44,7 @@ One of the Highway crew laughed and quit. Gil's anchor, a lineman half Ray's age
 
 Before the third string the man from the Bench's end stool leaned on the rail in his coat.
 
-"Had a dollar on Gil's man, Ray. Nothing personal. Man that's buying the place come March don't bowl hard to fill it."
+"And the veteran comes to the line for the third string, folks, with a dollar of mine riding against him. Had it on Gil's man, Ray. Nothing personal. Man that's buying the place come March don't bowl hard to fill it."
 
 Denise, loud enough to carry, to nobody: "He's a hundred-and-four average with a hundred-and-forty heart. Don't tell him I said either."
 
@@ -60,7 +60,7 @@ Gil keyed his wireless mic, and two words came out of the ceiling.
 
 Dale stood and picked his bag up off the carpet. "Tuesday, then."
 
-The lot was cold enough to ache in his teeth, and Hollis came out with him. The man from the end stool was at Ray's truck ahead of them, and he put a folded dollar into Hollis's glove without a word. Hollis put it in his waterproof notebook.
+The lot was cold enough to ache in his teeth, and Hollis came out with him. The same man was at Ray's truck ahead of them, and he put a folded dollar into Hollis's glove without a word. Hollis put it in his waterproof notebook.
 
 "She wrote the league a letter," Hollis said. "Verna read it out to the Thursday division, every word, and copied it in the book, and gave me the page for the committee. You read it yet?"
 
@@ -76,9 +76,9 @@ It was a yellow sheet off her legal pad with the gum still along its top edge. A
 
 He folded it in three and put it inside his jacket, beside the blank envelope.
 
-"You anchor Tuesday."
+"You anchor Tuesday," Ray said.
 
-"Where'll you be?"
+"Where'll you be?" Hollis said.
 
 \* \* \*
 
@@ -104,7 +104,7 @@ She didn't stop, or turn. "You have no reason to believe I would have come anywa
 
 The Bench stood inside the door in their coats with nothing to call.
 
-Then the man from the end stool, who had paid Hollis a dollar in the Pine Ridge lot, left the other two standing and went past her to the pot with his coat still on, poured a cup, black, and held it out to her across the end of the counter.
+Then the one who had paid Hollis a dollar in the Pine Ridge lot left the other two standing and went past her to the pot with his coat still on, poured a cup, black, and held it out to her across the end of the counter.
 
 "Coffee's on."
 
@@ -132,15 +132,13 @@ The scanner said a car was off the road by the town beach, nobody hurt, and a wr
 
 "Do you know what you're asking me?"
 
-"Tell me what happens to you if she misses, Arlene, and tell it plain, because I'd rather hear it from you than work it out by myself in the truck."
-
 She brought her copy of the contract out of a box with no lid on it yet and laid it on the oilcloth by his plate, three pages stapled at the corner, Ellen's printing on the last one and his scrawl under it.
 
-"If you aren't standing there, nobody buys it. The Pines gives my room to the next name, and I go on the bottom of that list at eighty-four, and I may not live to the top of it."
+"If she misses and you aren't standing there, The Pines gives my room to the next name, and I go on the bottom of that list at eighty-four, and I may not live to the top of it."
 
 "You'd be paid, though, wouldn't you?"
 
-"Months on, dear, when my lawyer's done selling it out from under her, and that condo man has the lot for what the dirt is worth."
+"Months on, dear, when my lawyer's done selling it out from under her."
 
 "I know it."
 
@@ -208,15 +206,15 @@ Her weight went off the bad knee and came back onto it.
 
 He took a pencil out of her cigar box and turned it end for end. "Hollis says his committee voted on an Open, and nobody voted on a name."
 
-"Agreed." Her eyes went down the dark lanes and came back to him. "Nine teams entered for Linda's cup alone, and wrote her name on the form to say so. I will call all nine in the morning and offer their money back, and all nine will take it. That puts me a hundred and fifteen dollars under thirty thousand, with every lane of the Open full."
+"Agreed." Her eyes went down the dark lanes and came back to him. "Nine teams entered for Linda's cup alone, and wrote her name on the form to say so. I will call all nine in the morning and offer their money back, and all nine will take it. That puts me a hundred and fifteen dollars under thirty thousand, with every lane of the Open full. The Open is my whole margin, and the weather owns the Open. Page two refunds every entry in cash if weather stops play, so a hundred and fifteen under with every lane full means one storm takes all of it."
 
-He offered her nothing. A hundred and fifteen dollars was a kids' birthday party on a Saturday with the fryer going, or most of one. He had heard her swear to her daughter, the house and not the rest, and he put the pencil back in her box and his hands in his jacket pockets.
+He offered her nothing. He had heard her swear to her daughter, the house and not the rest, and he put the pencil back in her box and his hands in his jacket pockets.
 
 "Snack bar might find you some of it, Linda's night."
 
 "In fries."
 
-He laughed out loud, once, and it went down the dark lanes.
+He laughed out loud, once, at something that was not funny, and it went down the dark lanes.
 
 He unfolded the page and turned it round to face her. It was one sheet on Arlene's lawyer's letterhead, and it let the three of them go from the March paper once the third name was on it, with Arlene's signature at the top, and his under hers, and a line left at the bottom with nothing on it.
 
