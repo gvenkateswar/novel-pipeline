@@ -14,6 +14,23 @@
 - Lines added: 9   Lines cut: 0 (2 gaze-choreography beats cut, 1 narration sentence and 1 simile cut)
 - Tag-strip test: pass. Beth drops subjects and gives verdicts and imperatives, and asks only her one desire question. Dane uses whole sentences with "because" and "which," "talk to me," "copy," "for the record," and jokes at his own expense. Russ keeps his subjects, asks and answers himself, says "somebody," and runs slow. Ned keeps his subjects, gives weather first, uses understatement and says "Bethie." The weakest point is S1's "Hands?" / "Pockets.", which is fine because it is Beth's fear register on purpose.
 
-### For the orchestrator / voice editor
+## v2
+
+*Dialogue doctor, October 29, 2026, light pass. Read: chapters/chapter-04/draft-revised.md (the tournament winner, 5–1). Wrote: chapters/chapter-04/draft-dialogue.md (overwritten). Beats: beats-v2.md, "Chapter 04" section.*
+
+---
+## Dialogue log
+- Scene 1 (Russ): the two Russ paragraphs in a row ("Feds told me…" then "Nothing's flying") are now split by Beth: "Nobody said you were," Beth said. That gives the laugh line a comeback (a flat verdict, deadpan agreement aimed at Russ), and every Russ paragraph is still tagged. To pay for it, cut the narration "They went on down the path."
+- Scene 1 (Dane's refusal): the three-reasons sentence is now two sentences in his shape, a long clause that builds to a dry turn and then a short close: "Any boat here could be theirs, and a wake across that bay is an arrow with us on the end of it," Dane said. "Thank you." "Can't read this sea" is gone. Its point carries in "could be theirs" (he can't tell them apart), and the wake reason stays. Russ's "took that, and drank" is unchanged.
+- Scene 2 (the bag): added one exchange of the couple inside the Q&A, right after "Walk me through it." Beth: "Pump's right there." / Dane: "I know where it is." Her tactic is to steer him back to the job, because she has just given him her father and he answered with the bag. He holds his ground and stays dry, and he doesn't pick the pump up. That is the beat's subtext (intimacy taken as an interview) without anyone naming it. It pays the narration line "He didn't touch it." Kept verbatim: "Who sees the slip?" / "Tess. Me. The teller." The boot knock stays as the second couple beat.
+- Trims to stay at the ceiling: "She heard boots below them before she saw anything, coming up." became "Then boots below them, coming up." "Russ poured coffee, walking" became "Russ poured, walking" (the cup is already unscrewed).
+- Scenes 3–4 untouched.
+- Kept exactly: "That's a not yet," / "One I can't afford," / "Then save up."; "That's a narrow definition of waterproof."; "Ninety seconds, if you don't stop. And you stay inside where I put you."; "Pull it."; "Fare bag's red. That's the boat's. Tess seals hers yellow."; "Sold. Sorry."; the Pike screen.
+- Not used: "Okay," "For the record," "I'd like it noted," "Talk to me," "with his whole face," "into her hair," contrast constructions, any new Ned tell. "Bethie" appears once, in Ned's mouth.
+- Lines added: 3 (Beth to Russ; the pump exchange, 2)   Lines cut: 0 (1 narration sentence cut, 2 narration lines trimmed, 1 Dane line shortened)
+- Word count: net about -2 against draft-revised. Words added: +6 (Beth) and +8 (pump). Words cut: -6 (path), -4 (Dane's line), -5 (boots), -1 (coffee). It should still sit at or just under 2,646. The orchestrator should confirm with `wc -w`.
+- Tag-strip test: pass. Beth drops subjects and gives verdicts ("Pump's right there," "Nobody said you were"). Dane talks in whole sentences that turn dry at the end, his refusal included. Russ keeps his subjects, says "somebody," and runs slow. Ned answers with weather first and says "Bethie." The pump exchange is the one place two short lines sit together. It still strips clean, because his line keeps its subject and hers drops it.
+
+### For the orchestrator / voice editor (v1 notes, kept for the record)
 - **Word count:** estimated net +140 to +160 over draft-revised. Run `wc -w` against the 2,438–2,862 band. If it's over, trim the S1 narration first. Dane's lines are now the longest dialogue in the chapter, on purpose (standing note).
 - **Narration fact snag (left alone, not my remit):** in S3 the seal is "Thursday's seal… cut off the fare bag, spent," but she "knotted the strap" and pulled it "tight with her teeth," then it "zipped through the teeth and caught." A spent, cut seal re-zipping, plus "teeth" twice, reads oddly. The beats call for a spare, unused tag. Flag for the writer or continuity.
