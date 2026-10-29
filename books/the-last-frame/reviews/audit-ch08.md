@@ -1,4 +1,4 @@
-# Audit — the-last-frame (chapters 01–08, 24,797 words)
+# Audit — the-last-frame (chapters 01–08, 24,771 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -21,8 +21,8 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | The sign's buzz | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
 | The dead K | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |  |
 | Ettle / Ettle's | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
-| Hollis's cap | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
-| Ray's key ring | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 3 | 4 |  |
+| Hollis's cap | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 3 |  |
+| Ray's key ring | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 4 |  |
 | Holding out the key | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
 | "Not yet" (Ch 8's line) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 3 |  |
 | "upside down" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
@@ -51,7 +51,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | American chop suey | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | "Scale of one to ten" | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 3 |  |
 | "The Pines doesn't take half" | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
-| "Voyons donc" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 |  |
+| "Voyons donc" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | Licked thumb | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 2 |  |
 | Gloves off | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 3 | 4 |  |
 | Breath on his wrist | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
@@ -61,7 +61,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Pencil behind the ear | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | Glasses on the forehead | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | The pool sheet | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 5 |  |
-| Locker fourteen | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 3 | 5 |  |
+| Locker fourteen | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 | 5 |  |
 | Linda's 187 | 1 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 3 | 4 |  |
 | Crash like wooden spoons | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
 | Chair dragged (the table's sound) | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
@@ -77,57 +77,57 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 
 ### Frequent 3–5 word n-grams (4+ uses, whole book)
 
-- 8× “through the glass”
-- 8× “and said nothing”
+- 9× “the end stool”
 - 8× “the glass block”
 - 8× “all ten lanes”
+- 7× “through the glass”
 - 7× “in both hands”
-- 7× “the end stool”
-- 7× “at half past”
 - 7× “the snack bar”
-- 7× “ray said and”
+- 7× “and said nothing”
 - 7× “let it go”
 - 7× “the end of the counter”
-- 6× “behind the counter”
 - 6× “the highway department”
-- 6× “the steel door”
+- 6× “at half past”
 - 6× “the highway crew”
-- 6× “the bell went”
-- 6× “the key cutter”
 - 6× “the adding machine”
 - 6× “on all ten lanes”
 - 6× “in the pit behind five”
+- 5× “behind the counter”
 - 5× “through the steel”
+- 5× “the steel door”
 - 5× “let go of”
 - 5× “across the counter”
-- 5× “the far end”
-- 5× “ray watched her”
+- 5× “the scorer's table”
+- 5× “her vest pocket”
+- 5× “said a word”
 - 5× “his shirt pocket”
-- 5× “the first time”
-- 4× “front door and”
+- 5× “ray said and”
+- 5× “dale looked at”
+- 5× “inside his jacket”
+- 4× “gagnon and son”
 - 4× “ray put his”
+- 4× “the far end”
 - 4× “highway department and”
 - 4× “did not raise”
-- 4× “the scorer's table”
 - 4× “still warm from”
-- 4× “strip of tape”
-- 4× “her vest pocket”
+- 4× “the bell went”
+- 4× “ray watched her”
+- 4× “her eyes went”
+- 4× “the key cutter”
 - 4× “a pinsetter man”
-- 4× “said a word”
-- 4× “far end of”
+- 4× “the first time”
 - 4× “raise his voice”
-- 4× “did not look”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
 - jaw: 1 (0.0/1k)
-- knuckles?: 4 (0.2/1k)
+- knuckles?: 5 (0.2/1k)
 - throat: 0 (0.0/1k)
 - reath: 1 (0.0/1k)
 - pulse: 1 (0.0/1k)
-- chest: 3 (0.1/1k)
-- hands? (stopped|stilled|went still|flat): 4 (0.2/1k)
-- shoulders?: 18 (0.7/1k)
+- chest: 4 (0.2/1k)
+- hands? (stopped|stilled|went still|flat): 3 (0.1/1k)
+- shoulders?: 17 (0.7/1k)
 - gaze: 0 (0.0/1k)
 - tightened: 0 (0.0/1k)
 - swallowed: 1 (0.0/1k)
@@ -143,7 +143,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 05 | 3,126 | 20.3 | 16.3 | 16% | 0.0 | 0.3 | 0.0 | 2 | mean short |
 | 06 | 2,792 | 14.9 | 10.5 | 17% | 0.0 | 0.4 | 0.7 | 2 | short |
 | 07 | 2,890 | 18.5 | 14.8 | 15% | 0.0 | 0.3 | 0.0 | 3 | mean |
-| 08 | 3,332 | 19.0 | 13.2 | 9% | 0.0 | 0.3 | 0.0 | 3 | mean |
+| 08 | 3,306 | 21.5 | 14.8 | 9% | 0.0 | 0.3 | 0.0 | 2 | mean |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -155,10 +155,10 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 ### Mood words per 1,000 (count; flag a cluster, not a word)
 
-- quiet: 6 (0.2/1k)
+- quiet: 5 (0.2/1k)
 - humm?(ing|ed)?: 6 (0.2/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 55 (2.2/1k)
+- still(ness)?: 58 (2.3/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 0 (0.0/1k)
@@ -178,17 +178,17 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 | Construction | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | Total | /1k | Cap | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| as if / as though | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 3 | 0.1 | 1.0/1k |  |
+| as if / as though | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 1 | 4 | 0.2 | 1.0/1k |  |
 | the way (a|the|people|someone) ... | 0 | 0 | 0 | 2 | 0 | 0 | 1 | 0 | 3 | 0.1 | 1/ch | FLAG |
 | the kind of ... that | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 2/ch |  |
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0.0 | 0.0/1k | FLAG |
-| sentence-initial And/But/And yet | 2 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 7 | 0.3 | 3.0/1k |  |
-| em dashes | 0 | 0 | 0 | 1 | 0 | 3 | 4 | 1 | 9 | 0.4 | 2.0/1k |  |
+| sentence-initial And/But/And yet | 2 | 1 | 1 | 0 | 1 | 0 | 1 | 2 | 8 | 0.3 | 3.0/1k |  |
+| em dashes | 0 | 0 | 0 | 1 | 0 | 3 | 4 | 3 | 11 | 0.4 | 2.0/1k |  |
 | semicolons | 3 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 6 | 0.2 | 2.0/1k |  |
-| perception filter (she noticed / could hear) | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 3 | 0.1 | 1.0/1k |  |
-| one-sentence paragraph | 6 | 23 | 21 | 19 | 13 | 29 | 11 | 14 | 136 | 5.5 | report |  |
+| perception filter (she noticed / could hear) | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0.1 | 1.0/1k |  |
+| one-sentence paragraph | 6 | 23 | 21 | 19 | 13 | 29 | 11 | 16 | 138 | 5.6 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
