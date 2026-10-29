@@ -9,10 +9,10 @@ Keys, judge files and tallies are in each `chapters/chapter-XX/variants-ms/sN/`.
 
 | T | Scene | Winner (lead) | Round wins | Head to head against the incumbent |
 |---|---|---|---|---|
-| T1 | Ch 06 s3 | v1 (couple: the arm-through walk under the glass) | 12 of 18; won all 12 comparisons it was in | 5 of 5 in so far |
-| T2 | Ch 08 s5 | v3 (the other person: Tess on 68, the pie, Beth turns the set down) | 9 of 18 (v1 8, v2 1); the buyer split 3–3, so the tie went to most total wins | 5 of 5 in so far |
-| T3 | Ch 09 s6 | v3 (the other person: Tess pushes, "Haskell. Don't you.") | 11 of 18 (v2 7, v1 0) | 5 of 5 in so far |
-| T4 | Ch 10 s2 | v3 (registers: Quist passive, Tess interrupts) | 12 of 18 (v2 6) | 5 of 5 in so far |
+| T1 | Ch 06 s3 | v1 (couple: the arm-through walk under the glass) | 12 of 18; won all 12 comparisons it was in | **6 of 6** |
+| T2 | Ch 08 s5 | v3 (the other person: Tess on 68, the pie, Beth turns the set down) | 9 of 18 (v1 8, v2 1); the buyer split 3–3, so the tie went to most total wins | **6 of 6** |
+| T3 | Ch 09 s6 | v3 (the other person: Tess pushes, "Haskell. Don't you.") | 11 of 18 (v2 7, v1 0) | **6 of 6** |
+| T4 | Ch 10 s2 | v3 (registers: Quist passive, Tess interrupts) | 12 of 18 (v2 6) | **5 of 6** (the skimmer on opus preferred the incumbent, low confidence: "A reads faster and ends cleanly on 'Tell him yes.'") |
 | T5 | Ch 10 s5 | v1 (couple: "Where is he?" / "Tell him she sails from Pruett at three") | 11 of 17 valid (one judge excluded: it misread the files) | 6 of 6 |
 
 The winners were installed in `final.md` (pre-tournament copies are `final-pre-ms.md`) once each head to head reached 4 of 6, a majority the remaining judges couldn't overturn.
