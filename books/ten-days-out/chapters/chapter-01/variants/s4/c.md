@@ -32,6 +32,8 @@ Off the fuel float a skiff lay to its painter with one man in it. Hood up. Oars 
 
 "That's him."
 
+Reyes kept his eyes on the skiff.
+
 "Man off the reefer. Hood. Drags the left heel."
 
 "He went back with the truck."
