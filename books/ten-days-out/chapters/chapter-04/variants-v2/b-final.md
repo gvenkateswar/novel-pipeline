@@ -154,6 +154,8 @@ Ned poured. "Glass is coming up. Be down to a breeze by morning, squalls in it. 
 
 He had a boat taking water and a hip that hurt him on every step of that drive, and Beth kept the man on the spine off him.
 
+The *North Reach* would keep till the barge, and then till June, and then Ned would give up her wheel and the district would hire a man from away. Put my name in. Four words. Her hundred-ton license was in her wallet, and the corner of it pressed her ribs when she breathed. She held the funnel and didn't say them.
+
 "Night, Bethie. Marshal."
 
 He went down the drive. At the foot of it the flashlight swung up once toward them, a single arc, and went on toward the harbor.

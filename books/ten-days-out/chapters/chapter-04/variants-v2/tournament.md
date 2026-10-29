@@ -18,3 +18,6 @@ Grafts into b-final.md:
 The bag Q&A carries the seal-tag plant, so it stays. It is flagged for the dialogue pass to give it a couple beat.
 
 **Next:** a head-to-head against the incumbent Ch 04 final.md, with 6 judges (`h2h/`).
+
+## Head-to-head with the incumbent (6 judges)
+**b-final 5, incumbent 1.** The judges said the new chapter keeps the couple together under a real threat (lying hip to hip on the pad while the man watches from the spine), and that the old version spent the same stretch on Dane's play-by-play and Russ's exposition. The one thing the incumbent had that b lacked was Beth's unspoken "Put my name in." That beat is now grafted into b's Ned scene in four sentences, and b-final becomes draft.md. The old final is kept as final-v1.md.
