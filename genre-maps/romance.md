@@ -49,3 +49,5 @@ A series opener leaves one clear, legible hook (who the next couple is, or what 
 ## Sample reader persona (default; the brief or the research may replace it)
 
 A woman in her forties to sixties who reads on her phone in bed, mostly KU, three or four books a month in this sub-genre, who abandons a sample when the couple has not been in a room together by the end of it or when the opening is all setup. She is tired of: heroines with no job, instant love, generic small towns, and books that feel like they were written to a list.
+
+- **A chapter never answers its own cliffhanger.** If a chapter ends on an ask (money, a yes, a door), the answer opens the next chapter. The cold reader on *The Last Frame* Ch 09 closed the chapter "with nothing left to worry about" because Kate's yes arrived on the same page as the question. Pair: every chapter ending is a question the next chapter opens on, and the reader is told in one line what the answer costs before it comes.
