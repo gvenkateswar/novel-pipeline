@@ -91,3 +91,7 @@ The research phase, the per-chapter order, the clean-manuscript build, commit-af
 ## 2026-10-26 — Version 1
 
 Ten agents (market-analyst, niche-spotter, comp-reader, story-architect, bible-builder, plot-architect, prose-writer, continuity-checker, voice-editor, cold-reader), a generate → check → revise → edit → cold-read loop per chapter, autopilot mode, one repo per book. Added during Book 1: the external review stage (seven-role editorial panel).
+
+## Oct 29, 2026 — Ten Days Out: sample reader contamination
+- The sample-mark re-read was started with no persona. The agent built one from `book-brief.md` as its definition allowed, and the brief's approvals named the leak. Its suspect read was thrown away and the read was rerun clean (`reviews/sample-read-sample-mark-r2-contaminated.md` kept for the record).
+- Fix (`.claude/agents/sample-reader.md`): with no persona, build it from `research/chosen-angle.md` only; never open the brief, bible, outline or reviews. Pair: the orchestrator always passes the persona line from the book's first sample read.
