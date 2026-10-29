@@ -26,7 +26,7 @@ Russ Whitcomb came up onto the bare top with a thermos under his arm and stood t
 
 "Down," Beth said.
 
-Russ went down. He did it the way a cow lies down: one knee, the other knee, a long slow tilt, the thermos held up out of harm the whole way like a baby at a christening. He arrived on his elbows beside Dane and set the thermos upright on the rock.
+Russ went down. He went down like a cow lying down: one knee, the other knee, a long slow tilt, the thermos held up out of harm the whole way like a baby at a christening. He arrived on his elbows beside Dane and set the thermos upright on the rock.
 
 Nobody on the hill spoke while the man on the afterdeck looked. Then he turned back to the skiff.
 
