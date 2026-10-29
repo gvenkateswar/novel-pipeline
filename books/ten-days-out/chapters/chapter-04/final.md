@@ -36,7 +36,7 @@ He kept looking at the top of the hill, as if somebody had told him where.
 
 She couldn't. She moved nothing but her eyes.
 
-He put the hood up, ran the skiff out from under the store dock and pulled into the chop. A man on her afterdeck took his painter, and the skiff went up her side on a line.
+He put the hood up, ran the skiff out from under the store dock and pulled into the chop. A man on the dragger's afterdeck took his painter, and the skiff went up her side on a line.
 
 So he had a boat now.
 
@@ -196,7 +196,7 @@ At the foot of it he turned and lifted the light once, a short arc of yellow in 
 
 * * *
 
-Monday came in between squalls, and at dead low the bar lay dry from the Ashby shore toward Calloway Cove, gravel and cobble, hers end to end. Ashby had one road out. She wanted a back door. That meant finding where the gut dropped while she could still see the bottom.
+Monday came in between squalls, a week before the Monday that mattered in Portland, and at dead low the bar lay dry from the Ashby shore toward Calloway Cove, gravel and cobble, hers end to end. Ashby had one road out. She wanted a back door. That meant finding where the gut dropped while she could still see the bottom.
 
 At the seaward end the bottom went out from under the bar in a dark trench, and the wash came in over the cobbles knocking and drew back with a long suck.
 
