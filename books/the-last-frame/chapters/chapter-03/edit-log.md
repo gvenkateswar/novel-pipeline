@@ -37,3 +37,15 @@ Source: `reviews/revision-brief.md`. final.md edited in place. Estimated net min
 - [§3, raised voice] S1 cut "He did not raise his voice, and the people nearest the counter heard every word of it." (Dale).
 - [§4, "She said nothing to it" variants] S1 "He looked off down the lanes and said nothing." → "He looked off down the lanes." S3 "Ray didn't say anything. His hands had stopped." → "His hands had stopped." S4 "Hollis sat in the cab and said nothing through the glass." → "Hollis sat in the cab with the engine running." Kept: Hollis's "measurement" line, "she put nothing," Denise's "rarer than the money" (laughs), and "Neither of them answered."
 - [§4, ordinals] Ch 03's pit list stays, per brief. [§4, "the order went out of it"] S4's use is the book's second; kept.
+
+---
+
+## Voice editor, revision round 1 (Oct 29)
+Source: `reviews/revision-brief.md` §4. final.md edited in place. `wc -w`: 3,255 (was 3,285; beat target 3,200; band 2,944-3,456). Scenes: S1 726, S2 525, S3 1,066, S4 924.
+
+- [Ordinals] S1 counting the room: "First… Next… Next… Then" → "the ones already moving first… Then… Then…". S1 Ellen's announcement: "First, the settees… Second… Third… Fourth" → the four items with no ordinals, still under "Here is the order." Only the pit's First/Second and the third item print as a list in this chapter.
+- ["in order"] S4 "They go home in order after that, oldest first" → "They go home oldest first after that". Pit lines ("a third item, in order behind the other two"; "It isn't in order yet") untouched.
+- ["The order went out of it"] Kept (the S4 desire paragraph).
+- ["level"] Four uses cut: S1 "at the level she used on the PA" → "in the voice she used on the PA"; S1 "Her voice was level and kind and a little bored" → "Her voice was kind and a little bored"; S3 "at the same level" → "in the same voice".
+- ["She said nothing" variants] S1 "There was nothing to put after it, and she put nothing." cut (the "You did," carries it). S2 Denise "said nothing at all, which was rarer than the money" → "for once she let the last word stand" (also removes a second "which was…" gloss on silence next to Hollis's). S3 "She had the sentence ready, and she did not say it again." cut: it restated the *No readback* paragraph before it. Kept: Hollis's "said nothing, which from Hollis was a measurement" and "Neither of them answered."
+- [Lane numbers] "the old couple on the settee at lanes one and two."

@@ -44,7 +44,7 @@ She moved her shoulder an inch, and he went in past her into the warm with the k
 
 By six minutes past six the vestibule smelled of wet wool and road salt, and the league was coming in out of the snow in twos and fours, unwinding scarves, calling across the shoe cubbies to people they had stood behind at the post office that morning. At the inner door the warm air off the fryer met them, and every one of them stopped a second to breathe it.
 
-Ellen stood behind the counter and counted the room as it filled. First, the ones moving: the Highway Department crew straight off their trucks with their hoods still up; Denise Lavoie, in a red Kettle Lanes polo washed pink at the shoulders, going between the register and the fryer at the same speed in both directions; and a small old woman in a lavender parka zipped to the chin with a three-ring binder held against her chest. Next, the ones who had stopped: Arlene Fortier on a snack-bar stool with her coat still on and a coffee in both hands, who had sold her the building at eleven and come back at six to see who she had sold it to, and the dozen at the cubbies holding their shoes and not putting them on. Forty-three people, and every one of them had looked at the counter at least once in five minutes. Ellen was fifty-eight and two years retired by statute. For most of her working life she had been the voice in a room full of people watching a radar scope, and now she stood with all of them looking at her and could think of nothing useful to do but finish the count.
+Ellen stood behind the counter and counted the room as it filled. The ones moving came first: the Highway Department crew straight off their trucks with their hoods still up; Denise Lavoie, in a red Kettle Lanes polo washed pink at the shoulders, going between the register and the fryer at the same speed in both directions; and a small old woman in a lavender parka zipped to the chin with a three-ring binder held against her chest. Then the ones who had stopped: Arlene Fortier on a snack-bar stool with her coat still on and a coffee in both hands, who had sold her the building at eleven and come back at six to see who she had sold it to, and the dozen at the cubbies holding their shoes and not putting them on. Forty-three people, and every one of them had looked at the counter at least once in five minutes. Ellen was fifty-eight and two years retired by statute. For most of her working life she had been the voice in a room full of people watching a radar scope, and now she stood with all of them looking at her and could think of nothing useful to do but finish the count.
 
 Ray came out through the steel door by lane ten, wiping his hands on a rag. On his way past the trophy case he rapped one knuckle on the glass, once, and kept walking. Ellen looked where he had not. Among fifty years of tarnished cups stood a framed card, Women's House High Single, Linda Gagnon, a hundred and eighty-seven, with a photograph of a dark-haired woman caught at the release. Beside the case hung locker fourteen with a brass padlock through the hasp. Ellen had tried every key Arlene gave her in every lock she owned that afternoon, and the padlock was the one none of them fit. She filed it. Nobody explained it.
 
@@ -54,7 +54,7 @@ A broad man in a blaze-orange watch hat set a lane sheet on the counter and turn
 
 "No. I've read the rules."
 
-"Won't help. Owner's ball. Lane five." He wrote her name in with a golf pencil. "Ray's team is on six." His face did not change when he said it, and Ellen understood it had been arranged, most likely days ago and most likely on a napkin. "Small ball, no holes, three balls a box," Hollis said. "Throw it like you mean to let go of it."
+"Won't help. Owner's ball. Lane five." He wrote her name in with a golf pencil. "Ray's team is on lane six." His face did not change when he said it, and Ellen understood it had been arranged, most likely days ago and most likely on a napkin. "Small ball, no holes, three balls a box," Hollis said. "Throw it like you mean to let go of it."
 
 "Noted."
 
@@ -70,7 +70,7 @@ She looked across the counter. Ray had one shoe on and the other in his hand, an
 
 "No," she said. "I will book it with you. Eight o'clock tomorrow morning, the front and the back. I will be here from seven."
 
-She heard a pencil, and a man working to keep his voice level. "Eight o'clock," Danny said. "Front and back. I'll put it on his sheet."
+She heard a pencil, and a man working to keep his voice down. "Eight o'clock," Danny said. "Front and back. I'll put it on his sheet."
 
 At the cubbies somebody laughed and stopped. Ellen hung up. Ray put his foot up on the rung of the stool and started on the second shoe, a double knot, and spoke to the laces.
 
@@ -82,13 +82,13 @@ At half past six she bent to the gooseneck microphone. The PA hummed a second be
 
 "Good evening. This is Ellen Daly, the owner." A few heads turned. "Lanes one through ten, cleared to bowl."
 
-The laugh started at the far end with the Highway Department and came down the burnt-orange settees to the counter, and on lane two somebody said "Roger, roger," into his cupped hands. She let it run out. "Any machine trouble, bring it to the counter with your lane number," she said, at the same level, "and I'll take it in sequence." She did not raise her voice, and it reached lane ten as plainly as the end of the counter; by the last word the building had gone quiet. She walked to lane five with the room watching.
+The laugh started at the far end with the Highway Department and came down the burnt-orange settees to the counter, and on lane two somebody said "Roger, roger," into his cupped hands. She let it run out. "Any machine trouble, bring it to the counter with your lane number," she said, "and I'll take it in sequence." She did not raise her voice, and it reached lane ten as plainly as the end of the counter; by the last word the building had gone quiet. She walked to lane five with the room watching.
 
-Ray had already thrown on six and left four pins standing, with the fallen ones lying across the deck in front of them, and his team was discussing what his second ball would do with all that wood. Hollis put a ball in her hand. It fit like a grapefruit and weighed more than any grapefruit she had ever bought, and from the foul line the lane ran off a good deal farther than it had looked from the counter, sixty feet of old maple narrowing to ten pins no thicker than her wrist.
+Ray had already thrown on lane six and left four pins standing, with the fallen ones lying across the deck in front of them, and his team was discussing what his second ball would do with all that wood. Hollis put a ball in her hand. It fit like a grapefruit and weighed more than any grapefruit she had ever bought, and from the foul line the lane ran off a good deal farther than it had looked from the counter, sixty feet of old maple narrowing to ten pins no thicker than her wrist.
 
-She put it in order. First, four steps. Second, the arm straight back and straight through. Third, let go low, at the line, like she meant to let go of it. She took the four steps, and her arm went straight back and came straight through, and her hand let go a full second late and a foot too high. The ball came down with a crack that carried to the snack bar, took one hop off the old wood, cleared the low board between the lanes, and rolled into six without knocking. It went through Ray's wood and two of his standing pins and swept the lot into the pit.
+She laid the throw out like a handoff: four steps, the arm straight back and straight through, and let go low at the line, like she meant to let go of it. She took the four steps, and her arm went straight back and came straight through, and her hand let go a full second late and a foot too high. The ball came down with a crack that carried to the snack bar, took one hop off the old wood, cleared the low board between the lanes, and rolled into lane six without knocking. It went through Ray's wood and two of his standing pins and swept the lot into the pit.
 
-For a second nobody said anything, and then everyone did. The Gagnon & Son team wanted the box to stand, and the other team wanted it to stand differently, and the woman in the lavender parka, whom Hollis called Verna, set her binder on the scorer's table at six and turned pages until both captains ran out of things to say. "Interference from the adjoining lane," she said. "The secretary finds no precedent since nineteen seventy-nine. Re-rack and re-bowl the box, if the captains agree." The captains agreed. Ray had lost every bit of the wood he had built. He watched the machine on six set a fresh rack, and said, "Fair enough," and nothing else.
+For a second nobody said anything, and then everyone did. The Gagnon & Son team wanted the box to stand, and the other team wanted it to stand differently, and the woman in the lavender parka, whom Hollis called Verna, set her binder on the scorer's table at lane six and turned pages until both captains ran out of things to say. "Interference from the adjoining lane," she said. "The secretary finds no precedent since nineteen seventy-nine. Re-rack and re-bowl the box, if the captains agree." The captains agreed. Ray had lost every bit of the wood he had built. He watched the machine on six set a fresh rack, and said, "Fair enough," and nothing else.
 
 Her ball came back up the return between the two lanes with a hollow rumble she felt through the soles of her rented shoes, and Ray lifted it off the rack before she could reach it, walked the three steps over to five, and held it out. She took it, and he kept hold. For a second, and then for longer than a second, they both had a hand on it, his underneath and hers on top, the ball warm from the machine and from his palm, and this close she could see the nicks across his knuckles and an old white seam of scar along the side of one finger where a tool had slipped a long time ago, and she could tell through the ball, or believed she could, the moment he decided to go on holding it a little longer.
 
@@ -102,11 +102,11 @@ She turned with the ball in both hands. "Five hundred and twelve feet," she said
 
 Lane three took a second to decide whether it had been insulted, and then the man beside the heckler slapped him on the back hard enough to put his coffee on the floor.
 
-She went back behind the counter and stayed there. At seven o'clock by the clock over the cubbies, the machine at the end of lane seven ground, long and low, and then knocked, and the sweep came halfway down and stopped with the pins still under it. The motor went on grinding against whatever had stopped it. The light over seven went out. Eight bowlers stood on the approach holding balls they had nowhere to throw.
+She went back behind the counter and stayed there. At seven o'clock by the clock over the cubbies, the machine at the end of lane seven ground, long and low, and then knocked, and the sweep came halfway down and stopped with the pins still under it. The motor went on grinding against whatever had stopped it. The light over lane seven went out. Eight bowlers stood on the approach holding balls they had nowhere to throw.
 
-Ellen was at seven's settee with her phone out before anyone on it had turned around. She held it up toward the pit and recorded the noise while the machine was still making it, twenty seconds of it.
+Ellen was at lane seven's settee with her phone out before anyone on it had turned around. She held it up toward the pit and recorded the noise while the machine was still making it, twenty seconds of it.
 
-Ray came across from six and stood on seven's approach with his back to her and his head a little to one side, and listened. She watched him listen until he gave one small nod to nobody. Then the motor cut out by itself.
+Ray came across from lane six and stood on lane seven's approach with his back to her and his head a little to one side, and listened. She watched him listen until he gave one small nod to nobody. Then the motor cut out by itself.
 
 "Grinding first," she said to his back. "Then the knock. The same interval every time."
 
@@ -126,7 +126,7 @@ Arlene was eighty-four and had been in business for most of it, and she took a s
 
 She had known it could not move before she opened her mouth, and she had asked anyway, in front of the fryer, with Denise listening, which she would have to think about later and in private.
 
-Across the room Ray was going along the rack between five and six, sorting the house balls by wear, the ones thrown smooth and dull to the back and the ones with some grip left in them to the front, giving each one a quarter-turn until it sat. That afternoon Ellen had labeled every rack in the building, a strip of tape on the old maple at the end of each with its pair of lanes written on it. He peeled her label off the wood, moved it two inches to the steel upright, pressed it flat with his thumb, and went on to the next ball, and didn't look over.
+Across the room Ray was going along the rack between lanes five and six, sorting the house balls by wear, the ones worn smooth and dull to the back and the ones with some grip left in them to the front, giving each one a quarter-turn until it sat. That afternoon Ellen had labeled every rack in the building, a strip of tape on the old maple at the end of each with its pair of lanes written on it. He peeled her label off the wood, moved it two inches to the steel upright, pressed it flat with his thumb, and went on to the next ball, and didn't look over.
 
 Arlene watched him do it. "He'd have kept it nice."
 

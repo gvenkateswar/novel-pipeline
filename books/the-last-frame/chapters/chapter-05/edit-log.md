@@ -132,3 +132,16 @@ Source: `reviews/revision-brief.md`. final.md edited in place. Estimated net min
 - [§4, ordinals] One printed list in the chapter (the three items at the meeting); no change needed.
 - [§4, "She said nothing to it" variants] None cut here ("She gave none of it" and "She said none of them" stay; the halving across Ch 01–05 was done in Ch 01–04).
 - [§4, "the order went out of it"] Not present in Ch 05.
+
+---
+
+## Voice editor, revision round 1 (Oct 29)
+Source: `reviews/revision-brief.md` §4, the league meeting (S3). final.md edited in place. `wc -w`: 3,114 (was 3,135; beat target 3,000; band 2,760-3,240). Scenes: S1 626, S2 814 (floor 800), S3 1,073 (floor 700), S4 587.
+
+- [Meeting, feeling after gesture] "She wanted him to keep talking. She wanted it even now, with every sentence of it against her, and" cut from the long paragraph after Ray's speech; it said what "she stood and listened to her own two words in his mouth" already shows. "because the counting was something to hold" cut from the vote count.
+- ["level"] S3 "went out over the chairs level and courteous" → "courteous and clear"; "kept her face level" → "kept her face still".
+- ["in order"] S2 "the things she had in order" → "the things she had ready".
+- ["She said nothing" variants] S2 "She said none of them." cut ("She met him" carries it). S1 "She gave none of it." kept as the chapter's one.
+- [Worcester page] S2 kept (second of two).
+- [Lane numbers] "behind lane seven", "over lanes seven and eight. Lane seven took its wood", "the settee at lanes one and two", "on lane six … went down lane six". Verna's minutes and Ray's quote now read "the pit behind lane five" (also changed in Ch 06 and Ch 07 so all quotes match).
+- [Ordinals] The owner's three items kept (the chapter's one list).

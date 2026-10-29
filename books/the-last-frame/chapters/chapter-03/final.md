@@ -12,7 +12,7 @@ Dale Hutchins was stamping enough for both of them. He was Ambrose's road agent,
 
 "You did," Ellen said.
 
-There was nothing to put after it, and she put nothing. She had run league on the three o'clock forecast, and at twenty to eight the band had stalled over the lake and gone on unloading where it sat, and by the time she looked up from the radar on her phone the drive was one white slope with two fence posts showing.
+She had run league on the three o'clock forecast, and at twenty to eight the band had stalled over the lake and gone on unloading where it sat, and by the time she looked up from the radar on her phone the drive was one white slope with two fence posts showing.
 
 The room started deciding without her.
 
@@ -26,17 +26,17 @@ The captain turned from the counter to answer them, in the voice a man uses to g
 
 Hollis said nothing, which from Hollis was a measurement.
 
-Ellen counted the room. First, the ones already moving: the man with the keys, two women from Denise's team, the Lakeview Diner, zipping their coats, a boy in a hockey jacket halfway into the vestibule with his hood up. Next, the ones watching the door to see who went first, which was most of them. Next, the ones who could not go anywhere fast: the old couple on the one-and-two settee, a man with a cane hooked over the scorer's table, Denise behind the fryer with a basket up and dripping. Then Hollis by the door, and the captain, and Ray at her right shoulder, the one person in the building who was not looking at the door. Thirty-three besides herself, on a Thursday the forecast had already thinned, every one of them about to do something reasonable. She knew how a night came apart: one reasonable thing and then the next. She had sounded perfectly fine the last time it happened to her.
+Ellen counted the room, the ones already moving first: the man with the keys, two women from Denise's team, the Lakeview Diner, zipping their coats, a boy in a hockey jacket halfway into the vestibule with his hood up. Then the ones watching the door to see who went first, which was most of them. Then the ones who could not go anywhere fast: the old couple on the settee at lanes one and two, a man with a cane hooked over the scorer's table, Denise behind the fryer with a basket up and dripping. Then Hollis by the door, and the captain, and Ray at her right shoulder, the one person in the building who was not looking at the door. Thirty-three besides herself, on a Thursday the forecast had already thinned, every one of them about to do something reasonable. She knew how a night came apart: one reasonable thing and then the next. She had sounded perfectly fine the last time it happened to her.
 
-At five to nine she spoke at the level she used on the PA, without the PA.
+At five to nine she spoke in the voice she used on the PA, without the PA.
 
 "Thirty-three people on Kettle Road in this is a sequence of accidents. Nobody leaves."
 
 The vestibule stopped moving. "Thank you," she said to the boy in the hockey jacket, and he stepped back inside.
 
-"Here is the order," she said. "First, the settees, by pair, oldest nearest the counter, where the heat comes up from the cellar. Second, coats are blankets, and boots go by the cubbies so the floor stays dry. Third, the snack bar stays open until the fryer runs out. Fourth, anyone who would rather stay awake may bowl on all ten lanes until morning. Sleeping is free. Strings are not."
+"Here is the order," she said. "Settees by pair, oldest nearest the counter, where the heat comes up from the cellar. Coats are blankets, and boots go by the cubbies so the floor stays dry. The snack bar stays open until the fryer runs out. Anyone who would rather stay awake may bowl on all ten lanes until morning. Sleeping is free. Strings are not."
 
-Her voice was level and kind and a little bored, and under it she was still counting.
+Her voice was kind and a little bored, and under it she was still counting.
 
 "She's right, Dale," Ray said, not loudly.
 
@@ -64,7 +64,7 @@ Denise looked at her over the tape a second longer than the answer needed. Then 
 
 "I charged them for strings," Ellen said. "The snowstorm was free."
 
-Denise gave her one long look and clipped the tape to her board and said nothing at all, which was rarer than the money.
+Denise gave her one long look and clipped the tape to her board, and for once she let the last word stand.
 
 Ray was down at the far pairs collecting settee cushions two at a time and carrying them up to the near pairs, tucking them in around the old couple, who were asleep sitting up with their coats buttoned. Ellen did not have to turn her head to know it. Everyone else in the building had a place she could put them: asleep, bowling, at the urn, on her telephone. Ray she could not put anywhere, and she had been trying since nine. He straightened up with a cushion in each hand and caught her at it. She did not look away for a beat after she had any reason to, and then for one more.
 
@@ -142,15 +142,13 @@ Ray picked up a pin for the next rack and held it in both hands.
 
 "Then I'll ask you one thing," he said, "and you'll bear with me, I've got out of the habit. Linda's Memorial, the way it is now. I'd like it to stay."
 
-"It stays," Ellen said. An answer was only true with its condition attached, and she gave him the condition at the same level. "Unless the numbers say otherwise."
+"It stays," Ellen said. An answer was only true with its condition attached, and she gave him the condition in the same voice. "Unless the numbers say otherwise."
 
 On the first word of it Denise's ball came down out of the dark and took everything standing, a strike, the first of the night. It went into the cushion with a crash that filled the pit, and up the lane somebody on the settees whooped, and a few boots stamped.
 
 Ray hadn't heard it. It was in his face before he said a word, fifteen inches from hers. He was turning the pin in his hands and looking at her as though the answer had been yes and nothing after it.
 
 *No readback.* Thirty-one years, and she had never once let one go by without hearing it come back. She let this one go.
-
-She had the sentence ready, and she did not say it again.
 
 "Pins!" Denise was shouting. "Am I bowling or am I waiting?"
 
@@ -162,7 +160,7 @@ Ellen set them, spot by spot, from the head pin back, and when she sat back on h
 
 The windrow the town loader had left across the mouth of the drive came to Ellen's hip, and the sign pole was somewhere in it. She drove her shovel in where the pole ought to be and hit it on the third try.
 
-"There," she said. "Down to the gravel all the way round, so his blade can see it. He's here at seven. They go home in order after that, oldest first, and the lot is empty by eight."
+"There," she said. "Down to the gravel all the way round, so his blade can see it. He's here at seven. They go home oldest first after that, and the lot is empty by eight."
 
 Hollis had said seven when he phoned at a quarter past six, on the office's rotary phone, which had gone on working once the lights went. He had been out since five, when the loader pulled his plow free, and had gone down Kettle Road behind it opening the road to the center. Ray dug on the lake side of the pole with a square-mouthed shovel from down cellar. Across the lake the far shore was coming back out of the dark.
 

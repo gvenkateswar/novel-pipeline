@@ -122,3 +122,21 @@ Brief: `reviews/revision-brief.md`. Prose-writer, targeted. About 7 words cut (2
 - §3 ("did not raise his voice"): s2, Dale's use cut. "He did not turn to the room, and he did not raise his voice." → "He did not turn to the room."
 - §3 (same item, consequence of the cut): s2, Ray's use kept as the brief asks, with "either" dropped because the Dale line it pointed back to is gone. "Ray did not raise his voice either, and the room went quiet to hear him." → "Ray did not raise his voice, and the room went quiet to hear him."
 - §4 (ordinals): Ch 07's First/Second/Third stays, per the brief. §4 ("She said nothing to it" variants): "He gave her nothing to that" (s3) kept; the half that was cut is in Ch 06, 08 and 10.
+
+---
+
+## Voice editor, revision round 1 (Oct 29)
+Source: `reviews/revision-brief.md` §4, `reviews/commitments-round1.md` Issues 8-9. final.md edited in place. `wc -w`: 2,870 (was 2,890; beat target 2,850; band 2,622-3,078). Scenes: S1 963, S2 1,140 (floor 900), S3 755 (floor 700).
+
+- ["A quarter-turn"] S3 "walked the key round the coil a quarter turn at a time" → "a little at a time".
+- ["Weight even on both feet"] S3 → "stood square at the counter across from him." ("Square" is kept here only.)
+- ["Hands flat on the counter"] S3 "His hands lay flat on the worn front edge of the counter" kept (the book's one with Ch 10's). Neighbours loosened: S1 "her bare hand flat on the paint" → "her bare hand on the paint"; "his palm down flat over the paper" → "his palm down over the paper"; S2 "Denise's hands lay flat on the keys and stayed there" → "Denise's hands stopped on the keys."
+- ["level"] S1 "level and courteous" → "courteous". S2 and S3 "level and warm" (the PA at 6:30 and the same voice four hours old) kept as the book's deliberate two; every other "level" in Ch 01-07 is gone or reworded.
+- ["The order went out of it"] S1's desire sentence kept; "she let it come in whatever order it came" → "she let it come" (the out-of-order notice is carried by "wanted that one first and set it down last").
+- ["She said nothing" variants] Cut S2 "neither of them said anything" (Hollis/Ray) and S3 "and said nothing" (the key); S3 "He gave her nothing to that, and she began." → "The fryer ticked, and she began." Kept Ray's "He did not argue it" (S1) as the chapter's one.
+- [Ordinals] The counter's First/Second/Third stay; "in order" in "I will give it to you in order" stays with them.
+- [Peaks cued by action] "New Year's too?" now follows "Ray's jaw moved once."; "Understood." now runs into "She pulled the legal pad across the counter."
+- [Lane numbers] "Ray stood up from lane six", "the settee at lane six", "Down on lane three", "to lane six", "Down at lane six", "on lanes two and three", Verna's and Ray's "the pit behind lane five" (matches Ch 05 and Ch 06).
+
+---
+Flagged for the orchestrator: "level" is now at two (both Ch 07) across Ch 01-07, and "in order" at two outside the pit and counter lines (Ch 01 legal pad, Ch 07 counter). Ch 08-10 should not add either as Ellen's word. "Behind lane five" in Ch 08-10, if quoted, should match.

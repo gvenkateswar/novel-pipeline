@@ -10,7 +10,7 @@ Hollis asked it again in the same voice. "You courting her, or just fixing her m
 
 Ray didn't answer, because somebody was coming out across the ice from the access.
 
-A navy vest over a parka, and he knew the vest before he knew her. First-timers watched their boots, and stopped dead whenever the ice made a noise. She came straight on, square, her weight even on both feet and her eyes on the shack, with a bait bucket in one gloved hand and that arm held out from her side so it wouldn't slop.
+A navy vest over a parka, and he knew the vest before he knew her. First-timers watched their boots, and stopped dead whenever the ice made a noise. She came straight on, her eyes on the shack, with a bait bucket in one gloved hand and that arm held out from her side so it wouldn't slop.
 
 At the near tip-up she set the bucket down and went onto her right knee, keeping the left one up. She fished out a smelt with her gloves on and hooked it once behind the head, slow, and let the line back down the hole and set the flag. Her gloves were wet dark to the wrist when she stood.
 
@@ -74,7 +74,7 @@ She unfolded the three pages on the cooler lid and flattened them with her bare 
 
 Ray stopped talking. The cold lay on his boots, and on the guard her gloves steamed.
 
-"You gave me your word," he said. "In the pit. Behind five. I told the whole league so. Verna wrote it down. Dale's crew paid on it."
+"You gave me your word," he said. "In the pit. Behind lane five. I told the whole league so. Verna wrote it down. Dale's crew paid on it."
 
 "I know what is in the minutes."
 
@@ -108,11 +108,11 @@ She gave it to him exact.
 
 "I said, 'It stays. Unless the numbers say otherwise.'"
 
-He was back in the dark behind five, the flashlights down on the deck and Denise's ball coming out of the black into the cushion with a crash that filled the pit, somebody whooping up the lane, and her voice fifteen inches off, saying something more that he had taken for part of the crash.
+He was back in the dark behind lane five, the flashlights down on the deck and Denise's ball coming out of the black into the cushion with a crash that filled the pit, somebody whooping up the lane, and her voice fifteen inches off, saying something more that he had taken for part of the crash.
 
 "I never heard that," he said.
 
-Outside, Hollis's boots went along the wall toward the far tip-ups and stopped.
+Outside, Hollis's boots went along the wall toward the far tip-ups and stopped. Ray turned on the bench toward her.
 
 "Did you know I didn't hear it?"
 
@@ -144,7 +144,7 @@ She laid his gloves on the counter, folded one into the other.
 
 He picked them up, still warm from inside her vest, and put them in his jacket pocket.
 
-"You have been called to my building four times since the bob-house," Ellen said. "Lane three, twice. Nine's ball return. The belt on six. You left the invoices with Denise and went out the back."
+"You have been called to my building four times since the bob-house," Ellen said. "Lane three, twice. The ball return on lane nine. The belt on lane six. You left the invoices with Denise and went out the back."
 
 "Invoices get paid at the counter."
 
@@ -172,13 +172,13 @@ She came back to the counter and stood at it. There was nowhere to sit on her si
 
 "One," Ray said, and laid a bill across his palm. "Two. Three. Four. Five. Six."
 
-She stopped, and waited, and did not fill it.
+She stopped.
 
 "Seven. Eight."
 
 He finished, wrote the count on the slip, and shut the drawer.
 
-"You answered me."
+"You answered me," he said.
 
 "Mr. Gagnon. I would like—"
 
@@ -192,13 +192,13 @@ She turned to the Bench. "Good morning. There is a notice on your board. It conc
 
 She went out, and the bell went once behind her.
 
-Ray's hand was flat on the shut drawer. Normie was at the board before his cup was poured, reading it out in the Saturday-show voice. "The Kettle Lanes Open, boys, any team of four, cash refunds if weather stops play, and the final on all ten lanes, the Linda Gagnon—"
+Ray's hand stayed on the shut drawer. Normie was at the board before his cup was poured, reading it out in the Saturday-show voice. "The Kettle Lanes Open, boys, any team of four, cash refunds if weather stops play, and the final on all ten lanes, the Linda Gagnon—"
 
 \* \* \*
 
-On the last Tuesday before the half, at ten past six, Ray came in the front of Kettle Lanes with his team's lineage in an envelope and twenty minutes to league on the clock over lane one. Practice boxes were crashing on two and three, onion smoke off the flattop was drifting down the lanes, and the Highway crew sat along the snack-bar stools with their burgers and watched him come.
+On the last Tuesday before the half, at ten past six, Ray came in the front of Kettle Lanes with his team's lineage in an envelope and twenty minutes to league on the clock over lane one. Practice boxes were crashing on lanes two and three, onion smoke off the flattop was drifting down the lanes, and the Highway crew sat along the snack-bar stools with their burgers and watched him come.
 
-Denise was at the register talking to Ellen, low and fast. A full rack went down on three and took every word of it. Ellen shook her head once. Denise dropped a fry basket into the oil harder than it needed and turned her back.
+Denise was at the register talking to Ellen, low and fast. A full rack went down on lane three and took every word of it. Ellen shook her head once. Denise dropped a fry basket into the oil harder than it needed and turned her back.
 
 Ray laid the envelope on the counter. Over Ellen's shoulder, through the open office door, the second chair stood hooked out from the desk, facing hers, with nobody in it.
 
@@ -218,7 +218,7 @@ Dale Hutchins came off the end stool with a legal pad and laid it beside the env
 
 "My crew eats at her counter Tuesdays." Dale kept his eyes on Ray. "They can eat at Gil's."
 
-Behind him one of the crew set his burger down to listen. Down the row of settees the Legion's captain was lacing his shoes. Ray had known that team since the winter they broke the ball return on four.
+Behind him one of the crew set his burger down to listen. Down the row of settees the Legion's captain was lacing his shoes. Ray had known that team since the winter they broke the ball return on lane four.
 
 "Rest of them go where you go," Dale said, and held out his pen.
 
@@ -238,13 +238,13 @@ Ellen slit the envelope with her thumbnail and counted both in, once, without a 
 
 "Your receipt, Mr. Gagnon."
 
-He creased it once against the edge of the counter with his thumbnail, the way he creased a parts slip, and put it in his shirt pocket behind the Worcester page.
+He creased it once against the edge of the counter with his thumbnail, the way he creased a parts slip, and put it in his shirt pocket.
 
 Dale looked at the cash, and at Ray. "That's your answer."
 
 "That's my team's."
 
-Dale picked up the pad and the pen and walked down the settees to four. The Legion's captain took the pad on his knee, signed it without reading it, and handed back the pen.
+Dale picked up the pad and the pen and walked down the settees to lane four. The Legion's captain took the pad on his knee, signed it without reading it, and handed back the pen.
 
 \* \* \*
 

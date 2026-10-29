@@ -48,11 +48,11 @@ Ellen opened her mouth. Overhead in Manchester the woman said a number and a wor
 
 \* \* \*
 
-At two minutes to twelve Ellen went through the steel door by lane ten with the paper cup of sparkling cider Denise had put in her hand at ten o'clock, and sat down on the iron step behind seven.
+At two minutes to twelve Ellen went through the steel door by lane ten with the paper cup of sparkling cider Denise had put in her hand at ten o'clock, and sat down on the iron step behind lane seven.
 
 Out front Denise had the microphone, and in a minute every face in the building would be lit green and pink by a glow necklace and turned toward the owner, to see where Ray Gagnon was standing when the year went over. She had told no one where she was going, him least of all, and she had come to the one place in the building where he would look first.
 
-Through the gap under the masking the lanes lay bright and backward, the pins standing violet under the black lights, and one caged bulb burned over seven and eight. Seven took its wood in front of her, and the sweep came down and went up again, and the table dropped after it with its ten.
+Through the gap under the masking the lanes lay bright and backward, the pins standing violet under the black lights, and one caged bulb burned over lanes seven and eight. Lane seven took its wood in front of her, and the sweep came down and went up again, and the table dropped after it with its ten.
 
 "Ten," said Denise on the PA, and the curtain brought it to her half a second behind the room, so that every number came twice. The house took it up at seven and was shouting by four, and at the last one the whole building went off together, a roar and paper horns and somebody's whistle and, thin over the rest, a child on one of the near lanes still counting down from three.
 
@@ -82,7 +82,7 @@ She heard herself use the short words with him for the first time since the sign
 
 He took the cup out of her fingers and stood it on the grating by his boot.
 
-Then he turned toward her, and she felt his fingers close in the short hair at the back of her head, and he waited like that, long enough for her to say any of the things she had in order. She said none of them. She met him.
+Then he turned toward her, and she felt his fingers close in the short hair at the back of her head, and he waited like that, long enough for her to say any of the things she had ready. She met him.
 
 Her hands were bare, and she put them inside his open canvas jacket, where the flannel held the day's warmth and the canvas at the hem was still cold from the lot, and under her right palm, through the pocket, was folded paper, and she knew by the shape of it that it was the Worcester page. His mouth was cold and tasted of the urn coffee, and he kissed her as if he had spent six nights in her second chair working out how and had it settled. She leaned into the arm that had gone round her over the vest, and gave it her weight.
 
@@ -100,7 +100,7 @@ He drew back an inch and no farther, with his hand still in her hair.
 
 The folding chairs had come up from the cellar that afternoon and still smelled of it, and by six they stood in rows on the dark approaches facing the counter, every coat in the building steaming dry on its owner. Twenty captains sat in front of their teams, and Verna Tibbetts sat under the gooseneck lamp at the lane-one scorer's table with the binder and the Grange gavel.
 
-In the front row sat the old couple from the one-and-two settee, first down the drive on the eighteenth with the lot empty at seven forty-three, who would put up their team's hand tonight with the rest.
+In the front row sat the old couple from the settee at lanes one and two, first down the drive on the eighteenth with the lot empty at seven forty-three, who would put up their team's hand tonight with the rest.
 
 Ray was in the Tuesday rows, four back, with Hollis beside him. She knew where he was before she turned her head, and she turned it.
 
@@ -114,7 +114,7 @@ Ellen filed it: whoever held the building held that Saturday. Beside Ray, Hollis
 
 Ellen stood at the end of the counter. "Thank you. Three items. First, the league's rate has not moved since two thousand four. Second, the house has paid the difference every week since, and the house is now me. Third, if this meeting approves it, the new rate takes effect on the twelfth. That is all."
 
-Her voice went out over the chairs level and courteous, and under it she was counting Verna's second hand. She gave the two minutes and thirty-four seconds she had left back to the chair, and stayed on her feet. In the front row the captain uncrossed his arms and crossed them the other way.
+Her voice went out over the chairs courteous and clear, and under it she was counting Verna's second hand. She gave the two minutes and thirty-four seconds she had left back to the chair, and stayed on her feet. In the front row the captain uncrossed his arms and crossed them the other way.
 
 "The chair recognizes the gentleman with mustard on his sleeve."
 
@@ -124,11 +124,11 @@ Ray stood. "Most of you heard about my mail before I did, so here it is. The cre
 
 "Dale," Ray said, "your crew pushes snow twelve hours a night from now till mud season, and half the Legion lives on a fixed check, and they can't pay it. This is the league Linda bowled."
 
-The back rows quit shifting. "And Mrs. Daly gave me her word, the night of the storm, in the pit behind five, that Linda's Memorial stays the way it is." He turned his head and looked at her, for the first time that night. "'It stays,' she said. That book of yours lets the house set that weekend any way it likes, so her word is what the Memorial's got, and I'll hold her to it. Put it in the book, Verna."
+The back rows quit shifting. "And Mrs. Daly gave me her word, the night of the storm, in the pit behind lane five, that Linda's Memorial stays the way it is." He turned his head and looked at her, for the first time that night. "'It stays,' she said. That book of yours lets the house set that weekend any way it likes, so her word is what the Memorial's got, and I'll hold her to it. Put it in the book, Verna."
 
-His voice was low enough that the back rows leaned forward. He had called her by her last name in front of the league, four days after he had said her first with his hand in her hair, and she heard the strain in it, a half-tone high on the title, a man putting the formality back on. She wanted him to keep talking. She wanted it even now, with every sentence of it against her, and she stood and listened to her own two words in his mouth, and the other five nowhere in it, and kept back the one error of her life she would not report, because it was priced in him.
+His voice was low enough that the back rows leaned forward. He had called her by her last name in front of the league, four days after he had said her first with his hand in her hair, and she heard the strain in it, a half-tone high on the title, a man putting the formality back on. She stood and listened to her own two words in his mouth, and the other five nowhere in it, and kept back the one error of her life she would not report, because it was priced in him.
 
-Verna wrote, and then gave it to the room in the voice she kept for the minutes. "Mr. Gagnon states that the owner gave him her word, on the night of the storm, in the pit behind five, that the Linda Gagnon Memorial stays the way it is. Quote, it stays, unquote. Mr. Gagnon will hold her to it."
+Verna wrote, and then gave it to the room in the voice she kept for the minutes. "Mr. Gagnon states that the owner gave him her word, on the night of the storm, in the pit behind lane five, that the Linda Gagnon Memorial stays the way it is. Quote, it stays, unquote. Mr. Gagnon will hold her to it."
 
 "Does the owner wish to respond?"
 
@@ -138,7 +138,7 @@ Ellen sat down on the stool and put her hands on her knees. It was all in the mi
 
 "The owner declines," said Verna, and wrote that down too. "The vote is by team."
 
-Ellen got up off the stool to take it. Verna called the teams in binder order, the Highway Department first, and the hands went up one team at a time, and Ellen kept her face level and counted with Verna's pencil because the counting was something to hold: ten, eleven, and at eleven it was lost, and she went on counting to eighteen. She did not look at the fourth row. Verna counted twice, then wrote a slip of her own and folded it into the binder without adding it to either column.
+Ellen got up off the stool to take it. Verna called the teams in binder order, the Highway Department first, and the hands went up one team at a time, and Ellen kept her face still and counted with Verna's pencil: ten, eleven, and at eleven it was lost, and she went on counting to eighteen. She did not look at the fourth row. Verna counted twice, then wrote a slip of her own and folded it into the binder without adding it to either column.
 
 "Opposed, eighteen. In favor, two. The September rate holds."
 
@@ -150,7 +150,7 @@ The room broke up toward the shoe cubbies, and the captain came along the counte
 
 She rang it.
 
-She went to the panel and threw the ten toggles herself, under her own tape, for the league that had just voted her down at the rate it had voted to keep, and the lanes came up the length of the building. On six Ray hung his jacket over the end of the settee and did not look toward the counter, and the first ball of the night went down six.
+She went to the panel and threw the ten toggles herself, under her own tape, for the league that had just voted her down at the rate it had voted to keep, and the lanes came up the length of the building. On lane six Ray hung his jacket over the end of the settee and did not look toward the counter, and the first ball of the night went down lane six.
 
 \* \* \*
 

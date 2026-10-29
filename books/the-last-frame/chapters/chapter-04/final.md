@@ -6,7 +6,7 @@ He turned around at the end of the plowing, backed once into the bank, and drove
 
 He let himself in with her front key, the first time he had used it, and the cut he'd made on his own wheel went over smooth. At the counter he threw the ten toggles under her tape, and the lanes came up a pair at a time down the length of the building.
 
-You ran every machine once before a party day, empty, and you listened. He took a ball off the rack and walked the line, throwing a full box down every lane, three balls apiece, so each machine took its wood and swept and set ten fresh. Three came round half a second late at the top of her table, and he put that away for later. By the time he was back at lane one, all ten were lit and set and humming, and nobody on any of them. He wiped the approach with his sleeve, which he never did for league night.
+You ran every machine once before a party day, empty, and you listened. He took a ball off the rack and walked the line, throwing a full box down every lane, three balls apiece, so each machine took its wood and swept and set ten fresh. Lane three came round half a second late at the top of her table, and he put that away for later. By the time he was back at lane one, all ten were lit and set and humming, and nobody on any of them. He wiped the approach with his sleeve, which he never did for league night.
 
 Headlights swept the glass block. The vestibule door opened, and she stopped in it with the clipboard against her chest and the cold coming in past her, and listened.
 
@@ -122,13 +122,13 @@ He unclipped it and held the button down. "Roger that, copy, ten-four, wilco, ov
 
 "Wilco means you will comply," she said. "I have not asked you for anything yet."
 
-He went down the catwalk to two with the radio in his fist. He heard the trouble before he got there: the elevator coming round with a hitch in it, a catch at the top and a knock on the way down, the same every turn. A pin was jammed crossways in the elevator, and he worked it loose with his fingers and stood it in the rack where it belonged. The machine set clean on the next cycle.
+He went down the catwalk to lane two with the radio in his fist. He heard the trouble before he got there: the elevator coming round with a hitch in it, a catch at the top and a knock on the way down, the same every turn. A pin was jammed crossways in the elevator, and he worked it loose with his fingers and stood it in the rack where it belonged. The machine set clean on the next cycle.
 
 "She was only sulking," he told the radio, without keying it.
 
-All afternoon her voice came off his hip, low and level over ten machines, a lane and a trouble and nothing extra, and he got up off the crate for every one of them. Before long he could tell from the way she said his call sign whether it was a pin or a party, and later he stopped clipping the radio back on his belt and kept it on his knee.
+All afternoon her voice came off his hip, low and unhurried over ten machines, a lane and a trouble and nothing extra, and he got up off the crate for every one of them. Before long he could tell from the way she said his call sign whether it was a pin or a party, and later he stopped clipping the radio back on his belt and kept it on his knee.
 
-Late in the afternoon the radio said, "Pit, Counter. Lane nine, ball return slow. Birthday party on nine. Cake at the half hour. I want the return running before the candles. Read it back."
+Late in the afternoon the radio said, "Pit, Counter. Lane nine, ball return slow. Birthday party. Cake at the half hour. I want the return running before the candles. Read it back."
 
 He keyed it. "Counter, I've got it that nine's ball return is taking her sweet time bringing them home, and there's a birthday on nine that'll want its ball back before anybody lights anything, and cake's at the half hour, and I'm to have her running before the candles, and the counter would like the pit man up front after, where she can keep an eye on him."
 
@@ -144,7 +144,7 @@ He went down the catwalk to nine, grinning at the pinsetters all the way.
 
 The next time the radio opened, the first voice on it was Denise's at the register, close to the counter mic and going full tilt at a twelve-year-old who wanted to keep his own sneakers on: "Those shoes get sprayed toe and heel, every pair, every time, and your father's bowled an average I'm too kind to say out loud in those very shoes since before you had teeth and never complained once, so if you'd like shoes that smell like you, you can bowl in the ones you came in—"
 
-The click cut her off. When it opened again a few seconds later, it was Ellen, level, with a jam to clear.
+The click cut her off. When it opened again a few seconds later, it was Ellen, with a jam to clear.
 
 At five past five the radio said, "Pit, say intentions."
 
@@ -212,7 +212,7 @@ Ray waited. "And Verna said."
 
 "'Paragraph four of your agreement sends you to the bylaws,'" Ellen said. "'The secretary reads the bylaws aloud at the January meeting, in full, and the binder does not leave the secretary.'"
 
-Ray had to look down at the notice.
+Ray looked down at the notice.
 
 "There's a line in them says the September rate holds till the January meeting votes on it," he said. "Went in the January after Arlene's notice."
 
@@ -230,13 +230,13 @@ She looked at his thumb there. Then she took the notice back and laid it face do
 
 "Mostly."
 
-He had nothing left in reach to fix.
+He squared the row of ledgers with two fingers.
 
 "I eat supper at a quarter past five, have for thirty years, and you've made me late twice this week, and I can't tell if you're doing it on purpose or you're just no good with a clock."
 
 "I am very good with a clock."
 
-She said it to his face, a foot away, in the same voice she used for the time, and under it he heard the small change you hear in a motor the second before it catches. Her hand stayed on the edge of the desk, and his stayed at his side.
+She said it to his face, a foot away, in the same voice she used for the time. Her hand stayed on the edge of the desk, and his stayed at his side.
 
 "I'll be on my feet in January, Ellen."
 

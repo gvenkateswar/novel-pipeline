@@ -6,7 +6,7 @@ At half past seven the bell went, and the cold came in with Ellen Daly and lifte
 
 Out of the little speaker came a sound like a chair dragged across an upstairs floor, then the knock, then the same wait, and the chair again.
 
-Ray watched her hand. It was square and plain and red across the knuckles from the cold, and it lay flat beside the phone and waited. Last night she had finished her strip of tape before she came down the ladder.
+Ray watched her hand. It was square and plain and red across the knuckles from the cold, and it lay beside the phone and waited. Last night she had finished her strip of tape before she came down the ladder.
 
 "And here's the new owner up the middle, boys," Normie said into his cup, "and she's brought him something."
 
@@ -50,7 +50,7 @@ The cylinder was half out of her front door, and Ray was on his knees on the ves
 
 It was already on, in her hand, aimed at his work.
 
-She held the light steady, which most people can't, and close, which most people won't, down beside him with her shoulder an inch off his, and her breath on the back of his wrist came warm and even. His hands stopped. He let them stay stopped, and she didn't move the light or say a word, and the only sound in the vestibule was the door glass ticking in its frame. When he went on, the light went ahead of his hands to the place they were going next, and was waiting there when they arrived.
+She held the light steady, which most people can't, and close, which most people won't, down beside him with her shoulder an inch off his, and her breath on the back of his wrist came warm and even. His hands stopped. He let them stay stopped, and she didn't move the light, and the only sound in the vestibule was the door glass ticking in its frame. When he went on, the light went ahead of his hands to the place they were going next, and was waiting there when they arrived.
 
 He pushed the plug out, and the old pins came into his palm, small and brass and worn bright at the tips by every key that had gone in and out of that door since before he could drive. The trash can was two feet from his knee. He tipped them into his shirt pocket and buttoned the flap.
 
@@ -130,9 +130,9 @@ He knocked at the back. The lock he had pinned that morning turned over from the
 
 "Then they had better not get notions."
 
-The pit was dark but for one caged bulb over the seven-and-eight pair, and on the bench under it lay the spare clutch, already down off its nail. His tag was still wired to it with *seven* on it in his own hand, and beside the tag she had laid a strip of tape that said LANE SEVEN in black marker, in case the part had any doubts. Next to it was an envelope marked *R. Gagnon*. He left that where it was.
+The pit was dark but for one caged bulb over lanes seven and eight, and on the bench under it lay the spare clutch, already down off its nail. His tag was still wired to it with *seven* on it in his own hand, and beside the tag she had laid a strip of tape that said LANE SEVEN in black marker, in case the part had any doubts. Next to it was an envelope marked *R. Gagnon*. He left that where it was.
 
-She didn't stay. She went out through the steel door, and the lights came on over seven, and she stood on seven's approach, small and lit at the far end of the lane.
+She didn't stay. She went out through the steel door, and the lights came on over lane seven, and she stood on the approach, small and lit at the far end of the lane.
 
 "What's it doing?" she said.
 
@@ -142,7 +142,7 @@ She didn't stay. She went out through the steel door, and the lights came on ove
 
 "Depends who's asking."
 
-She was talking at the level she'd use across a counter, and it came down sixty feet of maple and under the masking and got to him whole, every word where she'd put it, and he had to holler to send anything back, and he hollered. A good many voices had come down that lane at him, Linda's among them, and none of them had come this low or got here in one piece.
+She was talking in the voice she'd use across a counter, and it came down sixty feet of maple and under the masking and got to him whole, every word where she'd put it, and he had to holler to send anything back, and he hollered. A good many voices had come down that lane at him, Linda's among them, and none of them had come this low or got here in one piece.
 
 "It's eleven minutes past ten."
 
@@ -160,7 +160,7 @@ The bolt on the old clutch had been in since the winter nine's belt let go the f
 
 "I'm on the approach to lane seven."
 
-The bolt gave its first quarter-turn. He felt that in his back teeth, and he stayed on his heels a second and let himself have it.
+The bolt gave. He felt that in his back teeth, and he stayed on his heels a second and let himself have it.
 
 He had the new clutch on and the belt back over it, and he ran her, and the warmth came off the motor into his face.
 
@@ -198,7 +198,7 @@ At the back door she said, "Your committee sits at five tomorrow."
 
 The credit union's form lay flat under Ray's left hand, and the loan officer's number was on a slip by the phone: one call before five, and the committee would take it up tonight. Danny's signature was on the last line. Ray had never asked him for it. Danny had signed it anyway, put it in the drawer under the register, and never said a word.
 
-The guard on the key cutter had a loose screw. Ray took the driver from the cup and gave it a quarter-turn, and another, and it had been tight after the first, and he gave it a third. Normie hadn't called a thing all afternoon. He sat on the end stool with his cup on his knee and watched the door.
+The guard on the key cutter had a loose screw. Ray took the driver from the cup and gave it a turn, and another, and it had been tight after the first, and he gave it a third. Normie hadn't called a thing all afternoon. He sat on the end stool with his cup on his knee and watched the door.
 
 Over the key cutter the clock's minute hand sat on its mark, and sat there, and jumped.
 
@@ -206,7 +206,7 @@ At two minutes to five the bell went over the door.
 
 The Bench went quiet. The coffee pot ticked on its plate. Somebody set a cup down with care. Down at the far register Danny had a bag of rock salt halfway to the shelf, and he held it there in the air and left it there.
 
-She came down the center aisle and stopped across the counter from him. She took her right glove off to get at her vest pocket, and her hand came out with one key in it, new, with no tag and no ring, and she laid it on the counter between his hand and Danny's name and said nothing. He knew the cut without picking it up. It was her front door, and he had cut it on his own machine yesterday morning.
+She came down the center aisle and stopped across the counter from him. She took her right glove off to get at her vest pocket, and her hand came out with one key in it, new, with no tag and no ring, and she laid it on the counter between his hand and Danny's name. He knew the cut without picking it up. It was her front door, and he had cut it on his own machine yesterday morning.
 
 She looked up at the clock, and he looked up with her.
 

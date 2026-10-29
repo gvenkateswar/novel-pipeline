@@ -150,3 +150,15 @@ Source: `reviews/revision-brief.md`. final.md edited in place. Estimated net +41
 - [§2.11] Ellen's K rule ("That is a neon tube… a sign shop's job") left as is. It needs no word: Ch 10's answer has the Laconia shop do the bending and the transformer.
 - [Flag, §2.8 arithmetic] Twenty percent down on the ledger's $365,000 appraisal is $73,000. The ledger has Ray's savings at $52,000 and his equity at $36,500 (10%). All of that is off the page, but the numbers ledger needs a decision: change the off-page figures, or make it ninety cents on the dollar.
 - Orchestrator (Oct 29): §2.8 wording changed from "eighty cents on the dollar… the other twenty" to "most of… the rest" so the page does not fix a percentage the numbers ledger cannot support (Ray's savings are about 10% of the appraisal). Domain point kept: the bank does not lend the whole appraisal.
+
+---
+
+## Voice editor, revision round 1 (Oct 29)
+Source: `reviews/revision-brief.md` §4, the office scene (S4). final.md edited in place. `wc -w`: 3,146 (was 3,166; beat target 3,000; band 2,760-3,240). Scenes: S1 934 (floor 800), S2 603, S3 652, S4 943.
+
+- [Office scene, feeling after gesture] "…in the same voice she used for the time, and under it he heard the small change you hear in a motor the second before it catches." → sentence ends at "the time." (it decoded Ellen's tell for the reader, and was the chapter's second motor comparison). "He had nothing left in reach to fix." → "He squared the row of ledgers with two fingers." (an action cue for Ray's supper line instead of a gloss). "Ray had to look down at the notice." → "Ray looked down at the notice." Kept: the thumb on the screw head, "I did.", and her turning the notice face down; they are gesture with nothing explained after them.
+- [Ray's motor comparisons] Chapter now has one (the pulse like a motor warming through, S1).
+- ["level"] S3 "low and level over ten machines" → "low and unhurried over ten machines"; "it was Ellen, level, with a jam to clear" → "it was Ellen, with a jam to clear."
+- [Worcester page] S4 kept (Ch 04 and Ch 05 are the book's two; Ch 06's is cut).
+- [Ordinals] One "First," in S4, as left by the writer round. No change.
+- [Lane numbers] S1 "Three came round half a second late" → "Lane three came round half a second late" (also fixes the count-reading the Ch 04 edit log flagged); "to lane two"; Ellen's radio call "Lane nine, ball return slow. Birthday party. Cake at the half hour." (Ray's readback still says "a birthday on nine").

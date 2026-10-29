@@ -33,3 +33,15 @@ Source: `reviews/revision-brief.md`. final.md edited in place. Estimated net +23
 - [§3, raised voice] Ch 01's "She did not raise her voice" kept, per brief.
 - [§4, "the order went out of it"] Ch 01's handoff paragraph ("it had all come out of order and left it that way") is the book's first use; kept.
 - [§4, "a quarter-turn"] Kept in the rewritten rack sentence (not in this round's assignment); flag for whoever counts the book-wide cap of two.
+
+---
+
+## Voice editor, revision round 1 (Oct 29)
+Source: `reviews/revision-brief.md` §4, `reviews/commitments-round1.md` Issues 1, 8-11. final.md edited in place, flagged lines only. `wc -w`: 3,313 (was 3,306; beat target 3,250; band 2,990-3,510). Scenes: S1 809, S2 808, S3 981, S4 700.
+
+- [Ordinals] S2 counting the room: "First, the ones moving: … Next, the ones who had stopped:" → "The ones moving came first: … Then the ones who had stopped:". S3 the throw: "She put it in order. First, four steps. Second, … Third, let go low" → "She laid the throw out like a handoff: four steps, the arm straight back and straight through, and let go low at the line, like she meant to let go of it." The one printed First/Third list left in the chapter is the broken one after "Nice arc. Wrong lane." (the desire register).
+- ["in order"] Cut from the S3 throw. One left in Ch 01 (the legal pad, S1).
+- ["level"] S1 Danny "keep his voice level" → "keep his voice down"; S2 PA "at the same level" cut.
+- [Rack passage, S4] Read once for Ray's register and the one gesture. Kept as written: "quarter-turn" stays here (the book's rack echo), the label moved from maple to steel is the one gesture. Two changes: "thrown smooth and dull" → "worn smooth and dull" (Ray reads what a thing has worn out, not what was thrown); "between five and six" → "between lanes five and six" so a listener hears a lane pair.
+- [Lane numbers] Added "lane" where a listener could lose a bare numeral: "Ray's team is on lane six", "rolled into lane six", "thrown on lane six", "scorer's table at lane six", "the light over lane seven", "lane seven's settee", "from lane six … lane seven's approach".
+- [Emotional peaks] No change needed; the laugh after "Nice arc. Wrong lane." and the Denise/Ellen exchange are cued by action.

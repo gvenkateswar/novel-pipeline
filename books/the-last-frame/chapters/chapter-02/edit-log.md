@@ -103,3 +103,15 @@ Source: `reviews/revision-brief.md`. final.md edited in place. Estimated net +3 
 - [§3, raised voice] S3 "She hadn't raised her voice. It came down sixty feet of maple…" → "She was talking at the level she'd use across a counter, and it came down sixty feet of maple…" (reworded; Ray's hollering back still follows).
 - [§4, "She said nothing to it" variants] S1 "laid her phone on his mat, and said nothing. She touched the screen." → "…laid her phone on his mat, and touched the screen."
 - [§4, same] S2 "She didn't answer it. She kept the light on the open lock." → "She kept the light on the open lock." The light carries the non-answer. S4's key "and said nothing" kept.
+
+---
+
+## Voice editor, revision round 1 (Oct 29)
+Source: `reviews/revision-brief.md` §4, `reviews/commitments-round1.md` Issue 8. final.md edited in place. `wc -w`: 2,986 (was 2,995; beat target 2,900; band 2,668-3,132). Scenes: S1 612 (floor 600), S2 963 (floor 950), S3 755 (floor 650), S4 642 (floor 600).
+
+- ["A quarter-turn"] S3 "The bolt gave its first quarter-turn. He felt that in his back teeth…" → "The bolt gave. He felt that in his back teeth…". S4 key-cutter guard: "gave it a quarter-turn, and another" → "gave it a turn, and another". The guard screw is a driver in the cup, not a thumb, and it carries the waiting (Normie, the clock), so it stays; the thumb-on-a-screw gesture is not in this chapter.
+- ["She said nothing" variants] Cut S2 "or say a word" (she didn't move the light carries it) and S4 "and said nothing" after the key lands. Left "without a word" at the end of S4 and the comic "wrote none of it down" in S1.
+- ["level"] S3 "at the level she'd use across a counter" → "in the voice she'd use across a counter".
+- ["hands flat"] S1 "it lay flat beside the phone" → "it lay beside the phone". S4 "His left hand stayed flat on the form" left (the minute's one fixed hand).
+- [Lane numbers] S3 "over the seven-and-eight pair" → "over lanes seven and eight"; "the lights came on over lane seven, and she stood on the approach".
+- [Ray's motor comparisons] Counted: the pinsetter-from-the-lot line and "bright as a new washer" in S4, plus the chair dragged upstairs (a sound, not a comparison). Two or fewer; no cut.

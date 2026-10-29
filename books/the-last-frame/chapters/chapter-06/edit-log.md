@@ -109,3 +109,15 @@ Brief: `reviews/revision-brief.md`. Prose-writer, targeted. About 10 words cut (
 
 - §3 ("did not raise his voice"): s2, cut "He didn't raise his voice." from the drawer count. That was Ch 06's only use; the brief keeps Ch 01 and Ch 07's Ray.
 - §4 ("She said nothing to it" variants, cut half across Ch 06–10): s1, cut the stand-alone "She said nothing to it." after "I never heard that." The silence is carried by Hollis's boots outside and the next question.
+
+---
+
+## Voice editor, revision round 1 (Oct 29)
+Source: `reviews/revision-brief.md` §4, `reviews/commitments-round1.md` Issue 9. final.md edited in place. `wc -w`: 2,791 (was 2,793; beat target 2,950; band 2,714-3,186). Scenes: S1 1,293 (floor 900), S2 507, S3 598, S4 379. S4 and S2 are under their beat-sheet targets, not floors; unchanged by this pass.
+
+- ["Weight even on both feet"] S1 "She came straight on, square, her weight even on both feet and her eyes on the shack" → "She came straight on, her eyes on the shack". "Square" is kept in Ch 07 only.
+- [Worcester page] S4 "put it in his shirt pocket behind the Worcester page" → "put it in his shirt pocket."
+- ["She said nothing" variants] S2 "She stopped, and waited, and did not fill it." → "She stopped." Kept: Ellen's not asking for the back room (one) and Ray not answering Danny.
+- [Peaks cued by action] S1 "Did you know I didn't hear it?" now follows "Ray turned on the bench toward her." S2 "You answered me." now tagged "he said" after the drawer shuts.
+- ["hands flat"] S2 "Ray's hand was flat on the shut drawer" → "Ray's hand stayed on the shut drawer." S1's both hands laid flat on the pages kept (the beat sheet's gesture, and it is pages, not the counter).
+- [Lane numbers] "Behind lane five"; "The ball return on lane nine. The belt on lane six."; "crashing on lanes two and three"; "a full rack went down on lane three"; "ball return on lane four"; "to lane four".
