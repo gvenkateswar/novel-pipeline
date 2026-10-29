@@ -29,6 +29,9 @@ The second test book. It tests the April 2026 finding that open-door romance is 
 ## v2 approvals (orchestrator, on the author's behalf under autopilot, Oct 28, 2026)
 
 - outline.md revision 3.1 plus the round-4 settlements (logic gate PASS after four rounds; synopsis pull 4.0 on round 3). All "Open for the author" items approved at their defaults, including Ned as the leak (reverses v1), Beth-only POV until Ch 9, Dane buying a used lobster boat as his want, and Tess not forgiving Beth in this book. Domain items go to the domain checker before Ch 01.
+- characters-draft.md: all Confirm items at their defaults (Beth's father Alton; "Bethie" is Ned's alone; Russ owns the traps line).
+- Domain check (`research/domain-check.md`): the *North Reach* is about 104 ft and under 100 GT (8 cars or one tractor-trailer plus four light trucks), so Beth's 100-ton license covers Day 10; Dane's boat is a 1966 Webbers Cove 34, firm at 31.
+- story-bible.md = story-bible-draft.md as built, all Open Questions at their defaults.
 
 ## Human gate log
 
