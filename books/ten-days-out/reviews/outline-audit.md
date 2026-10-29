@@ -831,3 +831,186 @@ If Dane stays at the fish house, a witness crosses the island alone in daylight 
 R2-1 and R2-2 are closed. R2-3 to R2-14 are settled. The exception is R2-6's Day 7 depth: that was my own error, corrected in R3-4. Eight further non-blocking items (R3-3 to R3-10) go into the beats or the bible.
 - **Before the bible:** R3-3 (the alibi start), R3-4 (the bar, the gut and the route map) and R3-6 (the truck), because the bible records the facts they depend on.
 - **Fairness passes:** a careful reader can name Ned at Ch 7 s3, two chapters before the reveal, provided R3-1 and R3-3 are fixed.
+
+---
+---
+
+# Round 4 — outline revision 3.1
+
+*Plot-auditor, Mode 1, October 28, 2026. Read: `outline.md` revision 3.1 (all 498 lines, changelog included), with `docs/ai-fiction-tells.md` Part 7 and `story-bible-v1.md` (the fish house, the cottage and the store) checked again where a fix touched them. Rounds 1–3 above stand as the record. Same bar: a finding blocks only if question 2, 3 or 4 has no answer in the outline. I re-checked the tides in the outline's route map against my round 3 working, and they agree.*
+
+## R4 Part A. Round 3 items
+
+| # | Round 3 finding | Revision 3.1 answer | Status |
+|---|---|---|---|
+| R3-1 | The red seal dismissed aloud in front of Dane | (a) In her head, alone in the crew mess at the end of Ch 7, and never spoken. (b) The report reads "Pouch: two bags, one red seal noted." She has also taken the notebook | **Closed.** Dane never hears the misreading and doesn't know the colors, so he has no reason to raise them. The wording of (b) needs one fix (R4-1) |
+| R3-2 | Ch 2 watch: out, then asleep; the quiet door ignored | The front yard, to report the truck; why they stay; the door goes quiet while he's out; she brings him in; both awake at 11:40; "she wakes him" cut | **Closed.** One timing point (R4-4) |
+| R3-3 | The alibi contradicted by Ch 4 | "He hasn't come off that boat since he brought you the diesel"; aboard since Sunday dusk | **Settled** |
+| R3-4 | The tides and the route | A route map: the bar between Ashby and the cove; the shore under the bank from the fish house to the town lane, dry below half tide. Day 4: a stride inside the gut. Day 7: a third ebbed, the last ledge thigh-deep. Day 8: the cove road and the tracks | **Settled.** It matches my corrected working and the v1 bible's fish house. One ordering point in Ch 7 s5 (R4-5) |
+| R3-5 | The screen against the Ch 4 interview | Read as the protection log and case secrets; the unasked "Is this going in your log?" | **Settled** |
+| R3-6 | Whose truck | The store pickup; the keys on Tess's hook under Ned's charger; Ned leaves them in it; planted in Ch 3, recognized in Ch 5, paid in Ch 10 | **Settled as a choice.** The mechanics have a conflict (R4-2) |
+| R3-7 | The notebook's Day 5 entry | Split; Quist relays on the ledge in Day 5 daylight | **Settled** |
+| R3-8 | Dane on Day 6 | In the wheelhouse watching the pier; Beth below with Ned | **Settled** |
+| R3-9 | Dane's claim | A leak suspect through Ch 5, a betrayer through Ch 7 | **Settled** |
+| R3-10 | Smaller things | The yard line is cut; he shuts his eyes at the screen; the trooper | **Settled** |
+
+## R4 Part B. New material checked
+
+- **Beth takes the notebook and leaves the open Pelican case.**
+  - It works as a message: he knows what's gone, and the case says she patched him first.
+  - It makes the Ch 8 condition concrete: she reads what she holds.
+  - Nothing in Ch 8 needs the notebook back in Dane's hands.
+  - One cost the outline can use for free (R4-6): she carries every location he logged past a man being guided by radio at the church.
+- **The credit union's report: "Pouch: two bags, one red seal noted."** It closes R3-1 but states something that isn't true (R4-1).
+- **The store pickup.** It's a good clue that points two ways. The keys conflict with Tess's own use of the truck (R4-2), and Dane does nothing with what he learns (R4-3).
+- **The route map.** Consistent with the tides and the v1 layout:
+  - the bar is between Ashby and the cove, and the trips to town don't cross it;
+  - the shore under the bank sets the low-water rule;
+  - Day 8's tracks come off the cove road at high water, which is right.
+- **Dane in the wheelhouse on Day 6.** That works. The confession and the tide question happen below, out of his hearing. Beth and Dane are seen at the ferry in daylight from the dragger's new mooring. That costs nothing, because they leave at the night low by the shore and the fish house stays hidden.
+
+**No new blocking findings.** Every attack, setback and decision has an answer in the outline to questions 2, 3 and 4.
+
+## R4 Part C. Non-blocking findings, ordered by cost to the reader
+
+**R4-1. "One red seal noted" says something false, and the reveal line repeats it**
+**Where:** the seal-tag section ("Pouch: two bags, one red seal noted"); Ch 7 s3; Ch 1 ("the district's red-tagged fare bag inside it"); the leak: Ned ("reseals the bag with a red tag from his own drawer"); Ch 9 s4 ("the correction: the store bag was the red one").
+**Fails:** Q9, fairness. The clue misstates a fact.
+- **Both bags were red that day.** On Day 1 the pouch held the fare bag (always red) and the store bag (resealed red by Ned). "One red seal" reads as one of two, which implies the other was yellow, which implies nobody touched the store bag. A careful reader who works the clue honestly is misled by the text, not by Beth.
+- **The reveal repeats the error.** "The store bag was the red one" in Ch 9 says the same false thing. At the reveal that reader will check back and feel cheated.
+
+**The architect should:**
+- Word the report as the teller recording one seal, not counting one. For example: "Pouch: two bags. Seal noted: red." The teller wrote down the seal on the bag with the flagged envelope and didn't record the other.
+- Leave Beth's in-head misreading as it is. She reads "seal noted: red" and assumes it's the fare bag's.
+- Make the Ch 9 correction: "The seal the teller wrote down was the store bag's. And the store's are yellow."
+
+Then the clue is true, the misreading is Beth's, and the reader can beat her to it.
+
+**R4-2. The pickup's keys against Tess's own use of the truck**
+**Where:** the leak: Ned (Day 1 "lifts the store pickup's keys off Tess's hook… leaves them in the truck"; Day 4 "at noon on Monday, while Tess is out on rounds, he… leaves the keys again"); Ch 5 s1 (2 p.m., "the store pickup in the drive"); Ch 3 s2 (Tess at the store on Day 1 at 10:40, logging the light); Facts the bible must record, item 2.
+**Fails:** Q1. The fact conflicts with itself.
+- **Day 4.** At noon Tess is out on her rounds in that truck, with its keys. Ned can't leave keys in a truck she is driving. At 10 p.m. the same truck is in the Ashby drive. Where was it parked, and who had the keys between 2 p.m. and 10?
+- **Day 1.** Tess is at the store from before 10:40 to after Ned's 10:50 report. If the truck is parked at the store and taken just before eleven, she would hear her own truck start. That would make her a witness to its use, and she says nothing.
+
+**The architect should:** say in the bible that there is a spare key on the hook, and that the truck lives in Tess's dooryard overnight.
+- Ned pockets the spare at the store (Day 1 at about 10:55; Day 4 at noon) and leaves it on the back step for Doucette.
+- Doucette takes the truck from Tess's dooryard after she's gone to bed and leaves it back before light.
+- On Day 1, add one line: Tess locks up and goes home after Ned's report.
+
+Then the noon visit still fits Ned's alibi, and Tess sleeps through her truck being used.
+
+**R4-3. Dane does nothing with the store's truck at the arson**
+**Where:** Ch 5 s2 (Beth recognizes the store's truck in the Ashby drive); Ch 5 s4 ("Three things you didn't count"); Ch 8 s5 (Beth names Tess to Pike).
+**Fails:** Q4, at low cost.
+On Day 4 night Dane learns that a vehicle registered to the store was at an arson aimed at a federal witness. A careful deputy reports it at his next call. Someone would then ask about Russ checking the truck, or about Quist interviewing Tess on Day 5. The outline is silent. If Dane reports it, Tess is in federal view from Day 5, which changes the weight of Beth's Ch 8 naming.
+**The architect should:** add one line in Ch 5 s4 or Ch 6 s2.
+- Dane reports the truck, and Quist's answer is the same as for the boat: don't touch the store, and don't spook the network.
+- Beth asks him to keep Tess's name out of it, her concealment again, and he writes "store vehicle" without a name.
+
+Then Ch 8 is still the first time anyone names Teresa Marr, and it is still Beth who does it.
+
+**R4-4. Ch 2 s5: the gap between the quiet door and the latch**
+**Where:** Ch 2 s5 ("While he's out, the mudroom door… goes quiet"; "At 11:40 the latch lifts").
+**Fails:** Q5, at low cost.
+The truck comes just before eleven. Dane is out for a few minutes. The latch lifts at 11:40. That leaves someone holding or standing inside the mudroom door for half an hour or more, and Dane, armed and knowing it, holding the chimney rather than clearing a dark doorway.
+**The architect should:** in the beats, either:
+- shorten the gap: the truck at about 11:25 and the latch at 11:40; or
+- say what the quiet means: he's inside the mudroom with the outer door shut, waiting for the house to settle.
+
+Then add one line from Dane on why he won't open an inner door on a man in the dark: "He comes to us. Not the other way."
+
+**R4-5. Ch 7 s5: the order of the walk**
+**Where:** Ch 7 s5 ("The church, Doucette guided by handheld, the woodshed. The shore at the night low. Ned lets her aboard at two"); the route map (the shore under the bank runs from the fish house to the town lane; the church is on the Harbor Road in town).
+**Fails:** Q2, at low cost.
+- **Geography.** Geographically it is the shore first, then the town lane and the church.
+- **The tide clock.**
+  - The night low on Day 7 is about 10:05 p.m.
+  - The ledges stay dry until about 1 a.m., which is half flood.
+  - She is aboard at 2.
+  - So she has to be past the last ledge by about 1, which leaves the church and the woodshed hiding between about 1 and 2.
+
+**The architect should:** reorder the beat to shore, church, ferry, and let the bible's map carry the times.
+
+**R4-6. A free cost: the notebook in her coat**
+**Where:** Ch 7 s4–s5.
+**Fails:** none. This is an opportunity.
+Behind the church woodshed, with a man being guided past by radio, she is carrying a log of every place they've slept, including "B's family property." One clause in her head: if they take her, they take the book. That raises the stakes of the woodshed for nothing and makes taking the notebook a choice with a cost.
+
+**R4-7. Two consecutive question endings**
+**Where:** the Positions table (Ch 7 "question", Ch 8 "question (unease)"); the outline's own note.
+**Fails:** the outline's own rule, not Part 7.
+Part 7 caps soft endings, not repeated types, so this passes the checklist. The architect has already offered to make Ch 7 a cut. Recommended: end Ch 7 on Ned in the doorway with the coffee and the line unsaid, or on the line with the cut immediately after. Either way the rule holds.
+
+## R4 Part D. Questions 6–9
+
+**6. Stakes curve.** Unchanged and rising. Act 1: her exit, her home, his viewing. Act 2a: his boat, Ashby, her guard. Act 2b: Dane's arm, by her choice; the window; Dane himself. Act 3: Tess, Ned, privacy under oath. **Pass.**
+
+**7. Subplots.** Four, none resolved by Beth. **Pass.**
+
+**8. Moral weight.** Five condemnable choices, each with a cost on the page. Taking the notebook adds a sixth small one: she walks off with federal records. It has a cost if R4-6 is used. **Pass.**
+
+**9. Reader knowledge: the earliest a careful reader can name Ned.**
+- **Ch 1–3: suspicion only.**
+  - "I'll work it short. Go home." against the manning rule.
+  - Three sources for Day 1: Tess's light, Ned told, Dane's call.
+  - Two plants that point both ways: "Ned's color" with Dane outside, and Ned's charger under the hook where the pickup's keys hang.
+- **Ch 4–5: tilts away from Ned, and the truck makes the tilt stronger.**
+  - The Day 3 search of the empty cottage says the leak didn't have Ashby yet.
+  - Tess learns Ashby from the smoke at noon.
+  - Her own truck is in the drive at ten.
+  - Ned is aboard since Sunday dusk, "since he brought you the diesel," and Tess says it herself with two pots on the seat.
+
+  A careful reader leaves Ch 5 suspecting Tess, and that is the misdirect working.
+- **Ch 6: every clue reads two ways.** The shorts confession, the impeller box, the tide question against the county call, and the keys against the town ring.
+- **Ch 7 s3–s5: the naming.** "Seal noted: red" (once R4-1 is reworded) against "Ned's color." A careful reader doubts Beth's in-head misreading and names Ned at about 66–68%. **The reveal is Ch 9 s4, about 85%. Two chapters. Inside the limit. Pass.**
+  - **Condition: R4-1.** As worded now, "one red seal" pushes the careful reader away from the store bag with a false fact, and that is unfair.
+- **No earlier route to Ned.**
+  - The store pickup could point at Ned through his own store key. But on Day 4 his alibi covers him, and the truck's movements don't need him.
+  - The impeller box is ambiguous by design.
+- **Dane.** A live leak suspect through Ch 5 (the calls, the screen, the stove that brought Tess, the money until Ch 4). A live betrayer through Ch 7. Cleared at Ch 8 s3 by Beth's own call. **Pass.**
+- **Fairness.** Nobody is introduced late. The reveal needs no fact the page hasn't shown, once R4-1 makes the report's wording true.
+
+## R4 Part E. Part 7 checklist (`docs/ai-fiction-tells.md` Part 7)
+
+1. **Subplots: two or more, not all resolved by the protagonist.** Four, none resolved by Beth. **Pass.**
+2. **Escalation.** Rising. **Pass.**
+3. **Scene endings: more than one in four soft, or two in a row, means rewrite.**
+   - The chapter endings are consequence, question, cut, consequence, reversal, cut, question, question (unease), consequence, open image.
+   - One soft ending, the last scene, which the genre allows. **Pass.**
+   - The repeated question type in Ch 7–8 is the outline's own rule (R4-7).
+   - Scene-level types are still to be assigned in the beats. Ch 10 s4 is marked as a consequence, which is correct.
+4. **Sentences that state the theme or a general truth about people.** None new.
+   - The watch items in the Pacing flags carry the round 3 list.
+   - "Who'll have them married by Tuesday" is a joke in a voice, not a maxim.
+   - "Ned always looks back" is one man's habit. **Pass.**
+5. **Moral choices.** Five plus the notebook. **Pass.**
+6. **Tag-stripped scene per chapter.** Not testable in an outline. The risks are listed in the Pacing flags: Ned and Beth; Pike and Quist; Russ and Ned. The character designer owns them.
+7. **Cross-chapter frequency.**
+   - "Palm flat" once (Ch 3).
+   - The hands rested in Ch 4.
+   - Cold varied.
+   - The yard-call pattern flagged.
+   - "Thirty-one" rests after Ch 3, and the boat is capped at one mention per scene.
+   - **New to watch: "the store's truck."** It recurs in Ch 2 (unnamed), Ch 3 (the hook), Ch 5 (the drive) and Ch 10 (Quist). It's a plant, and fine, but name it differently each time it is seen.
+8. **Timeline.** Linear and day-stamped; one overlap in Ch 9; jumps in Ch 10. The genre allows more, and none is needed. **Pass.**
+9. **Dreams and frames.** None. **Pass.**
+10. **Humor.** About nineteen planned laughs, at least one in every chapter. The new Ch 2 gossip ("You. Since this morning.") is a good one. **Pass.**
+
+## Round 4 verdict
+
+**PASS: 0 blocking items.**
+
+R3-1 and R3-2 are closed, and R3-3 to R3-10 are settled. The new material (the notebook taken, the credit union's two-bag report, the store pickup, the route map, Dane in the wheelhouse on Day 6) opens no question 2, 3 or 4 that the outline leaves unanswered. Seven non-blocking items, R4-1 to R4-7, go into the bible or the beats.
+
+**Before the bible:**
+- **R4-1:** reword the report as "Seal noted: red," and change the Ch 9 correction to match. This is a fairness condition: as written, the clue states something false.
+- **R4-2:** the spare key and where the truck spends the night, plus Tess going home on Day 1.
+
+**In the beats:**
+- R4-3: Dane reports the truck; Quist says don't touch it; Beth keeps Tess's name out.
+- R4-4: the Ch 2 timing.
+- R4-5: the Ch 7 s5 order.
+- R4-6: the notebook's cost.
+- R4-7: the Ch 7 ending type.
+
+**Fairness passes:** a careful reader can name Ned at Ch 7 s3–s5, two chapters before the reveal, on the condition that R4-1 is fixed.

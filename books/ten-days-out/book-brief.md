@@ -26,6 +26,10 @@ The second test book. It tests the April 2026 finding that open-door romance is 
 - **v1 peaks the architect may keep as events:** the reefer lid on the car deck; the 11:40 latch and "Who knew you were here?" / "You."; the generator shed; the bar crossing and her fist in his belt; "It's a very disappointing kit"; condoms at Tess's counter; the landing ambush; the warning on channel 9; the car deck in the dark (socks on steel, the ring buoy); "The ham is eleven pounds."
 - **Known v1 logic holes to design out** (`reviews/manuscript-audit.md`): why the ferry can't carry passengers before the bridge is fixed; the helicopter and sea-intercept options on the last day; why Beth's body must be on the deck.
 
+## v2 approvals (orchestrator, on the author's behalf under autopilot, Oct 28, 2026)
+
+- outline.md revision 3.1 plus the round-4 settlements (logic gate PASS after four rounds; synopsis pull 4.0 on round 3). All "Open for the author" items approved at their defaults, including Ned as the leak (reverses v1), Beth-only POV until Ch 9, Dane buying a used lobster boat as his want, and Tess not forgiving Beth in this book. Domain items go to the domain checker before Ch 01.
+
 ## Human gate log
 
 (none yet)

@@ -495,3 +495,12 @@ One or two trade details per scene. Set pieces: Ch 1 s1, Ch 2 s3, Ch 9 s4 (cap s
 13. **The store pickup as Doucette's truck, with Ned leaving the keys.** It adds weight to Tess's side in Ch 5. **Default: yes.**
 14. **Carry-overs:** fentanyl, the content note, Russ and Quist, the ledger. **Default: yes.**
 15. **Titles** are working titles.
+
+---
+
+## Settled after logic gate round 4 (orchestrator, Oct 28, 2026; binding for the bible and beats)
+
+- **R4-1 (fairness).** The credit union report reads "Pouch: two bags. Seal noted: red." Both bags were red that day (the fare bag always is; Ned resealed the store bag with a ferry tag). The Ch 9 correction is "The seal the teller wrote down was the store bag's. And the store's are yellow."
+- **R4-2 (the pickup).** Doucette uses a spare key from the hook in Tess's office, which Ned leaves on the back step. The truck spends Day 1 night in Tess's dooryard and is taken after she has gone to bed; one line has Tess going home after Ned's report on Day 1. On Day 4 the same: the truck is taken from her dooryard at night after her noon rounds.
+- **R4-3 to R4-7** go to the plot architect with the Ch 2, 5, 6 and 7 beats (see `reviews/outline-audit.md`, Round 4). R4-7: Ch 7 ends on a cut, not a question.
+- **Sample-reader cap:** the lobster-boat thread at most one mention per scene; none in Ch 2.
