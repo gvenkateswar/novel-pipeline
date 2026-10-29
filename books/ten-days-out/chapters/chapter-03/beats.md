@@ -337,3 +337,163 @@ Four scenes, four different ending types, and none of them is a quip or a one-wo
   - Tess: knew she was home and kept it off the air; the log; the keys; "Lyle."
   - Dane: the order; the thirty-one; the call minutes after the kiss.
   - Ned: the key, given in the open, and nothing else.
+
+---
+
+## Revision for tournament
+
+*Plot-architect, October 29, 2026. Trigger: the sample mark failed the pull gate (reviews/sample-read-sample-mark.md, scene average 3.15). Ch 03 S2 (the store) and S3 (the north road) scored 2, with a near-stop at about 78%: "three chapters of dense boat talk and a crowd of islanders I couldn't tell apart." chapters/chapter-03/reader-notes.md scored Ch 03 at 6.5: "the suspense plot stands still… nobody chases anything… the man with the dragged heel never appears." Also read: chapters/chapter-03/final.md. **This section supersedes Scenes 1–4 above for the tournament variants.** The flags above stand except where this section overrides them.*
+
+### What must survive
+- **The razor exchange (S1):**
+  - her father's safety razor and mirror;
+  - "Your father didn't want to see much of himself." / "Enough to shave.";
+  - "she wanted it to be her thumb";
+  - **"He tapped it twice too," she said. "On the basin." / "I can quit doing that." / "Don't."** (the cold reader's best moment);
+  - the screen;
+  - the chair.
+- **The shed kiss (S4):**
+  - "Third one." / "Is that a rule?" / "It is for this one.";
+  - his grin and his hand to his chest when it catches;
+  - "Is that what you look like when something works?";
+  - "Your hands." / "Where?" / "Under. Not over.";
+  - the swear and his laugh;
+  - "Do you want—" / "Yes." / "Do you?" / "Yes.";
+  - the phone against her hip;
+  - "Don't write me down."
+- **The porch call,** watched from inside.
+- **The suspect balance** (now Ned 35, Tess 30, Dane and his office 20). Every Tess clue and every Dane doubt stays. They move inside scenes with danger or the couple in them.
+
+### What changes, and why
+1. **The suspense plot moves in this chapter.** The man with the heel appears in daylight and gets away from Dane on the page. Then the dragger makes a move at night.
+   - **The day move (S2):** while Arsenault is inside buying cigarettes, Beth sees a hooded man out back by the propane cage at the store's back step, waiting, facing in. When he turns away, his heel drags. Dane goes out the back after him and loses him among the fish houses on the co-op side of the harbor.
+   - **The night move (S3):** from the top of the north road, crossing the spine, they look back down at the harbor. The dragger, lit through the whole blackout, puts out every deck light at once.
+   - **Continuity:** this sets up Ch 04 s1 exactly. At dawn the man circles her empty cottage and rows out to the dragger. Ashby is not attacked. Ned is holding it, and the dark dragger was going to the cottage.
+2. **The store becomes a scene under pressure, with fewer people.**
+   - The cast is Tess, Russ, Arsenault and Ned (outside), plus Ida Dyer offstage by name on Tess's phone. No plumber, and no phone-case roll call.
+   - The props are cut to what the plot uses: the seal tag, the log and 22:40, the Ford's keys and the phones, all seen in one glance through the office as Dane goes out the back. Cut the urn, the soft sills, "propane's up a dollar" and the "post office, hardware store and air traffic control" setup.
+   - **Tess's beats happen while Dane is out chasing the man.** This is the outline's "while the bell swings behind Dane," moved to the back door.
+3. **Trade terms: one per scene at most.** S2's is the seal tag. No others.
+4. **S3 (the north road) merges into the shed scene** and gains the dragger going dark. **Dane's private-boat reasons move to S2,** into Russ's offer: Russ will run her across the minute it lays down, and Dane turns him down with the three reasons in one sentence. That gives Russ a beat that reads two ways and closes the "other ways off" question with a person in it.
+5. **Clarity fixes from both readers:**
+   - **Q.** Beth says "Q." flat, a statement (she rarely asks). Dane gives her one thing: "Homeland Security. Portland." Nothing more. This keeps the doubt and stops the confusion.
+   - **Noon.** One interior clause. The call he'd have had to make was outside under the sky, and he wasn't leaving her in a room with the dragger's skipper. She watches him let the boat go. Then, minutes later, he *does* go out the back for the man, and leaves her with Tess. The contrast is the point, unremarked.
+   - **How Tess knew 22:40.** Tess says it: from her counter she can see straight up to Beth's back steps. One interior beat follows: the store looks up at the back of her house, and it always has. Beth hears it as Tess looking out for her, and the reader may hear something else.
+   - **Ashby before it's known.** At its first mention, a clause: the Ashby place, a big summer cottage on the north point that belongs to people from Connecticut, shut for the winter.
+   - **The night after the latch.** S1's first line: they sat the rest of the night out behind the chimney, and nobody came back.
+   - **The palm on the log.** The loyalty line stays, one sentence. Because Dane comes back from the chase into this moment, her hand goes down with him still breathing hard from running after the man.
+   - **"I won't lie to you about whether there's something"** is said once, in S1. In the shed fight Dane says something new: short, and no rehearsed line.
+   - **"I'd rather be kissed by a man I can check"** comes after she has stepped back and zipped her coat, not mid-kiss.
+   - **The porch call** (the reader didn't believe a careful man would report the house). Before he goes out he tells her what he will say: the north end, not the house. She watches him say something she can't hear, and the reader has only his word.
+   - **Lyle / Arsenault / the *Margaret Ann*.** Give it once in her head: Lyle Arsenault, who skippers the *Margaret Ann*. After that, "Arsenault" in narration and "Lyle" only from Tess.
+6. **Retired:**
+   - **the "the way she'd / the way you'd…" simile construction** (zero in this chapter);
+   - feelings explained after the image ("like a man handling a dead man's things in front of his daughter," "a man who hadn't slept," "older than him," "a sound she never made");
+   - Russ's cap more than once;
+   - "and he didn't stop";
+   - "neither of them";
+   - "I'm told";
+   - "two dollars";
+   - "Lumpy";
+   - the name-on-paper motif;
+   - the scene break inside the shed (the shed is one continuous scene).
+
+### Header (revision)
+**Chapter total target:** 2,850 words (S1 650 · S2 1,050 · S3 1,150). Band ±8%: **2,622–3,078**.
+**Register:** warm (S1), then pressure and comedy (S2), then hot with dread under it (S3).
+**Turn:** S3, the kiss and the fight. The secondary turn is the dragger going dark.
+**Longing:** S1 (the razor), S3 (the kiss).
+**Laugh:**
+- S2: "That narrows it to about forty of us." / "That's thirty-nine more than I was hoping for."
+- S2: Tess's title, "Emergency management director. Since town meeting. I was slow putting my hand down," shrunk to its line.
+
+**Suspect balance:**
+- **Tess:** the tag line; 22:40 and how she saw it; "You'll sleep at mine"; the sharpness over the log; "Lyle," the account and the too-loud laugh; the keys glimpsed. All of it happens while Dane is out of the room.
+- **Dane:** the screen; "Q"; the thirty-one; he leaves her to chase; the call minutes after the kiss, and then the dragger going dark.
+- **Ned:** the key, in three lines. Nothing else.
+
+### Scene 1 — The last shave (revised; keep final.md's scene, with these edits)
+**Setting:** As final.md.
+**Surface action:**
+1. **First line:** they sat the rest of the night out behind the chimney, and nobody came back. **Then** the print at first light, in one sentence inside motion: she's out on the step with the kettle for snow water. No "The man from the reefer had stood on her steps."
+2. **The razor**, as written, with the "like a man handling a dead man's things" line cut. Keep "she wanted it to be her thumb" and "He tapped it twice too…"
+3. **The screen.** Cut "held it the way she'd hold anything she meant to check," and give one plain action instead. Cut "a man who hadn't slept" (his eyes shutting for a second is enough).
+4. His answer as written ("Nobody pays me but the government. The thirty-one's mine. The other one I can't tell you about. And I won't lie to you about whether there's something.") **This is the only time in the book he says the last sentence.**
+5. **New:** Beth: "Q." / Dane: "Homeland Security. Portland." He offers nothing else, and she doesn't ask again.
+6. The chair, as written.
+
+**Ends on:** the chair. She watches him decide to sit with his back to the door. It's an action, not a line.
+**Word target:** 650.
+
+### Scene 2 — The store, with him out back (revised)
+**Setting:** Marr's, Saturday, late morning to just after noon, full of islanders for the storm. Sensory anchor: the bell over the front door, and out back the store generator's roar coming through Tess's office.
+**Characters:** Beth, Dane, Tess, Russ, Arsenault, and the hooded man (seen); then Ned (outside).
+**Want:**
+- **Tess** wants Beth under her roof tonight.
+- **Beth** wants nobody on this island knowing where she sleeps.
+- **Dane** wants the man with the heel, and gets a look at him.
+- The reader learns Tess's want at "You'll sleep at mine," and Dane's when he goes through the curtain.
+**Tension source:** the dragger's skipper is at the counter, and his man is out back.
+**Surface action:**
+1. Dane asks the room about a man who drags his left heel. Russ: "That narrows it to about forty of us." / "That's thirty-nine more than I was hoping for." The sabotage line, Russ asking and answering himself: somebody'd have to beat the rust to it, and the tower's been on the district's list since Labor Day.
+2. **Russ's offer and Dane's reasons (moved here):** Russ will run her to Pruett on the *Second Wind* the minute it lays down. Dane thanks him and declines in one sentence with three reasons: any boat could be theirs, he can't read this sea, and whoever takes her leaves a wake the bay can follow. Russ takes it without offense, which is its own small question.
+3. **Arsenault.** The bell, and Lyle Arsenault, who skippers the *Margaret Ann* (named once, as in the change list), the only clean-shaven man on a dragger in the bay.
+   - "Pack of Golds, and whatever the gentleman's having." He counts change onto the counter before the price.
+   - Tess: "Put that away, Lyle. It's on your account," and the laugh too loud.
+   - To Beth, kind: he bought fuel off her father. "Banks weren't luck."
+   - At noon on the clock over the door, Dane looks at it and stays (the clause from the change list). Beth watches him let the boat go.
+4. **The man out back (the day move).** Over Tess's shoulder, through the gap in the office curtain and the office's back window, Beth sees a hooded man standing by the propane cage at the back step, waiting and facing in. He turns away, and the heel drags. One word from her: "Him." Dane is through the curtain and out the back door before Tess can say a thing. **In passing,** at the office doorway, Beth sees the hook with the two keys for Tess's Ford and the phones charging under it, and the back step empty. One sentence.
+   - Russ goes out the front after them.
+   - Arsenault takes his cigarettes and goes too, unhurried, with a word for Tess about the store being the heart of the island, and about hating to see it have a hard winter (bible lines, one use each). It's advice, and it's a threat.
+5. **Tess and Beth, alone (the spine), with the back door still banging behind Dane.**
+   - Tess, sealing the morning bag fast, bright and busy, talking: "Yellow's mine. Red's the boat's. I won't have my money in Ned's color." Mid-patter, gone into the next thing.
+   - Then both hands on the counter: "Net had you aboard. Your back steps had you home, twenty-two forty. I can see your steps from right here, Beth. Didn't put you on the air." It's on her hand and in the log.
+   - Beth's one interior beat: the store has always looked up at the back of her house.
+   - "You'll sleep at mine." / "Can't. Not tonight, Tess."
+   - Beth's eyes on the log too long, and Tess: "Don't you look at my book like the bank does."
+6. **Dane back,** breathing hard and snow on him: lost him in the fish houses on the co-op side. One line of his, specific, maybe about the man knowing the shore the way everybody here does but him. **The palm, flat over 22:40, as he crosses the floor.** Then the loyalty line. "What am I looking at?" / "Nothing in it. Soup for Ida and who's short on propane. Hand me the milk." / He hands her the milk.
+7. **Tess's phone (two lines):** LifeFlight won't lift Ida Dyer, the pilot's call. Then the title line, shrunk: "Emergency management director. I was slow putting my hand down."
+8. **Outside by the side wall, Ned (three lines):** "Ashby," with the clause of what it is (a Connecticut family's summer cottage on the north point, shut up, water on three sides and one road, Ned starts its generator every storm). The cove over the fish house sill till Monday, in her head. The key. "Nobody but—" / "Me and God. I know."
+9. Russ comes round the corner (no cap business): "Where you sleeping tonight? Not asking for me. Asking because somebody will."
+
+**Subtext:** Dane left her to chase the man, and in those minutes Tess told her the one thing that would worry Dane most, and Beth hid it from him when he came back.
+**Texture budget:** (1) The seal tag. The keys and phones are one glance inside the chase.
+**Point of view:** Beth.
+**Ends on:** **Question, asked by someone else and unanswered** (Russ). No image after.
+**Word target:** 1,050. If it runs long, cut item 7 to one line and item 2 to Dane's sentence.
+
+### Scene 3 — The road and the shed (revised: old S3 and S4 merged, one continuous scene)
+**Setting:** The top of the north road at full dark, then the Ashby generator shed and the house.
+**Characters:** Beth, Dane.
+**Surface action:**
+1. **The night move (two or three sentences).** At the top of the spine she looks back, the way you look back at a harbor you've left. The dragger, lit end to end through the whole blackout, puts out every deck light at once, and the harbor goes black where she was. Neither says anything about it, and they walk faster. No narrated meaning.
+2. **The shed, as final.md, in one scene with no break:** "Long and even, and don't yank it." / "Third one." / the grin / "Is that what you look like when something works?" / the kiss, kept. **Trim the long run-on** to about two thirds of its length, keeping its nouns (the engine at her back, the cold at the door, the lit house, his belt in her hands, her mouth asking). Cut "she heard herself make a sound she never made." Cut the "the voice she used on deck when a line was about to part" simile.
+3. **The stop:** the phone against her hip, kept. **New order:** she steps back, zips her coat, *then*: "I'd rather be kissed by a man I can check." Then the question about what he writes; then "Don't write me down," with the "older than him" explanation cut.
+4. **Dane's answer, new and short.** Polite, "Ms. Calloway" once, and **not** the "won't lie" sentence again. One or two short sentences of his: he can't give her what she's asking for, he knows what that costs her, and he's not going to make it smaller by talking. Then the dragger, said by him for the first time and plainly: it went dark, and he has to call that in.
+5. **The porch, made believable.** At the door he tells her what he'll say: "North end. Not the house." Then he goes to the top step under the sky. She holds the sheet back and watches him. He turns once and looks at her window, still talking.
+6. The last beat (see variants): she lets the sheet go.
+
+**Ends on:** as final.md, played as Beth's action: the sheet out of her opening hand. **But** add nothing after it, and keep the dragger's darkness live: the reader should leave knowing the harbor went black and that he's on the phone. (Variant C changes this ending.)
+**Word target:** 1,150. **Word floor:** 950 (the first kiss).
+
+### Ending audit (revision)
+| Scene | Ending type | Prop / withheld / silence? |
+|---|---|---|
+| 1 | Action (the chair; he decides to sit with his back to the door) | No |
+| 2 | Question, asked by Russ, unanswered | No |
+| 3 | Cut on Beth's action (the sheet), with the dragger dark | Prop, 1 of 2 |
+
+### Lead instructions for the three variants
+Each keeps everything under "What must survive" and S1 as revised.
+
+- **Variant A: "Out the back."** As written above. The man is at the propane cage while Arsenault is inside. Dane chases him out the back and loses him in the fish houses. Tess's beats happen in his absence. The dragger goes dark at the top of the north road. The chapter ends on the sheet.
+- **Variant B: "In the room."**
+  - The hooded man comes into the store a step behind Arsenault, hood up, and stands just inside the door with his hands in his pockets while his skipper buys. Nobody introduces him. Beth knows him by the walk as the two of them leave.
+  - Dane goes out after them onto the store dock and watches them take the skiff out toward the moorings. He doesn't follow, because one marshal against a dragger crew on the water is a body count (bible), and he says so to Russ in one line.
+  - Tess's beats happen while Dane is out on the dock.
+  - The dragger going dark stays in S3.
+  - Flag for the orchestrator: this variant shows the man with Arsenault in Ch 03, so Ch 04 s1's "rows out to the dragger" confirms what the reader already suspects. Its new work is his face and Quist's "don't touch the boat."
+- **Variant C: "Beside him."**
+  - The store is as in A, but the night move is bigger. On the north road a skiff's outboard runs up the east shore inside the ledges with no light, slows off the north point, and turns back. They stand still in the snow and watch it go before they go on to Ashby, so the shed kiss is stolen under that.
+  - The dragger doesn't go dark in this variant.
+  - **The ending changes.** She doesn't watch from behind the sheet. She goes out and stands on the porch step beside him in the snow while he makes the call, close enough to see his breath, not his words. The chapter ends on her standing there, choosing to be next to the thing she doesn't trust, not on the sheet. The ending type becomes a reversal; no line after.

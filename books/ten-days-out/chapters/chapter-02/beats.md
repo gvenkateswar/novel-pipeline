@@ -344,3 +344,176 @@ No scene ends on a quip or a two-line comeback, and the five endings use four di
 - **Act 1 ends:** S5 (the latch; "Who knew you were here?" / "You."), at about 19.9% if both chapters land on target (5,963 of 30,000).
 - **Longing in the chapter:** S3 (the rail) and S5 (the blanket).
 - **The sample mark (12%)** falls inside S1 or S2. A buyer at the sample mark has the bricks, the couple, the stranding and the deadline.
+
+---
+
+## Revision for tournament
+
+*Plot-architect, October 29, 2026. Trigger: the sample mark (Ch 01–03) failed the pull gate (reviews/sample-read-sample-mark.md, scene average 3.15). Ch 02 S2 (Tess at the store door) and Ch 02 S4 (the stern and the walk home) scored 2. The bridge collapse was hard to picture, and Ned in the flooded hold was skimmed. Also read: chapters/chapter-02/reader-notes.md and chapters/chapter-02/final.md (3,071 words). **This section supersedes Scenes 1–5 above for the tournament variants.** The flags above stand except where this section overrides them.*
+
+### What must survive (scored 4–5; carry the substance, not necessarily the words)
+- **S1's back door and the skiff in the squall.** "Lift and shove." "Nobody who's been in this house makes the noise you made first." The skiff taken by the squall two lengths short of any boat, rowing "like somebody who had learned before he could walk."
+- **The cable (old S3).** He takes her down under the rail, her fist in his collar, his low running voice. The bridge exchange with Ned: "Well. That's the bridge." / "Does it do that a lot?" / "Just the once."
+- **The whole kitchen-floor watch (old S5, scored 5).**
+  - The mudroom door's knock as a refrain, and its silence.
+  - "Calloway, aboard. Marshal, aboard." / "Allegedly."
+  - "You. Since this morning."
+  - "Still."
+  - "He comes to us. Not the other way."
+  - "Evening," through the boards.
+  - "Who knew you were here?" / "You." and the glow under his chin.
+
+### What changes, and why
+1. **Three scenes, not five.**
+   - Old S2 (the Tess stop) folds into S1. It gets a scare that turns out to be Tess, so her beat sits inside a threat.
+   - Old S4 (the stern and the walk) folds into the end of the bridge scene. The walk home shrinks to two sentences at the top of the kitchen scene.
+   - Old S3 and S4 become one scene.
+2. **The bridge in one image a reader can see on first pass.**
+   - Plant it plainly at the scene's start, in Beth's eyes: the steel ramp that runs from the shore down onto the boat's bow, the road the cars drive aboard on, hung from two towers.
+   - When it goes, give one picture: **it folds down onto the bow like a dropped drawbridge, its far end in the water.** Nothing else about its geometry.
+   - "The road off the island" is cut: it read as a causeway.
+3. **No going below.** Ned comes *up* from the bow with the news, wet to the shins: "Water's coming in up there." The bridge exchange, the Coast Guard line, "Ten days" and "Steel doesn't burn" all play on the dark deck, in four or five lines.
+4. **The decision to leave the boat is made on the page, in one plain exchange, at the moment it's made.**
+   - Dane at the open stern: the boat has a hole in the front and no back door, and the island thinks she's aboard, so she won't be.
+   - "Anyone with a skiff." / "Nobody's coming over that stern in this." Dane overrules Ned politely.
+   - "Boat." in S1 stays an honest plan (one way in from the land, a door that locks, the captain awake). The bridge breaks it. No decoy in S1.
+5. **Sympathy plants are out** (cold reader: they read as set-up for a betrayal). Ned can't swim and Ned's gloves are cut. "Hold it there, Bethie" is cut. Ned keeps the bridge laugh, the Coast Guard line ("by the book"), "Ten days," "Steel doesn't burn," "Home" / "Me and God" and the nod.
+6. **The naming switch (Reyes to Dane) gets a reason on the page.**
+   - In S1, Tess asks what to call him on the net. He says "Dane."
+   - From then on the narration says "Dane." Before that line, S1's narration uses "Reyes," as Ch 01 did.
+7. **Dane leaving her alone (reader disbelief).**
+   - He stays on the front step, just outside the open front door, two strides from her, where the phone can see sky. He tells her exactly where he'll be.
+   - The mudroom still goes quiet while his back is half turned to report. It's a smaller lapse a reader will believe, and he'll own it in Ch 8.
+   - The pull on his sleeve becomes a reach through the front door.
+8. **Cut the narration that sums up the danger.** "Why they stay" goes to Dane, whispered, in one line of his.
+9. **The whispered island is down to the two houses that matter.** The yellow windows at the bend, married by Tuesday, and Tess's store, then her flashlight, then her window. No Russ, no Ida, no house past the co-op. Beth's Tess voice stays.
+10. **Trade terms: one per scene at most.** S1: none. S2: "the bridge," made visible as above. S3: none.
+11. **Retired here and in every variant:**
+    - "and he didn't stop"
+    - "neither of them moved / let go"
+    - "the way he always did"
+    - "the way he looked at weather"
+    - "I'm told"
+    - Tess's "two dollars" (she gets a new price line)
+    - "Lumpy"
+    - "Beth watched her own name dry on somebody else's skin" (the name-on-paper motif)
+    - **the "the way she'd…" simile construction** (the Ch 3 cold reader called it "a machine"; zero in this chapter)
+    - "a man who hadn't slept"
+12. **Endings.** The old chapter ended every scene on a placed image or a one-word button. New ending types:
+    - S1: a question nobody answers.
+    - S2: a cut mid-motion.
+    - S3: the kept ending ("You." and the glow).
+
+### Header (revision)
+**Chapter total target:** 2,850 words (S1 800 · S2 1,000 · S3 1,050). Band ±8%: **2,622–3,078**.
+**Turn:** S2, the bridge. **Secondary turn:** S3, the latch.
+**Longing:**
+- S2, the rail.
+- S3, the blanket.
+- **Plus one thought about him as a man**, which Ch 02 lacked. In S1, as he works the latch with snow in his hair, she notices something specific about him that has nothing to do with the danger. One sentence, and she doesn't excuse it.
+
+**Laugh:**
+- S2: "Just the once."
+- S3: "You. Since this morning."
+- S1: Tess's price line, new.
+
+**Suspect balance (the targets the orchestrator set):**
+- **Tess:** the fold of hundreds and *CALLOWAY — BOAT* in S1, inside a scare. Her dark window before the truck in S3.
+- **Dane:** the call in S1 that reports the man; the glow in S3.
+- **Ned:** "Home" in S2, and nothing added.
+
+### Scene 1 — Lift and shove (revised)
+**Setting:** The cottage's back step and kitchen, just after the cancellation, early afternoon, the first snow in an east wind. Sensory anchor: the latch's iron clack.
+**Characters:** Beth, Reyes/Dane, Tess.
+**Want:**
+- Dane wants every way into this house known before dark.
+- Beth wants the man in the skiff found by her own eyes.
+- Tess wants Beth's whereabouts for the net, and something more than that she won't say.
+- The reader learns Dane's want on his second try at the door.
+**Tension source:** the man is ashore below them. Then steps come up the back path, and Dane's hand goes to his hip.
+**Surface action:**
+1. The latch, as in final.md: "Lift and shove." / the three tries / "Nobody who's been in this house makes the noise you made first." Beth's thought about him as a man, one sentence (header).
+2. **The skiff into the squall**, kept, interior longer than the talk.
+3. **His call on the step** (seen, not heard), then Monday in one line: "Portland knows about your man with the heel now." **Clarity fix:** "knows about," never "has." Then "Nothing's crossing in this." Then his conditions: one way in from the land, a door that locks, somebody awake. Then "Boat." This is an honest plan; she means the *North Reach* tonight.
+4. **The scare.** Boots on the iced path below the back steps, coming up. Dane is at the door first, his hand at his hip, his body between her and the glass. It's Tess, her red vest under her oilskin and a clipboard under her arm, blowing from the climb.
+5. **Tess inside the scare.**
+   - "Calloway. Net's at six. Where you sleeping?" / "On the boat."
+   - Tess writes it on the back of her hand in ballpoint. **No interior about Beth's name.**
+   - "What do I call him?" / "Dane." From here the narration is "Dane."
+   - **The hundreds:** a fold of bills comes up with the pen cap, hundreds on the outside, and goes back before the cap is on. Then she gets brighter and busier, with one new price line, not two dollars.
+   - She goes back down the path. Halfway down she stops and looks out a long moment at the dragger on her mooring, then goes on.
+6. Dane, at the glass, watching Tess go: where does a store take in hundreds in November? Beth doesn't answer him.
+
+**Subtext:** The first person up her path was family, and she still had to watch a marshal put his hand on his gun for her. She won't answer his question about Tess, which is the same loyalty that will hide Tess's log in Ch 3.
+**Texture budget:** (1) The latch. (2) The hundreds. No trade terms.
+**Point of view:** Beth.
+**Ends on:** **Question, unanswered.** Dane's question about the hundreds. She doesn't answer it, and the scene stops. Don't close on a picture of Tess or of the dragger.
+**Word target:** 800.
+
+### Scene 2 — The bridge (revised)
+**Setting:** The *North Reach* at the island slip, full dark, two hours before the top of a surge tide. Sensory anchor: the steel ramp from the shore grinding on its pilings with every sea.
+**Characters:** Beth, Dane, Ned.
+**Want:**
+- Beth wants the bow lines doubled before the top of the tide, by her own hands.
+- Dane wants her inside, and when she won't go, he stays a stride behind her.
+- The reader learns Beth's want in the first paragraph.
+**Tension source:** the sea and the steel. Then the decision to abandon the boat.
+**Surface action:**
+1. **Open on the threat, then the work.** The dragger's deck lights come on out on her mooring with nobody on deck, and Dane watches them. Then Beth goes forward down the one lane between the two trucks (one clause; they're chained there for the two o'clock that never ran).
+2. **The bridge made visible (change 2):** the steel ramp from the shore down onto the bow, the road the cars drive aboard on, hung from two towers. Every sea shoves the bow up under it.
+3. **The cable (kept):** it whips at head height. He takes her down under the rail, her fist goes into his collar, and the sounds come in order. His voice runs low and continuous about where the cable went and where he is: specific to the moment, a different shape from the Ch 3 patter, and no "and he didn't stop."
+4. **The longing:** one sentence after the cable lies still, without "neither of them moved." For example, her fist is still in his collar when she notices it is, and she leaves it there for one more sea.
+5. **The one image:** the bridge folds down onto the bow like a dropped drawbridge, its far end in the water. Her relief, the secret one, is one physical beat that a reader can read: the thing she'd been braced for since the night freight has happened and is over. Keep it to her shoulders.
+6. The line to the granite pier: "Other way. Unless you want to go with it." Ned works the *North Reach* off and alongside the pier. The power goes out across the island, and the dragger doesn't blink.
+7. **Ned comes up from the bow (change 3):** "Water's coming in up there." Then "Well. That's the bridge." / "Does it do that a lot?" / "Just the once." Then "She's not carrying anybody till somebody from the Coast Guard has his hand on that." Then "Ten days, if the state gets a barge out." Then "At least she's steel." / "Steel doesn't burn. Everything in it does." All on deck.
+8. **The decision (change 4).** At the open stern, Dane: the boat's holed at the front and open at the back, and the island has Beth aboard, so tonight she isn't. "Anyone with a skiff." / "Nobody's coming over that stern in this." He thanks Ned and doesn't argue past one sentence. Then he goes up the gangway to the road end, out of earshot.
+9. Ned, at the foot of the gangway: "Where'll you be?" / "Home. Don't tell anybody." / "Nobody but me and God. You need me, nine. Like your dad." (A clause, if needed: her handheld lives on nine.) He turns once on his way forward and nods. Word it fresh, without "the way he always did."
+
+**Subtext:** She was glad when the bridge fell, and she won't look at why. Dane has just lost the safest place on the island and made a better one out of the net's lie.
+**Texture budget:** (1) The bridge, made visible. Nothing else named that isn't plain English.
+**Point of view:** Beth.
+**Ends on:** **Cut mid-motion.** Dane's low whistle from the road end, and she's already on the gangway, its wheels grinding under her. Don't end on Ned's line or Ned's nod.
+**Word target:** 1,000. **Word floor:** 850 (the set piece and the turn).
+
+### Scene 3 — The watch (revised; keep final.md's scene almost whole)
+**Setting:** As final.md: the shore in two sentences, the iced back steps, the dark kitchen.
+**Characters:** Beth, Dane.
+**Surface action:**
+1. **Two sentences of walk, then the steps.** The flashlight thumbed on the ice for a few seconds; "Light."; dark; the latch lifted silent.
+2. **The kitchen floor as written,** with these edits:
+   - The afterdeck figure: "Him, maybe." / "Maybe."
+   - **The whisper:** only the yellow windows at the bend ("married by Tuesday") and Tess's store, flashlight and window, with "Tess, bed. Late, for her." Beth's Tess voice is kept, along with "Does Tess know you do that?" / "Nobody does."
+   - "You. Since this morning."
+   - Her laugh into the blanket, his knee against hers. **Cut "neither of them moved it";** end the beat on the laugh.
+3. The truck: a little after eleven, no lights, idling under the house. "Still." His silence. **Cut the narrated "why they stay" paragraph.** Dane gives it in one whisper of his own. It's the open stern, the storm, the truck maybe up the road, and the brick, and he's sorry it's the best they've got. Specific, not stock.
+4. **The front step (change 7).** He goes to the front door, opens it, and stands on the step two strides from her with his back half turned to the house, where the phone sees sky. He tells her that's where he'll be. She can see the glow under his chin through the open door.
+5. The door goes quiet, kept as written: "That door had knocked in every northeast blow since she was born… It went quiet for one thing."
+6. She reaches through the front door and gets him by the sleeve: "Don't talk. Door's gone quiet."
+7. At the brick, his low voice, **reworded, without "and he didn't stop."** "I'm on your right. The brick's at your back…" stays, and so do his hand on her knee once and "He comes to us. Not the other way."
+8. The clock's hands at twenty to twelve. The latch. "Evening." The run. The scuffs.
+9. "Who knew you were here?" / "You." Then the glow under his chin on the front step, a few minutes before the door went quiet.
+
+**Ends on:** as final.md. This is the chapter's kept ending.
+**Word target:** 1,050. **Word floor:** 900.
+
+### Ending audit (revision)
+| Scene | Ending type | Prop / withheld / silence? |
+|---|---|---|
+| 1 | Question, unanswered (Dane on the hundreds) | Silence, 1 of 2 |
+| 2 | Cut mid-motion (the whistle, the gangway) | No |
+| 3 | Question (unease): "You." and the glow | No |
+
+### Lead instructions for the three variants
+Each variant keeps everything under "What must survive" and the S3 kitchen.
+
+- **Variant A: "Tess on the path."** As written above. The scare on the back path turns out to be Tess, and the hundreds come out of her vest inside the scare. S1 ends on Dane's unanswered question.
+- **Variant B: "Tess on the pier."**
+  - S1 ends on "Boat." with no Tess.
+  - S2 opens at dusk on the granite pier as the surge builds. Tess comes down for the net with her clipboard, the dragger's deck lights come on behind her, and the hundreds come up with the pen cap while Beth is doubling lines.
+  - Dane sends Tess back up the pier just before the cable goes, so the danger scene carries her beat. Use his own words: polite, a whole sentence, "Ms. Marr." Never "Go home," which is Beth's and Ned's.
+  - S1 runs 600 words and S2 1,200. The "Dane" naming beat moves to the pier.
+- **Variant C: "Tess on the air."**
+  - No Tess in person. At six, on the pier, Beth's handheld picks up the storm net. Tess's net-control voice calls the roll, "Calloway?", and Beth answers "Aboard" on the air, so the cover is public.
+  - Then Tess's guilty beat is on the air itself, in plain island business: she tells the dragger by name that the float will be lit at ten if they want fuel tonight, and the dragger's radio answers with two clicks. Dane: "Does she do that for everybody?" Beth: "No."
+  - The hundreds are deferred to Ch 06's fuel log. In the S3 whisper, Beth's mimicry of Tess comes straight off the net she just heard.
+  - Flag for the orchestrator: this variant drops the hundreds plant from Ch 02. Ch 03's balance doesn't depend on it.
