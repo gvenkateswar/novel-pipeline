@@ -1,0 +1,51 @@
+The pad lay shut on the counter under Quist's hand. She was the Q on Pike's screen, tall and very straight, black hair pulled back hard, her face gray from the crossing. Behind the counter Tess held the coffee pot, her glasses up in her hair and her lip swollen. The generator out back was off. Beth stopped inside the door, where the floor gave over the soft sills.
+
+"Ms. Marr," Quist said. "Your name was given to the Marshals on Friday, in writing, by the witness, and so you will be asked about Friday night."
+
+"Behind this counter, Quist. Face first." Tess was looking at Beth. "You put my name in."
+
+"Yes," Beth said.
+
+"I sold you condoms."
+
+"An impeller in a box bearing your price sticker was taken from that shelf at noon on Monday, while you were on your rounds. Was it missed?"
+
+"Forty-one ninety-five. Got back at three and put it on Haskell's account." Tess wiped the counter where nothing had spilled. "Figured he'd come up for his phone."
+
+"The spare key to your truck was left on the back step Friday night and again that Monday noon. How many keys on that hook, Ms. Marr?"
+
+"Two."
+
+"The captain's float-light key was handed over Wednesday and kept. The town's key, which is understood to hang by your safe—"
+
+"Never left the nail."
+
+"—was therefore not required," Quist said. "They were also told how the Calloway kitchen door is opened."
+
+"Lift it and lean on it," Beth said.
+
+Ned had come in by that door every winter of her life without being shown.
+
+Tess bent below the counter and came up with a book, cloth-bound, gray, soft at the corners, and laid it on the pad.
+
+"Two years of the *Margaret Ann*," Tess said. "Night fuel, every gallon after dark, twice the pump, paid in hundreds. Lyle's talk in the margins. Free with purchase."
+
+Quist opened it and turned a page. In a margin, in Tess's square hand, Beth read one line upside down: *store like this lives on the boat*. Tuesday's.
+
+"You had that Tuesday," Beth said.
+
+"Tuesday he still had a boat."
+
+Quist turned pages and stopped. "Another vessel is recorded here at the same rate. On how many nights was the *Dorothy M.* fueled?"
+
+"Eleven. Since August. Same price, and never the same man paying twice."
+
+Beth knew the *Dorothy M.* by sight, a green forty-footer from across the bay. She tried to put a man at her wheel and couldn't.
+
+"Goddamn," Quist said to the page. "How many of those nights was a boat carrying fentanyl fueled at your float, Ms. Marr?"
+
+Tess kept her eyes on Beth. "Haskell asked me something at supper last night. Quist, you'll see him before I do. Tell him yes."
+
+She turned her back on them and started squaring the packs in the cigarette rack, row by row.
+
+"That will need to be repeated, Ms. Marr," Quist said. "To which question is the answer being given?"

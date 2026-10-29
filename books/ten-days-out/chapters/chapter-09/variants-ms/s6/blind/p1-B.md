@@ -1,0 +1,75 @@
+"I heard you on nine," Beth said. "Tell me how."
+
+Out back of Marr's the generator roared. Ned sat on the stool with the clean collar from supper buttoned to the top, and the store's set on the shelf behind him was still on nine. Tess stood behind the counter with a dish towel of snow at her mouth, squaring the cigarette rack pack by pack with her free hand.
+
+"Whitcomb, through that door at a run," Tess said into the towel. "Two tries to put Arsenault on the floor. Second one took."
+
+Through the front window Russ's truck sat at the dock head with its dome light on. Lyle Arsenault sat in the passenger seat with his hands behind him and his face turned to the store. Russ stood at the open driver's door with one arm along the roof, watching him.
+
+"Wind's gone round northwest," Ned said. "She'll lie quiet now."
+
+"Ned," Beth said.
+
+Her hands lay on the counter. The buoy line had taken the skin off both palms, and the cold wood stung them.
+
+"Boy on my deck asked where my cop was," Beth said. "On the air I was by myself."
+
+"Every house on sixty-eight had you by yourself," Tess said. "I had you by yourself."
+
+"One man had a marshal aboard and Russ on the pier," Beth said. "You."
+
+Ned put one finger up to the hearing aid and turned it off. He sat like that a moment. Then he turned it on again and put the hand back on his knee.
+
+"Lyle came aboard that first Thursday with nine thousand in hundreds," Ned said. "He said cut the store's tag."
+
+"And you cut it," Beth said.
+
+"I put the money in your envelope, over your slip," Ned said. "Then I sealed the bag again with a red one out of my drawer."
+
+Tess had stopped with a pack half out of its slot.
+
+"Mine are yellow," Tess said. "Nineteen years, yellow."
+
+The red the teller wrote down had ridden on the store's bag, then, wrapped round Beth's own envelope the whole way to Pruett.
+
+"I bagged that envelope myself, Haskell," Tess said. "Paycheck and a slip."
+
+"Ashby," Beth said.
+
+"He said a store like hers lives on the boat. So I gave them Ashby."
+
+Tess's hand stopped on the rack. She stood with her back to him and the towel at her mouth, and the pack stayed where it was, half out.
+
+"Tonight," Beth said.
+
+"After supper I gave them the whole boat from the back step," Ned said. "Russ on the pier in the light, and your marshal aboard."
+
+"You gave them my marshal."
+
+"Land side watched, they'd come by water," Ned said. "Under the floods, where you'd see them first."
+
+"They brought gas," Beth said. "They put the boot on him in the dark."
+
+"I never thought of gas."
+
+"Arsenault wanted night fuel at half past ten," Tess said, fast and bright, to the rack. "I came down and lit the float."
+
+"Then Lyle out front on his own phone said send the boy with the gas," Ned said. "So I went in the back and keyed nine."
+
+Out at the dock head the dome light went dark. Beth's hands came off the counter. Russ leaned into the cab, and the light came on again, and Arsenault's face was where it had been, turned to the store.
+
+"And when I came through the curtain, Arsenault put me into the counter," Tess said. "Lip's nothing. Rack's a disgrace."
+
+"I laid that ham in to ask her at Thanksgiving," Ned said. "Every New Year's she tells me ask me sober."
+
+Beth waited. The generator ran out back.
+
+"I asked her tonight at supper instead," Ned said. "Sober."
+
+Tess took the towel down. Her lip was split and swelling. She looked at Ned for a long time. She didn't look at Beth. Then she went through the curtain into her office, and behind it Beth heard the safe's dial turn.
+
+The bell over the door rang. Russ came in and took his cap off.
+
+Before Russ could open his mouth, Ned held his wrists out together across the counter where he had bought his coffee since Beth was in diapers.
+
+Russ's hand went to his belt. Behind the curtain the dial clicked round, and stopped, and started round again.

@@ -1,0 +1,55 @@
+"Somebody tells them where I am tonight," Beth said.
+
+The chart table was cold through her sleeves. The *Margaret Ann* lay to her new mooring with the town landing square off her bow. In the lee of the pier wall, one line of his prints still came down the road from four that morning.
+
+"County rang Tess Wednesday. Landing and the hour. Told nobody."
+
+"The county told its emergency director to keep the landing clear and keep quiet about why," Dane said, "and she did both, which is more than the county usually gets."
+
+"Town ring hangs by her safe. Second key to the float box is on it."
+
+"Then anyone who's stood behind that curtain could have put the float out, and that list starts with the minister."
+
+"Arsenault stood at her counter Tuesday. 'Store like this lives on the boat.' Tess laughed."
+
+"That's a threat."
+
+"To Tess."
+
+He came round the chart table to her shoulder, and his voice went down.
+
+"Haskell owns one phone. It lives on Tess's shelf and works inside fifty feet of that store and nowhere else. The back step is inside the fifty feet. Haskell has his own key to the door beside it."
+
+"You read water better than anyone I've met," he said. "Who has a key when she's out?"
+
+"Ned."
+
+"This isn't water."
+
+Below the windows Ned's flashlight came aft along the rail and stopped. She turned her back on that window and pulled the chart square under her hands.
+
+"Not Ned."
+
+"Ned sends Russ along the riprap after dark," she said.
+
+"Don't give Haskell the night."
+
+She had read his book to the foot of every page. She wasn't taking his read on anybody yet.
+
+"Ned's the boat."
+
+She took the notebook out of her coat, opened it at a clean page past his last line and drew the pencil out of the spine. The point was worn round, and she pared it over the chart with her knife.
+
+She wrote *Teresa Marr* in the square capitals the island school had taught her the year Tess came out to sternman, and Tess had walked her home from every dance and wake since, her mouth going the whole way, telling her whose porch light was on and why, and the new point bit on the first R, and she went over the second twice, thick, the way a child writes a name the first week of school.
+
+She turned the book round and pushed it across. "For Pike."
+
+He didn't pick it up. He turned the book back so the name faced her and held the pencil out across it, rubber end first, in his left hand. It wasn't quite steady.
+
+"It's pencil," he said.
+
+His mouth was set for calling somebody's next move, and getting it right. He didn't call it. He hooked the stool out with his boot and sat at her elbow, and kept the pencil where it was.
+
+She put both hands in her coat pockets.
+
+Ned's voice came up the outside ladder ahead of his boots. "Squalls are done, and it's coming in cold behind them. I'm going up for supper directly, and there's a pot on the mess stove going to tar."
