@@ -9,7 +9,7 @@ Every real human verdict on text this pipeline produced, with the text it was ab
 | A1 | *The Last Frame* v1, Ch 01–03 (`books/the-last-frame/chapters-v1/chapter-0{1,2,3}/final.md`) | the author | Speechify, text-to-speech | **Stop at 29%.** "So boring, really boring." Later: "excruciating." | Oct 27 |
 | A2 | *Ten Days Out*, full manuscript (`books/ten-days-out/manuscript.md`) | the author | listened | **Excruciatingly boring.** | Oct 27 |
 | A3 | *The Last Frame* v2, Ch 01 (`books/the-last-frame/chapters/chapter-01/final.md`) | the author | read | **Keep going.** "Already better, more interesting than the last one," "still better" at the end. No drift through the two passages the simulated readers had flagged. | Oct 28 |
-| A4 | *The Last Frame* v2, Ch 01–03 sample | the author | — | **Open.** Sent Oct 28; no verdict yet. | — |
+| A4 | *The Last Frame* v2, Ch 01–03 sample (`books/the-last-frame/chapters/chapter-0{1,2,3}/final.md`, the pre-tournament Ch 02) | the author | read, other session | **Keep going, mildly.** "The writing is generally more interesting than previously." No stop line given. The sample reader had failed the same text (3.42; Ch 2 scene 3 at 2). | Oct 28 |
 
 ## What the simulated readers said about the same texts
 
