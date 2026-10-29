@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–01, 3,047 words)
+# Audit — ten-days-out (chapters 01–01, 3,103 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -41,13 +41,13 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "Dollar says" | 1 | 1 | 4 |  |
 | "I don't bet" | 1 | 1 | 2 |  |
 | Dane's predictions, "There it is" | 0 | 0 | 3 |  |
-| Exact change | 1 | 1 | 3 |  |
+| Exact change | 0 | 0 | 3 |  |
 | "Here's how this goes" | 1 | 1 | 3 |  |
 | "Talk to me" | 0 | 0 | 4 |  |
 | "For the record" (Dane only) | 1 | 1 | 3 |  |
 | "Ms. Calloway" | 2 | 2 | 8 |  |
 | "Your marshal" | 0 | 0 | 4 |  |
-| "Okay" (Dane's pivot; Beth never) | 1 | 1 | 30 |  |
+| "Okay" (Dane's pivot; Beth never) | 2 | 2 | 30 |  |
 | Back to the wall | 0 | 0 | 2 |  |
 | Back to a wall | 0 | 0 | 2 |  |
 | Different ocean | 1 | 1 | 1 |  |
@@ -56,7 +56,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | A hundred and ninety | 1 | 1 | 2 |  |
 | Fudge | 1 | 1 | 2 |  |
 | "From away" | 2 | 2 | 8 |  |
-| "The glass" (barometer) | 1 | 1 | 6 |  |
+| "The glass" (barometer) | 2 | 2 | 6 |  |
 | "Make fast" | 0 | 0 | 3 |  |
 | Dooryard | 0 | 0 | 4 |  |
 | Wicked | 0 | 0 | 1 |  |
@@ -80,7 +80,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "Walked the bar" | 0 | 0 | 3 |  |
 | "Do not disclose" | 0 | 0 | 3 |  |
 | "No indication" | 0 | 0 | 3 |  |
-| The screen | 2 | 2 | 6 |  |
+| The screen | 1 | 1 | 6 |  |
 | "Is this going in your log" | 0 | 0 | 1 |  |
 | "We go down to look" | 0 | 0 | 2 |  |
 | "Not again today" | 0 | 0 | 2 |  |
@@ -161,8 +161,8 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 
 - jaw: 0 (0.0/1k)
 - knuckles?: 1 (0.3/1k)
-- throat: 2 (0.7/1k)
-- reath: 2 (0.7/1k)
+- throat: 1 (0.3/1k)
+- reath: 2 (0.6/1k)
 - pulse: 0 (0.0/1k)
 - chest: 1 (0.3/1k)
 - hands? (stopped|stilled|went still|flat): 0 (0.0/1k)
@@ -175,7 +175,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 
 | Ch | Words | Mean sent. | SD | ≤5-word share | Codes/1k | Numerals/1k | ALLCAPS/1k | Max opener run | Flags |
 |---|---|---|---|---|---|---|---|---|---|
-| 01 | 3,047 | 16.0 | 12.4 | 17% | 0.0 | 0.0 | 0.0 | 2 | short |
+| 01 | 3,103 | 15.2 | 11.9 | 21% | 0.0 | 0.0 | 0.0 | 2 | short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -209,7 +209,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 | Construction | 01 | Total | /1k | Cap | |
 |---|---|---|---|---|---|
-| as if / as though | 2 | 2 | 0.7 | 1.0/1k |  |
+| as if / as though | 3 | 3 | 1.0 | 1.0/1k |  |
 | the way (a|the|people|someone) ... | 1 | 1 | 0.3 | 1/ch |  |
 | the kind of ... that | 0 | 0 | 0.0 | 2/ch |  |
 | with the (precision|care...) of someone who | 0 | 0 | 0.0 | 1/ch |  |
@@ -218,8 +218,8 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | sentence-initial And/But/And yet | 1 | 1 | 0.3 | 3.0/1k |  |
 | em dashes | 1 | 1 | 0.3 | 2.0/1k |  |
 | semicolons | 0 | 0 | 0.0 | 2.0/1k |  |
-| perception filter (she noticed / could hear) | 2 | 2 | 0.7 | 1.0/1k |  |
-| one-sentence paragraph | 12 | 12 | 3.9 | report |  |
+| perception filter (she noticed / could hear) | 2 | 2 | 0.6 | 1.0/1k |  |
+| one-sentence paragraph | 17 | 17 | 5.5 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
