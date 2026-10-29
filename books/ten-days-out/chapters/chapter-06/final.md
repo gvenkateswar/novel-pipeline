@@ -106,55 +106,69 @@ At the end of the dock she turned. Through the front window Tess stood at the co
 
 * * *
 
-Wednesday's first sun came over the water flat from the east and lay on the ledge. It lay on both of them. Beth held her face up to it with her eyes shut. It had no warmth in it worth the name, and she stayed in it anyway.
+Wednesday's first sun lay flat on the ledge, on both of them, with no warmth in it worth the name.
 
 The phone went off in his jacket.
 
-"Dollar says Portland opens with the weather."
+He answered it with his back to the wind. The wind took every word before it reached her.
 
-"Nobody'd take that bet."
-
-He answered it with his back to the wind. The wind came over the ledge with nothing in its way and took every word before it reached her. He listened more than he talked, and wrote on his knee, his thumb pinning the page.
-
-Far down past his shoulder the dragger sat on her guest mooring. Glass flashed on her wheelhouse, once, then again.
+Past his shoulder the dragger sat on her guest mooring. Glass flashed on her wheelhouse, once, then again.
 
 "Down," Beth said.
 
-He went down on one knee and finished the call crouched below the line of the rock. The glass didn't flash again. When it was done his thumb went to the red tag on his wrist and turned it once.
+He went to one knee and finished the call crouched below the line of the rock.
 
 "Pike?"
 
-"Pike. Weather." He gave her the rest going down off the rock, one at a time.
+"Pike. Weather." He came down off the rock behind her. "Lifeboat at first light tomorrow to the town float, because it's the only lee in this swell, and the inspector rides over on her for the ferry while you ride back. The county's cleared the landing."
 
-"Coast Guard's sending a lifeboat at first light tomorrow, to the town float, because it's the only lee in this swell."
+Below them the ledges were drying on the ebb.
 
-The rock was wet. She took it slow, and he came down behind her.
-
-"They're bringing the inspector over for the ferry, which saves the government a boat, and you go back with them."
-
-"No helicopter."
-
-"Pike asked. The district won't put a helicopter on a non-emergency move, and theirs is offshore on a case." He stepped down after her. "If it isn't tomorrow, it's Saturday at best, and Monday you're in Portland."
-
-They came down off the granite onto the shore under the bank. The ebb was drawing off the ledges. The weed lay flat on them, shining.
-
-"The landing's cleared with the county," he said. "Coast Guard won't use a town landing without the town knowing."
-
-Beth stopped on the weed. The county would ring the island. The island had one person to ring.
+The county would ring the island. The island had one person to ring.
 
 "You told the county?"
 
 "Portland did. Before they told me."
 
-She went on.
+"Going aboard this morning," she said. "Pump's eating impellers. Ned hears from me I'm going, or I don't go."
 
-Where the shore turned, the low ground opened onto the inner harbor. The *Margaret Ann* was off her guest mooring. She lay on a new one, closer in, with the town landing square in front of her bow. A man went aft along her rail, the left heel dragging.
+Dane walked a few steps. "Tell him you're going, and leave the hour out of it."
+
+"Fine."
+
+"Here's who knows the hour," he said. "Nobody. Not Tess, not Russ." He looked at her. "Nobody. Not Ned."
+
+"Nobody," she said.
+
+Where the shore turned, the bank fell away to low ground, open to the inner harbor. The *Margaret Ann* was off her guest mooring. She lay on a new one with the town landing square in front of her bow. A man came aft along her rail, the left heel dragging, and stopped facing the shore.
 
 "Moorings swing," Dane said.
 
 "That isn't swinging."
 
-She stood and looked at the dragger until he touched her sleeve.
+He put two fingers on her sleeve. "Back to the turn. We wait under the bank."
+
+Beth looked at the water. Behind them the shore ran back to the cove and its one roof. Turn now, and they drew that glass up the shore to her father's door. And two people crouched in the weed had a reason to crouch.
+
+"Turn round now and he walks us home," she said. "Walk."
+
+She put her arm through his. Under the soft-shell his arm went hard, then gave.
+
+"Slower," she said. "Walk like you live here."
+
+"I've never lived anywhere this slowly."
+
+They went out onto the open ground at an islander's pace. A woman who saw that boat every day had no reason to look at it now.
+
+Out on the rail the man turned with them.
+
+"Last time anybody held my arm like this," Dane said, low, "I was six, and it was Merrimack Street."
+
+"Shorter steps."
+
+His elbow stayed tight against her ribs all the way across, his breathing slower than hers.
+
+The last ledge before the riprap was all weed. His free hand came under her elbow and stayed there till she had rock.
 
 "Tomorrow we go down to look. Anything wrong at the ramp head, we turn round."
 
@@ -162,41 +176,31 @@ She stood and looked at the dragger until he touched her sleeve.
 
 "You will."
 
-"Russ has a boat."
-
-"Russ has a thermos. If anybody on that deck saw anybody Sunday, they saw Russ standing up on the hill with it. He stays at his own stove. I'd like him boring for a week."
-
-They went on under the bank.
-
-"Here's who knows the hour," he said. "Nobody. Not Tess, not Russ." He walked a few steps. "Nobody. Not Ned."
-
-"Nobody," she said.
-
-The last ledge before the road was all weed. His hand came under her elbow and stayed there till she had rock.
-
-Below the road they went along the riprap, out of the store's sight, to the foot of the stone pier. Ned stood at the head of the brow and let them aboard. Dane went straight up the outside ladder to the wheelhouse to watch the pier.
+At the foot of the stone pier she looked back. The man had turned all the way round, and he watched them up the pier and over the brow. She took her arm out of Dane's at the top, and he went up the outside ladder to the wheelhouse to watch the pier.
 
 Beth heard the forepeak before she saw it. The pump had quit. The boat had gone quiet under her boots.
 
-The hatch stood open. Below it the water was up over the floor plates and working at the second rung of the ladder. Ned was down in it to his shins with the old impeller in his hand, its vanes chewed to stubs.
+Below the hatch the water was over the floor plates and up to the second rung. Ned was down in it to his shins with the old impeller in his hand, its vanes chewed to stubs.
 
 She went down the ladder. The cold came through her boots at the second rung and kept coming.
-
-The forepeak smelled of rust and cold paint. Forward, where the frames came together, the crack ran a thin dark line down the plating. The water came in along it without any hurry.
 
 "Glass is up," Ned said. He looked at the water round his shins. "So's this."
 
 "Pump's not."
 
-"New one's in the mess." He handed her the old one and went up the ladder slow on the bad hip.
+"New one's in the mess." He handed her the old one and went up the ladder hand over hand.
 
-At the top he stopped, his head and shoulders in the light of the hatch, and looked back down at her. Then he was gone.
+At the hatch he stopped and looked back down at her. Then he was gone.
 
-She stood in the water with the dead impeller and listened to the boat. The cold had got into the bones of her fingers, an ache down to the wrist.
+The cold had got into the bones of her fingers, an ache down to the wrist.
 
-Ned came down with the box. Marr's price sticker was on the end of it. Her eye went over it and on.
+Ned came down with the new impeller in a box with Marr's price sticker on the end.
 
-He knelt in the water at the housing. She held the new impeller in place, both hands on the cold steel, while he turned it to seat it.
+He knelt in the water at the housing. She held the impeller in place, both hands on the cold steel, while he turned it to seat it.
+
+"Third since the bridge," Ned said. "She eats them in dirty water."
+
+The vanes went in.
 
 "That unit was dark Thursday," she said.
 
@@ -204,7 +208,7 @@ He knelt in the water at the housing. She held the new impeller in place, both h
 
 Beth kept her hands where they were.
 
-The water moved against them. He got the first bolt in, then the second.
+He got the first bolt in, then the second.
 
 "Crates come open now and again," Ned said. "You know they do. A year back I started seeing too many pieces to the crate for the weight. Figured it was shorts. Boxes rode heavy, and I never gave that a thought. That contract's the winter boat. Lose it, the district runs her three days a week. Somebody gets laid off, and it wouldn't be me. So I never said."
 
@@ -212,15 +216,19 @@ He set the wrench down on the housing. "I thought it was shorts, Bethie."
 
 She took her hand off the impeller and put it on his arm, on the wet green wool, a second. Then she picked up the wrench and gave it back to him.
 
-He threw the switch. The pump coughed, caught and ran. The water started down the rung. Ned sat back on his heels in it and listened.
+He threw the switch. The pump coughed, caught and ran. The water started down the rung. Ned sat back on his heels and listened.
 
-She had said Nobody on the shore, not half an hour back. She asked him anyway.
+Up in the wheelhouse Dane was watching the pier for her. She had said Nobody to his face on the shore, with her arm through his. Ned's the boat. You asked the boat about the water.
 
-"Is the float workable on the ebb?"
+"Is the float workable on the ebb?" she said.
 
-Ned wiped his hands down his jacket. "Which tide?"
+Ned looked up at her. "Which tide?"
 
 "Tomorrow's first."
+
+He wiped his hands down his jacket and reached for the tide table on the bulkhead.
+
+"Wind goes round tonight." He ran a black fingernail down the card. "High's half past three. First light she's a third gone, plenty under the float. Shore under the bank's dry by then, all but the last ledge, and that one's still deep in the dark. Float's inshore end sits down near the low. Hand me that rag."
 
 * * *
 

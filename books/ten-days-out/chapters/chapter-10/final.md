@@ -36,49 +36,57 @@ At the float's edge Dane stepped in and took Ned's elbow in his good hand for th
 
 * * *
 
-The woman at the counter with the legal pad was Quist, the Q on Pike's screen, tall and very straight, her black hair pulled back hard and her face gray. A clean white bait bucket sat by her boot, carried up from the float and not left since. Beth stopped inside the door, where the floor gave over the soft sills.
+The pad lay shut on the counter under Quist's hand. She was the Q on Pike's screen, tall and very straight, black hair pulled back hard, her face gray from the crossing. Behind the counter Tess held the coffee pot, her glasses up in her hair and her lip swollen. The generator out back was off. Beth stopped inside the door, where the floor gave over the soft sills.
 
-The generator out back was quiet for the first time in nine days. The urn had been on since five. Tess stood behind the counter with her glasses up in her hair and her lip swollen, the coffee pot in her hand.
+"Ms. Marr," Quist said. "Your name was given to the Marshals on Friday, in writing, by the witness, and so you will be asked about Friday night."
 
-Tess said it first. "Whitcomb's."
-
-"The constable talked to me about the tide the whole way up the ramp," Quist said. "Never once looked at me." She nudged it with her boot. "He stayed off that boat for a week because I asked him to. Nobody stays off the boat."
-
-She read from the pad to Tess, fast and level.
-
-"The captain states that at noon on Monday—"
-
-Tess set the coffee pot down.
-
-"—while Ms. Marr was on her rounds, he came up the back way for an impeller off that shelf, the box with her price sticker on it; that he took the spare key to Ms. Marr's truck off her hook and left it on the store's back step, and the truck went out both nights after her lights were out; that he lent them his own key to the box that runs the float lights; and that he told them how the Calloway kitchen door goes. Lift it and lean on it."
-
-Ned had come in by that door every winter of her life without being shown.
-
-Quist looked up from the pad. "How many keys on that hook, Ms. Marr?"
-
-"Two."
-
-Tess said the rest to Quist with her eyes on Beth. "County called me Wednesday about the landing. I kept it to myself. Same as I kept Ashby off the net."
-
-Then she said it to Beth. "You put my name in."
+"Behind this counter, Quist. Face first." Tess was looking at Beth. "You put my name in."
 
 "Yes," Beth said.
 
 "I sold you condoms."
 
-Tess bent below the counter and came up with a book and laid it on the wood beside the green fuel log: cloth-bound, gray, soft at the corners. Beth had heard the safe's dial turn for it last night.
+"An impeller in a box bearing your price sticker was taken from that shelf at noon on Monday, while you were on your rounds. Was it missed?"
 
-"That's two years of the *Margaret Ann*'s night fuel," Tess said, "every gallon after dark, every night my float was lit late, paid in hundreds." She pushed it toward Quist. "What Lyle said at my counter is in the margins."
+"Forty-one ninety-five. Got back at three and put it on Haskell's account." Tess wiped the counter where nothing had spilled. "Figured he'd come up for his phone."
 
-Quist opened it and turned a page. In a margin, in Tess's square hand, Beth read one line upside down: *store like this lives on the boat*. Tuesday's. It was what Tess had written on the back of her hand after Beth went out with the box.
+"The spare key to your truck was left on the back step Friday night and again that Monday noon. How many keys on that hook, Ms. Marr?"
 
-"Goddamn," Quist said to the page. "How many nights did your float fuel a boat carrying fentanyl, Ms. Marr?"
+"Two."
 
-"Count the hundreds," Tess said.
+"The captain's float-light key was handed over Wednesday and kept. The town's key, which is understood to hang by your safe—"
 
-Tess kept her eyes on Beth.
+"Never left the nail."
 
-"Haskell asked me something at supper last night. Quist, you'll see him before I do. Tell him yes."
+"—was therefore not required," Quist said. "They were also told how the Calloway kitchen door is opened."
+
+"Lift it and lean on it," Beth said.
+
+Ned had come in by that door every winter of her life without being shown.
+
+Tess bent below the counter and came up with a book, cloth-bound, gray, soft at the corners, and laid it on the pad.
+
+"Two years of the *Margaret Ann*," Tess said. "Night fuel, every gallon after dark, twice the pump, paid in hundreds. Lyle's talk in the margins. Free with purchase."
+
+Quist opened it and turned a page. In a margin, in Tess's square hand, Beth read one line upside down: *store like this lives on the boat*. Tuesday's.
+
+"You had that Tuesday," Beth said.
+
+"Tuesday he still had a boat."
+
+Quist turned pages and stopped. "Another vessel is recorded here at the same rate. On how many nights was the *Dorothy M.* fueled?"
+
+"Eleven. Since August. Same price, and never the same man paying twice."
+
+Beth knew the *Dorothy M.* by sight, a green forty-footer from across the bay. She tried to put a man at her wheel and couldn't.
+
+"Goddamn," Quist said to the page. "How many of those nights was a boat carrying fentanyl fueled at your float, Ms. Marr?"
+
+Tess kept her eyes on Beth. "Haskell asked me something at supper last night. Quist, you'll see him before I do. Tell him yes."
+
+She turned her back on them and started squaring the packs in the cigarette rack, row by row.
+
+"That will need to be repeated, Ms. Marr," Quist said. "To which question is the answer being given?"
 
 * * *
 
@@ -200,21 +208,41 @@ She came down the outside ladder with her bag for Portland. Kenny was waiting at
 
 * * *
 
-Beth came out of the grand jury room in her good shoes, and the stone floor gave the sound back to her. After eleven days of cold the radiators made the corridor dry and hot. By the tall window a woman in her fifties got up off the bench.
+The prosecutor turned a page and asked who had carried the bags up from the car deck that Thursday night.
 
-"Ms. Calloway."
+Beth had both hands on the edge of the table, the old white scar across her palm pressed to the wood.
 
-Beth knew Pike by the voice before the face.
+"The captain," she said. "Edward Haskell."
 
-"They'll return the indictment before four. Pelletier stays in."
+The juror nearest her uncapped a pen.
 
-Inside, the prosecutor had asked her about the money once. Nobody had asked twice, because a deputy's pencil had answered it at the foot of every night.
+Out in the corridor the stone floor gave the sound of her good shoes back to her. After eleven days of cold the radiators had the air hot and dry. By the tall window a woman in her fifties got up off the bench, and Beth knew Pike by the voice before the face.
+
+"They've voted it. It goes up to the magistrate this afternoon. With an indictment there's no preliminary hearing, so Pelletier stays held."
+
+"The truck."
+
+"Troopers on Route One found one brick in the bottom of a crate. The rest was gone before they stopped him. Without you it's one brick."
+
+Beth put her coat on. She buttoned it wrong and did it again.
 
 "Did they have his book?"
 
 "Yes. He told me you'd ask. He wanted you to hear it from me first."
 
-Beth put her coat over her arm. At the window she stood with her forehead against the cold pane, looking past the roofs for the water, where the ferries went from, while somewhere in the building every page of his small even pencil lay in a file with her bed in it, the fish house, and her own pencilled *Teresa Marr* at the end.
+"Where is he?"
+
+"Upstairs with the people from Arlington until they're finished with him. When they're finished he's on leave. Where he spends it is his business."
+
+Beth looked at the stairwell. The *North Reach* lay at the Pruett slip with nobody aboard who could take her off it, and the island had no boat until she got there.
+
+"Tell him she sails from Pruett at three."
+
+"I'll tell him."
+
+Beth was already on the stairs.
+
+"Side door," Pike said behind her. "The trooper drives the speed I give him, Ms. Calloway, and I've given him two."
 
 * * *
 
