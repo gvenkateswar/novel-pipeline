@@ -2,6 +2,8 @@
 
 Draft: `chapters/chapter-08/draft.md`, "# Chapter Eight: Not Water". I couldn't run `wc` from here. My estimate is about 3,050–3,080 words. By scene: s1 ~550, s2 ~750, s3 ~515, s4 ~475, s5 ~500, s6 ~255. s4 and s6 are the ones nearest their floors (445 and 255), so check those two first.
 
+**Trim pass (after the orchestrator's wc of 3,348).** Cut about 280 words in place, from s2 (about 130), s5 (about 90) and s1 (about 60). I didn't touch s4 or s6. Every assigned ending and every s2 answer is still there, in shorter form. Rulings applied: (1) the "full light" line stays; (2) "everything you tell him about me, I hear" stays; (3) the first "Deputy" is cut, so "Then it's Giglio, Deputy." is the only one. My earlier estimate ran about 9% low, so trust wc over it.
+
 ## Flags
 
 1. **The s2-to-s3 time gap.** s2 has to end mid-motion with Beth out the door to call Pike at about a quarter past four. The beats put s3 at about nine, in daylight. To close the gap I put one present-state line in s3's first paragraph: "It was full light, and she still hadn't dialed." It isn't a recap, but it does suggest she stood there for hours. If the orchestrator wants the call at four in the dark, cut that line and "open water ran gray to the south". s3 then works at four.

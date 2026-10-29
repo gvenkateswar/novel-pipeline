@@ -6,13 +6,13 @@ She took the second mug from Ned and wrapped both hands round it, and her eyes w
 
 He set his own mug on the table beside the notebook. His eyes went over the notebook and on to the coffee, and he drank.
 
-"She'll blow all night," he said. "Snow behind it by morning, by the look of the west. Crew cabin's made up, and there's dry gear in the locker." He nodded at it. "Kenny's. He won't miss them. He's in Pruett, sick as a dog. Lines'll want looking at on the top of the tide."
+"She'll blow all night," he said. "Snow behind it by morning, by the look of the west. Crew cabin's made up, and there's dry gear in the locker. Kenny's. He won't miss them. He's in Pruett, sick as a dog. Lines'll want looking at on the top of the tide."
 
-Kenny's shirt was short in the arm, his jeans short at the ankle, and they were dry, which was all she asked of them. She lay in the lower bunk with the blanket to her chin and the notebook under her pillow. All night the forepeak pump ran under her through the steel, a pulse she could have counted by and didn't. A line groaned on a bollard somewhere aft and eased off. Once she heard Ned's step on the deck overhead, slow on the hip, going forward to the lines and coming back. She slept in pieces. Each time she woke, her hand was already under the pillow on the cover of the book.
+Kenny's shirt was short in the arm, his jeans short at the ankle, and they were dry, which was all she asked of them. She lay in the lower bunk with the blanket to her chin and the notebook under her pillow. All night the forepeak pump ran under her through the steel, a pulse she could have counted by and didn't. Once she heard Ned's step on the deck overhead, slow on the hip, going forward to the lines and coming back. She slept in pieces. Each time she woke, her hand was already under the pillow on the cover of the book.
 
-Toward the top of the tide the boat began to work against the pier, and she couldn't lie there any longer. She went up the inside companionway to the wheelhouse in the dark. It smelled of burnt coffee and wet wool, and she stood at the side window with Kenny's sleeves pulled down over her knuckles. The snow had come back with the gale. It went sideways past the windows Ned's rag had smeared, white across the black, and down on deck his flashlight moved from line to line. Below her the brow's wheels ground on the granite at every surge, louder with the water high under them.
+Toward the top of the tide the boat began to work against the pier, and she couldn't lie there any longer. She went up the inside companionway to the wheelhouse in the dark. The snow had come back with the gale. It went sideways past the windows Ned's rag had smeared, and down on deck his flashlight moved from line to line. Below her the brow's wheels ground on the granite at every surge, louder with the water high.
 
-A figure was coming along the riprap below the pier from the town end, out of the store's sightline, slow, trying each stone before it gave it weight. One arm was held across the body. In the other hand something square caught Ned's light as it swung, and showed red.
+A figure was coming along the riprap below the pier from the town end, out of the store's sightline, slow, trying each stone. One arm was held across the body. In the other hand something square caught Ned's light as it swung, and showed red.
 
 She was out the wheelhouse door and down the outside ladder and the rungs were iced under her hands and the sleet went down her collar and below her the brow lifted and dropped and ground and Ned's light went across the stone and the red of the case came and went in it, and her body was a rung ahead of her the whole way down.
 
@@ -22,7 +22,7 @@ Ned stood halfway down the brow with the light on the man at its foot.
 
 "Captain." Dane stood on the stone in the snow and didn't come on.
 
-The brow rose under Ned and settled, and he rode it without a hand on the rail. The light didn't move off Dane.
+The brow rose under Ned and settled. The light didn't move off Dane.
 
 "Let him on, Ned," Beth said from the gate.
 
@@ -34,15 +34,13 @@ Dane came up the grinding brow behind him with the bad arm held in against his c
 
 The sleet came in flat through the deckhouse door before she got it shut behind him.
 
-In the crew mess he stood at the heater, and the wet wool of his coat began to steam. He set his phone on the table to work the coat off the bad arm, then sat down across from her with the arm laid along the steel. The red case sat between them. She had the notebook under her hand, and the cold came up out of the table into her forearms.
+In the crew mess his wet coat steamed at the heater. He set his phone on the table to work the coat off the bad arm and sat down across from her, the red case between them. She had the notebook under her hand, and the cold came up out of the steel into her forearms.
 
 "May I have the book?"
 
 "No."
 
-He nodded, as if he'd planned for that answer too.
-
-"Then I'll tell you what's in it, Ms. Calloway. I'm going to do it once, in order, and you can check me." He spoke slowly, every word set down where he meant it to sit. "I investigated you. The money questions in the generator shed were for the case. I wrote down every place we've slept. I went to bed with you, and I kept writing. 'Walked the bar' was a lie. I was on the ledge."
+"Then I'll tell you what's in it, Ms. Calloway. I'm going to do it once, in order, and you can check me. I investigated you. The money questions in the generator shed were for the case. I wrote down every place we've slept. I went to bed with you, and I kept writing. 'Walked the bar' was a lie. I was on the ledge."
 
 "I know where you were."
 
@@ -56,21 +54,17 @@ She opened the book at the place. He had it word for word, the comma too. She sh
 
 "Tuesday night I left you asleep behind a door nobody could bar from outside." He looked at her hand on the cover. "Yesterday you did the same to me."
 
-The heater's coil glowed and dimmed behind its grille.
-
-"My report was due by two, and it needed sky. At the top of the tide nobody could cross the gravel bar to you, and from the ledge I could see the cove road, which is the only way in by land. The light at the Ashby end of the bar, short, then long, was two men off the *Margaret Ann* on the burned shore, calling their skiff in to take them off. When the skiff's light came across the cove for the ledge, I went down off the rock into the sea under the bank and stood in it till they'd gone." He looked at the steam rising off his knees. "That's the jeans. Then I came round to your door the long way."
-
-She turned her mug a little on the steel and didn't drink from it.
+"My report was due by two, and it needed sky. At the top of the tide nobody could cross the bar to you, and from the ledge I could see the cove road, the only way in by land. The light at the Ashby end, short, then long, was two men off the *Margaret Ann* calling their skiff in off the burned shore. When the skiff's light came across the cove, I went down off the rock into the sea under the bank and stood in it till they'd gone. That's the jeans. Then I came round to your door the long way."
 
 "There's a line about the pouch. Seal noted: red. You told me the fare bag's red. I took it for the teller writing down the one on top, and I didn't ask you, because asking was telling you what was in the other one."
 
-The book lay shut under her hand. She looked at the heater grille and let it lie there.
+She looked at the heater grille and let the book lie shut under her hand.
 
 "The fish house is in that book," he said. "It was never in a report. Portland has 'east shore.'"
 
 "East shore's half the island."
 
-"That was the idea. After the ramp head Pike asked for status, and I sent her one word. Graze. If I give Portland more than a word, Portland sends something, and whatever it sends comes down in the open, on the ballfield or at the float, where that deck can see it. The water was shut by mid-morning anyhow. 'Not again today' means the Coast Guard won't land a boat under fire." He looked at the door. "And a man got shot on a lit road at dawn, and nobody on this island opened a door."
+"That was the idea. After the ramp head Pike asked for status, and I sent one word. Graze. Give Portland more than a word and Portland sends something, and whatever it sends comes down in the open, on the ballfield or at the float, where that deck can see it. The water was shut by mid-morning anyhow. 'Not again today' means the Coast Guard won't land under fire. And a man got shot on a lit road at dawn, and nobody on this island opened a door."
 
 "One shot over the water at first light. That's somebody's eiders. Nobody on this island gets out of bed for eiders."
 
@@ -78,13 +72,13 @@ He put his good hand over his eyes for a second and took it away.
 
 "You came by the road," she said.
 
-"There's one boat on this island you'd sleep on." He laid the hand on the table beside the phone. "At four, at the top of the north road, before I walked down, I told Pike I've been sleeping with my witness, and that she has my book. That's all of it."
+"There's one boat on this island you'd sleep on. At four, at the top of the north road, before I walked down, I told Pike I've been sleeping with my witness, and that she has my book. That's all of it."
 
-She stood. She took his phone off the table into her fist.
+She stood and took his phone off the table into her fist.
 
 "Give me Pike."
 
-She had the deckhouse door open and was out through it into the sleet before he answered, turning for the seaward side with the phone held in against her coat, and behind her the bench scraped as he came up off it to follow, the bad arm pinned to his ribs, his good hand reaching for the door as it swung back at him.
+She was out through the deckhouse door into the sleet before he answered, turning for the seaward side with the phone held in against her coat, the bench scraping behind her as he came up off it to follow, the bad arm pinned to his ribs, his good hand reaching for the door as it swung back at him.
 
 * * *
 
@@ -106,7 +100,7 @@ Beth had the notebook open in the lee of her coat. With her free thumb she turne
 
 Beth's thumb stopped.
 
-"At four this morning he reported himself. I had a detail once that—" The line gave them nothing for a breath. "Nothing flies before first light tomorrow. Till then she's held in the most defensible place you have, Deputy. Nothing else."
+"At four this morning he reported himself. I had a detail once that—" The line gave them nothing for a breath. "Nothing flies before first light tomorrow. Till then she's held in the most defensible place you have. Nothing else."
 
 Beth brought her mouth down to the phone.
 
@@ -178,11 +172,11 @@ Dane was already carving him a slab off the end one-handed, the fork pinning it 
 
 * * *
 
-The chart table was cold through her sleeves. The squalls had thinned to a few flakes, the wind was backing into the northwest, and the light was going early. Snow-light lay flat on the wheelhouse windows, and the harbor beyond them had gone the color of pewter. The *Margaret Ann* lay to her new mooring with the town landing square in front of her bow. Along the Harbor Road the store's windows were yellow on its generator.
+The chart table was cold through her sleeves. The squalls had thinned, the wind backing northwest, the light going early. Snow-light lay flat on the wheelhouse windows. The *Margaret Ann* lay to her new mooring with the town landing square in front of her bow, and along the Harbor Road the store's windows were yellow on its generator.
 
-"Here's how this goes," Dane said. "The night low, the fish house. The shore's dry from about eight. We're in before the stove's gone cold."
+"Here's how this goes," Dane said. "The night low, the fish house. The shore's dry from about eight."
 
-Beth was looking at the pier. In the lee of the wall, where the wind hadn't scoured it, one line of footprints still came down the pier road to the riprap. They ran from that wall back over the north road and down the cove road to her father's door, and it had quit snowing at first light.
+In the lee of the pier wall, where the wind hadn't scoured it, one line of footprints still came down the pier road to the riprap. They ran back over the north road and down the cove road to her father's door, and it had quit snowing at first light.
 
 "Anybody can walk it backward," she said. "They burned Ashby."
 
@@ -194,11 +188,9 @@ Beth was looking at the pier. In the lee of the wall, where the wind hadn't scou
 
 "Tonight the stern's watched, I'm awake, and the outside ladder's my way down."
 
-He looked out the side window at the ladder, and back at her, and he let it stand.
-
 She turned from the window. "Somebody tells them where I am tonight. So here's who. Tess logged my light on the back steps Friday night and sat on it. She found Ashby by its smoke. Her truck was in the Ashby drive the night it burned. The county called her about the landing, and she kept that to herself."
 
-She wasn't going fast. Each one was a thing she had seen, and most of them she could see from here: the yellow windows, the counter behind them, the office door at the back where the curtain hung.
+She wasn't going fast. Each one was a thing she had seen.
 
 "She's got hundreds in the green ledger against the night fuel. *Ashby*, on her hand, Tuesday morning. The truck keys hang on the hook and the town ring sits by the safe, behind a curtain that doesn't shut. Every midday she's out on her rounds with the store shut behind her. And Arsenault stood at that counter and told her, 'Store like this lives on the boat,' and Tess laughed."
 
@@ -208,7 +200,7 @@ She left the seal out. Her envelope had ridden over in Tess's bag, and the telle
 
 "To Tess."
 
-He let that sit. "Who goes behind that curtain when she's out?"
+"Who goes behind that curtain when she's out?"
 
 "Anybody at the counter."
 
@@ -224,7 +216,7 @@ He let that sit. "Who goes behind that curtain when she's out?"
 
 "Not Ned."
 
-She took the notebook out of her coat and opened it on the chart table at a clean page past his last line. She drew the pencil out of the spine. She wrote *Teresa Marr* in her own hand, in the square capitals the island school had taught her, the whole name, which she had never once said out loud. The point caught on the second *r* and went on. She turned the book round and pushed it across to him.
+She took the notebook out of her coat and opened it on the chart table at a clean page past his last line. She drew the pencil out of the spine. She wrote *Teresa Marr* in her own hand, in the square capitals the island school had taught her, the whole name, which she had never once said out loud. She turned the book round and pushed it across to him.
 
 "For Pike."
 
