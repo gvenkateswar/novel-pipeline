@@ -1,56 +1,84 @@
-# Chapter 03 issues (draft.md, v2 rebuild)
-
 **Issue 1**
-- Problem: Ch 02 ends on "You." and the glow under Dane's chin. Beats Flag 6 and the payoffs table ("The glow under his chin → the screen") require Beth to be angry at him for the front-yard call, and the scene 1 want is "Beth wants to know what he did out front last night, and won't ask." Scene 1 carries no trace of it. She hands her father's razor to the man she named as the leak eight hours earlier, and the screen never connects to the yard call. The warm shave reads as if Ch 02 never happened.
-- Location: "She opened the cabinet over the sink and took down her father's razor, the heavy safety razor with the knurled handle, and set it on the drainboard. She took down his shaving mirror too and propped it in the window frame where he used to prop it. She didn't say anything."
-- Suggested fix: Add one interior sentence in the shave paragraph or at "She picked it up" tying the lit phone to the glow under his chin in the front yard, so she lifts it as evidence and not only as curiosity.
+- Problem: The grafted ending contradicts what Dane says just before it, and it settles what Beth cannot know. At the door he says he will report "North end. Not the house." The last sentence then states as fact that he "told Portland where she was." The same paragraph says Beth hears not one word. This resolves the unexplained-call ambiguity that World rules 4, 9 and 10 want left open. It also ends the chapter on a summing-up clause (World rule 7).
+- Location: "stayed there in the snow while he told Portland where she was." (against) "\"North end. Not the house. That's what I'll tell them.\""
+- Suggested fix: Cut the final clause so the chapter ends on her arm against his in the snow, or have him say a location aloud that Beth can compare with "North end."
 
 **Issue 2**
-- Problem: The scene 1 closing line does not match the seating. Dane heads for "the chair facing the door," which puts his back to the wall and not to Beth. "Don't sit with your back to me" does not describe that. The chapter then says the other chair "put the door at his back," so the gesture is about the door and not about her. The line is the outline's button, but the geometry makes it read as a non sequitur.
-- Location: "Then don't sit with your back to me."
-- Suggested fix: Reword so the line matches the picture, for example Beth telling him to take the door chair for once, or having her say it as he turns his back to her at the stove. Keep her taking the facing-door chair and his decision to sit.
+- Problem: The graft leaves the sheet setup from the old ending behind, and Beth's move onto the porch has no motive on the page. "The edge of the sheet hung by her hand" sets up a watch from behind the sheet that never happens. "Instead" points at that watch. Dane's glance at "the window" only makes sense if she were watching from it. Nothing in the preceding fight gives her a reason to step out. His earlier "where she can see him" offer (beat sheet) is not in the draft either.
+- Location: "The edge of the sheet hung by her hand. She went out the door after him instead, and pulled it to behind her, and stood on the step beside him in the snow." and "He turned once in the middle of it to look at the window and found her at his shoulder instead."
+- Suggested fix: Delete the sheet sentence and "instead". Give her one concrete action or thought between "I have to call it in" and the door, and make his look go to the door or to the spot where she was.
 
 **Issue 3**
-- Problem: Beth asks outright whether she is in his log. The outline (R3-5), the plant ledger and the Ch 04 entry rest on her nearly asking "Is this going in your log?" and not asking, "because she wants the answer to be no." Asking it here pre-empts that plant. It also conflicts with scene 1, where she reads the log as case secrets and not as a record of her. Beats allowed it only if it still pointed at the order.
-- Location: "I'm asking now. Am I in it? What you write?"
-- Suggested fix: Change it to a question about the order and the thing he is withholding ("What don't I get told?" echoing scene 1, or "What's the other one?"), so she does not ask about herself in the log and Ch 04 can still hold the unasked question.
+- Problem: Beth stands in the open, beside Dane, on the porch of a lit house. This is minutes after the dragger's lights went out and a hooded man got away. Earlier in the same scene Dane moved to her harbor side with his hand on his hip. He is also reporting "not the house." Nobody remarks on the exposure. The bible lists "a heroine who makes senseless choices in danger" among the complaints to avoid, and World rule 16 says her danger calls are the smart ones.
+- Location: "and stood on the step beside him in the snow." and "she moved up the last few inches until her arm was against his, and stayed there in the snow"
+- Suggested fix: Add one line of Dane's or Beth's that acknowledges the risk, for example the porch roof and the shed's noise as cover, or Dane placing himself on the harbor side.
 
 **Issue 4**
-- Problem: In scene 3 Dane explains to Beth, an islander and the best reader of those waters, why a private boat is a bad idea. She has proposed no boat, the passage is unprompted, and she knows all of it better than he does. It reads as exposition for the reader, a character explaining something both already know. It also opens a 150-word scene with no beat of Beth's.
-- Location: "Any boat on this island could be theirs, and I can't tell which. I can't read these seas, and you can. And whoever takes you off leaves a wake the whole bay can follow, because by supper everybody knows whose boat it was."
-- Suggested fix: Give Beth a prompt first (a single line about who could run them across at slack, or a look at the moorings that he answers), and cut his "I can't read these seas, and you can" to one clause.
+- Problem: The last image says the harbor is entirely dark ("nothing at all"), but earlier the same night generator windows still burn yellow below the spine. The Ashby place is on the far side of the spine from the harbor, so the harbor may not be visible from its porch. Lookout Hill is the island's middle, at about 160 feet.
+- Location: "Past him, down the length of the island, where the harbor lights should have been, there was nothing at all."
+- Suggested fix: Replace with something she can see from the north point (the dark water, or the glow of the shed's own windows), or drop the harbor sightline.
 
 **Issue 5**
-- Problem: World rule 7 bans maxims in narration. The loyalty line is a general rule stated in narration ("you didn't put your own people into a marshal's book"). It is also the sentence the scene's emotional logic depends on, so it carries the reader's takeaway for them.
-- Location: "it was the same reason: they were hers, and you didn't put your own people into a marshal's book."
-- Suggested fix: Make it particular to Beth and this book: "they were hers, and she would not hand either of them to the notebook in his jacket."
+- Problem: Dane has a bag in the front room, but nothing in Ch 01 or the new Ch 02 gives him one. He came down the Pruett ramp with nothing, jumped aboard with nothing, and the gray car stayed at Pruett. The bible has this as a one-day job with no razor. "The size a man packed for one night" implies a small bag that never reached the island.
+- Location: "His bag in the front room was the size a man packed for one night."
+- Suggested fix: Cut the bag. Keep "no razor" by saying nothing of luggage, or have her notice he has only what is on his back.
 
 **Issue 6**
-- Problem: The continuity log says to swing the suspect weight to Tess, add nothing against Ned, and "Don't remind the reader of [Ned hearing the decoy and being told 'Home'] in Ch 03." The loyalty sentence names Ned first, recalls last night's omission, and pairs him with the log she is hiding. That sends the reader straight back to Ned at the moment the chapter should be building Tess.
-- Location: "She hadn't given him Ned's name last night, and she wouldn't give him Tess's hand now, and it was the same reason"
-- Suggested fix: Lead with Tess and drop the explicit "Ned's name last night" recall, for example "She had kept her own people out of his notebook before, and she'd keep Tess's hand out of it now." This still plants the blind spot without naming Ned.
+- Problem: Ashby is named with no explanation the first time, which was the clarity fix the revised beats required. The reader gets "Connecticut" only a scene later. The "cove over the fish house sill till Monday" thought is missing. The plant ledger lists it as Ch 03 to Ch 05. "Water on three sides and one road" also does not appear in the store scene.
+- Location: "\"Ashby,\" Beth said. \"Ned runs its generator every storm. Nobody looks twice at a light out there.\""
+- Suggested fix: Add one clause at this first mention. Say what Ashby is (a shut-up summer cottage for people from Connecticut, on the north point). Add the one interior line on the cove and the sill.
 
 **Issue 7**
-- Problem: Tess seals "the morning's bag" on Day 2, but the ferry is crippled and carries no one, and there is no courier. Nothing explains why a bag is being sealed with a yellow tag. A careful reader will stop on it, and it touches the seal clue the book rests on (CASE FACTS).
-- Location: "Tess was snapping a yellow tag through the zipper of the morning's bag and talking the whole time"
-- Suggested fix: Make the bag the deposits "for whenever the boat runs" (a clause), or change it to "the deposit bag."
+- Problem: The plant "Ned's phone among the charging phones; 'Only place on the island it's a phone'" does not make it to the page. CASE FACTS and the plant ledger carry it to Ch 09 and Ch 10. The draft shows an anonymous "shelf of phones" and no line, and nothing marks Ned's phone among them.
+- Location: "the hook with the two keys for Tess's Ford on their MARR'S tag, the shelf of phones charging under it, the back door banging, and the step empty."
+- Suggested fix: Add a recognizable detail Beth would know on Ned's phone (a cracked case, a rubber band). Give Tess the line "Only place on the island it's a phone."
 
 **Issue 8**
-- Problem: "The fish house" appears in Beth's head with no antecedent. Ch 01 and Ch 02 never mention it, the reader does not know it is her father's, and Dane does not know it exists. The plant (cove over the sill till Monday) is unreadable as written.
-- Location: "The cove was over the fish house sill and would be till Monday."
-- Suggested fix: Give it a clause on first mention, for example "Her father's fish house on Calloway Cove was awash at the sill and would be till Monday."
+- Problem: It is unclear who says "Don't write me down." It sits in its own paragraph right after a Dane action line ("He stepped back a full pace"). The reader takes it for Dane's speech until the next paragraph ("He took it without arguing").
+- Location: "He stepped back a full pace, so the engine's noise stood between them.\n\n\"Don't write me down.\""
+- Suggested fix: Put the line in Beth's paragraph, or reorder so Beth's action comes before it.
 
 **Issue 9**
-- Problem: POV rule. Beth cannot know why Dane has no razor or what he packed. The line is Dane-interior backstory placed in Beth's close third.
-- Location: "He had come over for one day with a toothbrush and a subpoena."
-- Suggested fix: Cut it, or move it into something she can see or deduce: "He hadn't packed for more than a day. She'd seen the bag in the car."
+- Problem: A pronoun makes "her" refer to two things in two clauses. "On her" is the dragger; "under her" is meant to be Beth. The continuity log flagged exactly this "she/her = boat and Beth" confusion for listeners.
+- Location: "Then every deck light on her went out at once, and the harbor went black under her."
+- Suggested fix: Name the vessel ("every deck light on the *Margaret Ann*") and change the second clause so Beth is not a "her" ("and the harbor went black below the hill").
 
 **Issue 10**
-- Problem: The "Don't write me down" interior recycles Ch 01's "a man in a good coat" image almost word for word. Beats retired the name-on-paper motif for this chapter. "A kitchen table eight years ago" is also a new setting for the bank scene that Ch 01 gave only as "in an afternoon, in blue pen." Separately, "Under. Not over." is a "not X" contrast form, which the author's zero-tolerance rule bars in dialogue.
-- Location: "It came up out of her from a long way down, from a kitchen table eight years ago and a man in a good coat, and she heard it go and couldn't call it back." / "Under. Not over."
-- Suggested fix: Cut the "kitchen table ... man in a good coat" clause to "from a long way down, older than him." Change her order to a positive instruction ("Under the sweater.").
+- Problem: The order of Tess's phone actions is wrong. The phone goes into her vest, then she listens to it, then "put it away" again.
+- Location: "Tess's phone went in her vest. She listened, said \"Pilot's call. I know it is,\" and put it away."
+- Suggested fix: Start with the phone at her ear (it rings, she takes it out), then she listens, speaks, and puts it in the vest.
 
 **Issue 11**
-- Problem: Beth primes the generator and clears the bleed screw herself, unseen. The bible and Ch 04 s2 have Beth talking Dane through the bleed screw while he lies under the set, and the set has been running since Saturday night, so nothing here sets up why it needs bleeding again on Day 3.
-- Location: "She primed it by feel, and when the fuel came clean at the bleed screw she put the cord in his hand."
-- Suggested fix: Add a half-clause that the tank is nearly dry (Ned's diesel arrives Sunday dusk, Ch 04 s3), so a Day 3 re-bleed in Ch 04 has a cause, or drop "the bleed screw" here and say only "primed it."
+- Problem: "What is your job, exactly?" has no speaker or tag. It follows a Tess beat, so the reader cannot tell whether Dane or Beth asks it. It also asks Tess something Dane already knows from the net in Ch 02 if he is the speaker. Tess's answer carries the chapter's primary laugh.
+- Location: "\"What is your job, exactly?\""
+- Suggested fix: Add a tag and a reason ("Dane said, 'And that makes you what, exactly?'"), or turn it into his reaction to hearing LifeFlight refuse.
+
+**Issue 12**
+- Problem: Gloves are on throughout the shed scene: the key is "in her glove" at the store and again at the end. But Beth feels his jaw with her fingers, and nothing says she took the gloves off. "Primed the engine by feel" and "smooth under her fingers" read as bare-handed. The bible says she takes them off to do things that matter, and the hands motif is capped at once a chapter.
+- Location: "it was as smooth under her fingers as it had looked from the stove." (against) "with Ned's key in her glove"
+- Suggested fix: Show her pulling a glove off (this can be the chapter's single use of the hands/bare-handed motif) before touching his jaw, or change the touch to "through the glove."
+
+**Issue 13**
+- Problem: The draft states Dane's reason (he will not leave her in a room with the skipper) and then has him leave her in that room within a few lines. This contradicts his wound-driven rule that he does not leave a protectee and does not bend the plan. The beat sheet wanted the contrast unremarked. The narration remarks on it explicitly, so it reads as a character slip, not a choice. Russ also leaves by the front, so no one is left with her except Tess and Arsenault.
+- Location: "The call he'd have had to make was outside under the sky, and he wasn't leaving her in a room with the dragger's skipper." (against) "Dane was through the curtain before Tess could open her mouth."
+- Suggested fix: Make the contrast pay: have Dane glance back at her once before he goes, or tell Russ to stay by her. Alternatively, cut the "wasn't leaving her" clause.
+
+**Issue 14**
+- Problem: The yellow tag is snapped on a "morning's deposit bag" on Day 2, when the boat is wrecked at the pier and no courier is running. Beth, who works with this, would wonder what the bag is for. The line's reason for being said then is unclear.
+- Location: "Tess was already snapping a yellow tag through the zipper of the morning's deposit bag, fast, talking to the bag."
+- Suggested fix: Make the bag the store's day deposits being sealed for the safe, with a clause from Beth or Tess ("till the boat runs"), so sealing it with no boat makes sense.
+
+**Issue 15**
+- Problem: Dane's interior intent is asserted by narration, in Beth's POV ("as if he had thought about this and meant to take his time over it"). World rule 9 allows only what she can see, hear and read, and requires every unexplained thing to be readable two ways. This line also explains a feeling after the image.
+- Location: "he kissed her back slowly, as if he had thought about this and meant to take his time over it."
+- Suggested fix: Cut the "as if" clause and leave the slow kiss, or give it as something she observes (his hands, his breath) that does not claim his thought.
+
+**Issue 16**
+- Problem: Narration labels the register of the fight lines. This tells where the bible and the beats ask to show. The labels repeat what the dialogue already does.
+- Location: "Her voice had gone quiet and exact." and "When he answered, it was polite and slow."
+- Suggested fix: Delete both labels. The subject-first full-name sentence and "Ms. Calloway" already carry it.
+
+**Issue 17**
+- Problem: A maxim in narration, which World rule 7 forbids (even though the beat sheet asked for the loyalty line). It generalizes in "you" instead of staying in Beth's particular thought.
+- Location: "they were hers, and you didn't put your own people in a marshal's book."
+- Suggested fix: Make it Beth-specific and concrete, such as "they were hers, and she had never once put an islander's name in a stranger's book."
