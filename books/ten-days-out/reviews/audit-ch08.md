@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–08, 23,809 words)
+# Audit — ten-days-out (chapters 01–08, 23,788 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -168,7 +168,6 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 6× “along the harbor”
 - 6× “under the set”
 - 6× “top of the tide”
-- 5× “had never once”
 - 5× “the outside ladder”
 - 5× “could see the”
 - 5× “at first light”
@@ -183,6 +182,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 5× “the margaret ann s”
 - 5× “the top of the tide”
 - 4× “under her fingers”
+- 4× “had never once”
 - 4× “hand stayed on”
 - 4× “went along the”
 - 4× “the whole way”
@@ -201,7 +201,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - jaw: 6 (0.3/1k)
 - knuckles?: 2 (0.1/1k)
 - throat: 4 (0.2/1k)
-- reath: 18 (0.8/1k)
+- reath: 17 (0.7/1k)
 - pulse: 2 (0.1/1k)
 - chest: 4 (0.2/1k)
 - hands? (stopped|stilled|went still|flat): 1 (0.0/1k)
@@ -221,7 +221,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 05 | 3,686 | 11.1 | 8.2 | 25% | 0.0 | 0.5 | 0.0 | 4 | mean short openers |
 | 06 | 3,258 | 10.8 | 7.7 | 26% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 | 07 | 3,060 | 11.6 | 8.9 | 24% | 0.0 | 0.7 | 0.0 | 5 | mean short openers |
-| 08 | 3,034 | 15.2 | 10.4 | 14% | 0.0 | 0.0 | 0.0 | 2 |  |
+| 08 | 3,013 | 15.1 | 10.4 | 14% | 0.0 | 0.0 | 0.0 | 2 |  |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -263,7 +263,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | not because ... but because | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0.0 | 0.0/1k | FLAG |
 | sentence-initial And/But/And yet | 1 | 0 | 2 | 0 | 4 | 0 | 0 | 3 | 10 | 0.4 | 3.0/1k |  |
-| em dashes | 1 | 1 | 2 | 0 | 1 | 0 | 1 | 2 | 8 | 0.3 | 2.0/1k |  |
+| em dashes | 1 | 1 | 2 | 0 | 1 | 0 | 1 | 1 | 7 | 0.3 | 2.0/1k |  |
 | semicolons | 0 | 3 | 1 | 5 | 0 | 1 | 1 | 0 | 11 | 0.5 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 2 | 1 | 3 | 1 | 3 | 0 | 2 | 0 | 12 | 0.5 | 1.0/1k |  |
 | one-sentence paragraph | 17 | 18 | 24 | 15 | 35 | 41 | 27 | 21 | 198 | 8.3 | report |  |
@@ -272,4 +272,4 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 
 
-Orchestrator note (fix round 1 text, 3,049 words): the one contrast FLAG is the Ch 06 conditional, a known false positive. Clean.
+Orchestrator note (final, 3,028 words): the one contrast FLAG is the Ch 06 conditional, a known false positive. Clean.

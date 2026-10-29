@@ -82,7 +82,7 @@ She opened the book at the place, tipped up off the table so he couldn't see the
 
 "They did. You'd never have touched it, and anybody on this island could have told them so."
 
-"Seal noted: red." He had that one from memory too. "You told me the fare bag's red. The money rode over in the boat's bag."
+"Seal noted: red," Dane said. He had that one from memory too. "You told me the fare bag's red. The money rode over in the boat's bag."
 
 Her eyes went to the heater grille. She turned the book face down under her hand and drew it back to her own side of the table.
 
@@ -142,7 +142,7 @@ Snow spotted the paper and didn't run the pencil. She quit reading the rest of e
 
 Beth stopped turning. Over the phone Dane's face was a hand's breadth from hers, wet with snow, and he was looking out at the water, where there was nothing to see.
 
-"At four this morning he reported himself. I had a detail once that—" The line gave them nothing for a breath. "Nothing flies before first light tomorrow. Till then she's held in the most defensible place you have. Nothing else."
+"At four this morning he reported himself. Nothing flies before first light tomorrow. Till then she's held in the most defensible place you have. Nothing else."
 
 Beth brought her mouth down to the phone.
 
@@ -222,7 +222,7 @@ The chart table was cold through her sleeves. The squalls had thinned, the wind 
 
 "The fish house never went in a report," Dane said. "Portland has 'east shore.' At the night low the shore's dry from about eight."
 
-She tipped her head at the prints. "Anybody can walk it backward."
+She tipped her head at the prints. "Anybody can walk down a pier road."
 
 He looked down at them a while. He had come down that road in the open at four in the morning, and the wind had left every step of it. "Mine."
 
@@ -292,7 +292,7 @@ She left the seal out.
 
 "Not Ned."
 
-She took the notebook out of her coat and opened it on the chart table at a clean page past his last line. She drew the pencil out of the spine. The point was going, and the letters came out thick. She wrote *Teresa Marr* in the square capitals the island school had taught her, the whole name, which she had never once said out loud. She turned the book round and pushed it across to him.
+She took the notebook out of her coat and opened it on the chart table at a clean page past his last line. She drew the pencil out of the spine. The point was going, and the letters came out thick. She wrote *Teresa Marr* in the square capitals the island school had taught her. She turned the book round and pushed it across to him.
 
 "For Pike."
 
