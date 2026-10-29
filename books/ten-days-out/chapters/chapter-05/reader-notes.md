@@ -1,126 +1,138 @@
-# Reader Notes: Chapter 05, "Half Tide"
+# Reader Notes: Chapter Five, "Half Tide"
 
-**Draft read:** Ch 05 final.md, Oct 29, first pass. Read cold after Ch 01–04 final.md, in order. I opened no other files.
+**Draft read:** Ch 05 final.md, rebuilt v2, Oct 29
+**Context read:** chapters 01 to 05, final.md only, in order.
 
 ---
 
 ## Pull score
 
-**Chapter: 3.5 of 5 (7 of 10).** I'd keep reading, but this is the first chapter where I noticed the book repeating itself. It goes over suspects I already had, and it uses the same callbacks three or four times.
+**Chapter: 7 / 10.** I would turn the page. The fire and the bar crossing are the best action in the book so far, and the last line gives Beth something to do instead of somewhere to hide. The love scene is good for about half its length and generic for the rest. Scene four is muddy.
 
-| Scene | What happens | Pull (1–5) | Why |
+| Scene | What happens | Pull (of 5) | Why |
 |---|---|---|---|
-| 1. Ashby kitchen, the truck on the ridge | Beth thaws out. The smoke gives them away. A truck stops on the spine and leaves. | 3 | The atmosphere is good. "She knew that truck, and who drove it, and what would be on its seat... and where Tess wrote things down" is coy. The book knows who it is and won't say, so the tension feels arranged. |
-| 2. The store, Tess and the chowder | Tess admits she saw the flashlight Friday and kept it off the net. Tess offers her a bed. Beth refuses. Tess drives them back to Ashby. | 3 | Tess's best scene so far, line for line. It's also the scene where I got most confused (see below). Too many tags and appeals stacked up. |
-| 3. Fire, the bar crossing | The generator shed burns. Tess's truck sits in the drive. They cross the bar at half tide to the fish house. | 4 | The best set piece in the book so far. But the crossing Ch 04 built up so carefully is over in about ten sentences. |
-| 4. The fish house, love scene | "Is it still a not yet?" Then the trauma kit, hands and mouths, and "Who had Ashby, besides me?" | 4 | It works. Notes below. |
-| 5. Coals, the short list, the plan | Beth names Tess, Ned and the truck keys. Dane promises "a store vehicle." Beth announces the store plan. | 3 | About half of it recaps things I read twenty minutes ago. The final line is fine, but it's weaker than the fire as a reason to turn the page. |
+| 1. Ashby kitchen, Tess's visit | Smoke gives them away; Tess drives up with chowder and shows the 22:40 in her log | 4 | Tess is the most alive person in the chapter. "Don't you look at my book like the bank does" lands hard because of the father's boat in Ch 04. Loses a point to a few lines I couldn't parse (below). |
+| 2. Fire and the bar | Generator shed burns, Tess's truck in the drive, half-tide crossing under a searching flashlight | 5 | Real fear. The plan from Ch 04 ("ninety seconds, if you don't stop") pays off, and then they have to stop. I held my breath on the sweep. |
+| 3. Fish house, love scene | Stove, boots, "not yet" answered, sex | 3 | The opening and the jokes pull. The middle goes stock. I also stopped believing they would light a stove and a lantern an hour after smoke gave them away. |
+| 4. Flashlight across the cove, suspects | Beth names Ned and Tess out loud, Dane won't promise, Beth decides to walk into Marr's | 3 | The decision at the end is good. Getting there means unpacking a callback ("her *You*") and a line I couldn't follow ("Three things you didn't count"). |
 
-Lowest scene: 3. Nothing at 2 or below. No stop line.
+Scene average: 3.75.
 
 ---
 
 ## Where I got bored
 
-- **"Tess saw my light on my back steps Friday night," Beth said. "She wrote it on her hand at twenty to eleven, and in her book, and kept it off the air."** I watched that happen three pages earlier, with the same numbers. Then she gives me Ned's "Home," which I watched in Ch 02. The scene opens by reading back what I already know, and my attention dropped right there. The one new thing is the truck keys on the open hook, and it comes last.
-- **The booster-antenna paragraph in the store:** "It ran off the store generator: inside fifty feet a phone worked, and past the dock it was a brick." It stops the Tess scene to explain the phone rules, and it lands while Tess is mid-pressure.
-- **Dane's speech at the end:** "Which tide, which door, who's awake while you sleep and which wall I'm against..." It's a nice rhythm, but it's long, it's a list, and it comes right after the most intimate moment in the book. I skimmed it.
+- **The middle of the love scene.** From "Then his mouth was on her breast" through "She was wet, and he found it out with his tongue," I was skimming. Up to there the scene is about these two people (the kit, the buckle beating her twice). Here it turns into any couple. The setting beats dropped in between ("On the wire their wool steamed. A coal shifted in the drum.") read like filler for a pause, not like something she noticed.
+- **"She had been hiding since Friday: the cottage with the doors shut, the boat she was supposed to be on, Ashby with Ned's key. Every place she went, somebody knew."** I've been there for all of it. This is a recap right before the best decision in the chapter, and it slowed me down just as I wanted to speed up.
+- **"Neither one had been in her *You*. She had put the man who'd run the *North Reach* since she was in diapers in the same breath as Tess, out loud, to a man with a notebook."** I had to stop and work out the callback to the end of Ch 02. Once I did, I liked the idea, but that paragraph is the book explaining its own irony.
 
 ## Where I got confused
 
-- **Who is Haskell?** "Second one's Haskell's... He hasn't come off that boat since he brought you the diesel." From context I think Haskell is Ned. If so, this is the first time his surname has come up, and Tess uses it as if I've always known it. I stopped to work it out.
-- **Why is Beth at the store at all?** "She had walked the north road in daylight to ask Tess to hide her." I wasn't told she'd decided this, and when Tess offers ("You'll sleep at mine") Beth says "Can't." So she came to ask for a hiding place and then refused the hiding place. I can't tell whether she was testing Tess, or fishing, or changed her mind. The scene never says, and her motive drives the whole chapter.
-- **"She had put him on the one dock in the harbor the *Margaret Ann* could see from her mooring."** On purpose? As bait? By mistake? She notices it and so do I, and then nothing comes of it.
-- **The phones.** Tess says a phone only works within fifty feet of the store and is "a brick" past the dock. In Ch 03, Dane called Portland from the Ashby porch, and in Ch 01–02 he called from Beth's yard and front step. Either I misread the earlier chapters or the rules just changed. It matters, because I had Dane's calls down as how the information was getting out.
-- **The red tag.** In Ch 04 it was knotted tight: "Comes off with a knife. If it's off, I'll know." In this chapter it moves to his bare wrist, "where he'd slid it off the cuff." Slid? Beth doesn't remark on it, and the book has made her the person who notices binders giving a quarter turn. I can't tell if this is a clue (seals can be slipped, so the pouch can be opened) or a mistake. Either way it pulled me out of the love scene for a beat.
-- **The calendar.** Ch 02 said "the grand jury sits Monday," and I took that to mean the Monday after Friday. Ch 04 quietly made it "a week before the Monday that mattered," and now it's "Monday's the twenty-third." I'm following it, but I had to go back over it.
-- **"The cove had gone back out of the fish house."** I read it twice. I think it means the tide had been inside and has left. I wasn't sure.
-- **The fish house itself.** Her father's fish house, a stove she relined in September, a wall she shingled in October. I'm hearing about all of this for the first time, and only now that she needs it. Why didn't they hide here before Ashby? Wouldn't anyone who knows Beth look here first?
+- **"Dane's phone talked to the sky and nothing else. Beth kept her eyes on the pot."** I don't know what this is doing here. Is it saying Dane's phone is the only working phone and so it's suspect? That Ned's phone being at the store means Ned couldn't have called anyone? I read it three times and moved on.
+- **Ned's phone on Tess's shelf.** I can tell it matters, but I can't tell which way. Does it clear Ned, since he can't call anyone from the boat? Or does it mean Tess can read his phone? I'm not sure the book knows yet either.
+- **The blankets.** "Tess took the blankets off the seat and put them behind it." I think this means she takes back the offer of a bed. I'm guessing.
+- **"Three things you didn't count."** Which three? Tess's log, Ned hearing "Home," Ned's key? Or the truck keys? I couldn't count them myself.
+- **The scar.** "Her thumb found the white line across her left palm." I don't remember this scar from Ch 01 to 04. It shows up as a habit I'm supposed to already know about.
+- **Fleece vs. sweater.** She opens the chapter in Dane's fleece. In the fish house she's in "her father's sweater" and Dane takes off "the fleece." I sorted it out, but it pulled me out of the scene for a second.
+- **22:40 twice.** Tess logged Beth home at 22:40 on Friday, and tonight half tide is also "twenty to eleven." Is that deliberate? It made me think the tide time was a clue.
+- **"Monday's the twenty-third."** It is Monday as he says it. I know he means next Monday, but for a beat I thought the grand jury was today.
+- **Dane's hands.** "The callus across his palms" here, and the "old hauler's ridge" in Ch 03. When did a marshal haul traps? I like the hint, but by now it feels like a hole rather than a mystery.
 
 ## Where I stopped believing
 
-- **Dane lets Tess drive them back to the hideout.** He has spent three chapters saying "it makes it a short list." Beth has just learned Tess knows more than she says. Tess has a fold of hundreds and has asked twice where Beth sleeps. And the marshal climbs into the back of her truck "with the cylinders" and lets her deliver them to Ashby. That night the same truck is in the drive. He doesn't say a word about it, before or after.
-- **Nobody comes.** A big house on the north point lights up orange on a small island in winter. No one comes up the road, no one gets on the radio, and Dane doesn't try to report it (if he can't, I'd like to see him try and fail). Whoever burned the shed doesn't follow them across the bar or wait at the cove. If the fire was meant to flush them out, I don't know what it was flushing them toward.
-- **Tess's two guilt lines in a row.** "I walked you home from every dance on this island," and then a few lines later "I put you to bed the winter your mother got on the Bangor bus." Either one works. Both together read like the scene ticking off Tess's claims on Beth. The mother's bus is also new to me, slipped in at a convenient moment.
+- **The stove and the lantern in the fish house.** The chapter opens with Beth seeing the Ashby smoke "the whole island could read," and she rakes the fire out because of it. That evening, an hour after the safehouse burns, with a man searching the water with a flashlight, she lights the drum stove, lights a lantern, and only puts it out "as soon as she saw" the light across the cove. The Beth of Ch 01 to 04 reads every sign. This Beth makes the exact mistake the chapter opened on. I kept waiting for her to think about the stovepipe, and she never does.
+- **"There was no one in the world to hear her out here."** There is a man with a flashlight at the end of the bar, the place is hidden because people are hunting her, and Ashby is burning across the cove. The line wants to be freeing, but it reads as if the writer forgot the man with the flashlight.
+- **Dane's professionalism.** He's been careful all book: phone turned away, body between her and the road, the light held low. Here the safehouse has been firebombed, nobody is called, and the gun is on the planks while they have sex. Beth starting it, I believe. Dane not saying one word about the flashlight or the fire before or after, I don't.
+- **The arsonist parks Tess's truck, the most recognizable vehicle on the island, in the light of the fire.** Either it's a frame or the villain is stupid. Beth gets to the frame (keys on an open hook) only in scene four. I got there in scene two, and it made her look slow.
+- **Bags packed by the back door** were set up by "we move," so that's fine. But fire, flight and crossing all happen with no fumbling at all. The shed going "with a bang" behind them doesn't even make her turn round.
 
 ## Where it sounded like AI
 
-- **The "put" motif in one chapter:** "where she'd put him," "He's good at staying where he's put," "you know I don't go where I'm put," "stay inside where I put you" (from the end of Ch 04). By the third one I could hear the motif being hammered home.
-- **The father's things:** father's matches, father's spruce, father's sweater, father's blanket, father's cot ("It's my father's, it's allowed"), father's Pelican case, father's fish house. Seven, give or take. The cot joke during sex was the point where it tipped from grief into a tic.
-- **Callbacks reused word for word:** "the one thing about him she could check" (Ch 04, used again here mid-sex), "not yet," the red tag, "a man who did what she told him." Each one is fine. Together they feel like the book quoting itself.
-- **Two-temperature images:** engine warm at her back and cold at the door (Ch 03), cold below the waist and him above it (Ch 04), and now "she was two temperatures at once." It's the same image in three chapters running.
-- **Lines that explain the feeling for me:**
-  - "She had been waiting since Friday for him to lie to her about something, and he had picked this to tell her straight."
-  - "I know what you are. I'm choosing anyway." That one is a thesis statement more than something a person says on a cot.
-  - "she wasn't thinking about the gut, and that was the most dangerous thing on the bar."
-  - "Nobody was hiding anymore."
-- **Every scene ends on a polished button:** "...and put them on." / "He's good at staying where he's put." / "She struck the match." / "Who had Ashby, besides me?" / "I watch who watches me buy it." Five scenes and five neat endings. The match and the "Who had Ashby" question earn it. The others are reflex.
-- **The same consent exchange as the shed.** Ch 03: "Do you want—" "Yes." "Do you?" "Yes." Ch 05: "Yes," she said. "You?" "Yes." It's the same shape. The second time, it felt like a template.
+- **"I know what you are," she said. "I'm choosing anyway."** This is the line from every romance trailer. Beth doesn't talk like that. She says "Line." and "Cove." and "Pull it." This is the writer's voice saying the theme.
+- **Every scene ends on a polished closer:** "She struck the match." / "'Who had Ashby,' he said, 'besides me?'" / "And I watch who watches me buy it." Ch 04 did the same. Four for four, I can feel the scene-end machine.
+- **Dane's jokes all work the same way: he gives objects feelings.** "I'll apologize to the casserole." "The clam was a rumor." "It's a very disappointing kit." "Your jeans have taken a side." Earlier the brick was "good of it." Each one is charming. Four in one chapter, all built the same way, and it starts to sound like a quip generator.
+- **Recycled details.** The red tag on his wrist shows up three times in the love scene alone ("The red tag on his bare wrist." is a fragment on its own line). Ashby's smoke "in his hair" / "in her braid" twice. The gut "drew back off the stones with a long suck that pulled at her knees" is close to word for word from Ch 04. The gray above his ear has been noted in every chapter. These used to be details; now they're tics.
+- **Narrator nudges:** "She let herself look." "Let it be hers." "Which she'd remember." "She stood in it and listened to the water decide." Each one tells me how to feel about something the scene already showed.
+- **"It was the first time she'd known him quiet with something burning at his back."** This explains the joke of him going quiet instead of letting it sit.
 
-## The fish-house love scene: does it work?
+## The fish house love scene: does it earn its length?
 
-**Yes, mostly.** It's the best-written stretch of the chapter, and it's the scene I'll remember from the book so far.
+It runs about 1,100 words, from "It caught on the first match" to "besides me?" **About half of that is earned.**
 
-**Does it earn its length?** Yes. It's maybe a quarter of the chapter and it doesn't drag. It's paced by her body and by the room (stove, tide, the wire of steaming wool), not by a checklist. Making it hands and mouths because the kit has no condom is specific, funny and adult. I believed it more than I would have believed a full scene.
+What earns it:
+- The settling-in. Tipping the cove out of the boots, Dane peering into his wrung sock "as if there might be a fish," the pine tar coming out of the boards. It's slow, but it's their slow.
+- "Is it still a not yet?" pays off Ch 04's "That's a not yet. One I can't afford," and "When this is over, I report this" gives the sex a cost. That's the relationship changing on the page.
+- The trauma kit. Going through it pouch by pouch for a condom that isn't there, "It's a very disappointing kit," and her laughing out loud is the best laugh in the book. It also turns the scene: "Hands, then. And mouths."
+- The tide sum: "she was working out how high the tide would come tonight and whether the sill would stay dry, and then she lost the sum halfway, and let it go." That is Beth. Only she would lose that particular thought.
+- The buckle beating her stiff fingers twice. "Don't help." Jeans that "have taken a side." Him hanging them on the wire without looking.
+- "The man who had talked to her through the whole of Friday night had nothing to say now." That's a good callback.
+- The ending turn: post-sex, "in the voice he used for easy questions," he interrogates her. That cold drop is the scene's real point, and it works.
 
-**Does it change the relationship?** Yes, in three places, and none of them is the sex itself:
-1. Before: "When this is over, I report this." He tells her the truth and it costs him. She chooses him anyway. That's the real turn.
-2. During: she stops steering. "She was working out how high the tide would come tonight and whether the sill would stay dry, and then she lost the sum halfway." For this character, that line is the change.
-3. After: "Who had Ashby," he said, "besides me?" He asks it "in the voice he used for easy questions," with her still in his arms. It's the sharpest move in the chapter. It made me wonder whether the intimacy was also a way to get her to talk, and it pushes her to give up Tess and Ned. The scene turns the sex into plot and lets me doubt him. Good.
+Where it goes generic:
+- **"Then his mouth was on her breast, and two days of stubble..."** to **"She was wet, and he found it out with his tongue."** This stretch could be in any open-door romance. "His tongue went over her nipple and away and back," "He was hard in her hand," "She was wet": stock words, stock order. Nothing in it is about a deckhand, a fish house or a witness.
+- **"Her heel went hard into his back. She came with her hand over her own mouth."** It's competent and it's anyone.
+- **The setting interruptions** ("On the wire their wool steamed. A coal shifted in the drum." / "Wet wool dripped off the wire onto the drum and spat.") give the pacing a pause, but they're the same steam and wire from three paragraphs up.
+- **"I know what you are. I'm choosing anyway."** It's in the run-up, but it's the scene's most generic line.
 
-**Where it went generic or lost me:**
-- **"Then his mouth was on her breast, and his hand on the other, and the stubble rasped her skin."** This is where it went stock. Up to here everything was specific to these two and this shed, and this line could be in any book.
-- **"She was wet and he found it out, and the sound he made went through her."** Stock again. "Went through her" is doing the job a specific detail should do.
-- **"a sound she meant to keep."** A little too finished. It's the scene giving itself a caption.
-- **The cot joke, "It's my father's, it's allowed."** It's a good laugh line and, for me, the wrong one. Mid-foreplay I didn't want her father in the room. Combined with his sweater and his blanket, he's present all the way through.
-- **The red tag "slid off the cuff"** (above). It's a continuity snag at the worst moment.
-- What worked best: the buckle beating her twice and "Don't help." The disappointing kit. Jeans hung on the wire by feel "which she'd remember." The heel in his back. Her hand over her mouth and then off it.
+Overall: the length is justified by what comes before the sex and by the question at the end. The explicit middle is the part a reader skims, and it's also where the specific voice drops out.
+
+---
+
+## Prediction section
+
+The question the book is asking now: who told the hooded man where Beth was each time (the cottage Friday, the north end Sunday, Ashby Monday), and who set the fire with Tess's truck.
+
+| Suspect | Odds | Why I think so | Why I doubt it |
+|---|---|---|---|
+| **Dane's own channel (Pike / "Q," Homeland, Portland)** | 30% | He told Portland "North end. Not the house." Next day the hooded man is on the north road checking houses. Friday night his phone glowed on the step minutes before the mudroom went quiet. "Keep witness in place." "Q's request approved... Do not disclose to witness." I think Q is using Beth as bait for the dragger and the leak is on purpose, or at least tolerated. | Dane seems honestly sick about it, and the book shows his phone too often for it to be the answer. |
+| **Ned** | 25% | He sent her home the night of the reefer, the first time in eleven years. The fuel float at Marr's was lit at an hour it never was. He heard "Home." The Ashby key was his. The North Reach's job ends in June, and the pump is eating impellers. The book clearly dreads this answer, and that dread is why I suspect him. | "Me and God," the flashlight arc, the nods. If it's Ned, it'll hurt. That's either why it's him or why it's a red herring. |
+| **Tess** | 20% | Hundreds folded in her vest. The store bags with her yellow tag ride the ferry. "I know where every dollar on this island sleeps." She logged Beth home at 22:40 and sat on it. Her truck was in the drive. | The book points at her too hard. She showed Beth her own log, and Beth has already worked out the open key hook. I think she's laundering something small and being framed for something big. |
+| **Russ** | 10% | "Where you sleeping tonight? Asking because somebody will." He took the path behind Marr's instead of the one home. He keeps offering to run her across. | Nothing solid. He's just everywhere. |
+| **Arsenault / the Margaret Ann crew acting alone** | 10% | They're plainly the bad boat. The deck lights went out on the north road walk. | They need somebody on the island; the young hood can't know all this by himself. They're the muscle, not the leak. |
+| **Someone not yet on the page** | 5% | | |
+
+Side bets:
+- The fare bag and store bag (red seal, yellow seal, "never sealed") are how money or product moves on the ferry. Beth's cash-run job is part of the crime and she doesn't know it. 60%.
+- The red Pelican case holds something of her father's that matters to the case, or a flare gun or radio she'll need. 70% that it gets opened by Ch 07.
+- Dane writes tonight in the log, and Beth reads it. 65%.
+- Beth ends up with the ferry's wheel ("Put my name in"). 75%.
+
+---
+
+## Listener pass (how this would sound in text-to-speech)
+
+What fails aloud:
+- **"Neither one had been in her *You*."** The italics carry the whole meaning, and aloud it's nonsense. A listener hears "in her you" and has no idea what it means.
+- **"Dane's phone talked to the sky and nothing else."** It's confusing on the page and worse aloud, because there's no time to reread.
+- **"*Calloway — home 22:40.*"** TTS will say "twenty-two forty" or "twenty-two, forty." It's fine, but the dash is lost, and with it the sense that this is a log entry.
+- **Pronouns in the Tess scene.** "Beth came out onto the porch." is followed by a paragraph of Tess's dialogue that begins with the quote and only then says "She was out of the truck." Aloud, I gave "Smoke on the north point in November" to Beth for a second. The same thing happens with "She went brighter, faster" after Beth's "Can't."
+- **"Cove."** As a one-word correction to "island on an island," it works on the page because it's on its own line. Aloud it can sound like a dropped word unless the narrator reads it with an edge.
+- **The fragment run in the fire** ("The shed on its pad below the house. Already gone. Fire out the door and up through the roof.") reads very well aloud: short and breathless. That's the best-sounding passage in the chapter.
+- **The bar crossing** holds up aloud. "Cobble, cobble, a flat stone that rocked" is good in the ear.
+- **The love scene aloud:** the dialogue ("There. Like that. Slower." / "Your jeans have taken a side.") sounds natural. The red-tag repetition is more obvious aloud than on the page. Hearing "the red tag on his wrist" twice within a minute or so of listening sounds like a loop.
+- **"Hold on," he said... She heard the zip of the trauma kit.** Aloud it isn't clear right away what he's looking for, but the payoff line fixes it, so I'd keep it.
 
 ---
 
 ## What I want to know next
 
-- **Who was driving Tess's truck?** The keys on the open hook make it anyone's. That's a fair complication, but it also feels like the book protecting Tess.
-- **What's in her father's red Pelican case?** It sits "square in the lantern light" and nobody touches it. That's a planted object, and I'm waiting for it.
-- **What does Dane's log say, and what is Q doing?** "Observe only. Keep witness in place." I'm starting to think the feds want her where the dragger can see her. This chapter didn't move that thread at all, and it's the thread I care about most.
-- **Will Dane really report this, and what does it cost him?** The Webbers Cove boat is already gone, and now the job too?
-- **What will Beth see at the store tomorrow?** The plan line is decent bait.
-- **Who is the young man in the hood?** He rows like he was born in a skiff, owns no boat, and Beth doesn't know his face. That's still the best open question, and it's been open since Ch 04.
-
-The pull is real, but most of these questions are two or three chapters old. This chapter added the truck, the case and Dane's question. I'd still turn the page, mainly because of the fire and the "besides me" doubt about Dane.
-
-## Prediction section
-
-Who is leaking where Beth is, and how? My rough guesses:
-
-| Suspect | Odds | Why |
-|---|---|---|
-| **Ned** | 35% | He knew "Home," he knew Ashby (it was his key), and his generator runs out there "every storm anyhow." "Nobody but me and God." The lifted-hand farewell ritual reads like the book making me love him before it costs me. He's staying aboard and "hasn't come off that boat." His phone lives on Tess's shelf, so his calls go past Tess. If Haskell is Ned, the book is hiding him under a second name, which makes me more suspicious, not less. |
-| **Dane's own reports / the feds (Pike, Q)** | 25% | He told Portland "north end" about Ashby. "Do not disclose to witness," "Keep witness in place." I don't think Dane is the traitor. I think what he sends travels further than he knows, or HSI is letting it travel on purpose to catch the dragger. |
-| **Tess** | 20% | The hundreds in her vest, the truck, "Where are you sleeping" twice, the book she shuts under Beth's fingers ("Don't you look at my book like the bank does"), and the store's yellow-sealed pouch riding Beth's boat unopened. I think Tess is laundering something through the ferry pouch, and that may be her real secret rather than the leak. The more obvious the book makes her, the less I think she gave up Ashby. |
-| **Russ** | 10% | He took the path that comes out behind Marr's, near the open key hook, and skipped the path to his own house. He asked where she sleeps. |
-| **Arsenault / someone I haven't met** | 10% | Arsenault is the dragger's man, and he pays for things. The hood is young and local-born but owns no boat. He might be someone's son or nephew, which would tie him to Tess or Ned. |
-
-Side bet: the Pelican case holds something of her father's that connects to the bank and the *Ruthie C*, or to the pouch. 50/50 that it pays off before Ch 08.
-
----
-
-## Listener pass (how this chapter would sound read aloud)
-
-- **The Tess scene is a run of "Tess said" and "Tess [verb]."** In about thirty lines: "Tess said," "Tess put the ladle down," "Tess said," "Tess wiped," "Tess said," "Tess picked," "Tess set," "Tess took." On the page it's busy. Read aloud it's a drumbeat, and it flattens the best dialogue in the chapter.
-- **"Haskell"** will lose a listener for good. You can't flip back to check who it is.
-- **"22:40" / "twenty-two forty" / "twenty to eleven"**: the same time, said three ways in two scenes. A listener may think these are different times.
-- **"The cove had gone back out of the fish house"** will trip a narrator and a listener both.
-- **The fire scene sounds great aloud:** "The plow frame. The rack. A dark cab." Short fragments, clean, easy to follow by ear.
-- **The long sentences joined by "and" in the love scene** (the tide-sum sentence, the climax sentence) work aloud. They build and the breath carries them. But the book has used the same device at the peak of every chapter (the jump in Ch 01, the shed in Ch 03, the bar in Ch 04), and a listener will start to hear it coming.
-- **Dane's final speech** ("Which tide, which door, who's awake while you sleep...") is too long for the ear. By "with the roof on" I'd lost where it started.
-- **Pronouns mid-love-scene** are mostly clear. "his hand on the other" made me stop for half a second.
-- Overall, it's easy to follow by ear except in the store scene, which is also the one scene that most needs to be clear.
-
----
+Plenty pulls me forward:
+- Who drove Tess's truck to the fire, and did Tess know?
+- Does Dane send "store vehicle" or does Tess's name go to Portland? Does he log tonight?
+- What is in her father's Pelican case?
+- How do they get off the cove at the morning low with a man watching the bar?
+- What happens when Beth walks into Marr's in daylight and watches who watches her? This is the hook. It's the first time she goes on the attack, and I want to see it.
+- What did "Q" request, and is Beth bait?
+- Ned. I want him to be clean, and I'm afraid of the next chapter because of it.
 
 ## Best moment
 
-> "...and outside the cove slapped at the ledge, and she was working out how high the tide would come tonight and whether the sill would stay dry, and then she lost the sum halfway, and let it go, and she heard her own voice asking him for something and couldn't have said what, and she noticed she wasn't steering any of it."
+> "She stood in it and listened to the water decide.
+>
+> It drew back off the stones with a long suck that pulled at her knees.
+>
+> She moved on the draw, one step, while the water was going her way, and stopped again."
 
-Close second: "It's a very disappointing kit," and Beth's laugh filling the fish house while he stands there and lets her.
+This is the whole book in three lines: Beth's knowledge of the water is the only weapon she has, and she uses it while a flashlight looks for her. (I'd still note that "a long suck that pulled at her knees" is nearly word for word from Ch 04. It works here because it's the payoff, but it's the third time.)
+
+Runner-up: Tess, "Don't you look at my book like the bank does." In one line it brings back the man in the good coat writing her father down, and it hurts.
