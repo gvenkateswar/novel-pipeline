@@ -1,4 +1,4 @@
-# Audit — the-last-frame (chapters 01–06, 18,899 words)
+# Audit — the-last-frame (chapters 01–06, 18,689 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -16,7 +16,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Read (it) back, the verb | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 4 |  |
 | The D-side | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
 | Denise's crossword | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
-| "honey" (Denise, before something hard) | 1 | 0 | 1 | 0 | 0 | 1 | 3 | 4 |  |
+| "honey" (Denise, before something hard) | 1 | 0 | 1 | 0 | 0 | 0 | 2 | 4 |  |
 | Denise's "You'll live" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | The sign's buzz | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
 | The dead K | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 4 |  |
@@ -30,7 +30,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "didn't look up" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
 | Block capitals | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |  |
 | Masking tape | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |  |
-| "forty minutes" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
+| "forty minutes" | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 |  |
 | "thirty-one years" | 0 | 0 | 1 | 0 | 2 | 0 | 3 | 3 |  |
 | Thirty-one, every use | 0 | 0 | 1 | 0 | 2 | 0 | 3 | 7 |  |
 | Marble cake | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
@@ -38,8 +38,8 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Two in the morning (the 2 a.m. night) | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 4 |  |
 | Separation (incl. Ch 7 title) | 0 | 0 | 1 | 0 | 1 | 0 | 2 | 5 |  |
 | "Understood." (Ellen hurt) | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |  |
-| Story about some other fella | 0 | 1 | 0 | 0 | 0 | 1 | 2 | 3 |  |
-| "fella," any use | 0 | 2 | 1 | 1 | 0 | 2 | 6 | 8 |  |
+| Story about some other fella | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 3 |  |
+| "fella," any use | 0 | 2 | 1 | 1 | 0 | 0 | 4 | 8 |  |
 | Knuckle on the trophy glass | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |  |
 | "Mrs. Daly" (once a chapter at most) | 1 | 0 | 0 | 0 | 1 | 1 | 3 | 10 |  |
 | "Linda wouldn't have" (before Ch 7) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
@@ -78,42 +78,45 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 ### Frequent 3–5 word n-grams (4+ uses, whole book)
 
 - 7× “the glass block”
-- 7× “the adding machine”
+- 7× “all ten lanes”
 - 6× “through the glass”
+- 6× “the end stool”
+- 6× “the adding machine”
 - 5× “in both hands”
 - 5× “the steel door”
-- 5× “the end stool”
 - 5× “let go of”
-- 5× “the snack bar”
+- 5× “the bell went”
 - 5× “and said nothing”
-- 5× “the credit union”
-- 5× “all ten lanes”
-- 5× “the january meeting”
+- 5× “his shirt pocket”
+- 5× “ray said and”
+- 5× “on all ten lanes”
 - 4× “behind the counter”
 - 4× “the highway department”
-- 4× “the far end”
-- 4× “the scorer's table”
+- 4× “the snack bar”
+- 4× “ray watched her”
 - 4× “the key cutter”
 - 4× “a pinsetter man”
 - 4× “said a word”
-- 4× “his shirt pocket”
-- 4× “ray said and”
 - 4× “the first time”
 - 4× “did not look”
 - 4× “let it go”
+- 4× “the january meeting”
+- 4× “the second chair”
 - 4× “through the steel door”
+- 4× “last saturday in february”
+- 4× “any team of four”
 - 4× “the end of the counter”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
 - jaw: 1 (0.1/1k)
-- knuckles?: 7 (0.4/1k)
+- knuckles?: 4 (0.2/1k)
 - throat: 0 (0.0/1k)
-- reath: 2 (0.1/1k)
+- reath: 1 (0.1/1k)
 - pulse: 1 (0.1/1k)
 - chest: 2 (0.1/1k)
-- hands? (stopped|stilled|went still|flat): 1 (0.1/1k)
-- shoulders?: 14 (0.7/1k)
+- hands? (stopped|stilled|went still|flat): 2 (0.1/1k)
+- shoulders?: 15 (0.8/1k)
 - gaze: 0 (0.0/1k)
 - tightened: 0 (0.0/1k)
 - swallowed: 1 (0.1/1k)
@@ -127,7 +130,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 03 | 3,286 | 17.5 | 13.7 | 15% | 0.0 | 0.3 | 0.0 | 2 |  |
 | 04 | 3,119 | 19.3 | 16.0 | 15% | 0.0 | 0.3 | 1.0 | 3 | mean |
 | 05 | 3,126 | 20.3 | 16.3 | 16% | 0.0 | 0.3 | 0.0 | 2 | mean short |
-| 06 | 3,116 | 16.9 | 12.6 | 14% | 0.0 | 0.3 | 0.3 | 3 |  |
+| 06 | 2,906 | 14.9 | 10.3 | 16% | 0.0 | 0.3 | 0.7 | 3 | short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -142,7 +145,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 - quiet: 3 (0.2/1k)
 - humm?(ing|ed)?: 3 (0.2/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 41 (2.2/1k)
+- still(ness)?: 38 (2.0/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 0 (0.0/1k)
@@ -163,16 +166,16 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | Construction | 01 | 02 | 03 | 04 | 05 | 06 | Total | /1k | Cap | |
 |---|---|---|---|---|---|---|---|---|---|---|
 | as if / as though | 0 | 0 | 1 | 0 | 2 | 0 | 3 | 0.2 | 1.0/1k |  |
-| the way (a|the|people|someone) ... | 0 | 0 | 0 | 2 | 0 | 1 | 3 | 0.2 | 1/ch | FLAG |
+| the way (a|the|people|someone) ... | 0 | 0 | 0 | 2 | 0 | 0 | 2 | 0.1 | 1/ch | FLAG |
 | the kind of ... that | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 2/ch |  |
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0.1 | 0.0/1k | FLAG |
-| sentence-initial And/But/And yet | 2 | 1 | 1 | 0 | 1 | 1 | 6 | 0.3 | 3.0/1k |  |
-| em dashes | 0 | 0 | 0 | 1 | 0 | 2 | 3 | 0.2 | 2.0/1k |  |
+| sentence-initial And/But/And yet | 2 | 1 | 1 | 0 | 1 | 0 | 5 | 0.3 | 3.0/1k |  |
+| em dashes | 0 | 0 | 0 | 1 | 0 | 3 | 4 | 0.2 | 2.0/1k |  |
 | semicolons | 3 | 0 | 1 | 0 | 1 | 0 | 5 | 0.3 | 2.0/1k |  |
-| perception filter (she noticed / could hear) | 1 | 0 | 0 | 0 | 0 | 1 | 2 | 0.1 | 1.0/1k |  |
-| one-sentence paragraph | 6 | 23 | 21 | 19 | 13 | 21 | 103 | 5.5 | report |  |
+| perception filter (she noticed / could hear) | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0.1 | 1.0/1k |  |
+| one-sentence paragraph | 6 | 23 | 21 | 19 | 13 | 30 | 112 | 6.0 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
