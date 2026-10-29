@@ -480,6 +480,10 @@
 | Lights out | half past eleven; power returns near dawn Dec 18 | 03 |
 | Ellen's ATC career | thirty-one years (once, with "never once let one go by"; the earlier "thirty-one years" line is dropped from the motif) | 03 |
 
+
+### Winter-total chain, corrected by the page (Oct 29, after the Ch 08 continuity check)
+The bible's ledger restores $700 on Feb 5 ("teams back") and carries "$100 over" after the nine refunds. The page says otherwise: the Highway crew and the Legion left on Feb 2 before bowling (Ch 07) and come back Feb 9 (Ch 08), so three of the four Tuesdays return, $525, and the Feb 2 night is lost. The bible's own subtraction is also $40 off. **Corrected chain (ledger-only; no figure on the page in Ch 07 or Ch 08):** after the walkout $30,800 (Ch 07: "I still make the number"); teams back +$525 = $31,325; nine refunds −$1,440 = $29,885, about $115 under the $30,000 bar ("After that I have no room at all," Ch 08, figureless, now true in the stronger sense). Ch 09's "fifteen hundred under" and Ch 10's lowered bar ($28,900 "equal to what the winter made") were built on the old chain; on the corrected chain the winter lands at $28,725, $175 short of that bar. **Decision for the Ch 09/10 beats (orchestrator default, author to confirm; the bible is not edited):** the $175 comes back on the page in Ch 09/10 from a line the outline already has (the Sunday Memorial's snack bar), so the winter equals the lowered bar as the outline promises; the plot architect states the figure it uses and the numbers ledger follows the page. Bible rows to correct on the author's approval: Feb 5 "+$700" → "+$525"; "31,500 − 1,440 = 30,100" → "30,060"; the Feb 27/28 rows accordingly.
+
 ## Master continuity flags
 - Denise Lavoie is introduced in Ch 01 on shift from before 6:06 p.m. until ringing out at a quarter to ten, working register and fryer, in a red Kettle Lanes polo washed pink at the shoulders. Do not introduce her or the polo again as new. The "2011" in the commitments block and the beat sheet is NOT on the page; it is still available.
 - Hollis called it "the owner's ball." That is the term. Never "ceremonial first ball."
