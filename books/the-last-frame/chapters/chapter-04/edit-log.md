@@ -135,3 +135,18 @@ Source: `reader-notes.md`. Six items, nothing else. `wc -w final.md` = 3,131 (ce
 
 - "Three came round…" (S1) still reads as a count; the confusions list also names the Concord loan and "I checked the name on it twice." Those are structural or clarity notes for the next triage.
 - "Ray had to look down at the notice," "He had nothing left in reach to fix," and the two motor similes remain (reader section 5).
+
+---
+
+## Manuscript revision round 1 (Oct 29)
+Source: `reviews/revision-brief.md`. final.md edited in place. Estimated net +41 words, about 3,172 (no shell available to run `wc -w`); inside ±8% of 3,131.
+
+- [§2.1] S4 "I'm very good with a clock." → "I am very good with a clock."; "Good. I'd hate to beat somebody who wasn't ready." → "Good. I would hate to beat somebody who was not ready." Ellen now has no contraction in Ch 04, so Ch 05's "first time since the sign" holds.
+- [§2.8] S2 Danny: "lend you whatever the appraiser puts on the alley" → "lend you eighty cents on the dollar of whatever the appraiser puts on the alley, if it comes to you buying it, and the other twenty comes out of your own pocket." "If it comes to you buying it" kept (commitment for Ch 07–08).
+- [§3, audit F6] S4, one speech in Ellen's mouth: "At closing I inherited Arlene's September agreement with the league, along with her fuses. It adopts the bylaws, and whatever the January meeting votes holds to the end of the season."
+- [§4, office scene] The bylaw paragraph number is now said once, in Verna's words as Ellen quotes her: "'Paragraph four of your agreement sends you to the bylaws.'" Ellen's own "Paragraph four says…" line is gone.
+- [§4, ordinals] "Second," / "Third." and Ray's "And what do the bylaws provide?" cut. One "First," and Ray's "Had a feeling there'd be a first" kept (the laugh); Ray's interruption ends the count, so no list is printed.
+- [§4, "She said nothing to it" variants] S2 "He didn't answer." cut (the envelope and thumb carry it).
+- [§2.11] Ellen's K rule ("That is a neon tube… a sign shop's job") left as is. It needs no word: Ch 10's answer has the Laconia shop do the bending and the transformer.
+- [Flag, §2.8 arithmetic] Twenty percent down on the ledger's $365,000 appraisal is $73,000. The ledger has Ray's savings at $52,000 and his equity at $36,500 (10%). All of that is off the page, but the numbers ledger needs a decision: change the off-page figures, or make it ninety cents on the dollar.
+- Orchestrator (Oct 29): §2.8 wording changed from "eighty cents on the dollar… the other twenty" to "most of… the rest" so the page does not fix a percentage the numbers ledger cannot support (Ray's savings are about 10% of the appraisal). Domain point kept: the bank does not lend the whole appraisal.

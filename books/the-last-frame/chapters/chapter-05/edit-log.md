@@ -121,3 +121,14 @@ One line in s4 changed so Ellen's plan to Denise is the outline's Ch 06 plan (th
 - Now: "An Open," Ellen said. "Championship weekend, all day Saturday, anyone who pays may enter. ... Make Linda's Memorial its final and the town comes out for Linda, and I have room for one bad thing."
 - Nothing else in the chapter touched. Denise's "Don't you touch Linda's night." now answers the Memorial directly. No contractions added (her s4 register holds).
 - Flag for the orchestrator: `outline.md` Ch 05 Key events still reads "An Open on championship weekend with its own cup"; the outline's Ch 06 row, F10 and the bible's "The Open" entry agree with the edited line.
+
+---
+## Manuscript revision round 1 (Oct 29)
+Source: `reviews/revision-brief.md`. final.md edited in place. Estimated net minus 2 words (no shell available to run `wc -w`).
+
+- [§2.10] s3 "five days after he had said her first" → "four days after" (midnight Jan 1 to Jan 5).
+- [§3, two "Kate said" paragraphs] Merged into one: "Course you know that," Kate said. "You'd have written it up. Ours they cut with a tongue depressor. The forks are locked…" "Ours" marks the change of subject from Ellen's cake to Kate's.
+- [§3, Danny's Valentine's square / Verna's folded slip] Left as is; Ch 10 pays both.
+- [§4, ordinals] One printed list in the chapter (the three items at the meeting); no change needed.
+- [§4, "She said nothing to it" variants] None cut here ("She gave none of it" and "She said none of them" stay; the halving across Ch 01–05 was done in Ch 01–04).
+- [§4, "the order went out of it"] Not present in Ch 05.

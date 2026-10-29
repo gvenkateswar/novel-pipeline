@@ -112,8 +112,6 @@ He was back in the dark behind five, the flashlights down on the deck and Denise
 
 "I never heard that," he said.
 
-She said nothing to it.
-
 Outside, Hollis's boots went along the wall toward the far tip-ups and stopped.
 
 "Did you know I didn't hear it?"
@@ -172,7 +170,7 @@ She came back to the counter and stood at it. There was nowhere to sit on her si
 
 "In the bob-house you asked me whether I knew—"
 
-"One," Ray said, and laid a bill across his palm. "Two." He didn't raise his voice. "Three. Four. Five. Six."
+"One," Ray said, and laid a bill across his palm. "Two. Three. Four. Five. Six."
 
 She stopped, and waited, and did not fill it.
 

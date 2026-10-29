@@ -1,6 +1,6 @@
 # Chapter 9: The D-side
 
-Her hands were empty on Ray's back step. They went into the pockets of her vest, and the right one found his key in the bottom corner of its pocket and let it lie. The left corner of the step had iced where the eave dripped, so she took it on her right leg and kept the left one back, and she was one minute early. The invitation had come pencilled under the total on his invoice for the new belt on six, in the square hand he labelled parts with: *Supper. Wednesday. A quarter past five. No charge.* She had paid the invoice to the cent and kept the bottom of it, and those two words were the first thing of his she had accepted off an invoice since the gloves.
+Her hands were empty on Ray's back step. They went into the pockets of her vest, and the right one found his key in the bottom corner of its pocket and let it lie. The left corner of the step had iced where the eave dripped, so she took it on her right leg and kept the left one back, and she was one minute early. The invitation had come pencilled under the total on his invoice for the sweep spring on eight, in the square hand he labelled parts with: *Supper. Wednesday. A quarter past five. No charge.* She had paid the invoice to the cent and kept the bottom of it, and those two words were the first thing of his she had accepted off an invoice since the K, and the K was for the sign.
 
 Through the storm door the radio on top of his refrigerator talked to his kitchen. She had heard the forecast twice today, first at noon in her office and then at three in the car, and the Saturday storm had come farther inland on the second than on the first. She had brought none of it up his hill.
 
@@ -78,13 +78,9 @@ Ray's hands stayed on the wrench.
 
 Behind his shoulder three set again.
 
-"Traffic. A hundred and fifty in the building, forty-one of them children, and I can hear all forty-one. Both morning squads are done. The Memorial at two, on all ten lanes. The Open's evening at six: ten teams, and most of them drive home to Massachusetts tonight."
+"Special instructions."
 
-A ball came through on four, and the curtain lifted and fell.
-
-"Special conditions."
-
-She stopped. The heading was there in its place, fourth, where it had stood in every briefing she had given in her life, and she had never once had to put a thing like this under it.
+She stopped. The heading was there in its place, third, where it had stood in every briefing she had given in her life, and she had never once had to put a thing like this under it.
 
 "At the Center they call it the D-side. Two people on one sector. One works the frequency. The other one sees what she cannot see while she is talking."
 
@@ -92,11 +88,15 @@ Ray had not moved.
 
 "I keep the position. I want you on it with me. Today, and after Monday, whatever the bank decides."
 
+A ball came through on four, and the curtain lifted and fell.
+
+"Traffic. A hundred and fifty in the building, forty-one of them children, and I can hear all forty-one. Both morning squads are done. The Memorial at two, on all ten lanes. The Open's evening at six: ten teams, and most of them drive home to Massachusetts tonight."
+
 Ray laid the wrench on the catwalk and got up off his knee. He was taller than the pit allowed, and he bent his head under the beam, which brought his face down nearer hers, with a foot of catwalk between them and grease to the second knuckle of both his hands.
 
 Ellen did not step back from him. "Read it back to me. I want to hear it in your voice."
 
-"Snow's worse after two. Evening squad's driving to Massachusetts tonight whatever we do." He wiped one hand down his thigh. "And I'm on it with you. Today, and Monday, and after."
+"Snow's worse after two. Three's on time." He wiped one hand down his thigh. "I'm on it with you. Today, and Monday, and after. And your evening squad's driving to Massachusetts tonight whatever we do."
 
 Out front a strike went down on five, and the crash came back through the masking.
 
@@ -131,6 +131,8 @@ Ray had come up from the pit and stood at her shoulder.
 "D-side says send them home."
 
 Denise looked past them at the trophy case, and put the fryer basket down.
+
+At noon Ellen had offered the ten evening captains Sunday morning instead, and every one of them had said no: Massachusetts plates, work on Monday, and the long drive home in whatever the storm left.
 
 Ellen pulled the gooseneck down to her mouth.
 
@@ -182,7 +184,9 @@ Ray's hand went to the zipper of his canvas jacket, and she watched it go there.
 
 "I asked you once, on the hood of my truck. I don't ask twice."
 
-She let out a breath.
+"Then Arlene's bed rides on your once."
+
+She would not ask him either. She had asked him onto the position, and the position was hers to pay for. She let out a breath.
 
 "In January I was four thousand short, and at eight to one that came to more than I have. Today it comes to nearly all my savings. I can cover it myself."
 

@@ -79,3 +79,16 @@ Draft edited: final.md in place (backup of the pre-triage text in the scratchpad
 - Ray's "Supper," echo (flagged in the voice edit) is still in; this pass did not touch it.
 - Reader-noted but outside this list and left alone: the derby treasurer/raffle setup (skimmed), the "eight to one" money line (reader had to go back to Ch 07), "The evening went down the drive in license plates", "The heading was there in its place, fourth..." (states what the moment means), "At work a silence that long meant somebody was writing something down", Aunt Judy "from the bank", "That was the winter the ice got under the town dock". These are candidates if the audit flags them.
 - [Pattern to stop / instead] Stop: reusing a chapter's best physical beat as the next chapter's default (the hum at the gooseneck, the zipper to the chin, "Ray saw her sit"). Instead: give the PA, the zipper and the sit one new action each time, or none.
+
+## Manuscript revision round 1 (Oct 29)
+
+Brief: `reviews/revision-brief.md`. Prose-writer, targeted. About +75 words (2,964 → about 3,040; +2.5%). Ending types unchanged. Kate's "Ten." is still the last word.
+
+- §3 sweep spring (s1): "his invoice for the new belt on six" → "his invoice for the sweep spring on eight".
+- §2.2 (s1): "…since the gloves." → "…since the K, and the K was for the sign."
+- §2.9 briefing order (s2): reordered to Weather, Equipment, Special instructions, Traffic. "Special conditions" → "Special instructions". "…in its place, fourth, where it had stood…" → "…in its place, third, where it had stood…", which matches the new order. The D-side ask sits under Special instructions. The traffic item (the hundred and fifty, the evening squad) follows the ask, after the curtain beat on four, and Ray gets up after the whole briefing.
+- §2.9 readback (s2): Ray's readback follows the same order: "Snow's worse after two. Three's on time." / "I'm on it with you. Today, and Monday, and after. And your evening squad's driving to Massachusetts tonight whatever we do." Ellen's "And you haven't sat down since Hollis called." and "Readback correct." are unchanged.
+- §3 audit F5 (s3): before the PA, one sentence: "At noon Ellen had offered the ten evening captains Sunday morning instead, and every one of them had said no: Massachusetts plates, work on Monday, and the long drive home in whatever the storm left."
+- §3 audit F4, the cost of "ask once" (s3): after Ray's "I don't ask twice," Ellen says what it costs Arlene: "Then Arlene's bed rides on your once." ("bed" rather than "room", because "Arlene's room is on it" comes four lines earlier.)
+- §3 audit F4, her reason (s3): one interior beat, the brief's first option: "She would not ask him either. She had asked him onto the position, and the position was hers to pay for." Then "She let out a breath." as before.
+- §4 ordinals: none printed as a list in Ch 09 (the pad's "three items" and "the third item" aren't a printed run). No change.

@@ -121,3 +121,25 @@ Draft edited: final.md (3,398 words before; backup of the pre-triage text in the
 **Added life (floor)**: s3 fell to 779 after the cuts, under its floor. Restored 27 words, both in Ray's register and inside the scene's facts: "They were colder than the step and smaller than he had carried them in his head all month, and he held on." and "and began to warm there" on Ellen's hands. No new object, event or line.
 
 **Not done / flagged**: nothing needing plot change. "Hands in her lap" is a small posture, not a silence tic; the chapter's remaining "didn't answer / without a word / didn't open" silences (cold read, section 5) were not on the list and are left.
+
+## Manuscript revision round 1 (Oct 29)
+
+Brief: `reviews/revision-brief.md`. Prose-writer, targeted. About +185 words (3,377 → about 3,560; +5.5%). Floors untouched (s2 and s4 only grew; s3 lost two words in the kiss). Ending types unchanged. "Both words." is still the last line.
+
+- §3 school closings (s1): "the radio gone on to the price of heating oil" → "the radio gone on to the school closings".
+- §3 padlock (s2): "Six winters it had hung there without a hand on it" → "…without its own key in it".
+- §3 audit F10 (s2): after Hollis writes the name down, Denise answers across to the counter, to Ellen: "That's how a name goes on a cup, honey, the man it belongs to says so, and you'll notice nobody's asking for their money back." That is the book's fourth and last "honey" (cap 4). The line marks the name given against the name taken in Ch 05 (the nine refunds).
+- §2.7 (s2): "while she set the house record" → "while she set the women's house high single".
+- §3 audit F9 / §2.6 (s2): Denise's winning ball, one sentence before Ray's last box: "On six Denise's third ball went in light off the side of her last rack and took the four horsemen down together, and she walked back to the settee before the last one lay still." This matches Ch 08's "the four horsemen" and pays Gil's line.
+- §3 Verna's slip (s2): "Verna turned a page in her binder, past the folded slip from January still in its front pocket."
+- §4 ("She said nothing to it" variants) (s2): cut "He didn't answer it." before he lifts Linda's ball.
+- §3 one mouth (s3): "the catch held her short, her mouth still a breath from his" → "the catch held her short, still a breath from him". The kiss names one mouth ("Ray laughed against her mouth").
+- §3 speaker (s4): "'You're in the other chair,' Ellen said, from a little way off the phone." The two paragraphs are merged and "Ellen's voice came" is cut.
+- §3 Bench's second sheet (s4): "Beside it the new sheet had a pencil line through Valentine's, and Normie was already looking at June." The next sentence opens "Ray had kept to his own counter" so its "He" does not read as Normie.
+- §1 Judy's condition (s4): replaced with "Your contract with Ellen is on record at the registry in Laconia, and your release of it was never acknowledged, so the registry won't take it and I can't wire over it. You sign it in front of me before four, or the wire doesn't go." Cut "I like you, Ray. The underwriter has never met you." Only Ray re-signs ("Sign it again. Here." is unchanged). Ellen signs only the paydown page. Arlene signs nothing.
+- §2.4 (s4): "That goes back to the credit union." stays, and Ray adds "Hold that for me. I'll walk it back myself." Danny holds it.
+- §1 cost line (s4): the Bench, as Ray leaves: "The end stool found his voice as the bell went. 'And the veteran heads up the hill to the bank, boys, and by supper half of Main Street has it he paid.'"
+- §3 audit F7 (s4): Ellen to Ray at Judy's desk, before the paydown page: "The winter made twenty-eight thousand nine hundred. Eleven hundred short of thirty." Then Judy restates the rule: "The winter's cash stays where it is," Judy said. "Anything else is new money." That leads into "Sunday's snack bar closed part of the gap…" as before. "Ellen kept her eyes on Judy" → "Ellen looked back at Judy", since she has just turned to Ray.
+- §2.11 (s5): the shop's man set a new transformer for the K in the cabinet on Friday. Ray fits the letter "with the disconnect open on the pole below him and the shop's sheet in his jacket pocket, which Ellen had read twice." The old K "had gone dark the winter Danny got his license, on a transformer of its own, so the rest of the sign had burned on without it." This restores the sheet line the cold-read triage (item 8) cut, because World rule 4 requires it.
+- §3 ring (s5): "His ring hung at his belt with a gap in it" → "His ring lay in his open hand with a gap in it".
+- Figures in Ch 10 are now three: twenty-eight thousand nine hundred, eleven hundred (the gap) and eighty-eight hundred. The brief allows the extra figures here. "Twenty-eight thousand nine hundred" is 1 of its cap of 2.

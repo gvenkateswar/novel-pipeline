@@ -34,7 +34,7 @@ Ellen's hands stayed where they were.
 
 Keys came out of an ignition. "And call me first next time."
 
-Kate stopped there. He could hear her listening to their end: the fryer settling, the radio gone on to the price of heating oil, and him with the knife in his hand and nothing to do with it.
+Kate stopped there. He could hear her listening to their end: the fryer settling, the radio gone on to the school closings, and him with the knife in his hand and nothing to do with it.
 
 Kate blew a breath across the mouthpiece. "Like this."
 
@@ -68,7 +68,7 @@ She looked at it a while, and picked it up, and came round the counter.
 
 At the case Denise had a cloth on the Memorial cup, because it was Sunday, and went on pretending to dust it.
 
-Ellen put the key in the padlock and turned it, and nothing turned. Six winters it had hung there without a hand on it, and it was not going to start for hers. She set her wrist and tried again. He put his hand over hers on the key. It went under the two of them, stiff and then sudden, and the shackle dropped.
+Ellen put the key in the padlock and turned it, and nothing turned. Six winters it had hung there without its own key in it, and it was not going to start for hers. She set her wrist and tried again. He put his hand over hers on the key. It went under the two of them, stiff and then sudden, and the shackle dropped.
 
 She hung the padlock on the hasp and opened the door.
 
@@ -90,11 +90,13 @@ Hollis looked up from the settee. "Committee never voted on a name."
 
 Then he opened his waterproof notebook on his knee and wrote it down.
 
+Denise, by the case, said it across to the counter, to Ellen. "That's how a name goes on a cup, honey, the man it belongs to says so, and you'll notice nobody's asking for their money back."
+
 Along the back settees Dale Hutchins, whose crew had put up the cup's money in September, looked at Ray a while. Then he unzipped his town jacket and sat back to watch.
 
-His first box with Linda's ball was on lane five, where he had watched from the pit one February while she set the house record. His thumb went looking for the place hers had worn into it, a dull patch about the size of a dime, and found it, and was too big for it. He bowled ordinary strings with it. Each time he looked up, with all ten lanes going at once, Ellen was behind the counter with her eyes shut.
+His first box with Linda's ball was on lane five, where he had watched from the pit one February while she set the women's house high single. His thumb went looking for the place hers had worn into it, a dull patch about the size of a dime, and found it, and was too big for it. He bowled ordinary strings with it. Each time he looked up, with all ten lanes going at once, Ellen was behind the counter with her eyes shut.
 
-It came down to lanes five and six, Lakeview Diner against Gagnon and Son, the other eight lanes finished and their bowlers along the rail. The last box of the day was his. Linda's ball went down lane five through the middle of the rack and left two pins standing at the back. Verna turned a page in her binder.
+It came down to lanes five and six, Lakeview Diner against Gagnon and Son, the other eight lanes finished and their bowlers along the rail. On six Denise's third ball went in light off the side of her last rack and took the four horsemen down together, and she walked back to the settee before the last one lay still. The last box of the day was his. Linda's ball went down lane five through the middle of the rack and left two pins standing at the back. Verna turned a page in her binder, past the folded slip from January still in its front pocket.
 
 "The secretary has Lakeview Diner by two pins."
 
@@ -112,7 +114,7 @@ Denise took the flyer and folded it into her pocket. Then she turned round to Ra
 
 "Gil's short a partner for the spring doubles. I'm thinking about it."
 
-He didn't answer it. He lifted Linda's ball off the return on lane five and carried it past the open locker, through a room still on its feet, to the house rack between lanes four and five. He set it on the shelf among the house balls, by Ellen's tape on the steel upright, and gave it a quarter-turn until it sat, with Ellen watching from the counter and his hand still on it.
+He lifted Linda's ball off the return on lane five and carried it past the open locker, through a room still on its feet, to the house rack between lanes four and five. He set it on the shelf among the house balls, by Ellen's tape on the steel upright, and gave it a quarter-turn until it sat, with Ellen watching from the counter and his hand still on it.
 
 \* \* \*
 
@@ -158,7 +160,7 @@ Her hands went still inside his, and began to warm there. He let a breath go.
 
 "And one you left off. I've loved you since about the first night, when you kept me knocking at your door to finish your tape."
 
-Ellen came up off the step to reach him. Her reading glasses swung out on their black cord and caught on the pull of his jacket zipper, and the catch held her short, her mouth still a breath from his. She came the rest of the way anyway, with the cord biting at the back of her neck.
+Ellen came up off the step to reach him. Her reading glasses swung out on their black cord and caught on the pull of his jacket zipper, and the catch held her short, still a breath from him. She came the rest of the way anyway, with the cord biting at the back of her neck.
 
 Ray laughed against her mouth.
 
@@ -172,11 +174,9 @@ Her hand went to her vest pocket, where his key was, and lay flat on it, and cam
 
 Ray stood at his own counter under the clock with the phone to his ear.
 
-"You're in the other chair."
+"You're in the other chair," Ellen said, from a little way off the phone. Under it heels crossed marble, and the drive-up tube came down with a thunk. She had set the phone face up on the chair beside her at Judy's desk. The bank's committee had sat at two, and Judy, who had written Ellen's loan, was in it.
 
-Ellen's voice came from a little way off the phone. Under it heels crossed marble, and the drive-up tube came down with a thunk. She had set the phone face up on the chair beside her at Judy's desk. The bank's committee had sat at two, and Judy, who had written Ellen's loan, was in it.
-
-The Bench sat on their stools with their cups halfway up. Behind the register the old gray sheet hung on its nail, every square pencilled in but the last. He had kept to his own counter all day so that nobody on Main Street could say whose money it was.
+The Bench sat on their stools with their cups halfway up. Behind the register the old gray sheet hung on its nail, every square pencilled in but the last. Beside it the new sheet had a pencil line through Valentine's, and Normie was already looking at June. Ray had kept to his own counter all day so that nobody on Main Street could say whose money it was.
 
 A door opened at the far end of the line. Heels came across, and Judy's chair creaked round.
 
@@ -188,11 +188,13 @@ Down the line, cellophane.
 
 "She's got the butterscotch out," he said to the Bench, low.
 
-The cellophane stopped. "I can hear you, Ray. It's approved subject to one thing." A drawer slid shut. "The paper you signed in February to let go of your contract with Ellen was never notarized, so you sign it again at this desk in front of me before four, or the wire doesn't go. I like you, Ray. The underwriter has never met you."
+The cellophane stopped. "I can hear you, Ray. It's approved subject to one thing." A drawer slid shut. "Your contract with Ellen is on record at the registry in Laconia, and your release of it was never acknowledged, so the registry won't take it and I can't wire over it. You sign it in front of me before four, or the wire doesn't go."
 
-He was already moving. The Pines held her room through today and no longer. The envelope came out of his jacket, where it had ridden all month, and he put it in Danny's hand. "That goes back to the credit union." He laid his phone face up on the counter by the register. Danny didn't open the envelope.
+He was already moving. The Pines held her room through today and no longer. The envelope came out of his jacket, where it had ridden all month, and he put it in Danny's hand. "That goes back to the credit union. Hold that for me. I'll walk it back myself." He laid his phone face up on the counter by the register. Danny didn't open the envelope.
 
 "Go on. I've got the counter."
+
+The end stool found his voice as the bell went. "And the veteran heads up the hill to the bank, boys, and by supper half of Main Street has it he paid."
 
 His jacket hung flat on that side going up Main Street. He went past the barber's and up to the pharmacy, where a van stood at the side door and boxes marked in Arlene's green-ledger hand for THE PINES were going up into it. Arlene stood on the sidewalk in her good coat with her pocketbook clamped under one elbow, watching each one go.
 
@@ -218,9 +220,13 @@ She turned the paper round to face him. "Sign it again. Here."
 
 He wrote his name in the same scrawl he had put under Arlene's. Judy's seal came down on it and crimped the page, and he felt it through the desk.
 
-She turned the next page to Ellen, and her pen clicked. "Sunday's snack bar closed part of the gap. This page closes the rest. Eighty-eight hundred, out of your savings and onto Arlene's note. Any of it his?"
+She turned the next page to Ellen, and her pen clicked.
 
-Ellen kept her eyes on Judy. "None of it is his."
+Ellen turned her head to him. "The winter made twenty-eight thousand nine hundred. Eleven hundred short of thirty."
+
+"The winter's cash stays where it is," Judy said. "Anything else is new money. Sunday's snack bar closed part of the gap. This page closes the rest. Eighty-eight hundred, out of your savings and onto Arlene's note. Any of it his?"
+
+Ellen looked back at Judy. "None of it is his."
 
 She signed in one go and capped her pen. Then, low, to him: "What's left heats the camp through one bad winter."
 
@@ -234,13 +240,13 @@ He looked past her, through the glass and the lobby's front window. Down Main St
 
 \* \* \*
 
-The new K was cold glass the length of his forearm, bent in Laconia to the old script's curl. At the top of the ladder he fitted it into the script's curl, with the disconnect open on the pole below him. The old one had gone dark the winter Danny got his license, and the town had called the place Ettle's ever since.
+The new K was cold glass the length of his forearm, bent in Laconia to the old script's curl, and on Friday the shop's man had set a new transformer for it in the cabinet. At the top of the ladder he fitted it into the script's curl, with the disconnect open on the pole below him and the shop's sheet in his jacket pocket, which Ellen had read twice. The old one had gone dark the winter Danny got his license, on a transformer of its own, so the rest of the sign had burned on without it, and the town had called the place Ettle's ever since.
 
 Ellen held the foot of the ladder in both hands. It went steady under his boots, and he could feel her through the rails.
 
 He came down with the old K, dark glass in the old curl, and laid it on the plow bank at the foot of the pole. The banks had gone gray in the thaw. Across the road water stood in long sheets around the bob-houses.
 
-His ring hung at his belt with a gap in it where Arlene's key had been. Ellen took his key out of her vest pocket and laid it on her open palm between them.
+His ring lay in his open hand with a gap in it where Arlene's key had been. Ellen took his key out of her vest pocket and laid it on her open palm between them.
 
 "That's not asking."
 

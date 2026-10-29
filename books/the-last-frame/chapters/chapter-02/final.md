@@ -2,7 +2,7 @@
 
 The store had been open since six, and Ray was behind the counter counting a drawer Danny had already counted, twenties first. On three stools by the coffee pot sat the Bench, three retired men who came for the free coffee, which was terrible, and stayed because something in a hardware store was always about to happen, and the one on the end, Normie, called whatever it was like the Saturday show out of Boston.
 
-At half past seven the bell went, and the cold came in with Ellen Daly and lifted the smell of birdseed and cut brass off the aisles. She came down the center aisle without a glance at a shelf, pulled her right glove off with her teeth, laid her phone on his mat, and said nothing. She touched the screen.
+At half past seven the bell went, and the cold came in with Ellen Daly and lifted the smell of birdseed and cut brass off the aisles. She came down the center aisle without a glance at a shelf, pulled her right glove off with her teeth, laid her phone on his mat, and touched the screen.
 
 Out of the little speaker came a sound like a chair dragged across an upstairs floor, then the knock, then the same wait, and the chair again.
 
@@ -66,9 +66,9 @@ The light didn't move. He sat back on his heels and looked up past it at her.
 
 "Arlene had this place listed two years," he said, "and the only other one who came up the drive was a fella from Concord who wanted the lot at land value, for condos. So she sold it to you over me. Then she came down to the store and asked me to sign behind you, in case you fell, and I signed, because she asked." He let that sit. "Now I'm asking you. Sell it to me now, every dollar back, closing costs and all. That's more than it'll appraise at, so the store goes up behind it. My father put it up once, in 'seventy-four, and I watched it nearly go, him out in the truck in the dooryard after dark with the engine off. I'll do it anyway, because I'd sooner have this place clean, with you saying yes, than cheap off your mistake. The credit union sits tomorrow at five. I'm asking it once."
 
-She didn't answer it. She kept the light on the open lock.
+She kept the light on the open lock.
 
-"Granite Lakes writes me the loan the day this winter clears thirty thousand, with every dollar it makes still sitting in the account."
+"Judy Ostrowski at Granite Lakes writes me the loan the day this winter clears thirty thousand, with every dollar it made still sitting in the account."
 
 "So it's got to come in," Ray said, "and then it's got to stay put."
 
@@ -142,7 +142,7 @@ She didn't stay. She went out through the steel door, and the lights came on ove
 
 "Depends who's asking."
 
-She hadn't raised her voice. It came down sixty feet of maple and under the masking and got to him whole, every word where she'd put it, and he had to holler to send anything back, and he hollered. A good many voices had come down that lane at him, Linda's among them, and none of them had come this low or got here in one piece.
+She was talking at the level she'd use across a counter, and it came down sixty feet of maple and under the masking and got to him whole, every word where she'd put it, and he had to holler to send anything back, and he hollered. A good many voices had come down that lane at him, Linda's among them, and none of them had come this low or got here in one piece.
 
 "It's eleven minutes past ten."
 

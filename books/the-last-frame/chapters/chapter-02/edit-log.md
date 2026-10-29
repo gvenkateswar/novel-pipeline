@@ -94,3 +94,12 @@ Word count: `wc -w final.md` 2992 total (was 3003). By scene (awk, scene breaks 
 - [Added life]: S2, one line, to restore the floor: "A cup of black coffee sat on the sill where he would see it, and it was hot, which was more than the Bench's ever managed." (the beat sheet's optional coffee line; the taste/warmth pleasure S2 lacked, and a small tease at the Bench).
 - [Flagged for writer / plot architect]: (a) S4 no longer has a Linda beat; Ch 03 or Ch 04 can carry it if wanted. (b) Not touched, per instruction: the four neat scene endings, the Tilton anecdote, Normie/Normand (Normie's name could be changed), Kate's identity, Danny's signature, and "owing him ... wet coat" (Ray's POV reading Ellen).
 - [Rule pair]: stop letting a plant carry both a gesture and its gloss (the key, then three paragraphs saying what it meant); do instead give the minute to objects and hands (form, phone, a lost count) and let the reader supply the meaning.
+
+---
+## Manuscript revision round 1 (Oct 29)
+Source: `reviews/revision-brief.md`. final.md edited in place. Estimated net +3 words (no shell available to run `wc -w`).
+
+- [§3, Judy] S2 bank line → "Judy Ostrowski at Granite Lakes writes me the loan the day this winter clears thirty thousand, with every dollar it made still sitting in the account." Judy named, liquidity rule in the same sentence; "makes" → "made" per the brief's wording.
+- [§3, raised voice] S3 "She hadn't raised her voice. It came down sixty feet of maple…" → "She was talking at the level she'd use across a counter, and it came down sixty feet of maple…" (reworded; Ray's hollering back still follows).
+- [§4, "She said nothing to it" variants] S1 "laid her phone on his mat, and said nothing. She touched the screen." → "…laid her phone on his mat, and touched the screen."
+- [§4, same] S2 "She didn't answer it. She kept the light on the open lock." → "She kept the light on the open lock." The light carries the non-answer. S4's key "and said nothing" kept.

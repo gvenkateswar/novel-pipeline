@@ -94,7 +94,7 @@ Ray thought of his name on her bottom line, printed before she'd asked, and went
 
 The invoice pads were on the shelf over the desk, a stack of them with GAGNON & SON printed on every sheet, and he had one down and under his arm when Danny came in behind him with a letter.
 
-"Came yesterday with the supplier bills," Danny said. "I open everything that comes to the store." He unfolded it. "Says here the bank in Concord'll lend you whatever the appraiser puts on the alley, if it comes to you buying it. Says that's good through New Year's Eve, and then it's gone. Says they'll hold it to March first for a fee, and you pay the fee whether you buy or not."
+"Came yesterday with the supplier bills," Danny said. "I open everything that comes to the store." He unfolded it. "Says here the bank in Concord'll lend you most of whatever the appraiser puts on the alley, if it comes to you buying it, and the rest comes out of your own pocket. Says that's good through New Year's Eve, and then it's gone. Says they'll hold it to March first for a fee, and you pay the fee whether you buy or not."
 
 He read the fee off the bottom of the page in the same voice he used for a carton count, and looked up. "I checked the name on it twice."
 
@@ -104,7 +104,7 @@ Danny watched him do all of it.
 
 "If she makes it, Dad, what've you bought?"
 
-Ray put the check in the bank's envelope and sealed it and ran his thumb along the flap, twice. He didn't answer. He picked up the invoice pad, which was what he had come for.
+Ray put the check in the bank's envelope and sealed it and ran his thumb along the flap, twice. He picked up the invoice pad, which was what he had come for.
 
 Out front he laid the envelope in the wire tray of outgoing mail on the counter, address up, and went to the door with the pad under his arm. Through the glass, Normie got down off the end stool, leaned over the tray and read the address.
 
@@ -206,15 +206,11 @@ She took a sheet off the blotter and handed it to him. One page in her printing:
 
 "Took it down to the commas, I'd guess," Ray said.
 
-"Second," Ellen said. "Paragraph four says 'as the league's bylaws provide.'"
-
-"And what do the bylaws provide?"
-
-"Third. I asked Verna for them the day after I closed."
+"At closing I inherited Arlene's September agreement with the league, along with her fuses. It adopts the bylaws, and whatever the January meeting votes holds to the end of the season. I asked Verna for the bylaws the day after I closed."
 
 Ray waited. "And Verna said."
 
-"The secretary reads the bylaws aloud at the January meeting, in full, and the binder does not leave the secretary," she said.
+"'Paragraph four of your agreement sends you to the bylaws,'" Ellen said. "'The secretary reads the bylaws aloud at the January meeting, in full, and the binder does not leave the secretary.'"
 
 Ray had to look down at the notice.
 
@@ -238,12 +234,12 @@ He had nothing left in reach to fix.
 
 "I eat supper at a quarter past five, have for thirty years, and you've made me late twice this week, and I can't tell if you're doing it on purpose or you're just no good with a clock."
 
-"I'm very good with a clock."
+"I am very good with a clock."
 
 She said it to his face, a foot away, in the same voice she used for the time, and under it he heard the small change you hear in a motor the second before it catches. Her hand stayed on the edge of the desk, and his stayed at his side.
 
 "I'll be on my feet in January, Ellen."
 
-"Good. I'd hate to beat somebody who wasn't ready."
+"Good. I would hate to beat somebody who was not ready."
 
 She sat down. Then she hooked the second chair out from under the desk with the toe of her boot, and left it there, facing her.

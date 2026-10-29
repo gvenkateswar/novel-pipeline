@@ -22,3 +22,14 @@ Final prose word count: 3,284 by `wc -w` on the prose including the chapter head
 - [Issues.md]: all ten confirmed addressed in draft-revised and not reopened. Issue 6 (ordinal device): the S2 count and the throw's three steps remain, the handoff list now loses its second item, and S4 uses a plain sentence.
 - [Flagged for writer]: none that need plot change. For the audit run: "ground"/"grinding" appears three times in the lane-7 passage (the sound, the motor going on, Ellen's brief). If the audit flags it, vary the narration and keep her line, which is her report.
 - [Pairs for the pipeline]: stop using "like a [household object] dragged/moved" for a machine's sound in Ellen's POV; give the sound's order and interval as she would report it (grinding, knock, same gap each time). Stop dating an object with a year the listener will not hold (2011 polo); give it a worn detail (washed pink at the shoulders) and spend the year only where the plot needs it.
+
+## Manuscript revision round 1 (Oct 29)
+Source: `reviews/revision-brief.md`. final.md edited in place. Estimated net +23 words (no shell available to run `wc -w`; hand count of changed passages only).
+
+- [§2.5] House balls: "squaring the house balls on the rack between four and five, lightest to heaviest" → Ray "going along the rack between five and six, sorting the house balls by wear" (smooth and dull to the back, some grip left to the front). Rack moved to five-and-six so the label names a real lane pair (pairs run 1-2 … 9-10; five and six share the return in S3).
+- [§2.5] Ellen's tape: "labeled every shelf of the rack … with the weight written on it" → "labeled every rack in the building … at the end of each with its pair of lanes written on it." "He peeled one of her labels" → "He peeled her label" (one per rack). The move from maple to the steel upright is unchanged.
+- [§3] Verna: "no precedent since 1979" → "since nineteen seventy-nine."
+- [§4, "She said nothing to it" variants] Cut "Ellen said nothing to that." before "She had known it could not move…"; "Ellen didn't answer that either." kept and still reads (her non-answer to Arlene is carried by the interior that follows).
+- [§3, raised voice] Ch 01's "She did not raise her voice" kept, per brief.
+- [§4, "the order went out of it"] Ch 01's handoff paragraph ("it had all come out of order and left it that way") is the book's first use; kept.
+- [§4, "a quarter-turn"] Kept in the rewritten rack sentence (not in this round's assignment); flag for whoever counts the book-wide cap of two.

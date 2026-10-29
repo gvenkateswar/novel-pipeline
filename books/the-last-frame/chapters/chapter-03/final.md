@@ -6,7 +6,7 @@ Hollis came up the drive on foot with the snow to his knees and stood in the ves
 
 "Front end's off the crown and the blade's dug in," he said. "That's a loader. Not tonight."
 
-Dale Hutchins was stamping enough for both of them. He was Ambrose's road agent, the man every plow driver in town answered to, and he had driven up her hill ahead of the plow to tell her to send people home, and had watched it go sideways below his pickup. He did not raise his voice, and the people nearest the counter heard every word of it.
+Dale Hutchins was stamping enough for both of them. He was Ambrose's road agent, the man every plow driver in town answered to, and he had driven up her hill ahead of the plow to tell her to send people home, and had watched it go sideways below his pickup.
 
 "I called you at ten past three and told you it wasn't stopping."
 
@@ -26,7 +26,7 @@ The captain turned from the counter to answer them, in the voice a man uses to g
 
 Hollis said nothing, which from Hollis was a measurement.
 
-Ellen counted the room. First, the ones already moving: the man with the keys, two women from the diner team zipping their coats, a boy in a hockey jacket halfway into the vestibule with his hood up. Next, the ones watching the door to see who went first, which was most of them. Next, the ones who could not go anywhere fast: the old couple on the one-and-two settee, a man with a cane hooked over the scorer's table, Denise behind the fryer with a basket up and dripping. Then Hollis by the door, and the captain, and Ray at her right shoulder, the one person in the building who was not looking at the door. Thirty-three besides herself, on a Thursday the forecast had already thinned, every one of them about to do something reasonable. She knew how a night came apart: one reasonable thing and then the next. She had sounded perfectly fine the last time it happened to her.
+Ellen counted the room. First, the ones already moving: the man with the keys, two women from Denise's team, the Lakeview Diner, zipping their coats, a boy in a hockey jacket halfway into the vestibule with his hood up. Next, the ones watching the door to see who went first, which was most of them. Next, the ones who could not go anywhere fast: the old couple on the one-and-two settee, a man with a cane hooked over the scorer's table, Denise behind the fryer with a basket up and dripping. Then Hollis by the door, and the captain, and Ray at her right shoulder, the one person in the building who was not looking at the door. Thirty-three besides herself, on a Thursday the forecast had already thinned, every one of them about to do something reasonable. She knew how a night came apart: one reasonable thing and then the next. She had sounded perfectly fine the last time it happened to her.
 
 At five to nine she spoke at the level she used on the PA, without the PA.
 
@@ -40,7 +40,7 @@ Her voice was level and kind and a little bored, and under it she was still coun
 
 "She's right, Dale," Ray said, not loudly.
 
-Ellen sat down on the counter stool. Ray saw her sit. He looked off down the lanes and said nothing.
+Ellen sat down on the counter stool. Ray saw her sit. He looked off down the lanes.
 
 The captain stood a while longer with his hood dripping on her floor. Then he came along the counter to the register and laid a bill down.
 
@@ -82,7 +82,7 @@ He had been across the room, and she had not heard him cross it. He turned his h
 
 On her knees on the pin deck behind lane five, with every flashlight in the house aimed down the lane at her, Ellen set the head pin on its spot and took her hand away.
 
-With the machines dead, somebody had to set pins, and the deck still had ten worn circles in the wood from the years when boys had knelt here and done it by hand. Ray had shown her once. She had it. He had picked five, the middle of the house, without asking anyone, and she filed that.
+With the machines dead, somebody had to set pins, and the deck still had its ten spots plated in steel from the years when boys had knelt here and done it by hand. Ray had shown her once. She had it. He had picked five, the middle of the house, without asking anyone, and she filed that.
 
 "Folks would sleep, you know," he said, "if you let them."
 
@@ -120,17 +120,17 @@ His thumb went round and round the neck of the pin he was holding. Then he stood
 
 "I've been trying all month to work out why anybody would buy a building that loses money every Thursday," he said, "and I can't, and I'm about out of guesses."
 
-She looked down the lane at the row of flashlights.
+She looked down the lane at the row of flashlights, and picked up the pin nearest her knee and held it in both hands.
 
 "Two things," she said. "They retired me by statute, with a sheet cake. That isn't one of them."
 
 He waited.
 
-"First. I worked midnights a long time. One night, at two in the morning, I let two airplanes get closer together than I was allowed to." She squared the pin by her knee. "Separation is the space you keep between two airplanes; it's the whole job. Nobody was hurt. I sounded perfect. Afterward I listened to the tape, and there is nothing in my voice. I had come apart the entire time. I wrote it up myself before anyone asked. Since that night, when I sound calm, I don't take my own word for it."
+"First. I worked midnights a long time. One night, at two in the morning, I let two airplanes get closer together than I was allowed to." Her hands stayed where they were on the pin. "Separation is the space you keep between two airplanes; it's the whole job. Nobody was hurt. I sounded perfect. Afterward I listened to the tape, and there is nothing in my voice. I had come apart the entire time. I wrote it up myself before anyone asked. Since that night, when I sound calm, I don't take my own word for it."
 
-Ray didn't say anything. His hands had stopped.
+His hands had stopped.
 
-"Second. Last winter I couldn't sleep, so I drove the lake road. I came in under the sign on a league night and stood in the vestibule. All ten lanes were going. It sounded like Friday-evening arrivals into Boston, forty people talking and every one of them getting through." She found a pin by feel and picked it up. "A pin is standing or it's down. The whole room can see which. Nobody can sound fine about a pin."
+"Second. Last winter I couldn't sleep, so I drove the lake road. I came in under the sign on a league night and stood in the vestibule. All ten lanes were going. It sounded like Friday-evening arrivals into Boston, forty people talking and every one of them getting through." She held the pin up between them. "A pin is standing or it's down. The whole room can see which. Nobody can sound fine about a pin."
 
 She stopped there. She had a third item, in order behind the other two, and she decided not to brief it.
 
@@ -200,6 +200,6 @@ When he lifted his head he did not go far. He found her other hand again and loo
 
 "Noted."
 
-Hollis's plow came off Kettle Road into the mouth of the drive with its blade up and its yellow light swinging across the two of them, across the pole and the two shovels in the snow, and stopped. Hollis sat in the cab and said nothing through the glass. Up the drive every face in the building was in the glass block, woken by the lights. The vestibule door opened, and Denise stood in it in her coat with her arms folded, and called down the drive.
+Hollis's plow came off Kettle Road into the mouth of the drive with its blade up and its yellow light swinging across the two of them, across the pole and the two shovels in the snow, and stopped. Hollis sat in the cab with the engine running. Up the drive every face in the building was in the glass block, woken by the lights. The vestibule door opened, and Denise stood in it in her coat with her arms folded, and called down the drive.
 
 "Honey."

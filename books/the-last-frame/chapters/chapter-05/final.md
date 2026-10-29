@@ -34,9 +34,7 @@ She looked at her watch, the steel one Ray had covered with his palm on the nine
 
 "Mine were blue."
 
-"Course you know that," Kate said. "You'd have written it up."
-
-"They cut it with a tongue depressor," Kate said. "The forks are locked in a cabinet and nobody has the code. I'm charting that too."
+"Course you know that," Kate said. "You'd have written it up. Ours they cut with a tongue depressor. The forks are locked in a cabinet and nobody has the code. I'm charting that too."
 
 The second chair stood where she had hooked it out from under the desk with her boot on the nineteenth, still facing hers. Ray had sat in it after close on six of the eleven nights since, with his canvas jacket zipped to the chin like a man on call, which he was, while she ran the tape, and neither of them had said one word about the sign or about January. She had not told him the rest of what she said in the pit, either. A condition was not his to hear until the vote had decided whether it came due, and she had told herself so again each night, with the tape running. Her boot found the chair's lower rung and stayed there.
 
@@ -128,7 +126,7 @@ Ray stood. "Most of you heard about my mail before I did, so here it is. The cre
 
 The back rows quit shifting. "And Mrs. Daly gave me her word, the night of the storm, in the pit behind five, that Linda's Memorial stays the way it is." He turned his head and looked at her, for the first time that night. "'It stays,' she said. That book of yours lets the house set that weekend any way it likes, so her word is what the Memorial's got, and I'll hold her to it. Put it in the book, Verna."
 
-His voice was low enough that the back rows leaned forward. He had called her by her last name in front of the league, five days after he had said her first with his hand in her hair, and she heard the strain in it, a half-tone high on the title, a man putting the formality back on. She wanted him to keep talking. She wanted it even now, with every sentence of it against her, and she stood and listened to her own two words in his mouth, and the other five nowhere in it, and kept back the one error of her life she would not report, because it was priced in him.
+His voice was low enough that the back rows leaned forward. He had called her by her last name in front of the league, four days after he had said her first with his hand in her hair, and she heard the strain in it, a half-tone high on the title, a man putting the formality back on. She wanted him to keep talking. She wanted it even now, with every sentence of it against her, and she stood and listened to her own two words in his mouth, and the other five nowhere in it, and kept back the one error of her life she would not report, because it was priced in him.
 
 Verna wrote, and then gave it to the room in the voice she kept for the minutes. "Mr. Gagnon states that the owner gave him her word, on the night of the storm, in the pit behind five, that the Linda Gagnon Memorial stays the way it is. Quote, it stays, unquote. Mr. Gagnon will hold her to it."
 

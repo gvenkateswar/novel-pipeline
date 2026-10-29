@@ -102,3 +102,10 @@ Draft edited: final.md (2,917 words before, 2,803 after; ceiling 3,186). Scene c
 - Worcester page: the reader counts it as a book-level tic (fourth or fifth appearance across Ch 01 to 06). A cut inside Ch 06 would break the Ch 08 receipt echo in the plant ledger. If the book-level audit wants it down, change the Ch 06 line to "in his shirt pocket" and keep the Worcester page for a chapter where it carries a beat. I left it.
 - Not touched, as instructed: the second chair "with nobody in it" (5th or 6th use), "Ray stopped talking" (the reader asked "from what?"), the trade similes, the Danny/Ray invoice voice overlap, the four one-line stamp paragraphs, and every scene ending on a clipped gesture. These are voice-pass notes, not small fixes.
 - Pattern pair for the log: stop opening a scene on a weekday, a date and a clock together. Instead open on what someone's hands are doing and let the day come in later as one clause (done in s4; s2 and s3 still open on clocks).
+
+## Manuscript revision round 1 (Oct 29)
+
+Brief: `reviews/revision-brief.md`. Prose-writer, targeted. About 10 words cut (2,803 → about 2,793).
+
+- §3 ("did not raise his voice"): s2, cut "He didn't raise his voice." from the drawer count. That was Ch 06's only use; the brief keeps Ch 01 and Ch 07's Ray.
+- §4 ("She said nothing to it" variants, cut half across Ch 06–10): s1, cut the stand-alone "She said nothing to it." after "I never heard that." The silence is carried by Hollis's boots outside and the next question.

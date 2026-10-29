@@ -27,3 +27,13 @@ Endings: S1 captain's line, cut. S2 "That's the boiler." S3 Ray's "It's set." S4
 - [Rule suggestions, as pairs]
   - Stop: letting the gloss on an in-scene ATC thought repeat jargon ("let a clearance go out"). Do: state the habit in plain words ("never once let one go by without hearing it come back") and let the italic *No readback* carry the term.
   - Stop: using the "and" chain under fear. Do: reserve it for desire and write fear as a colon and full stops, so the S4 break reads as a break.
+
+## Manuscript revision round 1 (Oct 29)
+Source: `reviews/revision-brief.md`. final.md edited in place. Estimated net minus 10 words (no shell available to run `wc -w`).
+
+- [§2.12] S3 "the deck still had ten worn circles in the wood" → "the deck still had its ten spots plated in steel" (plated deck, one clause).
+- [§3, pin in both hands] S3: after "She looked down the lane at the row of flashlights," added "and picked up the pin nearest her knee and held it in both hands." "She squared the pin by her knee." → "Her hands stayed where they were on the pin." "She found a pin by feel and picked it up." → "She held the pin up between them." She now holds one pin in both hands from "Two things" through "Nobody can sound fine about a pin" (matches Ch 07 and 08).
+- [§3, Denise's team] S1 room count: "two women from the diner team" → "two women from Denise's team, the Lakeview Diner."
+- [§3, raised voice] S1 cut "He did not raise his voice, and the people nearest the counter heard every word of it." (Dale).
+- [§4, "She said nothing to it" variants] S1 "He looked off down the lanes and said nothing." → "He looked off down the lanes." S3 "Ray didn't say anything. His hands had stopped." → "His hands had stopped." S4 "Hollis sat in the cab and said nothing through the glass." → "Hollis sat in the cab with the engine running." Kept: Hollis's "measurement" line, "she put nothing," Denise's "rarer than the money" (laughs), and "Neither of them answered."
+- [§4, ordinals] Ch 03's pit list stays, per brief. [§4, "the order went out of it"] S4's use is the book's second; kept.

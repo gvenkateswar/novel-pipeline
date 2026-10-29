@@ -62,7 +62,7 @@ Verna turned back through the binder a page at a time and found it by the date i
 
 "Mr. Gagnon states that the owner gave him her word, on the night of the storm, in the pit behind five, that the Linda Gagnon Memorial stays the way it is. Quote, it stays, unquote. Mr. Gagnon will hold her to it."
 
-Dale looked at Ellen. He did not turn to the room, and he did not raise his voice.
+Dale looked at Ellen. He did not turn to the room.
 
 "Ray said it. It's in Verna's book. I'm only reading it back." He put both hands in his coat pockets.
 
@@ -76,7 +76,7 @@ She had known where he was since he came in, as she knew where everyone in her b
 
 The cold of the lot was still in his jacket, and it reached her across the inch. She did not move off it. On the boards an inch would have been a loss of separation, and she would have written it up before morning.
 
-"She said, 'Unless the numbers say otherwise.'" Ray did not raise his voice either, and the room went quiet to hear him. "Said it to me in the pit behind five, the night of the storm, and Denise put a strike down over the top of it, and I never heard the end. That's mine. Put it in the book, Verna."
+"She said, 'Unless the numbers say otherwise.'" Ray did not raise his voice, and the room went quiet to hear him. "Said it to me in the pit behind five, the night of the storm, and Denise put a strike down over the top of it, and I never heard the end. That's mine. Put it in the book, Verna."
 
 She listened to it for strain, as she would on a frequency, and found none.
 

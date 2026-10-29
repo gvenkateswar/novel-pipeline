@@ -12,11 +12,11 @@ Ray took it. It sat lighter in his hand than his own.
 
 Pine Ridge was warm clear to the back wall under screens nobody in this match looked up at, a building somebody could afford to heat, and Ray resented enjoying it.
 
-"You called me for a match, and I like a match, and half your Tuesday division drove over to watch it and they're in my lounge eating pizza, so I've had my night whoever bowls. Terms. Ray takes it, the Highway Department and the Legion go home to Kettle Lanes on Tuesday at the season rate and bowl Linda's Memorial. My man takes it—"
+"You called me for a match, and I like a match, and half your Tuesday division drove over to watch it and they're in my lounge eating pizza, so I've had my night whoever bowls. Terms. Ray takes it, the Highway Department and the Legion go home to Kettle Lanes on Tuesday at the season rate and bowl Linda's Memorial. My man takes it, Ray pays their lineage here to the end of the season, and Gagnon and Son bowls for Pine Ridge."
 
-"Ray pays our lineage here to the end of the season," Dale said, "and his team bowls for you."
+Gil smiled at him. "And your name on my Tuesday sheet is worth two more teams to me by April, so don't take me for sociable."
 
-"—and Gagnon and Son bowls for Pine Ridge," Gil said, as though nobody had spoken.
+"That's her third Tuesday team you're putting up," Hollis said. "She know that?"
 
 Dale Hutchins sat on the settee behind the table, coat zipped, his bag between his boots.
 
@@ -32,7 +32,7 @@ Dale looked at him a while. "Bowl, then."
 
 Denise had the scorer's table already, with a Kettle Lanes paper sheet and a pencil out of Ellen's cigar box, and nobody said a word about Tuesday. Gil looked at her sheet and up at his own screens.
 
-"I'll take Mrs. Lavoie's pencil over my screens. I watched her pick up a four-horse with her third ball eleven years back, in the spring doubles. I still think about it."
+"I'll take Mrs. Lavoie's pencil over my screens. I watched her pick up the four horsemen with her third ball eleven years back, in the spring doubles. I still think about it."
 
 Ray had seen her make that leave twice in thirty years. Her pencil stopped over the sheet for a second, then went on. Then he opened his pocketknife and held out his hand, and Denise put the pencil in it. He shaved it to a point and gave it back blunt end first.
 
@@ -120,29 +120,27 @@ Wintergreen and cough drops came up through her floorboards from the pharmacy un
 
 "You'd have kept it a museum, Raymond. I wanted it to live."
 
-He ate, and didn't argue it.
+He ate.
 
 The scanner said a car was off the road by the town beach, nobody hurt, and a wrecker was on its way.
 
-"That'll be the Pelletier girl. She takes that corner like it owes her money."
+"That'll be the Pelletier girl," Arlene said. "She takes that corner like it owes her money."
 
-"Wrecker ought to set up out there and save himself the gas."
+"Wrecker ought to set up out there and save himself the gas," Ray said. He cut another piece of ham and left it on the fork. "I want off the March paper, Arlene. I'll have your lawyer draw whatever it takes."
 
-"I want off the March paper. I'll have your lawyer draw whatever it takes."
-
-"Do you know what you're asking me?"
+"Do you know what you're asking me?" Arlene said.
 
 She brought her copy of the contract out of a box with no lid on it yet and laid it on the oilcloth by his plate, three pages stapled at the corner, Ellen's printing on the last one and his scrawl under it.
 
-"If she misses and you aren't standing there, The Pines gives my room to the next name, and I go on the bottom of that list at eighty-four, and I may not live to the top of it."
+"If she misses and you aren't standing there," Arlene said, "The Pines gives my room to the next name, and I go on the bottom of that list at eighty-four, and I may not live to the top of it."
 
-"You'd be paid, though, wouldn't you?"
+"You'd be paid, though," he said. "Wouldn't you?"
 
 "Months on, dear, when my lawyer's done selling it out from under her."
 
-"I know it."
+"I know it," Ray said.
 
-"Then hold it. You keep it in your drawer, she makes her number, you tear it up after, and I've had my bed the whole time."
+"Then hold it," Arlene said. "You keep it in your drawer, she makes her number, you tear it up after, and I've had my bed the whole time."
 
 Ray put the fork down square beside the plate. The oilcloth had split at the corner by his plate the winter her furnace quit, and he looked at the split while he said it.
 
@@ -154,21 +152,21 @@ Arlene turned the contract face down on the oilcloth and laid two fingers on the
 
 He kept his eyes on the split in the oilcloth.
 
-"In nineteen seventy-one I held Normand to a building I wanted and he didn't."
+"In nineteen seventy-one," Arlene said, "I held Normand to a building I wanted and he didn't."
 
-"He ran it eighteen years."
+"He ran it eighteen years," Ray said.
 
-"And never once said so. I won't hold you to one you've stopped wanting, Raymond."
+"And never once said so. He never cleared thirty, either, whatever you tell the Bench. Nobody did. You tell that one because you liked him." She took her fingers off the page. "I won't hold you to one you've stopped wanting, Raymond."
 
-"Then you'll sign it."
+"Then you'll sign it," he said.
 
-"First. And none of it stands without hers. It's hers to risk as much as mine."
+"First," Arlene said. "And none of it stands without hers. It's hers to risk as much as mine."
 
 He had come up her stair for a paper he could carry down it finished, and the last line on it was Ellen's.
 
 Arlene got up and took the phone off the wall by the bread box and dialed her lawyer from memory. "It's Arlene Fortier. Put him on."
 
-"Draw it so I sign first and Raymond under me, to stand only if the third name follows, and leave a line for Ellen Daly. Raymond will carry it to her himself, and he'll ask her."
+She listened a while with the receiver against her ear. "I know it's on record at the registry in Laconia. Put your notary's line under his name if you want it there. Draw it so I sign first and Raymond under me, to stand only if the third name follows, and leave a line for Ellen Daly. It won't come back through your office. Raymond will carry it to her himself, and he'll ask her."
 
 \* \* \*
 
@@ -206,7 +204,7 @@ Her weight went off the bad knee and came back onto it.
 
 He took a pencil out of her cigar box and turned it end for end. "Hollis says his committee voted on an Open, and nobody voted on a name."
 
-"Agreed." Her eyes went down the dark lanes and came back to him. "Nine teams entered for Linda's cup alone, and wrote her name on the form to say so. I will call all nine in the morning and offer their money back, and all nine will take it. That puts me a hundred and fifteen dollars under thirty thousand, with every lane of the Open full. The Open is my whole margin, and the weather owns the Open. Page two refunds every entry in cash if weather stops play, so a hundred and fifteen under with every lane full means one storm takes all of it."
+"Agreed." Her eyes went down the dark lanes and came back to him. "Nine teams entered for Linda's cup alone, and wrote her name on the form to say so. I will call all nine in the morning and offer their money back, and all nine will take it. That puts me a hundred and fifteen dollars under thirty thousand, and that is with every lane of the Open full. Page two refunds the Open in cash if weather stops play, so one storm puts me a good deal further under than that. I am agreeing to come in short, and I mean to make it up at the snack bar on Linda's day and the derby's Sunday, with nothing of yours in it."
 
 He offered her nothing. He had heard her swear to her daughter, the house and not the rest, and he put the pencil back in her box and his hands in his jacket pockets.
 
@@ -220,9 +218,13 @@ He unfolded the page and turned it round to face her. It was one sheet on Arlene
 
 "I'm asking you to sign it."
 
-She put on the reading glasses that hung from the black cord and read it once, top to bottom, and took them off again.
+She put on the reading glasses that hung from the black cord and read it once, top to bottom, and her eyes stopped under his name, where the lawyer had left a line for a notary and nobody had filled it.
 
-"You have asked an eighty-four-year-old woman to bet her bed on a hundred and fifteen dollars and a promise I made my daughter."
+"There is a line here for a notary. I will not send this to Concord and back through a lawyer's office with the time I have left. It goes as it stands."
+
+He nodded at it and no more. He had not looked under his own name.
+
+She took the glasses off. "You have asked an eighty-four-year-old woman to bet her bed on a hundred and fifteen dollars and a promise I made my daughter."
 
 "I know what I asked. I asked it at her table, with her ham on my plate."
 

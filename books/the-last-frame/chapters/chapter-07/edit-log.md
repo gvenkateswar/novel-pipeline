@@ -114,3 +114,11 @@ Six items, edited in place in `final.md`. Nothing else touched. **`wc -w final.m
 - **Ray's source clause cut:** "Same people that wrote my commitment" is gone. The Concord bank is still named. The reader knows it holds his commitment from Ch 06 and the Ch 01/04 plants.
 - **Continuity log:** the Ch 07 note quoting Ellen's three reasons should be updated to the shortened wording. "Verna's notice" is now "given after the half, and so without forfeit." New fact on the page: Ellen says "I still make the number. The Open carries it, and nothing else does." Ch 08 s4/s5 and Ch 09 must not contradict that she is still over the bar on Feb 2.
 - **Not done (outside the six items; listed for the next triage):** "Nothing moved in his face" (stock line), "in the voice she kept for the minutes" (third use), the 120-word desire run-on read aloud, the Dale-headlights motive, and "the sign" decoding in "The sign, Mrs. Daly."
+
+## Manuscript revision round 1 (Oct 29)
+
+Brief: `reviews/revision-brief.md`. Prose-writer, targeted. About 7 words cut (2,898 → about 2,891).
+
+- §3 ("did not raise his voice"): s2, Dale's use cut. "He did not turn to the room, and he did not raise his voice." → "He did not turn to the room."
+- §3 (same item, consequence of the cut): s2, Ray's use kept as the brief asks, with "either" dropped because the Dale line it pointed back to is gone. "Ray did not raise his voice either, and the room went quiet to hear him." → "Ray did not raise his voice, and the room went quiet to hear him."
+- §4 (ordinals): Ch 07's First/Second/Third stays, per the brief. §4 ("She said nothing to it" variants): "He gave her nothing to that" (s3) kept; the half that was cut is in Ch 06, 08 and 10.
