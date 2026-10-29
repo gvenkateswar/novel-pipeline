@@ -54,7 +54,7 @@ He turned with the pot and saw it in her hand, and he shut his eyes for a second
 
 He offered nothing past that, and she didn't ask again. A log, then: where they kept her and when, and the things about the case they never told a witness. She set the phone on the drainboard beside her father's razor and left the two of them there.
 
-He turned to the stove to pour, his back to her, and stayed that way longer than the pouring needed.
+He turned to the stove to pour, his back to her, and stayed that way after the mugs were full.
 
 "You're out of milk," he said, still pouring. "That much I can tell you."
 
