@@ -44,7 +44,7 @@ She looked down at the *North Reach* in the slip, white along the rails, with th
 
 The last of the light was going out of the harbor when Tess came down the granite pier with a clipboard under her oilskin, blowing from the hill.
 
-Beth was on the pier with a spare line, taking a second turn round an iron post. Below her the ferry lay in the slip with her bow shoved up under the bridge, the steel ramp the cars drove aboard on, hung from two towers. Every sea lifted the boat into it, and the bridge ground and knocked, a long iron groan, and again.
+Beth was on the pier with a spare line, taking a second turn round an iron post. Below her the ferry lay in the slip with her bow shoved up under the bridge, the car ramp on its two steel towers. Every sea lifted her into it, and it groaned.
 
 "Calloway. Net's tonight. Aboard or ashore for the roll?"
 
@@ -132,7 +132,7 @@ Dane looked at the chain. "Anyone with a skiff."
 
 "Nobody's coming over that stern in this."
 
-"I believe you." Dane said it politely, to the chain. "But the whole island's had her on this boat since the net. So tonight she isn't on it. Thank you, Captain."
+"I believe you," Dane said. "But the whole island's had her on this boat since the net. So tonight she isn't on it. Thank you, Captain."
 
 He went up the aluminum gangway, its wheels grinding on the granite each time the boat surged, and along the pier toward the road end, out of earshot.
 
