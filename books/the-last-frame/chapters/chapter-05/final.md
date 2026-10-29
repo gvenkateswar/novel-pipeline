@@ -170,7 +170,7 @@ She wanted it said in this room, to Denise, before it was said anywhere a hand c
 
 "I can subtract, I was in the third row, I watched eighteen hands go up and half of them belong to men who carry a ninety average and think their lineage pays for the lights," Denise said, "so I've got the number, and you're still standing, so there's more to it, and I'd like it before these get cold."
 
-"An Open," Ellen said. "Championship weekend, its own cup, anyone who pays may enter. The derby brings the whole lake to the town dock that weekend, and none of them has anything to do after the weigh-in. Without a name on it, that closes it with nothing over. Put Linda's name on it and the town comes out for Linda, and I have room for one bad thing."
+"An Open," Ellen said. "Championship weekend, all day Saturday, anyone who pays may enter. The derby brings the whole lake to the town dock that weekend, and none of them has anything to do after the weigh-in. Without a name on it, that closes it with nothing over. Make Linda's Memorial its final and the town comes out for Linda, and I have room for one bad thing."
 
 Denise put down the fry she was holding. "Don't you touch Linda's night."
 

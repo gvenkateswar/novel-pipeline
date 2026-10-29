@@ -111,3 +111,13 @@ Added life (paid for by the cuts above): s2, "She found she had no objection to 
 
 ### Pairing for the pipeline (a pair, not a new ban)
 - Stop: ending each romantic beat with a long and-chain in which her list collapses (Ch 01, Ch 03, Ch 05 originally). Do: change what the desire register breaks each time. This chapter it breaks the clock. Ch 10 might break neither, with her saying the plain sentence.
+
+---
+## Post-Ch 06 continuity edit (Oct 29, prose-writer, on orchestrator decision for Ch 06 issues.md Issue 1)
+
+One line in s4 changed so Ellen's plan to Denise is the outline's Ch 06 plan (the Open takes derby Saturday; Linda's Memorial becomes its final, open to anyone, for Linda's trophy). A separate cup arrives only in Ch 08, as Ray's condition. Same word count (wc -w of final.md unchanged).
+
+- Was: "An Open," Ellen said. "Championship weekend, its own cup, anyone who pays may enter. ... Put Linda's name on it and the town comes out for Linda, and I have room for one bad thing."
+- Now: "An Open," Ellen said. "Championship weekend, all day Saturday, anyone who pays may enter. ... Make Linda's Memorial its final and the town comes out for Linda, and I have room for one bad thing."
+- Nothing else in the chapter touched. Denise's "Don't you touch Linda's night." now answers the Memorial directly. No contractions added (her s4 register holds).
+- Flag for the orchestrator: `outline.md` Ch 05 Key events still reads "An Open on championship weekend with its own cup"; the outline's Ch 06 row, F10 and the bible's "The Open" entry agree with the edited line.
