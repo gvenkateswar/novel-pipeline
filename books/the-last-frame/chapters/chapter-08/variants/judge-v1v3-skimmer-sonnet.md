@@ -1,0 +1,13 @@
+A = chapters/chapter-08/variants/v1.md; B = chapters/chapter-08/variants/v3.md. Judge: Skimmer, Sonnet.
+
+1. **Winner: B**
+
+2. **Why:** Same chapter beat for beat, but B lets me move through the bowling match and the stakes without stopping, and A makes me wade through its longest sentences right where I was most tired.
+
+3. **Where A lost me:** the tenth-box paragraph, about 30% in. "...and stood at the line with it and looked down sixty feet of somebody else's maple to the near end of the lying pin, where its head touched the deck, and set his eyes there and kept them there and let the ball go easy..." It is one sentence that runs on for most of a paragraph. My thumb picked up speed at "and stood at the line with it" and I only slowed again at "cupboard coming down." Smaller skim at about 6%, "He gave the terms short, for the settee. If Ray took it, the Highway Department and the Legion went home to Kettle Lanes on Tuesday at the season rate...", which is a stakes ledger read out as narration. A has the same problem again in the signing paragraph at about 90%, "...steady as a good sweep setting down on its stop, the red gone out of her fingers now and the nails cut short and square, and he watched every letter of it...", though that one is at least a physical moment.
+
+4. **Where B lost me:** about 12%, "Lose, and her two teams stayed gone, and every dollar they took out of her winter moved her building a dollar nearer to him." That is bookkeeping explained to me after Dale has already done the sum aloud. B has a similar sentence in the signing paragraph at about 90%, "...and Arlene's bed going down onto the paper with every stroke, and his own name above hers coming loose from her building as she went." That is the book telling me what the signature means, and my thumb sped up there. Both are short, and neither is a place I'd quit.
+
+5. **Confidence: low.** The two are about 90% the same text, including the dialogue, the Arlene scene and the key at the end. My pick rests on B's tighter paragraphs and the small "Nobody on the rail clapped" beat after the winning shot. A's extra detail (the carpet with planets, Hollis asking in "exactly the same voice") is nice, but I'd skim it faster than B's cuts. Neither reads like A1 (procedure and codes, a couple doing business). Both have the contract-and-terms stretch with Ellen ("Linda's name comes off the Open... a hundred and fifteen dollars"), which is the closest either gets to a list. Both soften it with the pen and the glasses, so it is a wash.
+
+6. **Same-author check:** Yes. The scenes, most of the lines and the ending are the same. Only the sentence length and the amount of explaining differ.
