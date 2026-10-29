@@ -634,3 +634,200 @@ The tide question is now consistent: she guards nothing else from Ned in that sc
 - **R2-2:** they go to the float after learning a suspect has the time and watching the dragger move onto it.
 
 Round 1's blocking items 1–10 are all closed on the outline's own terms. Two of the fixes (Dane back inside for Finding 2; the dragger's move shown for Finding 4) opened the two new blockers. Each closes with a line of staging or one exchange. Twelve new non-blocking items (R2-3 to R2-14) go into the beats or the bible. R2-3 (the bus), R2-5 (the bar at low water), R2-6 (the tide clock), R2-10 (Beth's misreading of the seal) and R2-13 (the light's sightline) should be settled before the bible is built, because the bible records the facts they depend on. Fairness passes: a careful reader can name Ned at Ch 7 s3, two chapters before the reveal.
+
+---
+---
+
+# Round 3 — outline revision 3
+
+*Plot-auditor, Mode 1, October 28, 2026. Read: `outline.md` revision 3 (all 528 lines, changelog included), `docs/ai-fiction-tells.md` Part 7, and `story-bible-v1.md` again for the tides, the cottage and the Ashby layout. Rounds 1 and 2 above stand as the record. Same bar: a finding blocks only if question 2, 3 or 4 has no answer in the outline. Tides are worked from the verified Day 4 lows (7:10 a.m. and 7:35 p.m.), advancing about 50 minutes a day, with a range of about 9.5 feet and the rule of twelfths.*
+
+**A correction to my own round 2.** R2-6 said the tide at 5:50 a.m. on Day 7 is "about two-thirds ebbed." That was wrong, and revision 3 built on it ("two-thirds ebbed, the bar is shin-deep"). The working:
+- Day 7 high water is about 3:25 a.m. and low water about 9:40 a.m.
+- 5:50 a.m. is about 2 hours 25 minutes after high water, so roughly a third of the range has gone out and about two-thirds remains.
+- The bar is knee-deep at half tide, so at 5:50 a.m. it is about a foot and a half deeper than that: mid-thigh, not shin-deep.
+
+See R3-4. The error is mine, not the architect's.
+
+## R3 Part A. Round 2 items
+
+| # | Round 2 finding | Revision 3 answer | Status |
+|---|---|---|---|
+| R2-1 | Dane hears "Ned's color" while holding "red seal" | Both options: the tag line is said while the bell swings behind Dane; "red seal" reaches him only on Day 5, in the credit union's written report; the Ch 8 accountability line | **Closed** for Ch 3. The same channel reopens in Ch 8 s5 (R3-1) |
+| R2-2 | They go to a watched float | The ledge exchange (Day 9 at best; "We go down to look"; "I'll know before you do"); Russ kept off; the abort is now the plan | **Closed** |
+| R2-3 | The bus arithmetic | Replaced by the boat. The 2 p.m. is the only sailing; it lands at 2:45, and the yard is a mile away for a 3:30 viewing; Beth's ramp deal | **Settled.** The numbers work |
+| R2-4 | Ned's noon visit | Tess is on rounds; he lets himself in with his own key | **Settled.** But see R3-3: the alibi itself now contradicts Ch 4 |
+| R2-5 | Wet at dead low | The bar is dry; she wades the gut at its seaward end, waist-deep | **Settled.** The Ch 5 route has to skirt the gut (R3-4) |
+| R2-6 | The tide clock | Day 6 out and back on the lows; Day 7 "shin-deep" | **Day 6 settled.** Day 7 is wrong because of my error (R3-4) |
+| R2-7 | Said aloud in the store | The key handed over outside; the reasoning in her head | **Settled** |
+| R2-8 | Ned's Day 6 line | "They said they only wanted to watch you go." | **Settled** |
+| R2-9 | Shorts | The unit always ran and the weights didn't; Ned sees it dark on Day 0 | **Settled.** It also sharpens "I'll work it short": he would sail short-handed, against the very rule Beth cites at Pruett, to keep her off that deck. That is a fair flag |
+| R2-10 | Beth reads past "red seal" | "Bag: red seal"; she reads it as the fare bag | **Settled as a misreading,** but where it is said opens R3-1 |
+| R2-11 | Medevac | Dane won't call a graze in | **Settled** |
+| R2-12 | First try in the dark | Timed for first light; the walk down is dark for cover | **Settled** |
+| R2-13 | The light's sightline | The Cape turns its back steps to the harbor | **Settled.** Consistent with the v1 kitchen window over the harbor |
+| R2-14 | Ch 8's last image | "Ned always looks back." | **Settled.** It is now a consequence-type unease, not a soft beat |
+
+## R3 Part B. New findings
+
+### Blocking
+
+**R3-1. Ch 8 s5: Beth dismisses the red seal aloud, in front of the man holding the report that refutes her**
+**Where:**
+- Ch 8 s5 ("Her case for Tess: the light, the smoke… The red seal goes in a clause: the fare bag's always red");
+- the seal-tag section ("Building her case, she dismisses it in a clause: the fare bag is always red, and the teller saw the pouch's other bag");
+- the clue list, Ch 8 ("Beth's case for Tess, the red seal dismissed");
+- Ch 8 s3 (the condition: everything on paper about her, she reads; the order is off).
+
+**Fails:** Q3, the same investigative channel as R2-1, reopened four chapters later.
+Her case is built out loud, with Dane beside her. Since the Ch 8 condition, nothing stops him asking her about the bag. He holds the credit union's written report: the $9,000 came out of an envelope, and the envelopes ride in the store's bag. When Beth says "the fare bag's always red, the teller saw the other bag," Dane has the one fact that corrects her: "The envelope came out of the red one." He doesn't know yellow is the store's color, but she does. Two lines later the mystery is solved in Ch 8, a chapter before Ned's voice on channel 9. A competent deputy who "would still put Haskell on the list" and has just been told to keep nothing back would say it.
+**The architect must answer:** one of these.
+- (a) The dismissal happens in Beth's head, not aloud. She sets the line aside while reading the notebook alone in Ch 8 s5 or at the end of Ch 7. Dane never hears her misreading and has no reason to raise a color whose meaning he doesn't know. This is the cheapest fix.
+- (b) The credit union report doesn't tie the seal to the envelope's bag. For example: "Pouch: two bags, one red seal noted." Then neither of them can say which bag carried the money until Ned's voice.
+
+With (a), keep Dane's "I'd still put Haskell on the list" in Ch 9 s3, where it settles nothing.
+
+**R3-2. Ch 2 s5: after the dark pickup, Dane goes outside and then falls asleep, and Beth hears the door go quiet and waits twenty minutes**
+**Where:** Ch 2 s5, in this order:
+- 11:05, a pickup with no lights idles under the house and goes on;
+- 11:20, "he goes out to the yard for his call";
+- "She hears the mudroom door, which has knocked against its latch in every gust all evening, go quiet";
+- 11:40, "the latch lifts, sticks, lifts. She wakes him without a light."
+
+Also R2 Finding 18 / revision 2 ("Dane's call is from the back yard"), and R2-13 (the back door and back steps face the harbor).
+
+**Fails:** Q4 and Q5. Revision 3 adds a warning, and the protagonists act as if they hadn't seen it.
+- **Dane.** A protecting deputy sees a lightless truck scout the house at 11:05. He knows the house is supposed to look empty. Fifteen minutes later he leaves the witness alone to make a routine call. By 11:40 he is asleep. The safer options aren't weighed: stay inside and awake, move her, or call it in as an alarm.
+- **Beth.** The bible's own Sample 2 makes the quiet door the tell: "It wasn't tapping. Somebody was holding it." Beth hears it at 11:20 and does nothing until 11:40.
+- **Staging.** If Dane's yard is the back yard, it is the harbor side, which is where the back door is. Then Doucette is holding the mudroom door a few yards from an armed man.
+
+**The architect must answer:** three lines.
+- Why Dane goes out at all. The strongest answer is to report the truck: Pike has to hear about it, and the Iridium needs sky. He goes to the road side of the house, front yard, where he can watch the road the truck used, which leaves the harbor-side back door out of his sight. Say once why they don't move: a crippled boat everyone saw them leave, a storm, and the truck may be waiting on the road. Behind the chimney with the armed man is the defensible choice.
+- The quiet door happens while he is still out. She goes to the front door and gets him in without a light.
+- At 11:40 they are both awake behind the chimney mass when the latch lifts. Cut "she wakes him."
+
+That keeps the call-before-the-attack as a Dane clue and gives it a reason.
+
+### Non-blocking, ordered by cost to the reader
+
+**R3-3. Ned's alibi is contradicted by Ch 4**
+**Where:**
+- Ch 5 s1 (Tess: "I've been carrying his supper down since Saturday. He won't come off that boat.");
+- the Who-knew table, Day 4 row ("aboard at the pumps since Saturday");
+- Ch 4 s3 (Day 3, Sunday dusk: "Ned with diesel" at Ashby, where he says he's aboard till the barge);
+- Ch 3 s2 (Saturday: Ned at the store, walking them to the truck).
+
+**Fails:** Q1, with a fairness cost.
+The reader watches Ned come off the boat to Ashby on Sunday evening, then hears Tess say on Monday that he hasn't left it since Saturday. Either Tess is lying for him, which implicates her in a way the book never pays, or the alibi is visibly false at about 40%. A careful reader then concludes that Ned leaves the boat when he likes. With "Only place on the island it's a phone" in hand, that undoes the Ch 4–5 tilt away from Ned, which was the best piece of revision 2.
+**The architect should:**
+- Make the alibi start after the diesel run: "since Sunday night," and "He hasn't come off that boat since he brought you the diesel." The table row should read "aboard since Sunday dusk."
+- Make Ch 4 s3 the moment he says the pump is eating impellers and he's going back aboard till the barge. That is consistent with what revision 2 had.
+
+**R3-4. The tides around the bar and the gut**
+**Where:** Changelog R2-6 ("Day 7: at 5:50 a.m., two-thirds ebbed, the bar is shin-deep"); Ch 6 s5; Changes the bible must record, item 4; Ch 5 s2 ("the bar knee-deep, the gut where she found it"); Ch 4 s4 (the gut waist-deep at dead low).
+**Fails:** fact conflicts the bible will record.
+- **(a) Day 7, 5:50 a.m.** About a third ebbed. The bar is mid-thigh, not shin-deep (my round 2 error, above). Either:
+  - say the route from the fish house to the landing doesn't cross the bar at all. The v1 bible puts the fish house at the head of Calloway Cove, reachable by the cove road, and the bar between Ashby and the cove. If so, say what makes the shore lane low-water-only (ledges under the bank).
+  - Or accept a thigh-deep crossing in the dark before the landing. That is cold, wet and a cost.
+- **(b) The gut on Day 4 night.** If it is waist-deep at dead low, it is about seven or eight feet deep at half tide. "The gut where she found it" has to mean she found where it drops so they go around it. Say "she keeps them off the gut" in Ch 5 s2, or the escape is impossible.
+- **(c) The fish house route as a rule.** Before the bible records "never the road," decide whether the fish-house-to-town route crosses the bar. Then every trip in Ch 6 can be checked against one map.
+
+**R3-5. Beth has read "Log daily. Do not disclose to witness" and still takes his Ch 4 money questions as intimacy**
+**Where:** Ch 3 s1 (the screen, read aloud); Ch 4 s2 ("She tells him, thinking he wants to know her"); Ch 7 s3 ("The screen's 'Do not disclose' was this").
+**Fails:** Q5.
+On Day 2 she learns there is a daily log, ordered by Pike at "Q's" request, that she isn't to be told about. On Day 3 he asks her about money, her father's debts and how the bag moves, and she answers as if he were courting her. A competent heroine who has just thrown the screen at him wouldn't. The Ch 7 shock still works if what she misread was the log's subject, not its existence.
+**The architect should:** give her the misreading in one line in Ch 3 s1 or s4. She takes "log daily" as the protection log (movements, contacts, the threat) and "do not disclose" as case information kept from a witness. That is what she throws at him: "what don't I get told." Then the Ch 4 questions read as a man off the clock, and Ch 7 shows her the log was about her. Optionally, one beat in Ch 4 where she almost asks, "Is this going in your log?", and doesn't, because she wants the answer to be no.
+
+**R3-6. Whose truck?**
+**Where:** Ch 2 s5 (a pickup with no lights at 11:05); Ch 5 s2 (a pickup in the Ashby drive with its lights off); the clue list ("Doucette waiting for the yard to empty").
+**Fails:** Q1 and Q2.
+Doucette is a sternman off a Gloucester dragger. Revision 3 never says how he has a truck on the island. A reader will ask, and the bible has to know.
+**The architect should:** name the truck and use it.
+- v1's answer, the store pickup with its keys on the hook in Tess's office, is a strong two-way clue. It points at Tess (her truck, her hook) and at anyone with the run of the store, which includes Ned with his own key.
+- Alternatively, a summer person's truck taken from a shut garage. That is neutral.
+
+If it is the store's pickup, plant the hook in Ch 3 s2 beside Ned's phone, and pay it in Quist's line in Ch 10.
+
+**R3-7. The notebook's Day 5 entry and the time the credit union's report arrives**
+**Where:** Ch 7 s3 ("D5. Bag: red seal (CU written rpt). 0150 report. No indication."); Changelog R2-1(b) ("only on Day 5, in the credit union's written report").
+**Fails:** Q2, at low cost.
+As written, the written report and the 1:50 a.m. report share a line, so "red seal" reaches Dane at about two in the morning.
+**The architect should:** split it. "D5 0150 report. No indication." on one line. Then "D5 pm. Q: CU written rpt. Bag: red seal" on another, relayed by Quist on the ledge in daylight. The quote stays at four lines if the "every place" line is shortened.
+
+**R3-8. Day 6: where is Dane for twelve hours?**
+**Where:** Ch 6 s3 ("She goes out at the morning low to the pumps, and Ned has her all afternoon… Back at the night low").
+**Fails:** Q1.
+If Dane stays at the fish house, a witness crosses the island alone in daylight and spends twelve hours on the boat everyone knows, and Dane would refuse it. If he goes, the scene with Ned (the confession, the tide question) happens with Dane aboard.
+**The architect should:** put Dane aboard, on the brow or watching the pier from the wheelhouse, and send Beth below to the pumps with Ned. That is where the confession and the question happen, out of his hearing. Revision 1 had "while Dane watches the pier." One clause.
+
+**R3-9. Dane as a live suspect for the leak, not only as a betrayer**
+**Where:** Dane, "What points at him"; Ch 3 s1 (the screen shows his orders come from Pike); Ch 4 s1 ("Sold. Sorry." explains the thirty-one); the clue list's "Dane live until Ch 8 s3."
+**Fails:** Q9, against the outline's own claim. Not a hole.
+- **What clears him early.** The screen shows the reader by Ch 3 that he is working under federal orders. "Sold. Sorry." explains the money by Ch 4. A reader will treat Dane as a possible leak through Ch 4 at most, and after that as a possible betrayer: the log, the bar lie, the notebook. That is what the rupture needs, and it is enough for the genre.
+- **What keeps him live.** The stove and the yard calls stay unexplained until Ch 8.
+
+**The architect should:** either revise the claim to "a live leak suspect through Ch 5, a live betrayer through Ch 7," or keep one money thread open past Ch 4. For example, after "Sold," another text from a number she doesn't know, which in Ch 8 turns out to be Quist.
+
+**R3-10. Smaller things for the beats**
+- **Ch 2 s1.** Beth "watches through the glass" and hears "thirty-one" and "Monday, I'll see it Monday." Either the window is open a crack, or she hears it as he comes back in.
+- **Ch 3 s1.** Pike texts an order to an Iridium, and a careful deputy leaves the screen lit face up in the witness's kitchen. Give the lapse one beat of his own reaction, so it reads as a man who hasn't slept, not as a plot convenience.
+- **Ch 1 s2.** "You were told not to work." By whom? The police on her 1 a.m. call. One clause.
+
+## R3 Part C. Questions 6–9
+
+**6. Stakes curve.** Act 1 now costs Dane his viewing and Beth her exit and her home. Act 2a costs his boat, at noon in the store, for her, and that cost is on the page. The rest is as in round 2. Rising. **Pass.**
+
+**7. Subplots.** Four, none resolved by Beth. Dane's boat is a want, and he resolves it himself in the HEA with a worse boat. **Pass.**
+
+**8. Moral weight.** The same five condemnable choices. The tide question is consistent and costly, Quist's call is named, and Dane's noon choice in Ch 3 is a good counterweight. **Pass.**
+
+**9. Reader knowledge: the earliest a careful reader can name Ned.**
+- **Ch 1: suspicion.** "I'll work it short. Go home." is sharper now. He would sail short-handed against the manning rule Beth cites at Pruett, and the reader will hear it. It is a flag, not a solution, because Ch 6 explains it as shorts.
+- **Ch 2–3: three sources.** Tess saw the light, Ned was told, and Dane made the call. The tag line is planted with Dane outside.
+- **Ch 4–5: the tilt away from Ned holds only if R3-3 is fixed.** As written, the Sunday diesel run breaks the alibi at about 40%. Fixed, the Day 3 search and Tess's noon smoke still point at her.
+- **Ch 6: two readings each.** The shorts confession, the impeller box (Tess carried his supper; two pots on the page), the tide question, and the keys.
+- **Ch 7 s3: the naming.** "Red seal" against "Ned's color." **Earliest naming: Ch 7 s3, about 66%. Reveal: Ch 9 s4, about 85%. Two chapters. Pass**, if:
+  - R3-1 keeps the Ch 8 dismissal out of Dane's hearing. Otherwise the solve lands on the page in Ch 8, though for Beth rather than early for the reader.
+  - R3-3 is fixed. Otherwise a careful reader has Ned's broken alibi at Ch 5 and the phone at Ch 3, and can name him at Ch 5 or 6, three chapters early.
+- **The misreading in Ch 8 is fair to the reader.** It is on the page to be doubted, and a reader who remembers "Ned's color" will doubt it.
+- **Dane:** see R3-9.
+- **Fairness.** Nobody is introduced late, and the reveal needs no fact the page hasn't shown. The truck (R3-6) is the one object the page uses without a source.
+
+## R3 Part D. Part 7 checklist (`docs/ai-fiction-tells.md` Part 7)
+
+1. **Subplots: two or more, not all resolved by the protagonist.** Four, none resolved by Beth. **Pass.**
+2. **Escalation.** Rising (Part C, question 6). **Pass.**
+3. **Scene endings: more than one in four soft, or two in a row, means rewrite.**
+   - The chapter endings are now consequence, question, cut, consequence, reversal, cut, question, "open image with unease," consequence, open image.
+   - Ch 8's unease ("Ned always looks back") makes it a question-type ending, not a soft one. That leaves one soft ending, the last scene, which the genre allows.
+   - Scene-level types are still to be assigned in the beats. Ch 10 s4 must not go soft before s5.
+   - **Pass** at outline level.
+4. **Sentences that state the theme or a general truth about people.**
+   - **Cut, as asked:** "A man who wants to talk doesn't try doors" (now only "He said they wanted to talk to you"), and "Locked rooms get burned" (now "They burned Ashby").
+   - **Allowed as character lines with a person behind them:** "Ned always looks back" (a habit of one man, in Beth's head); "I want a boat I can't be called off of"; "She wants me alive long enough to be useful."
+   - **Planning language that must not reach the page as narration:** "the son who doesn't show up" (cut from the sample, but the bible may keep the marriage); "the competent person's mistake"; "a man being paid."
+   - **Trade truths, allowed:** "Steel doesn't burn. Everything in it does." and "Chimney smoke's people."
+5. **Moral choices.** Five. **Pass.**
+6. **Tag-stripped scene per chapter.** Not testable in an outline. The risks are unchanged:
+   - Ned and Beth, in Ch 8 s1 and Ch 9 s5;
+   - Pike and Quist.
+   - Add Russ and Ned in the store (Ch 9 s5), where both are old island men of few words.
+7. **Cross-chapter frequency.**
+   - **Hands are rested in Ch 4,** which is good. The remaining hand beats are in Ch 1, 3, 9 and 10, varied in form. Watch "palm flat": Ch 3's palm on the log is v1's tic. Use it once in the book.
+   - **Cold is varied.** Ch 5 s3 has steady hands on the first match. Good.
+   - **Tess looks straight at Beth in Ch 10.** Good.
+   - **New recurrence to rest: the yard call before an attack.** It happens on Day 1 at 11:20, on Day 2 when he makes his call where she can watch him, and on Day 5 at 1:50. That is the plot's pattern, and deliberate. Vary how each one is seen.
+   - **"Thirty-one" appears four times in Ch 1–3.** Rest it after Ch 3.
+8. **Timeline.** Linear and day-stamped; one overlap in Ch 9; jumps in Ch 10. The genre allows more, and none is needed. **Pass.**
+9. **Dreams and frames.** None. **Pass.**
+10. **Humor.** About eighteen planned laughs, at least one in every chapter; the boat adds three in Ch 1–4 ("To who?" / "To me." / "Less than you're paying"; "There goes my boat." / "It was never your boat."; her laugh at the photo). **Pass.**
+
+## Round 3 verdict
+
+**BLOCKED: 2 blocking items.**
+- **R3-1:** the red seal is dismissed aloud in Ch 8 s5 in front of Dane, who holds the report that refutes the misreading. Fix: keep the dismissal in her head, or blur the report.
+- **R3-2:** in the Ch 2 watch, after the dark pickup Dane goes out and then sleeps, and Beth waits twenty minutes after the door goes quiet. Fix: he goes out to the road side to report the truck, the door goes quiet while he's out, and both are awake at 11:40.
+
+R2-1 and R2-2 are closed. R2-3 to R2-14 are settled. The exception is R2-6's Day 7 depth: that was my own error, corrected in R3-4. Eight further non-blocking items (R3-3 to R3-10) go into the beats or the bible.
+- **Before the bible:** R3-3 (the alibi start), R3-4 (the bar, the gut and the route map) and R3-6 (the truck), because the bible records the facts they depend on.
+- **Fairness passes:** a careful reader can name Ned at Ch 7 s3, two chapters before the reveal, provided R3-1 and R3-3 are fixed.
