@@ -1,4 +1,4 @@
-# Audit — the-last-frame (chapters 01–03, 9,549 words)
+# Audit — the-last-frame (chapters 01–03, 9,538 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -104,7 +104,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Ch | Words | Mean sent. | SD | ≤5-word share | Codes/1k | Numerals/1k | ALLCAPS/1k | Max opener run | Flags |
 |---|---|---|---|---|---|---|---|---|---|
 | 01 | 3,271 | 19.8 | 18.7 | 18% | 0.0 | 0.9 | 0.0 | 2 | mean short |
-| 02 | 2,992 | 18.2 | 13.5 | 18% | 0.0 | 0.3 | 0.7 | 2 | mean short |
+| 02 | 2,981 | 17.9 | 13.2 | 19% | 0.0 | 0.3 | 0.7 | 2 | short |
 | 03 | 3,286 | 17.5 | 13.7 | 15% | 0.0 | 0.3 | 0.0 | 2 |  |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
@@ -120,7 +120,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 - quiet: 3 (0.3/1k)
 - humm?(ing|ed)?: 2 (0.2/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 22 (2.3/1k)
+- still(ness)?: 25 (2.6/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 0 (0.0/1k)
@@ -140,14 +140,14 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | Construction | 01 | 02 | 03 | Total | /1k | Cap | |
 |---|---|---|---|---|---|---|---|
 | as if / as though | 0 | 0 | 1 | 1 | 0.1 | 1.0/1k |  |
-| the way (a|the|people|someone) ... | 0 | 1 | 0 | 1 | 0.1 | 1/ch |  |
+| the way (a|the|people|someone) ... | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | the kind of ... that | 0 | 0 | 0 | 0 | 0.0 | 2/ch |  |
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 1 | 1 | 0.1 | 0.0/1k | FLAG |
 | sentence-initial And/But/And yet | 2 | 1 | 1 | 4 | 0.4 | 3.0/1k |  |
 | em dashes | 0 | 0 | 0 | 0 | 0.0 | 2.0/1k |  |
-| semicolons | 3 | 1 | 1 | 5 | 0.5 | 2.0/1k |  |
+| semicolons | 3 | 0 | 1 | 4 | 0.4 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 1 | 0 | 0 | 1 | 0.1 | 1.0/1k |  |
 | one-sentence paragraph | 6 | 23 | 21 | 50 | 5.2 | report |  |
 

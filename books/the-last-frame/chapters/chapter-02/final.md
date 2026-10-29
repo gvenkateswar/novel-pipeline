@@ -10,9 +10,9 @@ Ray watched her hand. It was square and plain and red across the knuckles from t
 
 "And here's the new owner up the middle, boys," Normie said into his cup, "and she's brought him something."
 
-Ray listened. He had it before it came round a second time. That was seven's clutch letting go and catching and letting go, and the knock was the sweep coming down on her before she was ready. She'd done that since the winter the Legion broke the ball return on four.
+Ray listened. He had it before it came round a second time. That was seven's clutch letting go and catching and letting go, and the knock was the sweep coming down on the machine before she was ready. Seven had done that since the winter the Legion broke the ball return on four.
 
-"Seven's clutch," he said. "She's slipping and catching, and the sweep comes down on her late, and that's your knock. She's sulking, is all. There's a spare on a nail behind seven with my writing on the tag."
+"Seven's clutch," he said. "She's slipping and catching, and the sweep comes down on her late, and that's your knock. Sulking, is all. There's a spare on a nail behind seven with my writing on the tag."
 
 She put on the reading glasses from the cord at her neck, took a pen from the cup on his counter without asking, and drew a small pad from her vest pocket. He had not wanted to watch anybody do anything in six years. He watched her write his answer down, the pen stopping hard at the end of each line, and he lost his count of the twenties. Her eyes went once past his shoulder to the clock over the key cutter, and came back.
 
@@ -46,11 +46,11 @@ She was gone before the bell stopped.
 
 \* \* \*
 
-The cylinder was half out of her front door, and Ray was on his knees on the vestibule mat with the door open to the lot. The wind off the lake found the gap at the back of his collar, and the building's heat met it at the sill, so he was cold behind and warm in the face. He reached into the bag for the flashlight.
+The cylinder was half out of her front door, and Ray was on his knees on the vestibule mat with the door open to the lot. The wind off the lake found the gap at the back of his collar, and the building's heat met it at the sill, so he was cold behind and warm in the face. A cup of black coffee sat on the sill where he would see it, and it was hot, which was more than the Bench's ever managed. He reached into the bag for the flashlight.
 
 It was already on, in her hand, aimed at his work.
 
-She held the light steady, which most people can't, and close, which most people won't, down beside him with her shoulder an inch off his, and her breath on the back of his wrist came warm and even, like the air off a motor that's been running a while. His hands stopped. He let them stay stopped, and she didn't move the light or say a word, and the only sound in the vestibule was the door glass ticking in its frame. When he went on, the light went ahead of his hands to the place they were going next, and was waiting there when they arrived.
+She held the light steady, which most people can't, and close, which most people won't, down beside him with her shoulder an inch off his, and her breath on the back of his wrist came warm and even. His hands stopped. He let them stay stopped, and she didn't move the light or say a word, and the only sound in the vestibule was the door glass ticking in its frame. When he went on, the light went ahead of his hands to the place they were going next, and was waiting there when they arrived.
 
 He pushed the plug out, and the old pins came into his palm, small and brass and worn bright at the tips by every key that had gone in and out of that door since before he could drive. The trash can was two feet from his knee. He tipped them into his shirt pocket and buttoned the flap.
 
@@ -64,7 +64,7 @@ So he told the lock. "Thing is, I'd buy this door off her, and the frame, and th
 
 The light didn't move. He sat back on his heels and looked up past it at her.
 
-"Arlene had this place listed two years," he said, "and the only other one who came up the drive was a fella from Concord who wanted the lot at land value, for condos. So she sold it to you over me. Then she came down to the store and asked me to sign behind you, in case you fell, and I signed, because she asked." He let that sit. "Now I'm asking you. Sell it to me now, every dollar back, closing costs and all. That's more than it'll appraise at, so the store goes up behind it. My father put it up once, in 'seventy-four, and I watched it nearly go, him out in the truck in the dooryard after dark with the engine off. The credit union sits tomorrow at five. I'm asking it once."
+"Arlene had this place listed two years," he said, "and the only other one who came up the drive was a fella from Concord who wanted the lot at land value, for condos. So she sold it to you over me. Then she came down to the store and asked me to sign behind you, in case you fell, and I signed, because she asked." He let that sit. "Now I'm asking you. Sell it to me now, every dollar back, closing costs and all. That's more than it'll appraise at, so the store goes up behind it. My father put it up once, in 'seventy-four, and I watched it nearly go, him out in the truck in the dooryard after dark with the engine off. I'll do it anyway, because I'd sooner have this place clean, with you saying yes, than cheap off your mistake. The credit union sits tomorrow at five. I'm asking it once."
 
 She didn't answer it. She kept the light on the open lock.
 
@@ -82,7 +82,7 @@ He waited for the rest of it.
 
 "I bought it to hear all ten going at once." The light stayed where it was. "Last night I heard nine."
 
-He put his hands back on the plug, took the next pin from the tray, gave it the small shake of the head he gave a man who wanted to rebuild a yard-sale snowblower, and set it.
+He put his hands back on the plug, took the next pin from the tray, and set it.
 
 Her phone went in her vest. She took it out left-handed and kept the light where it was, on his work.
 
@@ -114,7 +114,7 @@ She closed her hand on them, opened it, and counted with one finger. "Four."
 
 "You did. Now I have it twice."
 
-He got up off the mat, and the right knee clicked twice, which on a motor he'd have called a bearing. He picked up the bag. "Then I'll see you March first."
+He got up off the mat, and the right knee clicked twice. He picked up the bag. "Then I'll see you March first."
 
 "You'll have your answer before your committee sits."
 
@@ -146,7 +146,7 @@ She hadn't raised her voice. It came down sixty feet of maple and under the mask
 
 "It's eleven minutes past ten."
 
-"She can hear you, you know, and she'll go slower out of spite."
+"Seven can hear you, you know, and she'll go slower out of spite."
 
 "Then I'll tell it the time as well."
 
@@ -166,7 +166,7 @@ He had the new clutch on and the belt back over it, and he ran her, and the warm
 
 "Throw a box," he called.
 
-Her first ball came down slow enough that he could have read the maker's name on it. Two-thirds of the way down it wobbled, like it had changed its mind, then went on and took the ten pin out of the far corner and nothing else. After her third the sweep came down on time and seven set clean, with no knock under it, and he heard it was right the way you hear a door shut true.
+Her first ball came down slow enough that he could have read the maker's name on it. Two-thirds of the way down it wobbled, like it had changed its mind, then went on and took the ten pin out of the far corner and nothing else. After her third the sweep came down on time and seven set clean, with no knock under it, and it sounded right to him.
 
 "Again," he called.
 
@@ -210,17 +210,13 @@ She came down the center aisle and stopped across the counter from him. She took
 
 She looked up at the clock, and he looked up with her.
 
-The key opened her front door. It opened it at any hour, with no knocking on the glass and nobody coming down through her dark building to let him in. That was the trouble they had stood at her back door over last night, and she had settled it without asking him for a thing.
+The minute hand stood on the fifty-nine with a minute still to run, and under the store lights the key lay bright as a new washer, the brass still raw from his wheel, an inch from Danny's name on the last line of the form. He did not pick it up. He read the loan officer's number on the slip beside the phone, all ten digits, and read them again. The phone sat a foot from his right hand, and his right hand stayed on the edge of the counter. Under his left the corner of the form had gone damp and begun to curl against his palm, and he pressed it flat.
 
-The building stayed on her side of the counter. She was letting his one ask run out on his own clock, in his own store, with the Bench watching her do it, and that was the answer she had promised him before his committee sat, and it was a no to selling.
+He tried to keep the seconds the way he kept the twenties, in tens, and lost it somewhere past forty and began again, and lost it again. The coffee pot ticked on its plate. Normie's cup stayed on his knee. Over by the register the plastic of the rock salt bag gave one small crackle in Danny's arms and went still.
 
-Whether it said anything past the door he could not read. He looked at the key, and it told him what a key tells anybody, and he stood there wanting it to tell him more.
+He could ask her again. Yesterday on her mat he had told her he would ask once. He had sworn, the winter his father sat out in the truck, to put the store up once in his life and never twice. His left hand stayed flat on the form.
 
-Nobody had put a thing on this counter for him without his asking since Linda.
-
-The phone was a foot from his right hand, with the slip beside it, and there was a minute left on the clock, and he could ask her again. Yesterday on her mat he had told her he would ask once. The store he would not ask twice; he had sworn that the winter his father sat out in the truck, and he had held to it every winter since. His left hand stayed flat on the form.
-
-Ray watched her watch the clock. Her face was as calm as any face he had seen across this counter, and her breathing was wrong for it. It came short, and held, and let go, and held again, and he heard it the way he heard a machine from the lot when she was about to go, one small wrong beat under a sound that was otherwise fine. Her bare hand lay on the counter an inch from the key. It did not move, and neither did his.
+Ray watched her watch the clock. Her face was as calm as any face he had seen across this counter, and her breathing was wrong for it. It came short, and held, and let go, and held again, and he heard it the way he heard a pinsetter from the lot when a clutch was about to go, one small wrong beat under a sound that was otherwise fine. Her bare hand lay on the counter an inch from the key. It did not move, and neither did his.
 
 The minute hand jumped to the twelve.
 
