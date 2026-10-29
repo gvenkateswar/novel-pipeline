@@ -510,6 +510,31 @@
 - No more "which…" tails on Dane's lines (Ch 09 used the last). Tag less in two-handers than Ch 09 did.
 - "Something low alongside the port quarter" in Ch 09 s4 is unpaid. Pay it in one line or let it stand as the water-side approach.
 
+## Chapter 10 — First Boat
+*From `chapters/chapter-10/final.md`, Oct 29, 2026: 3,181 words (`wc -w`, heading included). Six scenes. Cold read (`chapters/chapter-10/reader-notes.md`, read final.md at 3,168 before triage): 4 / 3 / 3 / 4 / 3 / 4, average 3.5, no stop, no boredom flag above the scores. "The ending pays for the book, but doesn't overpay." Book 2: "maybe" (yes if Beth and Dane; the hook is soft and the book ends at rest). Orchestrator triage: the deputies sent back to sit in her front yard (so Dane can be at her door Saturday night), Kenny back over on the Marine Patrol boat, "She had a minute yet before the wheel" before the last line, a stray "since she was twenty-two" cut.*
+
+**What happened:**
+- **S1, Saturday (Day 9), a little before eleven, the town landing.** Dane's wound reopened and re-closed by the EMT; nothing broken; he can't close the left hand. The dragger stopped past the outer ledges with the Coast Guard alongside; the skiff towed off the quarter ladder. Dane hands over his gun on the ramp in front of her and goes down with two relief deputies. Ned in cuffs: "The wheelhouse key's on my ring. She'll want it." "Take her across tomorrow." "Put my name in." / "You put it in. Tell the district I said so. My saying so won't carry what it did."
+- **S2, noon, Marr's.** Quist reads Ned's statement ("The captain states that at noon on Monday…": the impeller with the Marr's sticker, the spare key off the hook, the truck both nights, Ned's key to the float-light box lent, the Calloway kitchen door, "Lift it and lean on it"). Russ's bucket in Quist's hand. Tess's gray ledger: two years of the *Margaret Ann*'s night fuel paid in hundreds, Arsenault's words copied in the margins (the Tuesday margin pays Tess's hand note). Quist's one swear and "fentanyl." "You put my name in." / "Yes." / "I sold you condoms." Tess refuses to forgive Beth, then: "Tell him yes."
+- **S3, Saturday night, Beth's house (the third love scene).** The deputies in the front yard; Dane up the back steps. She lights the kerosene lamp in the window for him, and so the store can see it. Her father's sweater. In full light she sees the old white scars on his right knuckles. "Look at me." / "I am." "You're sure. About the window." / "Leave it." "Deputies'll hear." / "Beth." His staying line: "When Portland's done with me, I'm coming back to this island. However long they take. I'd like to come back to you." "I love you." "Since when?" / "You jumped."
+- **S4, Sunday (Day 10), the wheel.** Quarter to six; she cleans Ned's smears off the windows, checks the forward repair by hand, takes the *North Reach* off the stone pier with Kenny on the lines ("Single up"), makes the Pruett gust correction before it hits; nobody beside her to make it after her. "Don't fix it." Kenny: "Who's taking her home?"
+- **S5, Monday the 23rd, Portland.** Pike: "Did they have his book?" The grand jury returns the indictment; Pelletier stays in. "Ms. Calloway" (seventh).
+- **S6, December 18, Dane's POV.** Beth asked the district for the boat herself. *Pier Pressure* on a trailer behind Russ's truck on the car deck; Dane has started sanding the transom. "She had yet to take one of his bets." "Dollar says you started sanding it." / "You can see it from there." / "I can." He took the bet anyway. Russ: traps out by Tuesday, Quist's task force, Dane's referral in Arlington (the Book 2 hook). The last binder; her hand over his; the bow ramp rising, the gap of black water opening.
+
+**Plants closed:** all reserved items spent (see `chapters/chapter-10/issues.md`). Let stand or retired: Ned's phone on Tess's shelf, the afterdeck man turning toward Russ, the handprint in the frost, the heater-grille glance, Dane's cuff over the tag, the credit-union seal chain (plot auditor).
+
+**Spent words (final):** "Goddamn" 1; impeller 6 of 6; "Dollar says" 4 of 4; "the right boots" 1; "fentanyl" 1; "Agent Quist" 1 of 3; bucket 2 of 3; ham 4 of 5; "Ms. Calloway" 7 of 8.
+
+**For the manuscript stage (from the Ch 10 read and check):**
+- The series hook is soft and the book ends at rest. Strengthen the hook without cheating the HEA.
+- Every planted object returns in Ch 10 at once ("a checklist being closed"), with six scene-ending buttons in a row.
+- Supporting cast (Ned, Tess, Russ, Quist) share one clipped coastal register; only Dane is built differently.
+- Quist reading Ned's statement aloud to a witness across her counter strains belief; the grand jury happens offstage in summary.
+- The bedroom scene still shares the Ch 05/06 build (consent beat, logistics beat, dissolving run-on).
+- Tess sat on her ledger all week while Beth was shot at; the book lets it slide. Tess's forgiveness of Beth is raised and dropped.
+- Why Beth skips Pike's Saturday lifeboat.
+- Plot auditor: Ned's float-light key, how Tess learned Beth named her, Tess's second gray book, the grand jury sequence, the grid-return time, the boat trailer against the certificate.
+
 ## Plant ledger
 | Plant | Placed Ch | Pays off Ch | Status |
 |---|---|---|---|

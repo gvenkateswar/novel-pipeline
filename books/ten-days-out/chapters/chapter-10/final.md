@@ -82,7 +82,7 @@ Tess kept her eyes on Beth.
 
 * * *
 
-He came up the iced back steps from the harbor side, out of sight of the deputies in the front yard. Beth had the door open before he knocked.
+He came up the iced back steps from the harbor side, out of sight of the two deputies Portland had sent back to sit in her front yard tonight. Beth had the door open before he knocked.
 
 He had no gun on his hip.
 
@@ -176,11 +176,11 @@ He turned his head on the pillow. "I love you. I've been wrong about you every s
 
 * * *
 
-At quarter to six the wheelhouse heater was blowing and the windows were black. Beth took a dry dish towel to Ned's smears and worked them pane by pane until the windows were clear, the first time since she was twenty-two.
+At quarter to six the wheelhouse heater was blowing and the windows were black. Beth took a dry dish towel to Ned's smears and worked them pane by pane until the windows were clear.
 
 Then she went down to the forepeak with a flashlight. The inspector's temporary repair sat forward where the frames came together, and she put her hand on it, cold and dry. The pump was quiet.
 
-Kenny was on the lines, back over on yesterday's boat and still gray from the flu that had kept him ashore all week. The two of them were the whole crew the certificate asked for. Islanders came aboard over the temporary ramp with their bags and their dogs. Up the road the store's front window was lit, and nobody stood in it.
+Kenny was on the lines, back over from Pruett on the Marine Patrol boat and still gray from the flu that had kept him ashore all week. The two of them were the whole crew the certificate asked for. Islanders came aboard over the temporary ramp with their bags and their dogs. Up the road the store's front window was lit, and nobody stood in it.
 
 Dane stood on the car deck among the foot passengers with the empty sleeve pinned, looking up. She could see him through the windows she had cleaned.
 
@@ -248,6 +248,6 @@ She came to the transom and stopped where she could see the letters, half of the
 
 He took the bet anyway, knowing he'd lose it, and paid her a dollar out of his pocket. She folded it once and put it in her back pocket with Ned's gloves.
 
-The last binder was on the trailer chain. He took it up with his good hand, the bad one helping where it could, and stopped short of the last quarter turn because the arm had nothing left and he had no wish to say so. Beth put her hand over his and gave it the quarter turn, her hand cold, and left it there.
+The last binder was on the trailer chain. He took it up with his good hand, the bad one helping where it could, and stopped short of the last quarter turn because the arm had nothing left and he had no wish to say so. Beth put her hand over his and gave it the quarter turn, her hand cold, and left it there. She had a minute yet before the wheel.
 
 Up forward, at the controls, the deckhand started the bow ramp up on its hydraulics, the sodium light narrowing on the steel as it rose, the gap of black water opening between the boat and Pruett, her hand still on his on the binder.
