@@ -6,11 +6,11 @@ Beth keyed the wheelhouse set on sixty-eight.
 
 She keyed off and turned the squelch down a hair.
 
-The carrier opened and hissed, and nothing came down it. Tess answered everything on the net at once, in headlines. The hiss ran on. Behind it, faint, a pot lid went down on a stove.
+The carrier opened and hissed, and nothing came down it. Tess answered everything on the net at once, in headlines. The hiss ran on. Behind it, faint, the store door's bell rang once.
 
 "All right, Calloway," Tess said.
 
-Beth hung the mic up. Cold came off the windows onto her face. Below her the floods lit the car deck, two trucks chained in their light, and up the Harbor Road, past the store, Tess's kitchen window was lit.
+Beth hung the mic up. Cold came off the windows onto her face. Below her the floods lit the car deck, two trucks chained in their light, and up the Harbor Road the store's lights were going off one window at a time.
 
 Dane had sat at the chart table in the dark for every word of it.
 

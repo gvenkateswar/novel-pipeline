@@ -218,11 +218,15 @@ The juror nearest her uncapped a pen.
 
 Out in the corridor the stone floor gave the sound of her good shoes back to her. After eleven days of cold the radiators had the air hot and dry. By the tall window a woman in her fifties got up off the bench, and Beth knew Pike by the voice before the face.
 
-"They've voted it. It goes up to the magistrate this afternoon. With an indictment there's no preliminary hearing, so Pelletier stays held."
+"They've voted it."
+
+"Pelletier," Beth said.
+
+"Stays where he is."
 
 "The truck."
 
-"Troopers on Route One found one brick in the bottom of a crate. The rest was gone before they stopped him. Without you it's one brick."
+"Troopers on Route One found one brick in the bottom of a crate," Pike said. "The rest was gone before they stopped him. Without you it's one brick."
 
 Beth put her coat on. She buttoned it wrong and did it again.
 
@@ -230,7 +234,7 @@ Beth put her coat on. She buttoned it wrong and did it again.
 
 "Yes. He told me you'd ask. He wanted you to hear it from me first."
 
-"Where is he?"
+"Where is he?" Beth said.
 
 "Upstairs with the people from Arlington until they're finished with him. When they're finished he's on leave. Where he spends it is his business."
 
