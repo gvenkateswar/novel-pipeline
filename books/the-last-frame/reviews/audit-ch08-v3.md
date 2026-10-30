@@ -1,4 +1,4 @@
-# Audit — the-last-frame (chapters 01–08, 24,866 words)
+# Audit — the-last-frame (chapters 01–08, 24,867 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -84,6 +84,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 6× “the scorer's table”
 - 6× “the first time”
 - 6× “all ten lanes”
+- 6× “the first of march”
 - 5× “the steel door”
 - 5× “let go of”
 - 5× “under the register”
@@ -97,7 +98,6 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 5× “linda's name on”
 - 5× “at the far end”
 - 5× “end of the counter”
-- 5× “the first of march”
 - 4× “the front door”
 - 4× “on march first”
 - 4× “the inner door”
@@ -143,7 +143,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 05 | 2,905 | 18.5 | 12.4 | 13% | 0.0 | 0.3 | 0.0 | 4 | mean openers |
 | 06 | 3,041 | 17.3 | 11.7 | 14% | 0.0 | 0.3 | 0.0 | 2 |  |
 | 07 | 3,193 | 17.0 | 12.3 | 14% | 0.0 | 0.3 | 0.3 | 4 | openers |
-| 08 | 3,226 | 16.6 | 11.0 | 15% | 0.0 | 0.3 | 0.0 | 3 | short |
+| 08 | 3,227 | 16.7 | 11.1 | 16% | 0.0 | 0.3 | 0.0 | 3 | short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -158,7 +158,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 - quiet: 11 (0.4/1k)
 - humm?(ing|ed)?: 2 (0.1/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 57 (2.3/1k)
+- still(ness)?: 59 (2.4/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 0 (0.0/1k)

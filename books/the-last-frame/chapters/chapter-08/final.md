@@ -1,6 +1,6 @@
 # Chapter 8: Position Relief
 
-The sweep motor on lane three hung half out of its bracket, and Ray had the first brush worked loose and was blowing the dust out of its holder, with Hollis holding the flashlight and the league clipboard clamped under his other arm. The house past the masking was lit end to end with nobody bowling in it yet. Hollis had phoned the store at five and let him in the back from inside, and that was all the asking there had been on either side. Ray had quit her league on Tuesday, in front of everybody who mattered to it. He still didn't leave a machine down on a league night, whoever's it was. Quitting hadn't changed that, though he'd had some hopes, and Hollis knew it, and had dialed accordingly.
+The sweep motor on lane three hung half out of its bracket, and Ray had the first brush worked loose, with Hollis holding the flashlight and the league clipboard clamped under his other arm. Hollis had phoned the store at five and let him in the back, and that was all the asking there had been on either side. Ray had quit her league on Tuesday in front of everybody who mattered to it, and he still didn't leave a machine down on a league night, whoever's it was. Quitting hadn't changed that, though he'd had some hopes, and Hollis knew it, and had dialed accordingly.
 
 Her voice came down sixty feet of empty lane to him through the gap under the masking, from the phone at the counter. It carried without being raised, and always had.
 
@@ -8,7 +8,7 @@ Her voice came down sixty feet of empty lane to him through the gap under the ma
 
 She said it to the caller as plainly as she'd give out a lane number. A pencil went, he'd guess, and then: "A team from Lewiston. Spell it for me?"
 
-The phone went down and rang again before he had the second brush out, and she said it again, the whole of it, Linda's first name and her married one and the word Memorial after them. Somebody from away would write it on whatever was handy and drive in from Maine to bowl under it. She had been saying it every few minutes since he came in the back. He had not said his wife's whole name out loud in one breath since the funeral home, where a fella in a gray suit had needed it for a form. Here it came down lane three in that voice, with the next caller already waiting. Linda had driven to Lewiston for opens in a Buick with a heater that worked when it felt like it, and come home with cups. His hands stopped on the bracket. Hollis's light held where it was, and after a while the hands went on.
+The phone went down and rang again before he had the second brush out, and she said it again, the whole of it, Linda's first name and her married one and the word Memorial after them. She had been saying it every few minutes since he came in the back. He had not said his wife's whole name out loud in one breath since the funeral home, where a fella in a gray suit had needed it for a form. Linda had driven to Lewiston for opens in a Buick with a heater that worked when it felt like it, and come home with cups. His hands stopped on the bracket. Hollis's light held where it was, and after a while the hands went on.
 
 He got the second brush out, worn down short on the one side, and was fitting the new pair when the phone rang.
 
@@ -20,7 +20,7 @@ He could have given her Gil's half himself. Gil had said it at every open since,
 
 The receiver went down and came straight back up. "Judy, the indoor day comes to Saturday with the Open, and the club's fee with it. It uses the snack bar and the settees, the weigh-in board and the raffle. It doesn't take a lane. Sunday stays empty."
 
-Hollis chaired the derby. He kept the light on the brushes. "She's had my yes."
+Hollis chaired the derby. He kept the light on the brushes. "Judy's had my yes since the ice."
 
 Then he took the light off the motor and put it in Ray's face.
 
@@ -108,13 +108,13 @@ Ray laid Gagnon & Son's entry for Linda's Open on her counter, Tuesday the ninth
 
 Her eyes went past him to the settees.
 
-He turned round with his back to her counter and faced the house. League night meant the Highway crew with their hoods still up from the trucks and a Legion man on lane three heckling his own warm-up ball. The settees were full of wives and coats and somebody's grandson asleep across a bowling bag. Verna had her binder open at the scorer's table on lane one, and down at six sat Hollis, with the clipboard. The noise of a whole house warming up began to come off a table at a time, nearest first, as people saw who was standing there.
+He turned round with his back to her counter and faced the house. The Highway crew had their hoods still up from the trucks, a Legion man on lane three was heckling his own warm-up ball, and somebody's grandson was asleep across a bowling bag on the settees. Verna had her binder open at the scorer's table on lane one, and down at six sat Hollis, with the clipboard. The noise of a whole house warming up began to come off a table at a time, nearest first, as people saw who was standing there.
 
 He had the words he'd said to her at the door, exact, and they would hand this room her night at two in the morning, which was hers. So he'd have to say it plain, with nothing in front of it to stand behind. Every time he'd stood up in this building there had been somebody else's name to stand behind, the league's or the old teams' or Linda's. He hadn't asked this league for anything since 'ninety-six.
 
-His hand went up to his ear for the carpenter's pencil, found it, and came down empty. At the far end a pinsetter finished its cycle and shut off, and he knew without looking it was nine, by the sound of the sweep. At his back he could hear her not writing.
+His hand went up to his ear for the carpenter's pencil and came down empty. At the far end a pinsetter finished its cycle and shut off, and he knew without looking it was nine, by the sound of the sweep. At his back he could hear her not writing.
 
-And the word was cruel. Short, he could have said, or sore, or out of line, and the room would have taken any of those and handed him a ball. Cruel they'd have to sit with. He had looked for a softer word that was true, and there wasn't one.
+And the word was cruel. Short, he could have said, or sore, or out of line, and the room would have taken any of those and handed him a ball. Cruel they'd have to sit with. He had looked all week long for a softer word that was true, and there wasn't one.
 
 "I was cruel to Mrs. Daly on purpose," he said, and one of the Highway crew pushed his hood back and left it down. "And I walked out on you to make her watch."
 
@@ -146,9 +146,9 @@ Ray took a ball off the rack between five and six, the first one his hand came t
 
 \* \* \*
 
-The steel drawer of the office desk ran out on its rollers, and Ellen came back through to the counter and laid the paper between them. The building was shut for Presidents' Day, and the front door stood unlocked at ten because she'd said it would. This was the release. His signature from January sat alone on the first line, and the two lines under it were blank. It had lain in her drawer since then and done nothing by itself, which was about what he'd have expected of paper.
+The steel drawer of the office desk ran out on its rollers, and Ellen came back through to the counter and laid the paper between them. The building was shut for Presidents' Day, and the front door had been unlocked at ten because she'd said it would. It was the release. His signature from January sat alone on the first line, and the two lines under it were blank. It had lain in her drawer since then and done nothing by itself, which was about what he'd have expected of paper.
 
-"If you come back, you come back beside me," she said. "I'll sign Arlene's paper, and I'll tell her myself. Your son won't take the store while you're standing behind me. Your no was worth nothing while you were my buyer. March first is too late for both. In January I'd have been signing her bed away on a winter I was losing. With Linda's name on it, it's a winter I'm winning, if every lane fills."
+"If you come back, you come back beside me," she said. "I'll sign Arlene's paper, and I'll tell her myself. I could keep you in my drawer till the first of March and tear you up the morning I clear. Then on her Saturday you'd still be the man who buys if I miss, and every entry you took at my counter would be Normie's to talk about. I want you running her day beside me. Your son won't take the store while you're standing behind me either. In January I'd have been signing her bed away on a winter I was losing. With Linda's name on it, it's a winter I'm winning, if every lane fills."
 
 "I gave you her name, and the building with it," he said. "That's not enough?"
 
@@ -156,13 +156,13 @@ The steel drawer of the office desk ran out on its rollers, and Ellen came back 
 
 He heard the chair go back on the dry floor that night, and his own voice over it. "Then I'll choose it, on a Monday, with nobody in the room. Linda's name on your Open, and my name off your paper. I'd like both."
 
-"The credit union's held me a loan since December," he said, "on the form Danny signed, to buy this place at appraisal if you missed. I never told you that. I'll phone them tomorrow and let it go."
+"The credit union's held me a loan since December," he said, "on the form Danny signed. I sent it through the Thursday after you put that key on my counter, to buy this place at appraisal if you missed. I never told you that. I'll phone them tomorrow and let it go."
 
-Ellen folded the paper and took her coat down off the office door, and dialed Arlene from memory. "We're on our way down."
+Ellen gave him the look she gave a number that had come out other than she expected. Then she folded the paper and took her coat down off the office door, and dialed Arlene from memory. "We're on our way down."
 
 She followed his truck down in her own car, past Gagnon & Son, where Danny was alone behind the counter with a line for ice cleats.
 
-Arlene was at her table, the boxes taped shut along the wall and her coat over the back of her chair. The radiator was banging like it had heard the news and had views on it. Ellen didn't sit. She put the paper down in front of Arlene.
+Arlene was at her table, the boxes taped shut along the wall. The radiator was banging like it had heard the news and had views on it. Ellen didn't sit. She put the paper down in front of Arlene.
 
 "With every lane of the Open full, I clear by six hundred dollars. One storm takes that."
 
@@ -190,7 +190,7 @@ Arlene nodded once.
 
 Arlene drew the paper to her and pulled the table drawer open: string, rubber bands, a ledger pencil. "I'll sign it, dear, and keep it in my drawer till the count."
 
-"Then he's behind me till March with his hand on your drawer," Ellen said. "Today, or not at all."
+"Then he's behind me till March with his hand on your drawer," Ellen said, "and on Linda's day he's still the man who buys if I miss. Today, Arlene. I know what I'm asking."
 
 Ray added nothing. Arlene pushed the drawer shut and watched it go all the way.
 
@@ -198,13 +198,13 @@ Ray added nothing. Arlene pushed the drawer shut and watched it go all the way.
 
 Ellen found something to study on the radiator.
 
-Ellen took her own pen out of her vest and signed standing, on the second line. Arlene signed last, once, sitting, and capped the pen and handed it back to Ellen. Ellen folded the paper on its creases and put it in Ray's hand.
+Ellen took her own pen out of her vest and signed standing, on the second line. Arlene signed last, once, and handed the pen back. Ellen folded the paper on its creases and put it in Ray's hand.
 
-Ray went down first. The stair was steep and narrow under one bulb, and with the pharmacy shut the cold came up it from the side door at the bottom.
+Ray went down first. The stair was steep and narrow under one bulb, and the cold came up it from the side door at the bottom.
 
-He was clean out of her paper now, and at six tomorrow it would go on the store counter beside Danny's envelope.
+He was clean out of her paper, and at six tomorrow it would go on the store counter beside Danny's envelope.
 
-This morning he had ordered the K from Laconia at his own quote, on Gagnon & Son's account, billed to him the first of March, and he hadn't told her. She'd said "beside me" at her counter, and it had seemed a poor time to bring up one letter of a sign.
+This morning he had ordered the K from Laconia at his own quote, billed to himself the first of March, and he hadn't told her. She'd said "beside me" at her counter, and it had seemed a poor time to bring up one letter of a sign.
 
 Halfway down she stopped above him.
 
