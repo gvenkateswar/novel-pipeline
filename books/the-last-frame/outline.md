@@ -1,153 +1,190 @@
-# The Last Frame — Chapter Outline, v2 rebuild (revision 3.1)
+# The Last Frame — Chapter Outline, v3 (Ch 04–10 and epilogue rebuilt against the reader calibration)
 
-*Story-architect, October 28, 2026. Revision 3 passed the logic gate (0 blocking). Revision 3.1 closes the seven remaining non-blocking items from `reviews/outline-audit.md` without restructuring: the check's source, a single reconciled set of figures, what the walkout costs, the Memorial format, the Ch 1 doorway line, the condo man's offer, and Ellen's co-signature as a condemnable choice. Built against `genre-maps/romance.md` and the brief's "v2 rebuild settings". Keeps the premise, cast names, town, candlepin and verified research from `story-bible-v1.md`.*
+*Story-architect, October 30, 2026. The author asked for this rewrite. Built against `docs/reader-calibration.md`, `genre-maps/romance.md` (Conflict between the leads, the one-talk test, the positions table), `book-brief.md`, the passed page of Ch 01–03, `story-bible.md` (read, not edited), the v2 reader notes (`manuscript-reader-notes-r1.md`, `reviews/pull-curve.md`, `reviews/manuscript-audit.md`) and v2's `chapters-v2/chapter-10/final.md`. Ch 01–03 entries are copied unchanged from `outline-v2.md`; each has a v3 note listing payoffs that moved. Replaces outline revision 3.1 (archived as `outline-v2.md`). Goes to the plot auditor next (logic gate).*
 
-*Inputs note: `research/comps-angle-1.md` and `comps-angle-2.md` in this folder belong to other books and were not used.*
+*Inputs note: `research/comps-angle-*.md` in this folder belong to other books and were not used. The reader complaints used are the v2 reader files above and the calibration.*
 
 ---
 
 ## Open for the author
 
-Each item is closed in the outline but needs the author's yes, because it changes a v1 approval or makes an exception to the brief.
+Each item changes an earlier approval. Defaults are in Author decisions at the end.
 
-1. **Ray's "first crack" becomes a backup sale contract that Ellen herself signed.** Arlene would carry the $250,000 only if the buyer also signed a contract to sell the building to Ray on March 1 at appraised value, if the refinance hadn't funded by then. Ellen signed it at the Dec 1 closing; it was the price of the note. Ray signed as buyer and keeps a lender commitment good through March 1. This replaces the recorded right of first refusal. Releasing the contract needs all three signatures (Ch 8). **Default: yes.** The domain-checker must confirm plausibility in NH. Fallback: an option agreement Ellen grants Ray at closing, exercisable March 1 on default.
-2. **Ellen closes the last gap with her own savings.** $8,800 of her $14,000 emergency savings, paid onto the note at closing, lowers the bank's required number by $1,100, to what the winter made. The bank requires the winter's cash to stay in the account at closing (planted Ch 2, restated Ch 10), so the paydown has to be new money. She keeps $5,200. **Default: yes.** The domain-checker must confirm the paydown effect on the coverage bar and a same-day wire from savings.
-3. **No ownership stake for Ray, kept** from v1 author decision 5. He never puts money in.
-4. **Exception to the brief: one withheld fact.** Ellen keeps from Ray that she watched him miss "unless the numbers say otherwise" from Ch 3 (Dec 17) to Ch 7 (Feb 2), and lies about it to his face in Ch 6. The reader knows throughout; it's dramatic irony and the book's central wrong. Otherwise the brief's "no withheld secrets" is obeyed: nothing is withheld from the reader, and every other fact either lead holds reaches the other in the chapter it arises. **Default: approve the exception.**
-5. **The ending: the winter doesn't clear the bar on its own.** The winter makes $28,900 against the bank's $30,000; Arlene's best winter was about $21,000. Ellen pays the $1,100 difference down with her own money and says the figure to Ray in Ch 10 s3, so the reader judges the win knowingly. **Default: approve.** Alternative: shrink the storm refunds so the winter clears $30,000 by a few hundred and drop the savings. That loses the Act 3 cost.
+1. **The withheld-fact exception is retired.** Ellen tells Ray in Ch 04, in the first scene they share, that he didn't hear the condition and what it means. From then on nothing is withheld between the leads.
+2. **The $48,000 check is cut.** Ray never offers money. Before March 1, money can't buy the bank's number, because the number is what the winter makes ("Money isn't a winter," Ch 05). At the closing, Judy's committee takes only seasoned money in Ellen's own name (Ch 10). Ray's savings stay off the page as the down payment that makes him the backup buyer.
+3. **Bylaws, season agreement, January meeting, lineage raise, Concord renewal, Pine Ridge side match and walkout: all cut.** The league's reaction is one scene of people in a room (Ch 07).
+4. **The backup contract is released in the repair, as Ellen's condition** (Ch 08), not as Ray's request. Arlene is told by Ellen, on the page, twice: when her bed goes onto Ellen's number (Ch 08) and when Ellen is under (Ch 09).
+5. **The bank is in real doubt on March 1.** The committee has discretion over a winter that needed the owner's savings, and Ray is in the room when it lands.
+6. **A short epilogue** in April (Ellen POV).
 
 ---
 
 ## Shape
 
 ### The book in one line
-A retired air-traffic controller has one winter to make a failing candlepin alley pay. If she can't, the contract she signed to get the loan sells it on March 1 to the widowed hardware man who lost it to her by eight days, and he's the only one who can keep her machines running until then.
+A retired air-traffic controller has one winter to make a failing candlepin alley pay. The one day that could do it carries the name of the hardware man's late wife, and he's the man who gets the building if she fails.
 
-### Positions (30,000 words, 10 chapters)
+### Positions (31,372 words planned; Ch 01–03 are on the page)
 
 | Ch | POV | Dates | Words | Runs to | Register | Ending type |
 |---|---|---|---|---|---|---|
-| 01 | Ellen | Tue Dec 1 | 3,100 | 10.3% | comic | question |
-| 02 | Ray | Wed–Thu Dec 2–3 | 2,800 | 19.7% | tense | cut |
-| 03 | Ellen | Thu–Fri Dec 17–18 | 3,100 | 30.0% | warm | consequence |
-| 04 | Ray | Sat Dec 19 | 2,900 | 39.7% | comic | reversal |
-| 05 | Ellen | Thu Dec 31 – Tue Jan 5 | 3,000 | 49.7% | quiet | cut |
-| 06 | Ray | Sat Jan 9 – Mon Feb 1 | 2,900 | 59.3% | tense | question |
-| 07 | Ellen | Tue Feb 2 | 3,100 | 69.7% | dark | consequence |
-| 08 | Ray | Fri Feb 5 – Tue Feb 16 | 3,100 | 80.0% | warm | question |
-| 09 | Ellen | Wed Feb 24, Sat Feb 27 | 2,800 | 89.3% | tense | cut |
-| 10 | Ray | Sun Feb 28 – Mon Mar 1 | 3,200 | 100% | comic (warm under it) | open image |
+| 01 | Ellen | Tue Dec 1 | page | ~10% | comic | question |
+| 02 | Ray | Wed–Thu Dec 2–3 | page | ~20% | tense | cut |
+| 03 | Ellen | Thu–Fri Dec 17–18 | page (01–03: 9,572) | 30.5% | warm | consequence |
+| 04 | Ray | Sat Dec 19 | 3,000 | 40.1% | comic | reversal |
+| 05 | Ellen | Thu Dec 31 – Sat Jan 2 | 3,000 | 49.6% | quiet | question |
+| 06 | Ray | Sat Jan 9 – Tue Jan 19 | 2,800 | 58.6% | tense (Hollis's comedy inside it) | cut |
+| 07 | Ellen | Tue Jan 26 – Tue Feb 2 | 3,300 | 69.1% | dark | consequence |
+| 08 | Ray | Thu Feb 4 – Mon Feb 15 | 3,000 | 78.6% | warm | question |
+| 09 | Ellen | Wed Feb 24 – Sat Feb 27 | 3,000 | 88.2% | tense | cut |
+| 10 | Ray | Sun Feb 28 – Mon Mar 1 | 3,000 | 97.8% | comic, warm under it | open image |
+| Epilogue | Ellen | Sat Apr 17 | 700 | 100% | warm | cut |
 
-No two consecutive chapters share a register. No two consecutive chapters end soft.
+No two consecutive chapters share a register. No two consecutive endings are soft. Strict POV alternation holds (hero chapters: 02, 04, 06, 08, 10). The word total sits inside 30,000–31,500 with room for the writer's usual 10% miss on two chapters, not on all of them; the orchestrator's 8% word check applies.
 
 | Genre-map beat | Required | Where it lands |
 |---|---|---|
-| Leads meet with spark | Ch 1, first 5% | Ch 1, first scene: Ray knocks with her key in his fist, about 200 words in; they argue; she wants him to stay on the step |
-| Premise and couple inside the sample (12%) | yes | Ch 1 doorway (the note, the contract she signed), Ch 1 lane 6 (the first want); Ch 2 opening (the bank's number) reaches about 12% |
-| Act 1 ends | ≤ 20% | Ch 2, end (~19%): the five o'clock offer dies with her at his counter |
-| First kiss | ≤ 35% | Ch 3, last scene (~29%) |
-| Midpoint reversal | 45–55% | Ch 5, scene 3 (~47%): the vote, with Ray on his feet putting her storm-night promise on the record |
-| Rupture | 65–78% | Ch 7, last scene (~69%) |
-| Repair, four beats in order | 75–88% | Accountability Ch 8 s3 (~75%) · Verification Ch 8 s4 (~78%) · Condition Ch 8 s5 (~80%) · Ordinary beat Ch 9 s1 (~81%) |
-| **The ordinary scene** | before the declaration | **Ch 9 s1, supper at Ray's at a quarter past five** |
-| Declaration | 88–95% | Ch 10 s4 (~94%) |
-| HEA as a scene | last 5% | Ch 10 s5, Monday at the sign |
-| Point of no return, relationship | ≥ 60% | Ch 9 (~86%): the D-side ask |
+| Leads meet with spark | Ch 1, first 5% | On the page (Ch 01 doorway) |
+| Premise and couple in the sample | by 12% | On the page (Ch 01–02) |
+| Act 1 ends | ≤ 20% | On the page: five o'clock, end of Ch 02 |
+| First kiss | ≤ 35% | On the page: Ch 03 dawn (~29%) |
+| Midpoint reversal | 45–55% | Ch 05 s4 (~47–50%): the woman who doesn't ask asks him for Linda's day, and he says no, with every fact on the table |
+| Rupture | 65–78% | Ch 07 s2–s3 (~65–69%): Ray gives the name in anger, quits the league, and says the radio line |
+| Repair, four beats in order | 75–88% | Accountability Ch 08 s2 (~74–75%) · Verification Ch 08 s3 (~76%) · Condition Ch 08 s4 (~77–78%) · Ordinary beat Ch 09 s1 (~79–81%) |
+| **The ordinary scene** | before the declaration | **Ch 09 s1: supper at Ray's at a quarter past five** |
+| Declaration | 88–95% | Ch 10 s3 (~93–94%), both voices |
+| HEA as a scene | last 5% | Ch 10 s5 at the sign (~97%), then the epilogue |
+| Point of no return, relationship | ≥ 60% | Ch 08 s4 (~78%): she makes him stand beside her instead of behind her, and he gives up the building in every outcome |
 
-Act 1: Ch 1–2. Act 2a: Ch 3–5. Act 2b: Ch 6–7. Act 3: Ch 8–10.
+Act 1: Ch 01–02. Act 2a: Ch 03–05. Act 2b: Ch 06–07. Act 3: Ch 08–10 and the epilogue.
 
 ### Kisses (clean, closed door; three)
-Ch 3 dawn under the sign (~29%). Ch 5 midnight on New Year's Eve (~42%). Ch 10 the declaration (~94%). An optional fourth at the ladder is off by default.
+1. Ch 03, dawn under the dead K (~29%), on the page. She kisses him knowing what he didn't hear.
+2. Ch 05 s2, midnight New Year's Eve in the pit behind lane 7 (~44%). It's the first kiss with nothing hidden: he knows the whole sentence and has said no to it.
+3. Ch 10 s3, the declaration in the pit behind lane 7 (~94%).
 
-### The money, on the page
-The reader holds three money facts by the end of the Ch 2 rekey scene, each delivered inside an argument between the leads:
-1. **Ch 1, doorway, figure one:** she owes Arlene a quarter of a million dollars on March 1. Arlene carried the rest of the price after Ellen's house.
-2. **Ch 1, doorway, no figure:** if she can't pay, the contract she signed sells the building to Ray that afternoon, at appraised value.
-3. **Ch 2, at her lock, figure two:** Granite Lakes writes her the loan the day the winter clears thirty thousand, "with every dollar it makes still sitting in the account."
+No kiss in Ch 07. In the epilogue a held hand, no kiss; a fourth kiss is optional and off by default.
 
-The Ch 1 doorway carries **two figures in prose**: a quarter of a million, and March first. After Ch 2, each chapter carries one money fact, said between people, never added up by Ellen alone. Two rules carry the mechanism and appear once each: the **liquidity rule** (Ch 2; restated by Judy in Ch 10) and the **paydown ratio** (Ch 7, Ray: every eight dollars on the note takes a dollar off what the bank needs her to make).
+### The money on the page: one number, four statements
+The reader holds one number: **where Ellen stands against thirty thousand.** Thirty thousand itself is on the page from Ch 02. The number is stated at most four times, each time said by one person to another and changed by something the reader has just watched. No ratio, no lender list and no fee is on the page. Every other figure stays off the page or goes in words without a number.
 
-### The figures, one ledger (bible-builder sets exact amounts; these are the outline's commitments)
-| When | Projected finish vs. the $30,000 bar | What moved it | On the page as |
-|---|---|---|---|
-| Ch 4, Dec 19 | not stated | — | the league costs about $700 a week (Ch 4) |
-| Ch 5, Jan 5 | about $4,000 short | rate voted down | "about four thousand short" (Ch 5) |
-| Ch 6, Jan 16 | about $1,500 over | the Open booked. Without Linda's name it would clear by about $100; her name is the cushion | the derby's condition (Ch 6) |
-| Ch 7, Feb 2 | about $800 over | two teams walk: their lineage and snack bar for four weeks, about $700. The lights and staff cost the same with or without them | Denise, one line (Ch 7) |
-| Ch 8, Feb 5 | about $1,500 over | teams back | — |
-| Ch 8, Feb 16 | about $100 over | nine name-entrants refunded, about $1,400 | "nine take their money back; her cushion is gone" (Ch 8) |
-| Ch 9, Feb 27 | about $1,500 under | the Open's evening refunded, about $1,600 | "about fifteen hundred under, and Sunday can't bring that much" (Ch 9) |
-| Ch 10, Feb 28 | **$28,900, $1,100 under** | the Sunday Memorial and snack bar, about $400 | "twenty-eight thousand nine hundred" (Ch 10) |
-| Ch 10, Mar 1 | bar lowered by $1,100 | **$8,800** of her **$14,000** savings on the note (8:1); she keeps **$5,200** | said to Ray in Ch 10 s3 |
+| # | Ch | Said by, to | On the page | What changed it, on the page |
+|---|---|---|---|---|
+| 1 | 05 s3 | Ellen to Denise | "About four thousand under." | December counted on Denise's tape. The January and February book is empty except for league nights, which lose money |
+| 2 | 08 s4 | Ellen to Arlene, Ray present | "With every lane of the Open full, I clear by six hundred. One storm takes that." | Linda's name on the Open. Entries arrive on the page in Ch 08 s1 (Gil's team, a team from Maine) |
+| 3 | 09 s4 | Ellen to Ray, in the empty building | "Fourteen hundred under. Sunday can't make that." | The evening squad refunded at the counter in the storm |
+| 4 | 10 s3 | Ellen to Ray, counting the day together | "Nine hundred under." | Linda's final on Sunday: the crowd and the snack bar |
 
-Ray's Ch 7 check: **$48,000 from his own savings**, at 8:1 about $6,000 off the bar.
+**The paydown, with no figure on the page.** At the closing, new money from Ellen means Judy lends that much less, and the committee needs that much less from the winter. Judy says it in one sentence in Ch 10 s1, together with the rule from Ch 02 that the winter's cash stays in the account. The amount is shown as a figure Judy writes on a slip and turns round, "more than half of what she had." Ellen keeps the rest, which "heats the camp through one bad winter."
+
+**Off-page ledger** (the bible-builder sets exact amounts and rebuilds the bible's money tables): Jan 2 projection $26,000. The nameless Open, booked mid-January, is worth about +$1,200; the reader isn't told, and it moves nothing she says. Linda's name fills the Open to about $30,600. The evening squad refund is about $2,000, bringing her to $28,600. Sunday adds about $500, for $29,100. The paydown is about $7,200 of her $14,000, which lowers the bar to $29,100. Arlene's best winter, about $21,000, can be said once without counting as a statement (Ch 10).
+
+### Ray's money: closed by facts
+- **Ch 05 (fact):** the bank counts what the building makes, so savings can't be a winter. What Ray has put by is also the down payment that makes him the backup buyer, the only thing between Arlene and the waiting list. Ellen says both in two sentences when he starts to offer.
+- **Ch 08:** the release frees his savings, and the question reopens in the reader's head. Nobody raises it until a paydown exists.
+- **Ch 10 s1 (fact):** Judy: "It has to be hers, and it has to have sat in her name since before Christmas. The committee reads statements." Seasoning of funds is `[CHECK]` for the domain checker.
 
 ### "No readback"
-There is no log, no strip and no filing. "No readback" is one thought (Ch 3) and one sentence spoken in her confession (Ch 7).
+A thought in Ch 03, on the page. Spoken once, in Ch 04 s1, as Ellen self-reports: "You gave me no readback, and I let it go." Readback as a device: Ch 04 (he reads back the condition), Ch 09 (the D-side), Ch 10 (the third item).
 
-### Where each audit finding is answered (revision-2 audit, plus revision-3 non-blocking items)
-| Finding | Answer, and where it is on the page |
-|---|---|
-| F1 Who signed the backup | **Ellen signed it** at the Dec 1 closing, as Arlene's price for the note. Ch 1 doorway: it comes up as an argument over something she already knows ("You know what you signed." "I know exactly what I signed."). Releasing it needs all three signatures, so in Ch 8 s5 Ray has to ask Ellen |
-| F2 Five o'clock | It's **Ray's** deadline. His at-cost offer needs the credit union's loan committee, which meets Thursdays at five, and Danny's signature putting the store behind it. Lucien put the store up once, in 1974, and nearly lost it; Ray will ask it of the store once, ever. **No other buyer:** two years listed, and the only other visitor was a man from Concord who offered land value for the lot, for condos (Ch 2) |
-| F3 What binds the owner to the league's vote | The season agreement Arlene signed with the league every September, inherited at closing: paragraph four holds lineage until the January meeting votes (Ch 4) |
-| F4 Why Linda's name | She takes the name for margin, and the book says so (Ch 5 head, Ch 7 confession, Ch 8 letter). Storm day proves she needed a margin. She was wrong to take it from Linda |
-| F5 How the captain knows | Ray put it on the record at the Jan 5 meeting; it's in Verna's minutes (Ch 5, quoted Ch 7) |
-| F6 Why Arlene releases Ray | Normand, 1971. She names her cost, and signs only with Ellen's signature too (Ch 8 s2) |
-| F7 Why the paydown can't come from the winter's cash | The liquidity rule (Ch 2, Ch 10) |
-| F8 The ratio | Ch 7, Ray's offer. Ch 5: Denise asks about her own money. "Not enough to matter. And I swore to Kate." (Four thousand short would need about thirty-two thousand; she has fourteen.) |
-| F9 Pine Ridge terms | If Ray wins, both teams come back at the season rate and bowl the Memorial. If he loses, he pays their Pine Ridge lineage for the rest of the season and bowls for Gil (Ch 8) |
-| F10 / Memorial format | **Ten lanes**, per the v1 bible. The Memorial is the league's, Saturday 2 p.m. on all ten lanes, as always. Under Ray's condition, the Open gets the morning and the evening for a new cup. Storm day moves the Memorial to Sunday at one, still on ten lanes (Ch 8, Ch 9) |
-| F11 Judy | Watches Sunday; Ellen tells, doesn't ask (Ch 10) |
-| F13 Ray's release | He asks both women and hears the cost (Ch 8 s2, s5) |
-| F15 Backup price | Ray, Ch 1: appraised value, not a dollar under |
-| Rev-3: check source | Drawn on **Ray's own savings** at the credit union, not the store (Ch 6, Ch 7) |
-| Rev-3: figures | One ledger, above |
-| Rev-3: walkout cost | About $700: their lineage and snack bar for four weeks. League nights lose money because the lights and staff cost the same whoever bowls, so fewer bowlers is still less money. Denise, Ch 7: "Their lanes stay lit either way, honey. You just lose what they paid." |
-| Rev-3: Ellen's co-signature | Added to the condemnable choices |
+### The one-talk sentences (genre map; each obstacle between the leads)
+"If they sat down and told each other the whole truth, this would still be a problem because…"
+- **O1, Linda's day (Ch 04 → 07).** …she may need that one day to keep Arlene paid and keep her alley, and he won't give his wife's night to strangers for money. By the end of Ch 04 both have said exactly that.
+- **O2, Ray is the backup buyer (Ch 04 → 08).** …the contract is real. If she misses, the building is his whether he wants it or not, so every no he says and every repair he makes is to his profit. Saying so out loud (Ch 04 s4, Ch 05 s4) doesn't change the paper.
+- **O3, the release (Ch 06).** …releasing Ray takes away the only floor under Arlene's bed, and keeping him leaves his help never clean. Both facts are spoken, and both are true.
+- **O4, the rupture (Ch 07).** …nothing was unknown. The room told the truth (Linda entered every open there was), Ray gave the name, and what broke them is what each did in the open to get there: she took his no to his own people, and he used her worst night on her and walked out on thirty years. No talk unsays either act. The repair is a conversation between equals plus an action.
+- **O5, the last gap (Ch 09–10).** …the bank counts only the winter plus her own seasoned money, so Ray can't pay it, and her money is sworn to Kate, so only Kate can release it.
 
-### Condemnable choices
-1. **Ellen, Ch 5–6 (primary).** She takes Linda's name for a margin, knowing an unnamed Open would just clear. She sits silent while Ray vouches for her promise in public (Ch 5). Asked directly, "Did you know I didn't hear it?", she answers "I said it" (Ch 6). **Cost:** Ray, a public confession, the cushion, the storm-day shortfall, her savings.
-2. **Ray, Ch 7.** He uses her worst night on her. **Cost:** he names it in Ch 8.
-3. **Ray, Ch 8.** He asks Arlene and Ellen to put Arlene's place at The Pines on Ellen's number, so that he won't be the man waiting to buy. **Cost:** he has to ask both to their faces and hear the cost.
-4. **Ellen, Ch 8.** She co-signs the release, putting an 84-year-old's home on her own number for her own reason, so that the man beside her isn't also the man waiting to buy. Arlene has asked for her signature, but Ellen could refuse it and doesn't. **Cost:** every dollar after Feb 16 is Arlene's bed as well as her alley, and on storm day she says so.
-5. **Ellen, Ch 3 (lesser).** She runs league against the plow boss's warning, then charges the stranded.
+Every time a reasonable adult would ask, they ask on the page. Ray in Ch 04: "You knew. Under the sign?" Ellen in Ch 05: the ask. Ray in Ch 06: sign the release. Ellen in Ch 07: the room. Ray in Ch 08: say it again where it costs. Ellen in Ch 09: the D-side and Kate. Ellen in Ch 10: "Will you take it?"
 
-### Subplots Ellen does not resolve
-Denise and Linda's trophy (Denise). The two teams (Ray). The derby (Hollis). Kate resolves herself when asked (Ch 9).
+### Condemnable choices, made knowing the facts
+1. **Ellen, Ch 03 (on the page).** She lets the promise stand and kisses him. *Cost:* she self-reports it in Ch 04, thirty-six hours late, and the kiss is now known to have been given knowing.
+2. **Ellen, Ch 07.** Refused by Ray, she takes his no to Linda's friends (Denise, Hollis, Verna, Dale), openly, and tells him to be in the room. A reader can fairly call it going around the man she loves to his own people for his dead wife's name. *Cost:* Ray.
+3. **Ray, Ch 07.** "You sounded fine on the radio that night too, I bet." He also walks out on the league he has coached thirty years, in front of its people, to make her watch him go. *Cost:* he names both in Ch 08 s2 and repeats it in front of the Bench in s3.
+4. **Ellen, Ch 08 (the condition).** She asks Ray to sign Arlene's release so that the man beside her isn't also waiting to buy. That puts an eighty-four-year-old's bed on a six-hundred-dollar margin and the weather. She says so to Arlene's face before Arlene signs. *Cost:* storm day; telling Arlene she's under; Kate's oath; more than half her savings; the bank in doubt.
+5. **Ray, Ch 08.** He accepts and signs knowing the same facts. *Cost:* the building, in every outcome.
+
+### Subplots, and who resolves each (Ellen resolves none of them)
+| Thread | Resolved by | Where |
+|---|---|---|
+| Denise and Linda's cup | Denise, who wins it | Ch 10 s2 |
+| Denise and Gil | Denise (thinking about it, then going) | Ch 10 s2, epilogue |
+| Dale and the snowstorm grudge | Dale. On storm day she takes his roads-by-four call at once, and he brings his crew in off a night of plowing to bowl Linda's final | Ch 09 s4, Ch 10 s2 |
+| Kate and the oath | Kate, when asked | Ch 10 s1 |
+| Ray and the store (Danny) | Ray and Danny; Danny opens at six | Ch 08 s3, epilogue |
+| Ray and Hollis's cribbage | Hollis, twelfth winter running (left unresolved for Ray, on purpose) | Ch 08 s1, epilogue |
+| Linda's locker | Ray, with Ellen there | Ch 10 s2 |
+
+### Escalation by act
+| Act | Ellen pays | Ray pays |
+|---|---|---|
+| 1 | A night in the red; lane 7 refunded in public; the clean exit at five o'clock | His one offer, and his key |
+| 2a | The confession, thirty-six hours late; four thousand under; asking for the first time and hearing no | Hearing what he missed, and the kiss given knowing; his no that costs him nothing, said aloud |
+| 2b | Going to his people; getting what she asked for and losing him | Linda's night, given in anger; thirty years of coaching, quit in a room |
+| 3 | Arlene's floor, by her own condition; the storm evening; telling Arlene she's under; Kate's oath; more than half her savings; a committee that can still say no | The building in every outcome; his worst line said again in front of the Bench; Linda's ball out of the locker; her name given for good; the final lost by two pins |
+
+Act 3 costs more than Act 2, and the costs reach someone who didn't choose them: Arlene, then Kate.
 
 ### Mystery fairness
-Nothing is withheld from the reader. Suspense: the vote, whether Ray learns what she knew, the weather, the number.
+Nothing is withheld from the reader or between the leads after Ch 04 s1. Suspense: will she ask (Ch 04 → 05), will he give it (Ch 05 → 07), what the release costs Arlene (Ch 08), the weather (Ch 09), Kate (Ch 09 → 10), the committee (Ch 10).
 
 ### Texture
-One or two pieces of trade per scene. ATC set pieces: Ch 1, Ch 4, Ch 9. No sentence states the theme.
+One or two pieces of trade per scene. ATC set pieces: Ch 01 (PA), Ch 04 (radio), Ch 09 (relief briefing). No document is read aloud anywhere in the book. No sentence states the theme.
 
 ### Plants and payoffs
 | Plant | Planted | Paid |
 |---|---|---|
-| The backup contract Ellen signed; Ray's commitment good through March 1 | 01 | 04 (renewed), 07 ("I keep it"), 08 (released by all three; lapses) |
-| Arlene's place at The Pines; "The Pines doesn't take half, dear" | 01 | 08, 10 |
-| The pool sheet; the March 1 square nobody, Ray included, will buy | 01 | 10 |
-| Ray's 1996 key | 01, 02 | 10 (to Arlene) |
-| The new key, handed over without a word | 02 | 07, 08 ("Not yet"), 10 |
-| Kate: "The house. Not the rest. I swear." | 02 | 05, 09, 10 |
-| The liquidity rule | 02 | 10 |
-| Lucien, 1974; the credit union meets Thursdays at five | 02 | 02, 06 (the check, from Ray's own savings) |
-| The condo man from Concord, land value only | 02 | 08 |
-| The season agreement, paragraph four | 04 | 05 |
-| Linda's 187; locker 14 | 01, 03 | 10 |
-| The 2 a.m. night | 03 | 07, 08 |
-| The captain's 3:10 call; the storm-night charge | 03 | 07, 08, 10 |
-| Ray's words at the Jan 5 meeting, in Verna's minutes | 05 | 07, 08 |
-| The dead K | 01 | 04, 08, 10 |
-| "I eat supper at a quarter past five" | 04 | 09 |
-| The printed Open terms (cash refund if weather stops play) | 06 | 09 |
-| Gil, Pine Ridge | 06 | 08, 10 |
-| "Mrs. Daly" / "Ms." | 01 | 10 |
+| "It stays. Unless the numbers say otherwise." | 03 | 04 (self-reported, read back), 05 (the ask), 07 |
+| *No readback* | 03 | 04 (spoken once) |
+| The backup contract; appraised value | 01 | 04 s4 (said aloud), 06 (release with one signature), 08 (released by all three) |
+| Arlene's place at The Pines; "she's been packed since August" | 01 | 06, 08, 09 s5, 10 |
+| The bank's thirty; the winter's cash stays in the account | 02 | 05, 10 s1 (Judy restates) |
+| Kate: "The house. Not the rest. I swear." | 02 | 05 s3, 09 s6, 10 s1 |
+| Kate's want to be asked first | 05 s1 | 09 s6, 10 s1 ("call me first next time. Like this."), epilogue |
+| The new key, laid on his counter at five | 02 | 07 (back on her counter), 08 ("Not yet"), 10 ("Will you take it?") |
+| Ray's 1996 key | 01, 02 | 10 s4 (to Arlene: "One." / "So am I.") |
+| Linda's Memorial, last Saturday in February, all ten lanes | 03 | 05, 07, 09, 10 |
+| Linda's 187; locker fourteen ("I've got the key. I don't use it.") | 01, 03 | 10 s2 (Linda's last league sheet) |
+| The third item, "not in order yet" | 03 | 10 s3 ("Third. I love you." / "Third item. You love me.") |
+| The 2 a.m. night | 03 | 07 (used), 08 (named) |
+| Dale's 3:10 call; "Nobody ever charged me for a snowstorm." | 03 | 07 (his no), 09 s4 ("Nobody ever refunded me for one either.") |
+| Gil Arsenault, Pine Ridge, Halsey Falls | 05 s3 (Denise, one line) | 08 s1 (enters Linda's Open), 10 s2 (the flyer), epilogue |
+| "I eat supper at a quarter past five" | 04 | 09 s1 |
+| "Linda wouldn't have wanted" | 05 (Ray) | 07 (Denise reverses it), 10 ("Linda would've entered on day one") |
+| The printed Open terms: cash back if weather stops play; "Plan if the ice goes?" "Page two." | 06 | 09 |
+| Judy's nephew bowls for the Legion | 09 s3 | 10 s1–s2 (Judy there Sunday) |
+| The dead K; Ray orders a K from Laconia | 01 | 08 s4 (one line), 10 s5 |
+| The pool sheet; March 1 square, "Ray won't" | 01 | epilogue (nobody held it; the pot went to the derby kids) |
+| "Mrs. Daly" / "Ms." | 01 | 10 s5 ("He waited to be corrected. She threw it.") |
+| Ellen wakes at ten to four | bible | 09 s2 (up and dressed at 4:10), epilogue (wakes after five) |
+| Lucien, 1974; the store put up once | 02 | 08 s3 (Danny), epilogue (the store handed on whole) |
+
+### Where each v2 reader and audit finding is answered
+| Finding (source) | Answer |
+|---|---|
+| Spine is a misunderstanding plus a secret (calibration rule 1) | Told in Ch 04 s1; O1–O5 above |
+| Quit at the Ch 04 office scene and the Ch 05 bylaws (cold reader, pull curve) | Bylaws, agreement, meeting and vote cut; the league is one room in Ch 07 |
+| Money ledger unholdable (cold reader, listener pass) | One number, four statements; no ratio on the page |
+| Bank never in danger; Arlene never told (audit F2) | Ch 08 s4 and Ch 09 s5, Ellen to Arlene's face; committee discretion in Ch 10 |
+| Notary snag (audit F1) | Cut. No paperwork defect anywhere |
+| $115 under before the release (audit F3) | She signs at six hundred over and says one storm takes it |
+| $48,000 closed by a rule (audit F4) | Cut; closed by two facts (Ch 05, Ch 10) |
+| Evening teams never offered Sunday (audit F5) | Ch 09 s4: offered, declined (vacation week ends, Monday work, the drive to Massachusetts) |
+| Final figure and liquidity rule missing (audit F7) | Statement 4 in Ch 10 s3; Judy restates in Ch 10 s1 |
+| Pine Ridge risk to Ellen (audit F8) | Side match cut |
+| Memorial result unplanted (audit F9) | Denise's team named in Ch 05 s3 ("my Lakeview Diner"); the last box played on the page in Ch 10 s2 |
+| Ray giving the name excuses Ellen (audit F10) | Ellen never takes it. The room gives it, Ray says "Take it" in anger, and in Ch 10 he gives it freely. Denise marks the difference aloud |
+| Why Ray waited (audit F11) | Ch 09 s1: the house is quiet from a quarter to six on |
+| Soft-ending run in Ch 10 (audit) | Ch 10 endings: question, consequence, consequence, cut, open image |
+| Dale unused (audit F13) | Dale's thread resolved by Dale |
+| Kate dissolves the oath in two lines | Want planted Ch 05; she sleeps on it; her yes carries a condition and a cost |
+| Predictable from Ch 03 (cold reader) | Ellen tells (Ch 04); the league gives the name and Ray quits (Ch 07); the backup is released by Ellen's condition (Ch 08); the bank is in doubt |
 
 ---
 
 ## Chapter 01 — Cleared to Bowl
+
+*v3 note: entry unchanged from outline-v2. Payoffs moved: the contract is released in Ch 08 (by Ellen's condition), not by Ray's request; The Pines pays in Ch 06, 08, 09 and 10; the pool sheet pays in the epilogue; "Mrs. Daly" in Ch 10 s5. The stranded count on the page is thirty-three (brief).*
 
 | Field | Content |
 |---|---|
@@ -170,6 +207,8 @@ One or two pieces of trade per scene. ATC set pieces: Ch 1, Ch 4, Ch 9. No sente
 
 ## Chapter 02 — Five O'Clock
 
+*v3 note: entry unchanged. Payoffs moved: Kate's "I swear" pays in Ch 05, 09 and 10; the liquidity rule is restated by Judy in Ch 10 s1; Lucien's 1974 pays in Ch 08 s3 and the epilogue (not in the cut Ch 06 check); the condo man is named by Arlene in Ch 06 s1; the Concord lender is cut from the page; the new key pays in Ch 07, 08 and 10.*
+
 | Field | Content |
 |---|---|
 | **POV / dates / words** | Ray. Wednesday–Thursday, December 2–3. 2,800 |
@@ -190,6 +229,8 @@ One or two pieces of trade per scene. ATC set pieces: Ch 1, Ch 4, Ch 9. No sente
 | **Get right** | Rekeying a commercial cylinder. A credit union business-loan committee. |
 
 ## Chapter 03 — Ground Stop
+
+*v3 note: entry unchanged. On the page, the road agent is Dale Hutchins, thirty-three are stranded, and the chapter ends on Denise's "Honey." Payoffs moved: "It stays. Unless the numbers say otherwise." and "No readback" pay in Ch 04 s1, not Ch 07; the third item pays in Ch 10 s3; the 2 a.m. night is used in Ch 07 and named in Ch 08; Dale's call and "Nobody ever charged me for a snowstorm" pay in Ch 07 and Ch 09; locker 14 pays in Ch 10 s2.*
 
 | Field | Content |
 |---|---|
@@ -214,165 +255,222 @@ One or two pieces of trade per scene. ATC set pieces: Ch 1, Ch 4, Ch 9. No sente
 
 | Field | Content |
 |---|---|
-| **POV / dates / words** | Ray. Saturday, December 19. 2,900 |
-| **Register** | Comic |
-| **Purpose** | Courtship in the open; the alley's best day; both choose to stay opponents. |
-| **Opens with** | 7:02 a.m., two days after the kiss. Ray at lane 1 with two house balls; Ellen walks in with a clipboard, and neither has said a word about Friday. |
-| **Key events** | The lesson: wrist turned, lowered six inches, "Let the lane have it." He lets go first. "The wood stays on the lane. You play what's left," the one use in the book. At nine the Concord lender: the commitment runs out at year-end, and keeping it good through March 1 costs a fee. He pays it from the store's back room. The party Saturday on radios: "Kettle Maintenance, say intentions." / "Intentions are to quit." **At close, under the sign, an argument.** He tells her he renewed. She tells him his league costs her seven hundred dollars every week it bowls, and she's raising lineage tomorrow. He tells her she can't: she inherited Arlene's season agreement with the league, and paragraph four holds the rate until the January meeting votes. "Read paragraph four." She hadn't read it closely. She'll put it to the January meeting. He'll stand against it. Then, quieter: he eats supper at a quarter past five, has for thirty years, and she's made him late twice this week. He offers again to fix the K; she hires out what she isn't qualified for. |
-| **The turn** | He renews the commitment. He stays her buyer, by choice, the day he knows he loves her. |
-| **The longing** | His hand on her wrist; her voice in his ear all day. |
-| **The laugh** | Ellen at Ray on the radio, and Ray answering in her phraseology, badly, on purpose. Denise at a twelve-year-old's shoes. |
-| **Money fact** | League nights cost her about seven hundred dollars a week. Ellen, at Ray. |
-| **What changes** | Start: one kiss, no words. End: in love, on opposite sides of a vote, both knowing it. |
-| **Chapter promise** | Will he really stand against her in front of the league? |
-| **Cost** | Ellen missed paragraph four, and he's the one who tells her. The man she kissed has paid to stay her buyer and promised to vote against her. |
-| **Plants** | Paragraph four and the January meeting. "A quarter past five." The K, refused. |
-| **Ending** | **Reversal.** Ellen: "Good. I'd hate to beat somebody who wasn't ready." He'd braced for her to be hurt, and can't tell whether she is. |
+| **POV / dates / words** | Ray. Saturday, December 19. 3,000 (s1 900 · s2 500 · s3 900 · s4 700) |
+| **Register** | Comic, opening on a tense first page |
+| **Purpose** | The self-report that ends the misunderstanding: the conflict goes into the open and survives it. The courtship goes on in public anyway. |
+| **Opens with** | 7:02 a.m. Ray at lane 1 with two house balls, two days after the sign. Ellen comes in with a clipboard and, before he can say good morning, says: "In the pit you asked me for the Memorial. I answered you in two parts. You heard one." |
+| **Key events** | **s1, lane 1.** She gives him the whole sentence and what it means: if January and February come up short, Linda's day is the biggest day she has, and she'll want it. "Read it back." He does, flat: "It stays. Unless the numbers say otherwise." "Correct." "You gave me no readback, and I let it go." He asks the adult question: "You knew. Under the sign." "Yes." "Did you kiss me so I wouldn't ask?" "I kissed you because I wanted to. I didn't tell you because I wanted that more than I wanted to be right." Why now: "I write up my own errors. Every other one took me an hour. This one took thirty-six." Ray, in five-word sentences: "Then hear mine. It stays." Then: "You still want the lesson?" "I booked it." **s2, the lesson.** Wrist turned, lowered six inches. "Let the lane have it." "The wood stays on the lane. You play what's left" (its one use). He lets go first. Her ball goes down the middle and leaves the ten pin standing. **s3, party Saturday on radios.** Holiday parties on all ten lanes, the alley's best day (no figure). Ellen has bought three radios: counter, snack bar, pit. "Roger that, copy, ten-four, wilco, over and out." / "Wilco means you will comply. I have not asked you for anything yet." "Kettle Maintenance, say intentions." / "Intentions are to quit." / "Unable." Denise, on the snack-bar radio, gives a twelve-year-old's shoes a report like a weather forecast. **s4, at close, under the sign.** She says the hard part plainly: "You should know I know this. If I miss, you get the building and the Memorial both. Your no costs you nothing." "I know it. Doesn't make it wrong." He tells her he eats supper at a quarter past five, has for thirty years, and she has made him late twice this week. |
+| **The turn** | She self-reports. He can't un-know it, and his "It stays" is on the record between them. |
+| **The longing** | His hand on her wrist for the lesson. Her voice in his ear on the radio all day. Under the sign, he stands closer than the argument needs. |
+| **The laugh** | Ellen on "wilco." Ray's "Intentions are to quit." Denise and the shoes. |
+| **Money fact** | None stated. The alley's best day is shown, not counted. |
+| **Survives the truth because** | O1 and O2. All of it is said in this chapter, and they're still stuck. |
+| **What changes** | Start: one kiss and a hidden clause. End: nothing hidden, opposed on the record, still courting. |
+| **Chapter promise** | Will she really ask him, and what will he say? |
+| **Cost** | For Ellen: the kiss is now known to have been given knowing, and she has laid her plan in front of the man who wins if she fails. For Ray: he has to stand next to a woman he's said no to and keep wanting her. |
+| **Plants** | "A quarter past five." The radios. Her statement of his conflict. |
+| **Ending** | **Reversal.** Ellen: "Good. Then you'll be ready in January." "For what?" "I'm going to ask you for it." He'd braced for a fight. The woman who doesn't ask has told him she will. |
 | **Texture budget** | The lesson; radio phrasing (set piece, cap six). |
-| **Get right** | Commitment-extension fee. League season agreements (invented instrument; plausible). |
+| **Get right** | Candlepin delivery (low release, no hook). |
 
-## Chapter 05 — The Vote
+## Chapter 05 — The Ask
 
 | Field | Content |
 |---|---|
-| **POV / dates / words** | Ellen. Thursday, December 31, to Tuesday, January 5. 3,000 |
+| **POV / dates / words** | Ellen. Thursday, December 31, to Saturday, January 2. 3,000 (s1 600 · s2 900 · s3 700 · s4 800) |
 | **Register** | Quiet |
-| **Purpose** | Midpoint: a high, then a public reversal, then her choice to take Linda's name for margin. |
+| **Purpose** | Midpoint. The second kiss with nothing hidden; the first number; the woman who doesn't ask asks, and is refused, with every fact on the table. |
 | **Opens with** | 11:40 p.m., New Year's Eve, glow night half full. Ellen in the office with Kate on speaker: "Mom. Scale of one to ten." |
-| **Key events** | Kate, sideways, about the birthdays Ellen worked. Ellen doesn't fix it. At midnight Ray finds her in the pit behind lane 7, and for a whole minute doesn't say Happy New Year. Second kiss. **Jan 5, the January meeting.** Verna presides; Ellen gets her three minutes. Ray stands. He doesn't attack her: the old teams can't pay it, and this is the league Linda bowled. Then, to the room and Verna's minutes: Ellen has given him her word that the Memorial stays as it is, and he'll hold her to it. Ellen sits there and doesn't correct him. The vote is no, and it isn't close. **After, in the office, with Denise.** Without the raise she finishes about four thousand short. An Open on championship weekend with Linda's Memorial as its final (orchestrator note Oct 29: the separate cup is Ray's Ch 08 condition; the page follows F10), the town and the derby crowd entering, would close it with nothing over. Put Linda's name on it and the town comes out for Linda, and she has room for one bad thing. Denise: "Don't you touch Linda's night." "Unless the numbers say otherwise." "Who'd you say that to?" No answer. Denise: "What about your own money?" "Not enough to matter. And I swore to Kate." Denise: "So it's a cushion." Ellen: "It's separation." In her head, plainly, once: an Open without the name would clear, and she's taking the name for the margin. |
-| **The turn** | The vote, and Ray putting her promise on the record. |
-| **The longing** | The midnight kiss. At the meeting, she watches him stand to speak against her and still wants him. |
-| **The laugh** | Verna at the room. Kate at her mother: "Scale of one to ten." |
-| **Money fact** | About four thousand short without the raise. Ellen to Denise. |
-| **What changes** | Start: winning, and in love. End: beaten in public by the man she kissed, who has vouched for her to the whole league, and she has decided to break the word he vouched for, for a margin. |
-| **Chapter promise** | What will he do when she takes Linda's night? |
-| **Cost** | Public defeat; her silence while he vouched for her. |
-| **Plants** | Ray's words in Verna's minutes. Denise's question. |
-| **Ending** | **Cut.** In her car, Ellen calls Hollis: how thick is the ice off the public access? "Why?" "I'm walking out to your bob-house Saturday." |
-| **Texture budget** | The meeting, briefly. |
-| **Get right** | The proprietor's say over championship weekend (invented bylaw). |
+| **Key events** | **s1, Kate.** Kate announces a decision already made ("I took nights through March"), briefing her mother the way her mother briefs everyone. Ellen hears herself in it. Kate, sideways, about birthdays Ellen worked: "You could ask me something sometime. Before." Ellen doesn't. **s2, midnight, the pit behind lane 7.** Ray finds her, and for a whole minute doesn't say Happy New Year. "I know the whole sentence now." "I know you do." Kiss 2, chosen by both, sober, with the no already said (kiss floors from HEAT RULES). **s3, Sat Jan 2, the office, Denise.** December counted on Denise's tape. January and February have no parties, only league nights, which lose money. **Statement 1:** "About four thousand under." Raise the league? Denise: "They'd bowl at Gil Arsenault's in Halsey Falls for the price of the gas." Her own money? "Not enough to matter. And I swore to Kate." Denise: "Don't you touch Linda's night. And I say that as a woman who's been second to it four times, with my Lakeview Diner." Ellen: "I'm going to ask him for it." Denise: "Ask. You." **s4, Gagnon & Son, 5:10 p.m., the Bench gone, Ray already late for supper.** Under the clock where she said nothing on December 3, she asks in words: "I am asking you for Linda's day." The plan in two sentences: an Open on derby weekend, Linda's cup the prize, anyone may enter, and the league bowls in it with everyone. With it she clears; without it she's four thousand under, and nothing else that size exists. Ray says no and gives his reason: the cup is for the people who bowled with Linda, and he won't sell her night to strangers; "Linda wouldn't have wanted her night sold." Then he says his conflict before she can: "And I know what my no's worth, from the man who buys if you miss." He starts: "I've got some put by—" She closes it with facts: "Money isn't a winter. Nobody can hand me one. And what you have put by is what pays Arlene if I miss. Keep it where it is." |
+| **The turn** | She asks, and he says no to her face. Midpoint reversal (~47–50%): the courtship that ran toward each other turns into open opposition with nothing left to discover. |
+| **The longing** | The midnight kiss. At the counter, she watches his hands flat on the counter while he refuses her and still wants them on her face. |
+| **The laugh** | Kate's scale. Denise: "Ask. You." |
+| **Money fact** | **Statement 1**, Ellen to Denise. |
+| **Survives the truth because** | O1, O2, and his money closed by fact. |
+| **What changes** | Start: in love, opposed in theory. End: four thousand under, refused in fact, and she has asked for something for the first time in the book. |
+| **Chapter promise** | What does he mean by making his no cost him? |
+| **Cost** | Asking, and hearing no. Ray's interior is off-POV; hers is not. |
+| **Plants** | Kate's want. Gil, Pine Ridge, Halsey Falls. Denise's team, the Lakeview Diner. "Linda wouldn't have wanted." |
+| **Ending** | **Question.** Ray: "Then I'll make my no cost me what yours costs you." He goes out to his truck. She doesn't know what he means. |
+| **Texture budget** | Denise's tape, one line. |
+| **Get right** | Glow night (dry; sparkling cider). |
 
 ## Chapter 06 — Walking Ice
 
 | Field | Content |
 |---|---|
-| **POV / dates / words** | Ray. Saturday, January 9, to Monday, February 1. 2,900 |
+| **POV / dates / words** | Ray. Saturday, January 9, to Tuesday, January 19. 2,800 (s1 900 · s2 1,000 · s3 900) |
 | **Register** | Tense, with Hollis's comedy inside it |
-| **Purpose** | She tells him first; he asks straight out; she lies by omission; she wins the town. |
-| **Opens with** | Dawn in Hollis's bob-house. A tip-up flag is down. Hollis: "You courting her, or just fixing her machines a lot?" Through the window, a figure walking out across the ice in a navy vest over a parka. |
-| **Key events** | In the bob-house, with Hollis stepping out "to check his flags", Ellen tells Ray her plan for the last Saturday in February. A public Open on derby weekend takes the whole day. Linda's Memorial becomes its final on all ten lanes, open to anyone, with Linda's trophy as the prize. League teams bowl in it with everyone. He: she gave him her word, and he told the whole league so. She: she said "unless the numbers say otherwise." He never heard that. Then, straight: **"Did you know I didn't hear it?"** She has the true sentence and doesn't use it: **"I said it."** Jan 16, same bob-house, the derby committee. Hollis's license check; "Plan if the ice goes?" "Page two." Two flags mid-pitch; "Stand by"; she lands the fish. Hollis: "Our people come in off the ice to bowl. Not to watch your league." Page three of her printed terms: cash refunds if weather stops play. The committee votes yes. Jan 18 the notice goes up on the Bench's board, and by Tuesday the league knows. The captain brings Ray a petition to walk out to Pine Ridge in Halsey Falls, Gil Arsenault's house. Ray won't sign it. Teams can leave without forfeit only at the half, which ends Jan 30. Feb 1, Ray and Danny at the store's adding machine, working out what Ray's own savings can do. Danny: "You're allowed to want something that isn't on a shelf." |
-| **The turn** | "I said it." And the committee's vote. |
-| **The longing** | Her fingers are white. He pulls his gloves off and puts them on her hands without stopping his argument, and she lets him. |
-| **The laugh** | Hollis at Ellen, the license check. Hollis at Ray, the courting question. |
-| **Money fact** | The derby brings its crowd only for a final its people can enter. Hollis. |
-| **What changes** | Start: lovers on opposite sides. End: she has lied to his face; she has the town; he has a number on Danny's tape. |
-| **Chapter promise** | What will he do with that number? |
-| **Cost** | For Ellen: the lie, told to his face. |
-| **Plants** | Gil, Pine Ridge. The printed terms. The half ends Jan 30. |
-| **Ending** | **Question.** Late, after Danny has gone, Ray seals a cashier's check into an envelope. It's drawn on his own savings at the credit union, nearly all of them; not the store's money. He writes nothing on the envelope and puts it inside his coat. |
-| **Texture budget** | Ice thickness, once. Tip-ups. |
-| **Get right** | NH ice fishing; the invented derby. |
+| **Purpose** | Ray tries to make his no cost him; Ellen tries the Open without the name. Both leads on the page in two of three scenes, and talking. |
+| **Opens with** | The answer to Ch 05's question. Arlene's kitchen above the pharmacy, the police scanner low, boxes marked THE PINES. Ray: "I'd like you to let me out of that paper." |
+| **Key events** | **s1, Sat Jan 9, Arlene.** "Tell me what happens to you if she misses, Arlene, and tell it plain." She does. With no sale on March 1 she loses her place and goes back on the list at eighty-four, and may not live to the top of it. She gets paid months later through foreclosure, and the man from Concord gets the lot at land value. Ray asks why she sold to Ellen: "You'd have kept it a museum, Raymond. I wanted it to live." Her reason to release him anyway: in 1971 she held Normand to a building he didn't want, and he spent eighteen years in it. She signs the release her lawyer drew (one clause). "Voyons donc. Bring me her signature too. It's hers to risk as much as mine." The ham. **s2, Sat Jan 16, dawn, Hollis's bob-house.** "You courting her, or just fixing her machines a lot?" Ray says it plainly. Hollis's plain question back: "So say yes, or get out of the paper." "Working on the second." Ellen walks out across the ice for the derby committee and pitches an Open on derby weekend for a new cup with no name on it: she is respecting his no, and he watches her do it. Hollis's license check; "Plan if the ice goes?" "Page two" (cash back if weather stops play). Two flags mid-pitch; "Stand by"; she lands the fish. The committee will bring the derby's indoor day to her alley for a venue fee, and Hollis gives the fact Ray didn't want: "Our people come in off the ice for a name they know. Put up a cup with nobody on it and you'll get the ones who were coming anyway." Her fingers are white; Ray puts his gloves on her hands, working each finger down, without stopping his argument. "Going to check my flags." / "They're all down." / "Then it won't take long." **s3, Tue Jan 19, after league, the counter.** Ray lays Arlene's signed release on the counter and asks her to sign: "So when I tell you no, you'll know it's no, and not my supper table waiting on your building." Ellen refuses: "That paper is Arlene's bed. You want me to sign it so your no feels clean." Both right, and both say so. |
+| **The turn** | She won't sign. His no stays compromised by her choice, to keep Arlene's floor. |
+| **The longing** | The gloves, finger by finger. At the counter, the release between their hands, and neither moves first. |
+| **The laugh** | Hollis at Ray (courting); Hollis's flags; Arlene commenting on a scanner call. |
+| **Money fact** | None stated. Hollis's line on the name is the fact the chapter turns on. |
+| **Survives the truth because** | O3. |
+| **What changes** | Start: refused. End: Ray has tried to get out from behind her and been refused; the nameless Open is booked and thin; a third party has said the name is what fills it. |
+| **Chapter promise** | Whose is Linda's day to give? |
+| **Cost** | For Ray: he has asked Arlene to bet her bed and heard what that means. For Ellen: she keeps the man she loves compromised to keep an old woman safe. |
+| **Plants** | The release with one signature of three. The printed terms, page two. Hollis and the derby. |
+| **Ending** | **Cut.** Ellen: "Then your no stays what it is, and I'll go and ask the people it belongs to." "It belongs to me." "It has Linda's name on it. She had friends." |
+| **Texture budget** | Ice thickness, once (Hollis's figures on the safe side). Tip-ups. |
+| **Get right** | NH ice fishing; bob-house marking; a mutual release of a sale contract (domain check). |
 
 ## Chapter 07 — Loss of Separation
 
 | Field | Content |
 |---|---|
-| **POV / dates / words** | Ellen. Tuesday, February 2. 3,100 |
+| **POV / dates / words** | Ellen. Tuesday, January 26, to Tuesday, February 2. 3,300 (s1 800 · s2 1,300 · s3 1,200) |
 | **Register** | Dark |
-| **Purpose** | End of Act 2: the offer, the walkout, his defense of her, her confession, the break. |
-| **Opens with** | 5:45 p.m. Ray's truck idling in her lot. He gets out and lays a cashier's check flat on the hood, in the cold. |
-| **Key events** | **The hood.** Forty-eight thousand, his own savings, nearly all of them. He'd buy in as a partner. Every eight dollars on the note takes a dollar off what the bank needs her to make, and this takes off about six thousand. Enough that she can give Linda's night back to the league and still have room. He wants her and he wants the alley, and he can't separate them. She refuses: "If I take it I'll never know which of us carried it." The unspoken reason, in her head: she can't let him buy in while he believes something about her that isn't true. She tells him why it's that plain: Judy has had the appraisal since Christmas, and on March 1 the committee looks at nothing but the winter. Ray: then he keeps his commitment. Early, before any of it lands: "Don't count it. You'll lick your thumb like Arlene." **League night, second half begins.** The captain gives notice for the Highway Department; the Legion goes with him, because half of them plow for him. He quotes Ray from the January minutes: she gave her word, Ray told this room so, and she broke it. Ray crosses the room, stands beside her at the counter, and tells them she said "unless the numbers say otherwise" and he didn't hear it: "That's mine." The teams go anyway. Denise, at the register, one line on what that costs: "Their lanes stay lit either way, honey. You just lose what they paid." **After close, the lanes dark.** He says he'll tell the whole league tomorrow. She can't let him. She tells him: she watched him not hear it. "I didn't get a readback, and I knew it." She let him kiss her knowing it, sat silent while he vouched for her, and took Linda's name for a margin when an Open without it would have cleared. In the bob-house he asked, and she said "I said it." Then she gives reasons. He gives her the line he can't take back: "You sounded fine on the radio that night too, I bet." He lays her key on the counter and goes out the front. |
-| **The turn** | Her confession, made necessary by his defense of her. |
-| **The longing** | At the hood she wants to say yes, and the reader sees how much. At the counter, his shoulder an inch from hers while the room boos. |
-| **The laugh** | Ray at Ellen, at the hood: "Don't count it. You'll lick your thumb like Arlene." Then nothing, by design. |
-| **Money fact** | The ratio: eight dollars on the note for every dollar off the bank's number. Ray. |
-| **What changes** | Start: opposed and in love. End: two teams gone, the key on the counter, her worst night said back to her. |
-| **Chapter promise** | Can she carry it alone now? |
-| **Cost** | Ray. Two teams and what they paid. The key. The 2 a.m. night as a weapon. |
-| **Plants** | The key on the counter. |
+| **Purpose** | End of Act 2: the league in one room, a yes nobody expected, and the break. |
+| **Opens with** | The Open's entry box on the counter: seven envelopes in three weeks. |
+| **Key events** | **s1, Tue Jan 26.** The nameless Open is thin, as Hollis said. Ellen asks Denise, Hollis and Verna to stay after league next Tuesday, and tells Ray to his face: "I am not going around you. I am going to them, with you in the room." "Same thing, Mrs. Daly." Dale overhears and says he'll be there too. **s2, Tue Feb 2, after league, the snack bar. The room.** Denise, Hollis, Verna, Dale, Ray, Ellen. No document, no motion, no count. Ellen asks two questions: whose is Linda's day to give, and would Linda have given it. Denise: Linda entered every open with a cup on it from here to Worcester, and Denise wants to beat everybody for Linda's cup, not the nine women in this county ("I want it to mean something when I take it"). Verna, from memory: Linda's name was the first on the sheet of the first open the house ever ran. Hollis, to Ray, the plain question: "Did anybody ask Linda?" Dale says no: "She ran league on my warning and charged my crew for a snowstorm. Now she wants Linda's cup for the same reason. No." Verna: "The secretary notes that nobody has asked the secretary to take minutes, and the secretary is grateful." Everyone looks at Ray. He says, to the room: **"Take it."** Then, in the same breath: "And somebody else can coach it." He sets the league clipboard on the table. Dale goes out. **s3, after, the lanes dark.** Ellen thanks him. She is calm, which is how she survives things. Ray: "There. Now you'll clear, and I'll lose the building, and you can stop wondering what my no was worth." "I never wondered." She starts to tell him what it cost her to ask. He gives her the line he can't take back: **"You sounded fine on the radio that night too, I bet."** He lays her key on the counter and goes out the front. |
+| **The turn** | She gets exactly what she asked for and loses him. He gives up Linda's night and thirty years of coaching in one room. That's the rupture, and the reader didn't predict it: Ellen never takes the name, and the cost lands on Ray's league as well as on her. |
+| **The longing** | s1: she watches his hands square the house balls on the rack. s3: before the line, his shoulder an inch from hers in the dark, and she wants him to stay on the step one more time. |
+| **The laugh** | Verna's minutes line in s2. Then nothing, by design. |
+| **Money fact** | None stated. The empty entry box, then the name, is the money. |
+| **Survives the truth because** | O4. |
+| **What changes** | Start: opposed and in love. End: Linda's name on her Open, the league without its coach, her worst night said back to her, and the key on the counter. |
+| **Chapter promise** | Can she carry it without him, and will he come back to a league he walked out on? |
+| **Cost** | For Ellen: Ray; the 2 a.m. night used as a weapon. For Ray: Linda's night and the league, given in anger. For the league: its coach. |
+| **Plants** | The key on the counter. The clipboard on the table. |
 | **Ending** | **Consequence.** She picks up the key and doesn't know where to put it. It goes in her own pocket. |
-| **Texture budget** | An equity buy-in, one sentence; a loss of separation, one sentence in her head. |
-| **Get right** | Leaving a league at the half. The coverage ratio as one carryable line (domain check). No intimate scene. |
+| **Texture budget** | A loss of separation, one sentence in her head. |
+| **Get right** | No intimate scene. Nothing read aloud. |
 
 ## Chapter 08 — Position Relief
 
 | Field | Content |
 |---|---|
-| **POV / dates / words** | Ray. Friday, February 5, to Tuesday, February 16. 3,100 |
+| **POV / dates / words** | Ray. Thursday, February 4, to Monday, February 15. 3,000 (s1 900 · s2 650 · s3 550 · s4 900) |
 | **Register** | Warm |
-| **Purpose** | Act 3 opens. Ray asks to give up the building. Repair beats 1–3 in order. |
-| **Opens with** | Pine Ridge Lanes. Sixteen lanes and pop music, and Gil handing Ray a house ball he swears is older than Ray. |
-| **Key events** | **s1, Fri Feb 5, Pine Ridge.** If Ray wins the side match, both teams come back at the season rate and bowl the Memorial. If he loses, he pays their Pine Ridge lineage for the rest of the season and bowls for Gil. Gil referees scrupulously. Denise keeps score, and Gil remembers a spare she picked up in 2015 (Book 2 seed). Ray starts badly ("Holy mackerel", once) and wins his tenth on deadwood, unspoken. **s2, Sat Feb 6, Arlene.** Ray asks why she sold to Ellen. "You'd have kept it a museum. I wanted it to live." The ham and "Voyons donc". Then he asks her to release him from the contract. She tells him what he's asking: if Ellen misses, there's no sale on March 1. She loses her place at The Pines and goes back on the list at eighty-four, and may not live to the top of it. She'll be paid months later through foreclosure, and the man from Concord will get the lot at land value. Then her reason: in 1971 she held Normand to buying a building she wanted and he didn't, and he spent eighteen years in it. She won't hold Raymond to one he has stopped wanting. She signs on one condition: "Bring me her signature too. It's hers to risk as much as mine." **s3, Mon Feb 8, 5:50 a.m., ACCOUNTABILITY.** Ellen at his counter before the store opens. She names it, no reason attached: she watched him not hear, kissed him, sat silent while he vouched for her, took Linda's name for a margin, and lied to his face. She knows the teams are back, and says he has no reason to believe she'd have come anyway. The Bench comes in mid-sentence; she doesn't stop. Silence, then Normie: "Coffee's on." **s4, Thu Feb 11, VERIFICATION.** League night, on an invoiced call for lane 4. Verna reads the minutes, including a letter from the owner answering Mr. Gagnon's January statement. He didn't fail to hear; she saw he hadn't heard and said nothing. She took the Memorial's name for margin, not need, and the silence and the name are hers. Ray asks for the binder and reads it himself: her block capitals, **dated February 3**, two days before Pine Ridge. **s5, Tue Feb 16, after league, THE CONDITION.** He knocks on her front door at close, the way he did on Dec 1. He names his wrong: the radio line, picked because it would land. Then his condition: Linda's name comes off the Open. The league bowls its own Memorial at two on the last Saturday, on all ten lanes, the way it always has. The Open gets the morning and the evening, for a new cup. Hollis, by phone, for the committee: "We voted on an Open, not on a name." She accepts and pays for it: she phones every entrant who signed up to bowl for Linda and offers their money back. Then he puts the release on her counter with Arlene's signature on it, and asks. Ellen: "You've asked an eighty-four-year-old to bet her bed on me." "I know what I asked." Neither forgives it. She signs, for her own reason: she won't have the man she asks to stand beside her also be the man waiting to buy. She knows what her signature puts on her number and signs anyway. He calls Concord in the morning and lets the commitment lapse; re-underwriting would take ninety days. She holds out his key. "Not yet." Earlier that day, in one line, he ordered a K from a sign shop in Laconia. |
-| **The turn** | The release, signed by all three. He can't buy by March 1 in any outcome. Arlene's place now rides on Ellen's number. |
-| **The longing** | s3: she isn't wearing gloves; he wants to give her his again and doesn't. s5: she opens the door before he's finished knocking. |
-| **The laugh** | Gil at Ray, the house balls. The Bench, silent, then "Coffee's on." |
-| **Money fact** | Nine entrants take their money back, and her cushion is gone. Ellen tells him as she accepts. |
-| **What changes** | Start: broken; he could buy her out. End: he can't, Arlene rides on her by her own signature, her confession is in the town's record, and there are terms but no key. |
-| **Chapter promise** | Will he take the key back, and will she ever ask him in? |
-| **Cost** | For Ellen: public confession; nine refunds; Arlene's place, carried by her own choice. For Ray: the building, and what he asked of an 84-year-old. |
-| **Plants** | Locker 14: he stops there leaving s4 and doesn't open it. The K tube. "Not yet." |
-| **Ending** | **Question.** "Not yet." He goes. She's still holding out the key. |
-| **Texture budget** | Side-match format. The release, one line. |
-| **Get right** | Mutual release of a conditional sale contract (domain check). |
+| **Purpose** | Act 3 opens. Repair beats 1–3 in order: Ray's accountability, Ellen's verification, and Ellen's condition, accepted at the cost of the building, with Arlene told to her face. |
+| **Opens with** | Thursday league night. Ray in the pit behind lane 3 with the sweep motor half out, having let himself in the back with Hollis's help before anyone called him. He has quit the league, but he doesn't leave a machine down on league night, whoever owns it. |
+| **Key events** | **s1, Thu Feb 4, the pit.** Through the steel door he hears Ellen at the counter phone taking entries for "the Linda Gagnon Memorial Open": a team from Maine, and Gil Arsenault from Halsey Falls ("Linda beat me in the 'ninety-four open, and I'd like a second look"). Hollis, holding the light: "You going to tell her what you said was wrong, or fix another one?" Ray leaves an invoice on her counter, with a rate, in her format. **s2, Mon Feb 8, 5:15 p.m., ACCOUNTABILITY.** He skips his supper and knocks on the glass of her front door, as on December 1. She finishes what she's doing before she comes. He names it with no reason attached: "You told me about that night in the dark with a pin in your hands, and I picked it because it would land, and I used it on you. And I walked out on thirty years of people so you'd watch me go." She doesn't let him in. "Understood. I'd like to hear whether it holds." **s3, Tue Feb 9, 5:50 a.m., the store, VERIFICATION.** She comes in before opening and asks him to say it again, here, where it costs him. The Bench and Danny come in mid-sentence, and he doesn't stop. He adds what he has done: he's coaching tonight, and he hands her Gagnon & Son's entry for Linda's Open, in his hand, paid. She reads it herself. Silence. Normie: "Coffee's on." Danny, after she goes: "You're allowed to want something that isn't on a shelf." **s4, Mon Feb 15, THE CONDITION, then Arlene's kitchen.** At her counter Ellen sets it: "If you come back, you come back beside me. Not behind me. I'll sign Arlene's paper, and I'll tell her myself." He accepts what it costs him, which is the building in every outcome (his lender's commitment lapses, one clause), and says so. Upstairs at Arlene's, Ellen tells her on her feet. **Statement 2:** "With every lane of the Open full, I clear by six hundred. One storm takes that. If I sign this, nobody is behind me, and your place rides on me." Arlene names the cost again and signs: "I said I'd sign when you did, dear. I didn't say I'd like it." Ellen signs, then Ray. On the stairs (Ray's interior, one line): he ordered a K from a sign shop in Laconia that morning. |
+| **The turn** | The release, signed by all three with every fact said. Arlene's bed rides on Ellen's number by Ellen's choice. |
+| **The longing** | s2: her hand on the inside of the door glass, level with his. s4: on Arlene's narrow stair she's one step above him, eye to eye for once. |
+| **The laugh** | The invoice in her format. "Coffee's on." Arlene: "Raymond, you've signed that like a man buying a boat." |
+| **Money fact** | **Statement 2**, Ellen to Arlene, Ray present. |
+| **Survives the truth because** | The condition is chosen with every fact said. What's left between them is the weather and the number. |
+| **What changes** | Start: broken; he's her buyer and out of the league. End: he can't buy in any outcome, he's coaching again, he's entered Linda's Open, Arlene knows exactly what she's betting, and there are terms but no key. |
+| **Chapter promise** | Will he take the key back, and will one storm take the six hundred? |
+| **Cost** | For Ray: the building; his worst line said twice more, once in front of the town. For Ellen: Arlene's floor. For Arlene: her bed on the line. |
+| **Plants** | Gil entered. The K ordered. Six hundred over, and one storm. |
+| **Ending** | **Question.** Ellen holds out his key. "Not yet." He goes down the stairs, and she's still holding it out. |
+| **Texture budget** | Sweep motor, one line. The release, one line. |
+| **Get right** | Mutual release of a conditional sale contract; lapse of a purchase commitment (domain check). |
 
 ## Chapter 09 — The D-side
 
 | Field | Content |
 |---|---|
-| **POV / dates / words** | Ellen. Wednesday, February 24; Saturday, February 27. 2,800 |
+| **POV / dates / words** | Ellen. Wednesday, February 24, to Saturday, February 27. 3,000 (s1 700 · s2 250 · s3 750 · s4 650 · s5 350 · s6 300) |
 | **Register** | Tense |
-| **Purpose** | The ordinary scene (repair beat 4); storm day; her answering gesture; a loss that stays lost; Kate. |
+| **Purpose** | The ordinary scene (repair beat 4); storm day; she asks him onto the position; the evening lost; Arlene told she's under; Kate asked first. |
 | **Opens with** | 5:14 p.m. Ellen on Ray's back step with nothing in her hands, one minute early, deciding whether to knock. |
-| **Key events** | **s1, THE ORDINARY SCENE.** Supper at a quarter past five. He makes one supper, and it has never failed. "What do you make the second night?" "That one." Her knee, from 2009. No alley, no money, no league, no Linda. **s2, Sat 4:10 a.m.** Hollis calls off the derby's outdoor day, and its crowd comes to the alley. The schedule: the Open's morning flights, the league's Memorial at two on all ten lanes, the Open's evening at six. **s3.** Storm day: 150 people in snow boots, coolers on lane 10, the raffle from a ball return. By midday it's more than one person can hold. In the pit she gives Ray a relief briefing and asks him to share the position, today and after, whatever Monday says. "At the Center they call it the D-side." He reads it back. **s4, 1:40 p.m.** Hollis: the town wants everybody off the roads by four. The Memorial can't be bowled and everyone home by four. Denise: keep them, like December. Ellen: thirty-three adults then; a hundred and fifty with children now, and a boiler that quits when the power does. Ray, on the D-side: send them home. The Memorial moves to Sunday at one, all ten lanes, for the league teams. The Open's evening is over. Her printed terms promised cash back if weather stopped play, and most of the evening entrants are driving home to Massachusetts. She refunds it at the counter, envelope by envelope. The derby treasurer objects: his evening raffle draw dies with the crowd. Out by 3:45. In the empty building she says the number to Ray, and what rides on it now: Arlene's place, by her own signature. **s5, night, her camp.** She calls Kate. She doesn't tell her; she asks to break what she swore on December 2. "Scale of one to ten." "Ten." |
-| **The turn** | She asks Ray. Then she gives the evening back, and it doesn't come back. |
-| **The longing** | The ordinary scene. His voice giving her own words back, in order. |
-| **The laugh** | "What do you make the second night?" / "That one." The raffle winner coming back through the snow for his ice auger. |
-| **Money fact** | About fifteen hundred under, and a Sunday Memorial can't bring that much. She tells Ray. |
-| **What changes** | Start: terms, no key. End: partners in practice, under the line, about to spend her savings, and asking her daughter first. |
-| **Chapter promise** | Will Kate say yes, and is it enough? |
-| **Cost** | The evening, for good. "On my own." |
-| **Plants** | The Memorial on Sunday at one. Judy will come Sunday; her nephew bowls for the Legion (one line). |
-| **Ending** | **Cut.** Kate: "Then do it. And call me first next time. Like this." |
+| **Key events** | **s1, THE ORDINARY SCENE.** Supper at a quarter past five: American chop suey in the yellow kitchen. "What do you make the second night?" "That one." His boot touches her knee; he asks; she tells the 2009 ski fall in order, and he laughs at the toboggan and nowhere else. He tells her the house goes quiet at a quarter to six, and that was why he wanted the alley; he says it about her being in the kitchen now, not about the building. She says "supper." No alley, money, league or Linda. **s2, Sat 4:10 a.m.** Hollis: a storm, the derby's outdoor day off, and its crowd coming to the alley. She is up and dressed. **s3, storm day, midday, the pit.** 150 people in snow boots; the Open's morning squads; the raffle drawn from a ball return; Judy Ostrowski's nephew bowling for the Legion, one line. By midday it's more than one person can hold. Ray's hands are inside the pinsetter on three, and she gives him a relief briefing and asks him onto the position, "today and after, whatever Monday says." "At the Center they call it the D-side." He reads it back. "Readback correct." **s4, 1:40 p.m.** Dale, as road agent, at the counter: everybody off the roads by four. She takes it at once, with no argument. On the D-side: thirty-three adults in December, a hundred and fifty with children now, and a boiler that quits with the power. Send them home. Linda's final moves to Sunday at one on all ten lanes; the evening squad is over. She offers the evening teams Sunday morning, and they decline (vacation week ends, Monday work, the drive home to Massachusetts). She refunds at the counter. Dale takes his crew's envelope: "Nobody ever refunded me for a snowstorm either." Out by 3:45. **Statement 3**, in the empty building, to Ray: "Fourteen hundred under. Sunday can't make that." He doesn't offer. She tells him what she means to do and whom she has to ask first. **s5, evening, Arlene's kitchen.** Ellen tells Arlene on her feet: she is under, by more than Sunday can make. There is money she swore to her daughter would never go into the building, and she's going to ask her daughter tonight. Arlene: "Then ask her tonight, dear. The woman behind me on the list has been packed since August, and I've been packed since September." **s6, night, her camp.** She calls Kate and asks before deciding, for the first time. She tells her plainly what yes costs (most of what she has; what's left heats the camp through one bad winter) and what no costs (an old woman's bed). Kate: "Scale of one to ten." "Ten." |
+| **The turn** | She asks Ray onto the position, and the evening goes and doesn't come back. |
+| **The longing** | The ordinary scene. His voice giving her own words back in order. |
+| **The laugh** | "What do you make the second night?" / "That one." Dale's refund line. The raffle winner coming back through the snow for his ice auger. |
+| **Money fact** | **Statement 3**, Ellen to Ray. |
+| **Survives the truth because** | O5 begins. Ray's money can't be counted, and hers is sworn. |
+| **What changes** | Start: terms, no key. End: partners in practice, under the line, Arlene told, Kate asked. |
+| **Chapter promise** | Will Kate say yes, and will the committee? |
+| **Cost** | The evening, for good. Telling Arlene to her face. Asking her daughter for the money she swore. |
+| **Plants** | Linda's final on Sunday at one. Judy's nephew. |
+| **Ending** | **Cut.** Kate: "Let me sleep on it." The line goes dead. |
 | **Texture budget** | Position relief (set piece, cap six). The weather call. |
-| **Get right** | Town asking people off the roads. Relief briefing. |
+| **Get right** | A town asking people off the roads; a relief briefing; "D-side" as a Center term. |
 
 ## Chapter 10 — Ice-Out
 
 | Field | Content |
 |---|---|
-| **POV / dates / words** | Ray. Sunday, February 28, to Monday, March 1. 3,200 |
+| **POV / dates / words** | Ray. Sunday, February 28, to Monday, March 1. 3,000 (s1 600 · s2 800 · s3 700 · s4 450 · s5 450) |
 | **Register** | Comic, warm under it |
-| **Purpose** | The last day of the quarter, the declaration, and the HEA as a scene. |
-| **Opens with** | 7 a.m. Sunday. Ray at the counter of a building he still has no key to (she let him in at 6:30). Hollis on the radio: four inches of slush on the ice, water coming up through the holes, and the derby's Sunday is off. |
-| **Key events** | **s1.** No rescue comes through the door. The Highway Department team comes in off a night of plowing. Judy comes to watch her nephew; she asks Hollis the slush depth, and he gives it in measurements and writes it down twice (Book 3 seed). Ellen tells Judy she'll bring a paydown to the closing. Judy: the winter's cash stays in the account, so it has to be new money; "Bring it. I'll circle it." **s2, the Memorial, at one, all ten lanes.** Ray opens locker 14 and bowls with Linda's ball. Over the PA: "Kettle Lanes, Gagnon. Request." / "Gagnon, say request." From next year, Linda's name goes on the Open, and anybody who enters can win it, because Linda would have entered on day one. Denise's team beats his, and Denise takes Linda's trophy, to the book's one ovation. Gil says one line. **s3, 6 p.m.** They count the day together. Ellen says it plainly: twenty-eight thousand nine hundred. Arlene's best winter was twenty-one. The bank's number is thirty. Monday, eighty-eight hundred of her fourteen thousand goes on the note, which brings the bank's number down to what the winter made. She keeps fifty-two hundred, and Kate said yes. He doesn't offer money. "Okay." **s4, the declaration, the pit behind lane 7.** He says it his way, few words, the important ones last. She answers in hers, plainly, with no list. Kiss 3. "Both words." may close it. **s5, Mon Mar 1, 4 p.m., HEA.** Ray up a ladder at the road sign with the K from Laconia; Ellen holding the ladder. Up the ladder, she tells him it funded. Arlene's car stops on Kettle Road on the way to The Pines: paid by wire, the confirmation counted with a licked thumb. Ray climbs down and hands her the 1996 key. Denise brings the pool sheet: nobody held March 1, and the pot goes to the derby kids' division. Ellen tries to buy the "wedding date" square; Denise won't sell it. Denise has Gil's spring-doubles flyer in her pocket and says she's thinking about it. That's the Book 2 hook, stated plainly. Ellen holds out the key. He takes it. "Mrs. Daly." She lets it stand. |
-| **The turn** | The declaration; on Monday, her savings onto the note, and the note paid. |
-| **The longing** | The pit. The ladder. |
-| **The laugh** | Denise at Ellen: "You don't get to bet on your own flight." Ray at Ellen: "Mrs. Daly," uncorrected. |
-| **Money fact** | Twenty-eight thousand nine hundred against thirty; eighty-eight hundred of her own to close it. Ellen says it. |
-| **What changes** | Start: under the line, no key. End: hers, paid for twice, and his by asking. |
+| **Purpose** | Kate's answer; Linda's final; the count; the declaration; the bank in Ray's presence; the HEA at the sign. |
+| **Opens with** | 7 a.m. Sunday. Ray whittling score pencils at her counter with a pocketknife. Hollis on the radio: four inches of slush on the ice, water up through the holes, the derby's Sunday off. Ellen's phone rings. She lays it face up between them and touches the speaker. |
+| **Key events** | **s1, Kate on speaker** (v2 payoff kept). Four hours asleep in a hospital garage with the seat back. "I did the subtraction. Without the dollars. It's harder than it sounds." "Then do it." "And call me first next time." Then: "Like this." Ray: "I'd have said no." Kate: "You weren't asked." And: "I'm coming up in April to see what I paid for." Judy comes in early to watch her nephew. Ellen tells her she'll bring new money to the closing. Judy restates the rule: the winter's cash stays where it is, anything else is new money, and new money means she lends that much less, so the committee needs that much less. Ray: "I've got—" Judy: "It has to be hers, and it has to have sat in her name since before Christmas. The committee reads statements." Then the doubt: "With it, you're at the line. The committee doesn't love a winter that needed the owner's savings. Ten o'clock tomorrow. I can't promise." **s2, Linda's final, one o'clock, all ten lanes.** "Kettle Lanes, Gagnon. Request." / "Gagnon, say request." Locker fourteen opened with Ellen's hand under his on the key. Linda's last league sheet: three strings, a poor box written down as carefully as the good ones. Linda's ball. Denise: "don't you go bowling it sentimental on me." On the PA Ray says that from now on Linda's name goes on the Open every year, and anybody who enters can win it, "because Linda would've entered on day one." Denise, to Ellen, marking the difference: "That's how a name goes on a cup, honey. The man it belongs to says so." Judy hears it (one line). Dale's crew has come in off a night of plowing to bowl. The last box is played on the page: Denise's third ball takes the four-horse; Ray's last box leaves two pins at the back. Verna: "The secretary has Lakeview Diner by two pins." Denise takes the cup, and the room gives the book's one ovation. Gil hands her the spring-doubles flyer: "I'm thinking about it." Ray sets Linda's ball on the house rack. **s3, 6 p.m., the count, then the pit behind lane 7.** They count the day together. **Statement 4:** "Nine hundred under." Arlene's best winter was twenty-one; thirty is the line; Kate said yes. He doesn't offer. Behind lane 7: "The night of the storm I told you two things and kept the third, because it wasn't in order. It is now. Third. I love you." "Third item," he says, in her form. "You love me." Then his own, few words, the important ones last: "I've loved you since about the first night, when you kept me knocking at your door to finish your tape." Kiss 3 (the glasses cord catches on his zipper). **s4, Mon Mar 1, Granite Lakes.** The price is paid first: at nine her wire goes, a figure Judy writes on a slip and circles, more than half of what she had. Ray is in the other chair. "Is that Ray Gagnon on my chair?" "In it." The committee calls at twenty past ten. Judy listens, says "Approved," and gives one line why: they asked what next winter looks like, and she told them what she heard on the PA yesterday afternoon. The payoff wire goes to Arlene. On Main Street, Arlene asks for her key back: "Raymond. I'll have my key back while you're passing." She licks her thumb and counts it: "One." "That tag's about worn through." "So am I." **s5, 4:30 p.m., the sign. HEA.** Only the two of them. The Laconia shop set the transformer; Ray mounts the K with the disconnect open. Ellen holds the ladder. She holds out his key; "That's not asking." "Ray. Will you take it?" He works it onto the ring where Arlene's hung for thirty years. "Throw her, Mrs. Daly." He waited to be corrected. She threw it. "How's she read?" Ellen walks into the middle of Kettle Road and looks up. "Both words." |
+| **The turn** | The declaration, then the committee's yes, with the price paid before it. |
+| **The longing** | The pit. The ladder: he feels her through the rails. |
+| **The laugh** | "You weren't asked." "In it." "So am I." "Mrs. Daly," uncorrected. |
+| **Money fact** | **Statement 4**, Ellen to Ray. The paydown is shown with no figure. |
+| **Survives the truth because** | O5, closed: Kate releases the oath; Judy's fact closes Ray's money. |
+| **What changes** | Start: under the line, Kate's answer pending, no key. End: hers, paid for with more than half her savings, his by asking, and Linda's name given freely. |
 | **Chapter promise** | Resolved. Book 2: Denise and Gil. |
-| **Cost** | For Ellen: most of her last safety net. For Ray: Linda's ball out of the locker, and her name given to the town. |
-| **Ending** | **Open image.** The sign comes on: KETTLE LANES, all of it. The last line is an action or a line of dialogue. |
-| **Texture budget** | Denise's tenth, briefly. The neon tube, one sentence. |
-| **Get right** | Paydown at closing; same-day wire (domain check). Slush on lake ice. Neon single-letter repair. |
+| **Cost** | For Ellen: most of her last safety net. For Ray: Linda's ball out of the locker; her name given to the town; the final lost by two pins. |
+| **Plants** | Kate in April. Denise's flyer. |
+| **Ending** | Scene endings: s1 question ("I can't promise"); s2 consequence (Linda's ball on the rack); s3 consequence ("Ten o'clock. You'll come." "I'll come."); s4 cut ("So am I."); s5 **open image** ("Both words."). No soft run. |
+| **Texture budget** | Denise's tenth box, played. The neon tube, one sentence. |
+| **Get right** | Paydown at closing; seasoned funds; committee discretion; same-day payoff wire (domain check). Slush on lake ice. A single neon letter replaced. |
+
+## Epilogue — Spring Doubles
+
+| Field | Content |
+|---|---|
+| **POV / dates / words** | Ellen. Saturday, April 17. 700 |
+| **Register** | Warm |
+| **Purpose** | The reward-stacking time jump readers praise, as one scene with both leads. |
+| **Opens with** | Ellen wakes at ten past five, doesn't know what time it is for a full second, and lies there enjoying it. Hollis called ice-out yesterday. |
+| **Key events** | Evening at the alley, all ten lanes going. Kate is on lane 5, bowling her mother's arc a foot too high, and Ray is coaching her with his hand on her wrist the way he coached her mother. Denise's bag is by the door: she drives to Halsey Falls in the morning to bowl spring doubles with Gil Arsenault, and tells Ellen, and only Ellen, that she's nervous. That's the Book 2 hook, plain enough to repeat. Denise brings the old pool sheet: nobody held March first, and the pot went to the derby's kids' division. Normie's new sheet has no title, and Ellen tries to buy a square. Denise: "You don't get to bet on your own flight." One line each: Danny opens the store at six now; Hollis won the cribbage, twelve winters running. The K is lit over the road. Kate, before she has decided anything, turns to Ray: "Scale of one to ten?" |
+| **The longing** | Ray's hand finds Ellen's under the counter while Kate bowls; neither looks down. |
+| **The laugh** | Kate's ball into lane 6. Denise's "own flight." |
+| **Ending** | **Cut.** Ray: "Ten." |
+| **Texture budget** | None beyond the room. |
+
+---
+
+## What changed from v2 and why
+
+1. Ellen self-reports the missed condition in Ch 04 s1 → calibration rule 1 (dark moment must survive an honest conversation); genre map, Conflict between the leads ("Adults talk").
+2. The spine is Linda's day plus Ray-as-buyer, with a one-talk sentence for every obstacle → rule 1 and the map's one-talk test.
+3. Both leads are right on the page: Ellen by Hollis's fact and Arlene's bed, Ray by the league's claim and his own conflict, which he says out loud → map Pair ("a value clash each lead is right about").
+4. Bylaws, season agreement, January meeting, vote and lineage subplot are cut, and the league is one room with nothing read aloud → cold reader and pull-curve stop points; lane A, Subplot −30; rule 5 (spend effort where readers reward it).
+5. One money number, four statements, no ratio, no lender list → listener pass; lane A, Setting/emotional payoff over procedure; map Texture.
+6. The $48,000 check is cut and Ray's money closed by two facts → audit F4; brief's "no rescue money"; user instruction 4.
+7. The rupture is a yes nobody expected (the room, "Take it", Ray quits) and not the predicted exposure → rule 2 (formula and predictability, −50); lane A, Twists and coincidence −42 (no device, just people choosing).
+8. Act 3 costs more: Arlene's floor by Ellen's condition, the storm, Arlene told twice, Kate's oath, the committee in doubt → audit F2; rule 4 (resolution on the page, not cheap).
+9. Arlene is told by Ellen, on the page, in Ch 08 and Ch 09 → audit F2; user instruction 5.
+10. The notary snag, the strike-drowns-it device and side-character bows at the sign are gone, and the HEA at the sign is only the two leads → lane A, Twists and coincidence; v2 cold reader ("ceremony dressed as crisis").
+11. The bank is decided in Ray's presence, after the price is paid, with discretion that is real → user instruction 5; rule 4.
+12. A short epilogue scene in April → rule 5 (epilogue +74 to +77); lane A structure norm (reward-stacking time jump).
+13. Kate's want is planted (Ch 05), she is asked first (Ch 09) and sleeps on it (Ch 10) → v2 complaint "Kate dissolves the oath in two lines"; the map's chapter-cliffhanger rule.
+14. Dale's thread is resolved by Dale, and the Pine Ridge side match and walkout are cut → audit F8 and F13; lane A, Subplot −30; rule 7 (no one-note villains).
+15. Denise's team is planted (Ch 05) and the last box played on the page → audit F9; side cast +71.
+16. Ray gives Linda's name freely in Ch 10, and Denise marks the difference from the room's yes → audit F10.
+17. Why Ray wanted the alley is on the page in the ordinary scene → audit F11; the map's ordinary-scene rule.
+18. Kept: hero POV alternation, Ellen at 58 with age never the obstacle, the courtship on the page, the readback device, the side cast, the setting, the laughs, and v2's Ch 10 payoffs (Kate on speaker, locker fourteen and Linda's sheet, the third item in readback form, "He waited to be corrected", "Both words.") → lane A calibration points (hero chapters 4.09 vs 3.63; older heroine; courtship on the page; a strong device).
+19. Second kiss with nothing hidden → v2 cold reader ("least earned"); lane A chemistry is shown as visible wanting.
 
 ---
 
 ## Author decisions
 
-1. Backup sale contract signed by Ellen (Open for the author 1). Default yes.
-2. Savings paydown of $8,800 of $14,000 at closing; she keeps $5,200 (Open for the author 2). Default yes.
-3. Withheld-fact exception (Open for the author 4). Default approve.
-4. The winter makes $28,900 against $30,000; she pays down the $1,100 gap (Open for the author 5). Default approve.
-5. Ellen takes Linda's name for margin, and the book says so. Default yes.
-6. Ray puts her promise on the record at the January meeting. Default yes.
-7. Ray's five o'clock is his own: the credit union committee, Danny's signature, Lucien's 1974. Default yes.
-8. The season agreement's paragraph four binds the rate until January. Default yes.
-9. Arlene releases Ray for Normand's sake, naming her cost, and only with Ellen's signature. Default yes.
-10. Ray's $48,000 check is drawn on his own savings; the ratio is on the page in Ch 7. Default yes.
-11. The Memorial is the league's, on all ten lanes, Saturday at two (moved to Sunday by the storm). Default yes.
-12. The boiler, visit log, strip box, release-by-recording and per-day fee are all cut. Default yes.
-13. Three kisses. Ellen does not bowl the final. The teams that walk are the Highway Department and the Legion. Default yes.
-14. The April coda is cut; the HEA is Monday at the sign. Danny's store handover is off the page. Strict POV alternation. Default yes.
-15. Title open; Ch 1 is *Cleared to Bowl*.
-16. The bible money table is rebuilt to the figures ledger in Shape. Bible-builder sets exact amounts within it.
+Each item has a default. Under autopilot the orchestrator may approve at the defaults; items marked `[CHECK]` go to the domain checker.
+
+1. **Retire the withheld-fact exception.** Ellen tells Ray in Ch 04 s1. Default: yes.
+2. **Cut the $48,000 check.** Ray's money is closed by "money isn't a winter" (Ch 05) and Judy's seasoned-funds requirement (Ch 10). Default: yes. `[CHECK]` seasoning of a borrower's paydown funds.
+3. **Cut from the page:** bylaws, season agreement, January meeting, lineage raise, the Concord renewal, the Pine Ridge side match, the walkout. Default: yes.
+4. **The room gives the name and Ray says "Take it," then quits coaching.** He's back by Ch 08 s3. Default: yes.
+5. **The release becomes Ellen's condition in the repair.** Arlene is told by Ellen in Ch 08 and Ch 09 and signs knowing the six-hundred margin. Default: yes. `[CHECK]` mutual release; lapse of the buyer's commitment.
+6. **The four stated figures:** four thousand under, six hundred over, fourteen hundred under, nine hundred under. The paydown amount stays off the page. Default: yes. The bible-builder rebuilds the money tables to the off-page ledger above.
+7. **The committee has discretion, and Judy's yes cites the annual named Open she heard announced Sunday.** Default: yes. Alternative: a purely mechanical yes; that loses the last doubt. `[CHECK]` committee discretion on a winter with an owner paydown.
+8. **The storm stays as the Act 3 weather crisis.** It is planted as a risk Ellen names herself (Ch 06 "Page two"; Ch 08 "One storm takes that"). Default: yes. Alternative: a thaw that closes the lake and the derby. That's less dramatic and still weather.
+9. **Epilogue, 700 words, Ellen POV, April 17, no kiss.** Default: yes. A fourth kiss is optional and off.
+10. **Gil is planted by Denise (Ch 05) and enters Linda's Open (Ch 08).** The flyer comes in Ch 10 and spring doubles in the epilogue. Default: yes.
+11. **Series ledger.** This is book 1, and no series bible ledger exists yet. Default: open one at `books/<series-slug>/series-bible.md` with this book's entries: premise (an older outsider buys a failing town institution against a deadline); tropes (rivals-to-lovers, forced proximity in a storm, widower hero); rupture type (values clash over a dead spouse's name, the one who refuses being the one who profits); set pieces (snowed-in night, ice-fishing pitch, storm-day evacuation, readback declaration, neon letter relit); pet names (none; "Mrs. Daly" as a running bit); epilogue shape (spring time-jump at the venue, next couple's hook). Book 2 (Denise and Gil) may repeat at most one of these and none of the first three.
+12. **Bible changes needed (for the author's approval; the bible was not edited):**
+    - World rule 20: retire the secret exception.
+    - Character rule 1 is met on the page in Ch 03 and ends in Ch 04.
+    - Character rule 3 (Ch 4 renewal) is obsolete.
+    - Ellen's condemnable choices: replace "I said it" with Ch 07's room and Ch 08's condition.
+    - Ray's secondary choice: replace "asks Arlene" with accepting the condition.
+    - Verna: no vote, and no silent yes.
+    - Dale: no Open entry under his wife's name; his line in Ch 09 is new.
+    - Judy: seasoning line; the nephew on the Legion.
+    - Calendar: rebuild to this outline (the release on Feb 15; no Jan 5 meeting; the Ch 06–07 dates).
+    - Motif caps: "No readback" spoken once in Ch 04; "Not yet" once; "Scale of one to ten" three times (Ch 05, 09, epilogue); "twenty-eight thousand nine hundred" retired.
+    - Numbers ledger: rebuilt to the off-page ledger.
+13. **Kisses stay at three:** Ch 03, Ch 05, Ch 10. Default: yes.
+14. **Title** is still open. Ch 01 is *Cleared to Bowl*.
