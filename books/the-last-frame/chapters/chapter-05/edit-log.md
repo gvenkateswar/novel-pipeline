@@ -62,3 +62,48 @@
 - s4: the recap of the front-door offer is replaced by her tactic. She comes in over his "put by—" before he can name a figure, so no sum enters the room and he isn't refused on a number.
 - Lines added: 3 (Kate 1, Ellen 1, Ray 1). Dialogue lines cut: 0. Narration sentences cut: 6 (all restating what the reader has seen, or explaining a joke).
 - Tag-strip test: pass. Kate is in fragments and clinical. Ellen uses full sentences and literal answers, and gets formal under fear. Ray's lines are short and priced in the refusal, with *and*-chains and the weight last elsewhere. Denise talks in run-ons that answer her own questions. Danny speaks plainly, in two lines. Watch: Kate sounds like Ellen on purpose in the nights line, and the narration flags it.
+
+## Voice editor (draft-dialogue.md → final.md), Oct 30
+
+Draft edited: draft-dialogue.md (2,942 words incl. heading). Final: `wc -w final.md` = **2,919** (band 2,760–3,240).
+
+**Word count by scene vs floor** (hand split; s1 includes the chapter heading, about 5 words)
+
+| Scene | Target | Floor | Final |
+|---|---|---|---|
+| s1 | 500 | 450 (protective) | about 479 |
+| s2 | 850 | 800 | about 820 (not trimmed; the kiss paragraph and the throw are as the doctor left them, bar commas for "and"s) |
+| s3 | 550 | 500 (protective) | about 467 (under the protective floor; unchanged in kind from the winner, up 20 from the coffee) |
+| s4 | 1,100 | 950 | about 1,139 |
+
+No digits in the prose. No `tools/audit.py` run, per instruction.
+
+**Kept lines: untouched, word for word.** Kate's scale and "Before."; "Still the rest."; "You told my lock."; "It's January."; "Tell your thumb."; "in one go"; the no and its three sentences; the two true sentences; "I am asking"; "Then I'll make my no cost me..."; the last lines of each scene.
+
+- [Added life]
+  - s3: Ellen sits with both hands round her coffee, "which had been on the burner since eight and tasted like it", and drinks some before her question. One plain pleasure and a cue for the question, in her deadpan.
+  - s2: nothing added. At 820 against a floor of 800 the kiss scene stays as the doctor left it. Only "the heat came off them one machine at a time" was rebuilt ("each one she passed put its heat into her face"), because "one at a time" ran three times in the chapter.
+  - s1: one beat for Kate's wrapper ("The crackle had stopped at Kate's end") that cues "Before." as a held breath, not a tag.
+- [Voice]
+  - Ellen's s4 gap paragraph: "level and courteous, the voice she would have used to read him a parts list across this same counter" → "polite and unhurried, the voice for giving a stranger directions, and underneath it everything ran fast". It removes a v2 tic ("level") and a trade simile in her narration, and the gap with the interior stays visible.
+  - "ready and in order, and kept them" → "She had an answer for each of them and kept every one, and though she wanted to pick up the sack and go, she left it where it was." That removes the "in order" tic and the staccato run of four short sentences.
+  - "I'm listening." now has an action: she caps her pen. That is the second cue at a peak, with the wrapper beat. "You're asking me." gets "Ray looked at her hands on the edge of the counter, and then at her." "That's what I bought it for" gets "looking up at him."
+  - Narration contractions to full forms in Ellen's POV ("could not", "did not").
+- [Tells] (`docs/ai-fiction-tells.md`)
+  - 4.4 (items 36–37), decoding a gesture the reader just saw: cut "the way a thumb goes over the corner of a bill". Danny's "You're counting it in your head" does that work. Cut "before anyone else could say it for him" (it restated "He got there first"). Cut "every one of them was his own" (restated "short pieces").
+  - Filler openers: "It was her custom" → "Denise had done this every New Year's Eve"; "There it was, all of it in three items" → "Three items, with no space left in them for a question"; "There was one more sentence" → "One more sentence belonged in the room"; "It was the one thing he knew how to hand across a counter" → "Money was the one thing...".
+  - Hedge or cliché: "going full tilt" → "the whole of Denise's glow night"; "Ray said nothing" → "Ray's face gave her nothing" (v2 tic, "said nothing", avoided).
+  - Machine personified in the narration: "a microwave counting down" → "running".
+  - "flat" (v2 tic, hands flat on the counter) removed from four places: Ellen's hand on the steel, Ray's opening hands, Danny's mirror ("flat on the mat like his father's on the wood" → "hands went still on the bills"), Ray's hand returning ("flat, beside the other"). Kate's "fast and flat" is a voice, not a hand, and stays. Ray's hands on the wood remain the beat sheet's image, without the adverb.
+  - Time: "It was five past five. Her sense of the time had come back, and she no longer trusted it to the minute." → "Her sense of the time said five past five. It had come back since the pit, and she no longer trusted it to the minute." This fixes the contradiction (the narrator asserting the minute and then disclaiming it) and keeps the Ch 09 and epilogue commitment.
+  - Rhythm: s4's three Ellen statements were back-to-back paragraphs separated by one hand beat. The stake line now sits in one paragraph with "Nothing else I can put on that weekend...", and "She watched that one reach him" became "She watched the last of it reach him". That takes out one meeting-style beat without cutting a word she says. Ray's exit is one long sentence that lands on "he turned", with the "and then" of the arm-and-arm removed.
+  - The kiss paragraph: "and in a snowed-in building... and on her own front step" → commas, so the lost-time sentence is a list of items and not an "and" chain (the list-collapse is not used at a kiss, World rule 19).
+  - "Past the masking the house was still cheering" (twice in s2) → "Past the masking the cheering went on" the second time.
+  - Ray's "the ten pin ... and nobody came down the lane" → "and nobody cleared it" (the first was unclear to a listener).
+- [Derby / Ch 06 s4]: checked `outline.md`, Ch 06 s4 and the Hollis/Judy lines. The Sportsmen's Club does not appear there. The committee is planted on the ice, with Hollis's and Judy's own lines. No clause restored; "derby weekend ... the lake will be full of people with nowhere warm to be" is enough.
+- [Flagged for writer]
+  - Contractions in Ellen's two true sentences ("wouldn't buy back", "Yours couldn't count") sit under fear, against her profile. They are on the do-not-touch list, so they stand. The bible's note puts her first contractions with him at Ch 05, so it is defensible. If the orchestrator wants the profile kept strictly, change both to full forms: that costs two words and no meaning.
+  - "That's what I bought it for." and "You should've asked my knees" also carry contractions; the first is a beat-sheet line and the second is Denise's, so both stay.
+  - s3 is about 33 words under its protective floor (500). Nothing in the scene is flat enough to take padding, and the orchestrator named only s2 and s4 as hard floors. Not padded.
+  - "a carton of them for the cages in the pit" (s4): the pit's "cages" of bulbs are not shown in any earlier scene. Fine for a listener (cages are a hardware item), but the continuity checker should confirm it against Ch 04.
+- Pair for the log (a pattern to stop, and what to do instead): the writer's "and ... flat ... on the wood" hand-on-counter hold used as the default tension beat in every counter scene. Stop starting it; give the held hand a different job (the thumb, a nick, the seam on the finger, the pocket) and let "flat" be rare.
