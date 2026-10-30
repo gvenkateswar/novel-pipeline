@@ -48,7 +48,7 @@ Ellen stood behind the counter and counted the room as it filled. The ones movin
 
 Ray came out through the steel door by lane ten, wiping his hands on a rag. On his way past the trophy case he rapped one knuckle on the glass, once, and kept walking. Ellen looked where he had not. Among fifty years of tarnished cups stood a framed card, Women's House High Single, Linda Gagnon, a hundred and eighty-seven, with a photograph of a dark-haired woman caught at the release. Beside the case hung locker fourteen with a brass padlock through the hasp. Ellen had tried every key Arlene gave her in every lock she owned that afternoon, and the padlock was the one none of them fit. She filed it. Nobody explained it.
 
-Ray dropped his key ring on the counter and sat on the end stool to change his shoes. Among a truck key and a dozen others was the one he had held up at her door, and the orange paper tag, gone soft at the edges, with R.G. and 1996 on it in ballpoint.
+Ray dropped his key ring on the counter and sat on the end stool to change his shoes. Among a truck key and a dozen others was the one he had held up at her door, and the orange paper tag, gone soft at the edges, with R.G. and a year, 'ninety-six, in ballpoint.
 
 A broad man in a blaze-orange watch hat set a lane sheet on the counter and turned it to face her. "Hollis Pike," he said. "You thrown one?"
 

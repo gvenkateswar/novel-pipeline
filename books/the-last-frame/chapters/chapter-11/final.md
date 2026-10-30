@@ -36,7 +36,7 @@ Kate turned the keys over and over. "How long were you out there?"
 
 "Of course you know," Kate said.
 
-Ellen had watched the green numbers on the dash clock change, one minute at a time.
+Ellen had watched the dash clock change, one minute at a time.
 
 "Your light came on at twenty to seven," Ellen said. "I watched you come out the front door with your coat open and go past the car to the bottom of the drive for the bus. The bus was late. You stood down there with your back to the house and your bag on one shoulder, and you stamped your feet. I counted the stamps, and then the cars that went by you. When you heard the bus coming on the hill you came all the way back up to the glass by my head." She still had the sound of it, two knocks, quick and light, from the side of a small fist. "I said I was fine. I said it the way I'd said everything to the airplanes."
 
@@ -68,9 +68,9 @@ Kate kept the ball against her hip and looked him over. "You're taller than you 
 
 He went back up.
 
-Ellen followed him up. Clipped by the register was Normie's new sheet, ruled by hand like the December one, a square for each date and no title to say what for. One square was filled, the thirtieth of June: R. Gagnon, in the pencil printing she knew from his invoices. The first square he had ever bought. She reached for a pencil.
+Ellen followed him up. Clipped by the register was Normie's new sheet, ruled by hand like the December one, a square for each date and no title to say what for. One square was filled, the first of December: R. Gagnon, in the pencil printing she knew from his invoices. The first square he had ever bought. She reached for a pencil.
 
-"You don't get to bet on your own flight," Denise said, passing for her bag.
+"You don't get to bet on your own man," Denise said, passing for her bag.
 
 Ellen walked her to the vestibule.
 

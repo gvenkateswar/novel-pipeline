@@ -16,9 +16,9 @@ Through the shut office door the house came to her with the edges rubbed off it,
 
 "Still the rest."
 
-"Good." Something tore at Kate's end, a wrapper. "I took nights through March. Charge nurse, the whole quarter. Signed Tuesday."
+"Good." Something tore at Kate's end, a wrapper. "I took nights through March, likely past it. Charge nurse, the whole quarter. Signed Tuesday."
 
-Three items, with no space left in them for a question: the decision, the date, done. Ellen had briefed people that way her whole working life, and she knew whose kitchen table Kate had learned it at.
+Ellen had briefed people that way her whole working life, and she knew whose kitchen table Kate had learned it at.
 
 "Understood."
 

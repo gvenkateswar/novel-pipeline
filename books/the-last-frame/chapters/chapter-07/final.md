@@ -18,7 +18,7 @@ Denise took her hand off the basket. "I know what you're going to ask me, and I 
 
 Verna, at the scorer's table on lane one with her binder already open to the night, said that the secretary would be available. Hollis, at the shoe cubbies, asked what time.
 
-Ray was in ahead of his team, at the house-ball rack between five and six, putting the balls in order lightest to heaviest. He lifted each one off the rail, gave it a quarter turn under his thumb to see where it was worn, and set it down a place to the left or the right, letting the rail take it a half second before he let go. She stood at the end of the rack and watched his hands at it. She had a slot for everything in the building except this, and she watched past the point where the job needed watching.
+Ray was in ahead of his team, at the house-ball rack between five and six, putting the balls in order by wear. He lifted each one off the rail, gave it a quarter turn under his thumb to see where it was worn, and set it down a place to the left or the right, letting the rail take it a half second before he let go. She stood at the end of the rack and watched his hands at it. She had a slot for everything in the building except this, and she watched past the point where the job needed watching.
 
 When he looked up, his eyes went to her vest. The cuff of his own glove stood up out of her pocket. He looked at it for as long as it took to set a ball down, and then he set one down.
 
@@ -40,7 +40,7 @@ He set another one down. "There's five weeks yet."
 
 "Same thing, Mrs. Daly."
 
-Dale Hutchins had come along the settees for a house ball for the Highway Department, still in his plow jacket, and he had been standing at the end of the rail for the last two lines. He took the heaviest ball out of Ray's new order, hefted it once, and looked from Ray to her.
+Dale Hutchins had come along the settees for a house ball for the Highway Department, still in his plow jacket, and he had been standing at the end of the rail for the last two lines. He took the front ball out of Ray's new order, the one with the most grip left on it, rolled it once in his palm, and looked from Ray to her.
 
 "Put me in that room too."
 
@@ -121,8 +121,6 @@ Hollis looked at the clipboard and did not pick it up. Dale stood, took his keys
 Ray picked up his bag and went down the walkway toward the lanes, away from all of them, under all that light with nobody bowling in it.
 
 Denise was off her stool and two steps after him, and behind her the mop slid along the counter and went over on the floor.
-
-"Ray, I didn't—"
 
 \* \* \*
 
