@@ -82,12 +82,12 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 8× “behind the counter”
 - 8× “the scorer's table”
 - 7× “in both hands”
-- 7× “five and six”
 - 7× “the first time”
 - 7× “all ten lanes”
 - 7× “end of the counter”
 - 7× “the first of march”
 - 6× “the front door”
+- 6× “five and six”
 - 6× “had an answer”
 - 6× “at the far end”
 - 6× “last saturday in february”
@@ -112,11 +112,11 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 5× “the first night”
 - 5× “at a quarter past”
 - 5× “at the scorer's table”
-- 5× “between five and six”
 - 5× “the end of the counter”
 - 5× “the last saturday in february”
 - 4× “on march first”
 - 4× “the inner door”
+- 4× “lane six and”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
@@ -146,7 +146,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 08 | 3,227 | 16.7 | 11.1 | 16% | 0.0 | 0.3 | 0.0 | 3 | short |
 | 09 | 3,115 | 14.2 | 10.0 | 16% | 0.0 | 0.3 | 0.0 | 3 | short |
 | 10 | 3,524 | 15.1 | 10.5 | 19% | 0.0 | 0.3 | 0.0 | 3 | short |
-| 11 | 856 | 12.6 | 8.1 | 21% | 0.0 | 0.0 | 0.0 | 2 | mean short |
+| 11 | 856 | 12.2 | 7.8 | 20% | 0.0 | 0.0 | 0.0 | 2 | mean short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -161,7 +161,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 - quiet: 16 (0.5/1k)
 - humm?(ing|ed)?: 3 (0.1/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 73 (2.3/1k)
+- still(ness)?: 75 (2.3/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 0 (0.0/1k)

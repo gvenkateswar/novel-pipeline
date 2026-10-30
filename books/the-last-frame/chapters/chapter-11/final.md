@@ -2,23 +2,21 @@
 
 The noise had no gap in it anywhere down the house. Ellen stood in it with her forearms on the counter's worn edge. Through the glass block the new K on its pole at the road showed red against the last of the daylight.
 
-Hollis came for his shoes. "Called ice-out yesterday." She handed them across.
+Hollis came up with his bag. "Called ice-out yesterday," he said.
 
 "You look rested, honey," Denise said.
 
 "I slept till ten past five."
 
-Denise's bowling bag stood zipped by the vestibule door, where she never left it.
-
 Kate came in from the lot in her coat with her car keys still in her hand. As Ellen came out from behind the counter, Ray moved up into her place. Kate watched him do it and went past him into the office ahead of her mother.
 
-Ellen left the door open on the lanes. Kate hitched herself up onto the steel desk with the keys in her lap, and the noise of the house came in after them and filled the room to the shelves. Ellen stayed on her feet with her hands behind her, holding the edge of a shelf.
+Ellen left the door open on the lanes, for the noise. Kate hitched herself up onto the steel desk with the keys in her lap, and the noise of the house came in after them and filled the room to the shelves. Ellen stayed on her feet with her hands behind her, holding the edge of a shelf.
 
 "April," Kate said. "In person."
 
 "Understood."
 
-Ellen had written this night up once already, in ink. Every line of it had been true, and none of it had gone to Kate. She began where a write-up begins, with the time.
+Ellen had written this night up once already, in ink, for people who did not know her. She began where a write-up begins, with the time.
 
 "First. I was on a midnight shift. At two in the morning, two airplanes came too close to each other, and they were both mine."
 
@@ -46,7 +44,7 @@ Ellen had watched the green numbers on the dash clock change, one minute at a ti
 
 "No."
 
-Her hands came off the shelf. Through the open door Ray stood at the register with a pair of rental shoes in his hand, looking at her face. He held the shoes still by the heels and stayed where he was, and then he passed them over the counter to whoever was waiting.
+Her hands came off the shelf and found nothing to do. Through the open door Ray stood at the register with a pair of rental shoes in his hand, looking at her face. He held the shoes still by the heels and stayed where he was, and then he passed them over the counter to whoever was waiting.
 
 "Why didn't you come in?" Kate said.
 
@@ -56,27 +54,33 @@ Kate closed her hand on the keys. "I learned the voice anyway."
 
 \* \* \*
 
-Kate, coatless, swung a house ball through on a straight arm, and it left her hand still climbing and landed in six. Ellen watched from the end of the five-and-six settee.
+Kate, coatless, swung a house ball through on a straight arm, and it left her hand still climbing and landed in six. The pair on six let it go by. Ellen watched from the settee.
 
-Ray came down and lifted the ball off the return between five and six, and walked it to Kate. "Nice arc. Wrong lane."
+Ray came down, lifted the ball off the return, and walked it to Kate. "Nice arc. Wrong lane."
 
 "She told me you'd say that," Kate said.
 
-He put it in her hands and let go at once, and went back up.
+He put it in her hands and let go at once.
 
-Ellen followed him up. Clipped by the register was Normie's new sheet, ruled by hand like the December one, a square for each date and no title to say what for, and every square empty but one: R. Gagnon, in pencil, in the printing she knew from Ray's invoices, the first square he had ever bought. She reached for a pencil.
+Kate kept the ball against her hip and looked him over. "You're taller than you sounded."
+
+"The phone takes an inch off."
+
+He went back up.
+
+Ellen followed him up. Clipped by the register was Normie's new sheet, ruled by hand like the December one, a square for each date and no title to say what for. One square was filled, the thirtieth of June: R. Gagnon, in the pencil printing she knew from his invoices. The first square he had ever bought. She reached for a pencil.
 
 "You don't get to bet on your own flight," Denise said, passing for her bag.
 
 Ellen walked her to the vestibule.
 
-"Halsey Falls in the morning," Denise said. "Spring doubles with Gil Arsenault. Know what that man did? Handed me the flyer with the cup in my other hand. I kept this one."
+"Halsey Falls in the morning," Denise said. "Spring doubles with Gil Arsenault. Handed me the flyer with the cup still in my other hand. I've still got it."
 
 She had the door open. "I'm nervous. Don't you tell a soul."
 
-Back beside Ray, Ellen watched Kate throw. Under the counter his hand found hers and held it, and neither of them looked down. The pins went, and she did not know how many.
+Beside Ray again, Ellen watched Kate throw. Under the counter his hand found hers and held it, and neither of them looked down. The pins went, and she did not know how many.
 
-Kate came up to the counter across from them. "I'm thinking about taking days. I haven't decided. Scale of one to ten?"
+Kate came up to the counter. "I'm thinking about taking days. I haven't decided. Scale of one to ten?"
 
 Ellen kept hold of his hand.
 

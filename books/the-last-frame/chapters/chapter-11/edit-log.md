@@ -59,3 +59,17 @@ Word count (prose only, `wc -w`, heading and break marks included as in the 862 
 - [Checks] No digits. "honey" once (Denise, scene 1). "said nothing", "exactly", "She noticed": 0. No new numbers: ten past five, an hour and four minutes, twenty to seven, two in the morning, two knocks, two airplanes (and "one to ten", "five-and-six"). Ch 10 not restated. Kate's father and Ellen's marriage not named; no "alone", "empty house" or other person at the light. Scene 1 ends on dialogue; scene 2 ends on the question; the hand under the counter and "The pins went, and she did not know how many." untouched.
 - [Flagged for writer] None for the plot. Two notes for the orchestrator. (1) The log still needs the April 17 sunset (about seven-thirty) behind "the last of the daylight". (2) Scene 2 still has three characters with Denise passing through; no change needed.
 - [Pair for the rule list] Stop: closing a beat with a sentence that tells what a character knew ("she had known exactly where it was", "the one thing she could still read"). Do instead: put an object or a hand in that sentence's place ("Her left hand had stayed on the wheel"; "the green numbers on the dash clock").
+
+## Orchestrator triage after the cold read (6/10), Oct 30
+
+- Hollis: speaker made clear ("he said"); the shoes beat cut (the reader could not tell who handed what).
+- Denise's bag sentence cut (read two ways; "passing for her bag" carries the exit).
+- Door left open "for the noise" (her reason; ties to the first line).
+- The gloss "Every line of it had been true, and none of it had gone to Kate" cut; "for people who did not know her" in its place.
+- Lane six: "The pair on six let it go by."
+- Kate and Ray get one exchange (the reader: "to see what I paid for" never kept): "You're taller than you sounded." / "The phone takes an inch off."
+- Pool sheet split into short sentences; Ray's square given a date, the thirtieth of June (the day the note to Arlene is paid off; not announced).
+- Denise's flyer line made plain: "Handed me the flyer with the cup still in my other hand. I've still got it."
+- "Back beside Ray" → "Beside Ray again" (the up/down blocking run).
+- Not changed (structural, logged for the revision brief): the office opens on a recap of the shift night (sixth telling); both scenes end on a turned line; "she did not know how many" is the fourth lost-count image; "Nice arc. Wrong lane." reads as a rerun.
+- Band trims after triage: settee named plainly; blocking sentences shortened; "found nothing to do" added so the office holds its floor.
