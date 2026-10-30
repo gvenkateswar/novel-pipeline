@@ -156,39 +156,85 @@ He looked at her, a man who talked to anybody who'd stand still, and had nothing
 
 She put her back to the engine housing. It was warm already through her coat and getting warmer, and it shook against her with every stroke. She took his jacket in her fist and brought him down to her.
 
-His mouth was cold for a second and then warm. He went still all over, and then he kissed her back slowly, and kept it slow. He tasted of the store's terrible coffee. She caught his lower lip in her teeth, and the breath went out of him through his nose, long. She pulled off a glove and put her bare hand along his jaw where she'd watched the razor go that morning, and it was as smooth under her fingers as it had looked from the stove.
+His mouth was cold for a second and then warm. He went still all over. Then he kissed her back, slowly, and kept it slow. He tasted of the store's terrible coffee. She caught his lower lip in her teeth, and the breath went out of him through his nose, long. It was all the noise he made.
 
-"Beth," he said against her mouth, and nothing else.
+She pulled off a glove and put her hand along his jaw, smooth where the razor had gone that morning.
 
-"Your hands," she said.
+"Beth," he said against her mouth.
 
-He brought them up and stopped an inch off her zipper, and they waited there.
+She waited for the rest of it. With him there was always a rest of it, a clause and a turn at the end. None came. He stood with her name said and his mouth an inch off hers, and waited on her.
 
-"Where?"
+"Your hands," she said. "Under the wool."
 
-"Under the wool."
+He brought them up and stopped short of her zipper. She ran it down herself. His hands went in under the sweater and the thermal and onto the bare small of her back, and they were so cold she swore into his mouth.
 
-She opened her own coat. The zipper stuck halfway on the wool, and she said a word to it, and he waited. His hands went in under the sweater and the thermal and onto the bare small of her back, and they were so cold she swore into his mouth. He laughed, and she felt it against her teeth, and he kept his hands where they were, which was what she wanted.
+He took them away at once. He stepped back half a pace, opened his jacket and stuck both hands up under his arms inside the fleece, and stood there with his elbows out, patient as a man in the ferry line.
 
-Then they warmed, and moved, up her spine and round over her ribs, the old hauler's ridge across his palms catching on her skin, and the engine beat at her back and the cold came in at the door and the house stood lit up the hill, and she had both hands in his belt, pulling him in.
+"How long does that take?"
 
-"Do you want—" she said.
+One shoulder went up.
 
-"Yes." He said it against her temple. Then, quieter: "Do you?"
+The engine beat at her back. Up the slope the windows stood yellow behind the sheets. The cold came in at the door and found her ankles, and she stood it as long as she could, which wasn't long.
 
-"Yes," she said.
+"That's long enough."
 
-His hands spread over her ribs and stopped there, waiting on her. She put her own hand over one of them through the wool and held it to her.
+He came back. His palms were warm now and the fingertips still cool, and he set them on her waist and left them there a stroke or two before they moved. Then the old hauler's ridge across his palms was dragging up her spine and round over her ribs, rough as new line.
 
-He leaned in, and his jacket swung against her hip, and something in the inside pocket pressed into her through everything, square and hard. *Log daily*, and the other thing, the one he couldn't tell her.
+"Higher," she said.
 
-She took her hands back, and he stopped at once. His hands came out from under the wool, and the cold went in after them.
+He went higher and stopped under her breast, his forehead down against hers. The engine shook her into his hands.
 
-"That's the phone."
+"Yes," she said. "Go on."
+
+His hand closed over her breast, the palm warm, the fingers cool. Her nipple drew up hard against the ridge. She put her head back on the steel and shut her eyes, and opened them again, because she wanted his face.
+
+She had both hands in his belt to pull him in, and her knuckles came against the holster on his right hip. He turned that hip away from her without a word and came in on her other side, so the gun was out of her reach and his leg was between hers.
+
+She took the hem of the thermal in her fist. He waited on it.
+
+"Up," she said.
+
+He pushed the thermal and the sweater up together. The cold of the shed went over her bare skin. Then his mouth, warm, on her breast. The engine covered the sound she made. She took a handful of his hair at the back and held him there, and every stroke of the set pushed her into his mouth.
+
+Once his head came up and turned to the door, to the black down the hill where the dragger lay with her lights out. He listened through two strokes. Then he bent to her again.
+
+She took his wrist and brought his hand down her belly to the button of her jeans, and let go.
+
+His hand stayed where she'd left it. He lifted his head.
+
+"Beth?"
+
+"Yes," she said. "In."
+
+He undid the button. He drew the zipper down a tooth at a time. She was going to tell him to hurry, and then his fingers were under the cotton, cool on her belly and warm by the time they got where she wanted them. She was wet. He found that and stopped, and the breath he let out was close to a laugh.
+
+"Don't you laugh," she said.
+
+He kissed her instead, with the laugh still in it.
+
+Then he moved his hand. He was slow at it, a man working a knot he didn't mean to cut. Her hips came off the steel after him.
+
+"With the engine," she said.
+
+He found the beat. The set hammered at her back, stroke on stroke, and his hand kept time with it. She held on to his jacket with both fists. Up the slope the yellow windows swam and steadied and swam.
+
+"Beth," he said against her temple, low, and nothing after it.
+
+She came against the shaking housing with her teeth in the collar of his jacket and the cold coming in at the door round her ankles. It went on longer than she was ready for. He kept his hand still. His other arm held the rest of her up. He said nothing at all, and the engine went on beating through both of them.
+
+He had seen her face for all of it, lit from the house. She had let him.
+
+She was still shaking. He leaned in to take more of her weight, and his jacket swung against her, and something in the inside pocket pressed into her bare stomach, square and hard. *Log daily*, and the other thing, the one he couldn't tell her.
+
+She took his wrist and drew his hand out of her jeans. He stopped at once and let it come. The cold went in where his hand had been.
+
+She put her hand over the pocket, over the shape in it.
+
+"That's where you write it."
 
 "Yes."
 
-She stepped back off the housing and zipped her coat to the chin.
+She pulled the thermal down and did up her jeans with fingers that wouldn't work. She stepped back off the housing and zipped her coat to the chin.
 
 "I'd rather be kissed by a man I can check. I read it this morning, Dane Reyes, and I didn't ask you twice. I'm asking now. What you write every day, and what's in it that I don't get told."
 

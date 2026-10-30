@@ -27,3 +27,18 @@ The winners were installed in `final.md` (pre-tournament copies are `final-pre-m
 The winners also beat the incumbents for one shared reason: a third voice breaks up two people trading evidence.
 
 Buyer note above the scores: Dane is in the room in neither T3 nor T4. Give each one brief beat of him, or of Beth turning toward him, in the line pass.
+
+## T6, Ch 03 s3 (the Ashby generator shed): calibration revision, Oct 30, 2026
+
+Beats are in `reviews/calibration-revision-beats.md`. The goal was lane-B heat placement: the book's first full open-door scene at about 27%.
+
+**Variants:**
+- v1: Beth's want, 1,562 words.
+- v2: Dane goes quiet, 1,774 words, trimmed to 1,739.
+- v3: place and danger, 1,668 words.
+
+**Round:** v2 won 12 of 18. It won every comparison it was in; v3 won 6 and v1 none. Every judge marked v1 down for its "Will you?" consent run, which read as a checklist, and v3 for the paragraph where the couple plans how they could be found.
+
+**Head to head against the incumbent:** v2 won 5 of 5 on the reports received, all high or medium-high confidence. Judges called the incumbent's stop "after one kiss" a cheat on the open-door promise.
+
+**Installed** with three similes trimmed and the stock line "a sound she had never heard out of herself" cut. The pre-tournament text is `chapter-03/final-pre-cal.md`. The stop line is "That's where you write it."
