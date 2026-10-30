@@ -1,4 +1,4 @@
-# Audit — the-last-frame (chapters 01–09, 27,971 words)
+# Audit — the-last-frame (chapters 01–09, 27,982 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -86,7 +86,6 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 7× “end of the counter”
 - 7× “the first of march”
 - 6× “the scorer's table”
-- 6× “linda's name on”
 - 5× “the front door”
 - 5× “the steel door”
 - 5× “let go of”
@@ -100,6 +99,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 5× “she had said”
 - 5× “had an answer”
 - 5× “did not say”
+- 5× “linda's name on”
 - 5× “at the far end”
 - 5× “at a quarter past”
 - 5× “last saturday in february”
@@ -144,7 +144,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 06 | 3,041 | 17.3 | 11.7 | 14% | 0.0 | 0.3 | 0.0 | 2 |  |
 | 07 | 3,193 | 17.0 | 12.3 | 14% | 0.0 | 0.3 | 0.3 | 4 | openers |
 | 08 | 3,227 | 16.7 | 11.1 | 16% | 0.0 | 0.3 | 0.0 | 3 | short |
-| 09 | 3,104 | 14.1 | 9.9 | 16% | 0.0 | 0.3 | 0.0 | 3 | short |
+| 09 | 3,115 | 14.2 | 10.0 | 16% | 0.0 | 0.3 | 0.0 | 3 | short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -187,7 +187,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0.0 | 0.0/1k | FLAG |
 | sentence-initial And/But/And yet | 2 | 1 | 1 | 1 | 2 | 0 | 2 | 2 | 3 | 14 | 0.5 | 3.0/1k |  |
 | em dashes | 0 | 0 | 0 | 0 | 1 | 0 | 3 | 0 | 3 | 7 | 0.3 | 2.0/1k |  |
-| semicolons | 3 | 0 | 1 | 1 | 1 | 3 | 1 | 0 | 2 | 12 | 0.4 | 2.0/1k |  |
+| semicolons | 3 | 0 | 1 | 1 | 1 | 3 | 1 | 0 | 1 | 11 | 0.4 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 1 | 0 | 0 | 1 | 3 | 0 | 0 | 2 | 0 | 7 | 0.3 | 1.0/1k |  |
 | one-sentence paragraph | 6 | 23 | 20 | 18 | 18 | 24 | 15 | 16 | 30 | 170 | 6.1 | report |  |
 
