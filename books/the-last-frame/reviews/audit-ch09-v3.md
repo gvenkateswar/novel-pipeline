@@ -1,4 +1,4 @@
-# Audit — the-last-frame (chapters 01–09, 27,937 words)
+# Audit — the-last-frame (chapters 01–09, 27,971 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -81,11 +81,12 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 8× “the glass block”
 - 7× “behind the counter”
 - 7× “in both hands”
+- 7× “the first time”
 - 7× “all ten lanes”
 - 7× “end of the counter”
 - 7× “the first of march”
 - 6× “the scorer's table”
-- 6× “the first time”
+- 6× “linda's name on”
 - 5× “the front door”
 - 5× “the steel door”
 - 5× “let go of”
@@ -99,9 +100,9 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 5× “she had said”
 - 5× “had an answer”
 - 5× “did not say”
-- 5× “linda's name on”
 - 5× “at the far end”
 - 5× “at a quarter past”
+- 5× “last saturday in february”
 - 5× “the end of the counter”
 - 4× “through the glass”
 - 4× “on march first”
@@ -116,7 +117,6 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 4× “his shirt pocket”
 - 4× “kept the light”
 - 4× “by half past”
-- 4× “his right hand”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
@@ -144,7 +144,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 06 | 3,041 | 17.3 | 11.7 | 14% | 0.0 | 0.3 | 0.0 | 2 |  |
 | 07 | 3,193 | 17.0 | 12.3 | 14% | 0.0 | 0.3 | 0.3 | 4 | openers |
 | 08 | 3,227 | 16.7 | 11.1 | 16% | 0.0 | 0.3 | 0.0 | 3 | short |
-| 09 | 3,070 | 13.8 | 9.2 | 17% | 0.0 | 0.3 | 0.0 | 3 | short |
+| 09 | 3,104 | 14.1 | 9.9 | 16% | 0.0 | 0.3 | 0.0 | 3 | short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -159,7 +159,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 - quiet: 15 (0.5/1k)
 - humm?(ing|ed)?: 2 (0.1/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 66 (2.4/1k)
+- still(ness)?: 65 (2.3/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 0 (0.0/1k)
@@ -172,8 +172,8 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 ### Phrases (count, whole book; any 3+ is worth a look)
 
+- 2× for the first time
 - 1× not quite
-- 1× for the first time
 
 ### Constructions against Part 3 caps
 
@@ -187,7 +187,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0.0 | 0.0/1k | FLAG |
 | sentence-initial And/But/And yet | 2 | 1 | 1 | 1 | 2 | 0 | 2 | 2 | 3 | 14 | 0.5 | 3.0/1k |  |
 | em dashes | 0 | 0 | 0 | 0 | 1 | 0 | 3 | 0 | 3 | 7 | 0.3 | 2.0/1k |  |
-| semicolons | 3 | 0 | 1 | 1 | 1 | 3 | 1 | 0 | 1 | 11 | 0.4 | 2.0/1k |  |
+| semicolons | 3 | 0 | 1 | 1 | 1 | 3 | 1 | 0 | 2 | 12 | 0.4 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 1 | 0 | 0 | 1 | 3 | 0 | 0 | 2 | 0 | 7 | 0.3 | 1.0/1k |  |
 | one-sentence paragraph | 6 | 23 | 20 | 18 | 18 | 24 | 15 | 16 | 30 | 170 | 6.1 | report |  |
 

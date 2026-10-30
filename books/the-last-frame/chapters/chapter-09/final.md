@@ -58,7 +58,7 @@ The phone lit a pale square on the ceiling over the bed, and Ellen read the rada
 
 Ten to four was when she woke. She ran the loop from midnight twice with her finger on the lake, and the yellow at the band's middle had not moved the width of her fingertip. In December she had watched a band's front edge, because it moved, and never looked at the middle.
 
-Wednesday through Friday the forecast had said a few inches Saturday morning, over by noon. On that she had kept both evening squads; snow that quit at midday never touched either of them. On Friday night, with page two of the terms in her hand, she had held Sunday's empty lanes spare anyway. Four squads, thirty teams.
+Wednesday through Friday the forecast had said a few inches Saturday morning, over by noon, and on that she had kept both evening squads. On Friday night, with page two of the terms in her hand, she had held Sunday's empty lanes spare anyway. Four squads, thirty teams.
 
 The floor was cold under her bare feet. She was dressed and lacing her snow boots when the phone rang at ten past four.
 
@@ -172,7 +172,7 @@ After her came a father from Massachusetts with two teenage sons, school Monday,
 
 Beside her Ray wrote each team's name on the squad sheet as she said it, and stayed at her elbow the whole length of the line.
 
-She counted each team's money out of the drawer, then the floor safe, into an envelope with its name on it, and the drawer's bell rang every time it opened.
+She counted each team's money into an envelope with its name on it, and the drawer's bell rang every time it opened.
 
 Dale came last, to take back the Highway Department's entry, and he would drive the one plow himself.
 
@@ -188,9 +188,9 @@ He went out, and he had not said no to Sunday.
 
 By a quarter to four the headlights were going down the hill in a line through the glass block, inside his hour.
 
-At four o'clock the first evening squad would have thrown its first ball. Nothing threw. All ten lanes were lit for nobody, a hundred pins standing white at the ends of them, and the building was as quiet as she had ever heard it with the lights on. The clock over her counter was loud, and the wind leaned on the front door. Denise had gone down the hill with the others.
+At four o'clock the first evening squad would have thrown its first ball. Nothing threw. All ten lanes were lit for nobody, a hundred pins standing white at the ends of them, and the building was as quiet as she had ever heard it with the lights on. The wind leaned on the front door. Denise had gone down the hill with the others. The morning squads had bowled; Gil Arsenault had taken his second look and was through to Sunday. Ray stood at the end of the counter with his back to the lanes. It was the last Saturday in February, and for the first time since the winter of 'eighty-four nobody had bowled under Linda's name on it; he had been in the pit when the morning went off.
 
-She ran the tape herself and tore it off at the teeth, and held it without reading it. The green shirts would be well down the road by now, the creases still in them. Fifteen envelopes had gone down Kettle Road before four, with names on them in her printing, one to a glove compartment. Ray had stayed. The squad sheet in his hand had every one of those names down it in his writing, and nothing across from any of them. He stood at the end of the counter with it until she read the tape.
+She ran the tape herself and tore it off at the teeth, and held it without reading it. Fifteen envelopes had gone down Kettle Road before four, one to a glove compartment. The squad sheet in Ray's hand had every one of those names down it in his writing, and nothing across from any of them. He held it until she read the tape.
 
 "Fourteen hundred dollars under, with the fries counted," she said. "Sunday can't make that."
 
@@ -220,7 +220,7 @@ Arlene's good hat sat on top of the last box, gray felt with a pin in the band, 
 
 "I'm under," Ellen said. "By more than Sunday can make."
 
-Arlene didn't ask by how much. "I want my bed, Ellen."
+Arlene didn't ask by how much. "I want my bed at The Pines, Ellen."
 
 "On the fifteenth I told you the money I swore to my daughter wasn't in this. If she says yes, it is. I'm asking her tonight."
 
@@ -234,7 +234,7 @@ Arlene reached over and turned the hat on the box till the pin faced Ellen.
 
 \* \* \*
 
-The baseboard heat ticked along the wall of the camp, and the lake lay white to the far shore in the window. Ray had driven her up Kettle Road behind the plow's second pass and gone back down. Ellen stood at the window with the phone, and the floor was cold through her socks. She had no pad out and nothing written in order, and she did not write anything. She dialed.
+Ray had driven her up Kettle Road behind the plow's second pass, in the passenger seat she had put herself in once in January without being in it, with the heater on her boots and the dash lit green and a hockey game low on the radio that neither of them turned off. At the camp he had waited with the engine running until her light came on, and gone back down. The baseboard heat ticked along the wall, and the lake lay white to the far shore in the window. Ellen stood at the window with the phone, and the floor was cold through her socks. She had no pad out and nothing written in order, and she did not write anything. She dialed.
 
 Kate picked up on the second ring.
 
@@ -286,7 +286,7 @@ She had no list. She said it in the order it came.
 
 "How much is more than half?"
 
-"Judy writes the figure Monday morning."
+"Fourteen hundred dollars, and whatever Judy's committee puts on top of it Monday morning."
 
 "What's left?"
 
@@ -306,7 +306,7 @@ She had no list. She said it in the order it came.
 
 "Yes."
 
-Kate was quiet a long time. Nothing came down the line, no breath and no words, so long that Ellen took the phone from her ear to see whether the seconds were still running on the call, and they were. She put it back. Kate was an hour south, in a break room Ellen had never seen, on a shift she had heard about after it was signed. Far off at Kate's end a door came round on its closer and shut. Ellen knew six true sentences that would fill the quiet, each one ready and in its place, and she said none of them. The baseboard heat ticked. She stood with the phone at her ear and nothing in her other hand, and waited.
+Kate was quiet a long time. Nothing came down the line, no breath and no words, so long that Ellen took the phone from her ear to see whether the seconds were still running on the call, and they were. Far off at Kate's end a door came round on its closer and shut. Ellen knew six true sentences that would fill the quiet, and she said none of them. She stood with the phone at her ear and nothing in her other hand, and waited.
 
 "Mom," Kate said. "Scale of one to ten."
 
