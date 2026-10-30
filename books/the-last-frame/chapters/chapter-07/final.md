@@ -1,6 +1,6 @@
 # Chapter 7: Loss of Separation
 
-The mail held nothing for the Open. Ellen came in from the box at the road with the electric bill and a flyer for the Grange's bean supper, laid them by the register, and worked Ray's gloves down off her fingers and into her vest pocket.
+Ellen came in from the box at the road with nothing for the Open, laid the electric bill by the register, and worked Ray's gloves down off her fingers and into her vest pocket.
 
 The entry box sat at her elbow where it had sat since the derby committee said yes: a shoebox with a slot cut in the lid, and a strip of her tape across one end that said ENTRIES in black marker. She lifted the lid. Seven envelopes lay on the cardboard, the same seven, one of them addressed in pencil to Kettle Lanes, The Open, Ambrose, as though the town might have two. She knew the number without counting, and she put the lid back on.
 
@@ -28,9 +28,13 @@ He took the next ball off the rail, and turned it, and set it. He took the next.
 
 "Numbers said otherwise, then."
 
-"Seven envelopes in ten days. Gil Arsenault is staying home."
+"Seven envelopes in ten days, and ten lanes to fill twice over. Gil Arsenault is staying home."
 
-He set another one down. "So you're going round me."
+He set another one down. "There's five weeks yet."
+
+"Five weeks of the same seven."
+
+"So you're going round me."
 
 "I'm going to them, with you in the room."
 
@@ -46,9 +50,9 @@ Denise had the chairs up on every table in the snack bar but one, legs in the ai
 
 No chair had been put down for Ellen. She stood at the corner nearest the counter, and she would have stood if there had been one. She had always given bad news standing.
 
-"I'd like the Memorial open to anyone who enters, on its own Saturday, with Linda's name on the cup. I have two questions. Whose is her name to give? And would Linda have given it?"
+"I'd like to drop the Sunday cup. I'd like the Memorial open to anyone who enters, on its own Saturday, with Linda's name on the cup. I have two questions. Whose is her name to give? And would Linda have given it?"
 
-She said it in the voice for giving a stranger directions, and under it she was watching the one face at the foot and running ahead of it, to every answer he could give her and every one he might hold back, faster than she could keep up with herself.
+She said it in her counter voice, the one for a customer's change, and under it she was watching the one face at the foot and running ahead of it, to every answer he could give her and every one he might hold back, faster than she could keep up with herself.
 
 Nobody answered. Ray did not look up.
 
@@ -136,7 +140,7 @@ She put out the next pair, and the next. The dark came up the house toward her a
 
 Her thumb rested on the last toggle a moment before she pushed it.
 
-Then only the light over the register was left, a yellow circle on the counter and on her hands, and past it ten lanes of nothing. She had bought the building for the sound of all ten at once, and now it held no sound at all. At the edge of the light stood the snack-bar table, the chairs still legs-up on the tables round it and the clipboard where he had left it, square to the edge.
+Then only the light over the register was left, a yellow circle on the counter and on her hands, and past it ten lanes of nothing. It held no sound at all. At the edge of the light stood the snack-bar table, the chairs still legs-up on the tables round it and the clipboard where he had left it, square to the edge.
 
 She came out round the counter and stood beside him, and they faced down the dark lanes together. The cold of the lot still hung on his canvas jacket. His shoulder was an inch from hers. She knew the inch exactly. She did not close it, and neither did he.
 
@@ -174,7 +178,7 @@ Her voice had gone more polite. He did not say no. She took that for leave, and 
 
 He said it low, with his face to the lanes, in the good voice, the one she had liked from the first night, and he did not raise it and did not hurry it. His shoulder had not moved.
 
-*On the radio.* His word, and he had chosen it. *I bet* was his own. It went in a long way, while neither of them moved, to the morning Kate kept a name for.
+On the radio: his word for it, and he had chosen it. The bet was his own guess. It went in a long way, while neither of them moved, to the morning Kate kept a name for.
 
 She had lost separation once, at two in the morning, and nobody on the frequency could have told it from her voice. And tonight she had stood at that table while every face in the room turned to him and kept her voice exactly where it was.
 

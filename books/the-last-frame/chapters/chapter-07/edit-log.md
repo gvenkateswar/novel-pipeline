@@ -78,3 +78,6 @@ Draft edited: draft-dialogue.md, Oct 30. Cut or recast per Ellen's profile, the 
 
 ## Audit pass (orchestrator), Oct 30
 Audit through Ch 07 clean (the standing Ch 03 regex hit only). "off the radio" in s2 changed to "the handheld on her counter" so the only "radio" in the chapter is Ray's line in s3.
+
+## Cold-read triage (orchestrator, in place), Oct 30
+Cold reader 6/10 (`reader-notes.md`; scenes 3 / 4 / 4; no stop line; "I'd keep reading, but"). Line items in place: the mail opener trimmed; the escalation given its measure ("ten lanes to fill twice over"; "There's five weeks yet." / "Five weeks of the same seven." closes the wait-and-promote option); "I'd like to drop the Sunday cup." before the kept ask so the change from Ch 06 is on the page; the Ch 05 phrase "the voice for giving a stranger directions" varied; "bought the building for the sound of all ten" (fourth use) cut; the italic thought-lines after the radio line recast for the ear. Left as designed: Ray sorting the house balls (the Ch 01 callback is the longing), the boiler, the interior line "she had gone to his people anyway", the ending on the key. Structural notes forwarded to the Ch 08 beats in the continuity log.

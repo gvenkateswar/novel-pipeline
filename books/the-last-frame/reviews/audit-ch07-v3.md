@@ -1,4 +1,4 @@
-# Audit — the-last-frame (chapters 01–07, 21,641 words)
+# Audit — the-last-frame (chapters 01–07, 21,640 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -91,6 +91,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 5× “did not say”
 - 5× “end of the counter”
 - 4× “on march first”
+- 4× “i'd like to”
 - 4× “lane six and”
 - 4× “the scorer's table”
 - 4× “she had known”
@@ -135,7 +136,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 04 | 2,980 | 17.5 | 14.0 | 14% | 0.0 | 0.3 | 0.0 | 3 |  |
 | 05 | 2,905 | 18.5 | 12.4 | 13% | 0.0 | 0.3 | 0.0 | 4 | mean openers |
 | 06 | 3,041 | 17.3 | 11.7 | 14% | 0.0 | 0.3 | 0.0 | 2 |  |
-| 07 | 3,194 | 17.2 | 12.3 | 14% | 0.0 | 0.3 | 0.3 | 4 | openers |
+| 07 | 3,193 | 17.0 | 12.3 | 14% | 0.0 | 0.3 | 0.3 | 4 | openers |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
