@@ -1,4 +1,4 @@
-# Audit — the-last-frame (chapters 01–06, 18,425 words)
+# Audit — the-last-frame (chapters 01–06, 18,447 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -122,7 +122,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 03 | 3,245 | 17.7 | 14.0 | 14% | 0.0 | 0.3 | 0.0 | 3 |  |
 | 04 | 2,980 | 17.5 | 14.0 | 14% | 0.0 | 0.3 | 0.0 | 3 |  |
 | 05 | 2,905 | 18.5 | 12.4 | 13% | 0.0 | 0.3 | 0.0 | 4 | mean openers |
-| 06 | 3,019 | 17.5 | 12.0 | 14% | 0.0 | 0.3 | 0.0 | 2 |  |
+| 06 | 3,041 | 17.3 | 11.7 | 14% | 0.0 | 0.3 | 0.0 | 2 |  |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -167,7 +167,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | em dashes | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0.1 | 2.0/1k |  |
 | semicolons | 3 | 0 | 1 | 1 | 1 | 3 | 9 | 0.5 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 1 | 0 | 0 | 1 | 3 | 0 | 5 | 0.3 | 1.0/1k |  |
-| one-sentence paragraph | 6 | 23 | 20 | 18 | 18 | 23 | 108 | 5.9 | report |  |
+| one-sentence paragraph | 6 | 23 | 20 | 18 | 18 | 24 | 109 | 5.9 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 

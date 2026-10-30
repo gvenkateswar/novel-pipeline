@@ -12,7 +12,7 @@ He sat. "It's a release. One clause, and the three of us sign it, and that backu
 
 "Seemed a poor way to ask, with nothing in my hand."
 
-"Tell me what happens to you if she misses, Arlene, and tell it plain."
+"I can't tear that paper up," Ray said. "It's yours as much as mine. I can ask. So tell me what happens to you if she misses, Arlene, and tell it plain."
 
 She set her cup down and told it the way she'd tell a man his fuel-oil bill.
 
@@ -28,7 +28,7 @@ The scanner said something low about a chimney fire out past the Pelletiers'.
 
 "She'll pay you, and on the day."
 
-Arlene didn't argue it. She'd been angry at his anger since the day she sold, and she had picked seven in the morning to say so.
+Arlene didn't argue it. She had waited since the day she sold to say the next thing, and she had picked seven in the morning for it.
 
 "It sat listed two years, Raymond. You came in eight days after she did. I'd signed with her by then, and I'd have signed with her anyway. You'd have kept it a museum. I wanted it to live."
 
@@ -66,7 +66,7 @@ Danny read the top page through. The pen in his shirt pocket stayed capped.
 
 Danny reached over and took the gun out of his father's hand, not roughly, and held it a moment. "It's said Son on that sign since before I was born. I'd like it to mean me."
 
-He put the gun in his back pocket. "You're allowed to want something that isn't on a shelf."
+Danny put the gun in his back pocket. "You're allowed to want something that isn't on a shelf."
 
 Danny opened the drawer under the register, took out the credit-union form from December and laid it beside the envelope, his own name on the last line. He had never once said a word about it.
 
@@ -76,7 +76,7 @@ Danny took his fingers off the form. "I signed that so you could buy it on her y
 
 He squared the new envelope on the counter. "Get all the way out of her paper and I'll sign this one."
 
-The Bench had heard every word; hearing was what the coffee was for. His father had stood at that register in his overcoat the week he died, counting Ray's drawer a second time, and Ray had let him.
+The Bench had heard every word; hearing was what the coffee was for.
 
 The bell over the door went, and a man in a plow jacket came in stamping salt off his boots, looking for something. "Morning," Danny said, and went down the aisle to him with the price gun in his back pocket, and left both papers lying on the counter where they were.
 
@@ -162,7 +162,7 @@ Ray shuffled.
 
 "I had my blade up, Ray."
 
-Hollis took off his orange watch cap, looked into it, and put it back on. "Twenty-eight years I asked men out on this ice what they were doing there, and every one of them told me about somebody else first. I never once had to ask a third time."
+Hollis took off his orange watch cap, looked into it, and put it back on. "Twenty-eight years with Fish and Game I asked men out on this ice what they were doing there, and every one of them told me about somebody else first. I never once had to ask a third time."
 
 Ray put the deck down. "I'm courting her."
 
@@ -246,7 +246,7 @@ She meant the bank's committee, a different table from Hollis's, and it was the 
 
 Judy set the flag and stood up. "For a winter that clears, it is."
 
-She let that sit on the ice a moment. "You've got my yes for Sunday."
+A winter that came up short went to the table that had never met her, and Ellen had just called that table a formality. Judy let it sit on the ice a moment. "You've got my yes for Sunday."
 
 She looked from one of them to the other. "Going to check my flags."
 
