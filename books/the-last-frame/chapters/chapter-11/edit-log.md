@@ -23,3 +23,14 @@ Commitments:
 ## Orchestrator floor fix, Oct 30
 
 - Office was ~395 against a 450 floor after the instructed cuts. Added two beats from Ellen's side: the dash clock "the one thing in the car she could still read"; Kate at the bottom of the drive ("The bus was late… I counted the stamps. I was still counting things."). No one else appears.
+
+## Dialogue doctor (draft-revised.md → draft-dialogue.md), Oct 30
+
+## Dialogue log
+- Scene 1, opening: cut "from the register" from Denise's tag. Ray later stands "at the register" after taking Ellen's place, so the tag put two people at one register. Hollis's line left as is, with no reply from Ellen. It's a one-line beat, and the scene keeps moving.
+- Scene 1, office: added Ellen's "Understood." after "April. In person." She accepts the debt the way she'd accept a clearance (fear makes her procedural: one word, then the task). It gives her a line of her own before the briefing.
+- Scene 1, office: added Kate's "Including you?" after "Nobody." Ellen's "Nobody" is a true sentence used as cover (her mechanism in the bible), and Kate is the one person who would catch it. Ellen dodges with "Second," which shows the ordinal list working as her tactic. Kate's later "Were you?" becomes the second time she asks, and "No." is still Ellen's first admission.
+- Scene 1, office: "When you heard it on the hill" became "When you heard the bus coming on the hill". The "it" was unclear to a listener, and the repetition fits a briefing that is starting to give way.
+- Scene 2, vestibule: Denise's flyer story is now a cover. She asks a question and answers it herself ("Know what that man did? Handed me the flyer..."), which is her own pattern, turns Gil into a complaint, and keeps it short. Her confession no longer has a tag. She says it with the door already open, a parting shot nobody can answer. "She went out." is cut because the open door carries her exit.
+- Lines added: 2 (Ellen "Understood."; Kate "Including you?")   Lines cut: 0 (one tag trimmed, one exit sentence folded into an action beat)
+- Tag-strip test: pass. Kate asks short questions with no softeners and never consoles. Ellen speaks in ordinals and exact figures and dodges with procedure. Denise answers her own question and sounds scornful about a man. Ray's one line is his own.
