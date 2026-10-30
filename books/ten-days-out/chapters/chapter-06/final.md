@@ -116,13 +116,11 @@ Past his shoulder the dragger sat on her guest mooring. Glass flashed on her whe
 
 "Down," Beth said.
 
-He went to one knee and finished the call crouched below the line of the rock.
+He went to one knee and finished the call crouched.
 
 "Pike?"
 
-"Pike. Weather." He came down off the rock behind her. "Lifeboat at first light tomorrow to the town float, because it's the only lee in this swell, and the inspector rides over on her for the ferry while you ride back. The county's cleared the landing."
-
-Below them the ledges were drying on the ebb.
+"Pike. Weather." He came down off the rock. "Lifeboat at first light to the town float, because it's the only lee in this swell, and the inspector rides over for the ferry while you ride back. The county's cleared the landing."
 
 The county would ring the island. The island had one person to ring.
 
@@ -130,9 +128,9 @@ The county would ring the island. The island had one person to ring.
 
 "Portland did. Before they told me."
 
-"Going aboard this morning," she said. "Pump's eating its insides. Ned hears from me I'm going, or I don't go."
+"Going aboard this morning," she said. "Ned hears from me I'm going, or I don't go."
 
-Dane walked a few steps. "Tell him you're going, and leave the hour out of it."
+"Tell him you're going, and leave the hour out of it."
 
 "Fine."
 
@@ -140,7 +138,7 @@ Dane walked a few steps. "Tell him you're going, and leave the hour out of it."
 
 "Nobody," she said.
 
-Where the shore turned, the bank fell away to low ground, open to the inner harbor. The *Margaret Ann* was off her guest mooring. She lay on a new one with the town landing square in front of her bow. A man came aft along her rail, the left heel dragging, and stopped facing the shore.
+Where the shore turned, the bank fell away to low ground. The *Margaret Ann* was off her guest mooring. She lay on a new one with the town landing square in front of her bow. A man came aft along her rail, the left heel dragging, and stopped facing the shore.
 
 "Moorings swing," Dane said.
 
@@ -148,7 +146,7 @@ Where the shore turned, the bank fell away to low ground, open to the inner harb
 
 He put two fingers on her sleeve. "Back to the turn, and we wait under the bank till he looks away."
 
-Beth looked at the water. Behind them the shore ran back to the cove and its one roof. Turn now, and they drew that glass up the shore to her father's door. And two people crouched in the weed had a reason to crouch.
+Behind them the shore ran back to the cove and its one roof. Turn now, and they drew that glass up the shore to her father's door. And two people crouched in the weed had a reason to crouch.
 
 "Turn round now and he walks us home," she said. "Walk."
 
@@ -176,31 +174,27 @@ The last ledge before the riprap was all weed. His free hand came under her elbo
 
 "You will."
 
-At the foot of the stone pier she looked back. The man had turned all the way round, and he watched them up the pier and over the brow. She took her arm out of Dane's at the top, and he went up the outside ladder to the wheelhouse.
+At the foot of the stone pier she looked back. The man on the rail watched them up the pier and over the brow. She took her arm out of Dane's at the top, and he went up the outside ladder to the wheelhouse.
 
-Beth heard the forepeak before she saw it. The pump had quit. The boat had gone quiet under her boots.
+Beth heard the forepeak before she saw it. The pump had quit.
 
 Below the hatch the water was over the floor plates and up to the second rung. Ned was down in it to his shins with the old impeller in his hand, its vanes chewed to stubs.
 
-She went down the ladder. The cold came through her boots at the second rung and kept coming.
+The cold came through her boots at the second rung and kept coming.
 
 "Glass is up," Ned said. He looked at the water round his shins. "So's this."
 
 "Pump's not."
 
-"New one's in the mess." He handed her the old one and went up the ladder hand over hand.
+"New one's in the mess." He handed her the old one and went up the ladder.
 
 At the hatch he stopped and looked back down at her. Then he was gone.
 
-The cold ached in her fingers to the wrist.
-
 Ned came down with the new impeller in a box with Marr's price sticker on the end.
 
-He knelt in the water at the housing. She held the impeller in place, both hands on the cold steel, while he turned it to seat it.
+She held the impeller in place on the housing, both hands on the cold steel, while he seated it.
 
 "Third since the bridge," Ned said. "She eats them in dirty water."
-
-The vanes went in.
 
 "That unit was dark Thursday," she said.
 
@@ -208,15 +202,13 @@ The vanes went in.
 
 Beth kept her hands where they were.
 
-He got the first bolt in, then the second.
-
 "Crates come open now and again," Ned said. "You know they do. A year back I started seeing too many pieces to the crate for the weight. Figured it was shorts. Boxes rode heavy, and I never gave that a thought. That contract's the winter boat. Lose it, the district runs her three days a week. Somebody gets laid off, and it wouldn't be me. So I never said."
 
 He set the wrench down on the housing. "I thought it was shorts, Bethie."
 
 She took her hand off the impeller and put it on his arm, on the wet green wool, a second. Then she picked up the wrench and gave it back to him.
 
-He threw the switch. The pump coughed, caught and ran. The water started down the rung. Ned sat back on his heels and listened.
+He threw the switch. The pump coughed, caught and ran. The water started down the rung.
 
 Up in the wheelhouse Dane was watching the pier for her. She had said Nobody to his face on the shore, with her arm through his. Ned's the boat. You asked the boat about the water.
 
@@ -228,11 +220,7 @@ Ned looked up at her. "Which tide?"
 
 He wiped his hands down his jacket and reached for the tide table on the bulkhead.
 
-"Wind goes round tonight." He ran a black fingernail down the card. "First light she's a third gone. Plenty under the float."
-
-He hung the card back on its nail. "Ledges'll be dry, all but the last. That one's still deep in the dark."
-
-He held out a hand for the rag.
+"Wind goes round tonight." He ran a black fingernail down the card. "First light she's a third gone. Plenty under the float. Ledges'll be dry, all but the last. That one's still deep in the dark."
 
 * * *
 
@@ -270,13 +258,19 @@ He kissed her, his hands cold from the boot.
 
 "Slower than Monday," he said.
 
-"Can you?"
+"We'll see."
 
 He didn't answer. He undid her shirt from the top, his hard fingertips catching at every button. At the fourth she reached to hurry him, and he shook his head and went on at his own pace, and did her bra after.
 
 He pulled his shirt off over his head and laid her down on the cold canvas.
 
 His hand came up under her breast, hard-palmed, careful, and brushed the nipple once and away. She waited. He did it again, slower, then put his mouth there.
+
+He stayed there a long time. When she pulled at his shoulder he kissed her knuckles and put her hand back where it had been, and went on.
+
+She had been quick all her life at everything that mattered: a line, a binder, the ramp in a gale. He was taking his time over her as if no tide in the world was making.
+
+Outside, the wind worked at the shingles on the landward wall, the one she hadn't done yet.
 
 Then his hand went down her arm to hers and turned it palm up, to the white line across it.
 
@@ -286,7 +280,7 @@ He put his mouth to it.
 
 Over his shoulder the oak bar lay across the door. She thought of the forepeak, and the water going down the rung. He turned her face back to him with two fingers.
 
-"Beth," he said. His hand was at the button of her jeans. "Yes?"
+"Beth," he said. His hand was at her jeans. "Yes?"
 
 "Yes."
 
@@ -298,21 +292,23 @@ He kissed the inside of her knee, and higher, and stopped.
 
 "Are you going to make me ask?" she said.
 
-He shook his head against her thigh. Then his mouth was on her, slow, and he kept it slow.
+He shook his head against her thigh. Then his mouth was on her, slow and patient, and nothing she did with her hips moved him off his pace.
 
 "Dane."
 
-He didn't hurry for that either. She was wet against his mouth, and her hips came up off the canvas, and he took his time until she had a fist in the blanket and heard herself say please.
+He didn't hurry for that either. She was wet against his mouth, and he held her hips in both hands and kept her there. She had a fist in the blanket. The canvas was cold under her shoulders, and the rest of her had forgotten the cold.
 
-He came up the cot to her and reached for the foil on the blanket. He got the condom on with his hands not quite steady.
+"Please," she said.
 
-Then he was inside her, slow, a little and then all of him, and he stopped there with his forehead down on hers.
+He came up the cot to her then and reached for the foil on the blanket. He got the condom on with his hands not quite steady.
 
-"Beth," he said. Only that.
+Then he was inside her, by slow degrees, all the way, and he stopped there, his face close over hers. His breath was ragged against her mouth.
 
-He moved, slow, and kept it slow when she pushed up for more.
+He stayed like that, his weight on his forearms, until her hands came round his back on their own.
 
 She stopped listening for the door.
+
+He moved in her, long and slow, and when she pushed up for more he gave her the same again and no faster. He was sweating in that cold room. So was she.
 
 The cot's legs walked on the planks.
 
@@ -320,11 +316,11 @@ The cot's legs walked on the planks.
 
 "Yes," she said. "Yes."
 
-She came with her face in his shoulder and her heel dug into him, a long shaking that went down her thighs to her feet. The sound she made went nowhere past the planks.
+She came with her mouth against his shoulder, a long shaking that went down her thighs to her feet, and he kept on at the same pace through all of it, until she had nothing left to shake with.
 
 He came a little after, quiet, his hand shut on hers over the scar.
 
-"I had a plan for that," he said against her temple, when he could talk. "It held."
+"I had a plan for that," he said, when he could talk. "It held."
 
 "Mine's better," she said, and pulled her coat over the two of them. "Before six. Out of here and along under the bank on the ebb. The ledges go dry behind it, all but the last one, and that one's still deep in the dark. Up the lane behind the bait shed. Then the ramp head, and we look at the float."
 
@@ -346,7 +342,7 @@ The ledges were dry behind the ebb, black under her boots, all but the last one 
 
 She went in. The water came up past her knees, then closed round her thighs, and the cold took the air out of her in one pull. She stood in it until she had it back. Thigh-deep.
 
-Behind her Dane was talking, low, a little at a time. She let him.
+Behind her Dane was talking, low, a little at a time.
 
 "Seven days on this island," he said, "and I'm a worse wader every one of them. I didn't know you could lose a skill you never had."
 

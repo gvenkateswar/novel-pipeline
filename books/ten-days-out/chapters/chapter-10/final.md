@@ -2,9 +2,9 @@
 
 Dane stood beside her at the head of the landing ramp with his left arm strapped across his chest, the empty sleeve pinned. Above his collar the bruise had gone black up the side of his neck. The kicks had opened the furrow, and at about two the fire company's EMT had closed it again on Tess's counter with fresh strips and a pressure dressing and checked the bone twice. Nothing broken. He couldn't close the left hand.
 
-A little before eleven, near the low, Beth stood by the locked box at the ramp head. Herring came off the bait shed in the cold. Every wash off the boats alongside lifted the float and clanged the hinge once.
+A little before eleven, near the low, Beth stood by the locked box at the ramp head. Herring came off the bait shed in the cold.
 
-The lifeboat and the Marine Patrol boat had lain at the float since eight. Two men sat in the Marine Patrol boat's stern with their hands behind them. One was the boy from the water, in Ned's blankets and a borrowed life jacket cinched as far as its straps went, and it still sat on him like a kid's. He looked up at the island once, the hill and the houses on it, and then down at his knees. Out past the outer ledges the *Margaret Ann*'s red hull lay stopped with a Coast Guard boat alongside. Across the harbor a Marine Patrol skiff was towing the dragger's aluminum skiff off the *North Reach*'s port quarter ladder, where the boy had left it.
+The lifeboat and the Marine Patrol boat had lain at the float since eight. Two men sat in the Marine Patrol boat's stern with their hands behind them. One was the boy from the water, in Ned's blankets and a borrowed life jacket cinched as far as its straps went, and it still sat on him like a kid's. He looked up at the island once, the hill and the houses on it, and then down at his knees. Out past the outer ledges the *Margaret Ann*'s red hull lay stopped with a Coast Guard boat alongside.
 
 Two relief deputies came down the Harbor Road from the town office and stopped at the ramp head.
 
@@ -96,7 +96,7 @@ He came up the iced back steps from the harbor side, out of sight of the two dep
 
 He had no gun on his hip.
 
-The kitchen was warm, the stove going and the grid back since the line crew came over on the Marine Patrol boat at noon, and the cold came in off his coat into the heat.
+The kitchen was warm, the stove going and the grid back, and the cold came in off his coat into the heat.
 
 He sat down in the chair with its back to the door, and he didn't look at the door. She saw him not look.
 
@@ -112,29 +112,33 @@ Her room was over the kitchen and warm with it. She set the lamp on the sill of 
 
 She left it burning.
 
-He came up the stairs behind her. She undid the strapping herself, the buckle and the long strap round his back, and eased the arm out of it and laid it on the pillow.
+He came up the stairs behind her. She undid the strapping herself, the buckle and the long strap round his back, and eased the arm out of it.
 
 In the lamplight she could see the bruise whole, black and green over the shoulder down to the strips, and the old white scars across his right knuckles that she had only ever felt.
 
-He tried her father's sweater one-handed. It came halfway over her head and stuck at the darned elbows, her arms up inside it and her face in the wool.
+He kissed her. His right hand found the bare skin above her jeans and went up her back and round her ribs to her breast, and stayed.
+
+He tried the sweater one-handed. It came halfway over her head and stuck at the darned elbows, her arms up inside it and her face in the wool.
 
 "Worst one-handed job I've seen since you came over my ramp," she said into it.
 
 "I had two hands for your ramp, and it went about like this."
 
-She laughed, blind with her arms up, and he laughed with her, his forehead against hers through the wool, until she worked one elbow loose, then the other, and came out with her braid half down.
+She laughed, blind with her arms up, and he laughed with her, his face against hers through the wool, until she worked one elbow loose, then the other, and came out with her braid half down.
 
-She put him down on the bed by his right shoulder.
+She put him down on the bed by his right shoulder and laid the left arm on the pillow.
 
 She got the rest of his clothes off him, careful on the left side, and then her own. She knelt over him with the lamp behind her.
 
 He looked at her, all of her, lit from the window side. She didn't reach for the sheet.
 
-She took his good hand and put it on her breast and held it there until his fingers moved. She bent and put her mouth to his throat, then to the edge of the bruise, lightly, and felt his breath go. His skin smelled of the EMT's tape and the store's coffee.
+She bent and put her mouth to his throat, then to the edge of the bruise, lightly, and felt his breath go. His skin smelled of the EMT's tape and the store's coffee.
 
 The lamp showed her his face while she did it.
 
-She closed her hand round his cock and moved it once, slow.
+His hand came up over her hip to her breast again, and she felt him hard against her belly.
+
+She closed her hand round his cock and stroked him once.
 
 "Will you look at me?" she said.
 
@@ -160,7 +164,9 @@ She lowered herself onto him slowly, a little and then all of him, and stayed th
 
 "Fine."
 
-He left the arm where she'd put it. She moved on him, slow, her hands spread on his chest, and set the pace herself.
+He left the arm where she'd put it. She began to move on him, her hands spread on his chest, and set the pace herself.
+
+He rose to meet her, and she was smiling down at him, and he saw it and smiled back.
 
 "Deputies'll hear," she said.
 
@@ -168,7 +174,9 @@ He left the arm where she'd put it. She moved on him, slow, her hands spread on 
 
 She moved faster. The lamp burned in the window at her back, where the harbor could see it, and the store. His hand was hard on her hip. His breath came short. Cold came off the glass onto her shoulders, and the heat of him came up into her.
 
-She came with her head down and her hands pressed flat to his chest. It went through her in one long pull. She made no effort to be quiet in her own house. He came after her with his eyes open on her face.
+Once his eyes closed. She stopped moving, and they opened, and she began again.
+
+She came with her head down and her hands pressed flat to his chest. It went through her in one long pull. She made no effort to be quiet in her own house. He followed her with his eyes open on her face.
 
 She lay along his right side and pulled the sheet up over them both. Downstairs the refrigerator came on.
 

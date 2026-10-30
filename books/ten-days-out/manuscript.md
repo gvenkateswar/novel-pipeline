@@ -666,39 +666,85 @@ He looked at her, a man who talked to anybody who'd stand still, and had nothing
 
 She put her back to the engine housing. It was warm already through her coat and getting warmer, and it shook against her with every stroke. She took his jacket in her fist and brought him down to her.
 
-His mouth was cold for a second and then warm. He went still all over, and then he kissed her back slowly, and kept it slow. He tasted of the store's terrible coffee. She caught his lower lip in her teeth, and the breath went out of him through his nose, long. She pulled off a glove and put her bare hand along his jaw where she'd watched the razor go that morning, and it was as smooth under her fingers as it had looked from the stove.
+His mouth was cold for a second and then warm. He went still all over. Then he kissed her back, slowly, and kept it slow. He tasted of the store's terrible coffee. She caught his lower lip in her teeth, and the breath went out of him through his nose, long. It was all the noise he made.
 
-"Beth," he said against her mouth, and nothing else.
+She pulled off a glove and put her hand along his jaw, smooth where the razor had gone that morning.
 
-"Your hands," she said.
+"Beth," he said against her mouth.
 
-He brought them up and stopped an inch off her zipper, and they waited there.
+She waited for the rest of it. With him there was always a rest of it, a clause and a turn at the end. None came. He stood with her name said and his mouth an inch off hers, and waited on her.
 
-"Where?"
+"Your hands," she said. "Under the wool."
 
-"Under the wool."
+He brought them up and stopped short of her zipper. She ran it down herself. His hands went in under the sweater and the thermal and onto the bare small of her back, and they were so cold she swore into his mouth.
 
-She opened her own coat. The zipper stuck halfway on the wool, and she said a word to it, and he waited. His hands went in under the sweater and the thermal and onto the bare small of her back, and they were so cold she swore into his mouth. He laughed, and she felt it against her teeth, and he kept his hands where they were, which was what she wanted.
+He took them away at once. He stepped back half a pace, opened his jacket and stuck both hands up under his arms inside the fleece, and stood there with his elbows out, patient as a man in the ferry line.
 
-Then they warmed, and moved, up her spine and round over her ribs, the old hauler's ridge across his palms catching on her skin, and the engine beat at her back and the cold came in at the door and the house stood lit up the hill, and she had both hands in his belt, pulling him in.
+"How long does that take?"
 
-"Do you want—" she said.
+One shoulder went up.
 
-"Yes." He said it against her temple. Then, quieter: "Do you?"
+The engine beat at her back. Up the slope the windows stood yellow behind the sheets. The cold came in at the door and found her ankles, and she stood it as long as she could, which wasn't long.
 
-"Yes," she said.
+"That's long enough."
 
-His hands spread over her ribs and stopped there, waiting on her. She put her own hand over one of them through the wool and held it to her.
+He came back. His palms were warm now and the fingertips still cool, and he set them on her waist and left them there a stroke or two before they moved. Then the old hauler's ridge across his palms was dragging up her spine and round over her ribs, rough as new line.
 
-He leaned in, and his jacket swung against her hip, and something in the inside pocket pressed into her through everything, square and hard. *Log daily*, and the other thing, the one he couldn't tell her.
+"Higher," she said.
 
-She took her hands back, and he stopped at once. His hands came out from under the wool, and the cold went in after them.
+He went higher and stopped under her breast, his forehead down against hers. The engine shook her into his hands.
 
-"That's the phone."
+"Yes," she said. "Go on."
+
+His hand closed over her breast, the palm warm, the fingers cool. Her nipple drew up hard against the ridge. She put her head back on the steel and shut her eyes, and opened them again, because she wanted his face.
+
+She had both hands in his belt to pull him in, and her knuckles came against the holster on his right hip. He turned that hip away from her without a word and came in on her other side, so the gun was out of her reach and his leg was between hers.
+
+She took the hem of the thermal in her fist. He waited on it.
+
+"Up," she said.
+
+He pushed the thermal and the sweater up together. The cold of the shed went over her bare skin. Then his mouth, warm, on her breast. The engine covered the sound she made. She took a handful of his hair at the back and held him there, and every stroke of the set pushed her into his mouth.
+
+Once his head came up and turned to the door, to the black down the hill where the dragger lay with her lights out. He listened through two strokes. Then he bent to her again.
+
+She took his wrist and brought his hand down her belly to the button of her jeans, and let go.
+
+His hand stayed where she'd left it. He lifted his head.
+
+"Beth?"
+
+"Yes," she said. "In."
+
+He undid the button. He drew the zipper down a tooth at a time. She was going to tell him to hurry, and then his fingers were under the cotton, cool on her belly and warm by the time they got where she wanted them. She was wet. He found that and stopped, and the breath he let out was close to a laugh.
+
+"Don't you laugh," she said.
+
+He kissed her instead, with the laugh still in it.
+
+Then he moved his hand. He was slow at it, a man working a knot he didn't mean to cut. Her hips came off the steel after him.
+
+"With the engine," she said.
+
+He found the beat. The set hammered at her back, stroke on stroke, and his hand kept time with it. She held on to his jacket with both fists. Up the slope the yellow windows swam and steadied and swam.
+
+"Beth," he said against her temple, low, and nothing after it.
+
+She came against the shaking housing with her teeth in the collar of his jacket and the cold coming in at the door round her ankles. It went on longer than she was ready for. He kept his hand still. His other arm held the rest of her up. He said nothing at all, and the engine went on beating through both of them.
+
+He had seen her face for all of it, lit from the house. She had let him.
+
+She was still shaking. He leaned in to take more of her weight, and his jacket swung against her, and something in the inside pocket pressed into her bare stomach, square and hard. *Log daily*, and the other thing, the one he couldn't tell her.
+
+She took his wrist and drew his hand out of her jeans. He stopped at once and let it come. The cold went in where his hand had been.
+
+She put her hand over the pocket, over the shape in it.
+
+"That's where you write it."
 
 "Yes."
 
-She stepped back off the housing and zipped her coat to the chin.
+She pulled the thermal down and did up her jeans with fingers that wouldn't work. She stepped back off the housing and zipped her coat to the chin.
 
 "I'd rather be kissed by a man I can check. I read it this morning, Dane Reyes, and I didn't ask you twice. I'm asking now. What you write every day, and what's in it that I don't get told."
 
@@ -740,7 +786,7 @@ She had shown one person how that door went, in her own mudroom, on Friday. Or h
 
 It didn't. He came out onto her back step, pushed the hood back off his head, and turned his face up to the hill, as if somebody had told him where.
 
-Young, wiry, with a wide pale face. She placed men by their boats, and she went through the harbor mooring by mooring and had nowhere to put him. He didn't care who on the island saw that face.
+Young, wiry, with a wide pale face. She placed men by their boats, and she went through the harbor mooring by mooring and had nowhere to put him. He stood with his face up to the hill like a sternman at the end of a bad trip, waiting on his pay and the first boat home.
 
 He went down the planks to the store dock and came out from under it in a skiff. A man on the *Margaret Ann*'s afterdeck took his painter. The skiff went up her side on a line, and he climbed up after it.
 
@@ -1318,6 +1364,8 @@ He turned his smile on her. "You keep a good store, Tess. A store like this live
 
 Tess laughed over the end of it, high and quick. "Barge Sunday, says the state. Oil's nine fifty, Lyle. Cigarettes went up a dollar Monday." She reached for the next thing on the counter.
 
+"Sunday," Arsenault said. He was looking at the coins in his palm. "The men I run her for in Portland don't wait on the state, Tess. I owe them a boat that moves." He counted the coins again, the same coins.
+
 He tucked the pack into his jacket and went out under the bell. Through the glass Beth saw him pass Dane on the dock. A nod. Dane stayed on the piling.
 
 Tess rang up the box without looking at it. "Four seventy-nine. Good till next August."
@@ -1340,13 +1388,11 @@ Past his shoulder the dragger sat on her guest mooring. Glass flashed on her whe
 
 "Down," Beth said.
 
-He went to one knee and finished the call crouched below the line of the rock.
+He went to one knee and finished the call crouched.
 
 "Pike?"
 
-"Pike. Weather." He came down off the rock behind her. "Lifeboat at first light tomorrow to the town float, because it's the only lee in this swell, and the inspector rides over on her for the ferry while you ride back. The county's cleared the landing."
-
-Below them the ledges were drying on the ebb.
+"Pike. Weather." He came down off the rock. "Lifeboat at first light to the town float, because it's the only lee in this swell, and the inspector rides over for the ferry while you ride back. The county's cleared the landing."
 
 The county would ring the island. The island had one person to ring.
 
@@ -1354,9 +1400,9 @@ The county would ring the island. The island had one person to ring.
 
 "Portland did. Before they told me."
 
-"Going aboard this morning," she said. "Pump's eating its insides. Ned hears from me I'm going, or I don't go."
+"Going aboard this morning," she said. "Ned hears from me I'm going, or I don't go."
 
-Dane walked a few steps. "Tell him you're going, and leave the hour out of it."
+"Tell him you're going, and leave the hour out of it."
 
 "Fine."
 
@@ -1364,7 +1410,7 @@ Dane walked a few steps. "Tell him you're going, and leave the hour out of it."
 
 "Nobody," she said.
 
-Where the shore turned, the bank fell away to low ground, open to the inner harbor. The *Margaret Ann* was off her guest mooring. She lay on a new one with the town landing square in front of her bow. A man came aft along her rail, the left heel dragging, and stopped facing the shore.
+Where the shore turned, the bank fell away to low ground. The *Margaret Ann* was off her guest mooring. She lay on a new one with the town landing square in front of her bow. A man came aft along her rail, the left heel dragging, and stopped facing the shore.
 
 "Moorings swing," Dane said.
 
@@ -1372,7 +1418,7 @@ Where the shore turned, the bank fell away to low ground, open to the inner harb
 
 He put two fingers on her sleeve. "Back to the turn, and we wait under the bank till he looks away."
 
-Beth looked at the water. Behind them the shore ran back to the cove and its one roof. Turn now, and they drew that glass up the shore to her father's door. And two people crouched in the weed had a reason to crouch.
+Behind them the shore ran back to the cove and its one roof. Turn now, and they drew that glass up the shore to her father's door. And two people crouched in the weed had a reason to crouch.
 
 "Turn round now and he walks us home," she said. "Walk."
 
@@ -1400,31 +1446,27 @@ The last ledge before the riprap was all weed. His free hand came under her elbo
 
 "You will."
 
-At the foot of the stone pier she looked back. The man had turned all the way round, and he watched them up the pier and over the brow. She took her arm out of Dane's at the top, and he went up the outside ladder to the wheelhouse.
+At the foot of the stone pier she looked back. The man on the rail watched them up the pier and over the brow. She took her arm out of Dane's at the top, and he went up the outside ladder to the wheelhouse.
 
-Beth heard the forepeak before she saw it. The pump had quit. The boat had gone quiet under her boots.
+Beth heard the forepeak before she saw it. The pump had quit.
 
 Below the hatch the water was over the floor plates and up to the second rung. Ned was down in it to his shins with the old impeller in his hand, its vanes chewed to stubs.
 
-She went down the ladder. The cold came through her boots at the second rung and kept coming.
+The cold came through her boots at the second rung and kept coming.
 
 "Glass is up," Ned said. He looked at the water round his shins. "So's this."
 
 "Pump's not."
 
-"New one's in the mess." He handed her the old one and went up the ladder hand over hand.
+"New one's in the mess." He handed her the old one and went up the ladder.
 
 At the hatch he stopped and looked back down at her. Then he was gone.
 
-The cold ached in her fingers to the wrist.
-
 Ned came down with the new impeller in a box with Marr's price sticker on the end.
 
-He knelt in the water at the housing. She held the impeller in place, both hands on the cold steel, while he turned it to seat it.
+She held the impeller in place on the housing, both hands on the cold steel, while he seated it.
 
 "Third since the bridge," Ned said. "She eats them in dirty water."
-
-The vanes went in.
 
 "That unit was dark Thursday," she said.
 
@@ -1432,15 +1474,13 @@ The vanes went in.
 
 Beth kept her hands where they were.
 
-He got the first bolt in, then the second.
-
 "Crates come open now and again," Ned said. "You know they do. A year back I started seeing too many pieces to the crate for the weight. Figured it was shorts. Boxes rode heavy, and I never gave that a thought. That contract's the winter boat. Lose it, the district runs her three days a week. Somebody gets laid off, and it wouldn't be me. So I never said."
 
 He set the wrench down on the housing. "I thought it was shorts, Bethie."
 
 She took her hand off the impeller and put it on his arm, on the wet green wool, a second. Then she picked up the wrench and gave it back to him.
 
-He threw the switch. The pump coughed, caught and ran. The water started down the rung. Ned sat back on his heels and listened.
+He threw the switch. The pump coughed, caught and ran. The water started down the rung.
 
 Up in the wheelhouse Dane was watching the pier for her. She had said Nobody to his face on the shore, with her arm through his. Ned's the boat. You asked the boat about the water.
 
@@ -1452,11 +1492,7 @@ Ned looked up at her. "Which tide?"
 
 He wiped his hands down his jacket and reached for the tide table on the bulkhead.
 
-"Wind goes round tonight." He ran a black fingernail down the card. "First light she's a third gone. Plenty under the float."
-
-He hung the card back on its nail. "Ledges'll be dry, all but the last. That one's still deep in the dark."
-
-He held out a hand for the rag.
+"Wind goes round tonight." He ran a black fingernail down the card. "First light she's a third gone. Plenty under the float. Ledges'll be dry, all but the last. That one's still deep in the dark."
 
 * * *
 
@@ -1480,7 +1516,7 @@ She took his hand off the boot and turned it over. Her thumb found the ridge of 
 
 "Because of a girl named Marisol." His hand stayed in hers. "In the car, on the way to the safe site, she asked me what I'd do if I weren't this. I said I didn't know. She said everybody who says that wants a boat."
 
-The drum ticked.
+He set the boot down.
 
 "Then she asked for ten minutes at her sister's, and I gave her ten minutes. She's buried in Lawrence."
 
@@ -1488,67 +1524,77 @@ Beth got up. She took the red book out of the zip pocket of her coat on the nail
 
 He tipped it to the drum's glow and read it. Then he gave it back, and she put it away.
 
-When she turned round he was standing, and she tore the box open on the bench in the coal light.
+When she turned round he was standing. He took the box from her and set one square of foil on the blanket at the head of the cot, where they could both see it.
 
-He kissed her, his hands cold from the boot. She took him by the wrists and brought them up under her shirt to warm them.
+He kissed her, his hands cold from the boot.
 
-"Slower than Monday," she said. "Can you?"
+"Slower than Monday," he said.
 
-He didn't answer. He undid her shirt from the top, his hard fingertips catching at every button. At the fourth she lost patience and did the rest herself, and her bra after.
+"We'll see."
 
-The drum's heat lay along one side of her. The cove's cold lay in the planks on the other.
+He didn't answer. He undid her shirt from the top, his hard fingertips catching at every button. At the fourth she reached to hurry him, and he shook his head and went on at his own pace, and did her bra after.
 
-She pulled his shirt off over his head. She put her mouth to the warm side of him.
+He pulled his shirt off over his head and laid her down on the cold canvas.
 
-They got down on the cot together. His hand came up under her breast, hard-palmed, careful, and brushed the nipple once and away.
+His hand came up under her breast, hard-palmed, careful, and brushed the nipple once and away. She waited. He did it again, slower, then put his mouth there.
 
-"Again," she said.
+He stayed there a long time. When she pulled at his shoulder he kissed her knuckles and put her hand back where it had been, and went on.
 
-He did it again. Then his hand went down her arm to hers and turned it palm up, to the white line across it.
+She had been quick all her life at everything that mattered: a line, a binder, the ramp in a gale. He was taking his time over her as if no tide in the world was making.
+
+Outside, the wind worked at the shingles on the landward wall, the one she hadn't done yet.
+
+Then his hand went down her arm to hers and turned it palm up, to the white line across it.
 
 "Hawser," she said. "Twenty-three."
 
 He put his mouth to it.
 
-Over his shoulder the oak bar lay across the door. Her eyes stayed on it. She thought of the forepeak, and the water going down the rung. Then she brought her eyes back to his face.
+Over his shoulder the oak bar lay across the door. She thought of the forepeak, and the water going down the rung. He turned her face back to him with two fingers.
 
-"Beth," he said. His hand was at the button of her jeans. "Here?"
+"Beth," he said. His hand was at her jeans. "Yes?"
 
-She lifted her hips off the canvas and got the jeans down herself, and his after, buckle and all.
+"Yes."
+
+He got her jeans down himself, one leg and then the other, and his own after, buckle and all.
 
 His jacket hung on the nail at the edge of the light, the notebook square in its inside pocket. At first light a boat would come to the town float for her.
 
-He was hard against her thigh. She reached down and found him, and he went still.
+He kissed the inside of her knee, and higher, and stopped.
 
-"Now," she said. "Yes. Now."
+"Are you going to make me ask?" she said.
 
-He got the condom on with his hands not quite steady. Then he was inside her, slow. She put her heel to the back of his thigh and held him there.
+He shook his head against her thigh. Then his mouth was on her, slow and patient, and nothing she did with her hips moved him off his pace.
 
-"Like that," she said. "Stay like that."
+"Dane."
 
-"Beth."
+He didn't hurry for that either. She was wet against his mouth, and he held her hips in both hands and kept her there. She had a fist in the blanket. The canvas was cold under her shoulders, and the rest of her had forgotten the cold.
 
-He moved, slow, and she moved with him. The drum ticked down. His rough palm went under her shoulder blade and held her up off the cold canvas. His breath was at her ear.
+"Please," she said.
 
-"Harder," she said.
+He came up the cot to her then and reached for the foil on the blanket. He got the condom on with his hands not quite steady.
 
-He gave her that.
+Then he was inside her, by slow degrees, all the way, and he stopped there, his face close over hers. His breath was ragged against her mouth.
+
+He stayed like that, his weight on his forearms, until her hands came round his back on their own.
 
 She stopped listening for the door.
+
+He moved in her, long and slow, and when she pushed up for more he gave her the same again and no faster. He was sweating in that cold room. So was she.
 
 The cot's legs walked on the planks.
 
 "Beth," he said again, and it was a question.
 
-"Yes," she said. "Keep on."
+"Yes," she said. "Yes."
 
-She came with her face in his shoulder and her heel dug into him, a long shaking that went down her thighs to her feet. The sound she made went nowhere past the planks.
+She came with her mouth against his shoulder, a long shaking that went down her thighs to her feet, and he kept on at the same pace through all of it, until she had nothing left to shake with.
 
-He came a little after, quiet, with her name once against her temple and his hand shut on hers over the scar.
+He came a little after, quiet, his hand shut on hers over the scar.
 
-After, she lay along him under her coat with the drum's heat on her shoulders.
+"I had a plan for that," he said, when he could talk. "It held."
 
-"Before six," she said. "Out of here and along under the bank on the ebb. The ledges go dry behind it, all but the last one, and that one's still deep in the dark. Up the lane behind the bait shed. Then the ramp head, and we look at the float."
+"Mine's better," she said, and pulled her coat over the two of them. "Before six. Out of here and along under the bank on the ebb. The ledges go dry behind it, all but the last one, and that one's still deep in the dark. Up the lane behind the bait shed. Then the ramp head, and we look at the float."
 
 "How do you know the float?"
 
@@ -1568,7 +1614,7 @@ The ledges were dry behind the ebb, black under her boots, all but the last one 
 
 She went in. The water came up past her knees, then closed round her thighs, and the cold took the air out of her in one pull. She stood in it until she had it back. Thigh-deep.
 
-Behind her Dane was talking, low, a little at a time. She let him.
+Behind her Dane was talking, low, a little at a time.
 
 "Seven days on this island," he said, "and I'm a worse wader every one of them. I didn't know you could lose a skill you never had."
 
@@ -2274,7 +2320,7 @@ He stood at the transom with his back to the stern chain. She could hear the lin
 
 The chain fell away behind him. He went over the low transom into the black harbor with the lighter still in his fist, and the cold took the air out of him in a gasp she heard from the deck. Then he was under, then up, gasping again. The harbor slapped, once, hard.
 
-She had the ring buoy out of its bracket on the port bulwark before he came up the second time, the ice cracking off the bracket as it came free. She threw it at the sound. He had rowed in like an island boy. He'd grab. The line paid out through her hands and burned.
+She had the ring buoy out of its bracket on the port bulwark before he came up the second time, the ice cracking off the bracket as it came free. She threw it at the sound. He had rowed in like an island boy, and she had never known an island boy who could swim. He'd grab. The line paid out through her hands and burned.
 
 Behind her Dane had come up on one arm.
 
@@ -2286,9 +2332,9 @@ The line came taut in her hands exactly where she had meant it to, with a man ha
 
 The generator roared out back of Marr's. Tess held a dish towel of snow to her mouth and squared cartons in the cigarette rack with her free hand.
 
-"Whitcomb came through that door at a run," Tess said. "Three tries to put Arsenault on the floor. Three."
+"Whitcomb came through that door at a run," Tess said. "Three tries to put Arsenault on the floor. Three. And Lyle down there on my floor with a number for me to ring in Portland. Tell them she's still on her mooring, he says. Tell them I'm good for it."
 
-Through the front window Arsenault sat in Russ's truck under the dome light, his hands behind him.
+Through the front window Arsenault sat in Russ's truck under the dome light, his hands behind him, his face turned out to the harbor, where the dragger lay.
 
 Ned sat on the stool in the clean collar from supper, the store's set on the shelf behind his head. Beth laid her raw palms on the counter's cold wood.
 
@@ -2354,9 +2400,9 @@ Before he could open his mouth, Ned held his wrists out together across the coun
 
 Dane stood beside her at the head of the landing ramp with his left arm strapped across his chest, the empty sleeve pinned. Above his collar the bruise had gone black up the side of his neck. The kicks had opened the furrow, and at about two the fire company's EMT had closed it again on Tess's counter with fresh strips and a pressure dressing and checked the bone twice. Nothing broken. He couldn't close the left hand.
 
-A little before eleven, near the low, Beth stood by the locked box at the ramp head. Herring came off the bait shed in the cold. Every wash off the boats alongside lifted the float and clanged the hinge once.
+A little before eleven, near the low, Beth stood by the locked box at the ramp head. Herring came off the bait shed in the cold.
 
-The lifeboat and the Marine Patrol boat had lain at the float since eight. Two men sat in the Marine Patrol boat's stern with their hands behind them and life jackets buckled over their coats, one of them wrapped in Ned's blankets. Out past the outer ledges the *Margaret Ann*'s red hull lay stopped with a Coast Guard boat alongside. Across the harbor a Marine Patrol skiff was towing the dragger's aluminum skiff off the *North Reach*'s port quarter ladder, where the boy had left it.
+The lifeboat and the Marine Patrol boat had lain at the float since eight. Two men sat in the Marine Patrol boat's stern with their hands behind them. One was the boy from the water, in Ned's blankets and a borrowed life jacket cinched as far as its straps went, and it still sat on him like a kid's. He looked up at the island once, the hill and the houses on it, and then down at his knees. Out past the outer ledges the *Margaret Ann*'s red hull lay stopped with a Coast Guard boat alongside.
 
 Two relief deputies came down the Harbor Road from the town office and stopped at the ramp head.
 
@@ -2448,7 +2494,7 @@ He came up the iced back steps from the harbor side, out of sight of the two dep
 
 He had no gun on his hip.
 
-The kitchen was warm, the stove going and the grid back since the line crew came over on the Marine Patrol boat at noon, and the cold came in off his coat into the heat.
+The kitchen was warm, the stove going and the grid back, and the cold came in off his coat into the heat.
 
 He sat down in the chair with its back to the door, and he didn't look at the door. She saw him not look.
 
@@ -2456,7 +2502,7 @@ She stood with her back to the stove rail.
 
 "Will you stay past Monday?" she said. "I'm asking. I don't, mostly."
 
-"When Portland's done with me, I'm coming back to this island. However long they take. I'd like to come back to you."
+He didn't answer. He got up out of the chair.
 
 She looked at him a while. Then she lit the lamp on the table and carried it upstairs.
 
@@ -2464,33 +2510,35 @@ Her room was over the kitchen and warm with it. She set the lamp on the sill of 
 
 She left it burning.
 
-He came up the stairs behind her. She undid the strapping herself, the buckle and the long strap round his back, and eased the arm out of it and laid it on the pillow.
-
-"Leave it there," she said.
+He came up the stairs behind her. She undid the strapping herself, the buckle and the long strap round his back, and eased the arm out of it.
 
 In the lamplight she could see the bruise whole, black and green over the shoulder down to the strips, and the old white scars across his right knuckles that she had only ever felt.
 
-He tried her father's sweater one-handed. It came halfway over her head and stuck at the darned elbows, her arms up inside it and her face in the wool.
+He kissed her. His right hand found the bare skin above her jeans and went up her back and round her ribs to her breast, and stayed.
+
+He tried the sweater one-handed. It came halfway over her head and stuck at the darned elbows, her arms up inside it and her face in the wool.
 
 "Worst one-handed job I've seen since you came over my ramp," she said into it.
 
 "I had two hands for your ramp, and it went about like this."
 
-She laughed, blind with her arms up, and he laughed with her, his forehead against hers through the wool, until she worked one elbow loose, then the other, and came out with her braid half down.
+She laughed, blind with her arms up, and he laughed with her, his face against hers through the wool, until she worked one elbow loose, then the other, and came out with her braid half down.
 
-She put him down on the bed by his right shoulder.
+She put him down on the bed by his right shoulder and laid the left arm on the pillow.
 
 She got the rest of his clothes off him, careful on the left side, and then her own. She knelt over him with the lamp behind her.
 
-He looked at her, all of her, lit from the window side. She let him. She didn't reach for the sheet.
+He looked at her, all of her, lit from the window side. She didn't reach for the sheet.
 
-She took his good hand and put it on her breast and held it there until his fingers moved. She bent and put her mouth to his throat, then to the edge of the bruise, lightly, and felt his breath go. His skin smelled of the EMT's tape and the store's coffee.
+She bent and put her mouth to his throat, then to the edge of the bruise, lightly, and felt his breath go. His skin smelled of the EMT's tape and the store's coffee.
 
 The lamp showed her his face while she did it.
 
-She closed her hand round his cock and moved it once, slow.
+His hand came up over her hip to her breast again, and she felt him hard against her belly.
 
-"Look at me," she said.
+She closed her hand round his cock and stroked him once.
+
+"Will you look at me?" she said.
 
 "I am."
 
@@ -2498,7 +2546,7 @@ His eyes in the lamplight had her in them, small, with the flame beside her.
 
 "You're sure," he said. "About the window."
 
-"Leave it."
+"I want it lit."
 
 His hand came down her back to her hip, and stopped there, and waited.
 
@@ -2514,9 +2562,9 @@ She lowered herself onto him slowly, a little and then all of him, and stayed th
 
 "Fine."
 
-"Don't move it. I'll do the work."
+He left the arm where she'd put it. She began to move on him, her hands spread on his chest, and set the pace herself.
 
-He left the arm where she'd put it. She moved on him, slow, her hands spread on his chest, and set the pace herself.
+He rose to meet her, and she was smiling down at him, and he saw it and smiled back.
 
 "Deputies'll hear," she said.
 
@@ -2524,19 +2572,23 @@ He left the arm where she'd put it. She moved on him, slow, her hands spread on 
 
 She moved faster. The lamp burned in the window at her back, where the harbor could see it, and the store. His hand was hard on her hip. His breath came short. Cold came off the glass onto her shoulders, and the heat of him came up into her.
 
-She came with her head down and her hands pressed flat to his chest. It went through her in one long pull. She made no effort to be quiet in her own house. He came after her with his eyes open on her face.
+Once his eyes closed. She stopped moving, and they opened, and she began again.
 
-After, she lay along his right side and pulled the sheet up over them both. The bad arm lay on its pillow where she'd left it. Downstairs the refrigerator came on.
+She came with her head down and her hands pressed flat to his chest. It went through her in one long pull. She made no effort to be quiet in her own house. He followed her with his eyes open on her face.
+
+She lay along his right side and pulled the sheet up over them both. Downstairs the refrigerator came on.
+
+"You asked me something downstairs," he said.
+
+"I did."
+
+He turned his head on the pillow. "I've been wrong about you every single time since the ramp. Here's one I'll get right. When Portland's done with me, I'm coming back to this island, however long they take, and I'm staying. I love you."
 
 "I love you," she said.
 
 "Since when?" he said.
 
 "You jumped."
-
-He turned his head on the pillow. "I love you. I've been wrong about you every single time since the ramp. It's the best run I've had in four years. Don't fix it."
-
-She reached across him and set the bad arm straighter on its pillow.
 
 * * *
 
