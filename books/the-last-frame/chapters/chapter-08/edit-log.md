@@ -62,3 +62,54 @@ Not changed: Issue 15 (fourteen teams; ledger only). Kept lines are word for wor
 - Lines added: 4 (Ellen's "Ray."; two tags, "Ray said" and "Ellen said"; "He let it stand." as a beat). Lines cut: 0 spoken lines; 5 narration beats cut (chin, eyes, Verna's tag, the bag, "the window at the lake").
 - Caps: personified machines 2 (the Buick's heater, the radiator); "as though/as if" 0; "Mrs. Daly" 1; "Understood" 1; "Raymond" 1; "Not yet" 1; "six hundred" 1; "quarter past five" 1; no numerals. "all the way" appears twice (the drawer, out of her paper), neither one a "the way…" simile. Flag it if the audit's regex counts them.
 - Tag-strip test: pass. Ray's lines are and-chains with the weight last ("and I used it on you"; "and the building with it"). Ellen's are full stops and items ("Today, or not at all."). Arlene has "dear", "Raymond" and money as a fact. Hollis talks in flat measurements and questions. Verna speaks in the third person. One clarity flag for the voice editor, not changed (it is a fact in draft-revised): in s1, Hollis's "Denise sat in her car Tuesday till your truck went." comes right before "You going to tell her what you said was wrong", so "her" can briefly read as Denise.
+
+## Voice editor (draft-dialogue.md → final.md), Oct 30
+
+Draft edited: draft-dialogue.md (3,224 words), Oct 30, 2026. Final: 3,218 by `wc -w` (heading included), net -6, band 2,760-3,240.
+
+**Word count by scene vs floor**
+
+| Scene | draft-dialogue | final | floor |
+|---|---|---|---|
+| s1 | 802 | 820 | 750 |
+| s2 | 712 | 704 | 700 |
+| s3 | 779 | 756 | 750 |
+| s4 | 922 | 929 | 800 |
+
+s2 has 4 words of margin and s3 has 6. If a later pass trims either, put the words back as life first.
+
+**Items from the brief**
+- [Listener, s1 Hollis]: "her" could read as Denise. Added a beat between the two sentences, with the kept line untouched: `"Denise sat in her car Tuesday till your truck went." Down the lane Ellen gave out the date again, and Hollis let her finish. "You going to tell her what you said was wrong, or fix another one?"` Ellen is now the nearest woman when "her" lands, and the beat tags Hollis as the speaker after a third party's action. It is heard rather than seen, because Ray has the light in his eyes.
+- ["all the way" x2]: the drawer ("watched it go all the way", judge-liked) stays. The stair is now "He was clean out of her paper now." It still pays Danny's "Half out's not out" without quoting it. Only one "all the way" is left. The added "the whole way" (the mirror line) is not a "the way..." clause.
+- [K order]: untouched. Ray's own quote, Gagnon & Son's account, billed to him, the first of March, "one letter of a sign". I put "beside me" in quotation marks, so the reader sees it is her phrase and not a bare italic thought.
+- [Money talk at Arlene's]: the business between the lines stays (glasses, chin at "the condo man", the drawer of string, "He let it stand.", the mouth). There is no narrator gloss on any money sentence. One new clause went in just before it, on the drive: he keeps her lights in his mirror and would have called it fussing in anyone else. It is a joke against his own habit and says nothing about the money.
+- [Listener pass]: in s3, Hollis's pencil came between Verna's binder and her ruling, so the third-person "The secretary notes" could read as Hollis. Reordered so Verna's binder closing sits directly before her speech. s2: "He went on before he could tidy it" now sits right after the radio line, so "You'd told me about that night..." is unmistakably Ray's. "she said" added to "One sentence from me would have ended it for you" after Ray's interior paragraph. No sentence over forty words except kept lines (the longest non-kept is 40). "the glass" in s2: 5 (was 7). "the paper" in s4: 5.
+
+**[Added life]**
+- s1: one sensory pleasure, the bolts seating, "felt that in his back teeth" (bible pleasure 2).
+- s2: "his truck ticked in the empty lot, cooling"; "He went on before he could tidy it, which for him was fast." (mock-solemnity about his habit, in the same sentence as the grief).
+- s4: the mirror line on the drive (above).
+- s3: no new matter. The scene already carries the grandson asleep on the bag and "waiting his turn like anybody".
+
+**[Voice]**
+- s2 "It was one word, and he let it be one word." → "One word, and he let it be one word." Ray's profile, no filler opener.
+- s4 "Arlene took her glasses off and polished them, and put them back on" → "took her glasses off, polished them, and put them back on". "dialed Arlene's number on the counter phone from memory" → "dialed Arlene from memory".
+- s3 "First time ahead in eleven winters, and it had gone on a Sunday he'd spent at his own kitchen table." → "...and he had lost the lead sitting at his own kitchen table." The old "it had gone" had no clear subject.
+- s3 "his back to her counter" was used twice in one paragraph; the second use is now "as people saw who was standing there".
+- Strip-the-names test on the dialogue: pass. Ray's lines are and-chains with the weight last. Ellen's are full stops and items. Arlene has "dear" (twice) and "Raymond" (once). Hollis is flat and short. Verna speaks in the third person.
+
+**[Tells]** (docs/ai-fiction-tells.md Parts 2, 3 and 5)
+- Gesture tic at the glass: cut "She took it standing." The reactions left are the look down the drive and the mouth, plus the hand on the glass later; with the standing it would have been three before the hand.
+- 4.4 / items 36-37: no sentence after a gesture decodes it. The calm voice is named once, when it breaks: "Her voice had stayed level up to then. On the first two words it came off, and he heard it." This replaces the doubled "came off its level... He heard it come off".
+- Filler openers and "there was": "It was Thursday", "It was Monday the eighth", "There was nothing to put after it", "It was one word", "It was ten". All recast or cut.
+- Long sentences split: s1 (Linda's name; the seating of the motor), s2 (the supper sentence; the glass; "In the truck" cut to forty), s3 (the room; the stood-up-in-this-building sentence; the laugh; the last ball), s4 (the opening). In s3 the last ball is now two sentences and still ends on "it was still going down the maple."
+- Counts: personified machines 2 (the Buick's heater, the radiator); "as though / as if" 0; "the way..." 0; "Mrs. Daly" 1; "Understood" 1; "Raymond" 1; "Not yet" 1; "six hundred" 1; "dear" 2; no digits except the chapter number in the heading; Statement 2 is the only money figure. Retired items: none on the page.
+- Endings: s1 "Judy, I'll call you back."; s2 "I let it cost you."; s3 the ball going down six; s4 "Not yet." and then her still holding the key out, under the one bulb. Nothing after it.
+
+**[Flagged for writer]**
+- Nothing plot-level. Open for the continuity checker: the chair going back "that night" in s4 has no named night (the tournament cut the date; the chair is a memory clause the reader can place from Ch 07). If the cold reader stumbles on it, name the chair's owner, not the date.
+- Ellen's "Ray." on the stair has no direct address elsewhere in the chapter. If the audit flags "Ray" as a name-in-dialogue count, it is the one.
+
+**Pairs for the next chapters (a pattern to stop, and the thing to do instead)**
+- The dialogue doctor added "tags after every kitchen line". Stop tagging every line in a two-person exchange. Tag the first line after a third party's action beat and let alternation carry the rest.
+- The drafts put an Ellen or Ray gesture after almost every line of a confession (mouth, chin, arms). Stop. Give the reaction to the line that costs the most (here, "I didn't let you finish") and let a thought, a choice or a silence answer the others.
