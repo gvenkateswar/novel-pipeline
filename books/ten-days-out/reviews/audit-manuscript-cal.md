@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–10, 31,083 words)
+# Audit — ten-days-out (chapters 01–10, 30,921 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -155,8 +155,8 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 
 ### Frequent 3–5 word n-grams (4+ uses, whole book)
 
+- 14× “the north reach”
 - 14× “the margaret ann”
-- 13× “the north reach”
 - 13× “his right hand”
 - 12× “the fish house”
 - 11× “the outside ladder”
@@ -164,7 +164,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 10× “the ramp head”
 - 9× “she could see”
 - 9× “the harbor road”
-- 9× “under the bank”
+- 8× “under the bank”
 - 7× “the car deck”
 - 7× “could see the”
 - 7× “the north road”
@@ -173,6 +173,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 7× “the margaret ann s”
 - 6× “put her hand”
 - 6× “the cold came”
+- 6× “his hand came”
 - 6× “came along the”
 - 6× “the chart table”
 - 6× “top of the tide”
@@ -185,7 +186,6 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 5× “the north point”
 - 5× “beth he said”
 - 5× “round the point”
-- 5× “his hand came”
 - 5× “across the cove”
 - 5× “across the door”
 - 5× “his right side”
@@ -201,7 +201,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - jaw: 6 (0.2/1k)
 - knuckles?: 6 (0.2/1k)
 - throat: 5 (0.2/1k)
-- reath: 22 (0.7/1k)
+- reath: 23 (0.7/1k)
 - pulse: 1 (0.0/1k)
 - chest: 7 (0.2/1k)
 - hands? (stopped|stilled|went still|flat): 3 (0.1/1k)
@@ -216,14 +216,14 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 |---|---|---|---|---|---|---|---|---|---|
 | 01 | 3,066 | 15.2 | 11.7 | 20% | 0.0 | 0.0 | 0.0 | 2 | short |
 | 02 | 2,890 | 15.1 | 10.2 | 19% | 0.0 | 0.0 | 1.0 | 3 | short |
-| 03 | 3,228 | 14.2 | 10.2 | 21% | 0.0 | 0.0 | 0.0 | 2 | short |
-| 04 | 2,304 | 11.4 | 8.1 | 25% | 0.0 | 0.0 | 0.0 | 3 | mean short |
-| 05 | 3,686 | 11.2 | 8.5 | 24% | 0.0 | 0.5 | 0.0 | 4 | mean short openers |
-| 06 | 3,392 | 11.2 | 7.7 | 25% | 0.0 | 0.0 | 0.0 | 3 | mean short |
-| 07 | 3,114 | 12.0 | 8.8 | 23% | 0.0 | 0.6 | 0.0 | 4 | mean short openers |
-| 08 | 3,131 | 13.9 | 11.2 | 17% | 0.0 | 0.0 | 0.0 | 2 | short |
-| 09 | 3,016 | 13.8 | 11.7 | 20% | 0.0 | 0.0 | 0.0 | 3 | short |
-| 10 | 3,256 | 13.6 | 8.8 | 13% | 0.0 | 0.0 | 0.6 | 3 |  |
+| 03 | 3,232 | 13.8 | 10.3 | 23% | 0.0 | 0.0 | 0.0 | 2 | short |
+| 04 | 2,291 | 11.4 | 8.0 | 25% | 0.0 | 0.0 | 0.0 | 3 | mean short |
+| 05 | 3,660 | 11.2 | 8.4 | 24% | 0.0 | 0.5 | 0.0 | 4 | mean short openers |
+| 06 | 3,389 | 11.1 | 7.7 | 25% | 0.0 | 0.0 | 0.0 | 3 | mean short |
+| 07 | 3,084 | 12.0 | 8.9 | 23% | 0.0 | 0.6 | 0.0 | 4 | mean short openers |
+| 08 | 3,124 | 13.8 | 11.1 | 17% | 0.0 | 0.0 | 0.0 | 2 | short |
+| 09 | 2,982 | 13.7 | 11.7 | 20% | 0.0 | 0.0 | 0.0 | 3 | short |
+| 10 | 3,203 | 13.6 | 8.8 | 13% | 0.0 | 0.0 | 0.6 | 3 |  |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -235,10 +235,10 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 ### Mood words per 1,000 (count; flag a cluster, not a word)
 
-- quiet: 14 (0.5/1k)
+- quiet: 13 (0.4/1k)
 - humm?(ing|ed)?: 4 (0.1/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 55 (1.8/1k)
+- still(ness)?: 54 (1.7/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 1 (0.0/1k)
@@ -259,16 +259,16 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | Construction | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | Total | /1k | Cap | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | as if / as though | 3 | 2 | 1 | 2 | 1 | 1 | 0 | 1 | 0 | 0 | 11 | 0.4 | 1.0/1k |  |
-| the way (a|the|people|someone) ... | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0.1 | 1/ch |  |
+| the way (a|the|people|someone) ... | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 0 | 3 | 0.1 | 1/ch |  |
 | the kind of ... that | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 2/ch |  |
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 0.0/1k |  |
-| sentence-initial And/But/And yet | 1 | 1 | 2 | 0 | 3 | 1 | 0 | 3 | 1 | 0 | 12 | 0.4 | 3.0/1k |  |
+| sentence-initial And/But/And yet | 1 | 1 | 2 | 0 | 3 | 1 | 0 | 4 | 1 | 0 | 13 | 0.4 | 3.0/1k |  |
 | em dashes | 1 | 1 | 2 | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 10 | 0.3 | 2.0/1k |  |
 | semicolons | 0 | 3 | 1 | 5 | 0 | 1 | 1 | 0 | 1 | 0 | 12 | 0.4 | 2.0/1k |  |
-| perception filter (she noticed / could hear) | 2 | 2 | 3 | 1 | 3 | 0 | 2 | 0 | 1 | 3 | 17 | 0.5 | 1.0/1k |  |
-| one-sentence paragraph | 18 | 19 | 30 | 16 | 40 | 49 | 23 | 38 | 26 | 34 | 293 | 9.4 | report |  |
+| perception filter (she noticed / could hear) | 2 | 2 | 3 | 1 | 2 | 0 | 2 | 0 | 1 | 3 | 16 | 0.5 | 1.0/1k |  |
+| one-sentence paragraph | 18 | 19 | 31 | 16 | 40 | 48 | 24 | 38 | 26 | 34 | 294 | 9.5 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 

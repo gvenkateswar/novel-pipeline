@@ -2,7 +2,7 @@
 
 "Same set runs the road and the float," Beth said. "Town's put it on for the lifeboat."
 
-The road was lit all the way to the store. Below, the float lay black on the water. Somebody had been in the timer box at the ramp head.
+Somebody had been in the timer box at the ramp head.
 
 "Ned set that timer. Ned and the town ring had the only keys to the box."
 
@@ -118,7 +118,7 @@ Dane slept on his right side with his hand on the gun. The strips held. His brea
 
 She took the notebook out of his jacket on the nail. She wanted to see what he had made of her an hour back.
 
-The paper was the kind that doesn't mind water. The jacket had been wet through, and the pencil hadn't run a line. The pages smelled of cedar and lead.
+The paper was the kind that doesn't mind water. The pages smelled of cedar and lead.
 
 Her answer about Ned was the first page she came to. He had it in short lines: the float, the tide, Ned's question back to her, the key by the safe, the curtain, the time in the margin. One page back was her plan from Wednesday night. Every ledge of it. Before six. The lane behind the bait shed. He had got all of it, and got it right.
 
@@ -134,7 +134,7 @@ Her own kitchen floor, under the blanket, with her back to the chimney. The Ashb
 
 Her thumb stopped on the page.
 
-Nine thousand dollars, put into her account and marked by the credit union for somebody to look at. The first she heard of it came off a sheet of paper, in her own fish house. Her slip went into the envelope at the store, the flap tucked, never sealed. Three people saw that slip. Tess, who bagged it. The teller in Pruett, who counted it. Herself.
+Nine thousand dollars, put into her account and marked by the credit union for somebody to look at. The first she heard of it came off a sheet of paper, in her own fish house. Three people saw her slip. Tess, who bagged it. The teller in Pruett, who counted it. Herself.
 
 She saw the store counter and the bag open on it, the flap going under. She saw her own hands pass the pouch down to the courier at Pruett on Friday morning. Dane had stood on the ramp, watching the pouch go and nothing else.
 
@@ -176,7 +176,7 @@ She took the red Pelican case from the end of the bench, where it had sat since 
 
 She went to the door. The oak bar lay across it in its irons. She got both forearms under it and lifted it out. It was heavy, and the irons were cold where her wrists touched them coming free.
 
-She stood holding it. Nobody could bar the door from the outside. Behind her he slept on his right side, and he couldn't lift his left arm past his shoulder. She could say his name. He would wake; he woke at a footstep. She held the oak bar and didn't say it.
+She stood holding it. Nobody could bar the door from the outside. Behind her he slept on his right side, and he couldn't lift his left arm past his shoulder. She could say his name. He would wake; he woke at a footstep. She held the oak bar and didn't say it. Awake, he'd have the book back inside his jacket before she got to the door.
 
 She shifted it into the crook of one arm, its end on the planks, and went to the cot. The stubble had gone dark along his jaw, and the gun lay under his right hand with the open case beside it. She held her hand over his chest, an inch off his shirt. The warmth came up off him into her palm. She took the hand back without touching him.
 

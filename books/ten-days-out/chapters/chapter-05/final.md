@@ -80,7 +80,7 @@ She shut the stove's damper hard and raked the ash up over the coals. Over the r
 
 * * *
 
-Near ten the kitchen was packed to go, two bags by the back door, under an hour to the tide. They ate Tess's chowder standing up out of the Ashbys' good bowls, by the light the generator made behind the sheets. Beth felt its hum in the floorboards.
+Near ten the kitchen was packed to go, two bags by the back door. They ate Tess's chowder standing up out of the Ashbys' good bowls, by the light the generator made behind the sheets. Beth felt its hum in the floorboards.
 
 Dane stirred his bowl. "I've been through this twice looking for the clam, and I'm starting to think the clam was a rumor."
 
@@ -190,7 +190,7 @@ His hand came to the hem of her father's sweater and waited there, the warm back
 
 She laughed out loud. It came up out of her and filled the fish house. He knelt there with the kit in one hand and the other on her ribs and waited. That made it worse.
 
-"Hands, then," she said. "And mouths. Come here."
+"Shed rules, then," she said. "And mouths. Come here."
 
 He dropped the kit on the jacket and came up onto the cot. She pulled the sweater off over her head herself, and the shirt after it. The cold off the planks came up over her bare back and shoulders.
 
@@ -202,7 +202,7 @@ Then his mouth was on her breast, and two days of stubble since Saturday's razor
 
 "There," she said. "Like that. Slower."
 
-He went slower. His tongue went over her nipple and away and back, and her head was against the boards of the wall and her eyes were shut, and the stove ticked, and outside the cove slapped at the ledge, and she was working out how high the tide would come tonight and whether the sill would stay dry, and then she lost the sum halfway and didn't go back for it, and she heard her own voice asking him for something and couldn't have said what, and she noticed she wasn't steering any of it.
+He went slower. His tongue went over her nipple and away and back, and her head was against the boards of the wall and her eyes were shut, and the stove ticked, and outside the cove slapped at the ledge, and she was working out how high the tide would come tonight and whether the sill would stay dry, and then she lost the sum halfway and didn't go back for it, and she heard her own voice say a word to him she couldn't have repeated, and she wasn't steering any of it now.
 
 She got her hands on his belt. Her fingers were stiff from the bar, and the buckle beat her twice. He laughed against her ribs. "Don't help," she said. He didn't. On the next try it came.
 
@@ -230,9 +230,9 @@ The cot's iron cried out again as he came up it to her. She pulled him down alon
 
 "Show me," she said. He put his hand over hers and showed her. Then he took it away and she went on alone.
 
-The man who had talked to her through the whole of Friday night had nothing to say now. He breathed, hard. "Like that?" she said. "Yes," he said, and it was the last word he had. He came in her hand with his face in her neck.
+He breathed, hard. "Like that?" she said. "Yes," he said, and it was the last word he had. He came in her hand with his face in her neck.
 
-After, she got the gray blanket off the foot of the cot over both of them and lay with her back to the drum, Dane along the front of her. Cold came up through the canvas from the planks. Ashby's smoke was in his hair where her face was. He was quiet a long time, and she kept her face where it was.
+After, she got the gray blanket off the foot of the cot over both of them and lay with her back to the drum, Dane along the front of her. The planks' cold was in the canvas. Ashby's smoke was in his hair where her face was. He was quiet a long time, and she kept her face where it was.
 
 Then he asked it, in the voice he used for easy questions.
 

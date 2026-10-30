@@ -174,7 +174,7 @@ He took them away at once. He stepped back half a pace, opened his jacket and st
 
 One shoulder went up.
 
-The engine beat at her back. Up the slope the windows stood yellow behind the sheets. The cold came in at the door and found her ankles, and she stood it as long as she could, which wasn't long.
+The engine beat at her back. The cold came in at the door and found her ankles, and she stood it as long as she could, which wasn't long.
 
 "That's long enough."
 
@@ -194,13 +194,13 @@ She took the hem of the thermal in her fist. He waited on it.
 
 "Up," she said.
 
-He pushed the thermal and the sweater up together. The cold of the shed went over her bare skin. Then his mouth, warm, on her breast. The engine covered the sound she made. She took a handful of his hair at the back and held him there, and every stroke of the set pushed her into his mouth.
+He pushed the thermal and the sweater up together. The cold of the shed went over her bare skin. Then his mouth, warm, on her breast. The engine covered the sound she made. Every stroke of the set pushed her into his mouth.
 
 Once his head came up and turned to the door, to the black down the hill where the dragger lay with her lights out. He listened through two strokes. Then he bent to her again.
 
-She took his wrist and brought his hand down her belly to the button of her jeans, and let go.
+His hand came down her belly to the button of her jeans and stopped there.
 
-His hand stayed where she'd left it. He lifted his head.
+He lifted his head.
 
 "Beth?"
 
@@ -216,15 +216,15 @@ Then he moved his hand. He was slow at it, a man working a knot he didn't mean t
 
 "With the engine," she said.
 
-He found the beat. The set hammered at her back, stroke on stroke, and his hand kept time with it. She held on to his jacket with both fists. Up the slope the yellow windows swam and steadied and swam.
+He found the beat. The set hammered at her back, stroke on stroke, and his hand kept time with it. She held on to his jacket with both fists. Four strokes. Eight. He didn't hurry it, and he didn't lose it. A set under load dipped, then held while the governor took up the slack. She was the set. Dip, hold. Twelve. Sixteen. His breath went short by her ear. Up the slope the yellow windows swam and steadied and swam.
 
 "Beth," he said against her temple, low, and nothing after it.
 
-She came against the shaking housing with her teeth in the collar of his jacket and the cold coming in at the door round her ankles. It went on longer than she was ready for. He kept his hand still. His other arm held the rest of her up. He said nothing at all, and the engine went on beating through both of them.
+She came against the shaking housing with her teeth in the collar of his jacket and the snow-light in the open door behind him. It went on longer than she was ready for. He kept his hand still. His other arm held the rest of her up. He said nothing at all, and the engine went on beating through both of them.
 
-He had seen her face for all of it, lit from the house. She had let him.
+He had seen her face for all of it, lit from the house.
 
-She was still shaking. He leaned in to take more of her weight, and his jacket swung against her, and something in the inside pocket pressed into her bare stomach, square and hard. *Log daily*, and the other thing, the one he couldn't tell her.
+She was still shaking. He leaned in to take more of her weight, and his jacket swung against her, and something in the inside pocket pressed into her bare stomach, square and hard and too thin for the phone. *Log daily*, and the other thing, the one he couldn't tell her.
 
 She took his wrist and drew his hand out of her jeans. He stopped at once and let it come. The cold went in where his hand had been.
 

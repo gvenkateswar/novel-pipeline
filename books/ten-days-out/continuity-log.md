@@ -223,8 +223,8 @@
 - **The loyalty sentence** (Ned in the dark, Tess's open log, not given now) → Ch 05 s4, 06 s3.
 - The *Margaret Ann* goes dark → Ch 04 s1.
 - The generator: third pull; tank near empty; the lit house → Ch 05 (the shed).
-- The kiss stopped by the phone; "Don't write me down." / "No." → Ch 04, 05 s3.
-- "North end. Not the house." → Ch 05, 08.
+- The shed scene stopped by the notebook; "Don't write me down." / "No." → Ch 04, 05 s3, 07 s3.
+- "North end… and nothing closer." → Ch 05, 08 (line changed in T6, Oct 30).
 - Dane steps between her and the water → the pattern of care.
 
 **Plants paid:**
@@ -244,6 +244,16 @@
 **Ends on:** Saturday night (Day 2), the Ashby porch, top step, in the snow. The generator hammers in its shed; the house is lit behind sheets for nobody. The *Margaret Ann* is dark, and nothing shows on the water round the point. Dane is on the phone to Portland, face up to the sky. He has stepped round her to stand between her and the water, and Beth stands with her arm against his while he tells Portland, in words she can't hear, where she is.
 
 ---
+
+### Ch 03 S3 after T6 and the commitments fixes (Oct 30, 2026; supersedes the S3 lines above)
+
+*From `chapters/chapter-03/final.md`, 3,239 words (`wc -w`). The bible now counts this as intimate scene 0 of four (author approved Oct 30).*
+
+- **S3, Saturday night, the north road and Ashby.** The walk up, the *Margaret Ann*'s deck lights going out, the primer, "Long and even, and don't yank it.", the third pull and his grin, all as before. She puts her bare hand along his jaw, smooth from the razor that morning, and kisses him against the warm engine housing. She asks for each step and he answers; he goes quiet and says her name. Her coat is open and the thermal pushed up; his mouth on her, his hand in her jeans. The engine's strokes are counted in the set's dip and hold. She comes against the housing with the snow-light in the open door behind him. **No intercourse** (Ch 05 stays their first time; Ch 04's "not yet" holds).
+- **The stop.** Still shaking, she feels the notebook in his inside pocket, "square and hard and too thin for the phone." She draws his hand out; he lets it come. "That's where you write it." / "Yes." Then "I'd rather be kissed by a man I can check…", "Don't write me down.", "Ms. Calloway. … No. And I'm not going to keep talking till it sounds like yes."
+- **The call.** "That boat went dark. I have to call it in." At the door: "North end. That's what I'll tell them, and nothing closer." On the porch he steps round her to stand between her and the water; last line ends "…and she lost the rest."
+- **Lines no longer on the page:** "Your hands." / "Where?" / "Under. Not over."; "North end. Not the house."; the phone pressing into her (it is the notebook now).
+- **Knows:** Beth now knows the notebook is where he writes her down (not its contents; those come Ch 07 S3).
 
 ## Chapter 04 — Feeling for Warm
 *From `chapters/chapter-04/final.md` as it stands after today's rebuild (round 3 installed), Oct 29, 2026: 2,237 words (`wc -w`, heading included). Two scenes: Lookout Hill with Russ (S1), the Ashby generator shed and Ned's diesel (S2). This entry replaces the earlier Ch 04 entry ("Glassing the Harbor," five scenes), which described older text. The bar rehearsal (old S5) is cut; the gut route is first found in the Ch 05 crossing.*
@@ -632,7 +642,7 @@
 | The loyalty sentence (Ned, Tess's open log) | 03 S2 | 05 S4, 06 s3 | Ch 05 S4 paid (Beth names "Home," the key and the log); → Ch 06 s3 open |
 | The generator: third pull; tank near empty | 03 S3 | 04 S2, 05 S2 | Paid (the bleed; the shed burns) |
 | The kiss stopped by the phone; "Don't write me down." / "No." | 03 S3 | 04, 05 S3 | Paid (Ch 05 S3 carried through; "When this is over, I report this.") |
-| "North end. Not the house." | 03 S3 | 05, 08 | Open (Ashby was found by smoke on the page; the leak question stays) |
+| "North end… and nothing closer." (was "North end. Not the house.") | 03 S3 | 05, 08 | Open (Ashby was found by smoke on the page; the leak question stays) |
 | "You'll be unpacking by two" | 01 s4 | 01 s4 | Paid |
 | "You were told not to work" | 01 s1 | 01 s2 | Paid |
 | **Retired from the ledger (no longer on the page):** Beth's relief when the bridge fell (cut from Ch 02; latent in the bible); "Milk's up a quarter… eggs till Easter"; "two dollars to hear"; Ida Dyer's scanner; the palm flat on the log (unspent); "Ned's color" (retired, Ch 04 ruling 3); **the bar rehearsal** (old Ch 04 S5, cut; the gut route is first found in the Ch 05 crossing); **"where I put you"** (retired); "Thursday's spent seal" (replaced by today's seal wording); the old Ch 04 S3 details now off the page (see "Carried forward") | — | — | Dropped |

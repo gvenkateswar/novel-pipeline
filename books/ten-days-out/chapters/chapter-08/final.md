@@ -58,7 +58,7 @@ In the crew mess his wet coat steamed at the heater. He set his phone on the tab
 
 "Would you write it again?"
 
-"Tonight," he said. "That book is what gets you to Monday with the case standing, and the defense will read every page of it, including the ones about us."
+"Tonight," he said. "That book is what gets you to Monday with the case standing. I'd write every line of it again, the ones about us too."
 
 "Say the line," she said.
 
@@ -126,7 +126,7 @@ She waited out the dark in the wheelhouse with the phone in her fist, and Dane w
 
 "Before you do," Dane said. "What I told Pike at four goes to the defense, whatever you tell her now. Anything that makes a marshal look bent, the prosecutor has to hand them. You'll hear it from the defense. Hear it from me."
 
-He couldn't get the phone up past his shoulder, so she held it. She found Pike at the top of his calls, put it on speaker and lifted it between them, and they bent their heads to it. It rang twice, a long way off. Sleet rattled on its case.
+He couldn't get the phone up past his shoulder, so she held it. She found Pike at the top of his calls, put it on speaker and lifted it between them, and they bent their heads to it. Sleet rattled on its case.
 
 "Pike."
 
@@ -168,7 +168,7 @@ Snow went across the phone and off it. Dane didn't move. The line ran quiet.
 
 Before he went near the oven she rolled his sleeve up off the hurt arm. The five strips had held, the middle one gone brown at its edges, and the riprap's blood had dried down him to the wrist. She laid her hand over the strips. He stood still for it. Then she rolled the sleeve down and got out her knife.
 
-The ham sat on the board by the open mess oven, heated through. The little oven ran off the boat's generator, and the steel room had filled with clove and hot sugar.
+The ham sat on the board by the open mess oven, heated through. The steel room had filled with clove and hot sugar.
 
 Dane worked one-armed and gave the orders. "Diamonds. Across one way, across the other, so the glaze has somewhere to sit."
 
@@ -246,7 +246,7 @@ The wheelhouse set came up on sixty-eight.
 
 "That ring has hung there since before she bought the store," Dane said, "and the whole fire company knows its way behind that curtain."
 
-"Arsenault stood at her counter," Beth said. "'Store like this lives on the boat.' She laughed."
+"Arsenault stood at her counter," Beth said. "'Store like this lives on the boat.' She laughed. And he runs that boat for men in Portland. Said so."
 
 "That's a threat," he said.
 

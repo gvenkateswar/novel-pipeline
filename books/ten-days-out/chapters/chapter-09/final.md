@@ -56,13 +56,13 @@ Beth's eyes went to the outside ladder. Russ followed them.
 
 * * *
 
-Dane sat in the dark lane with his back against the bait truck's rear wheel and his right side clear. Toward eleven the harbor lay flat calm under the clearing, with the stars down to the mainland hills. The cold of the deck plates came up through his jeans, and the truck behind him smelled of herring. The floods lit the open stern beyond him and left the lane black.
+Dane sat in the dark lane with his back against the bait truck's rear wheel and his right side clear. Toward eleven the harbor lay flat calm under the clearing, with the stars down to the mainland hills. The deck plates were cold through his jeans, and the truck behind him smelled of herring. The floods lit the open stern beyond him and left the lane black.
 
 The first night the captain had stood at that stern with a sea coming over the rail and told him nobody was coming over that stern in this. He'd been right. Tonight there was no *this* to speak of. Dane's own rule from that night had been *Let him come to us*, and he was sitting in it now.
 
-A body's length from his left shoulder the propane truck carried its cylinders in their rack, frost on their shoulders where the light reached. It was booked on the propane run behind the two o'clock, no passengers aboard, which had never gone. Steel doesn't burn, the captain had told him the night the bridge came down. Everything in it does.
+A body's length from his left shoulder the propane truck carried its cylinders in their rack, frost on their shoulders where the light reached. Steel doesn't burn, the captain had told him the night the bridge came down. Everything in it does.
 
-An hour ago, from this lane, he had sent Pike one text: *The witness put herself on the air tonight as bait. It was her call. I'm staying with it.* He hadn't waited for an answer, and he hadn't taken the phone out since.
+An hour ago, from this lane, he had sent Pike one text: *The witness put herself on the air tonight as bait. It was her call. I'm staying with it.*
 
 He heard her before he saw her, and he knew it was her because he hardly heard her at all. She came down the outside ladder in her socks, her boots left at the top, with a mug in one hand, and crossed the lane and put it into his right hand. The captain's coffee, stewed since afternoon.
 
@@ -98,7 +98,7 @@ Russ looked up at her once, the light on his face, and didn't ask.
 
 "Going," Russ said. His boots went off up the pier road at a run, toward the path behind Marr's.
 
-She went to the breaker box on the wheelhouse's aft bulkhead. Its door was rimed shut, and she hit it once with her fist. She had walked every chain on that deck blind. Her fingers found the floods' breakers in their row and threw them. The car deck went black under her hand as she swung herself over the top of the outside ladder, already going down into it rung by iced rung, the cold of the steel coming up through the wool at her heels.
+She went to the breaker box on the wheelhouse's aft bulkhead. Its door was rimed shut, and she hit it once with her fist. She had walked every chain on that deck blind. Her fingers found the floods' breakers in their row and threw them. The car deck went black under her hand as she swung herself over the top of the outside ladder, already going down into it rung by iced rung, the steel cold through the wool at her heels.
 
 * * *
 
@@ -122,13 +122,13 @@ There was gasoline on the steel all round them. Starlight lay on the wet plates 
 
 The boot came down again. She heard it land on the bad arm. Dane's voice stopped for as long as a man can hold his breath under water, which was not long, and then it started again, lower.
 
-"Holding," Dane said. "I'm holding. He's on my left, he's heavy, he smells of gas, and you'll want to remember I did what I was told."
+"Holding," Dane said. "I'm holding. He's on my left, he's in boots, he smells of gas, and you'll want to remember I did what I was told."
 
 The scrape went away from him, aft, toward the open stern. By the transom a lighter's wheel scratched. Sparks jumped and died. The man's glove was soaked with what he'd poured, and his thumb slid on the wheel. It scratched again.
 
 She crossed the black deck in her socks, the D-rings coming up under her soles and the gasoline running cold through the wool where it had spread and the binder bins against her hip and the lane between the trucks narrowing round her and the open stern ahead where the deck ran out over the water, and she kept a stride inside where it dropped, and the lighter scratched again, nearer.
 
-He stood at the transom with his back to the stern chain. She could hear the links give as he leaned on them, set to light the deck from its edge and go over the side to his skiff. She could smell him now, gasoline and wet wool and old smoke. The chain hooked on the starboard post. She had hooked it there every night for eleven years. She found the hook with her fingers, lifted it off its eye, and put her shoulder into him.
+He stood at the transom with his back to the stern chain. She could hear the links give as he leaned on them, set to light the deck from its edge and go over the side to his skiff at the quarter ladder. She could smell him now, gasoline and wet wool and old smoke. The chain hooked on the starboard post. She had hooked it there every night for eleven years. She found the hook with her fingers, lifted it off its eye, and put her shoulder into him.
 
 The chain fell away behind him. He went over the low transom into the black harbor with the lighter still in his fist, and the cold took the air out of him in a gasp she heard from the deck. Then he was under, then up, gasping again. The harbor slapped, once, hard.
 

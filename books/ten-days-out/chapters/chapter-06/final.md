@@ -46,7 +46,7 @@ She set the oak bar back across the door with him inside, and kept her hand on i
 
 Dane came out of Marr's onto the dock with the bell still going behind him and gave her one nod. Tuesday, the morning low, the shore under the bank dry all the way back to the cove. She went in past him.
 
-Through the front window she saw him set his back to the piling. From there he had the store door and the dragger both. His hands stayed out of his pockets.
+Through the front window she saw him set his back to the piling. His hands stayed out of his pockets.
 
 Inside it was fifty-eight degrees and smelled of coffee and kerosene. Tess spoke before Beth reached the counter.
 
@@ -92,7 +92,7 @@ He turned his smile on her. "You keep a good store, Tess. A store like this live
 
 Tess laughed over the end of it, high and quick. "Barge Sunday, says the state. Oil's nine fifty, Lyle. Cigarettes went up a dollar Monday." She reached for the next thing on the counter.
 
-"Sunday," Arsenault said. He was looking at the coins in his palm. "The men I run her for in Portland don't wait on the state, Tess. I owe them a boat that moves." He counted the coins again, the same coins.
+"Sunday," Arsenault said. He was looking at the coins in his palm. "The men I run her for in Portland don't wait on the state, Tess. I owe them a boat that's sailed by then." He said it across her, the way a man talks past a load he's already seen to. He counted the coins again, the same coins.
 
 He tucked the pack into his jacket and went out under the bell. Through the glass Beth saw him pass Dane on the dock. A nod. Dane stayed on the piling.
 
@@ -180,7 +180,7 @@ Beth heard the forepeak before she saw it. The pump had quit.
 
 Below the hatch the water was over the floor plates and up to the second rung. Ned was down in it to his shins with the old impeller in his hand, its vanes chewed to stubs.
 
-The cold came through her boots at the second rung and kept coming.
+The cold came through her boots at the second rung and kept coming. She stepped off it into the water.
 
 "Glass is up," Ned said. He looked at the water round his shins. "So's this."
 
@@ -288,7 +288,7 @@ He got her jeans down himself, one leg and then the other, and his own after, bu
 
 His jacket hung on the nail at the edge of the light, the notebook square in its inside pocket. At first light a boat would come to the town float for her.
 
-He kissed the inside of her knee, and higher, and stopped.
+He put his mouth to her knee and stopped there.
 
 "Are you going to make me ask?" she said.
 
@@ -296,7 +296,7 @@ He shook his head against her thigh. Then his mouth was on her, slow and patient
 
 "Dane."
 
-That didn't hurry him either, and she was wet against his mouth, and he held her hips in both hands and kept her there. She had a fist in the blanket. The canvas was cold under her shoulders, and the rest of her had forgotten the cold.
+That didn't hurry him either, and she was past waiting, and he held her hips in both hands and kept her there. She had a fist in the blanket. The canvas was cold under her shoulders, and the rest of her had forgotten the cold.
 
 "Please," she said.
 
@@ -338,9 +338,7 @@ Thursday. They were out of the fish house in the full dark, with the stars gone.
 
 The swell came onto the ledges heavier than the wind could account for, a long slow lift that raised the weed and laid it down again. The wind had gone round in the night. She felt it on the wrong side of her face.
 
-The ledges were dry behind the ebb, black under her boots, all but the last one under the bank.
-
-She went in. The water came up past her knees, then closed round her thighs, and the cold took the air out of her in one pull. She stood in it until she had it back. Thigh-deep.
+She went in at the last ledge. The water came up past her knees, then closed round her thighs, and the cold took the air out of her in one pull. She stood in it until she had it back. Thigh-deep.
 
 Behind her Dane was talking, low, a little at a time.
 

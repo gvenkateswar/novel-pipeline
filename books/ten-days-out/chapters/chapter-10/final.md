@@ -1,10 +1,10 @@
 # Chapter Ten: First Boat
 
-Dane stood beside her at the head of the landing ramp with his left arm strapped across his chest, the empty sleeve pinned. Above his collar the bruise had gone black up the side of his neck. The kicks had opened the furrow, and at about two the fire company's EMT had closed it again on Tess's counter with fresh strips and a pressure dressing and checked the bone twice. Nothing broken. He couldn't close the left hand.
+Dane stood beside her at the head of the landing ramp with his left arm strapped across his chest, the empty sleeve pinned. Above his collar the bruise had gone black up the side of his neck. The kicks had opened the furrow, and at about two the fire company's EMT had closed it again on Tess's counter and checked the bone twice. Nothing broken. He couldn't close the left hand.
 
 A little before eleven, near the low, Beth stood by the locked box at the ramp head. Herring came off the bait shed in the cold.
 
-The lifeboat and the Marine Patrol boat had lain at the float since eight. Two men sat in the Marine Patrol boat's stern with their hands behind them. One was the boy from the water, in Ned's blankets and a borrowed life jacket cinched as far as its straps went, and it still sat on him like a kid's. He looked up at the island once, the hill and the houses on it, and then down at his knees. Out past the outer ledges the *Margaret Ann*'s red hull lay stopped with a Coast Guard boat alongside.
+The lifeboat and the Marine Patrol boat had lain at the float since eight. Two men sat in the Marine Patrol boat's stern with their hands behind them. One was the boy from the water, in blankets off the *North Reach* and a borrowed life jacket cinched as far as its straps went, and it still sat on him like a kid's. He looked up at the island once, the hill and the houses on it, and then down at his knees. Out past the outer ledges the *Margaret Ann*'s red hull lay stopped with a Coast Guard boat alongside.
 
 Two relief deputies came down the Harbor Road from the town office and stopped at the ramp head.
 
@@ -172,11 +172,11 @@ He rose to meet her, and she was smiling down at him, and he saw it and smiled b
 
 "Beth."
 
-She moved faster. The lamp burned in the window at her back, where the harbor could see it, and the store. His hand was hard on her hip. His breath came short. Cold came off the glass onto her shoulders, and the heat of him came up into her.
+She moved faster. The lamp burned in the window at her back, where the harbor could see it, and the store. His hand was hard on her hip. His breath came short. Cold came off the glass onto her shoulders, and his heat was under her.
 
 Once his eyes closed. She stopped moving, and they opened, and she began again.
 
-She came with her head down and her hands pressed flat to his chest. It went through her in one long pull. She made no effort to be quiet in her own house. He followed her with his eyes open on her face.
+One slow pull took Beth whole, head bowed, both palms braced across Dane's chest. He followed her with his eyes open on her face.
 
 She lay along his right side and pulled the sheet up over them both. Downstairs the refrigerator came on.
 
@@ -198,15 +198,15 @@ At quarter to six the wheelhouse heater was blowing and the windows were black. 
 
 Then she went down to the forepeak with a flashlight. The temporary repair the inspector had passed sat forward where the frames came together, and she put her hand on it, cold and dry. The pump was quiet.
 
-Kenny was on the lines, back over from Pruett on the Marine Patrol boat and still gray from the flu that had kept him ashore all week. The two of them were the whole crew the certificate asked for. The district had rung the store at noon Saturday: the boat was hers till they said otherwise. Islanders came aboard over the temporary ramp with their bags and their dogs. Up the road the store's front window was lit, and nobody stood in it.
+Kenny was on the lines, back over from Pruett on the Marine Patrol boat. The two of them were the whole crew the certificate asked for. The district had rung the store at noon Saturday: the boat was hers till they said otherwise. Islanders came aboard over the temporary ramp with their bags and their dogs. Up the road the store's front window was lit, and nobody stood in it.
 
 Dane stood on the car deck among the foot passengers with the empty sleeve pinned, looking up. She could see him through the windows she had cleaned.
 
 "Single up," she called down to Kenny. He took in the last line and coiled it down and stood clear.
 
-The light air came off the land and did half her work. The stern walked off the granite. She eased the throttles up and put the wheel over. The *North Reach* came round under her hands in one long slow swing, the diesel coming up through the soles of her boots. For a year she had done this in her head every morning, with Ned at this wheel and his coffee going cold beside her. This morning the coffee was hers, made his way, too strong to drink till Pruett.
+The light air came off the land and did half her work. The stern walked off the granite. She eased the throttles up and put the wheel over. The *North Reach* came round under her hands in one long slow swing, the diesel in the soles of her boots. For a year she had done this in her head every morning, with Ned at this wheel and his coffee going cold beside her. This morning the coffee was hers, made his way, too strong to drink till Pruett.
 
-The crossing was flat and took the forty-five minutes it always took. Off Pruett the state's barge was coming out with a crane on her deck, bound for the island slip. Sunday, Tess had told Lyle across her counter, and here it was.
+Off Pruett the state's barge was coming out with a crane on her deck, bound for the island slip. Sunday, Tess had told Lyle across her counter, and here it was.
 
 Coming into the Pruett slip, the gust came down off the hill and set her toward the north dolphin. She had the correction on before it landed, and nobody stood beside her to make it after her.
 
