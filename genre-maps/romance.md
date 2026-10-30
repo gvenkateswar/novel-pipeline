@@ -19,6 +19,28 @@ Defaults for the story architect, plot architect and sample reader. A book's `bo
 | HEA / HFN | last 5% | A scene, never a summary. No epilogue that only reports |
 | Point of no return for the relationship | ≥ 60% unless the sub-genre dictates earlier | tells doc 4.10 |
 
+## Conflict between the leads (reader calibration, Oct 29)
+
+Source: `docs/reader-calibration.md`. Across 33 published romances, 22 of 27 review comments on misunderstanding-driven ruptures were negative, and the four books whose conflict could not be talked away averaged 4.20 on Goodreads against 3.83. The author's standing preference: the leads behave like adults.
+
+- **The one-talk test.** For the rupture and every major obstacle between the leads, write one sentence: "If they sat down and told each other the whole truth, this would still be a problem because ___." If the blank cannot be filled, the conflict is rebuilt. Misunderstandings, withheld information that one phone call would surface, overheard half-sentences, and a lead who "decides not to tell" to protect the other all fail the test.
+- **Pair (what to build instead).** The rupture comes from something that survives the truth: two wants that cannot both be kept (a city, a child, a career, a promise to someone else), a value clash each lead is right about, a cost one of them will not pay, or an outside force neither controls. Both leads can say plainly what they want and still be stuck.
+- **Adults talk.** When a reasonable adult would ask, the lead asks, on the page, within the scene. Silence is allowed only when the character has a stated, costly reason that the reader accepts. The repair below is a conversation between equals followed by an action, never a grovel or a misunderstanding cleared.
+- **Mistakes still count.** A lead may get something wrong (the map requires a choice a reader would condemn). The wrong choice is made knowing the facts, not for want of them.
+
+## The leads' ages (reader calibration)
+
+- Older heroines are welcome: in the clean lane heroines 38+ averaged 3.98 against 3.72. Readers punish two things: a heroine written older than her stated age (a 49- or 54-year-old who reads as 70), and an age gap used as the obstacle and repeated (*Girls of Summer*, five complaints).
+- **Pair.** State the age once. Give her the wardrobe, phone habits, work, body and desire of a woman that age now. An age gap is a fact the leads have already priced in; it is never the rupture.
+
+## The courtship happens on the page
+
+The reader watches the couple fall. A book that opens after the falling (*Alaskan Holiday*, 3.55) draws its 1–2 star reviews for exactly that. Second-chance books show the first falling in flashback or in what the present scenes make visible.
+
+## Clean books: tension without the door
+
+Chemistry is the weakest-scoring element in clean books (+25 weighted against +30 to +56 elsewhere). The longing line below is the main answer. Add: proximity that the plot forces, interruptions, a near-miss per act, and dialogue the leads would not say in front of anyone else. Earlier kisses did not help (first kiss before 40%: 3.82; after: 3.91); visible wanting did. Give the hero point-of-view chapters: clean books with them averaged 4.09, without them 3.63.
+
 ## Every chapter
 
 - **A turn:** something irreversible.
@@ -42,9 +64,22 @@ One or two pieces of trade, sport, money or procedure per scene, each because it
 - The heroine's choices follow from what she knows; her blind spots are emotionally credible; her mistakes have costs. "Never a stupid choice" is not a rule here; it removed the useful mistakes on Book 2.
 - At least one choice by a lead that a reasonable reader would condemn.
 
+## Spicy novellas (reader calibration)
+
+- Expect high 3s for a standalone debut: series add-on novellas averaged 4.22, standalones 3.63, because existing fans do the rating. A novella sells best beside or after a full-length book in the same world.
+- Readers say "I wanted more" as praise and "thin" as a pan. Give the relationship at least one real turn besides the sex scenes.
+- The heat on the page meets or exceeds what the title, blurb and premise imply. Spicy readers punish less heat than promised as hard as cozy readers punish more.
+- Consent and protection are clear on the page in every intimate scene. Pet names in sex scenes ("mama", "baby girl") split readers: each goes in the motif list with a cap.
+
+## Holiday titles
+
+Holiday-themed romances in the set averaged 3.73 against 3.94. A holiday setting is allowed; the brief names it, and the season is plot (a deadline, a family obligation), never only decoration.
+
 ## Series
 
 A series opener leaves one clear, legible hook (who the next couple is, or what the next case is) without cheating the HEA. The hook is stated plainly enough that a reader can repeat it.
+
+Sameness is the most criticized element in every romance lane. Each series keeps a "Used so far" ledger in its series bible (premise, tropes, rupture type, set pieces, pet names, epilogue shape); a new book's outline repeats none of the first three and at most one of the rest.
 
 ## Sample reader persona (default; the brief or the research may replace it)
 

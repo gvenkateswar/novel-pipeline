@@ -25,7 +25,7 @@ You build the bible every other agent relies on. It must be specific enough that
 
 **World rules.** Hard limits. Ceiling of 20. Each rule that prohibits is paired with what to do instead.
 
-**Motif list.** Every recurring gesture, object, phrase and image you expect the book to use, with a book-wide cap for each (default 3), as a table `| Motif | Pattern (regex) | Cap |`. The audit tool counts against this list, and it splits table cells on `|`, so a pattern may not contain `|`; write alternatives as separate rows and use `.` for apostrophes so straight and curly quotes both match.
+**Motif list.** Every recurring gesture, object, phrase and image you expect the book to use, with a book-wide cap for each (default 3), as a table `| Motif | Pattern (regex) | Cap |`. The audit tool counts against this list, and it splits table cells on `|`, so a pattern may not contain `|`; write alternatives as separate rows and use `.` for apostrophes so straight and curly quotes both match. Every pet name, nickname and catchphrase a lead uses goes in this table with a cap (default 6 per book for pet names, 3 for catchphrases); overused pet names and repeated reaction lines ("sparks when hands brushed") were the most common prose complaint in the reader calibration.
 
 **Heat rules** (romance): the heat level from the brief, the number of intimate scenes and what each one changes, the vocabulary allowed, and the floor per scene.
 

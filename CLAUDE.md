@@ -40,6 +40,8 @@ Two novellas went through this pipeline in October 2026 (`docs/changelog.md`). T
 2. **Every editing stage subtracted and none added.** Prohibitions piled up round by round and drained the prose. Rules now come in pairs: any new prohibition is paired with a positive requirement, and the bible's World rules have a ceiling of 20.
 3. **The pipeline could not see what the page had revealed, promised or cost.** Agents that have read the bible read the book they expect. The sample reader and cold reader never see planning files; the plot auditor and the commitments check exist to catch what a fix promises elsewhere.
 
+**Reader calibration (Oct 29, 2026).** 40 published romances and 611 scored reviews are summarized in `docs/reader-calibration.md`. Its rules are in the romance genre map and the agents: the one-talk test for every conflict between the leads (logic gate), age-true leads, the courtship on the page, motif caps on pet names, and the packaging check below.
+
 The factory plan and the trust ladder that retire human gates are in `docs/factory-plan.md`; judging and calibration in `docs/judging.md` and `docs/calibration.md`.
 
 Also: the writer misses word targets by about 10% either way; the voice editor flattens both leads toward one register; the chapter agents reuse every good detail until it is a tic; simulated readers grade a third of a point to a full point above outside readers and cannot get bored. The rules below assume all of this.
@@ -109,7 +111,8 @@ The author can switch this on per book in `book-brief.md`. While on:
 3. @plot-auditor in **manuscript mode**: the causal audit plus the story-level audit from `docs/ai-fiction-tells.md` Part 7. Saves `reviews/manuscript-audit.md`.
 4. @domain-checker on the manuscript. Saves `research/domain-check-manuscript.md`.
 5. @cold-reader full read → `manuscript-reader-notes.md`. @sample-reader whole-book pull curve → `reviews/pull-curve.md`.
-6. Orchestrator writes `reviews/revision-brief.md` from all of the above: binding, with completion questions a fresh reader must be able to answer from the page. Run one internal revision round (writer → continuity in **commitments mode** → dialogue doctor → voice → audit → cold read). Then the external review.
+6. **Packaging check.** Orchestrator compares the brief's packaging promise (title promise, heat label, content notes, holiday) against the manuscript and the audit. Every mismatch is fixed in the packaging or the text before external review; readers punished every mismatch in the calibration set, both directions. Saves `reviews/packaging-check.md`.
+7. Orchestrator writes `reviews/revision-brief.md` from all of the above: binding, with completion questions a fresh reader must be able to answer from the page. Run one internal revision round (writer → continuity in **commitments mode** → dialogue doctor → voice → audit → cold read). Then the external review.
 
 ## Pipeline: External review (before publishing)
 

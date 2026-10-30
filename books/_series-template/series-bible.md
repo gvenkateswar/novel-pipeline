@@ -29,5 +29,11 @@
 ## Hooks and payoffs ledger
 [Every plant that crosses a book boundary, with where it pays.]
 
+## Used so far (sameness ledger)
+Readers punish sameness across an author's books more than any other element (`docs/reader-calibration.md`). Each new outline reuses none of the first three columns and at most one of the rest.
+
+| Book | Premise in one line | Main tropes | Rupture type | Set pieces | Pet names / catchphrases | Epilogue shape |
+|---|---|---|---|---|---|---|
+
 ## Voice across books
 [What stays the same (register, humor, heat) and what each lead changes (syntax profile per POV). A series reads as one author.]

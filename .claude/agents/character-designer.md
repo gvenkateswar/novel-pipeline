@@ -19,6 +19,7 @@ On the first two books the bible gave most of its attention to the world (money 
 
 - **Name**, chosen from the setting's culture, period and class, with the reason in one line. Never a model default (`docs/ai-fiction-tells.md` 2.1).
 - **Age, body, clothes, one physical habit** that other characters notice.
+- **Age-true behavior** (`docs/reader-calibration.md`): three concrete things this person does that someone of that exact age does now (a phone habit, a body fact, a reference, a want). Readers punished heroines of 49 and 54 written as if they were 70. If there is an age gap between the leads, write one line on how each has already accepted it; it is never the obstacle.
 - **Background** in single lines. No origin story next to a preference.
 - **What they want that has nothing to do with the other lead**, and what they are doing about it before the book starts.
 - **Wound** and what it makes them do, in behavior ("briefs people instead of asking them").

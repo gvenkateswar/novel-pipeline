@@ -13,6 +13,8 @@
 - **KDP AI disclosure:** [AI-generated text]
 - **Series:** [standalone] or [`books/<series-slug>/series-bible.md`, book N; hook into the next: …]
 - **Autopilot:** [on/off]. The three gates in CLAUDE.md apply either way.
+- **Holiday or season:** [none] or [which, and what it does in the plot]
+- **Packaging promise** (checked against the finished draft, `docs/reader-calibration.md` rule 3): title promise [what the title tells a reader to expect], heat label [clean / sweet / steamy / spicy, decided from the draft], content notes [grief, illness, faith content and how central], cover brief [one line]
 - **Genre-map overrides:** [none] or list each line overridden and why
 
 ## Why this book exists
