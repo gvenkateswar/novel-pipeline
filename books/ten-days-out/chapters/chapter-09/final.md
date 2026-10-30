@@ -146,7 +146,7 @@ The generator roared out back of Marr's. Tess held a dish towel of snow to her m
 
 "Whitcomb came through that door at a run," Tess said. "Three tries to put Arsenault on the floor. Three. And Lyle down there on my floor with a number for me to ring in Portland. Tell them she's still on her mooring, he says. Tell them I'm good for it."
 
-Through the front window Arsenault sat in Russ's truck under the dome light, his hands behind him, his face turned to the dragger's deck lights.
+Through the front window Arsenault sat in Russ's truck under the dome light, his hands behind him, his face turned out to the harbor, where the dragger lay.
 
 Ned sat on the stool in the clean collar from supper, the store's set on the shelf behind his head. Beth laid her raw palms on the counter's cold wood.
 

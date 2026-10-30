@@ -4,7 +4,7 @@ Dane stood beside her at the head of the landing ramp with his left arm strapped
 
 A little before eleven, near the low, Beth stood by the locked box at the ramp head. Herring came off the bait shed in the cold. Every wash off the boats alongside lifted the float and clanged the hinge once.
 
-The lifeboat and the Marine Patrol boat had lain at the float since eight. Two men sat in the Marine Patrol boat's stern with their hands behind them and life jackets buckled over their coats, one of them wrapped in Ned's blankets. Out past the outer ledges the *Margaret Ann*'s red hull lay stopped with a Coast Guard boat alongside. Across the harbor a Marine Patrol skiff was towing the dragger's aluminum skiff off the *North Reach*'s port quarter ladder, where the boy had left it.
+The lifeboat and the Marine Patrol boat had lain at the float since eight. Two men sat in the Marine Patrol boat's stern with their hands behind them. One was the boy from the water, in Ned's blankets and a borrowed life jacket cinched as far as its straps went, and it still sat on him like a kid's. He looked up at the island once, the hill and the houses on it, and then down at his knees. Out past the outer ledges the *Margaret Ann*'s red hull lay stopped with a Coast Guard boat alongside. Across the harbor a Marine Patrol skiff was towing the dragger's aluminum skiff off the *North Reach*'s port quarter ladder, where the boy had left it.
 
 Two relief deputies came down the Harbor Road from the town office and stopped at the ramp head.
 
@@ -104,7 +104,7 @@ She stood with her back to the stove rail.
 
 "Will you stay past Monday?" she said. "I'm asking. I don't, mostly."
 
-"When Portland's done with me, I'm coming back to this island. However long they take. I'd like to come back to you."
+He didn't answer. He got up out of the chair.
 
 She looked at him a while. Then she lit the lamp on the table and carried it upstairs.
 
@@ -113,8 +113,6 @@ Her room was over the kitchen and warm with it. She set the lamp on the sill of 
 She left it burning.
 
 He came up the stairs behind her. She undid the strapping herself, the buckle and the long strap round his back, and eased the arm out of it and laid it on the pillow.
-
-"Leave it there," she said.
 
 In the lamplight she could see the bruise whole, black and green over the shoulder down to the strips, and the old white scars across his right knuckles that she had only ever felt.
 
@@ -130,7 +128,7 @@ She put him down on the bed by his right shoulder.
 
 She got the rest of his clothes off him, careful on the left side, and then her own. She knelt over him with the lamp behind her.
 
-He looked at her, all of her, lit from the window side. She let him. She didn't reach for the sheet.
+He looked at her, all of her, lit from the window side. She didn't reach for the sheet.
 
 She took his good hand and put it on her breast and held it there until his fingers moved. She bent and put her mouth to his throat, then to the edge of the bruise, lightly, and felt his breath go. His skin smelled of the EMT's tape and the store's coffee.
 
@@ -138,7 +136,7 @@ The lamp showed her his face while she did it.
 
 She closed her hand round his cock and moved it once, slow.
 
-"Look at me," she said.
+"Will you look at me?" she said.
 
 "I am."
 
@@ -146,7 +144,7 @@ His eyes in the lamplight had her in them, small, with the flame beside her.
 
 "You're sure," he said. "About the window."
 
-"Leave it."
+"I want it lit."
 
 His hand came down her back to her hip, and stopped there, and waited.
 
@@ -162,8 +160,6 @@ She lowered herself onto him slowly, a little and then all of him, and stayed th
 
 "Fine."
 
-"Don't move it. I'll do the work."
-
 He left the arm where she'd put it. She moved on him, slow, her hands spread on his chest, and set the pace herself.
 
 "Deputies'll hear," she said.
@@ -174,17 +170,19 @@ She moved faster. The lamp burned in the window at her back, where the harbor co
 
 She came with her head down and her hands pressed flat to his chest. It went through her in one long pull. She made no effort to be quiet in her own house. He came after her with his eyes open on her face.
 
-After, she lay along his right side and pulled the sheet up over them both. The bad arm lay on its pillow where she'd left it. Downstairs the refrigerator came on.
+She lay along his right side and pulled the sheet up over them both. Downstairs the refrigerator came on.
+
+"You asked me something downstairs," he said.
+
+"I did."
+
+He turned his head on the pillow. "I've been wrong about you every single time since the ramp. Here's one I'll get right. When Portland's done with me, I'm coming back to this island, however long they take, and I'm staying. I love you."
 
 "I love you," she said.
 
 "Since when?" he said.
 
 "You jumped."
-
-He turned his head on the pillow. "I love you. I've been wrong about you every single time since the ramp. It's the best run I've had in four years. Don't fix it."
-
-She reached across him and set the bad arm straighter on its pillow.
 
 * * *
 
