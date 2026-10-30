@@ -3,7 +3,7 @@
 *Status: **v2 opening rebuild in progress (Oct 28, 2026)** on pipeline v2. The v1 book (three drafts, three external rounds, 8–8.5/10) is archived as `chapters-v1/`, `outline-v1.md`, `story-bible-v1.md`, `manuscript-final.md`. The author listened to v1 on Speechify and stopped at 29%: "really boring" (`reviews/2026-10-27-postmortem-boring.md`). v2 re-outlines the whole book against `genre-maps/romance.md`, redesigns the people, rebuilds the bible, and drafts Ch 01 through the human gate before anything else.*
 
 - **Slug:** `the-last-frame`
-- **Genre map:** `genre-maps/romance.md` (clean, later-in-life small-town romantic comedy)
+- **Genre map:** `genre-maps/romance.md` (clean, later-in-life small-town romance; "romantic comedy" dropped from the label Oct 30 after the packaging check: the book is quiet with wit, and a rom-com label would be a mismatch)
 - **Length:** ~30,000 target; shipped at ~33,400, 10 chapters
 - **Heat:** clean, closed door, three kisses (by design; the cap was four)
 - **Pen name:** [to set]
