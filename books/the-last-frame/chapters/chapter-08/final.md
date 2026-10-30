@@ -152,7 +152,7 @@ Ray took a ball off the rack between five and six, the first one his hand came t
 
 Ellen brought the release out of the steel desk and laid it on the counter, his January signature alone on the first line, the building shut for Presidents' Day.
 
-"If you come back, you come back beside me," she said. "I'll sign Arlene's paper, and I'll tell her myself. I could keep you in my drawer till the first of March and tear you up the morning I clear. Then on her Saturday you'd still be the man who buys if I miss, and every entry you took at my counter would be Normie's to talk about. I want you running her day beside me. Your son won't take the store while you're standing behind me either. In January I'd have been signing her bed away on a winter I was losing. With Linda's name on it, it's a winter I'm winning, if every lane fills."
+"If you come back, you come back beside me," she said. "I'll sign Arlene's paper, and I'll tell her myself. I could keep you in my drawer till the first of March and tear you up the morning I clear. Then on her Saturday you'd still be the man who buys if I miss, and every entry you took at my counter would be Normie's to talk about. I want you running her day beside me. Your son won't take the store while you're standing behind me either. In January I'd have been signing her bed away on a winter I was losing. With Linda's name on it, it's a winter I'm winning, if the Open keeps filling."
 
 "I gave you her name, and the building with it. That's not enough?"
 
@@ -160,7 +160,7 @@ Ellen brought the release out of the steel desk and laid it on the counter, his 
 
 Ellen folded the paper and took her coat off the office door.
 
-Arlene was at her kitchen table, with the boxes taped shut along the wall and her good hat out on the oilcloth. Ellen put the paper down by the hat and stayed standing.
+Arlene was at her kitchen table, with the boxes taped shut along the wall and her good hat out on the oilcloth. Ray had come up the hill a step behind Ellen the whole way and took the chair inside the door without being asked. Ellen put the paper down by the hat and stayed standing.
 
 "With the Open filling the way it's filling, I clear by six hundred dollars. One storm takes that. If I sign this and I miss, it's your auction. You wait for your money and go back on the list. The condo man gets the lot for the land, and the house money my daughter let me spend goes with it. There's money I swore to my daughter. It isn't in this."
 

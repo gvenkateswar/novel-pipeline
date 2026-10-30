@@ -1,4 +1,4 @@
-# Audit — the-last-frame (chapters 01–11, 30,982 words)
+# Audit — the-last-frame (chapters 01–11, 31,033 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -143,8 +143,8 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 05 | 2,892 | 18.5 | 12.4 | 13% | 0.0 | 0.3 | 0.0 | 4 | mean openers |
 | 06 | 2,506 | 17.4 | 12.1 | 11% | 0.0 | 0.4 | 0.0 | 3 |  |
 | 07 | 3,201 | 17.1 | 12.7 | 14% | 0.0 | 0.3 | 0.3 | 4 | openers |
-| 08 | 2,936 | 17.0 | 11.1 | 14% | 0.0 | 0.3 | 0.0 | 2 |  |
-| 09 | 3,145 | 13.9 | 10.5 | 16% | 0.0 | 0.3 | 0.0 | 3 | short |
+| 08 | 2,960 | 17.0 | 11.1 | 14% | 0.0 | 0.3 | 0.0 | 2 |  |
+| 09 | 3,172 | 13.9 | 10.5 | 17% | 0.0 | 0.3 | 0.0 | 3 | short |
 | 10 | 3,429 | 15.2 | 11.0 | 21% | 0.0 | 0.3 | 0.0 | 2 | short |
 | 11 | 852 | 12.2 | 7.8 | 20% | 0.0 | 0.0 | 0.0 | 2 | mean short |
 
@@ -187,7 +187,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0.0 | 0.0/1k | FLAG |
-| sentence-initial And/But/And yet | 2 | 1 | 1 | 1 | 2 | 0 | 2 | 2 | 4 | 1 | 0 | 16 | 0.5 | 3.0/1k |  |
+| sentence-initial And/But/And yet | 2 | 1 | 1 | 1 | 2 | 0 | 2 | 2 | 3 | 1 | 0 | 15 | 0.5 | 3.0/1k |  |
 | em dashes | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 3 | 0 | 0 | 6 | 0.2 | 2.0/1k |  |
 | semicolons | 3 | 0 | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 8 | 0.3 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 1 | 0 | 0 | 1 | 3 | 0 | 0 | 2 | 0 | 0 | 0 | 7 | 0.2 | 1.0/1k |  |

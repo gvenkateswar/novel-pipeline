@@ -270,3 +270,7 @@ Second cold read 4/10 (`reader-notes-r2.md`; scenes 3 / 2.5 / 3 / 3.5 / 2.5 / 4)
 **Flagged for writer:** none.
 
 **Pair for the pipeline:** when a tell is cured by cutting a gesture-decoding clause (s4's "Dale watched her ask somebody", s6's "harder things on a frequency"), the stop is the clause that names what the beat means; the instead is the object or the hand that was already on the page (s6's palm on the glass).
+
+## Orchestrator triage after the r1 cold read, Oct 30
+
+- Storm-day reason made physical (a squad is three hours; starting at one puts a hundred people on Kettle Road at four in the dark) so the refusal reads as her safety call, not a fairness rule.

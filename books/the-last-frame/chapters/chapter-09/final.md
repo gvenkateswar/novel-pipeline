@@ -176,7 +176,7 @@ At the snack bar Judy's nephew had stopped with one arm in his coat.
 
 Hollis came over from the weigh-in board. "Lanes went free at half past twelve. Twelve of your fifteen came in off the ice with me. I counted them. Bowl them early?"
 
-"Three are on the road," Ellen said. "A squad is one field bowled at one time, or it's a Tuesday league. Nobody pays a cent to bowl a squad the others can't. And the roads close at four."
+"Three are on the road," Ellen said. "And a squad is three strings on ten lanes. Three hours, door to door. Start the twelve at one and I'm sending a hundred people down Kettle Road at four, in the dark, into Dale's second pass. I've sent people home ahead of weather before. Nobody pays a cent to bowl a squad the other three can't, either."
 
 She took the PA and said it plainly: everybody off the hill by four. Linda's final would bowl Sunday at one, on the lanes she had held for it. Then she offered the evening teams Sunday morning.
 

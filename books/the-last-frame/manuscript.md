@@ -1599,7 +1599,7 @@ Ray took a ball off the rack between five and six, the first one his hand came t
 
 Ellen brought the release out of the steel desk and laid it on the counter, his January signature alone on the first line, the building shut for Presidents' Day.
 
-"If you come back, you come back beside me," she said. "I'll sign Arlene's paper, and I'll tell her myself. I could keep you in my drawer till the first of March and tear you up the morning I clear. Then on her Saturday you'd still be the man who buys if I miss, and every entry you took at my counter would be Normie's to talk about. I want you running her day beside me. Your son won't take the store while you're standing behind me either. In January I'd have been signing her bed away on a winter I was losing. With Linda's name on it, it's a winter I'm winning, if every lane fills."
+"If you come back, you come back beside me," she said. "I'll sign Arlene's paper, and I'll tell her myself. I could keep you in my drawer till the first of March and tear you up the morning I clear. Then on her Saturday you'd still be the man who buys if I miss, and every entry you took at my counter would be Normie's to talk about. I want you running her day beside me. Your son won't take the store while you're standing behind me either. In January I'd have been signing her bed away on a winter I was losing. With Linda's name on it, it's a winter I'm winning, if the Open keeps filling."
 
 "I gave you her name, and the building with it. That's not enough?"
 
@@ -1607,7 +1607,7 @@ Ellen brought the release out of the steel desk and laid it on the counter, his 
 
 Ellen folded the paper and took her coat off the office door.
 
-Arlene was at her kitchen table, with the boxes taped shut along the wall and her good hat out on the oilcloth. Ellen put the paper down by the hat and stayed standing.
+Arlene was at her kitchen table, with the boxes taped shut along the wall and her good hat out on the oilcloth. Ray had come up the hill a step behind Ellen the whole way and took the chair inside the door without being asked. Ellen put the paper down by the hat and stayed standing.
 
 "With the Open filling the way it's filling, I clear by six hundred dollars. One storm takes that. If I sign this and I miss, it's your auction. You wait for your money and go back on the list. The condo man gets the lot for the land, and the house money my daughter let me spend goes with it. There's money I swore to my daughter. It isn't in this."
 
@@ -1828,7 +1828,7 @@ At the snack bar Judy's nephew had stopped with one arm in his coat.
 
 Hollis came over from the weigh-in board. "Lanes went free at half past twelve. Twelve of your fifteen came in off the ice with me. I counted them. Bowl them early?"
 
-"Three are on the road," Ellen said. "A squad is one field bowled at one time, or it's a Tuesday league. Nobody pays a cent to bowl a squad the others can't. And the roads close at four."
+"Three are on the road," Ellen said. "And a squad is three strings on ten lanes. Three hours, door to door. Start the twelve at one and I'm sending a hundred people down Kettle Road at four, in the dark, into Dale's second pass. I've sent people home ahead of weather before. Nobody pays a cent to bowl a squad the other three can't, either."
 
 She took the PA and said it plainly: everybody off the hill by four. Linda's final would bowl Sunday at one, on the lanes she had held for it. Then she offered the evening teams Sunday morning.
 

@@ -276,3 +276,7 @@ s4 is about 50 words over its 650 target, inside the 8% band. The remaining weig
 **Flagged for the orchestrator**
 - Nothing plot-level. The form's path ("lifted it from under Danny's count slips" at six that morning) is what the commitments check asked for. It costs about twelve words in s4. If the cold reader doesn't miss it, it is the next trim.
 - Pair for later chapters: stop adding a beat after every kept line in a three-person kitchen scene (the "left the drawer open" kind). Let the next speaker's line carry the refusal, and give the physical beat to the one object that turns (here, the hat and the pieces on the oilcloth).
+
+## Orchestrator triage after the r1 cold read, Oct 30
+
+- Ray placed in Arlene's kitchen before the scene runs (the reader lost him and the POV); "if every lane fills" → "if the Open keeps filling" (M18).
