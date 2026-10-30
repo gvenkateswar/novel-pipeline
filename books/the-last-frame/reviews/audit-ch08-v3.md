@@ -1,4 +1,4 @@
-# Audit — the-last-frame (chapters 01–08, 24,844 words)
+# Audit — the-last-frame (chapters 01–08, 24,866 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -26,7 +26,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Holding out the key | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
 | "Not yet" (Ch 8's line) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 3 |  |
 | "upside down" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
-| "without looking" | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 3 |  |
+| "without looking" | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 2 | 3 |  |
 | "didn't look up" | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 1 |  |
 | Block capitals | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |  |
 | Masking tape | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |  |
@@ -80,7 +80,6 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 8× “the snack bar”
 - 7× “behind the counter”
 - 7× “in both hands”
-- 7× “i'd like to”
 - 7× “the glass block”
 - 6× “the scorer's table”
 - 6× “the first time”
@@ -88,6 +87,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 5× “the steel door”
 - 5× “let go of”
 - 5× “under the register”
+- 5× “i'd like to”
 - 5× “her vest pocket”
 - 5× “the far register”
 - 5× “did not look”
@@ -95,6 +95,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 5× “had an answer”
 - 5× “did not say”
 - 5× “linda's name on”
+- 5× “at the far end”
 - 5× “end of the counter”
 - 5× “the first of march”
 - 4× “the front door”
@@ -114,7 +115,6 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 4× “she had said”
 - 4× “his canvas jacket”
 - 4× “did not go”
-- 4× “his own voice”
 - 4× “the first line”
 - 4× “the legion man”
 
@@ -143,7 +143,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 05 | 2,905 | 18.5 | 12.4 | 13% | 0.0 | 0.3 | 0.0 | 4 | mean openers |
 | 06 | 3,041 | 17.3 | 11.7 | 14% | 0.0 | 0.3 | 0.0 | 2 |  |
 | 07 | 3,193 | 17.0 | 12.3 | 14% | 0.0 | 0.3 | 0.3 | 4 | openers |
-| 08 | 3,204 | 17.3 | 11.6 | 15% | 0.0 | 0.3 | 0.0 | 2 |  |
+| 08 | 3,226 | 16.6 | 11.0 | 15% | 0.0 | 0.3 | 0.0 | 3 | short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -184,11 +184,11 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0.0 | 0.0/1k | FLAG |
-| sentence-initial And/But/And yet | 2 | 1 | 1 | 1 | 2 | 0 | 2 | 1 | 10 | 0.4 | 3.0/1k |  |
+| sentence-initial And/But/And yet | 2 | 1 | 1 | 1 | 2 | 0 | 2 | 2 | 11 | 0.4 | 3.0/1k |  |
 | em dashes | 0 | 0 | 0 | 0 | 1 | 0 | 3 | 0 | 4 | 0.2 | 2.0/1k |  |
 | semicolons | 3 | 0 | 1 | 1 | 1 | 3 | 1 | 0 | 10 | 0.4 | 2.0/1k |  |
-| perception filter (she noticed / could hear) | 1 | 0 | 0 | 1 | 3 | 0 | 0 | 1 | 6 | 0.2 | 1.0/1k |  |
-| one-sentence paragraph | 6 | 23 | 20 | 18 | 18 | 24 | 15 | 15 | 139 | 5.6 | report |  |
+| perception filter (she noticed / could hear) | 1 | 0 | 0 | 1 | 3 | 0 | 0 | 2 | 7 | 0.3 | 1.0/1k |  |
+| one-sentence paragraph | 6 | 23 | 20 | 18 | 18 | 24 | 15 | 16 | 140 | 5.6 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
