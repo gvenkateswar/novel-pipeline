@@ -1,0 +1,127 @@
+They waited out the afternoon in her kitchen with the door locked. The north road went up over the spine of the island in the dark, and the snow squeaked under their boots. The Ashby key was cold through her glove. At the top she stopped and looked back at the harbor she'd left. Below, the houses were black except where a generator kept a window yellow, and out on the guest mooring the *Margaret Ann* lay lit end to end, as she had all through the blackout.
+
+Then every deck light on the *Margaret Ann* went out at once, and the outer harbor went black below the hill.
+
+They walked faster. He had moved to her harbor side, between her and the long drop to the shore, and his hand had gone to his hip and stayed there, and she didn't move him off it the rest of the way.
+
+Ashby came up at the end of the road, a big shingled shape with water on three sides and the generator shed on its pad below the house. She dragged the shed door open on its frozen track, primed the engine by feel, knocked on the tank, which rang near empty, and put the cord in his hand. "Long and even, and don't yank it."
+
+He pulled, and the engine coughed once and quit. He pulled again and got nothing but the rasp of the cord going home into the housing, and their two breaths hanging in the beam of the flashlight he'd stood on the fuel can.
+
+"Third one," she said.
+
+"Is that a rule?"
+
+"It is for this one."
+
+On the third pull it caught. It coughed and coughed and ran, ragged and then even, and the shed filled with the hammer of it. He grinned like a boy with a fish on. He stood with the cord handle still in his fist and his other hand pressed flat to his chest, as if he could feel the engine in there. Through the open door, up the slope, the big house's windows came up yellow behind the sheets.
+
+"Is that what you look like when something works?"
+
+He looked at her, a man who talked to anybody who'd stand still, and had nothing ready.
+
+She put her back to the engine housing. It was warm already through her coat and getting warmer, and it shook against her with every stroke. She took his jacket in her fist and brought him down to her.
+
+His mouth was cold for a second and then warm. He went still all over. Then he kissed her back, slowly, and kept it slow, as if somebody had told him there'd be a test on it. He tasted of the store's terrible coffee. She caught his lower lip in her teeth, and the breath went out of him through his nose, long. It was all the noise he made.
+
+She pulled off a glove and put her hand along his jaw, smooth where the razor had gone that morning.
+
+"Beth," he said against her mouth.
+
+She waited for the rest of it. With him there was always a rest of it, a clause and a turn at the end. None came. He stood with her name said and his mouth an inch off hers, and waited on her.
+
+"Your hands," she said. "Under the wool."
+
+He brought them up and stopped short of her zipper. She ran it down herself. His hands went in under the sweater and the thermal and onto the bare small of her back, and they were so cold she swore into his mouth.
+
+He took them away at once. He stepped back half a pace, opened his jacket and stuck both hands up under his arms inside the fleece, and stood there with his elbows out, patient as a man in the ferry line.
+
+"How long does that take?"
+
+One shoulder went up.
+
+The engine beat at her back. Up the slope the windows stood yellow behind the sheets. The cold came in at the door and found her ankles, and she stood it as long as she could, which wasn't long.
+
+"That's long enough."
+
+He came back. His palms were warm now and the fingertips still cool, and he set them on her waist and left them there a stroke or two before they moved. The breath went out of her ragged, like the engine's first cough. Then the old hauler's ridge across his palms was dragging up her spine and round over her ribs, rough as new line.
+
+"Higher," she said.
+
+He went higher and stopped under her breast, his forehead down against hers. The engine shook her into his hands and back, into his hands and back.
+
+"Yes," she said. "Go on."
+
+His hand closed over her breast, the palm warm, the fingers cool. Her nipple drew up hard against the ridge. She put her head back on the steel and shut her eyes, and opened them again, because she wanted his face.
+
+She had both hands in his belt to pull him in, and her knuckles came against the holster on his right hip. He turned that hip away from her without a word and came in on her other side, so the gun was out of her reach and his leg was between hers. She had never seen a man so careful with his hands full.
+
+She took the hem of the thermal in her fist. He waited on it.
+
+"Up," she said.
+
+He pushed the thermal and the sweater up together. The cold of the shed went over her bare skin. Then his mouth, warm, on her breast. She made a sound she had never heard out of herself, and the engine covered it. She took a handful of his hair at the back and held him there, and every stroke of the set pushed her into his mouth.
+
+Once his head came up and turned to the door, to the black down the hill where the dragger lay with her lights out. He listened through two strokes. Then he bent to her again.
+
+She took his wrist and brought his hand down her belly to the button of her jeans, and let go.
+
+His hand stayed where she'd left it. He lifted his head.
+
+"Beth?"
+
+"Yes," she said. "In."
+
+He undid the button. He drew the zipper down a tooth at a time, as if somebody at the harbor might hear it. She was going to tell him to hurry, and then his fingers were under the cotton, cool on her belly and warm by the time they got where she wanted them. She was wet. He found that and stopped, and the breath he let out was close to a laugh.
+
+"Don't you laugh," she said.
+
+He kissed her instead, with the laugh still in it.
+
+Then he moved his hand. He was slow at it, a man working a knot he didn't mean to cut. Her hips came off the steel after him.
+
+"With the engine," she said.
+
+He found the beat. The set hammered at her back, stroke on stroke, and his hand kept time with it, steady as the injector. She held on to his jacket with both fists. Up the slope the yellow windows swam and steadied and swam.
+
+"Beth," he said against her temple, low, and nothing after it.
+
+She came against the shaking housing with her teeth in the collar of his jacket and the cold coming in at the door round her ankles. It went on longer than she was ready for. He kept his hand still. His other arm held the rest of her up. He said nothing at all, and the engine went on beating through both of them.
+
+He had seen her face for all of it, lit from the house. She had let him.
+
+She was still shaking. He leaned in to take more of her weight, and his jacket swung against her, and something in the inside pocket pressed into her bare stomach, square and hard. *Log daily*, and the other thing, the one he couldn't tell her.
+
+She took his wrist and drew his hand out of her jeans. He stopped at once and let it come. The cold went in where his hand had been.
+
+She put her hand over the pocket, over the shape in it.
+
+"That's where you write it."
+
+"Yes."
+
+She pulled the thermal down and did up her jeans with fingers that wouldn't work. She stepped back off the housing and zipped her coat to the chin.
+
+"I'd rather be kissed by a man I can check. I read it this morning, Dane Reyes, and I didn't ask you twice. I'm asking now. What you write every day, and what's in it that I don't get told."
+
+He stepped back a full pace, so the engine's noise stood between them.
+
+"Don't write me down," she said.
+
+He took it without arguing. "Ms. Calloway." He gave it a moment. "No. And I'm not going to keep talking till it sounds like yes."
+
+The engine hammered on between them. Up the slope the yellow windows stood lit for nobody.
+
+"That boat went dark," he said. "I have to call it in."
+
+She shut the shed door on the engine and went up the slope ahead of him with Ned's key in her hand, and unlocked a house that smelled of mothballs and cold wallpaper, where the furniture stood about under sheets.
+
+At the door he stopped. "North end. That's what I'll tell them, and nothing closer."
+
+He went out onto the porch, to the top step. She would sooner watch his mouth than stand behind any sheet in that house, so she went out after him, pulled the door to, and stood on the step beside him in the snow.
+
+He had the phone to his ear and his face turned up. Down the slope the generator hammered in its shed, and his voice went into it low; she could see his breath go up and come apart in the snow. Past him the water lay black round the point, and nothing showed on it.
+
+He turned his head once in the middle of it and found her at his shoulder. His mouth stopped. Then he stepped round her on the step, so that he stood between her and the water, and went on talking, and she moved up the last few inches until her arm was against his.
+
+"North end," he said into the phone. Below them the generator missed, and caught, and she lost the rest.
