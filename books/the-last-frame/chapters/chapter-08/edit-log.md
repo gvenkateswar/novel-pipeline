@@ -236,3 +236,43 @@ s4 is about 50 words over its 650 target, inside the 8% band. The remaining weig
 - **Caps:** "dear" 2 (the drawer offer, the laugh line); "Raymond" 1; "Not yet" 1; "six hundred" 1; "Understood" 1; "Mrs. Daly" 1. No digits and no new numbers. "drawer" is used five times in s4 (Arlene's three, Ellen's one, Danny's one). That is deliberate (her drawer against Danny's, both holding a paper back), but the voice editor may thin it.
 - **Lines added:** 2 spoken (Ellen to Judy; Arlene's question) and 1 beat (the drawer left open). **Lines cut:** 0 spoken; 2 tags ("he said"; "she told Ray, and turned to Arlene").
 - **Tag-strip test:** pass. Ellen: full stops and items ("That was the mechanic, Judy. He's leaving."; her costs in order). Ray: and-chains with the weight last ("…and left it there. I'd have let him send it."). Arlene: "dear" as a weapon, "Raymond", and the blunt question about a man in the room in the third person, which neither lead would ask that way. Hollis (s1, untouched): flat measurements and questions.
+
+## Voice editor r1 (draft-r1-dialogue.md → final.md), Oct 30
+
+## Change list (voice editor, draft-r1-dialogue.md → final.md), Oct 30
+
+**Count (`wc -w`, prose only, taken before this list was appended):** 2,948 total, down 21 from draft-r1-dialogue (2,969). Heading is 4 words, the three scene breaks 9. By scene, heading counted in s1 as in the input: s1 757 (was 758) · s2 713 (was 716) · s3 741 (was 753) · s4 728 (was 733). Beats floors (s1 750, s2 600, s3 600) are met; s4 is under its old 900 floor by the revision brief's order. **s4 did not reach 650.** About 480 of its 728 words are kept lines or the untouched stair, and the rest is the transitions, Ellen's costs and the torn form's staging. Getting under about 700 would mean cutting Ellen's cost sentences (the safer-option facts the cold reader asked for), Ellen's look at the form, or the hat and the pieces on the oilcloth, so I left them.
+
+**s1** (ends mid-action; nothing after it)
+1. Three-beat list, the invoice: "his hours at the Worcester man's rate, the brushes, and a line ruled under the total" → "his hours at the Worcester man's rate and the brushes, ruled off under the total."
+2. Nothing else touched.
+
+**s2** (kept lines untouched, including "I let it cost you.")
+3. Tell 24, the breath: `She let a breath go. "I'd like to hear whether it holds."` → `"I'd like to hear whether it holds," she said.` The tag is needed because the line follows a Ray paragraph.
+
+**s3** (ends in motion on the ball; unchanged)
+4. "exact": "the words he'd said to her at the door, exact, and they would hand" → "...at the door, and they would hand".
+5. Three-beat list, the names: "the league's or the old teams' or Linda's" → "the league's or Linda's."
+6. Three-beat list, the words: "Short, he could have said, or sore, or out of line, and the room would have taken any of those" → "Short, he could have said, or sore, and the room would have taken either".
+7. Three-beat list, the room: the Highway hoods, the Legion man's warm-up ball and the sleeping grandson were one sentence. They are now two ("...hoods still up from the trucks. A Legion man on lane three heckled his own warm-up ball, and somebody's grandson slept across a bowling bag on the settees."). Nothing cut.
+8. Clarity: the noise of the house "began to come off a table at a time" → "began to fall off", so it reads as dropping, which the later "came back up, a table at a time" needs.
+9. Lucien clause, only reordered so the subject is clear: "which his father never managed, behind the store counter to the week he died" → "which his father, behind the store counter to the week he died, never managed." Same facts.
+
+**s4**
+10. "drawer" thinned from seven uses to five. The opening is now "Ellen brought the release out of the steel desk and laid it on the counter" (no drawer). "Arlene left the drawer open." is cut. Left: Ellen's "my drawer" (kept), Arlene's pull, Arlene's "my drawer" (kept), Danny's drawer under the register (kept, one of the four facts), and the shut. Arlene's open drawer stays on the page from her pull until she shuts it, so the beat is not lost.
+11. The beat after "Today, Arlene. I know what I'm asking." is gone, so "And what does it cost him?" follows it directly.
+12. Ellen's costs after the two kept sentences: "You wait for your money and go back on the list, the condo man gets the lot for the land, and the house money..." (one three-beat list) → "You wait for your money and go back on the list. The condo man gets the lot for the land, and the house money my daughter let me spend goes with it." Full stops are her register.
+13. The torn form, staged through objects and no sentence on what it means:
+    - "The form had copies under it, yellow and pink behind the white, and the first pull only started it." (the three-color list is now one shape, and "The form" fixes an unclear "It"; "He tore it through and across, and left the pieces on the oilcloth." is unchanged)
+    - Arlene shuts her drawer, then lifts her hat off the oilcloth to the last box, then "drew the paper into the cleared place, the pieces of the form at its edge, and turned it to Ellen." The release and the torn form lie side by side while the signatures go on.
+14. Ellen's look: "other than she expected" → "wrong." The look is kept, since it is the page's witness to Ellen learning of the form.
+15. Trims: "took her coat down off the office door" → "took her coat off the office door"; "when he had lifted it" → "when he'd lifted it". The path of the form (Danny's count slips, six that morning) is kept because the commitments fix asked for it.
+16. Untouched: Ellen's "beside me" speech; "With the Open filling the way it's filling... One storm takes that."; "Today, Arlene. I know what I'm asking."; "And what does it cost him?"; the four facts of Ray's confession; "That costs you, Arlene..."; Arlene's "condo man" line; "I said I'd sign when you did, dear..."; the signing; the stair from "Ray went down first" to the end ("Not yet." and the key held out under the one bulb).
+
+**Tag-strip test:** pass. Ray's lines are and-chains with the weight last; Ellen's are full stops and items; Arlene has "dear" and "Raymond"; Hollis is flat and short; Verna speaks in the third person.
+
+**Caps:** "dear" 2; "Raymond" 1; "Not yet" 1; "six hundred" 1; "Mrs. Daly" 1; "Understood" 1; "holy mackerel" 1; "said nothing" 0; "exactly" 0; no digits in prose except the digit in the heading; no new numbers.
+
+**Flagged for the orchestrator**
+- Nothing plot-level. The form's path ("lifted it from under Danny's count slips" at six that morning) is what the commitments check asked for. It costs about twelve words in s4. If the cold reader doesn't miss it, it is the next trim.
+- Pair for later chapters: stop adding a beat after every kept line in a three-person kitchen scene (the "left the drawer open" kind). Let the next speaker's line carry the refusal, and give the physical beat to the one object that turns (here, the hat and the pieces on the oilcloth).

@@ -176,3 +176,42 @@ Cold reader 4/10 (`reader-notes.md`; scenes 3 / 4 / 3 / 2 / 3; the bank scene at
 - **Words:** about −16 net (s1 +2, s2 0, s4 −1, s5 −17). Well inside the +30 ceiling. Run `wc -w` to confirm.
 - **Tag-strip test:** pass. Kate: fragments, her body as a chart. Judy: criteria in declaratives, the joke kept dry ("I have one."). Arlene: counts, "So am I." Danny: four short lines. Hollis: a measurement. Ellen: full stops, exact, one-word procedure ("Noted.", "Your call.", "Fifty minutes"), literal answers ("Then I owe you a K."). Ray: the *and*-chain ending on "door", rounding ("The better part of an hour"), a machine as "she". In s5 the two leads now sit in adjacent lines with different shapes: his long line ending on the plain word, her short literal one.
 - **For the voice editor:** if "Your call." / "You called me first" reads as too neat a pun aloud, the fallback is "Tell me to hold it and I will." (+5). It carries the same ask, with no echo.
+
+## Voice editor r1 (draft-r1-dialogue.md → final.md), Oct 30
+
+## Change list (draft-r1-dialogue.md → final.md), voice editor, Oct 30
+
+**Words (wc -w on the prose, heading and separators counted, as the 3,503 was):** 3,442 (-61; ceiling 3,503). Scenes: s1 608 · s2 961 · s3 806 (floor 800) · s4 718 · s5 337. s2's last box (from "Denise bowled her tenth box") 302, over the 220 minimum. Without the heading and separators: 3,425.
+
+**Kept word for word (grep-checked):** Kate's call, "Am I on speaker?" to "what I paid for."; "You called me first. It's yours, Mom. Send it."; "All ten ties it."; "The secretary has Lakeview Diner by two pins."; "Nine hundred dollars under." / "Same number twice" / "That's what twice is for."; "Third. I love you." / "Third item. You love me."; Judy's three s4 lines and "Approved."; "Noted."; "Fifty minutes"; the Open/February/"Linda's." exchange; "Paid in before they sat, and next winter dated."; "Request you come hold a key."; Ray's spoken order line and "Then I owe you a K."; "Is that Ray Gagnon on my chair?" / "In it."; "One." / "So am I."; "Throw her, Mrs. Daly."; "Both words."
+
+**Decision, Ellen's s1 line:** "Your call." → the fallback, "Tell me to hold it and I will." "Your call." next to "You called me first" is a pun in six words; aloud it sounds set up. The fallback has Ellen hand the choice over in a sentence of her own, and Kate's "It's yours, Mom" refuses it. +3.
+
+**Tells**
+- "said nothing" / "offered nothing" / "added nothing": all gone (four in the chapter plus the cold reader's "offered"). s1 "Ray heard her choose it, and offered nothing" → "Ray cut one long curl of cedar and let it drop" (he stays out of it by doing the job in his hands). s2 "He said nothing about it" → cut; "Hollis marked it and said nothing" → "Hollis marked it." s3 "and added nothing" cut. s4 "noticed, and said nothing" → "tried the tilt once".
+- "exactly": none in this draft. "without turning": the one left (s4, "The last Saturday in February") → "Ellen said to the glass." None remain.
+- Three-beat lists (4.7 #63): s2 roster of three crews (Highway / Lewiston / Gil) → Highway in one sentence, Lewiston and Gil joined in the next with "while", Ray on the settee after; the Denise-Gil-Verna tableau after the last ball → Verna only (Denise's hands on the cup were already shown); the ring of faces during Ray's second ball (Ellen / ten / two) → Ellen and the Highway crew (the Ostrowski boy has his cap on the PA beat already); Denise's three balls ("Her first… Her second… She held the third") → two sentences; s3 "took… and folded them, and put them away" → "folded them into her vest"; s5 Ellen "drew…, took…, and held out" → "drew her right hand out of his glove and held out the front key".
+- 4.4 decoding, the calm voice (pair for the rule list, below): s2 "kept her voice level to the end" cut; s3 "She gave it as an order, pleasantly, and he knew that voice by now." cut whole. s3 "because she had always given him every number whole, and he meant to give her this the same" cut (the cold reader's "narrator explaining after the gesture"). s1 "She was taking the hold, then." cut (the knife stopping carries it).
+- The K's meaning at the end: s5 "Every word of that was true, and he had learned the trick off her." cut (the narrator labelling the trick; the cold reader asked "which trick?"). Ray's order line and "Then I owe you a K." untouched. "her money gone down the wire that afternoon" → "her wire paid that afternoon" (it is Arlene's payoff, not Ellen's savings; closes flag 2 of the first voice pass).
+- 4.4 vote-doubt sentence: s4 "A no would leave Ellen's money in Arlene's note for good and the building at Arlene's auction, with Ray nowhere near the bidding, by the form he had torn on Arlene's oilcloth." cut (-37). Judy's lines now carry the doubt alone. Flag for the orchestrator: the brief's M10 wording ("Arlene's auction") now has no use in Ch 10; Ch 06 and Ch 08 still carry it.
+- Repeat: "Ray had nothing to do" (s4) and "Ray had nothing to fix" → the first is now "by the time she came back Ray was in it, tightening the tilt". One "nothing to fix" remains, which is the beat the sentence is for.
+
+**The bank scene as Ellen acting (s4)**
+- Ellen is at the bank's door "ahead of him, on her feet" (was "waiting at the bank's door").
+- She lays Sunday's count in front of Judy (was "She took Sunday's count from Ellen").
+- Refuses the hold with "Noted.", fills the form on her feet with her own pen, and "carried it to the wire desk herself" (+7, the form's path, no new object; the wire desk is Judy's own); "At nine Judy sent it down the wire" so Judy's act is hers.
+- The glass wall: "Ellen took the glass wall and kept it, hands folded, facing the lobby door and the bench beyond it" (was "stood at the glass wall with her hands folded"). She answers the committee's question "to the glass".
+- The scene still ends on "drew it out from the desk." Nothing after it.
+
+**Added life (+40, s3 only, to return s3 to its floor after the cuts took it to 766)**
+- One long sentence in the kiss, in Ray's register: "Her hands were warm through the canvas, warmer than anything else in that pit, and she tasted of the snack bar's coffee, which in all his years he had never once enjoyed and now would have drunk by the urn." A taste (the scene had none), the warmth, and a joke on the last word. No new fact: the urn and the snack bar are on the page and in the bible.
+
+**Other**
+- s5 "Ellen held it in his gloves" → "held the ladder in his gloves" (the antecedent was the sign face). +1.
+- s2 "until Hollis called six off the clipboard" → "and waited for Hollis to call six off the clipboard".
+
+**Caps (counted on this file):** "Mrs. Daly" 1 · "honey" 1 · "request" 3 · personified machines 3 ("She leaned", "Throw her", "How's she read?") · "without turning" 0 · "said nothing" 0 · no digits, no em dashes, no "as if / as though", no "the way" · figures: "Nine hundred dollars under" and "twenty-one thousand, near enough" · no new numbers · "thirty years" appears three times in prose (pencils, Arlene's key on his ring, Arlene's key hung); the added coffee line uses "in all his years" to keep it at three.
+
+**Tag-strip test:** pass. Kate fragments; Ellen full stops and exact; Ray and-chains with the joke last ("a tenth box", "by the urn"); Judy dry criteria; Arlene counts; Hollis a measurement; Danny four short lines.
+
+**Flagged for writer / orchestrator:** none needing plot change. s4's mid-action ending is kept as set. Pair for the rule list: stop narrating the calm voice when it holds ("kept her voice level", "he knew that voice by now"); show the moment it breaks, once (s1 "lower than her counter voice"; s3 "her breathing ran quick and shallow under the steady voice"). Second pair: stop closing a paragraph on a clause that says what a gesture meant ("and offered nothing", "and he meant to give her this the same"); end it on the next thing a hand does.

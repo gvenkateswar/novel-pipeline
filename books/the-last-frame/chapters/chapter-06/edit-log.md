@@ -208,3 +208,41 @@ Second cold read 4/10 (`reader-notes-r2.md`; scene average 2.8). Line items in p
   - s2: Ellen speaks in items and full stops ("Then I am closed." and the four-sentence refusal). Ray's lines are short and hurt and end on the plain word ("It'll keep.").
   - s3: Hollis asks questions and gives measurements. Ray tells a story. Ellen gives a spec and a literal comeback.
   - s4: Judy baits and states the rule; Ellen is calm and procedural.
+
+## Voice editor r1 (draft-r1-dialogue.md → final.md), Oct 30
+
+## Change list (voice editor, r1; source draft-r1-dialogue.md, Oct 30)
+
+**Word count:** `wc -w` on the prose alone (everything above the `---`) is 2,517 with the heading and scene breaks, against 2,577 for the input on the same basis; scene bodies total 2,503 against 2,563. Scenes: s1 780 (was 780), s2 473 (was 497), s3 633 (was 634), s4 617 (was 652). No scene grew. No digits, no new numbers, no new facts, characters or objects beyond what is listed below.
+
+**Endings:** s1 still stops on Danny sliding the papers back, nothing after. s2 ends on the office drawer, unchanged. s3 loses the "his peg ahead" callback and ends on Ray going through the door after her. s4 ends on "She had friends."
+
+**Kept word for word:** Arlene's release line; both Danny lines; "You had a lawyer draw it before you asked me." / "Seemed a poor way to ask, with nothing in my hand."; "On my license, that one,"; "That's me ahead, Hollis"; "I read that as a formality." / "For a winter that clears, it is"; "The term sheet says subject to committee."; "She had friends."
+
+**Added life (each paid for by a cut in the same scene):**
+- s1, the plate: "He burned his tongue on the first slice and ate the second anyway." (the ham; Ray's hands and mouth).
+- s1, the store: Ray squares the stack with the side of his hand before "That a pen in your pocket?"; the Bench's free coffee is "scorching" on its plate; Danny's drawer is "the one that stuck in the cold", which sets up the heel of the hand that shuts it. The drawer still holds the form; nothing else is added to it.
+- s2: Ray crosses "the maple" (was "the floor"); the draft lifting the release is kept; the knuckle is now "warm as a bulb left on", tying to the sack of bulbs on the shelf, and replaces "It was warm."
+- s3: the shack smells of "smelt and wet wool"; the ice booms under the floor, "a truck on a plank bridge", and Ellen looks down at her boots (Ray hears first, as his profile says; no figure given); Ray "took hold of his own cuff and stayed where he was" at the door, which sets up the gloves; "January came up from his boots to meet him" closes on the cold already planted at the top of the scene.
+- s4: a drop falls from Ellen's wet glove onto the snow while her voice goes calm.
+
+**Tells:**
+- "said nothing" (3 uses): s3 Hollis, "said nothing for a full second" became "gave it a full second, which was a long time for Hollis"; s3 Ray, "he said nothing yet" became Ray taking hold of his own cuff; s4 Judy, "said nothing, and Ellen filled the quiet" became "Judy pinched the line at the depth she wanted, and Ellen filled the quiet." Zero remain.
+- Three-beat lists: Arlene's photograph (took, looked, laid) now two beats with "after a look"; Hollis's cards (laid, squared, looked) two beats; Danny's closing (put back, shut, slid) two beats.
+- Decoding clauses cut: "she finished a job with her hands before she answered anything" (s2); "and watched her keep his no for him, in front of him" (s3); "she had told him herself what that calm was, and he stood in the squeaking snow and heard it" (s4, replaced by the dripping glove); "It was a week to the day" became "A week to the day".
+- The sentence in s4 that explained the paper to the listener ("A winter that came up short went to the table that had never met her, and Ellen had just called that table a formality.") is cut. In its place: "She let that sit on the ice a moment." Judy's earlier "The underwriter has never met you" and her "For a winter that clears, it is" carry the stakes. See the flag below.
+- "It was Ellen, walked out…" (s3) is now one sentence joined to the knock; no other filler openers remain in the scenes touched. "exactly": none in the chapter. "the way": two left, both earlier and kept (Judy's balance-sheet look; Ellen's "the way Linda bowled it").
+- Arlene's "told it the way she'd tell a man his fuel-oil bill" became "told it like a fuel-oil bill".
+
+**Voice:**
+- Ray's line to Hollis: "up at Arlene's, on her machines" became "up at the alley, on the machines" (the alley is no longer called Arlene's in a scene that has just sat at Arlene's table; a listener would hear the apartment).
+- Arlene's "In nineteen seventy-one I held Normand…" now has a gesture tag (she smooths the crease with her thumbnail), because it followed Ray's interior paragraph untagged and could be heard as his.
+- Hollis's club speech now runs in short flat sentences, as the brief's rule 6 asks: "The club pays for a warm room Sunday, the kids' weigh-in and the raffle. That gets the families off my ice. That's my yes, and you'll want Judy's." In the Linda speech "and he still brings it up" is its own sentence and "you'll get" became "you get".
+- Ray's lines were left in his loose and-chains ("Supper's done by six, and I'm in bed by half past nine, and…"). Danny stays in the store's words. Tag-strip test passes: Arlene flat and blunt, Ellen in full stops, Hollis short, Judy dry and procedural.
+
+**Other trims for the no-growth rule:** "Then" and "on the counter" cut at the top of s1; "top of the" off the photograph; "front window" off the Bench; "along the access" off Ellen's walk; "a while" off Ray studying the board; "read it to himself" became "read"; "Ray tapped the deck square on his knee" was drafted, then cut for room (the ice boom replaced it).
+
+**Flagged for the writer / orchestrator:**
+- s4 stakes: the cold read last round asked for one plain sentence so a listener hears that a short winter goes to a committee that has not met her. I cut it per the brief and kept the beat in Judy's two lines. If the next cold read still loses it, restore it as Judy's spoken line in her own flat banker's voice (for instance, "Short of that, it's theirs to say."), not as narration. Ch 10 s4 answers it either way.
+- s3: Hollis's "walking ice… You walked it" and "On my license, that one" are kept; the license line still reads as Hollis owning the fish Ellen brought up on his hole. If a reader finds it unclear, the fix is one clause of Hollis's, not narration.
+- Pattern to stop and what to do instead: the draft stops short of a tell but leans on "He knew to the inch how far" (s2) as a small decoding clause about Ray's wanting. Kept, because it is the only place the scene shows him wanting the touch before it comes; if the audit flags it, replace with a thing his thumb does (it moves a quarter inch toward the knuckle), not with a longer explanation.

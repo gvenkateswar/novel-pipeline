@@ -1,20 +1,20 @@
 # Chapter 4: Say Intentions
 
-Only lane one was lit. The other nine ran off into the dark to their pits. At seven o'clock Ray had let himself in at the front on the key she'd laid on his counter on the third, the first time it had been in that door, and he had stood on the mat after it turned and listened to the place the way he'd listened to it for thirty years, except that this morning he'd wiped his feet.
+Only lane one was lit. The other nine ran off into the dark to their pits. At seven o'clock Ray had let himself in at the front with the key she'd laid on his counter on the third, the first time it had been in that door, and he had stood on the mat and listened to the place the way he had for thirty years, except that this morning he'd wiped his feet.
 
-He had a house ball in each hand. One was the weight most people took. The other was the lightest on the rack, and he had picked it for her by holding it a while, the way he'd pick a washer out of a bin, and then taken the second one down so it wouldn't look like that. On the drive out he had decided there were two ways to go at this morning, and one of them was to say something about Friday. Somewhere around the town beach he had settled on the other: the lesson he'd owed her since her owner's ball hopped into lane six and took his wood with it, which a man could give a woman in an empty building without either of them bringing anything up.
+He had a house ball in each hand. One was worn smooth, like most of them. The other he had picked for her off the end of the rack by feel, a ball scuffed dull enough that a cold bare hand would hold it, and then he had taken a smooth one down beside it so the pair wouldn't look picked. On the drive out he had settled on the lesson he'd owed her since her ball went through his wood on lane six, which a man could give a woman in an empty building without either of them bringing anything up.
 
 The office door opened. She came out with a clipboard held flat to her chest and was talking before he had his mouth open for good morning.
 
 "Yesterday at your counter you told the Bench, 'Linda's night stays. I've got her word.' My word had two parts, and you heard one."
 
-She had the voice she'd used on the PA her first night, and in the snowed-in building Thursday night. Her thumb lay on the clip of the board and stayed there.
+Her thumb lay on the clip and stayed there.
 
-Ray turned and put the heavier ball back on the rack. It went back into its own slot, among the ones worn smooth, and he squared it there. He kept the light one.
+Ray turned and put the smooth ball back on the rack, in its slot among the others, and squared it there. He kept hers.
 
-"In the pit I said, 'It stays. Unless the numbers say otherwise.'" She gave it to him word for word, with the stop in the same place. "Denise's strike took the second half."
+"In the pit I said, 'It stays. Unless the numbers say otherwise.'" She gave it to him with the stop in the same place. "Denise's strike took the second half."
 
-He weighed the small ball in his hands.
+He tried the scuffed face of her ball with his fingers.
 
 "If this winter comes up short, Linda's Memorial is the biggest day I have, and I will want it." She let that stand. "Read it back."
 
@@ -26,49 +26,37 @@ He did it flat, with no tune to it. "It stays unless the numbers say otherwise. 
 
 "Yes."
 
-Down cellar the boiler came on and thought better of it.
-
 "The town had us by noon yesterday," she said.
 
 "Normie had us before Hollis got his plow back to the shed."
 
 One corner of her mouth went, and she put it back where it belonged.
 
-"Normie told Denise. Denise asked me whether that was what I had said. I told her, 'It's half.'"
+"Normie told Denise what you told the Bench. Denise asked me whether that was what I had said. I told her, 'It's half.'"
 
-He could see Friday from here without trying: his own elbow on the counter by the register, and his own voice telling three old men on three stools what she'd told him, plain, so nobody would ask twice, and Danny down at the far register with a box cutter open in his hand, cutting nothing, hearing his father vouch.
+He could see Friday from here, his elbow on the counter and three old men on three stools, and Danny at the far register with a box cutter open, cutting nothing, hearing his father vouch.
 
-"While it was the two of us, I could carry it," she said. "Then Hollis's light came up the drive. Every face in the building was in the glass block. Denise was in the door. After that you were vouching on it, and I let you."
+"While it was the two of us, I could carry the second half," she said. "After Hollis's light came up the drive, you were vouching on the first half, and I let you."
 
 "That the lot?"
 
-It wasn't. With her there was always an item after.
+She looked at the clipboard, which he'd have bet she knew by heart. "Every error I ever made at work, I wrote up inside the hour. This one took me thirty hours and nineteen minutes."
 
-"Every error I ever made at work, I wrote up inside the hour. This one took me thirty hours and nineteen minutes, from the pit to this floor."
+She set it on the ball return and took her thumb off the clip.
 
-He turned the ball over. There was nothing on the bottom of it he hadn't already seen on top.
-
-"Eleven last night is inside that. Denise asked me then whether I'd told you. I didn't answer her. That was the hour I could have phoned you. I am counting that too."
-
-She would be. She'd have it written down somewhere by now, to the minute, with a line ruled under the total.
-
-"Did you kiss me so I wouldn't ask?"
+"Did you kiss me so I wouldn't ask?" he said.
 
 "I kissed you because I wanted to." She kept her eyes on him for the rest, with a whole dark lane beside her she could have used. "I kept quiet because the price of telling you was you."
 
-Nine lanes lay dark.
-
 "Then hear mine." He held the ball still. "Linda's night stays. What I told them stays."
 
-The front door was forty feet behind him, and he had a key to it, and the truck was in the lot. He could go. He turned the small ball once round in his hands and kept his place.
-
-He held it out across the ball return.
+He had a key to the front door now and the truck in the lot, and he stayed where he was and held her ball out across the ball return.
 
 "Lane's open. You turn it loose a foot off the floor and it lands like a dropped plate. Want that fixed?"
 
 \* \* \*
 
-Her third box, and the small ball was already in her bare hands. Her first two boxes had gone the way all her boxes went, up off her fingers and down onto the maple a good yard past the line with a crack that made the head pin flinch, and one ball had gone into the gutter.
+Her third box, and the scuffed ball was already in her bare hands. Her first two boxes had gone the way all her boxes went, up off her fingers and down onto the maple a good yard past the line with a crack that made the head pin flinch, and one ball had gone into the gutter.
 
 Ellen glanced at the clipboard she'd propped on the ball return, though nothing on it had changed since the second box. "Two boxes. Winds calm. One ball in the gutter."
 
@@ -92,31 +80,15 @@ She straightened and looked at what she'd done. "On my first night Verna had the
 
 "That was your ball in my lane." He got up off his knee. "The wood stays on the lane."
 
-He stepped back off the approach to give her the room. She was still looking at him, and he was the one who looked away first, down the lane at the wood.
+He stepped back off the approach to give her the room. She was still looking at him, and he gave the wood his full attention.
 
 "Is that a rule?" she said. "Or only you?"
 
 \* \* \*
 
-By the middle of the afternoon there was a party on every lane, and the pit had the warmth it only got on the alley's best days, ten motors running at once and the heat coming off them along the catwalk until a man could work in his shirtsleeves in December. The radio on Ray's belt had a strip of her tape across the back that said Kettle Maintenance, which was the first he'd heard he was a department.
+By the middle of the afternoon every lane had a party on it, and the radio on Ray's belt wore a strip of her tape across the back that said Kettle Maintenance, which was the first he'd heard he was a department.
 
-"Kettle Maintenance, lane eight has a birthday at the half hour, and lane eight's ball return is running slow."
-
-He keyed it. "Roger that, copy, ten-four, wilco, over and out."
-
-"Wilco means you will comply. I have not asked you for anything yet."
-
-Lane eight's return had a house ball hung on the lip of the track, and he lifted it over with two fingers, and the return went back to rumbling.
-
-The radio clicked, and Denise came on with no call sign and no breath to spare. "I've got a boy at my counter twelve if he's a day, in house shoes he could sleep in, and does he care, no, he tells me they're fine, and are they fine, they are going to walk down lane three without him."
-
-"Have him walk to the end of the counter and back. If he arrives in them, they're fine."
-
-Ray turned the radio up.
-
-He stood on the catwalk with the crash of ten lanes rolling back at him, and lane three dropped its pins in ragged installments. Through all of it Ellen's voice came the length of the building without a word lost, and he had turned it up to hear her settle a twelve-year-old's shoes, and he left it up.
-
-Lane four's machine had stopped mid-rack.
+Lane four's machine had stopped mid-rack, and the radio opened.
 
 "Kettle Maintenance, say intentions."
 
@@ -124,19 +96,15 @@ Lane four's machine had stopped mid-rack.
 
 "Denied. Lane four."
 
-He went along the catwalk to where a pin had come up crooked, and he had both hands inside lane four's elevator when the radio opened again.
+He went along the catwalk to a crooked pin and had both hands inside lane four's elevator, the belt warm under his knuckles, when the radio opened again.
 
 "The last Saturday in February. Who holds the lane draw for Linda's Memorial?"
 
-"I do. I drew all ten at Thanksgiving, and it's on my clipboard."
+"I do. I drew all ten at Thanksgiving, and it's on my clipboard. Over."
 
 She didn't answer. The radio stayed open a second on the noise of her counter, and he knew what a pencil sounded like when he couldn't hear one. His answer was going down on the sheet where she kept her numbers.
 
-Her next call wasn't for him.
-
-"Snack Bar, two baskets for lane six."
-
-He worked the crooked pin loose, and the elevator carried it up, and the next rack came down on the deck with a crash that put the radio under.
+He worked the crooked pin loose, and the elevator carried it up.
 
 \* \* \*
 
@@ -150,7 +118,7 @@ A thing said in front of the Bench was said. You didn't get it back; they kept e
 
 "Thing is," he said, "I've been retiring after the season since about the winter the roof rakes came in short, and Danny counts a drawer better than I do, and I count it again behind him anyway. March first, the store's his. I'll come in Saturdays." He looked at the cake. "If he asks."
 
-Danny had been waiting a long while for this. He held his paper cup in both hands, the way he held a carton he didn't trust the bottom of, and for a second he didn't raise it. Then he did.
+Danny held his paper cup in both hands, the way he held a carton he didn't trust the bottom of, and for a second he didn't raise it. Then he did.
 
 "To Dad's last winter behind the counter. He swears it's real this time."
 
@@ -160,15 +128,15 @@ The clerks laughed and drank. Normie, at the end of the settee, turning a plasti
 
 Lanes nine and ten laughed, the clerks and the Bench and a couple from the party on lane eight who had no business listening. Ray laughed too. He heard it come out of him half a second late.
 
-Ellen was ten feet off on the walkway behind the settee, holding the cake knife. Danny had sent up to the snack bar for it, and she had carried it down herself, since the party was on her lanes and the knife was hers. She'd heard. Ray watched her face go calm, the calm she'd told him about in the pit with a pin in her hands.
+Ellen was ten feet off on the walkway behind the settee, holding the cake knife. Danny had sent up to the snack bar for it, and she had carried it down herself, since the party was on her lanes and the knife was hers. Ray watched her face go calm, the calm she'd told him about in the pit with a pin in her hands.
 
-He had kept two things apart and never once set them side by side, and Normie had just put them in one sentence: the store to Danny on March first, and the building on March first. Every man on that settee had a square on the pool sheet behind the register at the store, and every one of them knew who bought the building if she missed. The sentence wasn't wrong. Normie had been calling things straight since 'seventy-four. All that while Ray had meant to give Danny the store and buy Arlene's alley off her, and spend his evenings on machines that were his own, and he had come up the drive with his offer eight days after Ellen did. Any no he said to her between here and March, to Linda's night or to anything else that would get her over the line, would be a no that paid him.
+He had kept two things apart and never once set them side by side, and Normie had just put them in one sentence: the store to Danny on March first, and the building on March first. Every man on that settee had a square on the pool sheet behind the register at the store, and every one of them knew who bought the building if she missed. The sentence wasn't wrong. Normie had been calling things straight since 'seventy-four. Ray had meant to give Danny the store and buy Arlene's alley and spend his evenings on machines that were his own, and he had come up the drive with his offer eight days after Ellen did. Any no he said to her between here and March, to Linda's night or to anything else that would get her over the line, would be a no that paid him.
 
 He could tear up the backup contract tonight. But the paper was what let Arlene hold her note, and without it her place at The Pines went to the next name on the list.
 
 Ellen held the knife out to him, handle first. He took it. She went back up the walkway.
 
-He didn't say any of it. He put the knife in the corner of the cake, cut the first piece, and handed it to Normie.
+He didn't say any of it. He set the knife in the corner of the cake and cut the first piece and handed it to Normie.
 
 \* \* \*
 
@@ -194,7 +162,7 @@ He looked at her, and kept looking, until she said what was under it.
 
 "I heard Normie."
 
-"Whole two lanes heard Normie."
+"Normie carries to the dock on a calm day."
 
 She took the pad out of her vest, and the pen.
 
@@ -214,7 +182,7 @@ His hand went to it before he could stop it. The page was there under the flap, 
 
 "I'd like to know what I owe you."
 
-He had been paid across a counter for forty years and never once by somebody who meant it to cost her. He'd take it all the same. A bill was the only answer to Normie's sentence he had.
+He had been paid across a counter for forty years and never once by somebody who meant it to cost her. He'd take it all the same.
 
 "Every dollar you pay me comes off the winter your bank is counting."
 

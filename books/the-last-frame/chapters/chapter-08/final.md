@@ -32,7 +32,7 @@ Ray squinted into it. "Hold the light where I'm working, Hollis."
 
 The light stayed on his face. Ray found the bracket with his left hand and the motor's foot with his right and seated it by feel, with the beam in his eyes and the rest of the pit gone black around it. He ran the two bolts down snug and a quarter turn past, and the motor took its own weight off his hand.
 
-On the bench he made out the invoice, in her format and his square printing: his hours at the Worcester man's rate, the brushes, and a line ruled under the total. At the bottom he wrote, Light held one hour by H. Pike. No charge.
+On the bench he made out the invoice, in her format and his square printing, his hours at the Worcester man's rate and the brushes, ruled off under the total. At the bottom he wrote, Light held one hour by H. Pike. No charge.
 
 He came up the walkway from the steel door by lane ten with his toolbag, past the first bowling bags on the settees, and she saw him coming before he was halfway. She was still on with Judy. He laid the paper on her counter, and she read it with the receiver held against her shoulder, every line of it.
 
@@ -40,7 +40,11 @@ He came up the walkway from the steel door by lane ten with his toolbag, past th
 
 "No charge. He's worth about that."
 
-He was already turning for the vestibule. He had the inner door open, and the cold off the outer glass on his face, when she said into the phone behind him, "Judy, I'll call you back."
+He was already turning for the vestibule.
+
+"That was the mechanic, Judy," she said behind him. "He's leaving."
+
+He had the inner door open, and the cold off the outer glass on his face, when her voice went on, lower, about the settees.
 
 \* \* \*
 
@@ -72,7 +76,7 @@ He stopped there. Nothing went after it, and he had made sure of that in the tru
 
 One word, and he let it be one word.
 
-She let a breath go. "I'd like to hear whether it holds."
+"I'd like to hear whether it holds," she said.
 
 "Tell me the rest of what you were saying."
 
@@ -108,13 +112,13 @@ Ray laid Gagnon & Son's entry for Linda's Open on her counter, Tuesday the ninth
 
 Her eyes went past him to the settees.
 
-He turned round with his back to her counter and faced the house. The Highway crew had their hoods still up from the trucks, a Legion man on lane three was heckling his own warm-up ball, and somebody's grandson was asleep across a bowling bag on the settees. Verna had her binder open at the scorer's table on lane one, and down at six sat Hollis, with the clipboard. The noise of a whole house warming up began to come off a table at a time, nearest first, as people saw who was standing there.
+He turned round with his back to her counter and faced the house. The Highway crew had their hoods still up from the trucks. A Legion man on lane three heckled his own warm-up ball, and somebody's grandson slept across a bowling bag on the settees. Verna had her binder open at the scorer's table on lane one, and down at six sat Hollis, with the clipboard. The noise of a whole house warming up began to fall off a table at a time, nearest first, as people saw who was standing there.
 
-He had the words he'd said to her at the door, exact, and they would hand this room her night at two in the morning, which was hers. So he'd have to say it plain, with nothing in front of it to stand behind. Every time he'd stood up in this building there had been somebody else's name to stand behind, the league's or the old teams' or Linda's. He hadn't asked this league for anything since 'ninety-six.
+He had the words he'd said to her at the door, and they would hand this room her night at two in the morning, which was hers. So he'd have to say it plain, with nothing in front of it to stand behind. Every time he'd stood up in this building there had been somebody else's name to stand behind, the league's or Linda's. He hadn't asked this league for anything since 'ninety-six.
 
 His hand went up to his ear for the carpenter's pencil and came down empty. At the far end a pinsetter finished its cycle and shut off, and he knew without looking it was nine, by the sound of the sweep. At his back he could hear her not writing.
 
-And the word was cruel. Short, he could have said, or sore, or out of line, and the room would have taken any of those and handed him a ball. Cruel they'd have to sit with. He had looked all week long for a softer word that was true, and there wasn't one.
+And the word was cruel. Short, he could have said, or sore, and the room would have taken either and handed him a ball. Cruel they'd have to sit with. He had looked all week long for a softer word that was true, and there wasn't one.
 
 "I was cruel to Mrs. Daly on purpose," he said, and one of the Highway crew pushed his hood back and left it down. "And I walked out on you to make her watch."
 
@@ -128,7 +132,7 @@ Down at six, Hollis's pencil went on moving on the clipboard, and his head staye
 
 The laugh started on the settees at the secretary and went down the lanes. The Legion man took his ball back off the rack, and somewhere at the far end a ball went down and took its wood, and the noise of a Tuesday came back up, a table at a time.
 
-The room had it well before Ray did. Mr. Pike kept the clipboard. The last Saturday in February would be the first since 'ninety-six he didn't coach, and Linda's day would go by with him on a settee, waiting his turn like anybody.
+The room had it well before Ray did. Mr. Pike kept the clipboard. Linda's Saturday would be the first since 'ninety-six he didn't coach, and he would wait his turn on a settee, which his father, behind the store counter to the week he died, never managed.
 
 Behind him paper moved. When he turned, Ellen was putting his paper in the box at her elbow with the others.
 
@@ -146,71 +150,53 @@ Ray took a ball off the rack between five and six, the first one his hand came t
 
 \* \* \*
 
-The steel drawer of the office desk ran out on its rollers, and Ellen came back through to the counter and laid the paper between them. The building was shut for Presidents' Day, and the front door had been unlocked at ten because she'd said it would. It was the release. His signature from January sat alone on the first line, and the two lines under it were blank. It had lain in her drawer since then and done nothing by itself, which was about what he'd have expected of paper.
+Ellen brought the release out of the steel desk and laid it on the counter, his January signature alone on the first line, the building shut for Presidents' Day.
 
 "If you come back, you come back beside me," she said. "I'll sign Arlene's paper, and I'll tell her myself. I could keep you in my drawer till the first of March and tear you up the morning I clear. Then on her Saturday you'd still be the man who buys if I miss, and every entry you took at my counter would be Normie's to talk about. I want you running her day beside me. Your son won't take the store while you're standing behind me either. In January I'd have been signing her bed away on a winter I was losing. With Linda's name on it, it's a winter I'm winning, if every lane fills."
 
-"I gave you her name, and the building with it," he said. "That's not enough?"
+"I gave you her name, and the building with it. That's not enough?"
 
-"You gave it angry," she said. "I need you to choose it. I took her name off an angry word, and I've been writing it down ever since. I won't take the building off one."
+"You gave it angry," she said. "I need you to choose it."
 
-He heard the chair go back on the dry floor that night, and his own voice over it. "Then I'll choose it, on a Monday, with nobody in the room. Linda's name on your Open, and my name off your paper. I'd like both."
+Ellen folded the paper and took her coat off the office door.
 
-"The credit union's held me a loan since December," he said, "on the form Danny signed. I sent it through the Thursday after you put that key on my counter, to buy this place at appraisal if you missed. I never told you that. I'll phone them tomorrow and let it go."
+Arlene was at her kitchen table, with the boxes taped shut along the wall and her good hat out on the oilcloth. Ellen put the paper down by the hat and stayed standing.
 
-Ellen gave him the look she gave a number that had come out other than she expected. Then she folded the paper and took her coat down off the office door, and dialed Arlene from memory. "We're on our way down."
+"With the Open filling the way it's filling, I clear by six hundred dollars. One storm takes that. If I sign this and I miss, it's your auction. You wait for your money and go back on the list. The condo man gets the lot for the land, and the house money my daughter let me spend goes with it. There's money I swore to my daughter. It isn't in this."
 
-She followed his truck down in her own car, past Gagnon & Son, where Danny was alone behind the counter with a line for ice cleats.
+Arlene pulled her table drawer open. "I'll sign it, dear, and keep it in my drawer till the count."
 
-Arlene was at her table, the boxes taped shut along the wall. The radiator was banging like it had heard the news and had views on it. Ellen didn't sit. She put the paper down in front of Arlene.
+"Today, Arlene. I know what I'm asking."
 
-"With every lane of the Open full, I clear by six hundred dollars. One storm takes that."
+"And what does it cost him?"
 
-Arlene took her glasses off, polished them, and put them back on to look at Ellen.
+Ray took the credit-union form out of his coat, where it had ridden since six that morning, when he'd lifted it from under Danny's count slips, and laid it beside Arlene's paper.
 
-"If I sign this and I miss," Ellen said, "it's a bank sale. You wait for your money and go back on the list, the condo man gets the lot for the land, and the house money my daughter let me spend goes with it."
+"Danny signed this in December so I could buy on your yes," he told Ellen. "Thursday after you put that key on my counter, I filled it in for your no, and he put it in the drawer under the register and left it there. I'd have let him send it."
 
-At the condo man Arlene's chin came up, and stayed up.
+Ellen gave him the look she gave a number that had come out wrong.
 
-"If you miss, I'm not at the bank's sale either," he said to Ellen. "I said I'd not buy your mistake cheap. That's cheaper."
+The form had copies under it, yellow and pink behind the white, and the first pull only started it. He tore it through and across, and left the pieces on the oilcloth.
 
-He turned to Arlene. "That costs you, Arlene. A sale with me in it pays you more."
+"That costs you, Arlene. An auction with me in it pays you more."
 
 "I'll take the condo man's money before I'll take yours off her mistake, Raymond."
 
-He let it stand.
-
-"There's money I swore to my daughter," Ellen said. "It isn't in this."
-
-Arlene nodded once.
-
-"You ought to call Kate," Ray said.
-
-"Kate gave me the house to lose. I'm not asking her to watch me lose it a second way. I'll tell her, after."
-
-Arlene drew the paper to her and pulled the table drawer open: string, rubber bands, a ledger pencil. "I'll sign it, dear, and keep it in my drawer till the count."
-
-"Then he's behind me till March with his hand on your drawer," Ellen said, "and on Linda's day he's still the man who buys if I miss. Today, Arlene. I know what I'm asking."
-
-Ray added nothing. Arlene pushed the drawer shut and watched it go all the way.
+Arlene pushed the drawer shut and watched it go all the way. She lifted her hat off the oilcloth and set it on the last box. She drew the paper into the cleared place, the pieces of the form at its edge, and turned it to Ellen.
 
 "I said I'd sign when you did, dear. I didn't say I'd like it."
 
-Ellen found something to study on the radiator.
-
 Ellen took her own pen out of her vest and signed standing, on the second line. Arlene signed last, once, and handed the pen back. Ellen folded the paper on its creases and put it in Ray's hand.
 
-Ray went down first. The stair was steep and narrow under one bulb, and the cold came up it from the side door at the bottom.
+Ray went down first, on a stair steep and narrow under one bulb.
 
 He was clean out of her paper, and at six tomorrow it would go on the store counter beside Danny's envelope.
-
-This morning he had ordered the K from Laconia at his own quote, billed to himself the first of March, and he hadn't told her. She'd said "beside me" at her counter, and it had seemed a poor time to bring up one letter of a sign.
 
 Halfway down she stopped above him.
 
 "Ray."
 
-He turned on his step. For once her eyes were level with his. She was wearing his gloves. They were big on her, and gone shiny at the fingertips from a month of her hands. She took the front key out of her vest pocket and held it out to him on the palm of his glove.
+He turned on his step. For once her eyes were level with his. She was wearing his gloves, gone shiny at the fingertips from a month of her hands. She took the front key out of her vest pocket and held it out to him on the palm of his glove.
 
 "Not yet," he said.
 

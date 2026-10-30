@@ -178,3 +178,49 @@ Scope: s1 and s3, plus a check of s4–s5 for replies left with nothing to answe
 - Lines added: 0 whole lines (four lines lengthened, one beat reworded). Lines cut: 0.
 - **Tag-strip test: pass.** In s1, Ellen speaks in full stops and exact halves, with no hedges. Ray speaks in event-dated time ("before Hollis got his plow back to the shed"), asks questions he knows the answer to ("That the lot?"), and drops into his short anger register with no *and* ("Then hear mine."). In s3, Ellen uses procedure; Ray mocks the procedure ("Intentions are to quit and go home.", "Over.").
 - **For the voice editor (not changed, out of scope):** in s5, Ray's "Whole two lanes heard Normie." echoes Ellen's "I heard Normie." It is a full sentence used to deflect, so it passes, but it is the nearest thing in the chapter to the hero repeating her words back.
+
+## Voice editor r1 (draft-r1-dialogue.md → final.md), Oct 30
+
+## Edit log
+
+Draft edited: draft-r1-dialogue.md, Oct 30 (2,547 words; +/- by `wc -w`). Output prose measured before this log was appended: `wc -w final.md` = **2,504** with heading and scene breaks, **2,487** prose only. Down 43 from the input. Split (prose only): s1 680 (was 695) / s2 377 (384) / s3 174 (173) / s4 742 (757) / s5 514 (521). Brief target s1 650 not reached; the cut would have come out of kept lines.
+
+**Ending types.** s1 question (unchanged), s2 unanswered line (unchanged), s3 mid-action, last sentence "He worked the crooked pin loose, and the elevator carried it up." with nothing after, s4 prop (cake), s5 kept line.
+
+**s1, against Ray's profile (the revised passages)**
+- Her-ball fix: "since her owner's ball took his wood in lane six" -> "since her ball went through his wood on lane six". Ch 01 calls it "Owner's ball. Lane five." and she hit lane six; "her owner's" read as a slip.
+- Ball pair: "then he had taken the second one down so it wouldn't look like that" -> "then he had taken a smooth one down beside it so the pair wouldn't look picked". The old "second one" had no referent after "one was worn smooth".
+- Tells, simile cap (one "the way a ___" per chapter): cut "the way he'd pick a washer out of a bin" and kept "by feel". Danny's carton stays (tournament-named, and the son's store words).
+- Tells, three-beat list: Friday memory "his elbow on the counter by the register, three old men on three stools, and Danny..." -> "his elbow on the counter and three old men on three stools, and Danny at the far register". It is now an and-chain with the weight last. "By the register" cut (register twice).
+- Listener: Ray's "Did you kiss me so I wouldn't ask?" followed Ellen's action paragraph and read as hers. Added "he said."
+- Staying beat: "He turned her ball once round in his hands and kept his place." / "He held it out across the ball return." (two paragraphs) -> one and-chain, "He had a key to the front door now and the truck in the lot, and he stayed where he was and held her ball out across the ball return." "Kept his place" was Ellen's idiom (the bible: "lose my place") and decoded the beat. Fifth ball-turn cut.
+- Judged and left alone: "It came out shorter than he'd sent it" (mild decode, but it is the pause between the two kept lines), "One corner of her mouth went" (the only micro-reaction in s1; s2's version is the longing beat), "She let that stand", Ellen's three thumbs (stays, goes still, comes off; Ray's is "fingers").
+
+**s2**
+- "he was the one who looked away first, down the lane at the wood" -> "he gave the wood his full attention." It decoded the look and repeated "down the lane" from three lines up. Now it is his mock-solemn joke and the lead-in to her closing question. Nothing else in s2 touched.
+
+**s3, against Ray's profile**
+- Filler opener: "there was a party on every lane" -> "every lane had a party on it".
+- Added life, one sensory pleasure: "the belt warm under his knuckles" (+6). Paid for by "to where a pin had come up crooked, and he had" -> "to a crooked pin and had" (-5). Net: 173 in, 174 out.
+- Not touched: the radio exchange, "Over.", the pencil sentence, "His answer was going down on the sheet where she kept her numbers", the last sentence.
+
+**s4 (flat or flagged only)**
+- Cut "Danny had been waiting a long while for this." It told what the cup beat means. The cup in both hands carries it. (-9)
+- Cut "She'd heard." The next sentence has Ray watching her face go calm. (-2)
+- Cut "All that while" and a doubled "and" in the plan sentence: "Ray had meant to give Danny the store and buy Arlene's alley and spend his evenings on machines that were his own, and he had come up the drive..." The fact is unchanged (the store to Danny, the alley bought, evenings on his own machines, eight days).
+- "put the knife in the corner of the cake, cut the first piece, and handed it" -> "set the knife in the corner of the cake and cut the first piece and handed it" (list of three verbs to an and-chain, weight on "Normie"). Still ends on the prop.
+
+**s5 (flagged only)**
+- The echo, decided. "Whole two lanes heard Normie." answered "I heard Normie." by repeating her words with a number added, which is the hero echoing the heroine as a fragment. Replaced with "Normie carries to the dock on a calm day." It is Ray's weather-as-a-person shape (the profile's engine a), it deflects with a joke on the last words, and it gives Ellen a reason to ignore him and take out the pad. It also answers her earlier "Winds calm" in the weather register without repeating it. Plus 3 words.
+- Cut "A bill was the only answer to Normie's sentence he had." (4.4, item 37: it explains the pay-by-bill beat that Ellen's own line, "Then nobody in this town can say you are minding your own building," has just stated). What is lost: nothing; Ellen's line carries the answer to Normie and "He'd take it all the same" carries his acceptance. Pair per brief rule 3: "He'd take it all the same." now runs straight into Ray's own line, "Every dollar you pay me comes off the winter your bank is counting," which is the action that shows him taking it with a condition. (-11)
+- Left alone: "She had seen the truck stop from the glass block and come out as she was, rather than risk the minute it took to find a coat" and "He had stopped it where it could be seen" (both are the stated choices from the triage; neither decodes a gesture), the pot "would know", "In one minute", the sign's red, "Ms. Daly. Net thirty."
+
+**Checks**
+- Kept word for word: the readback exchange through "Yes."; "It's half."; "Under my hand."; "Is that a rule? Or only you?"; the s3 ending; "Ms. Daly. Net thirty."
+- No digits; no new numbers; no new facts or objects. "Exactly", "said nothing", "as if", perception filters: none.
+- Thumbs: three, all Ellen's, on the clip.
+- Threes: two remain (s4 "the counter and the keys and the count"; "the clerks and the Bench and a couple from lane eight"). The cap is two per chapter.
+- Personification count unchanged: head pin "flinch" (s2), the pot "would know", the sign as "the old girl". The cap set in triage was three.
+- Tag-strip: Ellen, full stops, exact times and halves; Ray, and-chains with the weight last ("If he asks.", "Normie carries to the dock on a calm day.", "Over."), anger register without "and" ("Then hear mine."), dating by what happened ("before Hollis got his plow back to the shed").
+- Flagged for writer: nothing plot-level. Still awaiting the author: Lucien behind the counter the week he died. A real K quote is still owed (Ch 08).
+- Pattern for the log, as a pair: stop having Ray repeat Ellen's phrase with a variation as a deflection; have him answer from his own world (weather, machines, the dock) so the line is his and her next beat is a choice not to take it.

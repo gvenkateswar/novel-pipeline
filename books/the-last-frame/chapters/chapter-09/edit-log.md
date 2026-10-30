@@ -218,3 +218,55 @@ Second cold read 4/10 (`reader-notes-r2.md`; scenes 3 / 2.5 / 3 / 3.5 / 2.5 / 4)
 - Words: about +8 net by hand count (s1 +6, s2 −2, s3 +5, s4 0, s5 0, s6 −1). That is inside the +30 limit. s4 stays well above its floor of 700. Please confirm with `wc -w`.
 - Caps: no digits; no new numbers; "dear" 1; "Mrs. Daly" 0; Ray's "she" for a machine 0; ATC 6; no contrast constructions added.
 - Tag-strip test: pass. Hollis uses complete past-tense sentences and measurements and ends on questions ("What'd your loop show?", "Room?", "Bowl them early?"). Dale uses present tense and fragments ("You calling me." "Then they go." "Crew's on the trucks…"). Ray has the and-chains, "I'd guess", and the joke on the last word. Ellen has full stops, imperatives and exact items. Kate interrupts and asks. Arlene uses the full name and "dear".
+
+## Voice editor r1 (draft-r1-dialogue.md → final.md), Oct 30
+
+## Change list (voice editor, draft-r1-dialogue.md to final.md), Oct 30
+
+**Words (`wc -w` on the prose above the line, heading and break marks included): 3,163 (limit 3,205; input 3,205).** By scene, heading counted in s1, breaks excluded: s1 757 (was 774), s2 383 (378), s3 487 (479), s4 752 (756), s5 164 (164), s6 605 (639). s6 floor 600, margin 5. s4 floor 700. No digits. No new numbers.
+
+**Kept word for word:** "Fourteen hundred dollars under, with the fries counted." / "Sunday can't make that."; Ellen's storm-day reason; the guarantor refusal and "It might carry them." / "It might."; Arlene's "Then ask her tonight, dear..."; Ellen's money rule to Kate (every fact, no figure; only the question after it changed, see s6); "I'd have said no, and then I'd have driven up."; "I'm going to want something for it."; "The line went dead."; "And the phones and the doors and the lot, and Dale. Today. And after."; "Readback correct." Every Hollis and Dale line is untouched, so the two shapes stay apart (Hollis: past tense, what he measured and counted, ends on a question; Dale: present tense, the hour, the trucks).
+
+**s1**
+- [Tells] "exactly": "She had brought exactly that." became "She had taken him at his word."
+- [Tells] three-beat list: "No pad, no pen, no clipboard." became "No pad, no pen."
+- [Tells] "neither of them mentioned it" (after the radio) became "and she let him." The refusal to talk about the storm is now her choice, on her hands' side of the page.
+- [Tells] a clause that decodes: "she could have put her finger on the tape at the place where he stopped" (the tape reference was obscure aloud) became "and stopped before the fence... She could have given the second he stopped." Her clock, in her register.
+- [Line hygiene] smell list and bowl list both named hamburg and green pepper; the smell now carries the tomato only.
+- [Rhythm] the refrigerator sentence merged into one ("Her chair faced the refrigerator, and on its door..."). The salt beat reordered so she is scraping the last of the tomato when he sets the salt by her hand; the salt now has something to go on.
+- No dialogue changed in s1. The towel exchange, the ski fall, the schedule, "You got as far as November." and the ladle ending are as they were.
+
+**s2**
+- [Added life] the first coffee, half drunk, one snow boot laced and one not, when Hollis rings (bible pleasure 1; no new object, no plot). Replaces "She was dressed and lacing her snow boots."
+- [Line hygiene] "read the radar off its screen with one finger" and "with her finger on the lake" were the same finger twice. The first is now "had the radar up."
+- Hollis and Dale: untouched.
+
+**s3**
+- [Tells] simile outside her mouth: "like weather through a wall" became "as one long noise with no words in it."
+- [Rhythm] "The lot was full to the road, the fryer was out of baskets, and lane three dropped its last rack crooked and stopped." was a three-beat list. Now two sentences and then the lane on its own.
+- [Relief briefing, aloud pass] Read once, then the readback is one narrated sentence pair and the kept last line. Fixed for the ear: "The other one sits beside her" had no antecedent when heard (her = whom?), now "sits beside the radar"; "he gave her these exact" (also the tell "exact") became "he did not round one of these," and "in the low voice she had worked whole midnights hoping to hear on a frequency" is its own sentence so the listener is not carried through a 38-word clause into Ray's line. No sentence in the scene runs over thirty words.
+
+**s4**
+- [Tells 4.4] cut "Dale watched her ask somebody." It decoded the gesture the reader had just seen. (Judy's nephew stopping with one arm in his coat stays; it carries the Ch 10 plant by itself.)
+- [Line hygiene] "It was the last Saturday in February" folded into Ray's sentence ("Ray stood at the end of the counter with his back to the lanes, on the last Saturday in February, and for the first time in six winters Linda's final had not been bowled on it"). Fixes an ambiguous "He" after Gil and Gagnon & Son: it was Ray, now named.
+- [Line hygiene] "in Ray's hand... in his writing" said the same thing twice. Now "Ray had the squad sheet, every one of those names down it in his square printing and nothing across from any of them. He stood with it until she read the tape." (his square hand is the bible's.) The Saco woman's envelope goes "into the glove with the entry" (the entry was already in the glove).
+
+**s5**
+- No change. It stops on Arlene.
+
+**s6**
+- [Tells] "said none of them" (the known "said nothing" family) became "Ellen had six true sentences that would fill the quiet, and she kept all six."
+- [Tells 4.4] cut "She had said harder things on a frequency, and could not think of one." It told how hard the line was. In its place a hand: "Ellen pressed her free hand flat to the cold glass." Feeling in what her hand does.
+- [Line hygiene] "Nothing came down the line" was s2's phrase, and "nothing in her other hand" a third "nothing in her hands" in a chapter that opens on it. Both gone. She takes the phone from her ear to see the seconds, as before.
+- [Line hygiene] "that neither of them turned off" (the radio) cut: it echoed s1's "neither of them".
+- [Redundancy, one dialogue move] Ellen's cost answer told Kate what is left ("What's left heats this camp through one bad winter"), then Kate asked "What's left?" and Ellen answered "One bad winter." Moved the fact to where Kate asks: cost answer is now two parallel sentences (yes, no), then "What's left?" / "It heats this camp through one bad winter." / "One." No fact lost, none added. The money rule itself (the bank counts, nobody else's, hers at eight for one, the committee on top) is word for word.
+
+**Tag-strip, checked:** Ellen (full stops, exact counts, imperatives: "Relief briefing", "Then headquarters says draw", "Beside me, I said."), Ray (and-chains with the weight last, "I'd guess", the joke on "November"), Hollis (short past tense, ends on questions), Dale (present tense, the hour, the trucks), Kate (interrupts, asks, "Okay.", "Mom."), Arlene (full name, "dear") still read as six voices.
+
+**Caps:** "D-side" 3 with the title; ATC phrases 6 (s2 one, s3 four, s4 "D-side. Your read."); "in order" 1; "counted the room" 1 (the book's last allowed use); "Mrs. Daly" 0; "dear" 1; "as if/as though" 0; "the way" 0; "exactly" 0.
+
+**Endings (unchanged):** s1 ladle into the pot; s2 Dale's "Yours first."; s3 Ray on the catwalk; s4 Ray holding her coat open, nothing after; s5 Arlene's line; s6 "The line went dead."
+
+**Flagged for writer:** none.
+
+**Pair for the pipeline:** when a tell is cured by cutting a gesture-decoding clause (s4's "Dale watched her ask somebody", s6's "harder things on a frequency"), the stop is the clause that names what the beat means; the instead is the object or the hand that was already on the page (s6's palm on the glass).
