@@ -45,3 +45,18 @@
 - The invoice rule now covers stops: if Ray drives by and stops, she is billed for the stop. The invoice ledger should allow for stop-only lines.
 - The birthday party on Saturday Dec 19 was on lane eight. Lane eight's return was cleared unbilled. The log's "nine's return slow" becomes "eight's".
 - Lane four's elevator pin was cleared unbilled. Three was "thinking something over", which still seeds the Dec 21 invoice.
+
+## Dialogue doctor (draft-revised.md → draft-dialogue.md), Oct 30
+
+## Dialogue log
+- S1: "by lunch yesterday" → "by noon yesterday" (Ellen gives exact times and never a mealtime; matches the numbers list).
+- S1: Ellen's why-now speech rewritten out of an *and*-chain (which is Ray's shape) into her short declarative items. It keeps the required payoff (Hollis's light, the faces in the glass block, Denise in the door) as evidence she lists against herself. It cuts "then you vouched for me at your counter on half my sentence," which repeated her opening line, and replaces it with "After that you were vouching on it, and I let you," which says the one new thing: she let it go on.
+- S1: "He waited." → Ray: "That the lot?" plus "It wasn't." He asks a question he already knows the answer to, as a tactic to close the subject and get to the lesson. Her count is the refusal. Keeps the line the judges named, "With her there was always an item after."
+- S1: "Denise asked me at eleven last night" → "That was at eleven last night." Removes the second telling of Denise's question, so the line is only the time and the count.
+- S2: exchange added before the lesson. Ellen reports her own bad boxes like a weather observation ("Two boxes. Winds calm. One ball in the gutter."), getting her error on the record before he can. Ray answers dry: "I was here." It's her self-report habit at low stakes, a laugh on a cold page, and a jab at telling him what both know. No new fact; the gutter ball is already in the narration.
+- S4: Normie line added when Ray stands: "And the veteran's on his feet," Normie told his plate. It's his play-by-play, a callback to Ch 02's "And the veteran declines," and it shows the Bench calling the moment before the speech.
+- S3, S5: no line changes. Every exchange already carries a tactic in its speaker's shape (mockery and correction; Denise's run-on and Ellen's one line; the claim on the lane draw; quote / not a quote; the bill as protection; the warning and her refusal). All the protected lines are kept word for word.
+- Lines added: 5 (S1 two, S2 two, S4 one) · Lines cut: 0 (three rewritten)
+- Word count: about 3,125, inside 2,760–3,240. S1 about 1,040, above its 800 floor.
+- ATC count for Ellen: readback/no readback 1, wilco 2, say intentions 3, denied 4, winds calm 5. Under the cap of six.
+- Tag-strip test: pass. Ellen: full stops, items, exact times, no hedges. Ray: *and*-chains with the weight last, "she" for the sign and the machines, questions he knows the answer to. Denise: run-on, answering her own questions. Danny: plain. Normie: broadcast call.
