@@ -456,7 +456,7 @@ She waited.
 
 She put her face in the blanket and laughed without a sound. It shook her against his shoulder, and his knee was against hers.
 
-A little after eleven an engine came up the Harbor Road from the village end in low gear, a pickup with no lights. It slowed under the house on the road side and idled there, and the idle came up through the floor into her.
+A little after eleven an engine came up the Harbor Road from the village end in low gear, a pickup with no lights. It slowed under the house on the road side and idled there, and she felt the idle in the floor.
 
 "Still," Dane said on a breath as it slowed.
 
@@ -1006,7 +1006,7 @@ She shut the stove's damper hard and raked the ash up over the coals. Over the r
 
 * * *
 
-Near ten the kitchen was packed to go, two bags by the back door, under an hour to the tide. They ate Tess's chowder standing up out of the Ashbys' good bowls, by the light the generator made behind the sheets. Its hum came up through the floorboards into Beth's feet.
+Near ten the kitchen was packed to go, two bags by the back door, under an hour to the tide. They ate Tess's chowder standing up out of the Ashbys' good bowls, by the light the generator made behind the sheets. Beth felt its hum in the floorboards.
 
 Dane stirred his bowl. "I've been through this twice looking for the clam, and I'm starting to think the clam was a rumor."
 
@@ -1496,7 +1496,7 @@ He kissed her, his hands cold from the boot. She took him by the wrists and brou
 
 He didn't answer. He undid her shirt from the top, his hard fingertips catching at every button. At the fourth she lost patience and did the rest herself, and her bra after.
 
-The drum's heat lay along one side of her. The cove's cold came up through the planks on the other.
+The drum's heat lay along one side of her. The cove's cold lay in the planks on the other.
 
 She pulled his shirt off over his head. She put her mouth to the warm side of him.
 
@@ -1754,7 +1754,7 @@ She said it to him low, so as not to wake him.
 
 The far shore was gone. The low had drawn the water off the ledges below the bank, and she could see the first of them dry and dark before the white took them.
 
-She put the notebook inside her coat against her ribs and did the coat up over it. She clipped her handheld inside, on nine.
+She put the notebook inside her coat against her ribs and did the coat up over it. She clipped her handheld inside, on nine. The fish house was in a book that went to Portland, and Portland had already rung the county about the landing.
 
 She took the red Pelican case from the end of the bench, where it had sat since the strips, and opened it beside the gun, where his right hand would find it. She left the lid up. She had never once left it open.
 
@@ -1883,6 +1883,10 @@ In the crew mess his wet coat steamed at the heater. He set his phone on the tab
 "After."
 
 "Yes. Every place we've slept."
+
+"Would you write it again?"
+
+"Tonight," he said. "That book is what gets you to Monday with the case standing, and the defense will read every page of it, including the ones about us."
 
 "Say the line," she said.
 
@@ -2604,7 +2608,7 @@ Beth was already on the stairs.
 
 * * *
 
-Dane Reyes stood on the *North Reach*'s car deck at the Pruett slip in the right boots, bought at Marr's for a price Tess named without looking at him, and the cold came up into them from the steel. The Friday before Christmas week was ending, and at about four the sodium lights over the ramp had come on orange. The island's slip bridge had gone back up off the state's barge, and on the deck, chained to the D-rings, sat Russ's pickup with Dane's boat, a twenty-two-footer, on a trailer behind it.
+Dane Reyes stood on the *North Reach*'s car deck at the Pruett slip in the right boots, bought at Marr's for a price Tess named without looking at him, and the steel was cold under them. The Friday before Christmas week was ending, and at about four the sodium lights over the ramp had come on orange. The island's slip bridge had gone back up off the state's barge, and on the deck, chained to the D-rings, sat Russ's pickup with Dane's boat, a twenty-two-footer, on a trailer behind it.
 
 The boat was worse than the Webbers Cove in every way he could list. He had listed them. She had added three, and one of them was the name. *Pier Pressure*, some summer man had painted across the transom. Dane had taken a sanding block to it and got halfway through the first word before he stopped, because Beth had told him renaming a boat was bad luck. He took her word on boats. She had yet to take one of his bets.
 

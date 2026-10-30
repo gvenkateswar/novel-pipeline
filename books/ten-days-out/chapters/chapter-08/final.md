@@ -56,6 +56,10 @@ In the crew mess his wet coat steamed at the heater. He set his phone on the tab
 
 "Yes. Every place we've slept."
 
+"Would you write it again?"
+
+"Tonight," he said. "That book is what gets you to Monday with the case standing, and the defense will read every page of it, including the ones about us."
+
 "Say the line," she said.
 
 "'Every place we've slept, and B's family property.'"

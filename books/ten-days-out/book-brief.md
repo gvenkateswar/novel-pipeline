@@ -11,6 +11,8 @@
 - **Imprint / KDP account:** [to set]
 - **KDP AI disclosure:** AI-generated text
 - **Series:** opener; the outline must leave a clear Book 2 couple and case without cheating the HEA/HFN
+- **Holiday or season:** none (mid to late November; Thanksgiving is texture only)
+- **Packaging promise** (`reviews/packaging-check.md`): title promise, a countdown suspense on a cut-off island; heat label "steamy, open-door" (never "spicy"); content notes: on-page sex, violence, references to drug trafficking; cover brief: PG-13 island ferry at night, with the heat carried in the blurb and tagline
 - **Autopilot:** on. The three gates apply (human gate as a veto window, pull gate, logic gate).
 - **Price:** $2.99 in KDP Select
 

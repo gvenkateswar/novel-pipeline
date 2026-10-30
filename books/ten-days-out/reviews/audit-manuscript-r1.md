@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–10, 30,277 words)
+# Audit — ten-days-out (chapters 01–10, 30,323 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -158,8 +158,8 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 14× “the north reach”
 - 14× “the margaret ann”
 - 12× “his right hand”
+- 12× “the fish house”
 - 11× “the outside ladder”
-- 11× “the fish house”
 - 10× “the oak bar”
 - 10× “the ramp head”
 - 9× “she could see”
@@ -168,20 +168,18 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 7× “the car deck”
 - 7× “could see the”
 - 7× “the north road”
-- 7× “the cold came”
 - 7× “under the set”
 - 7× “the bait shed”
 - 7× “the margaret ann s”
+- 6× “the cold came”
 - 6× “came along the”
 - 6× “the chart table”
 - 6× “top of the tide”
-- 6× “and the cold came”
 - 6× “at the ramp head”
 - 5× “the fuel float”
 - 5× “put it away”
 - 5× “eyes went to”
 - 5× “along the harbor”
-- 5× “came up through”
 - 5× “at first light”
 - 5× “the north point”
 - 5× “through the wool”
@@ -193,8 +191,10 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 5× “his right side”
 - 5× “the marine patrol”
 - 5× “down the outside ladder”
+- 5× “and the cold came”
 - 5× “the top of the tide”
 - 4× “under her fingers”
+- 4× “the black water”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
@@ -215,15 +215,15 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Ch | Words | Mean sent. | SD | ≤5-word share | Codes/1k | Numerals/1k | ALLCAPS/1k | Max opener run | Flags |
 |---|---|---|---|---|---|---|---|---|---|
 | 01 | 3,066 | 15.2 | 11.7 | 20% | 0.0 | 0.0 | 0.0 | 2 | short |
-| 02 | 2,892 | 15.1 | 10.2 | 19% | 0.0 | 0.0 | 1.0 | 3 | short |
+| 02 | 2,890 | 15.1 | 10.2 | 19% | 0.0 | 0.0 | 1.0 | 3 | short |
 | 03 | 2,650 | 15.6 | 11.1 | 18% | 0.0 | 0.0 | 0.0 | 2 | short |
 | 04 | 2,286 | 11.3 | 8.0 | 25% | 0.0 | 0.0 | 0.0 | 3 | mean short |
-| 05 | 3,689 | 11.2 | 8.5 | 24% | 0.0 | 0.5 | 0.0 | 4 | mean short openers |
-| 06 | 3,297 | 10.6 | 7.4 | 27% | 0.0 | 0.0 | 0.0 | 3 | mean short |
-| 07 | 3,093 | 11.9 | 8.8 | 23% | 0.0 | 0.6 | 0.0 | 6 | mean short openers |
-| 08 | 3,097 | 13.8 | 11.2 | 17% | 0.0 | 0.0 | 0.0 | 2 | short |
+| 05 | 3,686 | 11.2 | 8.5 | 24% | 0.0 | 0.5 | 0.0 | 4 | mean short openers |
+| 06 | 3,296 | 10.6 | 7.4 | 27% | 0.0 | 0.0 | 0.0 | 3 | mean short |
+| 07 | 3,114 | 12.0 | 8.8 | 23% | 0.0 | 0.6 | 0.0 | 4 | mean short openers |
+| 08 | 3,131 | 13.9 | 11.2 | 17% | 0.0 | 0.0 | 0.0 | 2 | short |
 | 09 | 2,963 | 13.7 | 11.7 | 20% | 0.0 | 0.0 | 0.0 | 3 | short |
-| 10 | 3,244 | 13.7 | 9.1 | 14% | 0.0 | 0.0 | 0.6 | 4 | openers |
+| 10 | 3,241 | 13.7 | 9.0 | 14% | 0.0 | 0.0 | 0.6 | 4 | openers |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -238,7 +238,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 - quiet: 15 (0.5/1k)
 - humm?(ing|ed)?: 4 (0.1/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 50 (1.7/1k)
+- still(ness)?: 50 (1.6/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 1 (0.0/1k)
@@ -267,7 +267,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | sentence-initial And/But/And yet | 1 | 1 | 2 | 0 | 3 | 1 | 0 | 3 | 0 | 0 | 11 | 0.4 | 3.0/1k |  |
 | em dashes | 1 | 1 | 3 | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 11 | 0.4 | 2.0/1k |  |
 | semicolons | 0 | 3 | 1 | 5 | 0 | 1 | 1 | 0 | 1 | 0 | 12 | 0.4 | 2.0/1k |  |
-| perception filter (she noticed / could hear) | 2 | 1 | 3 | 1 | 3 | 0 | 2 | 0 | 1 | 3 | 16 | 0.5 | 1.0/1k |  |
+| perception filter (she noticed / could hear) | 2 | 2 | 3 | 1 | 3 | 0 | 2 | 0 | 1 | 3 | 17 | 0.6 | 1.0/1k |  |
 | one-sentence paragraph | 18 | 19 | 24 | 16 | 40 | 49 | 23 | 38 | 26 | 34 | 287 | 9.5 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)

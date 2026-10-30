@@ -80,7 +80,7 @@ She shut the stove's damper hard and raked the ash up over the coals. Over the r
 
 * * *
 
-Near ten the kitchen was packed to go, two bags by the back door, under an hour to the tide. They ate Tess's chowder standing up out of the Ashbys' good bowls, by the light the generator made behind the sheets. Its hum came up through the floorboards into Beth's feet.
+Near ten the kitchen was packed to go, two bags by the back door, under an hour to the tide. They ate Tess's chowder standing up out of the Ashbys' good bowls, by the light the generator made behind the sheets. Beth felt its hum in the floorboards.
 
 Dane stirred his bowl. "I've been through this twice looking for the clam, and I'm starting to think the clam was a rumor."
 

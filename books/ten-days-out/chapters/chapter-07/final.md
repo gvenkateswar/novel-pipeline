@@ -170,7 +170,7 @@ She said it to him low, so as not to wake him.
 
 The far shore was gone. The low had drawn the water off the ledges below the bank, and she could see the first of them dry and dark before the white took them.
 
-She put the notebook inside her coat against her ribs and did the coat up over it. She clipped her handheld inside, on nine.
+She put the notebook inside her coat against her ribs and did the coat up over it. She clipped her handheld inside, on nine. The fish house was in a book that went to Portland, and Portland had already rung the county about the landing.
 
 She took the red Pelican case from the end of the bench, where it had sat since the strips, and opened it beside the gun, where his right hand would find it. She left the lid up. She had never once left it open.
 

@@ -270,7 +270,7 @@ He kissed her, his hands cold from the boot. She took him by the wrists and brou
 
 He didn't answer. He undid her shirt from the top, his hard fingertips catching at every button. At the fourth she lost patience and did the rest herself, and her bra after.
 
-The drum's heat lay along one side of her. The cove's cold came up through the planks on the other.
+The drum's heat lay along one side of her. The cove's cold lay in the planks on the other.
 
 She pulled his shirt off over his head. She put her mouth to the warm side of him.
 

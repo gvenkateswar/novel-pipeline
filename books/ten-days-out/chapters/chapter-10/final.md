@@ -256,7 +256,7 @@ Beth was already on the stairs.
 
 * * *
 
-Dane Reyes stood on the *North Reach*'s car deck at the Pruett slip in the right boots, bought at Marr's for a price Tess named without looking at him, and the cold came up into them from the steel. The Friday before Christmas week was ending, and at about four the sodium lights over the ramp had come on orange. The island's slip bridge had gone back up off the state's barge, and on the deck, chained to the D-rings, sat Russ's pickup with Dane's boat, a twenty-two-footer, on a trailer behind it.
+Dane Reyes stood on the *North Reach*'s car deck at the Pruett slip in the right boots, bought at Marr's for a price Tess named without looking at him, and the steel was cold under them. The Friday before Christmas week was ending, and at about four the sodium lights over the ramp had come on orange. The island's slip bridge had gone back up off the state's barge, and on the deck, chained to the D-rings, sat Russ's pickup with Dane's boat, a twenty-two-footer, on a trailer behind it.
 
 The boat was worse than the Webbers Cove in every way he could list. He had listed them. She had added three, and one of them was the name. *Pier Pressure*, some summer man had painted across the transom. Dane had taken a sanding block to it and got halfway through the first word before he stopped, because Beth had told him renaming a boat was bad luck. He took her word on boats. She had yet to take one of his bets.
 

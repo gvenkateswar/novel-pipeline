@@ -204,7 +204,7 @@ She waited.
 
 She put her face in the blanket and laughed without a sound. It shook her against his shoulder, and his knee was against hers.
 
-A little after eleven an engine came up the Harbor Road from the village end in low gear, a pickup with no lights. It slowed under the house on the road side and idled there, and the idle came up through the floor into her.
+A little after eleven an engine came up the Harbor Road from the village end in low gear, a pickup with no lights. It slowed under the house on the road side and idled there, and she felt the idle in the floor.
 
 "Still," Dane said on a breath as it slowed.
 
