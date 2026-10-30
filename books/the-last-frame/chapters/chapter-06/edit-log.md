@@ -188,3 +188,23 @@ Second cold read 4/10 (`reader-notes-r2.md`; scene average 2.8). Line items in p
 
 ## Orchestrator fixes after the commitments check (r1), Oct 30
 - See reviews/commitments-check-r1.md; line items applied in place to draft-r1.md (must-fixes 1–3; Kate's hour; the bank clock; the Highway crew's slot; Ray's order said aloud; the form's path from Danny's drawer; Ch 08 s1 ending keeps Ellen on the call; derby headquarters; Hollis's license; Normand named as husband; Ch 03 age line reverted since Ch 01 already states it; the epilogue's clock colorless and Ray's square on the first of December).
+
+## Dialogue doctor r1 (draft-r1.md → draft-r1-dialogue.md), Oct 30
+
+## Dialogue log
+- Scene 1 (Arlene's kitchen + the store):
+  - Arlene's line on what the release does is rewritten in her voice, blunt and money-like-weather, with the lawyer words ("off the back of her loan", "holding her note") gone. Old: "That takes you off the back of her loan, and leaves me holding her note with nobody to sell it to." New: "That takes you off the hook for her, and leaves me on it, with nobody to sell to." It still says that the release frees Ray and leaves Arlene as the creditor with no buyer (M10 and Q10 rest on "foreclosed on that woman of yours" and "Arlene's auction" in s2, both unchanged).
+  - Joke at Ray, comeback added. "He held the pen out to her." becomes "'Pen writes nice,' he said, and held it out to her." Ray dodges the boat line with mock-solemnity and talks to the object (his fear register). Arlene's "Voyons donc" now answers the dodge.
+  - Store: Ray's tactic added, one line. "That a pen in your pocket?" is a question he knows the answer to (bible syntax), pressing Danny about the capped pen. Danny answers with the drawer before he says a word. "Then he opened" became "Danny opened" so the speaker stays clear.
+  - Ray still never tells Danny he signed at Arlene's (commitment 5). Both Danny lines are word for word. Nothing follows the papers sliding back.
+- Scene 2 (the release on Ellen's counter): checked line by line and left as is. Tactics already carry it: the bulbs as his excuse to come; "Sign the release" as the bare ask; her lawyer line as the counterattack; the buyback offered and closed; "You're right" / "So are you"; the longing in "It'll keep". Rewriting any of it would cost words the scene doesn't have. "You had a lawyer draw it before you asked me." / "Seemed a poor way to ask…" are kept word for word.
+- Scene 3 (the bob-house): exchange added. Ellen answers Hollis's Linda speech with "Then I'll take the ones who were coming anyway." This is her literalism used as refusal: she holds Ray's no in front of him a second time, and Judy's committee news then turns her in s4. It also fixes speaker attribution: "Judy's the other vote on the derby committee" had been a second Hollis paragraph straight after his speech with no tag, and a listener could hear it as Ellen's. Hollis's two derby sentences, "On my license, that one," the Fish and Game line and the Linda speech are unchanged.
+- Scene 4 (Judy on the ice): M11's line "The term sheet says subject to committee" reads clean in Ellen's fear register (polite, procedural) and needed no change. Judy's "I read that as a formality." (Ellen's line), "For a winter that clears, it is" and "She had friends." are word for word.
+- Lines added: 3 (s1 2, s3 1). Lines rewritten: 1 (Arlene). Lines cut: 0.
+- Words: about +13 net (s1 about +3, s2 0, s3 +9, s4 0). Within the +40 limit. No digits, no new numbers, no new facts, objects or decisions.
+- Caps: "Raymond" 2, "Voyons donc" 1, "fella" 1, ATC phrase "Stand by" 1. No contrast constructions added.
+- Tag-strip test: pass.
+  - s1: Arlene is flat and blunt ("off the hook", "Raymond", the fuel-oil-bill account). Ray talks sideways and to objects ("Pen writes nice", "That a pen in your pocket?"). Danny talks in the store's words (send my name in, Son on that sign).
+  - s2: Ellen speaks in items and full stops ("Then I am closed." and the four-sentence refusal). Ray's lines are short and hurt and end on the plain word ("It'll keep.").
+  - s3: Hollis asks questions and gives measurements. Ray tells a story. Ellen gives a spec and a literal comeback.
+  - s4: Judy baits and states the rule; Ellen is calm and procedural.
