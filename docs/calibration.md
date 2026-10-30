@@ -12,10 +12,10 @@ Every real human verdict on text this pipeline produced, with the text it was ab
 | A5 | *The Last Frame* v2, Ch 01–03 sample with the tournament Ch 02 (`books/the-last-frame/chapters/chapter-0{1,2,3}/final.md`, Oct 28 evening) | the author | veto-window send, Oct 28 late | **Open.** Sent; no verdict yet. | Oct 28 |
 | A4 | *The Last Frame* v2, Ch 01–03 sample (`books/the-last-frame/chapters/chapter-0{1,2,3}/final.md`, the pre-tournament Ch 02) | the author | read, other session | **Keep going, mildly.** "The writing is generally more interesting than previously." No stop line given. The sample reader had failed the same text (3.42; Ch 2 scene 3 at 2). | Oct 28 |
 | A6 | *Ten Days Out* v2, Ch 01–03 sample (`books/ten-days-out/chapters/chapter-0{1,2,3}/final.md`, Oct 29 late, store cut to a bridge) | the author | pending | **Open.** The author chose to stop gating on the store scene after six simulated fails and to read Ch 01–03 himself. | Oct 29 |
+| A7 | *The Last Frame* v2, full draft after revision round 1 (`books/the-last-frame/manuscript.md`, Oct 29, 31,400 words) | the author | veto-window send, text-to-speech | **Open.** Sent Oct 29 night; window closes Oct 31. | Oct 29 |
 | A8 | *Ten Days Out* v2, Ch 01–05 (Ch 04 round 2), Oct 29 | — | — | **No human read yet.** The sample reader's r2 and r3 reads of the same unchanged Ch 01–03 differ by about a point per chapter (7/6/7 vs 6/6/5). A chapter-level gate fail at exactly 5 sits inside that noise. | Oct 29 |
 
-
-| A7 | *The Last Frame* v2, full draft after revision round 1 (`books/the-last-frame/manuscript.md`, Oct 29, 31,400 words) | author, text-to-speech, veto window | where did you drift / keep going | **pending** (window closes Oct 31) | Oct 29 |## What the simulated readers said about the same texts
+## What the simulated readers said about the same texts
 
 | ID | Sample reader (v1 agent) | Sample reader (calibrated v2 agent) | Cold reader | Outside panels |
 |---|---|---|---|---|
@@ -29,6 +29,7 @@ Reading on A5: the sample reader scored Ch 01 and Ch 03, unchanged text the auth
 
 Reading: the v1 readers were too kind by a wide margin (A1, A2). The calibrated v2 reader is now too harsh on at least one chapter (A3: failed what the author liked). Neither direction is usable as a gate alone. The judge panel is scored against this table.
 | A6 (pending) | — | Six reads, 3.15 → 3.6 → 3.8 → 3.6 → 3.6 → 3.7, buy yes every time; Ch 03 store scene at 2 on all six across two tournaments, a clue thinning, a clue move and a cut to a bridge (gate FAIL each time) | Ch 03 7/10, store 3 | — |
+| A7 (pending) | — | Whole-book pull curve: stopped at 59% (Ch 06, credit union); buy yes after the sample, no after the book; sample 3.33; scenes at 2 in Ch 02, 04, 05, 06, 08, 10; chapters 6/5/8/5/5/4/6/5/7/6 | Full read before the round: 4.8 avg (5/4/6/4/4/5/6/4/5/5), likely quit Ch 04 office; after the round: 5.1 avg (6/5/6/4/4/6/6/4/5/5), likely quit Ch 04 at the September-agreement line, second Ch 05 bylaws; would not buy the next book | — |
 
 ## Judge agreement log
 
