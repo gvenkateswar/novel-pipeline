@@ -216,7 +216,13 @@ When the lobby opened Judy sat down in the chair he had fixed, noticed, and said
 
 Ellen signed the wire form standing. Judy's pen hovered a second over the line for the hold, and she didn't offer it again. The wire went to Arlene's note, as Ellen had chosen.
 
-Ellen stood at the glass wall with her hands folded, and Judy opened another file and worked it and never once looked at the phone on her desk. Out on the bench Arlene sat in her hat and watched the tellers, and every few minutes the drive-up tube came down behind the glass with a thunk. Ray had nothing to fix, and his ring sat light in his jacket by one key. He had time to think a no all the way through, so he did. Her savings would be in a part-paid note, and Arlene would go back on the list. The man from Concord would have the lot at land value. He would be nowhere near the sale, by his own word. He wanted to take her hand. She was standing, so he left it, and made no offer. An hour went by, and a good piece of another, and Judy's phone rang.
+Ellen stood at the glass wall with her hands folded, and Judy opened another file and worked it and never once looked at the phone on her desk. Out on the bench Arlene sat in her hat and watched the tellers, and every few minutes the drive-up tube came down behind the glass with a thunk. Ray had nothing to fix, and his ring sat light in his jacket by one key. A no came to Arlene back on the list and the lot gone for the land, and him nowhere near the sale, by his own word. He wanted to take her hand. She was standing, so he left it. Judy's phone rang once, at the half hour, and she listened and put her hand over it.
+
+"They want to know whether next winter's Open has a date."
+
+"The last Saturday in February," Ellen said, without turning from the glass. "Linda's."
+
+Judy said it into the phone and hung up, and opened her file again. An hour went by, and a good piece of another, and the phone rang the second time.
 
 "Eighty minutes," Ellen said, without turning.
 

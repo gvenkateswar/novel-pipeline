@@ -1,4 +1,4 @@
-# Audit — the-last-frame (chapters 01–10, 31,477 words)
+# Audit — the-last-frame (chapters 01–10, 31,506 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -89,6 +89,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 6× “five and six”
 - 6× “had an answer”
 - 6× “at the far end”
+- 6× “last saturday in february”
 - 5× “the front door”
 - 5× “the steel door”
 - 5× “let go of”
@@ -109,14 +110,13 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 5× “linda's name on”
 - 5× “the first night”
 - 5× “at a quarter past”
-- 5× “last saturday in february”
 - 5× “at the scorer's table”
 - 5× “the end of the counter”
+- 5× “the last saturday in february”
 - 4× “through the glass”
 - 4× “on march first”
 - 4× “the inner door”
 - 4× “lane six and”
-- 4× “she had known”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
@@ -145,7 +145,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 07 | 3,193 | 17.0 | 12.3 | 14% | 0.0 | 0.3 | 0.3 | 4 | openers |
 | 08 | 3,227 | 16.7 | 11.1 | 16% | 0.0 | 0.3 | 0.0 | 3 | short |
 | 09 | 3,115 | 14.2 | 10.0 | 16% | 0.0 | 0.3 | 0.0 | 3 | short |
-| 10 | 3,495 | 14.9 | 10.4 | 19% | 0.0 | 0.3 | 0.0 | 3 | short |
+| 10 | 3,524 | 15.1 | 10.5 | 19% | 0.0 | 0.3 | 0.0 | 3 | short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 

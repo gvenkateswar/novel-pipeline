@@ -78,3 +78,6 @@ Draft edited: draft-dialogue.md (3,558 by wc -w), Oct 30. final.md: 3,508 by wc 
 
 ## Audit pass (orchestrator), Oct 30
 Audit through Ch 10: "Both words" counted twice (the heading and the last line; the cap is one for prose: accepted) and the standing Ch 03 regex hit. The carton's lid "cut open" per the voice editor's note. Final 3,508 words.
+
+## Cold-read triage (orchestrator, in place), Oct 30
+Cold reader 4/10 (`reader-notes.md`; scenes 3 / 4 / 3 / 2 / 3; the bank scene at 2: "decided offstage over Judy's phone; Ellen does nothing in the scene but wait"). Line items in place: Ray's no-paragraph cut to two sentences; the committee calls once at the half hour with a question Ellen answers from the glass ("The last Saturday in February. Linda's."), so the vote has a voice and Ellen an act inside the scene. Left as designed: the callbacks (the chapter pays the book's plants), the offstage vote (the bank's discretion is the point), Kate's price paid in the epilogue. The reader's notes on the whole book (the most likely put-down point is the opening of Ch 06; the money never a ticking clock; Ellen's marriage and Kate's father never said) go to the manuscript-stage revision brief.
