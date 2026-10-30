@@ -132,7 +132,7 @@ He stood at the transom with his back to the stern chain. She could hear the lin
 
 The chain fell away behind him. He went over the low transom into the black harbor with the lighter still in his fist, and the cold took the air out of him in a gasp she heard from the deck. Then he was under, then up, gasping again. The harbor slapped, once, hard.
 
-She had the ring buoy out of its bracket on the port bulwark before he came up the second time, the ice cracking off the bracket as it came free. She threw it at the sound. He had rowed in like an island boy. He'd grab. The line paid out through her hands and burned.
+She had the ring buoy out of its bracket on the port bulwark before he came up the second time, the ice cracking off the bracket as it came free. She threw it at the sound. He had rowed in like an island boy, and she had never known an island boy who could swim. He'd grab. The line paid out through her hands and burned.
 
 Behind her Dane had come up on one arm.
 
@@ -144,9 +144,9 @@ The line came taut in her hands exactly where she had meant it to, with a man ha
 
 The generator roared out back of Marr's. Tess held a dish towel of snow to her mouth and squared cartons in the cigarette rack with her free hand.
 
-"Whitcomb came through that door at a run," Tess said. "Three tries to put Arsenault on the floor. Three."
+"Whitcomb came through that door at a run," Tess said. "Three tries to put Arsenault on the floor. Three. And Lyle down there on my floor with a number for me to ring in Portland. Tell them she's still on her mooring, he says. Tell them I'm good for it."
 
-Through the front window Arsenault sat in Russ's truck under the dome light, his hands behind him.
+Through the front window Arsenault sat in Russ's truck under the dome light, his hands behind him, his face turned to the dragger's deck lights.
 
 Ned sat on the stool in the clean collar from supper, the store's set on the shelf behind his head. Beth laid her raw palms on the counter's cold wood.
 

@@ -264,51 +264,53 @@ Beth got up. She took the red book out of the zip pocket of her coat on the nail
 
 He tipped it to the drum's glow and read it. Then he gave it back, and she put it away.
 
-When she turned round he was standing, and she tore the box open on the bench in the coal light.
+When she turned round he was standing. He took the box from her and set one square of foil on the blanket at the head of the cot, where they could both see it.
 
-He kissed her, his hands cold from the boot. She took him by the wrists and brought them up under her shirt to warm them.
+He kissed her, his hands cold from the boot.
 
-"Slower than Monday," she said. "Can you?"
+"Slower than Monday," he said.
 
-He didn't answer. He undid her shirt from the top, his hard fingertips catching at every button. At the fourth she lost patience and did the rest herself, and her bra after.
+"Can you?"
 
-The drum's heat lay along one side of her. The cove's cold lay in the planks on the other.
+He didn't answer. He undid her shirt from the top, his hard fingertips catching at every button. At the fourth she reached to hurry him, and he shook his head and went on at his own pace, and did her bra after.
 
-She pulled his shirt off over his head. She put her mouth to the warm side of him.
+He pulled his shirt off over his head and laid her down on the cold canvas.
 
-They got down on the cot together. His hand came up under her breast, hard-palmed, careful, and brushed the nipple once and away.
+His hand came up under her breast, hard-palmed, careful, and brushed the nipple once and away. She waited. He did it again, slower, then put his mouth there.
 
-"Again," she said.
-
-He did it again. Then his hand went down her arm to hers and turned it palm up, to the white line across it.
+Then his hand went down her arm to hers and turned it palm up, to the white line across it.
 
 "Hawser," she said. "Twenty-three."
 
 He put his mouth to it.
 
-Over his shoulder the oak bar lay across the door. Her eyes stayed on it. She thought of the forepeak, and the water going down the rung. Then she brought her eyes back to his face.
+Over his shoulder the oak bar lay across the door. She thought of the forepeak, and the water going down the rung. He turned her face back to him with two fingers.
 
-"Beth," he said. His hand was at the button of her jeans. "Here?"
+"Beth," he said. His hand was at the button of her jeans. "Yes?"
 
-She lifted her hips off the canvas and got the jeans down herself, and his after, buckle and all.
+"Yes."
+
+He got her jeans down himself, one leg and then the other, and his own after, buckle and all.
 
 His jacket hung on the nail at the edge of the light, the notebook square in its inside pocket. At first light a boat would come to the town float for her.
 
-He was hard against her thigh. She reached down and found him, and he went still.
+He kissed the inside of her knee, and higher, and stopped.
 
-"Now," she said. "Yes. Now."
+"Are you going to make me ask?" she said.
 
-He got the condom on with his hands not quite steady. Then he was inside her, slow. She put her heel to the back of his thigh and held him there.
+He shook his head against her thigh. Then his mouth was on her, slow, and he kept it slow.
 
-"Like that," she said. "Stay like that."
+"Dane."
 
-"Beth."
+He didn't hurry for that either. She was wet against his mouth, and her hips came up off the canvas, and he took his time until she had a fist in the blanket and heard herself say please.
 
-He moved, slow, and she moved with him. The drum ticked down. His rough palm went under her shoulder blade and held her up off the cold canvas. His breath was at her ear.
+He came up the cot to her and reached for the foil on the blanket. He got the condom on with his hands not quite steady.
 
-"Harder," she said.
+Then he was inside her, slow, a little and then all of him, and he stopped there with his forehead down on hers.
 
-He gave her that.
+"Beth," he said. Only that.
+
+He moved, slow, and kept it slow when she pushed up for more.
 
 She stopped listening for the door.
 
@@ -316,15 +318,15 @@ The cot's legs walked on the planks.
 
 "Beth," he said again, and it was a question.
 
-"Yes," she said. "Keep on."
+"Yes," she said. "Yes."
 
 She came with her face in his shoulder and her heel dug into him, a long shaking that went down her thighs to her feet. The sound she made went nowhere past the planks.
 
-He came a little after, quiet, with her name once against her temple and his hand shut on hers over the scar.
+He came a little after, quiet, his hand shut on hers over the scar.
 
-After, she lay along him under her coat with the drum's heat on her shoulders.
+"I had a plan for that," he said against her temple, when he could talk. "It held."
 
-"Before six," she said. "Out of here and along under the bank on the ebb. The ledges go dry behind it, all but the last one, and that one's still deep in the dark. Up the lane behind the bait shed. Then the ramp head, and we look at the float."
+"Mine's better," she said, and pulled her coat over the two of them. "Before six. Out of here and along under the bank on the ebb. The ledges go dry behind it, all but the last one, and that one's still deep in the dark. Up the lane behind the bait shed. Then the ramp head, and we look at the float."
 
 "How do you know the float?"
 
