@@ -45,3 +45,20 @@
 | s3 | 550 | 500 (protective) | about 445 (v2's lead set s3 at 450; under the protective floor, unchanged from the winner) |
 | s4 | 1,100 (v2 lead 1,300) | 950 | about 1,263 |
 | **Total** | 3,000 | band 2,760–3,240 | **about 3,008** (about 3,023 with heading and scene breaks) |
+
+## Dialogue doctor (draft-revised.md → draft-dialogue.md), Oct 30
+
+## Dialogue log
+*Read: `draft-revised.md` (3,034 words). Est. after pass: about 2,930 words (s1 about 480, s2 about 820, s3 about 450, s4 about 1,170); orchestrator to confirm with `wc -w` on the prose above this line. Every kept line from the brief is untouched, word for word.*
+- s1: Kate's news is now in her own clipped shape ("Charge nurse. Signed Tuesday."). That puts it in fragments, apart from Ellen's full stops, and takes out the Ray-style *and*.
+- s1: exchange added: Kate: "I can hear paper." / Ellen: "An invoice." It's Kate's clinical read on her mother and Ellen's literal evasion, and it gives Kate a failed opening before her sideways "Before." Ellen's mind then goes to lane seven.
+- s2: cut the narrated set-up ("Earlier tonight he had told her… in her format"), which explained the invoice joke before it landed.
+- s2: Ray line added at the count: "Lane seven took me right up to the last minute, and the last minute's on your bill." It's his tease, priced, with the weight last. It makes the one texture line for the sweep billed to twelve, so "Is this on the invoice?" / "Not since midnight." lands as a callback. Lane named per World rule 7, and no "she" for the machine near Ellen.
+- s3: no change. The double act, the comebacks and the button already carry the tactics.
+- s4: cut the recap that opened the scene (the staff party and the store to Danny). "And let him" plus "Tell your thumb" carry it.
+- s4: Danny's silence is now a move. He could take the drawer into the back, and he keeps counting where he is.
+- s4: cut the recap of "I don't ask" and the radio line from the reason-for-here interior. "She had asked, and he was holding it" stays.
+- s4: cut the derby lecture paragraph (the Sportsmen's Club, the bob-houses). Her line carries the one clause the beat asks for. This was the main "meeting" drag between her pitch sentences.
+- s4: the recap of the front-door offer is replaced by her tactic. She comes in over his "put by—" before he can name a figure, so no sum enters the room and he isn't refused on a number.
+- Lines added: 3 (Kate 1, Ellen 1, Ray 1). Dialogue lines cut: 0. Narration sentences cut: 6 (all restating what the reader has seen, or explaining a joke).
+- Tag-strip test: pass. Kate is in fragments and clinical. Ellen uses full sentences and literal answers, and gets formal under fear. Ray's lines are short and priced in the refusal, with *and*-chains and the weight last elsewhere. Denise talks in run-ons that answer her own questions. Danny speaks plainly, in two lines. Watch: Kate sounds like Ellen on purpose in the nights line, and the narration flags it.
