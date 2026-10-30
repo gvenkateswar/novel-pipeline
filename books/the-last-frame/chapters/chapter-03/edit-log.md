@@ -49,3 +49,9 @@ Source: `reviews/revision-brief.md` §4. final.md edited in place. `wc -w`: 3,25
 - ["level"] Four uses cut: S1 "at the level she used on the PA" → "in the voice she used on the PA"; S1 "Her voice was level and kind and a little bored" → "Her voice was kind and a little bored"; S3 "at the same level" → "in the same voice".
 - ["She said nothing" variants] S1 "There was nothing to put after it, and she put nothing." cut (the "You did," carries it). S2 Denise "said nothing at all, which was rarer than the money" → "for once she let the last word stand" (also removes a second "which was…" gloss on silence next to Hollis's). S3 "She had the sentence ready, and she did not say it again." cut: it restated the *No readback* paragraph before it. Kept: Hollis's "said nothing, which from Hollis was a measurement" and "Neither of them answered."
 - [Lane numbers] "the old couple on the settee at lanes one and two."
+
+## Revision round 1 (final.md → draft-r1.md), Oct 30
+
+## Change list (draft-r1, from final.md)
+
+- s3, M16: "They retired me by statute, with a sheet cake. That isn't one of them." → "They retired me by statute at fifty-six, with a sheet cake, two years ago. That isn't one of them." (the brief's wording; agrees with Ch 01's "fifty-eight and two years retired by statute"). No other change.

@@ -120,3 +120,68 @@ Cold reader 4/10 (`reader-notes.md`): the first three scenes read as three docum
 
 ## Cold-read triage, round 3 (orchestrator, in place), Oct 30
 Second cold read 4/10 (`reader-notes-r2.md`; scene average 2.8). Line items in place: Ray says why asking Arlene differs from tearing the paper up ("I can't tear that paper up. It's yours as much as mine. I can ask."); the untagged "Tell me what happens…" tagged; "angry at his anger" recast; "He put the gun" → "Danny put the gun"; the Lucien overcoat paragraph cut from s2 (a rerun of Ch 04; the Ch 08 s3 plant stands on Ch 04); Hollis's twenty-eight years named as Fish and Game; one plain sentence after Judy's "For a winter that clears, it is." so the stakes read for a listener. Three fix rounds reached on Ch 06 (tournament, targeted pass, line items); what still fails is logged in `docs/calibration.md` and the brief, and the pipeline moves to Ch 07.
+
+## Revision round 1 (final.md → draft-r1.md), Oct 30
+
+## Change list (prose writer, revision brief v3, round 1; source `final.md`, 3,055 words)
+
+**Estimated word counts (hand count; orchestrator to confirm with `wc -w`):**
+
+| Scene | Was | Target | Now (est.) |
+|---|---|---|---|
+| s1 (Arlene's kitchen + the store, merged) | 657 + 355 = 1,012 | ~700 | ~725 |
+| s2 (was s3: the release on Ellen's counter) | 666 | 450 | ~465 |
+| s3 (was s4: the bob-house) | 714 | 550 | ~560 |
+| s4 (was s5: Judy's tip-ups) | ~620 | stays | ~620 (one word changed) |
+| **Chapter** | 3,055 | — | **~2,370** |
+
+**Scene ended mid-action (rule 5 / S12): s1, the merged kitchen-and-store scene.** It now stops on Danny putting the form back in the drawer, shutting it with the heel of his hand and sliding the store's papers back to his father. The landed lines that used to close it are cut: "Get all the way out of her paper and I'll sign this one." (the put-down line), "The Bench had heard every word; hearing was what the coffee was for.", and the plow-jacket exit. s3 (the bob-house) still ends on Ray going out after her, also mid-motion. s4 keeps its one button, "She had friends."
+
+**S1, merged s1 + s2:**
+- New opening on Arlene's packed good hat in its round box marked for The Pines (plants the hat for Ch 08 s4 and Ch 09 s5). The clock comes in as one clause after it. Nothing opens on the paper.
+- Cut "It's a release. One clause, and the three of us sign it…" and its explanation. The paper's meaning is now one line of Arlene's own: "That takes you off the back of her loan, and leaves me holding her note with nobody to sell it to." The beat it carried now sits on her finger running down the page and stopping where her name would go (rule 3 pair).
+- Ray's lawyer line shortened to "My lawyer in Laconia drew it Monday. Have your own read it before you sign anything." The Ch 08 plant and the drafter both stay on the page.
+- "You had a lawyer draw it before you asked me." / "Seemed a poor way to ask, with nothing in my hand." moved to s2, as Ellen's line, per S2 (see Commitments).
+- Cut "I can't tear that paper up. It's yours as much as mine. I can ask." Ray's ask runs straight into "tell it plain".
+- Cut the ham-smell sentence. The ham arrives at the end on its breath of cloves.
+- "Arlene didn't argue it. She had waited since the day she sold…" became "Arlene let that go by. She had been keeping the next thing since the day she sold."
+- Ray's interior reduced to two sentences, the second short: "He had kept a museum himself six years now, with a padlock on it." This also brings in her lights already on (beat 5).
+- The store, in six lines with no scene break: the bridge (by eight, cloves on his breath, the Bench), the store's papers, Danny's capped pen, the drawer under the register, the December form with Danny's name on the last line, "sat in that drawer under the count slips since December and gone nowhere" (unsent; M2), the kept line word for word, Danny's "I'd like it to mean me" (Ch 10 plant), and the ending action.
+- Cut from the store: the ice-cleat carton, "You're late", the price gun, "different invoices", "I signed my half of getting out this morning", "You're allowed to want something that isn't on a shelf", "Grandpa put this store up once, in 'seventy-four…" (the 1974 mortgage was already at three mentions and spent), "Get all the way out of her paper…", the Bench's coda and the plow-jacket customer.
+- Danny's talk is in the store's own words now: the drawer, the count slips, "put my name to", "Son on that sign".
+
+**S2 (old s3), the release on Ellen's counter:**
+- Added the key: Ray lets himself in with the front key she laid on his counter in December. This keeps that key on his ring for Ch 07 s3.
+- Cut every line that restates what the release does or what it moves: "So that when I tell you no, it's only a no…", "Danny won't take the store while I'm standing behind you. And Arlene signs last. After you.", "Arlene has seen it." / "This morning. She handed it back to me and fed me ham."
+- Added Ellen's "You had a lawyer draw it before you asked me." and Ray's "Seemed a poor way to ask, with nothing in my hand." right after she reads it.
+- **M10:** "a miss is a bank sale" became "a miss is Arlene's auction."
+- Kept the pencils point down into the cigar box, the bulbs (shortened), the refusal speech, the buyback offered and closed, "You're right." / "So are you.", "A winter I was winning.", the hands on the release (trimmed by about a third; the draft, the knuckle, "It was warm." all kept), "It'll keep." and the ending (the release left where it lies; the office drawer opens and shuts).
+- Cut the Legion man's last ball down the maple, the Legion man changing his shoes, and "I won't keep you."
+
+**S3 (old s4), the bob-house:**
+- Judy's derby business is now two sentences, both Hollis's: the club pays for a warm room Sunday for the kids' weigh-in and the raffle, it gets the families off his ice, "That's my yes, and you'll want Judy's." The venue fee is kept in words, with no figure.
+- Cut the license check ("Got a license?" / "I bought it yesterday."), the cut-first item in the beats.
+- Hollis's Fish and Game speech is down to one line in his own past-tense shape: "Twenty-eight years with Fish and Game, I never once had to ask a man a third time." The cap business is cut.
+- The Wolfeboro story is trimmed and "Sixty-some of them" is cut.
+- Also cut: "The lake, Hollis meant, saved her temper for March…", "Nobody said anything. The heater hissed.", the skinned-over holes, "teams of four", and "She didn't look at Ray to see whether he'd stop her."
+- Hollis's hand added twice: he squares his own cards on the bucket, and he takes the fish in one hand and turns it over.
+- Kept: "That's me ahead, Hollis", the cribbage and "Twice.", "I had my blade up, Ray.", the four hours, "Ten inches of black ice…", page two, "Stand by", the soaked gloves, the Linda's-name speech word for word, and Ellen out the orange door with Ray after her.
+
+**S4 (old s5), Judy's tip-ups:**
+- **M11:** "The commitment says subject to committee." became "The term sheet says subject to committee."
+- Nothing else changed. "I read that as a formality." / "For a winter that clears, it is." and "She had friends." are kept word for word.
+
+**Checks:** no digits; no new numbers ("Sixty-some" and "'seventy-four" are gone; nothing added). No dollar figure. "Raymond" 2, "Voyons donc" 1, "eight days" 1. Personified lake 0 (that line is cut). Trade similes 2: the fuel-oil bill and the balance sheet. Ellen's ATC phrases: "Stand by" 1. No contrast constructions added. Ray's POV throughout.
+
+**Commitments (for the continuity checker in commitments mode):**
+1. **"You had a lawyer draw it before you asked me." is now Ellen's line (s2), and "Seemed a poor way to ask" is Ray's answer to her.** Arlene no longer says either. If the Ch 08 s4 rewrite quotes or echoes either line as Arlene's, it needs to change.
+2. **Arlene's new line (s1):** "That takes you off the back of her loan, and leaves me holding her note with nobody to sell it to." It fits M10 (Arlene holds the note; a miss is her auction) and completion question 10.
+3. **The December form:** it lies in Danny's drawer under the count slips, unsent ("gone nowhere"), and Danny put it back there himself. Ch 08 s4 (M2) has Ray bring it to Arlene's table, so Ray has to get it out of Danny's drawer between Ch 07 and Ch 08 s4. Ellen does not see it in Ch 06.
+4. **The store's papers:** unsigned, slid back across the store counter to Ray (Ch 10 s1/s4 plant). Danny never says "Get all the way out of her paper and I'll sign this one." Any later echo of that line, or of "different invoices", "You're allowed to want something that isn't on a shelf" or "Grandpa put this store up once", now has no source in Ch 06.
+5. **Who knows what changes:**
+   - Ellen is no longer told in Ch 06 that Danny won't take the store while Ray stands behind her, that Arlene has seen the release, or that Arlene signs last.
+   - Ray never tells Danny he signed his half at Arlene's. Danny only sees the papers.
+   - If Ch 07–10 have Ellen or Danny act on those facts, they need a source.
+6. **Ellen's fishing license is off the page** (the check was cut). Any later reference to her license needs its own source.
+7. **Ray let himself in at close with her front key** (the Dec 3 key). This keeps the key on his ring until Ch 07 s3, where he works it off.
+8. **The Open's "teams of four" is cut** from the pitch. If the Ch 07 entries or Ch 09 rely on hearing the team size first in Ch 06, it needs a source elsewhere (Ch 09 s4 has "thirty teams").

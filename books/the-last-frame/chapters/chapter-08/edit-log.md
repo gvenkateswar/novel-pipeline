@@ -144,3 +144,76 @@ Cold reader 4/10 (`reader-notes.md`; scenes 3 / 4 / 4 / 2; the signing scene the
 ## Cold-read triage, round 3 (orchestrator, in place), Oct 30
 Second cold read 4/10 (`reader-notes-r2.md`; s4 at 2: the safer option of keeping the backup till March first never ruled out; "Today, or not at all" to an eighty-four-year-old; the loan a stranger). Line items in place: Ellen names the safer option and closes it herself (on Linda's Saturday he would still be the man who buys if she misses, and every entry he took at her counter would be Normie's to talk about; she wants him running Linda's day beside her); "March first is too late for both" cut; Ray's loan dated (sent through the Thursday after the key) so Ch 02's unmade call stands; Ellen reacts to the hidden loan with one look; her push on Arlene given its reason and "I know what I'm asking" in place of "or not at all"; Hollis's "She's had my yes" made unambiguous. Three fix rounds reached on Ch 08 (tournament, targeted pass, line items); what still fails is logged in `docs/calibration.md` and the brief, and the pipeline moves to Ch 09.
 Orchestrator trims to hold the band after round 3: the s1 opener (the lit house, "from away"), s3's room list, the kitchen's coat and the signing's stage business, the stair's "with the pharmacy shut"; s3 held at its floor. Final 3,240 words by `wc -w` including the heading.
+
+## Revision round 1 (final.md → draft-r1.md), Oct 30
+
+## Change list (prose-writer, revision brief v3, internal round 1; source: `chapters/chapter-08/final.md`)
+
+**Scene 1**
+- Rule 5 / S12: **s1 is the scene ended mid-action.** Cut the landed closing line ("Judy, I'll call you back.") and stopped on the action just before it: the receiver goes down with Judy still on the line while Ray has the inner door open. One word shorter than before. s2 ("I let it cost you.") and s4 were not candidates, and s3 already ends in motion on the ball.
+
+**Scene 2**
+- Untouched. "I let it cost you." is kept word for word.
+
+**Scene 3**
+- Lucien (should-fix): the Ch 04 plant is paid in one clause of Ray's narration, inside the Verna-ruling paragraph: "…and he'd wait his turn on a settee, which his father never managed, behind the store counter to the week he died." It goes in Ray's narration because Danny isn't in s3 and a spoken line to Hollis or the room would have broken the exchange. "Linda's day would go by with him on a settee, waiting his turn like anybody" became the new sentence, so the scene is about three words longer. Nothing else in s3 changed.
+
+**Scene 4** (S4, M2, M5, M10)
+- S4: cut from 1,014 to about 700 words.
+  - Kept: the office-drawer opening, now one sentence carrying the release, the January signature and Presidents' Day. Ellen's whole "beside me" speech, word for word. "I gave you her name…" / "You gave it angry. I need you to choose it." Statement 2, word for word. Arlene's drawer offer. "Today, Arlene. I know what I'm asking." Arlene's condo-man line. "I said I'd sign when you did, dear…" "Not yet." The stair ending, word for word.
+  - Cut:
+    - "I took her name off an angry word…"
+    - Ray's verbal choosing ("Then I'll choose it, on a Monday… I'd like both."). The tear now answers "I need you to choose it."
+    - The call to Arlene.
+    - The drive past Gagnon & Son.
+    - The radiator.
+    - The glasses polish.
+    - Arlene's chin.
+    - The spoken vow ("If you miss, I'm not at the bank's sale either… That's cheaper.").
+    - "You ought to call Kate" and Ellen's answer.
+    - "Then he's behind me till March with his hand on your drawer…" (a second push, and a line explaining what the release does).
+    - "Ray added nothing."
+    - "Ellen found something to study on the radiator."
+    - The drawer contents.
+  - Ellen pushes once.
+  - The signing is three sentences.
+  - Arlene's beats carry the scene: the good hat on the oilcloth, her drawer, her line to Ray, and the hat set on the last box to clear room for the paper.
+- M2: the confession is rewritten and moved to Arlene's table, in front of Ellen and Arlene:
+  - Danny signed the credit-union form in December for buying on her yes.
+  - The Thursday after the key, Ray filled it in for her no.
+  - Danny put it in the drawer under the register and left it there.
+  - "I'd have let him send it."
+  - Ray then lays the form beside the release and tears it. The copies make the first pull only start it, so the cost is physical. That is the scene's turn.
+  - Nothing about a loan "let go" by phone remains.
+  - On the order of events: Ch 02 s4 already shows Danny's signature on the form at 4:58 on Dec 3. So the line has Danny signing first and Ray filling it in on the Thursday after, which fits both Ch 02 and Ch 06.
+- M5: the K order paragraph is cut entirely. The K is not mentioned anywhere in Ch 08.
+- M10: "it's a bank sale" became "it's Arlene's auction." Ellen says it to Ray and then turns to Arlene for the rest, so the "you" in her speech stays Arlene's. Ray's line to Arlene became "An auction with me in it pays you more."
+- Ellen's look ("the look she gave a number that had come out other than she expected") moves from the counter to the moment after the confession, so the page shows when she learns about the form.
+- No digits and no new numbers. "December" and "Thursday" are the only time words added to s4.
+
+**Estimated word counts** (hand count; the orchestrator's `wc -w` governs)
+| Scene | Before | After | Target |
+|---|---|---|---|
+| s1 | ~680 | ~679 | hold |
+| s2 | ~643 | ~643 | untouched |
+| s3 | ~903 | ~906 | hold (+3, Lucien clause) |
+| s4 | 1,014 | ~700 | 650 |
+| Chapter | 3,240 | ~2,928 | shrink |
+
+s4 is about 50 words over its 650 target, inside the 8% band. The remaining weight is Ellen's speech, which must stay as written (about 117 words), and the kept stair ending (about 56).
+
+**Commitments** (for the continuity checker, commitments mode)
+1. **The credit-union form.**
+   - Danny signed it in December, before Dec 3, for buying on Ellen's yes.
+   - Ray filled it in for her no on Thu Dec 10.
+   - Danny kept it unsent in the drawer under the register. Ray took it from there before ten on Mon Feb 15, off the page.
+   - Ray tore it at Arlene's table on Feb 15, in front of Ellen and Arlene. Ellen learns all of this then.
+   - No loan was ever held, so none is released by phone. Ch 09 and Ch 10 must not mention a loan held since December or one let go on Feb 16.
+   - Ray has no financing for any outcome, Arlene's auction included.
+2. **Danny has not been told the form is torn.** Ch 10 s1, or Danny at six on Feb 16, can pay it. The log's "Danny's envelope beside the signed release at six on Feb 16" stands.
+3. **The vow is now acted, not spoken.** It is the torn form plus "That costs you, Arlene. An auction with me in it pays you more." / "I'll take the condo man's money…" Later references to the vow should point to the torn form or "the auction", never "the bank's sale".
+4. **The Kate exchange is cut** ("You ought to call Kate" / "I'll tell her, after"). Ch 09 s6's call works without it. No later chapter may echo "I'll tell her, after."
+5. **Arlene's good hat.** It is on her table on Feb 15, and she sets it on the last box before she signs. This fits Ch 09 s5 (the hat on the last box). Its description (gray felt, pin in the band) is left to Ch 09.
+6. **Lines cut from Ch 08.** "I'd like both" / "Linda's name on your Open, and my name off your paper" and "on a Monday, with nobody in the room" are gone. Check Ch 09 and Ch 10 for any echo of them.
+7. **Bible facts now off the page.** Ellen's phone call to Arlene and the drive past Gagnon & Son (the store open on Presidents' Day, Danny alone) are cut. Treat both as off-page fact only.
+8. **Lucien.** His behind-the-counter-to-the-week-he-died plant (Ch 04) is paid in Ch 08 s3 in Ray's narration ("his father"). The brief asks the author to confirm the fact.

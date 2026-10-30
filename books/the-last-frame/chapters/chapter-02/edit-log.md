@@ -115,3 +115,10 @@ Source: `reviews/revision-brief.md` §4, `reviews/commitments-round1.md` Issue 8
 - ["hands flat"] S1 "it lay flat beside the phone" → "it lay beside the phone". S4 "His left hand stayed flat on the form" left (the minute's one fixed hand).
 - [Lane numbers] S3 "over the seven-and-eight pair" → "over lanes seven and eight"; "the lights came on over lane seven, and she stood on the approach".
 - [Ray's motor comparisons] Counted: the pinsetter-from-the-lot line and "bright as a new washer" in S4, plus the chair dragged upstairs (a sound, not a comparison). Two or fewer; no cut.
+
+## Revision round 1 (final.md → draft-r1.md), Oct 30
+
+## Change list (draft-r1, from final.md)
+
+- s2, M15: Ray's "Nobody's cleared thirty in this building since Arlene's Normand." → "…since Arlene's Normand, and she's been a widow a long while now." (Ray's and-chain, weight on the last word; no figure.) Normand is now Arlene's late husband before Normie's next line.
+- Rule 6 (Hollis/Dale): no change possible. Neither Hollis nor Dale appears or speaks in Ch 02. The only chapter in 01–03 where both speak is Ch 03 s1, which this round locks. Flagged to the orchestrator.

@@ -110,3 +110,11 @@ No digits in the prose. No `tools/audit.py` run, per instruction.
 
 ## Cold-read triage (orchestrator, in place on final.md), Oct 30
 Cold reader 5/10 (`reader-notes.md`). Line items fixed in place: s1 dated on the page ("a call from Kate on New Year's Eve was news"); "Two," tagged for the ear; Kate's "Charge nurse, the whole quarter"; s3 "the twenty-second of December, with Judy on the phone" (the reader took it for January 22); s4 "the ice-fishing derby" (the derby had no anchor before this chapter); "the far register" cut from five to two and "the sack of bulbs" from seven to none (the sack stays, named plainly); "Ray had said it first" → "Now Ray had said it himself" (Normie said it first, Ch 04); the bank rule said plainer for a listener ("The bank only counts money that has sat in my name since before I signed for the building. Yours would be new money."). Left as designed: the kitchen chair (Ch 08 s3 plant), the kiss paragraph, the two button endings (s2 and s3; the beats name s3 as the one button, s2's question is the scene's turn). Structural notes forwarded to the Ch 06 beats in the continuity log.
+
+## Revision round 1 (final.md → draft-r1.md), Oct 30
+
+## Change list (draft-r1, from final.md)
+
+- s1, M19: Kate's "I took nights through March." → "I took nights through March, likely past it." Squares with the epilogue's "taking days" in April.
+- s1, S11: cut "Three items, with no space left in them for a question: the decision, the date, done." (seventeen words, the scene's one stretch of list-narration; with it goes about a third of Ellen's interior commentary on the call). The beat it carried stays in the next sentence ("Ellen had briefed people that way her whole working life, and she knew whose kitchen table Kate had learned it at."), which now points straight back at Kate's three sentences, and it lands on Ellen's action, "Understood." Every line of Kate's and the scene's ending are unchanged.
+- Nothing else in Ch 05 changed. "Honey." does not occur in Ch 05; nothing to keep or touch.

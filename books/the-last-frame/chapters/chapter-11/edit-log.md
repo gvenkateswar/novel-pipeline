@@ -73,3 +73,11 @@ Word count (prose only, `wc -w`, heading and break marks included as in the 862 
 - "Back beside Ray" → "Beside Ray again" (the up/down blocking run).
 - Not changed (structural, logged for the revision brief): the office opens on a recap of the shift night (sixth telling); both scenes end on a turned line; "she did not know how many" is the fourth lost-count image; "Nice arc. Wrong lane." reads as a rerun.
 - Band trims after triage: settee named plainly; blocking sentences shortened; "found nothing to do" added so the office holds its floor.
+
+## Revision round 1 (final.md → draft-r1.md), Oct 30
+
+## Change list (draft-r1, from final.md)
+
+- s1 (office scene), dash clock: "the green numbers on the dash clock" → "the amber numbers on the dash clock" (Ellen's car; the truck's dash stays green in Ch 05 and Ch 09). This is the only change in the office scene, made on the brief's should-fix instruction; no line of dialogue there was touched.
+- s2: Denise's "You don't get to bet on your own flight," → "You don't get to bet on your own man," (Denise's word; "honey" stays at its one use in s1).
+- Nothing else in the epilogue changed.

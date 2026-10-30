@@ -117,3 +117,46 @@ Source: `reader-notes.md` sections 2-5 and the listener pass; the orchestrator's
 **Added life (all inside the scenes' facts):** Ellen's "Is that a rule? Or only you?"; the clipboard glance.
 
 **Flagged for writer / not done:** (a) The reader's boredom items (planning paragraph, line 5; the readback ATC wrapper; the long Bench interior; the money clock having no tick, "eight hundred and change") and the cheap-forgiveness note are structural or beat-level and not touched in a triage pass. (b) Ellen billing herself without naming a figure: no dollar figure is allowed on this page, so a number cannot be added here; if wanted, Ch 05/08 should have her price it. (c) New fact still awaiting author confirmation: Lucien behind the counter the week he died. (d) Backup-contract mechanics stated here (the paper lets Arlene hold the note; without it her place at The Pines goes to the next name) must match Ch 06/08 wording.
+
+## Revision round 1 (final.md → draft-r1.md), Oct 30
+
+## Change list (draft-r1, from `final.md`, under `reviews/revision-brief-v3.md`)
+
+**POV note for the orchestrator:** the task said "Ellen's POV." `final.md`, the beat sheet and the Ch 04 log entry all put this chapter in Ray's POV. Ray's POV is kept; nothing was converted.
+
+**S5 (s1, 874 → about 675; target 650):**
+- Count said once: "This one took me thirty hours and nineteen minutes." "From the pit to this floor" is cut. "Eleven last night is inside that… I am counting that too." is cut whole. **Pair:** she sets the clipboard on the ball return and takes her thumb off the clip.
+- Cut "She would be. She'd have it written down somewhere by now, to the minute, with a line ruled under the total." **Pair:** "She looked at the clipboard, which he'd have bet she knew by heart."
+- Cut "It wasn't. With her there was always an item after." The clipboard action above carries the beat.
+- Cut "She had the voice she'd used on the PA her first night, and in the snowed-in building Thursday night." The thumb on the clip stays.
+- "While it was the two of us" is now two sentences: the glass block and Denise in the door are cut, and Hollis's light carries it.
+- The Friday memory is cut to one sentence. The box cutter, "cutting nothing" and "hearing his father vouch" stay.
+- The drive-out deliberation is folded into one sentence (the lesson; "without either of them bringing anything up").
+- Cut the boiler line. Cut "Nine lanes lay dark." (the opening's one lit lane and "a whole dark lane beside her" carry it). Cut "forty feet": "He had a key to the front door now, and the truck was in the lot."
+- Kept word for word: the pit sentence; "Read it back."; the readback; "Correct… and I let it go."; "You knew… Under the sign?"; "Yes."; "It's half."; the kiss exchange; "Then hear mine… What I told them stays."; the closing question.
+
+**M9 (s1–s2):**
+- "One was the weight most people took. The other was the lightest on the rack" became "One was worn smooth, like most of them. The other he had picked for her… by feel, a ball scuffed dull enough that a cold bare hand would hold it."
+- "put the heavier ball back… He kept the light one" became "put the smooth ball back on the rack, in its slot among the others… He kept hers."
+- "He weighed the small ball in his hands" became "He tried the scuffed face of her ball with his thumb."
+- "turned the small ball" became "turned her ball."
+- s2: "the small ball" became "the scuffed ball." No weight language is left in s1 or s2.
+
+**S6 (s3, 447 → about 165; target 180):** one beat kept, **the crooked pin in lane four's elevator.**
+- Cut: the pit's warmth and the ten motors; lane eight's birthday and slow return; the wilco exchange; Denise's house-shoe call and Ellen's answer; Ray turning the radio up; "Snack Bar, two baskets for lane six."
+- "Kettle Maintenance" tape kept, in one clause.
+- Kept: "say intentions" / "Intentions are to quit and go home." / "Denied. Lane four."; the lane-draw question and "I drew all ten at Thanksgiving"; the pencil he can't hear and his answer going onto her sheet.
+
+**S12 / rule 5: scene ended mid-action, s3.** The landed closing clause ("and the next rack came down on the deck with a crash that put the radio under") is cut. The scene now stops on "He worked the crooked pin loose, and the elevator carried it up." s2's "Is that a rule? Or only you?" and s5's "Ms. Daly. Net thirty." are unchanged.
+
+**s4, s5:** unchanged.
+
+**Commitments (for the continuity checker in commitments mode):**
+- **New object:** the house ball Ray picks for Ellen is chosen by wear and grip ("scuffed dull enough that a cold bare hand would hold it"). Ch 07 s1 (M9) should agree with this, not with weight.
+- **Plants removed from the page:**
+  - "I have not asked you for anything yet": was tagged → Ch 05 s4. Ch 05's text should not quote it back.
+  - Denise's house-shoe report; Ray turning the radio up (minor longing); lane eight's birthday and slow return.
+  - "Eleven last night" / Denise's eleven-o'clock question to Ellen, and "forty feet". All of these come out of the Ch 04 numbers ledger.
+- **Ledger:** "thirty hours and nineteen minutes" now appears once in the book.
+
+**Estimated word counts (counted by hand):** s1 about 675 (target 650) · s2 about 380 (unchanged) · s3 about 165 (target about 180) · s4 about 755 (unchanged) · s5 about 525 (unchanged). Chapter about 2,500, down from 2,995.

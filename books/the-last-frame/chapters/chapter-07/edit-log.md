@@ -81,3 +81,12 @@ Audit through Ch 07 clean (the standing Ch 03 regex hit only). "off the radio" i
 
 ## Cold-read triage (orchestrator, in place), Oct 30
 Cold reader 6/10 (`reader-notes.md`; scenes 3 / 4 / 4; no stop line; "I'd keep reading, but"). Line items in place: the mail opener trimmed; the escalation given its measure ("ten lanes to fill twice over"; "There's five weeks yet." / "Five weeks of the same seven." closes the wait-and-promote option); "I'd like to drop the Sunday cup." before the kept ask so the change from Ch 06 is on the page; the Ch 05 phrase "the voice for giving a stranger directions" varied; "bought the building for the sound of all ten" (fourth use) cut; the italic thought-lines after the radio line recast for the ear. Left as designed: Ray sorting the house balls (the Ch 01 callback is the longing), the boiler, the interior line "she had gone to his people anyway", the ending on the key. Structural notes forwarded to the Ch 08 beats in the continuity log.
+
+## Revision round 1 (final.md → draft-r1.md), Oct 30
+
+## Change list (draft-r1, from final.md)
+
+- s1, M9: "putting the balls in order lightest to heaviest." → "putting the balls in order by wear." (The next sentence already has him turning each ball to see where it is worn; Ch 01's front-and-back wording is not repeated.)
+- s1, M9: Dale "took the heaviest ball out of Ray's new order, hefted it once" → "took the front ball out of Ray's new order, the one with the most grip left on it, rolled it once in his palm". He takes the best ball off Ray's rack, so the small challenge stays without any weight.
+- s2, rule 5: the scene now ends mid-action on "…and behind her the mop slid along the counter and went over on the floor." Cut the landed closing line, Denise's "Ray, I didn't—". I ended s2 this way because s1's closing line ("Put me in that room too.") is the only reason Dale is at the s2 table, so cutting it would leave a hole.
+- Kept as written: "Take it." / "And somebody else can coach it."; "You sounded fine on the radio that night too, I bet."; s3's ending.

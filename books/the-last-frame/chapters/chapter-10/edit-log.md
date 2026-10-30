@@ -81,3 +81,79 @@ Audit through Ch 10: "Both words" counted twice (the heading and the last line; 
 
 ## Cold-read triage (orchestrator, in place), Oct 30
 Cold reader 4/10 (`reader-notes.md`; scenes 3 / 4 / 3 / 2 / 3; the bank scene at 2: "decided offstage over Judy's phone; Ellen does nothing in the scene but wait"). Line items in place: Ray's no-paragraph cut to two sentences; the committee calls once at the half hour with a question Ellen answers from the glass ("The last Saturday in February. Linda's."), so the vote has a voice and Ellen an act inside the scene. Left as designed: the callbacks (the chapter pays the book's plants), the offstage vote (the bank's discretion is the point), Kate's price paid in the epilogue. The reader's notes on the whole book (the most likely put-down point is the opening of Ch 06; the money never a ticking clock; Ellen's marriage and Kate's father never said) go to the manuscript-stage revision brief.
+
+## Revision round 1 (final.md → draft-r1.md), Oct 30
+
+## Change list (draft-r1, from `final.md`; Ray's POV throughout)
+
+**s1, S9 (Kate's yes; the wire).**
+- Kate's call is untouched from "Am I on speaker?" through "I'm coming up in April to see what I paid for." The price is word for word: April, in person, the car in the driveway, "I'll ask questions."
+- Judy's restatement of the money rule ("Your own money lowers the line slowly…") is cut. Rule 2 says the rule is said once, in Ch 09 s6.
+- "When does the committee sit?" and "They don't vote on a winter till it's over" are cut.
+- The wire mechanics are now two lines. Judy offers the hold ("Committee sits at ten tomorrow and votes on money that's arrived… I'll hold it till they vote."), and Ellen tells Kate ("Judy will hold it till they vote. I want it on Arlene's note first. If they say no, none of it comes back.").
+- "You called me first. It's yours, Mom. Send it." stays.
+- The last call to Judy is cut to "Send it to Arlene's note at nine." Judy's "I can't promise you ten." still ends the scene (Question).
+- "Down on Main Street" and "off her rack" are trimmed.
+
+**s2, M17.** The trophy case is now by lane one, and the counter is up the house: "Ray keyed the handheld from the trophy case by lane one, with her counter up the house. He could have walked it." Ellen "came down from the counter to him" (was "came the length of the house").
+
+**s2, M8.** "left the four horsemen running back from the head pin to the corner, with daylight all round them."
+
+**s2, M7.** Hollis now says "All ten ties it." Ray still gets eight, and "by two pins" stays.
+
+**s2, trim.** The second "with the sand in their cuffs" on lane ten is cut, so the scene does not grow.
+
+**s3.** Unchanged. "Same number twice." / "That's what twice is for. Nine hundred dollars under." / "Third. I love you." / "Third item. You love me." / "And if they say no?" are all word for word.
+
+**s4, S10 (the bank).**
+- Before the call, Judy says the vote can go against her: "I called it a formality for a winter that clears. You bought your way to the line. They can say no to that, and they've said it to closer."
+- The nephew is now a detail that adds to the doubt: "My brother's boy talked about you all through supper. He doesn't vote." His account of storm day ("a hundred and fifty people…") is cut as the reason for the yes.
+- Judy offers the hold out loud again: "I can hold this till they do."
+- Ellen's act happens on the page. She takes out her own pen, fills in the wire form standing, writes the figure out in words (the figure never appears), and signs. Ray watches her "write away the money Kate slept on, a word at a time." The aftermath line ("Ellen had signed Arlene's paper on her feet, and the wire form too") is cut.
+- "Approved." stays. After it Judy gives one line in her own criteria: "Paid in before they sat, and next winter dated." This answers completion question 9.
+- The committee's question and "The last Saturday in February. Linda's." stay, answered from the glass (S13).
+- Ray's account of a no now uses M10's wording: "Arlene's auction… nowhere near the bidding."
+- The butterscotch bowl and "from the wall" are trimmed.
+
+**s4, M12.** "An hour went by, and a good piece of another" is now "The better part of an hour went by" (Ray rounds), and "Eighty minutes" is now "Fifty minutes" (Ellen is exact). That is half past ten to twenty past eleven.
+
+**s4, Rule 5.** **This scene now ends mid-action.** The landed line about Ellen sitting is cut, and the scene stops on her hand on the chair back as she draws the chair out. She has not sat yet.
+
+**s5, M5 (the K).**
+- After the K fills with red, one line says when he ordered it: from the Laconia shop, on his own account, "the Monday he went up to knock on her glass, before he knew if she'd come to the door." It also says the shop's man hung the tube that morning and Ray "had only put the face back on." Ellen and the reader learn it at the same moment.
+- "Shop's man set the transformer this morning… I said I'd finish." stays, and it now agrees.
+- Cut: the jumper sentence, the folded instruction sheet, and the carton (they pointed at Ray doing the wiring and gave the K away early).
+- "He came down with the empty carton" is now "He ran the last screw home and came down."
+- "Both words." is word for word and still the chapter's one soft ending, now coming after s4's mid-action ending.
+
+**Kept word for word:** "Request you come hold a key."; "Nine hundred dollars under."; "Same number twice."; "That's what twice is for."; "And if they say no?"; "Both words."; "Third. I love you." / "Third item. You love me."; "Approved."; "The secretary has Lakeview Diner by two pins." There are no digits. The only new number is "fifty minutes," which replaces "eighty minutes" as M12 directs.
+
+**Scene ended mid-action:** s4.
+
+**Estimated word counts (hand count; please run `wc -w`):**
+
+| Scene | final.md | draft-r1 | Brief |
+|---|---|---|---|
+| s1 | ~665 | ~590 | 580 |
+| s2 | ~800 | ~800 (+2 from M8, −6 trim, +2 M17) | hold |
+| s3 | unchanged | unchanged | hold |
+| s4 | ~711 | ~710 | hold or shrink |
+| s5 | ~352 | ~345 | hold or shrink |
+| Chapter | 3,537 | ~3,450 | — |
+
+## Commitments (for the continuity checker)
+
+1. **The K order date.** In this draft Ray ordered the K on **Monday, Feb 8**, the day he knocked on her glass (Ch 08 s2), from the Laconia shop, on his own account. The brief says "the Monday after the ice." I read that as the Monday after the Ch 07 break (Tue Feb 2):
+   - The Monday after the Feb 27 storm is March 1 itself, too late for an order.
+   - The Feb 15 order date has been cut from Ch 08.
+   - "The ice" would be unclear to a reader.
+   
+   **If the orchestrator meant another Monday, this one line changes.** Ch 08 (revised) must carry no K order, and nothing before Ch 10 s5 may mention it. The epilogue must not have Ray mounting the tube.
+2. **Who hung the K.** The Laconia shop's man hung the tube and set the transformer on the morning of March 1. Ray put the sign face back on, and Ellen threw the disconnect.
+3. **Judy's committee.** On the page, a line reached by a paydown is not a formality, and the committee "said it to closer." This pays Ch 06 s5 "For a winter that clears, it is" and Ch 09 s4. What the committee voted on: "Paid in before they sat, and next winter dated."
+4. **Judy's nephew.** He talked about Ellen at supper and "doesn't vote." The storm-day account, the "hundred and fifty," and "a name on it" no longer appear in Ch 10 s4. The Ch 10 plant-ledger row ("Judy's line why") changes to: nephew a detail; the yes is settled by the paydown and the date.
+5. **The hold was offered twice.** Judy offers it on the phone Sunday and out loud at the bank Monday, and Ellen refuses both times. She writes the wire form herself with her own pen, standing, figure in words. The wire goes at nine.
+6. **Ellen sits.** The page no longer says she sits. It ends as she draws the chair out. The log's "Ellen … sits, and Ray watches her do it" should read "draws the chair out beside his."
+7. **Cut from s1:** Judy's "they don't vote on a winter till it's over" and her restatement of the money rule. The plant-ledger payoff "Judy's rule 3 restated (Ch 10 s1)" is no longer on the page. "They vote on money that's arrived" still closes the liquidity row.
+8. **The trophy case** is by lane one, with the counter up the house (M17).
+9. **Timeline.** The first call is at half past ten. "Approved" comes at twenty past eleven, with "Fifty minutes" on the page.

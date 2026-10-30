@@ -45,3 +45,9 @@ Source: `reviews/revision-brief.md` §4, `reviews/commitments-round1.md` Issues 
 - [Rack passage, S4] Read once for Ray's register and the one gesture. Kept as written: "quarter-turn" stays here (the book's rack echo), the label moved from maple to steel is the one gesture. Two changes: "thrown smooth and dull" → "worn smooth and dull" (Ray reads what a thing has worn out, not what was thrown); "between five and six" → "between lanes five and six" so a listener hears a lane pair.
 - [Lane numbers] Added "lane" where a listener could lose a bare numeral: "Ray's team is on lane six", "rolled into lane six", "thrown on lane six", "scorer's table at lane six", "the light over lane seven", "lane seven's settee", "from lane six … lane seven's approach".
 - [Emotional peaks] No change needed; the laugh after "Nice arc. Wrong lane." and the Denise/Ellen exchange are cued by action.
+
+## Revision round 1 (final.md → draft-r1.md), Oct 30
+
+## Change list (draft-r1, from final.md)
+
+- s2, M1: "with R.G. and 1996 on it in ballpoint." → "with R.G. and a year, 'ninety-six, in ballpoint." No other change.
