@@ -1568,7 +1568,7 @@ He shook his head against her thigh. Then his mouth was on her, slow and patient
 
 "Dane."
 
-He didn't hurry for that either. She was wet against his mouth, and he held her hips in both hands and kept her there. She had a fist in the blanket. The canvas was cold under her shoulders, and the rest of her had forgotten the cold.
+That didn't hurry him either, and she was wet against his mouth, and he held her hips in both hands and kept her there. She had a fist in the blanket. The canvas was cold under her shoulders, and the rest of her had forgotten the cold.
 
 "Please," she said.
 

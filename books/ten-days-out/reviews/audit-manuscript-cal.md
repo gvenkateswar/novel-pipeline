@@ -219,7 +219,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 03 | 3,228 | 14.2 | 10.2 | 21% | 0.0 | 0.0 | 0.0 | 2 | short |
 | 04 | 2,304 | 11.4 | 8.1 | 25% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 | 05 | 3,686 | 11.2 | 8.5 | 24% | 0.0 | 0.5 | 0.0 | 4 | mean short openers |
-| 06 | 3,392 | 11.1 | 7.6 | 25% | 0.0 | 0.0 | 0.0 | 3 | mean short |
+| 06 | 3,392 | 11.2 | 7.7 | 25% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 | 07 | 3,114 | 12.0 | 8.8 | 23% | 0.0 | 0.6 | 0.0 | 4 | mean short openers |
 | 08 | 3,131 | 13.9 | 11.2 | 17% | 0.0 | 0.0 | 0.0 | 2 | short |
 | 09 | 3,016 | 13.8 | 11.7 | 20% | 0.0 | 0.0 | 0.0 | 3 | short |
@@ -263,7 +263,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | the kind of ... that | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 2/ch |  |
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
-| contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0.0 | 0.0/1k | FLAG |
+| contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 0.0/1k |  |
 | sentence-initial And/But/And yet | 1 | 1 | 2 | 0 | 3 | 1 | 0 | 3 | 1 | 0 | 12 | 0.4 | 3.0/1k |  |
 | em dashes | 1 | 1 | 2 | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 10 | 0.3 | 2.0/1k |  |
 | semicolons | 0 | 3 | 1 | 5 | 0 | 1 | 1 | 0 | 1 | 0 | 12 | 0.4 | 2.0/1k |  |
