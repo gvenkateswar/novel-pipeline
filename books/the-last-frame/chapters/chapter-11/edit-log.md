@@ -81,3 +81,6 @@ Word count (prose only, `wc -w`, heading and break marks included as in the 862 
 - s1 (office scene), dash clock: "the green numbers on the dash clock" → "the amber numbers on the dash clock" (Ellen's car; the truck's dash stays green in Ch 05 and Ch 09). This is the only change in the office scene, made on the brief's should-fix instruction; no line of dialogue there was touched.
 - s2: Denise's "You don't get to bet on your own flight," → "You don't get to bet on your own man," (Denise's word; "honey" stays at its one use in s1).
 - Nothing else in the epilogue changed.
+
+## Orchestrator fixes after the commitments check (r1), Oct 30
+- See reviews/commitments-check-r1.md; line items applied in place to draft-r1.md (must-fixes 1–3; Kate's hour; the bank clock; the Highway crew's slot; Ray's order said aloud; the form's path from Danny's drawer; Ch 08 s1 ending keeps Ellen on the call; derby headquarters; Hollis's license; Normand named as husband; Ch 03 age line reverted since Ch 01 already states it; the epilogue's clock colorless and Ray's square on the first of December).

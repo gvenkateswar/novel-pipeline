@@ -40,7 +40,7 @@ He came up the walkway from the steel door by lane ten with his toolbag, past th
 
 "No charge. He's worth about that."
 
-He was already turning for the vestibule. He had the inner door open, and the cold off the outer glass on his face, when behind him the receiver went down with Judy still in it.
+He was already turning for the vestibule. He had the inner door open, and the cold off the outer glass on his face, when behind him her voice went on to Judy, lower, about the settees.
 
 \* \* \*
 
@@ -158,7 +158,7 @@ Ellen folded the paper and took her coat down off the office door.
 
 Arlene was at her kitchen table, with the boxes taped shut along the wall and her good hat out on the oilcloth. Ellen put the paper down by the hat and stayed standing.
 
-"With every lane of the Open full, I clear by six hundred dollars. One storm takes that."
+"With the Open filling the way it's filling, I clear by six hundred dollars. One storm takes that."
 
 "If I sign this and I miss, it's Arlene's auction," she told Ray, and turned to Arlene. "You wait for your money and go back on the list, the condo man gets the lot for the land, and the house money my daughter let me spend goes with it. There's money I swore to my daughter. It isn't in this."
 
@@ -168,7 +168,7 @@ Arlene pulled her table drawer open. "I'll sign it, dear, and keep it in my draw
 
 Arlene pushed the drawer shut and watched it go all the way.
 
-Ray took the credit-union form out of his coat and laid it beside Arlene's paper.
+Ray took the credit-union form out of his coat, where it had ridden since six that morning, when he had lifted it out from under Danny's count slips, and laid it beside Arlene's paper.
 
 "Danny signed this in December so I could buy on your yes," he told Ellen. "The Thursday after you put that key on my counter, I filled it in for your no, and he put it in the drawer under the register and left it there. I'd have let him send it."
 

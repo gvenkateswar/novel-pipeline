@@ -122,7 +122,7 @@ His thumb went round and round the neck of the pin he was holding. Then he stood
 
 She looked down the lane at the row of flashlights, and picked up the pin nearest her knee and held it in both hands.
 
-"Two things," she said. "They retired me by statute at fifty-six, with a sheet cake, two years ago. That isn't one of them."
+"Two things," she said. "They retired me by statute, with a sheet cake. That isn't one of them."
 
 He waited.
 

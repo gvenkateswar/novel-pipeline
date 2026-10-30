@@ -42,11 +42,11 @@ He held the pen out to her.
 
 She folded the release along its creases and slid it into the envelope and put the envelope in his hand. Then she was up with the oven door open on a breath of cloves, the ham out on the board and the knife going, and she set a plate in front of him without asking whether he'd eaten.
 
-He was behind his own counter by eight with the cloves still on his breath, and the Bench on their three stools by the front window with the free coffee. He laid the papers that made the store Danny's on the first of March in front of his son.
+He was behind his own counter by eight with the cloves still on his breath, and the Bench on their three stools by the front window with the free coffee. He laid the papers that made the store Danny's on the first of March in front of his son, and Arlene's envelope beside them, with the release half out of it and his own name on the line.
 
 Danny read the top page and left his pen capped in his shirt pocket. Then he opened the drawer under the register and laid the credit-union form from December beside the papers, his own name on the last line. It had sat in that drawer under the count slips since December and gone nowhere.
 
-"I signed that so you could buy it on her yes. You're standing in her paper waiting on her no, and I won't put my name to that. Half out's not out."
+"I signed that so you could buy it on her yes. You're standing in her paper waiting on her no, and I won't send my name in on that. Half out's not out."
 
 He put a finger on the store's top page. "It's said Son on that sign since before I was born. I'd like it to mean me."
 
@@ -152,7 +152,7 @@ Two flags sprang up in the window. Hollis didn't turn his head. "Plan if the ice
 
 "Stand by," Ellen said, and went out.
 
-Ray got to the door in time to see her on her knees at the first tip-up, bringing the line up hand over hand until the fish came out onto the ice. Her gloves had gone into the black water to the wrist and came out dark and streaming, and he said nothing yet.
+Ray got to the door in time to see her on her knees at the first tip-up, bringing the line up hand over hand until the fish came out onto the ice. Her gloves had gone into the black water to the wrist and came out dark and streaming, and he said nothing yet. "On my license, that one," Hollis said behind him, to the ice.
 
 She came back in with the fish, and Hollis took it in one hand and turned it over.
 

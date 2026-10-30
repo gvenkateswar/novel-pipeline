@@ -122,3 +122,6 @@ Source: `reviews/revision-brief.md` §4, `reviews/commitments-round1.md` Issue 8
 
 - s2, M15: Ray's "Nobody's cleared thirty in this building since Arlene's Normand." → "…since Arlene's Normand, and she's been a widow a long while now." (Ray's and-chain, weight on the last word; no figure.) Normand is now Arlene's late husband before Normie's next line.
 - Rule 6 (Hollis/Dale): no change possible. Neither Hollis nor Dale appears or speaks in Ch 02. The only chapter in 01–03 where both speak is Ch 03 s1, which this round locks. Flagged to the orchestrator.
+
+## Orchestrator fixes after the commitments check (r1), Oct 30
+- See reviews/commitments-check-r1.md; line items applied in place to draft-r1.md (must-fixes 1–3; Kate's hour; the bank clock; the Highway crew's slot; Ray's order said aloud; the form's path from Danny's drawer; Ch 08 s1 ending keeps Ellen on the call; derby headquarters; Hollis's license; Normand named as husband; Ch 03 age line reverted since Ch 01 already states it; the epilogue's clock colorless and Ray's square on the first of December).

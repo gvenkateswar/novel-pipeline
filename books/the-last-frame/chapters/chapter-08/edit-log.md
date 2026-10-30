@@ -217,3 +217,6 @@ s4 is about 50 words over its 650 target, inside the 8% band. The remaining weig
 6. **Lines cut from Ch 08.** "I'd like both" / "Linda's name on your Open, and my name off your paper" and "on a Monday, with nobody in the room" are gone. Check Ch 09 and Ch 10 for any echo of them.
 7. **Bible facts now off the page.** Ellen's phone call to Arlene and the drive past Gagnon & Son (the store open on Presidents' Day, Danny alone) are cut. Treat both as off-page fact only.
 8. **Lucien.** His behind-the-counter-to-the-week-he-died plant (Ch 04) is paid in Ch 08 s3 in Ray's narration ("his father"). The brief asks the author to confirm the fact.
+
+## Orchestrator fixes after the commitments check (r1), Oct 30
+- See reviews/commitments-check-r1.md; line items applied in place to draft-r1.md (must-fixes 1–3; Kate's hour; the bank clock; the Highway crew's slot; Ray's order said aloud; the form's path from Danny's drawer; Ch 08 s1 ending keeps Ellen on the call; derby headquarters; Hollis's license; Normand named as husband; Ch 03 age line reverted since Ch 01 already states it; the epilogue's clock colorless and Ray's square on the first of December).

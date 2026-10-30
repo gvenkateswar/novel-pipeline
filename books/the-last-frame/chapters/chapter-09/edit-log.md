@@ -194,3 +194,6 @@ Second cold read 4/10 (`reader-notes-r2.md`; scenes 3 / 2.5 / 3 / 3.5 / 2.5 / 4)
   - Ray in the pit while Gagnon & Son bowled.
   - The second "fourteen hundred dollars", which was in Kate's call.
   - "Why that money?" and the seasoning line to Arlene.
+
+## Orchestrator fixes after the commitments check (r1), Oct 30
+- See reviews/commitments-check-r1.md; line items applied in place to draft-r1.md (must-fixes 1–3; Kate's hour; the bank clock; the Highway crew's slot; Ray's order said aloud; the form's path from Danny's drawer; Ch 08 s1 ending keeps Ellen on the call; derby headquarters; Hollis's license; Normand named as husband; Ch 03 age line reverted since Ch 01 already states it; the epilogue's clock colorless and Ray's square on the first of December).

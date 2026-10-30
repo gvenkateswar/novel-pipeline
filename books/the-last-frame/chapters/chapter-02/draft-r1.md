@@ -74,7 +74,7 @@ She kept the light on the open lock.
 
 "Every dollar."
 
-"Nobody's cleared thirty in this building since Arlene's Normand, and she's been a widow a long while now. It's in her ledgers, if you want to check my arithmetic."
+"Nobody's cleared thirty in this building since Arlene's Normand, her husband, and he's been gone a long while now. It's in her ledgers, if you want to check my arithmetic."
 
 "Then it's been done."
 

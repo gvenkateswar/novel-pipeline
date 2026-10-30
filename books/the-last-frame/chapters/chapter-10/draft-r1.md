@@ -20,7 +20,7 @@ Her phone rang. She looked at the screen, laid it face up between them, and touc
 
 "Ray is here. Shall I take you off?"
 
-"Leave him on. Slept four hours in the hospital garage with the seat back. Don't. I'm fine. It's a good garage. I did the subtraction. Without the dollars. It's harder than it sounds. That money's why I sleep. If it goes in, I'm your bad winter."
+"Leave him on. Slept an hour in the hospital garage with the seat back. Don't. I'm fine. It's a good garage. I did the subtraction. Without the dollars. It's harder than it sounds. That money's why I sleep. If it goes in, I'm your bad winter."
 
 The speaker hissed.
 
@@ -104,7 +104,7 @@ Ray stood up with Linda's ball. Hollis kept his eyes on the sheet.
 
 His first ball went in where he put it, took the head pin and most of the left side, and left the deck littered with wood. At the scorer's table Denise had her hands flat on the cup. Gil stood behind the settee in his good overcoat with a folded flyer in his glove. The ball came back up the return.
 
-His second went through the wood and kicked it right, and two more went down, and three stood. Across the house Ellen had the fryer basket stopped in her hand above the oil. Down on ten the Highway crew leaned on the rail, and on two the Ostrowski boy had his cap off. Hollis's pencil waited.
+His second went through the wood and kicked it right, and two more went down, and three stood. Across the house Ellen had the fryer basket stopped in her hand above the oil. Down on ten the Highway crew, bowling the slot the storm had left open, leaned on the rail, and on two the Ostrowski boy had his cap off. Hollis's pencil waited.
 
 He threw the third as well as he had ever thrown a ball in this building, low and late, and it took the front one of the three. Two pins stood at the back of the deck a foot apart, and neither one so much as rocked.
 
@@ -214,7 +214,7 @@ She laid a wire form by the slip. "My brother's boy talked about you all through
 
 Ellen took her own pen out of her vest. She filled the form in on her feet, her name and Arlene's note and the figure written out the long way, in words. Ray sat with his hands on his knees and watched her write away the money Kate slept on, a word at a time, and sign under it. At nine it went down the wire to Arlene's note.
 
-Ellen stood at the glass wall with her hands folded, and Judy worked another file and never once looked at the phone. Out on the bench Arlene sat in her hat and watched the tellers, and the drive-up tube thunked down behind the glass every few minutes. Ray had nothing to fix, and his ring sat light by one key. A no would leave Ellen's money in Arlene's note for good and the building at Arlene's auction, with Ray nowhere near the bidding, by his own word. He wanted to take her hand. She was standing, so he left it. Judy's phone rang once, at the half hour, and she put her hand over it.
+Ellen stood at the glass wall with her hands folded, and Judy worked another file and never once looked at the phone. Out on the bench Arlene sat in her hat and watched the tellers, and the drive-up tube thunked down behind the glass every few minutes. Ray had nothing to fix, and his ring sat light by one key. A no would leave Ellen's money in Arlene's note for good and the building at Arlene's auction, with Ray nowhere near the bidding, by the form he had torn on Arlene's oilcloth. He wanted to take her hand. She was standing, so he left it. Judy's phone rang once, at half past ten, and she put her hand over it.
 
 "They want to know whether next winter's Open has a date."
 
@@ -257,6 +257,8 @@ He worked it onto his ring where Arlene's had hung thirty years, into this morni
 He waited to be corrected. She threw the disconnect.
 
 The transformer took hold with a hum, and the new K filled with red from one end to the other, and the red came down the pole onto the snow at their boots. He had ordered it from the Laconia shop, on his own account, the Monday he went up to knock on her glass, before he knew if she'd come to the door. The shop's man had hung the tube that morning, and Ray had only put the face back on.
+
+"Ordered it the Monday I came up to knock," he said. "On my account. Before I knew if you'd come to the door."
 
 "How's she read?"
 

@@ -157,3 +157,6 @@ Cold reader 4/10 (`reader-notes.md`; scenes 3 / 4 / 3 / 2 / 3; the bank scene at
 7. **Cut from s1:** Judy's "they don't vote on a winter till it's over" and her restatement of the money rule. The plant-ledger payoff "Judy's rule 3 restated (Ch 10 s1)" is no longer on the page. "They vote on money that's arrived" still closes the liquidity row.
 8. **The trophy case** is by lane one, with the counter up the house (M17).
 9. **Timeline.** The first call is at half past ten. "Approved" comes at twenty past eleven, with "Fifty minutes" on the page.
+
+## Orchestrator fixes after the commitments check (r1), Oct 30
+- See reviews/commitments-check-r1.md; line items applied in place to draft-r1.md (must-fixes 1–3; Kate's hour; the bank clock; the Highway crew's slot; Ray's order said aloud; the form's path from Danny's drawer; Ch 08 s1 ending keeps Ellen on the call; derby headquarters; Hollis's license; Normand named as husband; Ch 03 age line reverted since Ch 01 already states it; the epilogue's clock colorless and Ray's square on the first of December).

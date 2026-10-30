@@ -55,3 +55,6 @@ Source: `reviews/revision-brief.md` §4. final.md edited in place. `wc -w`: 3,25
 ## Change list (draft-r1, from final.md)
 
 - s3, M16: "They retired me by statute, with a sheet cake. That isn't one of them." → "They retired me by statute at fifty-six, with a sheet cake, two years ago. That isn't one of them." (the brief's wording; agrees with Ch 01's "fifty-eight and two years retired by statute"). No other change.
+
+## Orchestrator fixes after the commitments check (r1), Oct 30
+- See reviews/commitments-check-r1.md; line items applied in place to draft-r1.md (must-fixes 1–3; Kate's hour; the bank clock; the Highway crew's slot; Ray's order said aloud; the form's path from Danny's drawer; Ch 08 s1 ending keeps Ellen on the call; derby headquarters; Hollis's license; Normand named as husband; Ch 03 age line reverted since Ch 01 already states it; the epilogue's clock colorless and Ray's square on the first of December).

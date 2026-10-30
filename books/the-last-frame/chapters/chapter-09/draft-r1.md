@@ -124,7 +124,7 @@ She had the day laid out before he finished. First the morning up her hill on hi
 
 She counted the room from the counter: a hundred and fifty, with children in it, and snow boots wet on the linoleum under every settee. Every evening team that had made the hill was already in the building. They had come up for the derby and come in off the cancelled ice with the families.
 
-At lane one the derby treasurer was tipping the raffle stubs out of a bait bucket into the ball return. "Tickets say drawn at derby headquarters," he said, "and headquarters is wherever Judy's standing."
+At lane one the derby treasurer was tipping the raffle stubs out of a bait bucket into the ball return. "Tickets say drawn at derby headquarters," he said, "and the club voted headquarters indoors at seven this morning. That's you."
 
 A child in a snowsuit reached in to the shoulder and drew.
 
@@ -176,7 +176,7 @@ At the snack bar Judy's nephew had stopped with one arm in his coat.
 
 Hollis came over from the weigh-in board. "Lanes went free at half past twelve. Twelve of your fifteen came in off the ice with me. Counted them."
 
-"Three are on the road," Ellen said. "The Open is one field bowled on one day, or it's a Tuesday league. Nobody pays a cent to bowl a squad the others can't. And the roads close at four."
+"Three are on the road," Ellen said. "A squad is one field bowled at one time, or it's a Tuesday league. Nobody pays a cent to bowl a squad the others can't. And the roads close at four."
 
 She took the PA and said it plainly: everybody off the hill by four. Linda's final would bowl Sunday at one, on the lanes she had held for it. Then she offered the evening teams Sunday morning.
 

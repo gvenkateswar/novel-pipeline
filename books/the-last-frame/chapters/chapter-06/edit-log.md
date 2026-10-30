@@ -185,3 +185,6 @@ Second cold read 4/10 (`reader-notes-r2.md`; scene average 2.8). Line items in p
 6. **Ellen's fishing license is off the page** (the check was cut). Any later reference to her license needs its own source.
 7. **Ray let himself in at close with her front key** (the Dec 3 key). This keeps the key on his ring until Ch 07 s3, where he works it off.
 8. **The Open's "teams of four" is cut** from the pitch. If the Ch 07 entries or Ch 09 rely on hearing the team size first in Ch 06, it needs a source elsewhere (Ch 09 s4 has "thirty teams").
+
+## Orchestrator fixes after the commitments check (r1), Oct 30
+- See reviews/commitments-check-r1.md; line items applied in place to draft-r1.md (must-fixes 1–3; Kate's hour; the bank clock; the Highway crew's slot; Ray's order said aloud; the form's path from Danny's drawer; Ch 08 s1 ending keeps Ellen on the call; derby headquarters; Hollis's license; Normand named as husband; Ch 03 age line reverted since Ch 01 already states it; the epilogue's clock colorless and Ray's square on the first of December).
