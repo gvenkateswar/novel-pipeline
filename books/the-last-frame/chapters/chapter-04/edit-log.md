@@ -60,3 +60,34 @@
 - Word count: about 3,125, inside 2,760–3,240. S1 about 1,040, above its 800 floor.
 - ATC count for Ellen: readback/no readback 1, wilco 2, say intentions 3, denied 4, winds calm 5. Under the cap of six.
 - Tag-strip test: pass. Ellen: full stops, items, exact times, no hedges. Ray: *and*-chains with the weight last, "she" for the sign and the machines, questions he knows the answer to. Denise: run-on, answering her own questions. Danny: plain. Normie: broadcast call.
+
+## Voice editor (draft-dialogue.md → final.md), Oct 30
+
+Draft edited: draft-dialogue.md (3,127 words). Output: final.md.
+
+**Word count:** `wc -w final.md` = **2,951** (band 2,760–3,240, inside). By scene, headings excluded: S1 about 873 (floor 800, held) · S2 388 · S3 430 · S4 711 · S5 532. S5 is under its 700 target and has no floor; the cuts below came out of explaining passages, and I added nothing there because the scene is not flat (gate exchange, pocket, "In one minute", "Net thirty" all intact).
+
+**Do-not-touch lines:** Ellen's self-report and Ray's readback, "You knew. Under the sign?", "It stays.", the gate exchange, "In one minute", "Ms. Daly. Net thirty." as last line, Danny's toast, Normie's lines, Ray's late laugh, "With her there was always an item after." All verbatim.
+
+- [Tells / the doctor's two flags]
+  - S1 "He had told the Bench, and now he'd told her…" cut from five sentences to "What he'd told the Bench was his own now," then the door, the key, the truck, "He could go," and the staying. The cut parts were "A man vouching on nothing but his own word was a thing he'd been before Friday, and nobody had sent him a bill for it yet" and the "so" sentence about holding it. The beat sheet needs only that his vouching is now his own word; "It stays" says the rest.
+  - S5 "On her first night he had stood on her step…" deleted whole. It restated the backup contract that "minding your own building" already carries (item 4.4: explains the line the reader just heard). "Haven't got a rate." now follows "Then you bill me for the stop." directly.
+- [Tells: trims to the best clause]
+  - S1 boiler: opening "still sore about Thursday" cut; "The boiler shut off." cut (kept "going on and off the way she did when she wanted a thing remembered" and "came on and thought better of it").
+  - S3 machines: "Seven was running sweet, the way a machine will after somebody's paid her some attention" cut; kept lane three "thinking something over." "Under the masking" cut. "without being raised" cut from Ellen's voice (near the retired "did not raise his voice").
+  - S5 pot: "turned low since before light" kept as "low since before light" for the Issue 11 timing; "it would know" kept.
+  - S5 interior after "I'd like to know what I owe you": "he stood at the edge of the trench and turned that over, and it didn't get any easier to hold" cut. "forty years" and "A bill was the only answer to Normie's sentence he had" kept.
+  - S5 "and he hadn't known she knew" → "and she had known." Decoded what the reader already saw.
+  - S4 second interior: "The building would come to him the same afternoon the store went out of his hands" cut (March first twice in the sentence above it already says it). "He took it by the handle" → "He took it."
+  - S2: "the heat hadn't come this far yet" cut. S5 hedge "seemed to take personally" → "took personally"; "nobody seemed to have told her" → "nobody had told her".
+- [Voice / tic avoidance]
+  - S1 "his own hand flat on the wood by the register" → "his own elbow on the counter by the register" (hands flat on the counter is a named v2 tic). The beat sheet wanted the posture only as a memory; the elbow keeps it.
+  - S1 "It was the voice…" → "She had the voice…" (filler opener).
+  - S1 first "He turned the small ball once in his hands" → "He weighed the small ball in his hands" so the ball does not turn three times in one scene. The second ("turned the ball over") and the staying beat ("turned the small ball once round") are kept.
+- [Listener / lane numbers]
+  - S3: "eight's ball return" → "lane eight's ball return"; "Eight's return" → "Lane eight's return"; "Seven"/"three" → "lane three" (seven's line cut). S4: "party on eight" → "party on lane eight".
+- [Added life] None. Every scene has its texture within budget and the judges' named moments are in. The one thing I would add if the floor were threatened is a taste or warmth beat in S5 (the heater's hot-dust smell through the open door); not needed.
+- [Retired devices checked] No "level", "in order", "a quarter-turn", "said nothing", "did not raise his voice", ordinal lists, touch, dollar figures. "Thirty" in S5 is only "Net thirty"; Ray's supper line carries 'ninety-six. Ellen's ATC phrases stay at five (readback, winds calm, wilco as explained, say intentions, denied; Snack Bar call is a call sign, not counted separately by the doctor's tally). Ray's trade similes: washer, carton (two). The boiler/lane personifications are not similes.
+- [Voice test] Tag-strip passes: Ellen full stops, exact times; Ray and-chains with the weight last ("If he asks."), "she" for boiler, lane three, the sign, return and the Laconia tube; Denise run-on; Normie broadcast.
+- [Cues at peaks] Ellen's self-report: thumb on the clip. Ray's "It stays": he holds the ball still. Danny's toast: the cup in both hands. Normie's line: the fork. Her "In one minute": the heater and the sign's red in the beat after it (no tag, per the ruling that it be the chapter's close).
+- [Flagged for writer] Nothing plot-level. Two continuity notes carried forward from the writer's log stand: Lucien-behind-the-counter is still the new fact awaiting author confirmation; a real K quote is still owed (Ch 08 s4).
