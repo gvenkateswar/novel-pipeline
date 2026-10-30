@@ -45,3 +45,36 @@ Estimated words (hand count, prose only): s1 ≈ 647 (target 700) · s2 ≈ 1,24
 - Lines added: 0 spoken (2 narration sentences from v2, 1 clause from v1)   Lines cut: 0 spoken (1 spoken line rewritten in s1)
 - Tag-strip test: pass. s1: Ray is clipped and formal ("Numbers said otherwise, then."; "round"; "Mrs. Daly"), and Ellen gives exact counts in complete sentences. s2: all five side voices can be told apart without names. s3: Ray's *and*-chain against Ellen's "I would like to…" and her full stops.
 - Caps held: "as though/as if" 3; "the way" 1 (the key line); "kept it" 1; "level and pleasant" 1; "the inch" 1; "Mrs. Daly" 1; "Understood" only thought; no digits, no dollar figure; none of the retired items; Ray says nothing of a car, the driveway, the bus or Kate.
+
+## Voice editor (draft-dialogue.md → final.md), Oct 30
+
+Draft edited: draft-dialogue.md, Oct 30. Cut or recast per Ellen's profile, the tournament fix list and the Ch 05/06 cold-reader asks.
+
+**Word count by scene vs floor** (`wc -w` on final.md, heading included in the total): total 3,201 (band 3,036–3,564). s1 667 (target 700, no floor). s2 1,218 (floor 1,200; clears by 18). s3 1,310 (floor 1,000). The s2 margin is thin on purpose: the explained clauses are what came out, and nothing was added to pad it.
+
+- [Added life]
+  - s1: "She had a slot for everything in the building except this, and she watched past the point where the job needed watching." Ellen's own sequencing habit (the bible's "when something won't take a slot, she notices that it won't") replaces the bare "for longer than the job needed watching".
+  - s2: the room "smelling of the wet mop" (one smell where the scene had none).
+  - s3: "The cold of the lot still hung on his canvas jacket." (one sensory beat at the inch, no touch). "He went round it with his thumb in the register light until he came to hers:" now has a colon and a plain object, with the key described once.
+  - Boiler: "she let herself believe he would answer whatever she said, in his own time, as he always had." The hope is one plain sentence, so the reader still thinks he might stay.
+- [Voice]
+  - "in the voice she had heard on the telephone in December" → "in the voice from the telephone in December". "She" was ambiguous between Verna and Ellen on the listener pass.
+  - s3 opens on Ellen acting ("Ellen put out the far pair first") so the speaker is clear at the first line.
+  - Ray's "Now you'll clear…" is still introduced by "Ray spoke" and "he went on". The "She took it the same way" line became "She took it a piece at a time too" so "the same way" does not float.
+  - Dale's reply to Ellen: nothing but his two lines and the keys beat; "nothing moved on the table" cut.
+- [Tells]
+  - 4.4 decoders cut: "and nobody could sit apart from anybody" (s2 opening); "It was true." before "She had known at his counter…" (the next sentence carries the information); "and she heard that too" after "Her voice had gone more polite"; "and she heard it come out that way" after "Thank you"; "with that one still on it" after the dead key; "without a word" on the key she laid on his counter (the mirror is kept once, in "the way she had said nothing at his").
+  - "stayed on her as long as it took her to see that they would not stay" → "slid off her before she could meet them". It shows the look that will not hold without telling her what to see.
+  - Perception filters and filler openers: "There was nothing…" → "The mail held nothing…"; "There was no chair down" → "No chair had been put down"; "She noticed that she had made her voice pleasant" → "She had made her voice pleasant"; "she could see" → "stood"; "She heard the inner door" → "The inner door, then the outer one"; "she could hear him breathe" → "he breathed"; "There was the hook… There was the office…" → "The hook… held… In the office… his signature already lay…".
+  - Comparison taken from the job: none found to cut. Verna's "foul line" voice stays; it is her place and her own habit.
+  - Repetition: "level and pleasant" → "level" (s3). "Pleasant" now appears once, in s2, as the borrowed line. "kept her hand on it" → "left her hand on it", so "kept it" is the one in "started to say his name and kept it".
+- [Sentence length, s3]: no sentence over forty words. The beat-sheet knowing sentence is split at its second "and" with the words unchanged ("…from her voice. And tonight she had stood at that table…"). Splits also at the toggles opener, the "He had come back up the walkway" sentence, the key-off-ring sentence and the step sentence. The one forty-word line is Ray's kept "Now you'll clear…", untouched.
+- [Caps] The table: 6 in s2; the clipboard: 3 in s2. "as though" 2 plus "as if" 1 is 3. "the way" 1. "kept it" 1. "pleasant" 1 (s2). "the inch" 1. "Mrs. Daly" 1. "stay on the step" 1. "two in the morning" 1. "lost separation" 1, in her head. "Understood" thought, not spoken. No digits in the prose, no dollar figure, none of the retired items. Ray says nothing of a car, driveway, bus or Kate; the narration has one clause ("the morning Kate kept a name for").
+- [Kept lines] Every beat-sheet kept line is word for word, apart from the punctuation split in the knowing sentence noted above (words identical, "and tonight" now begins a sentence).
+- [Boiler] "If he was still beside her when it shut off, she would tell him." is one sentence.
+- [Key] Two places she does not put it (the hook, the office drawer), then Behind her the clipboard, then the last sentence: "She put the key in her own vest pocket." Nothing follows.
+- [Flagged for writer] None. One thing for the orchestrator's judgment: Ellen's clipboard line says she wrote the lane draw "off the radio" (Ch 04) and Ray's s3 line says "on the radio" (the frequency). They sit about nine hundred words apart and the second is italicized as a quotation of his word, but a listener may hear the first as a setup. If the audit or cold reader hears it that way, change the s2 phrase to "off the local station". That would not touch the s3 line.
+- [Pair for the pipeline] Stop: an ear-ambiguous "she" after a scene's two named characters (voice "she had heard"). Instead: name the hearer or drop the pronoun ("the voice from the telephone in December").
+
+## Audit pass (orchestrator), Oct 30
+Audit through Ch 07 clean (the standing Ch 03 regex hit only). "off the radio" in s2 changed to "the handheld on her counter" so the only "radio" in the chapter is Ray's line in s3.
