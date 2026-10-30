@@ -41,3 +41,41 @@
 - Kept lines: every quoted line in the beat sheet is word for word (Judy's two are split by action beats, not reworded). No digits, no dollar figure, no retired items, ATC phrases are "Stand by" only, Normie is unnamed, there is no "Kettle Maintenance", and "fella" is used 1.
 - Tag-strip test: pass. Arlene (blunt, "Raymond", money as weather) and Ray (and-chains with the weight at the end; talks to tools) separate in s1. Danny's inventory against Ray's object-talk in s2. Ellen's items and dropped contractions ("Then I am closed.", "At present.") against Ray's short lines in his hurt register in s3 and s5. Hollis's questions against Ray's story in s4. Judy's bait-and-rule against Ellen's procedural calm in s5.
 - Estimated words: about 3,170 (draft-revised 3,032; band 2,760–3,240). s3 is about 760, over its 600 floor.
+
+## Voice editor (draft-dialogue.md → final.md), Oct 30
+
+Draft edited: draft-dialogue.md (3,177 words by `wc -w`). final.md: 3,153 by `wc -w` including the chapter heading (about 3,149 prose). Band 2,760–3,240.
+
+**Word count by scene vs floor**
+| Scene | Words | Floor |
+|---|---|---|
+| s1 | about 744 | none |
+| s2 | 474 | none |
+| s3 | 686 | 600 (met) |
+| s4 | 664 | none |
+| s5 | 581 | none |
+
+- [Arlene, kept line, two words]: "foreclosed on that woman." → "foreclosed on that woman of yours." It can no longer be heard as the next woman on The Pines list. The rest of the line is unchanged.
+- [Tells, decoding and restating cuts]:
+  - s1 Kettle Road: "It was the museum that stayed with him." cut, and the museum folded into the next sentence as Arlene's own word ("He had kept the store a museum for six years, and kept another in a padlocked locker"). The narrator no longer announces what stayed with him.
+  - s2 Bench paragraph: "till somebody signed it" cut. The envelope under three old men's eyes carries it.
+  - s4: "Ten inches would hold." cut. It restated Hollis's figure and led into the lake line, which now follows Hollis's "You walked it." and keeps its one appearance.
+  - s4: "and he saw them, and said nothing yet" → "and came out dark and streaming, and he said nothing yet" (perception filter out).
+  - s1: "looked at it a moment" → "looked at it".
+- [Similes, "the way she'd/he'd" capped at two]: cut "the way she'd keep her place in a line she meant to read again" (s3, Ellen's two fingers on the margin). The remaining two are Arlene's fuel-oil bill (s1) and Judy's coffee-ringed balance sheet (s5). The gloves memory ("the way he'd done it last for Danny") became a plain sentence: "The last hands he had done this for were Danny's, at the bus stop at the bottom of School Street…".
+- [Listener pass]:
+  - s3 longing: the 41-word draft-and-let-go sentence is split in two; the longest sentence in the passage is now about 31 words.
+  - s5 gloves: the 90-word glove sentence is now four sentences, the longest about 30 words. The memory is one sentence and the thumb-first detail and "slow" survive.
+  - s3 vary: "the paper" ×3 (two in dialogue), "the counter" ×2, "her counter" gone ("He left the release where it lay"), "the grill ticked" 3 → 2 (the third dropped from the Legion man's shoe-changing sentence), "short paper" → "short page", "the middle of the paper" → "the middle of the release".
+- [Speaker clarity, fixed]:
+  - s5: Ellen's "I read that as a formality." followed Judy's action beat with no tag and read as Judy's. Now: "Judy pinched the line at the depth she wanted and said nothing, and Ellen filled the quiet." Ellen's fear register (polite, filling a silence with procedure) is shown there instead of told.
+  - s3: Ray's "So that when I tell you no…" followed Ellen's pencils. "he had learned to wait" → "he had learned to wait, up to a point.", so it is plain that Ray is the one who speaks next.
+- [Untouched on purpose]: "It was warm." with nothing after it; "they're dry, and they're yours"; the Wolfeboro clocks story; every beat-sheet kept line; the one-clause "She had it exactly, and the last was the true one." (the beat sheet's one allowed interior line in the refusal).
+- [Endings]: s1 ends on the plate; s2 on the papers left on the counter; s3 on the drawer; s4 on Ray going after her with his peg ahead; s5 on "She had friends." No closing lines added.
+- [Added life]: none beyond the above. The chapter is at the top of its band, so the budget went to cuts and clarity. The scenes already carry the comic engines: ham at seven against thirty years of one supper (s1), Ray talking to the price gun (s2), the clocks story and "Twice." (s4).
+- [Checks]: no digits, no dollar figure; "Raymond" 2; "Voyons donc" 1; "Stand by" the only ATC phrase; "Kettle Maintenance" absent; Normie unnamed; "fella" 1; personified lake 1 ("saved her temper for March").
+- [Flagged for writer]: none. No scene hit three tell groups.
+- [Pattern pair for the pipeline]: stop opening a line of dialogue after a third party's action beat with no tag when the two speakers in the scene alternate (s5 "formality"); instead tag it or give the speaker a short action of their own in the beat before.
+
+## Audit pass (orchestrator), Oct 30
+One regex hit for contrast construction (s4: "She didn't look at Ray… She was keeping his no for him"): the sentence pair recast so the narrator does not restate the beat. Audit through Ch 06 otherwise clean.
