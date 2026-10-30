@@ -2,11 +2,11 @@
 
 "Mom. Scale of one to ten."
 
-Kate's voice came up off the steel desk fast and flat, the voice of a nurse on her break who meant to use all of it, with a microwave running somewhere behind her. Ellen called on Sundays at seven, so on a Thursday night a call from Kate was news.
+Kate's voice came up off the steel desk fast and flat, the voice of a nurse on her break who meant to use all of it, with a microwave running somewhere behind her. Ellen called on Sundays at seven, so a call from Kate on New Year's Eve was news.
 
 January's book lay open under Ellen's left hand. Her printing ran down every Tuesday and every Thursday, league and league and league, and the Saturdays were blank from the top of the page to the bottom. Kate would hear whatever was in her voice, so there would be nothing in it.
 
-"Two."
+"Two," Ellen said.
 
 "You said two with your knee in a brace."
 
@@ -16,7 +16,7 @@ Through the shut office door the house came to her with the edges rubbed off it,
 
 "Still the rest."
 
-"Good." Something tore at Kate's end, a wrapper. "I took nights through March. Charge nurse. Signed Tuesday."
+"Good." Something tore at Kate's end, a wrapper. "I took nights through March. Charge nurse, the whole quarter. Signed Tuesday."
 
 Three items, with no space left in them for a question: the decision, the date, done. Ellen had briefed people that way her whole working life, and she knew whose kitchen table Kate had learned it at.
 
@@ -120,7 +120,7 @@ Denise's cloth stopped on the case glass, and she looked at Ellen over it.
 
 "Don't you touch Linda's night. And I say that as a woman who's been second to it four times, with my Lakeview Diner."
 
-Ellen got up off the stool. January ran again in her head, league nights and no parties, and came out where it had come out on the twenty-second.
+Ellen got up off the stool. January ran again in her head, league nights and no parties, and came out where it had come out on the twenty-second of December, with Judy on the phone.
 
 "You're standing," Denise said, with the cloth still in her hand. "What happened?"
 
@@ -130,7 +130,7 @@ Ellen got up off the stool. January ran again in her head, league nights and no 
 
 Danny was counting the drawer at the far register, laying the bills out in short stacks on the rubber mat with his lips moving. Ray stood at the near end of the counter with both hands on the wood and let him.
 
-The Bench had gone home, and their three stools stood empty by the front window with Main Street dark behind them. Roof rakes hung in a row from the ceiling over the aisles, and the store smelled of kerosene and birdseed. Ellen's bulbs sat on the counter between her and Ray in a paper sack folded over at the top, a carton of them for the cages in the pit, rung up and paid for. She had not picked it up.
+The Bench had gone home, and their three stools stood empty by the front window with Main Street dark behind them. Roof rakes hung in a row from the ceiling over the aisles, and the store smelled of kerosene and birdseed. Ellen's bulbs sat on the counter between her and Ray in a paper sack folded over at the top, a carton of them for the cages in the pit, rung up and paid for. She had not picked the sack up.
 
 Danny looked over at his father, and went back to his stacks, and in a minute looked over again. Ray's right thumb was moving on the wood, a quarter inch out and a quarter inch back.
 
@@ -140,29 +140,29 @@ Danny looked over at his father, and went back to his stacks, and in a minute lo
 
 "Tell your thumb."
 
-Ray's thumb stopped. He looked down at it on the wood, and at the far register Danny bent over his stacks again with his ears gone red. Ellen kept her face still, and it took some keeping.
+Ray's thumb stopped. He looked down at it on the wood, and Danny bent over his stacks again with his ears gone red. Ellen kept her face still, and it took some keeping.
 
 She put both her hands on the edge of the counter, across the sack from his.
 
 "I am asking you for Linda's name, on her day."
 
-Ray's hands stayed where they were. At the far register Danny could have taken the drawer into the back and did not. He laid another bill on a stack, and another.
+Ray's hands stayed where they were. Danny could have taken the drawer into the back and did not. He laid another bill on a stack, and another.
 
 Ray looked at her hands on the edge of the counter, and then at her. "You're asking me."
 
 "I am."
 
-She had asked, and he was holding it. She had picked his counter for it, under his store's lights, with his son at the far register, so that whatever he said to her would be said where he said things. She would not ask him in the pit, where he had kissed her.
+She had asked, and he was holding it. She had picked his counter for it, under his store's lights, with his son in the room, so that whatever he said to her would be said where he said things. She would not ask him in the pit, where he had kissed her.
 
-He looked at her across the sack of bulbs, and she could see him go back over the sentence word by word.
+He looked at her across the counter, and she could see him go back over the sentence word by word.
 
 "Go on and give me the rest of it," he said, "and I'll take it in one go."
 
-Her voice, when it came, was polite and unhurried, the voice for giving a stranger directions, and underneath it everything ran fast: his hands on the wood, the soft slap of bills down the counter, the dark window, how long a man like him took to say no. She had never in her life said *I am asking* to anyone. The first time had gone to him, across a sack of light bulbs.
+Her voice, when it came, was polite and unhurried, the voice for giving a stranger directions, and underneath it everything ran fast: his hands on the wood, the soft slap of bills down the counter, the dark window, how long a man like him took to say no. She had never in her life said *I am asking* to anyone. The first time had gone to him, over a carton of light bulbs.
 
-"The last Saturday in February is derby weekend, and the lake will be full of people with nowhere warm to be. I want her Memorial open to anyone who pays to enter, with her name on the cup, and the league bowls with everybody."
+"The last Saturday in February is the ice-fishing derby, and the lake will be full of people with nowhere warm to be. I want her Memorial open to anyone who pays to enter, with her name on the cup, and the league bowls with everybody."
 
-Ray's face gave her nothing. Down the counter Danny snapped a rubber band round a stack and laid it in the drawer.
+Ray's face gave her nothing. Danny snapped a rubber band round a stack and laid it in the drawer.
 
 "If the winter goes the way winters go here, I miss by about the whole of January."
 
@@ -170,7 +170,7 @@ His thumb stayed where his son had stopped it.
 
 "Nothing else I can put on that weekend is the size of her name. If I miss, you buy it at appraisal, and I get back less than the house my daughter let me spend."
 
-She watched the last of it reach him. He had heard her say *the house* into a telephone the morning he rekeyed her door, with her old pins in his shirt pocket, and now he knew which house. His face changed with it: his eyes went down to the sack of bulbs between them and stayed there, and his mouth set, and she had her answer before he gave it.
+She watched the last of it reach him. He had heard her say *the house* into a telephone the morning he rekeyed her door, with her old pins in his shirt pocket, and now he knew which house. His face changed with it: his eyes went down to the sack between them and stayed there, and his mouth set, and she had her answer before he gave it.
 
 His hands had not moved the whole time she talked. They lay on the wood, big and nicked, with the old white seam along one finger, and she wanted them on her face, where they had been two nights ago.
 
@@ -188,7 +188,7 @@ One more sentence belonged in the room, and she had thought it would have to com
 
 "And I know what my no's worth, coming from the man who buys if you miss. Nothing."
 
-At the far register Danny's hands went still on the bills. Normie had meant exactly that with a plastic fork in his hand on her settee, and Ray had said it first, at his own counter, out loud, in front of his son.
+Danny's hands went still on the bills. Normie had meant exactly that with a plastic fork in his hand on her settee. Now Ray had said it himself, at his own counter, out loud, in front of his son.
 
 His right hand came up off the wood for the first time and started for his back pocket.
 
@@ -200,13 +200,13 @@ Money was the one thing he knew how to hand across a counter. She came in over t
 
 His hand stopped short of the pocket.
 
-"No. Yours couldn't count if you gave it. Anything that counts has to have sat in my name since before I signed for the building. And yours is what pays Arlene if I miss."
+"No. Yours couldn't count if you gave it. The bank only counts money that has sat in my name since before I signed for the building. Yours would be new money. And yours is what pays Arlene if I miss."
 
 His hand went back down onto the counter beside the other. He looked at her a while. Then he nodded, once.
 
 Danny had stopped counting.
 
-Her sense of the time said five past five. It had come back since the pit, and she no longer trusted it to the minute. Ray took his hands off the counter, went to the hook behind it for his canvas jacket, put it on one arm and then the other, settled the collar she had held on to in the pit, zipped it, and came round the end of the counter past her and the sack of bulbs and down the center aisle to the door. With his hand on it he turned.
+Her sense of the time said five past five. It had come back since the pit, and she no longer trusted it to the minute. Ray took his hands off the counter, went to the hook behind it for his canvas jacket, put it on one arm and then the other, settled the collar she had held on to in the pit, zipped it, and came round the end of the counter past her and the bulbs and down the center aisle to the door. With his hand on it he turned.
 
 "Then I'll make my no cost me what yours costs you."
 

@@ -1,4 +1,4 @@
-# Audit — the-last-frame (chapters 01–05, 15,408 words)
+# Audit — the-last-frame (chapters 01–05, 15,406 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -77,12 +77,11 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 
 ### Frequent 3–5 word n-grams (4+ uses, whole book)
 
-- 9× “the far register”
-- 8× “at the far register”
 - 7× “in both hands”
 - 6× “behind the counter”
 - 6× “the glass block”
 - 5× “the snack bar”
+- 5× “the far register”
 - 5× “end of the counter”
 - 4× “on march first”
 - 4× “let go of”
@@ -93,8 +92,8 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 4× “she had never”
 - 4× “had a key to”
 - 4× “through the steel door”
+- 4× “at the far register”
 - 4× “the end of the counter”
-- 4× “at the far register danny”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
@@ -118,7 +117,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 02 | 2,975 | 18.1 | 13.4 | 18% | 0.0 | 0.3 | 0.7 | 2 | mean short |
 | 03 | 3,245 | 17.7 | 14.0 | 14% | 0.0 | 0.3 | 0.0 | 3 |  |
 | 04 | 2,980 | 17.5 | 14.0 | 14% | 0.0 | 0.3 | 0.0 | 3 |  |
-| 05 | 2,907 | 18.9 | 12.5 | 12% | 0.0 | 0.3 | 0.0 | 4 | mean openers |
+| 05 | 2,905 | 18.5 | 12.4 | 13% | 0.0 | 0.3 | 0.0 | 4 | mean openers |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -163,7 +162,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | em dashes | 0 | 0 | 0 | 0 | 1 | 1 | 0.1 | 2.0/1k |  |
 | semicolons | 3 | 0 | 1 | 1 | 1 | 6 | 0.4 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 1 | 0 | 0 | 1 | 3 | 5 | 0.3 | 1.0/1k |  |
-| one-sentence paragraph | 6 | 23 | 20 | 18 | 17 | 84 | 5.5 | report |  |
+| one-sentence paragraph | 6 | 23 | 20 | 18 | 18 | 85 | 5.5 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
