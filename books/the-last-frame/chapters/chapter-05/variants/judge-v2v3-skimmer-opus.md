@@ -1,0 +1,13 @@
+A = chapters/chapter-05/variants/v3.md · B = chapters/chapter-05/variants/v2.md · Persona: Skimmer · Model: Opus
+
+1. **Winner: B**
+
+2. **Why:** I was tired, and B kept giving me something to watch, like Denise's knees, Ray staring at his own thumb "like a part he had found in the wrong bin," and his hand going for his back pocket and stopping. A kept stopping to explain what Ellen was feeling in long paragraphs, so I started sliding past them.
+
+3. **Where A lost me:** About 10% in, the paragraph right after Kate's "I signed Tuesday." The line was "She had briefed a household in it for most of Kate's life, outcomes at the kitchen counter and at the foot of the stairs, the shift changed, the knee a two, the retirement and its date, and Kate had taken down nearly every one of them." That's a list of every bit of news she ever gave her kid, and my thumb sped up there. I came back for the countdown and the kiss, which are good. Then it went fast again at about 80%: "Underneath it everything was running at once. The door was at her back, and she knew how many steps it was, and which board by the salt pallet would give." Around 93% I skimmed straight through the money ledger: "my own money lowers the line, slowly, and all of it wouldn't buy back half of January... it has to have sat in my name since before I signed for the building, and it's what pays Arlene if I miss." That's bank rules said in one breath across a counter. Denise's Verna line ("she's carried a hundred-and-one average since Carter") also sent me skating for a beat around 50%.
+
+4. **Where B lost me:** About 72% in, in the middle of the ask: "She had read up on the derby. The Sportsmen's Club put half the county out on the ice for it every winter, in bob-houses and pickups and lawn chairs, and by noon every one of them was cold." Ray is standing right there waiting to say no and I'm getting a fishing-derby brochure. I skimmed it. The Judy money speech at about 92% is the same ledger as A's, but it's broken up by "His hand stopped short of the pocket," so I kept my eyes on his hand and only skimmed the numbers. "Turned everything white in it violet" at about 25% made me stop and re-read, though not in a good way.
+
+5. **Confidence: medium.** The two share most of their lines. A's kiss paragraph ("it was a different fact at this distance") is the better kiss, and if I'd been reading for the kiss alone I'd have picked A. B wins because the people in it move and are funny between the hard parts, and A fills those gaps with Ellen thinking.
+
+6. **Same-author check:** Yes. Same scenes, same lines nearly word for word ("You told my lock," "Then I'll make my no cost me what yours costs you"), same long run-on sentences.
