@@ -1,4 +1,4 @@
-# Audit — the-last-frame (chapters 01–04, 12,457 words)
+# Audit — the-last-frame (chapters 01–04, 12,501 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -19,7 +19,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "honey" (Denise, before something hard) | 1 | 0 | 1 | 0 | 2 | 4 |  |
 | Denise's "You'll live" | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | The sign's buzz | 0 | 0 | 0 | 0 | 0 | 3 |  |
-| The dead K | 0 | 0 | 1 | 1 | 2 | 4 |  |
+| The dead K | 0 | 0 | 1 | 0 | 1 | 4 |  |
 | Ettle / Ettle's | 1 | 0 | 0 | 0 | 1 | 2 |  |
 | Hollis's cap | 0 | 0 | 0 | 0 | 0 | 3 |  |
 | Ray's key ring | 1 | 0 | 0 | 0 | 1 | 4 |  |
@@ -46,7 +46,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "unless the numbers say otherwise" | 0 | 0 | 1 | 2 | 3 | 6 |  |
 | "The wood stays on the lane" (Ch 4 only) | 0 | 0 | 0 | 1 | 1 | 1 |  |
 | deadwood (never a metaphor) | 0 | 0 | 0 | 0 | 0 | 2 |  |
-| Machines sulking | 0 | 1 | 0 | 1 | 2 | 3 |  |
+| Machines sulking | 0 | 1 | 0 | 0 | 1 | 3 |  |
 | "a quarter past five" | 0 | 0 | 0 | 1 | 1 | 3 |  |
 | American chop suey | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | "Scale of one to ten" | 0 | 0 | 0 | 0 | 0 | 3 |  |
@@ -89,7 +89,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
 - jaw: 1 (0.1/1k)
-- knuckles?: 6 (0.5/1k)
+- knuckles?: 5 (0.4/1k)
 - throat: 0 (0.0/1k)
 - reath: 2 (0.2/1k)
 - pulse: 0 (0.0/1k)
@@ -107,7 +107,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 01 | 3,301 | 20.5 | 19.1 | 17% | 0.0 | 0.6 | 0.0 | 2 | mean short |
 | 02 | 2,975 | 18.1 | 13.4 | 18% | 0.0 | 0.3 | 0.7 | 2 | mean short |
 | 03 | 3,245 | 17.7 | 14.0 | 14% | 0.0 | 0.3 | 0.0 | 3 |  |
-| 04 | 2,936 | 17.6 | 14.1 | 13% | 0.0 | 0.3 | 0.0 | 3 |  |
+| 04 | 2,980 | 17.5 | 14.0 | 14% | 0.0 | 0.3 | 0.0 | 3 |  |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -141,17 +141,17 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 | Construction | 01 | 02 | 03 | 04 | Total | /1k | Cap | |
 |---|---|---|---|---|---|---|---|---|
-| as if / as though | 0 | 0 | 1 | 2 | 3 | 0.2 | 1.0/1k |  |
+| as if / as though | 0 | 0 | 1 | 0 | 1 | 0.1 | 1.0/1k |  |
 | the way (a|the|people|someone) ... | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | the kind of ... that | 0 | 0 | 0 | 0 | 0 | 0.0 | 2/ch |  |
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 1 | 0 | 1 | 0.1 | 0.0/1k | FLAG |
-| sentence-initial And/But/And yet | 2 | 1 | 1 | 0 | 4 | 0.3 | 3.0/1k |  |
+| sentence-initial And/But/And yet | 2 | 1 | 1 | 1 | 5 | 0.4 | 3.0/1k |  |
 | em dashes | 0 | 0 | 0 | 0 | 0 | 0.0 | 2.0/1k |  |
 | semicolons | 3 | 0 | 1 | 1 | 5 | 0.4 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 1 | 0 | 0 | 1 | 2 | 0.2 | 1.0/1k |  |
-| one-sentence paragraph | 6 | 23 | 20 | 17 | 66 | 5.3 | report |  |
+| one-sentence paragraph | 6 | 23 | 20 | 18 | 67 | 5.4 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
