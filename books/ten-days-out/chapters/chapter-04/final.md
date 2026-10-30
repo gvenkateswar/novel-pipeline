@@ -14,7 +14,7 @@ She had shown one person how that door went, in her own mudroom, on Friday. Or h
 
 It didn't. He came out onto her back step, pushed the hood back off his head, and turned his face up to the hill, as if somebody had told him where.
 
-Young, wiry, with a wide pale face. She placed men by their boats, and she went through the harbor mooring by mooring and had nowhere to put him. He didn't care who on the island saw that face.
+Young, wiry, with a wide pale face. She placed men by their boats, and she went through the harbor mooring by mooring and had nowhere to put him. He stood with his face up to the hill like a sternman at the end of a bad trip, waiting on his pay and the first boat home.
 
 He went down the planks to the store dock and came out from under it in a skiff. A man on the *Margaret Ann*'s afterdeck took his painter. The skiff went up her side on a line, and he climbed up after it.
 

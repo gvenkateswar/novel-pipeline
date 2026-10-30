@@ -92,6 +92,8 @@ He turned his smile on her. "You keep a good store, Tess. A store like this live
 
 Tess laughed over the end of it, high and quick. "Barge Sunday, says the state. Oil's nine fifty, Lyle. Cigarettes went up a dollar Monday." She reached for the next thing on the counter.
 
+"Sunday," Arsenault said. He was looking at the coins in his palm. "The men I run her for in Portland don't wait on the state, Tess. I owe them a boat that moves." He counted the coins again, the same coins.
+
 He tucked the pack into his jacket and went out under the bell. Through the glass Beth saw him pass Dane on the dock. A nod. Dane stayed on the piling.
 
 Tess rang up the box without looking at it. "Four seventy-nine. Good till next August."
@@ -254,7 +256,7 @@ She took his hand off the boot and turned it over. Her thumb found the ridge of 
 
 "Because of a girl named Marisol." His hand stayed in hers. "In the car, on the way to the safe site, she asked me what I'd do if I weren't this. I said I didn't know. She said everybody who says that wants a boat."
 
-The drum ticked.
+He set the boot down.
 
 "Then she asked for ten minutes at her sister's, and I gave her ten minutes. She's buried in Lawrence."
 
