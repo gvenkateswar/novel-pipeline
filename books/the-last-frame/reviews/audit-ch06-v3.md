@@ -1,4 +1,4 @@
-# Audit — the-last-frame (chapters 01–06, 18,540 words)
+# Audit — the-last-frame (chapters 01–06, 18,425 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -21,7 +21,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | The sign's buzz | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
 | The dead K | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 4 |  |
 | Ettle / Ettle's | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
-| Hollis's cap | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
+| Hollis's cap | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 3 |  |
 | Ray's key ring | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |  |
 | Holding out the key | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
 | "Not yet" (Ch 8's line) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
@@ -83,9 +83,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 5× “under the register”
 - 5× “the snack bar”
 - 5× “the far register”
-- 5× “the price gun”
 - 5× “end of the counter”
-- 5× “the first of march”
 - 4× “on march first”
 - 4× “let go of”
 - 4× “lane six and”
@@ -95,13 +93,11 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 4× “his right hand”
 - 4× “all ten lanes”
 - 4× “she had never”
-- 4× “the bench had”
 - 4× “had a key to”
 - 4× “through the steel door”
-- 4× “on the end stool”
+- 4× “the first of march”
 - 4× “at the far register”
 - 4× “the end of the counter”
-- 4× “on the first of march”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
@@ -112,7 +108,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - pulse: 0 (0.0/1k)
 - chest: 2 (0.1/1k)
 - hands? (stopped|stilled|went still|flat): 3 (0.2/1k)
-- shoulders?: 12 (0.6/1k)
+- shoulders?: 12 (0.7/1k)
 - gaze: 0 (0.0/1k)
 - tightened: 0 (0.0/1k)
 - swallowed: 0 (0.0/1k)
@@ -126,7 +122,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 03 | 3,245 | 17.7 | 14.0 | 14% | 0.0 | 0.3 | 0.0 | 3 |  |
 | 04 | 2,980 | 17.5 | 14.0 | 14% | 0.0 | 0.3 | 0.0 | 3 |  |
 | 05 | 2,905 | 18.5 | 12.4 | 13% | 0.0 | 0.3 | 0.0 | 4 | mean openers |
-| 06 | 3,134 | 17.8 | 12.0 | 13% | 0.0 | 0.3 | 0.0 | 1 |  |
+| 06 | 3,019 | 17.5 | 12.0 | 14% | 0.0 | 0.3 | 0.0 | 2 |  |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -171,7 +167,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | em dashes | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0.1 | 2.0/1k |  |
 | semicolons | 3 | 0 | 1 | 1 | 1 | 3 | 9 | 0.5 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 1 | 0 | 0 | 1 | 3 | 0 | 5 | 0.3 | 1.0/1k |  |
-| one-sentence paragraph | 6 | 23 | 20 | 18 | 18 | 25 | 110 | 5.9 | report |  |
+| one-sentence paragraph | 6 | 23 | 20 | 18 | 18 | 23 | 108 | 5.9 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 

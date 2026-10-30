@@ -79,3 +79,41 @@ Draft edited: draft-dialogue.md (3,177 words by `wc -w`). final.md: 3,153 by `wc
 
 ## Audit pass (orchestrator), Oct 30
 One regex hit for contrast construction (s4: "She didn't look at Ray… She was keeping his no for him"): the sentence pair recast so the narrator does not restate the beat. Audit through Ch 06 otherwise clean.
+
+## Cold-read triage, targeted pass (final.md → final-r2.md → final.md), Oct 30
+Cold reader 4/10 (`reader-notes.md`): the first three scenes read as three document hand-offs (about 1,500 words of paperwork before the ice). Writer pass: s1–s3 cut (the Ch 05 recap; two of Arlene's three outcomes; the Kettle Road memory to a sentence; the price gun to one touch; the Bench paragraph; "She had it exactly…"; "option" → "a way to buy it back"), s4–s5 added to (Hollis's beat under the repeated question; the lake sentence made unambiguous; the Gil line in two breaths; tags in the glove exchange; one more thing Ray notices). Writer's list follows.
+
+## Change list (final.md → final-r2.md)
+
+**s1**
+- Cut the recap paragraph "At his own counter, in front of his son… over the cake." entirely.
+- Cut "And the man from Concord buys the lot for the land under it." and "Ray took the three of them one at a time and answered none of them."
+- Joined Arlene's "I've paid every man in this town…" to the "They never clean it" paragraph (words unchanged) so a listener keeps her as the speaker once the intervening lines are gone.
+- Kettle Road memory cut to one sentence: "He had been sore at her since the day he took his offer up Kettle Road, a man who had kept the store a museum six years and another in a padlocked locker down at the alley." It sits right after "You'd have kept it a museum. I wanted it to live." and agrees with it.
+
+**s2**
+- Opening price-gun line ("He had the price gun going down the row, a click to a pair, and…") cut; the Bench sentence that followed it stays.
+- "Ray laid the second envelope from the Laconia office" → "Ray laid the envelope" ("second" was where the cold reader nearly stopped).
+- Kept one price-gun touch: Ray thumbing the band. Cut "Ray turned the price gun over…", "You're near the end of this roll," Ray told the price gun, and "Reordered Tuesday." Danny's line to the carton is now the only time anyone talks to an object.
+- Moved Danny's want up. Order now: "Is this you…" / "I signed my half…" / Danny takes the gun: "It's said Son on that sign… I'd like it to mean me." / he pockets it: "You're allowed to want something that isn't on a shelf." / the credit-union form / "Grandpa put this store up once…" / "I signed that so you could buy it on her yes…" / "Get all the way out of her paper and I'll sign this one." All kept lines are word for word.
+- Bench paragraph cut to two sentences: the Bench heard; his father counting Ray's drawer. Dropped the end-stool sentence, the envelope-under-eyes sentence and "For four years Danny had let Ray count his."
+- Ending unchanged.
+
+**s3**
+- Cut "She had it exactly, and the last was the true one."
+- "write you an option to buy it back off me" → "write you a way to buy it back off me."
+- Cut "He had nothing behind that one."
+
+**s4**
+- Added, after "I had my blade up, Ray.": Hollis takes off his orange watch cap, looks into it, puts it back on: "Twenty-eight years I asked men out on this ice what they were doing there, and every one of them told me about somebody else first. I never once had to ask a third time." (No "fella"; the chapter's one "fella" stays Ray's.)
+- "The lake saved her temper…" → "The lake, Hollis meant, saved her temper for March and never gave notice."
+- "Gil Arsenault'd drive over from Pine Ridge in Halsey Falls for it. She beat him in the 'ninety-four open…" → "Gil Arsenault would drive over for it from Pine Ridge, his place in Halsey Falls. Linda beat him in the 'ninety-four open, and he still brings it up." (The contraction is gone, "his place" tells the ear Pine Ridge is a business (bible: Pine Ridge Lanes is Gil's), and "Linda" replaces "She" so a listener doesn't hear Ellen.)
+
+**s5**
+- Tags and actions through the glove exchange: "You heard Hollis," he said. / "And you heard Judy," he said, and pressed the last finger home. / She looked up from her hand to his face. "Are you changing your answer?" / "No," he said. / "It belongs to me," Ray said. / "It has Linda's name on it," Ellen said. "She had friends." Nothing follows "She had friends."
+- Added one noticing sentence inside the glove-fitting: "There was a hard place on the side of her middle finger, worn there by a pen she had held her whole working life." This is Ray reading wear: no simile, no seam, no warmth.
+
+**Commitments**
+- Ellen has a pen callus on her middle finger, from her working life (s5). It's a physical fact now on the page; keep it consistent if her hands are described again.
+- Hollis says that in twenty-eight years on the ice he "never once had to ask a third time" (s4). It's a running line Ch 08 s3 could pay off, but nothing depends on it.
+- Pine Ridge is spoken as "his place in Halsey Falls", so Gil is now shown on the page as Pine Ridge's proprietor (consistent with the bible's Ch 6 naming note).

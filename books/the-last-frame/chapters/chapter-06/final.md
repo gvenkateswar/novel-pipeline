@@ -12,8 +12,6 @@ He sat. "It's a release. One clause, and the three of us sign it, and that backu
 
 "Seemed a poor way to ask, with nothing in my hand."
 
-At his own counter, in front of his son, he had told Ellen his no was worth nothing, coming from the man who'd buy if she missed. On the first of March he meant to hand Danny the store, and he would not hand it over as the man the Bench had described over the cake.
-
 "Tell me what happens to you if she misses, Arlene, and tell it plain."
 
 She set her cup down and told it the way she'd tell a man his fuel-oil bill.
@@ -26,13 +24,7 @@ She took a photograph off the top of the open box by her chair, looked at it, an
 
 The scanner said something low about a chimney fire out past the Pelletiers'.
 
-"They never clean it," Arlene said, in the same voice.
-
-"And the man from Concord buys the lot for the land under it."
-
-Ray took the three of them one at a time and answered none of them.
-
-"I've paid every man in this town on the day I said I would. I mean to walk into that place on the first of March with my good hat on, owing nobody."
+"They never clean it," Arlene said, in the same voice. "I've paid every man in this town on the day I said I would. I mean to walk into that place on the first of March with my good hat on, owing nobody."
 
 "She'll pay you, and on the day."
 
@@ -40,7 +32,7 @@ Arlene didn't argue it. She'd been angry at his anger since the day she sold, an
 
 "It sat listed two years, Raymond. You came in eight days after she did. I'd signed with her by then, and I'd have signed with her anyway. You'd have kept it a museum. I wanted it to live."
 
-He had driven up Kettle Road with his offer in his jacket, seen Arlene's office light on at the top of the drive and taken it for a good sign, and been sore at her every week since without once asking why. He had kept the store a museum for six years, and kept another in a padlocked locker down at the alley.
+He had been sore at her since the day he took his offer up Kettle Road, a man who had kept the store a museum six years and another in a padlocked locker down at the alley.
 
 "In nineteen seventy-one I held Normand to a building he never wanted, and he gave it eighteen years. I won't hold a man to a paper he's asked out of."
 
@@ -60,11 +52,11 @@ She folded the release along its creases and slid it into the envelope and put t
 
 "You're late," Danny told the carton of ice cleats.
 
-He had the price gun going down the row, a click to a pair, and the Bench sat on their three stools by the front window with the free coffee, watching Main Street in case it did something.
+The Bench sat on their three stools by the front window with the free coffee, watching Main Street in case it did something.
 
 "I was at Arlene's."
 
-Ray laid the second envelope from the Laconia office on the counter in front of his son: the store, Danny's, on the first of March. Out of habit he picked up the price gun Danny had set down and thumbed the band a click and back.
+Ray laid the envelope on the counter in front of his son: the store, Danny's, on the first of March. Out of habit he picked up the price gun Danny had set down and thumbed the band a click and back.
 
 Danny read the top page through. The pen in his shirt pocket stayed capped.
 
@@ -72,23 +64,19 @@ Danny read the top page through. The pen in his shirt pocket stayed capped.
 
 "I signed my half of getting out this morning."
 
+Danny reached over and took the gun out of his father's hand, not roughly, and held it a moment. "It's said Son on that sign since before I was born. I'd like it to mean me."
+
+He put the gun in his back pocket. "You're allowed to want something that isn't on a shelf."
+
 Danny opened the drawer under the register, took out the credit-union form from December and laid it beside the envelope, his own name on the last line. He had never once said a word about it.
 
 "Grandpa put this store up once, in 'seventy-four, and you swore you'd never ask it twice. I signed this before you could ask."
-
-Ray turned the price gun over in his hand and found nothing wrong with it.
 
 Danny took his fingers off the form. "I signed that so you could buy it on her yes. You're standing in her paper waiting on her no, and I won't put my name to that. Half out's not out."
 
 He squared the new envelope on the counter. "Get all the way out of her paper and I'll sign this one."
 
-"You're near the end of this roll," Ray told the price gun.
-
-"Reordered Tuesday." Danny reached over and took the gun out of his father's hand, not roughly, and held it a moment. "It's said Son on that sign since before I was born. I'd like it to mean me."
-
-He put the gun in his back pocket. "You're allowed to want something that isn't on a shelf."
-
-The Bench had heard every word; hearing was what the coffee was for. For once the man on the end stool called nothing, and that was worse. The envelope would sit on this counter at six tomorrow and every morning after, under three old men's eyes. His father had stood at that register in his overcoat the week he died, counting Ray's drawer a second time, and Ray had let him. For four years Danny had let Ray count his.
+The Bench had heard every word; hearing was what the coffee was for. His father had stood at that register in his overcoat the week he died, counting Ray's drawer a second time, and Ray had let him.
 
 The bell over the door went, and a man in a plow jacket came in stamping salt off his boots, looking for something. "Morning," Danny said, and went down the aisle to him with the price gun in his back pocket, and left both papers lying on the counter where they were.
 
@@ -136,15 +124,11 @@ On lane two the Legion man's ball went down the maple and took what it took.
 
 "Without you behind me, a miss is a bank sale. You want me to sign it so your no feels clean."
 
-She had it exactly, and the last was the true one.
-
 He looked at his name on the first line, by itself above the two blank ones. The grill ticked.
 
-"Then I keep the paper and write you an option to buy it back off me."
+"Then I keep the paper and write you a way to buy it back off me."
 
 "Then you'd be my landlord till I could afford you."
-
-He had nothing behind that one.
 
 "You're right," he said.
 
@@ -178,6 +162,8 @@ Ray shuffled.
 
 "I had my blade up, Ray."
 
+Hollis took off his orange watch cap, looked into it, and put it back on. "Twenty-eight years I asked men out on this ice what they were doing there, and every one of them told me about somebody else first. I never once had to ask a third time."
+
 Ray put the deck down. "I'm courting her."
 
 Hollis waited.
@@ -198,7 +184,7 @@ Somebody knocked on the orange door. It was Ellen, walked out from the access al
 
 "Ten inches of black ice under three of white. That's walking ice. You walked it."
 
-The lake saved her temper for March and never gave notice.
+The lake, Hollis meant, saved her temper for March and never gave notice.
 
 Ellen stood; there was nowhere to sit, and she would have stood anyway. "An Open on derby Sunday. A new cup."
 
@@ -226,7 +212,7 @@ She came back in with the fish, and Hollis looked it over like a measurement.
 
 "Kids' weigh-in and the raffle need a warm room Sunday, and it gets the families off my ice. The club pays you for the room. That's my yes. You'll want Judy's."
 
-He handed her back the fish. "People come in off this ice for Linda's name. They bowled against her. Gil Arsenault'd drive over from Pine Ridge in Halsey Falls for it. She beat him in the 'ninety-four open, and he still brings it up. Put up a cup with nobody on it and you'll get the ones who were coming anyway."
+He handed her back the fish. "People come in off this ice for Linda's name. They bowled against her. Gil Arsenault would drive over for it from Pine Ridge, his place in Halsey Falls. Linda beat him in the 'ninety-four open, and he still brings it up. Put up a cup with nobody on it and you'll get the ones who were coming anyway."
 
 Nobody said anything. The heater hissed.
 
@@ -270,15 +256,15 @@ She looked from one of them to the other. "Going to check my flags."
 
 Ellen's hands hung at her sides in the wet gloves, and where the wool had pulled back from her wrists the skin had gone white. Ray peeled the wet wool from her left hand, and then her right, and stuffed the two gloves in his jacket pocket, where they went on soaking through to his shirt. Then he pulled off his own and held the left one open.
 
-"You heard Hollis."
+"You heard Hollis," he said.
 
-She put her hand into it. He worked the glove down her fingers one at a time, the thumb first because a cold thumb fights you, then each finger into its own place, pressed home at the knuckle, slow. The last hands he had done this for were Danny's, at the bus stop at the bottom of School Street, where two small fingers would go into one hole if he didn't watch them. Her fingers were longer than his boy's had been and colder than anything he'd touched that winter. His glove was a size too big on her and still warm from his hand, and she stood and let him.
+She put her hand into it. He worked the glove down her fingers one at a time, the thumb first because a cold thumb fights you, then each finger into its own place, pressed home at the knuckle, slow. The last hands he had done this for were Danny's, at the bus stop at the bottom of School Street, where two small fingers would go into one hole if he didn't watch them. Her fingers were longer than his boy's had been and colder than anything he'd touched that winter. There was a hard place on the side of her middle finger, worn there by a pen she had held her whole working life. His glove was a size too big on her and still warm from his hand, and she stood and let him.
 
-"And you heard Judy."
+"And you heard Judy," he said, and pressed the last finger home.
 
-"Are you changing your answer?"
+She looked up from her hand to his face. "Are you changing your answer?"
 
-"No."
+"No," he said.
 
 He took her right hand. "These were no good to you wet. Mine are big on you, and they'll stay big, and they're dry, and they're yours."
 
@@ -286,6 +272,6 @@ He did the right one the same, finger by finger, and didn't hurry it.
 
 Ellen looked at her hands in his gloves. "Then your no stays what it is, and I'll go and ask the people it belongs to."
 
-"It belongs to me."
+"It belongs to me," Ray said.
 
-"It has Linda's name on it. She had friends."
+"It has Linda's name on it," Ellen said. "She had friends."
