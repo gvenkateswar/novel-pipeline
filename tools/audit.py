@@ -17,6 +17,9 @@ followed by '## Edit log' are stripped. Reports, per chapter and whole-book:
   3. Tells (docs/ai-fiction-tells.md Part 5): hard-ban hits, mood-word counts,
      phrase counts, construction counts per 1,000 words against the Part 3 caps,
      and a per-scene cluster check (3+ tell groups in one scene).
+  4. Jargon (added Oct 30, 2026, after the author missed the Ch 01 drugs in
+     *Ten Days Out* under boat words): terms from tools/jargon.txt plus the
+     book's own jargon.txt, per chapter and in the book's first 1,000 words.
 
 Anything over cap is flagged FLAG. The tool reports; it changes nothing.
 """
@@ -96,6 +99,34 @@ def load_motifs(book):
 def scenes_of(t):
     parts = re.split(r"\n\s*(?:(?:\\?\*\s*){3}|#{1,3} [^\n]*|—{3,}|-{3,})\s*\n", t)
     return [p for p in parts if len(words(p)) > 150] or [t]
+
+def load_jargon(book):
+    terms = []
+    root = os.path.dirname(os.path.abspath(__file__))
+    def read(p):
+        if not os.path.exists(p): return []
+        return [l.strip() for l in open(p, encoding="utf-8") if l.strip() and not l.lstrip().startswith("#")]
+    base = read(os.path.join(root, "jargon.txt")); extra = read(os.path.join(book, "jargon.txt"))
+    remove = {l[1:].strip().lower() for l in extra if l.startswith("-")}
+    for line in base + [l for l in extra if not l.startswith("-")]:
+        depth = 0; cur = ""; parts = []
+        for ch in line:
+            if ch == "(": depth += 1
+            if ch == ")": depth -= 1
+            if ch == "|" and depth == 0: parts.append(cur); cur = ""
+            else: cur += ch
+        parts.append(cur)
+        for t in parts:
+            t = t.strip()
+            if t and t.lower() not in remove: terms.append(t)
+    return terms
+
+def jargon_hits(terms, t):
+    found = collections.Counter()
+    for term in terms:
+        c = len(re.findall(r"\b(?:" + term + r")\b", t, re.I))
+        if c: found[term] += c
+    return found
 
 def main():
     ap = argparse.ArgumentParser()
@@ -222,6 +253,21 @@ def main():
                 c = count(pat, sc)
                 if (c >= 3 and per_k(c, w) >= 3) or c >= 4: present.append(f"{g}({c})")
             if len(present) >= 3: P(f"- Ch {n} scene {i} ({w} words): FLAG {', '.join(present)}")
+    P("")
+    # ---------- 4. Jargon ----------
+    terms = load_jargon(book)
+    P("## 4. Jargon (words a reader with no boat, court, police or trade experience won't know)\n")
+    P("Caps: at most 2 distinct terms in the book's first 1,000 words; at most 6 distinct terms and 3 uses per 1,000 words in any chapter. A term the page explains in plain words the first time can be removed in the book's `jargon.txt` with a leading `-`. The plot-critical facts (what was found, who is in danger, what happens if they fail) must be in plain words whatever this count says.\n")
+    opening = " ".join(words(whole)[:1000])
+    oh = jargon_hits(terms, opening)
+    P(f"- First 1,000 words: {len(oh)} distinct ({', '.join(f'{k} {v}' for k, v in oh.most_common()) or 'none'}) {'FLAG' if len(oh) > 2 else ''}")
+    P("")
+    P("| Ch | Distinct | Uses | /1k | Top terms | |")
+    P("|---|---|---|---|---|---|")
+    for n, t in chapters:
+        h = jargon_hits(terms, t); u = sum(h.values()); k = per_k(u, len(words(t)))
+        flag = "FLAG" if (len(h) > 6 or k > 3) else ""
+        P(f"| {n} | {len(h)} | {u} | {k:.1f} | {', '.join(f'{a} {b}' for a, b in h.most_common(6))} | {flag} |")
     P("")
     text = "\n".join(out)
     outp = a.out or os.path.join(book, "reviews", f"audit-ch{chapters[-1][0]}.md" if a.through else "audit-manuscript.md")

@@ -1,0 +1,17 @@
+# Jargon list for tools/audit.py section 4. One regex per line (case-insensitive, word-bounded).
+# A term here is one a reader who has never worked on a boat, in a court, a police station,
+# a hospital, a farm or a trade would not know. Books add their own in books/<slug>/jargon.txt;
+# a line there starting with "-" removes a term (use it only when the page explains the word
+# in plain words the first time it appears).
+# --- boats and the water
+reefer|binders?|D-ring|transom|bulkhead|aft|fore(deck)?|bow line|stern(man)?|cleats?|hawser|bollard
+wheelhouse|quarter ladder|gunwales?|bilge|impeller|dragger|trawler|skiff|outboard|float|slip|ramp plate
+ledges?|glass is (going down|falling)|sea's making up|half tide|top of the tide|flood tide|ebb
+hauler|pot warp|buoy(ed)?|mooring|painter|scupper|hatch|galley|helm|starboard|port side|knots
+# --- machines and trades
+generator set|governor|primer bulb|choke|carburetor|manifold|seal tag|bill of lading|manifest
+# --- law and police
+grand jury|Giglio|Brady|subpoena|indictment|arraignment|proffer|COI|OCMI|OCI|chain of custody|302|AUSA
+WITSEC|witness security|task force|CI|confidential informant|warrant return|exigent|probable cause
+# --- medicine
+tourniquet|pressure dressing|hypotherm(ia|ic)|triage|IO line|sats|BP
