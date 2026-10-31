@@ -2,7 +2,7 @@
 
 **Beth**
 
-The last truck onto the ferry that night was the seafood truck, and it was the one that changed her life.
+The last truck onto the ferry that night was the seafood truck, and Beth knew something was wrong with it before it reached the top of the ramp.
 
 Beth Calloway had chained down every vehicle on the deck since she was twenty-two. Eleven years of Thursdays. Cars, a plumber's van, the propane truck, and last, always last, the big white refrigerated truck that carried Cutter Island's lobsters to the mainland. She knew its sound better than she knew her own voice. The cooling unit on its nose roared the whole hour across, so loud that Ned turned up the radio in the captain's cabin to talk over it.
 
@@ -30,7 +30,7 @@ Her heart was going so hard she could feel it in her teeth. She made her voice f
 
 "Crate's busted. You'll lose your count."
 
-She bent and fixed the chain on the truck's wheel, because her hands needed something to do, and because if she ran he would know. Then she walked to the stairs to the captain's cabin at a normal speed, which was the hardest walk of her life. At the top she turned and looked down. He was still on his knees in the sleet, watching her. He favored his left leg when he stood up, and his left heel dragged a line through the slush.
+She bent and fixed the chain on the truck's wheel, because her hands needed something to do, and because if she ran he would know. Then she walked to the stairs to the captain's cabin at a normal speed, and every step of the way she wanted to run. At the top she turned and looked down. He was still on his knees in the sleet, watching her. He favored his left leg when he stood up, and his left heel dragged a line through the slush.
 
 Ned Haskell was at the wheel, with his white beard and his reading glasses pushed up on his head. He'd been the ferry captain for thirty years, and he'd been her father's best friend for longer than that.
 
@@ -52,7 +52,7 @@ When they docked at Pruett and the truck drove off, she held her phone low again
 
 She called the state police from her kitchen at midnight.
 
-She almost didn't. Her father had lost his boat to the bank, on paper, to a man in a good suit who wrote down everything about him in blue pen, and she had hated the idea of being written down by anybody ever since. But she kept seeing the boy she'd taught to row. So she sat at her father's table in her coat and dialed.
+She almost didn't. When the bank took her father's boat, a man in a good suit had written down everything about him in blue pen. She'd hated being written down ever since. But she kept seeing the boy she'd taught to row. So she sat at her father's table in her coat and dialed.
 
 "My name is Beth Calloway. I work on the Cutter Island ferry. I just watched a truck carry fentanyl off my island, and I have its license plate."
 
@@ -70,7 +70,7 @@ At two in the morning, the back door handle turned.
 
 Slowly. Somebody testing it. Then a pause, and a crack, and the whole door jumped in its frame as a shoulder hit it from outside.
 
-Beth didn't think. She was in her wool socks, and she went out the front window over the kitchen sink the way she'd gone out it at sixteen, and dropped into the snow. Behind her, the back door gave with a bang. She heard boots in her kitchen. A man's voice said her name, quietly, like he was calling a cat.
+Beth didn't think. She was in her wool socks, and she went out the window over the kitchen sink, on the far side of the house from the door, the way she'd gone out it at sixteen, and dropped into the snow. Behind her, the back door gave with a bang. She heard boots in her kitchen. A man's voice said her name, quietly, like he was calling a cat.
 
 "Beth. Come on. Nobody wants to hurt you."
 
@@ -94,9 +94,7 @@ The witness's back door was standing open when he got there. Snow was blowing in
 
 He drew his gun. He went through the house fast, every room, and she wasn't in any of them. Then he saw the window over the sink, wide open, and the marks in the snow under it. Small feet. No shoes. And a second set of tracks, big boots, one heel dragging, following the small ones down the hill.
 
-He ran.
-
-He fell twice in the new boots. The second time he lost his flashlight in the snow and left it, because by then he could see the other man's light ahead, down at a little shack on the rocks, and the light was at the door.
+He ran. He fell twice in the new boots and lost his flashlight in the snow, and he left it. Down at a little shack on the rocks, another man's light was at the door.
 
 "Federal officer!" Dane shouted. "Drop it! On the ground!"
 
@@ -132,7 +130,7 @@ He was in trouble. He knew it right then, standing in the snow holding an oar. H
 
 "The government."
 
-Her mouth twitched. Almost a smile. Then her knees went, all at once, and he dropped the oar and caught her before she hit the floor.
+Her mouth twitched. Almost a smile. Then her knees went, all at once, and he dropped the oar and caught her before she hit the ground.
 
 "I'm fine," she said into his jacket.
 
@@ -144,17 +142,17 @@ Her mouth twitched. Almost a smile. Then her knees went, all at once, and he dro
 
 She was quiet for a second. Then she said, "He said my name. In my kitchen. Like he knew me."
 
-"I know. I saw his tracks."
+"I know. I saw his tracks. One of his feet drags."
+
+She went still against him. "Then it was him. The man from the truck. He drags his left foot."
 
 "He got away?"
 
 "Boat. No lights."
 
-"Then he's from here." Her voice went flat. "Nobody from away could find this cove in the dark."
+"Then he's from here." Her voice went flat. "Nobody from off the island could find this cove in the dark."
 
 Dane didn't answer. He was thinking the same thing, and worse. Only the state police and his own office in Portland had known she'd called. And somehow a man had been at her door within two hours.
-
-Somebody had told him.
 
 "Okay," he said. "Here's how this goes. At first light I'm taking you off this island, and you're not coming back until you've talked to a grand jury. Ten days. Maybe less."
 
