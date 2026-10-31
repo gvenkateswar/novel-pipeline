@@ -1,249 +1,197 @@
-# Chapter One: Night Freight
+# Chapter One: The Last Truck
 
-Beth went down the trucks with her gloves off.
+**Beth**
 
-Sleet came flat across the car deck at twenty to nine, orange where it crossed under the floods, and it found the gap between her cuffs and her wrists every time she bent. She read the binders by feel. The co-op's bait truck smelled like a decision somebody had made about herring in August. The plumber had chained his own van, the way he billed, generously and with gaps, and its aft binder gave a quarter turn under her fingers that it had no business giving. She took it up and went to the next one.
+The last truck onto the ferry that night was the seafood truck, and Beth knew something was wrong with it before it reached the top of the ramp.
 
-The dealer's reefer came up the ramp last. The unit on its nose was dark.
+Beth Calloway had chained down that truck every Thursday for eleven years. It was the big white refrigerated truck that carried Cutter Island's lobsters to the mainland, and its cooling unit on its nose roared the whole hour across, so loud that Ned turned up the radio in the captain's cabin to talk over it.
 
-She stood with the next chain in her hands and watched it roll aboard. Every Thursday for two years, that unit had droned the whole crossing, loud enough that Ned turned the radio up to talk over it. Tonight the display was black and the reefer came on as quiet as a hearse.
+Tonight it came up the ramp silent.
 
-"Bethie." Ned was at the wheelhouse rail above her, ice in his beard. "I'll work it short. Go home."
+She stood in the sleet with a chain in her hands and watched it roll past her. The cooling unit was dark. No roar. No lights. Twelve thousand dollars of live lobster in the back, on a freezing November night, and nobody was keeping them alive.
 
-She walked to the next D-ring and knelt to it.
+That made no sense. A dealer who let his lobsters die lost his whole load.
 
-The driver set his brake and stayed in his cab with the dome light on. She chained the trailer's forward corners, and before she went aft she reached up and put her palm on the unit's grille. Cold, and dead still. A live load on a November night, and the one machine that kept it off the freeze was dead under her palm.
+Unless the lobsters weren't the load.
 
-At the trailer's side door a man in a black hood was stacking the last crates in, face down, quick. A sea came under the ramp and the boat lifted. A crate in the doorway tipped. The band parted with a twang and the lid came up on lobsters, green-black and slow in their bands, and under the top layer, where the lift had shifted them, bricks wrapped tight in gray tape.
+The driver set his brake and stayed in his cab. It was Cole Varney, who had driven that truck onto her deck every Thursday for six years and tipped her twenty dollars at Christmas. A second man was in the back, a man in a black hoodie, stacking the last crates through the side door with his head down, fast. The ferry pulled away from the island. A wave came under the boat, and the deck lifted, and a crate in the doorway slid and hit the steel and split open.
 
-The hooded man looked at her. Up in the cab, the driver looked at her. Nobody moved while the next sea went under.
+Lobsters spilled out across the wet deck, green-black and slow. And under them, packed in the bottom of the crate where nobody was meant to look, were bricks wrapped in gray tape. One had torn. White powder blew out of it in the wind.
 
-Beth put the lid down with both hands and leaned on it and ran the band back round. "Lid's sprung. You'll lose your count."
+Beth knew what it was. Everybody on Cutter knew. Two kids from the island had died of fentanyl in the last three years, one of them a boy she'd taught to row. There was enough on that deck to kill the whole island and the next one over.
 
-She finished the binder and walked aft without hurrying, because hurrying was a thing they could watch. Her hand went along the stern chain across the transom, and she kicked the ice off the ring buoy's bracket on the way by, and the quarter ladder's rungs went past her knee, black and wet. Then the outside ladder to the wheelhouse, the iced rungs burning under her palms. Her shoulder brushed the breaker box on the aft bulkhead, humming through her coat. At the top she stopped and listened. Diesel through her soles. The sea booming under the ramp. Nobody on the rungs behind her.
+She thought of the boy's mother at the funeral, standing in the snow at the church door, shaking every hand that came to her as if she'd been told to. Beth's mouth had gone dry. Her legs felt far away.
 
-Below her, the hooded man came out from behind the reefer and went off the ramp onto her island before Ned brought it up. He favored the left leg, and the heel dragged a line through the slush on the slip, and she watched the line go all the way up into the dark.
+The man in the hoodie dropped to his knees and shoved the bricks back into the crate with his bare hands. Then he looked up at her.
 
-The driver's dome light burned in the cab under the wheelhouse windows the whole way over. Ned kept his eyes on the black water.
+He was young, maybe twenty-five. He had a thin face and a split lip, and he looked more scared than she was. That frightened her more than anything. A scared man with that much money on the line would do anything.
 
-"Sea's making up past the ledges," he said. "That crate of his come open, did it?"
+"You didn't see this," he said.
 
-"Strapped it."
+Her heart was going so hard she felt it in her teeth. She made her voice flat and bored, the way you talk to a dog you don't trust.
 
-"Well."
+"Crate's busted. You'll lose your count."
 
-He didn't ask again. At Pruett the reefer went off the ramp first, and she photographed its plate with the phone held low against her bibs, and had it put away before the taillights reached the road.
+She bent and fixed the chain on the truck's wheel, because her hands needed something to do, and because if she ran he would know. Then she walked to the stairs to the captain's cabin at a normal speed, and every step of the way she wanted to run. At the top she turned and looked down. He was still on his knees in the sleet, watching her. He favored his left leg when he stood up, and his left heel dragged a line through the slush.
 
-They came back into Cutter near the top of the tide. The fuel float at Marr's was lit, at an hour it never was. Ned met her at the foot of the outside ladder with both bags under his arm, the fare bag and the store's, Tess's tag bright on the one in the floods.
+Ned Haskell was at the wheel, with his white beard and his reading glasses pushed up on his head. He'd been the ferry captain for thirty years, and he'd been her father's best friend for longer than that.
 
-"I'll run the store's up."
+"Ned." Her voice came out wrong. "There are drugs in the lobster truck."
 
-"Glass is going down, and you've got the first boat," he said. "Go home. I'll lock up."
+He didn't turn around. He kept his eyes on the black water ahead.
 
-He took the ladder hip first, a rung at a time. At the top he turned and lifted the hand with the bags in it.
+"Bethie," he said, gently. "What did you see?"
 
-Her kitchen was dark and she left it dark. She sat at the table in her coat with the phone on the wall and its twelve-foot cord, which would reach the table if she pulled it, and she didn't pull it. Calling meant saying her name to a stranger and listening to it go down on paper, and she had watched a man in a good coat write her father down once, in an afternoon, in blue pen.
+"Fentanyl. A whole crate of it. Maybe the whole truck."
 
-Past midnight she dialed.
+He was quiet for a long moment. "Then you didn't see it. Not tonight. Not on this boat, with those men twenty feet under us." He looked at her finally, and his face was gray. "Go home when we dock. Lock your door. We'll sort it out in the morning."
 
-"Beth Calloway. Deckhand on the Cutter Island ferry. Calling about a truck." She told it in order, with nothing in it she hadn't seen: the dark unit, the cold grille, the crate, the tape. "I have the plate." She read it off her phone, letter by letter, while the trooper wrote.
+She looked at him. In eleven years she had never once seen Ned Haskell afraid.
 
-"You stay home tomorrow, Ms. Calloway. Don't go to work."
+She stayed up there beside him for the rest of the crossing, because she couldn't make herself go back down. Neither of them said a word. Below the window, the dome light burned in the truck's cab the whole way over, and Cole Varney sat in it with both hands on the wheel, looking straight ahead at nothing. The man in the hoodie stood by the trailer's side door in the sleet. Twice she looked down and found him looking up at the window. The second time, he didn't look away.
 
-She hung up, and somewhere on the mainland her name was going onto a form, and the form would go to somebody, and somebody would come looking for the woman on it. She took her father's alarm clock off the shelf, wound it till the key stopped, and set it for the first boat.
+When they docked at Pruett and the truck drove off, she held her phone low against her coat and took a picture of its license plate. Her hands were shaking so badly that it took her three tries. The man in the hoodie walked off the ramp beside the truck and didn't look back.
 
 * * *
 
-The bow line had frozen stiff in the night, and the ice cracked off it in plates in her hands as she paid it out.
+She called the state police from her kitchen at midnight.
 
-Twenty to eight, and Pruett Harbor hadn't decided it was morning. The sodium lights over the ramp had gone off, and the overcast gave back next to nothing, and the wind was coming on from the east in long cold pushes that smelled of snow. Somebody was coming down the ramp behind her.
+She almost didn't. Then she thought about the boy she'd taught to row, and she sat at her father's table in her coat and dialed.
 
-She heard him before she saw him. A sole that had never met ice, then the skid on the iced plate at the foot of the ramp, and the small grunt of a man reaching for a rail that wasn't there.
+"My name is Beth Calloway. I work on the Cutter Island ferry. I just watched a truck carry fentanyl off my island, and I have its license plate."
 
-She didn't look up from the cleat. "Stand on the yellow. There's grit in the paint. Those boots are for a different ocean."
+The trooper on the line went from bored to wide awake in one sentence. He asked her to read the plate twice. He asked who else had seen. Then he put her on hold for nine minutes, and when he came back his voice had changed.
 
-"They're for a courtroom."
+"Ms. Calloway, this is now a federal case. Somebody from the U.S. Marshals is coming out to you tonight. Lock your doors. Don't open them for anyone until he shows you a badge."
 
-He stepped onto the yellow, and she glanced once, from the line to his boots and back. "Hundred and ninety. The place on Route One that sells fudge."
+"Tonight? The ferry's done for the night."
 
-He looked down at his feet as if they'd told on him.
+"He's coming by police boat. Stay inside."
 
-Then she looked at the rest of him. Dark gray jacket, zipped to the throat. Short dark hair going gray at the sides, wet already. Clean-shaven, which wouldn't last out here. He was looking at her hands on the line before he looked at her face.
+She hung up and checked both doors. She turned off the kitchen light and sat in the dark, listening to the sleet on the windows and the wind in the chimney.
 
-"Ms. Calloway." Very polite. "Dane Reyes, Marshals Service. I understand you were told not to work, which I'd hoped meant you wouldn't."
+She thought about calling Ned, and didn't. She thought about the man in the hoodie looking up at the window, and how small this island was, and how everybody on it knew which house was hers. Her father's house. The kitchen still smelled faintly of his pipe after six years, or she told herself it did.
 
-She paid out another fathom and made him wait.
+One o'clock went by. Two. The police boat didn't come.
 
-"The plate you read to the trooper belongs to Wade Pelletier," he said. "He was stopped on Route One before it got light, and he's in a cell in Portland, which makes you the case. I mention it because the case is out here on an iced ramp holding a rope."
+A little before three, the back door handle turned.
 
-"Line."
+Slowly. Somebody testing it. Then a pause, and a crack, and the whole door jumped in its frame as a shoulder hit it from outside.
 
-The courier's van backed down to the head of the ramp and the courier lifted one hand out the window. Beth went up the deck, came back with the pouch, and handed it in at his window. He tossed it on the seat beside the clinic's, got out to light a cigarette in the lee of the van, and smoked half of it with the door hanging open. Reyes watched the pouch go from her hands to the courier's and stayed on it until the van door shut. She had been looked over on this ramp by eleven years of men and had never once come second to a canvas bag.
+Beth didn't stop to think. In her wool socks, she went out the window over the kitchen sink, on the far side of the house from the door, the way she'd gone out it at sixteen, and dropped into the snow. Behind her, the back door gave with a bang. She heard boots in her kitchen. A man's voice said her name, quietly, like he was calling a cat.
 
-"Pouch is zipped and going to the bank. You can stop watching it. I'm the one casting off."
+"Beth. Come on. Nobody wants to hurt you."
 
-That brought him back, and she got his eyes for the first time, brown and tired at the corners. "I watch whatever leaves your hands. It's a habit, and not one of my better ones."
+She ran.
 
-After that he watched her instead. She felt it on the side of her face while she worked, steady and unhurried, and she paid the same fathom out twice.
+Down the hill behind the house, through the snow in her socks, the cold so sharp it felt like fire. Her father's old fish shack stood at the bottom on the rocks by the water, a little shingled building where he'd kept his traps. She got the door open and pulled it shut behind her and stood in the pitch dark with her back against the wall, breathing through her mouth so she wouldn't make a sound.
 
-"Kenny's puking and there's no relief on a storm Friday." She put a turn on the cleat. "Master and one deck. That's the certificate. Without me she doesn't leave the slip."
+She couldn't feel her feet. Her own heart was loud in her ears, and under the floor the sea sucked at the rocks, and there was nothing else.
 
-He looked up at the wheelhouse. Ned, behind the windows, lifted his coffee.
+Up the hill, a flashlight came out of her house. It swung across the yard. It found her footprints in the snow.
 
-"Your captain's toasting me. I'm choosing to take that as support."
+It started down the hill.
 
-He looked down at her again. "That's a good point about the certificate, and I'm going to walk around it. Here's how this goes. You walk up this ramp with me, and you get in the gray car at the top, which has a heater and, unlike everything else down here, isn't moving—"
+She felt along the wall in the dark for anything. Rope. A coil of wire. Then her hand found something long and smooth leaning in the corner, and she knew it by touch before she knew it by thought. One of her father's oars. She took it in both hands and stood beside the door and waited, and the light came closer, and closer, and stopped outside.
 
-"You're not arresting me."
+* * *
 
-"I'm not arresting you."
+**Dane**
 
-"Then I'm working." She coiled slack and laid it clear of his boots. "I'll work her in and the two o'clock back, and I'm yours on the ramp when we're in."
+Deputy U.S. Marshal Dane Reyes had been told this was an easy job.
+
+Pick up a witness on an island, bring her to Portland, put her in a hotel, go home. He'd bought new boots that afternoon, at a place on Route 1 that also sold fudge, for a boat he was going to look at on Saturday, because the boots he owned were for courtrooms. He'd been in a motel ten minutes from the harbor when the call came. The Marine Patrol officer who drove him across the bay in the dark had looked at the boots and said nothing, which Dane had decided to take as a compliment.
+
+The witness's back door was standing open when he got there. Snow was blowing into her kitchen.
+
+He drew his gun. He went through the house fast, every room, and she wasn't in any of them. Then he saw the window over the sink, wide open, and the marks in the snow under it. Small feet. No shoes. And a second set of tracks, big boots, one heel dragging, following the small ones down the hill.
+
+He ran. He fell twice in the new boots and lost his flashlight in the snow, and he left it. Down at a little shack on the rocks, another man's light was at the door.
+
+"Federal officer!" Dane shouted. "Drop it! On the ground!"
+
+The light swung toward him and went out. Dane heard boots on rock, running, and then a splash, and an engine starting somewhere out on the water. A small boat, no lights, gone into the dark.
+
+He let it go. He'd come for the witness.
+
+He went to the shack and put his hand on the door. "Ms. Calloway? My name is Dane Reyes. I'm a U.S. Marshal. I'm going to open this door slowly—"
+
+The door flew open, and something long and heavy swung at his head out of the dark.
+
+He got his arm up just in time. It was a wooden oar, and it hit his forearm hard enough to make him swear. He grabbed it and held on, and then he was standing in the snow holding one end of an oar while a furious woman held the other.
+
+She was tall, almost his height, with a blond braid and a red, wind-burned face. She was in a sweater and jeans and wool socks soaked through with snow, and she was shaking so hard her teeth were going, and she still looked like she wanted to hit him again.
+
+"Badge," she said.
+
+"You want to let go of the oar first?"
+
+"Badge."
+
+He showed her his badge with his free hand. She looked at it for a long time, and then at his face, and then, last, down at his feet.
+
+"Those boots," she said, "are for a different ocean."
+
+He stared at her. Somebody had just broken into her house and chased her through the snow in her socks. She'd tried to brain a federal officer with an oar. And she was making fun of his boots.
+
+He was in trouble. He knew it right then, standing in the snow holding an oar. He'd protected maybe forty witnesses, and he had never once wanted to make one of them laugh.
+
+"They're new," he said. "I was told it was an easy job."
+
+"Who told you that?"
+
+"The government."
+
+"The government should have said something about the boots."
+
+"The government," he said, "is going to hear about it."
+
+Her mouth twitched. Almost a smile. Then her knees went, all at once, and he dropped the oar and caught her before she hit the ground.
+
+"I'm fine," she said into his jacket.
+
+"You're in socks in a snowstorm. You're not fine. You're an ice cube with opinions." He pulled off his coat and put it around her and held her against him, rubbing her arms hard. She didn't push him away, which told him how cold she was. "Your feet. Can you feel them?"
+
+"Yes. They hurt."
+
+"Good. That's good. Hurting means they're still yours."
+
+She was quiet for a second. Then she said, "He said my name. In my kitchen. Like he knew me."
+
+"I know. I saw his tracks. One of his feet drags."
+
+She went still against him. "Then it was him. The man from the truck. He drags his left foot."
+
+"He got away?"
+
+"Boat. No lights."
+
+"Then he's from here." Her voice went flat. "Nobody from off the island could find this cove in the dark."
+
+Dane didn't answer. A man had been at her door within three hours of her call, and Dane didn't like how fast that was.
+
+"Okay," he said. "Here's how this goes. At first light I'm taking you off this island, and you're not coming back until you've talked to a grand jury. Ten days. Maybe less."
+
+She pulled back far enough to look at him. Her eyes were gray, and they were not friendly.
 
 "No."
 
-His phone buzzed in his chest pocket. He took it out, read it, and turned the screen away from her with his thumb, a small neat movement, as if he did it in his sleep.
+"Ms. Calloway—"
 
-"Am I keeping you?"
+"Beth. And no. This is my island. Those men poisoned it, and one of them just walked into my father's house. I'm not running to some hotel in Portland and letting them think it worked."
 
-He put the phone away, and for a second his hand stayed on the pocket. Then he came a step closer down the yellow, close enough that she could see the sleet melting on his lashes and smell mainland coffee on him, the kind that came with a lid, and he said it slowly, every word set down like a box he didn't want to drop. "The last witness who knew her own town better than I did is buried in it."
+"Somebody just tried to kill you."
 
-The wind went over them both.
+"Then you'd better be good at your job, Marshal." She was still shaking. She was still leaning against him, and she didn't seem to have noticed. "Are you?"
 
-She had a dozen things for that, and none of them were any good. He stood there in the wrong boots and waited for her to be sensible. Nobody had waited on her like that since her father, and her father had mostly been waiting for the same thing.
+He looked down at her. Her face was six inches from his. He felt her breathing against his chest, fast and shallow, and he wanted, very badly and very unprofessionally, to find out what her mouth would do if she ever actually smiled.
 
-From the wheelhouse Ned gave one short blast.
+"I'm very good at my job," he said. "Ask me again in ten days."
 
-Beth lifted the eye off the cleat. The bow ramp groaned and started up under her, and she stepped back with it, and the gap opened between the steel and the slip, a hand, a foot, a stride of black water with the ice turning in it. A gust set them toward the dolphin, and she had the correction in her own hands a breath before Ned made it.
+"I might." Her eyes went to his mouth and stayed there a second too long, and then came back up to his, and she didn't look sorry about it at all. "You're warm, Marshal. I'll give you that."
 
-Reyes jumped.
+Then she stepped back out of his arms, still in his coat, and he had to remind himself what he was supposed to be doing with his hands.
 
-He jumped badly, all knees and no plan, and the new boots hit the lip of the rising ramp and went straight out from under him. She had the front of his jacket in both fists before his knee came down, and she sat back hard against him and the slope of the steel and hauled, and he came over the lip and down onto one knee on her deck, and his hand closed over her wrist and held.
+Outside, over the water, the wind was rising. Somewhere out there in the dark, a small boat with no lights was going home to someone on her island.
 
-He kept the wrist, and she kept the jacket. She could feel the sea working under the ramp through the soles of her boots, and the cold of his hand, colder than hers, wrapped all the way round the bones of her wrist like he had measured it, and the water widening behind him where Pruett had been, and his breath going in and out against her knuckles, and she was still holding on.
-
-Somewhere in there it had turned into two people on a cold deck holding each other by the clothes, and she couldn't have said which of them was supposed to move first.
-
-She opened her hands first.
-
-"You're welcome."
-
-"I didn't say anything."
-
-"I noticed."
-
-* * *
-
-She coiled the bow line in the lee of the deckhouse, working the ice out of it a fathom at a time, and he stood beside her and dripped. His right knee was soaked dark where he'd gone down on her deck. Spray came over the bulwark in sheets.
-
-"When this gets written up, and it will, I jumped. You're the only witness, so I'd like you to get it right."
-
-She went on coiling and gave him nothing for it.
-
-"You also caught me, which was decent of you, and I'd have done the same for you."
-
-"You'd have gone in."
-
-"Probably. Decently, though."
-
-Her right wrist still knew where his fingers had gone round it. She kept that hand on the line.
-
-Off the ledges a lobster boat was hauling in the slop, her stern lifting and dropping, a man in orange bent over the rail. Reyes watched the boat until the trap came over her rail, and for that long he forgot to watch Beth's hands.
-
-"What's a Webbers Cove thirty-four with a rebuilt Cat worth?"
-
-"To who?"
-
-"To me."
-
-"Less than you're paying."
-
-That got the corner of his mouth. "I was supposed to look at one this afternoon."
-
-"Bank took my father's boat." She laid the next coil down. "Man from away has her now. Picnic boat." Another coil. "You want a working boat to sleep on."
-
-"I want a boat I can't be called off of." He said it to the lobster boat, and quieter than anything he'd said on the ramp.
-
-She knew where everybody went: Russ was the *Second Wind*, Ned was the *North Reach*, and a man with no boat was from away, with nowhere on the island to set him down. She'd been standing here a while anyway, putting him at the rail of that boat in the slop, his sleeves shoved up and a trap coming over the side, and getting his hands right on it, and she made the next coil too tight.
-
-"So," he said. "That leaves the two o'clock, and your deal."
-
-"Last boat today."
-
-"Then I'll be very interested in it."
-
-His hand went inside his jacket and came out with a folded paper, dry, the only dry thing on the deck. He held it out and waited until she took it.
-
-"I can't put you in the car," he said. "This I can do."
-
-She unfolded it. The court at the top, in capitals. And under it, typed, all three of them: *Elizabeth Ann Calloway*.
-
-She turned it to the light. He'd had it on him the whole time, at the cleat, on the ramp, with her fists knotted in his jacket right over it, and he'd waited till she had him aboard to bring it out. He was watching her hands again.
-
-She folded it once along the crease he'd made and pushed it down into her bib pocket.
-
-"That's going to get wet in there," he said.
-
-She bent to the next coil.
-
-* * *
-
-Tess was on the slip with the store's handcart. She looked at the marshal's boots before she looked at his face.
-
-"Calloway. Heard you had a man on the eight. Ferry's quicker than the internet."
-
-"He's freight. Sign here."
-
-Tess signed. "Morning, Marshal. Coffee's free to islanders. Two dollars to you." She took her handcart off up the store dock.
-
-While Tess talked, Beth watched every man on the slip walk, the plumber, the co-op boys, two old men down for the news. Not one of them dragged a heel.
-
-Past the head of Marr's dock the night's slush lay on the planks, and one set of prints went down it to the fuel float, the heel scoring a line beside every left one. The prints stopped at the float's edge, where a boat had lain alongside and gone.
-
-Reyes was on her other side, looking up the hill at the houses. Beth stepped over the line where it crossed the head of the dock and kept walking.
-
-Halfway up the hill his phone buzzed. He read it and didn't put it away. He typed as he walked, fast, and she watched somebody she would never meet get a line about her morning. She took him in by the front door.
-
-In the kitchen she pinned the subpoena under the barometer and tapped the glass, and the needle dropped.
-
-"It won't run. Pack if you want. You'll be unpacking by two."
-
-"Dollar says it runs." He said it to the barometer, as if he were asking it a favor.
-
-"I don't bet on what I can see."
-
-He took the window. She fed the stove, and the late morning went by below them.
-
-"Come here," he said. "Slowly."
-
-Off the fuel float a skiff lay to its painter with one man in it, hood up, oars shipped, facing the hill. Sitting down, he had no limp to show her.
-
-"That's him."
-
-Reyes kept his eyes on the skiff.
-
-"Man off the reefer. Hood. Drags the left heel."
-
-"He went back with the truck."
-
-"Walked off before the ramp came up. His track's on Marr's dock. I stepped over it."
-
-"That wasn't in your call."
-
-"No."
-
-He didn't ask why. His arm came across in front of her and moved her a step back from the glass, and that was all of him that touched her.
-
-"I see him. He's sitting in a boat doing nothing, which is what I'd be doing. Stay behind me. You don't have to talk. I'll talk. It's most of the job."
-
-She didn't talk. Wind on the clapboards. The skiff swinging on its painter.
-
-At a quarter past one the handheld on the counter, scanning, stopped on thirteen and opened up.
-
-*"All stations, all stations, this is the ferry North Reach. The fourteen hundred departure is cancelled. Next departure to be announced. North Reach standing by one-six and one-three."*
-
-"There goes my boat," Reyes said to the window, low.
-
-Nobody answered it. The skiff lay tied to the float, empty, and the store dock was bare.
-
-He was already moving, through the kitchen toward the back of the house, his right hand gone to his hip.
+And unless Dane was wrong, somebody had already given that man her name.
