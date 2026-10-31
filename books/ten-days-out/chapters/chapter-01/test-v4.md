@@ -4,7 +4,7 @@
 
 The last truck onto the ferry that night was the seafood truck, and Beth knew something was wrong with it before it reached the top of the ramp.
 
-Beth Calloway had chained down every vehicle on the deck since she was twenty-two. Eleven years of Thursdays. Cars, a plumber's van, the propane truck, and last, always last, the big white refrigerated truck that carried Cutter Island's lobsters to the mainland. She knew its sound better than she knew her own voice. The cooling unit on its nose roared the whole hour across, so loud that Ned turned up the radio in the captain's cabin to talk over it.
+Beth Calloway had chained down that truck every Thursday for eleven years. It was the big white refrigerated truck that carried Cutter Island's lobsters to the mainland, and its cooling unit on its nose roared the whole hour across, so loud that Ned turned up the radio in the captain's cabin to talk over it.
 
 Tonight it came up the ramp silent.
 
@@ -52,7 +52,7 @@ When they docked at Pruett and the truck drove off, she held her phone low again
 
 She called the state police from her kitchen at midnight.
 
-She almost didn't. When the bank took her father's boat, a man in a good suit had written down everything about him in blue pen. She'd hated being written down ever since. But she kept seeing the boy she'd taught to row. So she sat at her father's table in her coat and dialed.
+She almost didn't. Then she thought about the boy she'd taught to row, and she sat at her father's table in her coat and dialed.
 
 "My name is Beth Calloway. I work on the Cutter Island ferry. I just watched a truck carry fentanyl off my island, and I have its license plate."
 
@@ -152,7 +152,7 @@ She went still against him. "Then it was him. The man from the truck. He drags h
 
 "Then he's from here." Her voice went flat. "Nobody from off the island could find this cove in the dark."
 
-Dane didn't answer. He was thinking the same thing, and worse. Only the state police and his own office in Portland had known she'd called. And somehow a man had been at her door within two hours.
+Dane didn't answer. A man had been at her door within two hours of her call, and Dane didn't like how fast that was.
 
 "Okay," he said. "Here's how this goes. At first light I'm taking you off this island, and you're not coming back until you've talked to a grand jury. Ten days. Maybe less."
 
@@ -178,4 +178,4 @@ Then she stepped back out of his arms, still in his coat, and he had to remind h
 
 Outside, over the water, the wind was rising. Somewhere out there in the dark, a small boat with no lights was going home to someone on her island.
 
-And unless Dane was wrong, somebody in an office he trusted had given that man her name.
+And unless Dane was wrong, somebody had already given that man her name.
