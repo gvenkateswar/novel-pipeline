@@ -72,9 +72,9 @@ She hung up and checked both doors. She turned off the kitchen light and sat in 
 
 She thought about calling Ned, and didn't. She thought about the man in the hoodie looking up at the window, and how small this island was, and how everybody on it knew which house was hers. Her father's house. The kitchen still smelled faintly of his pipe after six years, or she told herself it did.
 
-One o'clock went by. Then half past. The police boat didn't come.
+One o'clock went by. Two. The police boat didn't come.
 
-At two in the morning, the back door handle turned.
+A little before three, the back door handle turned.
 
 Slowly. Somebody testing it. Then a pause, and a crack, and the whole door jumped in its frame as a shoulder hit it from outside.
 
@@ -100,7 +100,7 @@ She felt along the wall in the dark for anything. Rope. A coil of wire. Then her
 
 Deputy U.S. Marshal Dane Reyes had been told this was an easy job.
 
-Pick up a witness on an island, bring her to Portland, put her in a hotel, go home. He'd bought new boots for it that afternoon, at a place on Route 1 that also sold fudge, because the boots he owned were for courtrooms. The Marine Patrol officer who drove him across the bay in the dark had looked at the boots and said nothing, which Dane had decided to take as a compliment.
+Pick up a witness on an island, bring her to Portland, put her in a hotel, go home. He'd bought new boots that afternoon, at a place on Route 1 that also sold fudge, for a boat he was going to look at on Saturday, because the boots he owned were for courtrooms. He'd been in a motel ten minutes from the harbor when the call came. The Marine Patrol officer who drove him across the bay in the dark had looked at the boots and said nothing, which Dane had decided to take as a compliment.
 
 The witness's back door was standing open when he got there. Snow was blowing into her kitchen.
 
