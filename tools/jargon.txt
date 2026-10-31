@@ -7,7 +7,7 @@
 reefer|binders?|D-ring|transom|bulkhead|aft|fore(deck)?|bow line|stern(man)?|cleats?|hawser|bollard
 wheelhouse|quarter ladder|gunwales?|bilge|impeller|dragger|trawler|skiff|outboard|float|slip|ramp plate
 ledges?|glass is (going down|falling)|sea's making up|half tide|top of the tide|flood tide|ebb
-hauler|pot warp|buoy(ed)?|mooring|painter|scupper|hatch|galley|helm|starboard|port side|knots
+hauler|pot warp|buoy(ed)?|mooring|painter|scupper|hatch|galley|helm|starboard|port side
 # --- machines and trades
 generator set|governor|primer bulb|choke|carburetor|manifold|seal tag|bill of lading|manifest
 # --- law and police
