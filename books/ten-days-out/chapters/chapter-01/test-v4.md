@@ -172,6 +172,10 @@ He looked down at her. Her face was six inches from his. He could feel her breat
 
 "I'm very good at my job," he said. "Ask me again in ten days."
 
+"I might." Her eyes went to his mouth and stayed there a second too long, and then came back up to his, and she didn't look sorry about it at all. "You're warm, Marshal. I'll give you that."
+
+Then she stepped back out of his arms, still in his coat, and he had to remind himself what he was supposed to be doing with his hands.
+
 Outside, over the water, the wind was rising. Somewhere out there in the dark, a small boat with no lights was going home to someone on her island.
 
 And unless Dane was wrong, somebody in an office he trusted had given that man her name.
