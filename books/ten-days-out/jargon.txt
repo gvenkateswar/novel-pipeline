@@ -1,0 +1,3 @@
+# Book-level jargon adjustments (tools/audit.py section 4)
+# "float" is glossed in plain words at first use, Ch 02 s2 ("the floating dock below the stone pier where every boat but the ferry tied up").
+-float

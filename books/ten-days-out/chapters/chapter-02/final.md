@@ -1,8 +1,8 @@
 # Chapter Two: First Light
 
-Beth Calloway woke wanting the marshal, which was the most inconvenient thing to happen to her in a night that had included a man with a gun.
+Beth Calloway woke wanting the marshal, which was the most inconvenient thing to happen to her in a night that had included a man kicking in her back door.
 
-The man with the gun had been the marshal. He'd sat at her father's table from four o'clock on with it in front of him, and every time she opened her eyes he was there, watching the back of the house.
+The marshal had sat at her father's table from four o'clock on with his gun in front of him, and every time she opened her eyes he was there, watching the back of the house.
 
 He wasn't at the table now.
 
@@ -38,7 +38,7 @@ His phone buzzed on the table. He read it.
 
 * * *
 
-The police boat's engine ran at the dock below the pier the whole time they argued. Snow blew flat across the harbor in the gray first light. The officer at the wheel checked his watch.
+The police boat's engine ran the whole time they argued. It was tied at the float, the floating dock below the stone pier where every boat but the ferry tied up. Snow blew flat across the harbor in the gray first light. The officer at the wheel checked his watch.
 
 "Ten minutes," he said. "After that the sea closes the bay, and I can't come back for you. Not tomorrow. Maybe not for days."
 
@@ -62,21 +62,29 @@ Dane put his boss on speaker.
 
 "The truck was clean when the troopers stopped it. Cole's cold storage on the Pruett wharf has been hosed down. All we have is a little powder in the cracks of one crate. Her eyes are the case.
 
-"The grand jury sits Monday the twenty-third. The prosecutor won't go in on a phone call and a little powder. She wants you in the room, and she says if they don't indict him that morning, he walks."
+"The grand jury sits Monday the twenty-third. The prosecutor won't go in on a phone call and a little powder. She wants you in the room, and she says if they don't indict him that morning, he walks. No charge, no trial."
 
 "The grand jury," Dane said to Beth, "is a room of ordinary people who decide whether there's enough for a trial. They've never heard of you. They're about to."
 
 "Six hours," Beth said, "and I'm already 'the witness.'"
 
-The truck was clean. Cole Varney had paid for the flowers at the funeral of the boy she taught to row, and his truck was clean. Her hands tightened on the rope until the scar in her palm hurt.
+The truck was clean. Cole Varney had paid for the flowers at the funeral of the boy she taught to row, and his truck was clean. Her hands tightened on the rope until they hurt.
 
-Russ Whitcomb came down the pier at a jog. He was the island's constable, its one part-time police officer. Russ Whitcomb was a good man who was bad with money.
+Russ Whitcomb came down the pier at a jog. He was the island's constable, its one part-time police officer.
 
-"Know who just phoned me?" Russ said. "Man who minds the boats in Pruett. A skiff went out from the Pruett dock, across the bay, at half past ten last night. No lights. Skinny young fella with a bad leg."
+"Know who just phoned me?" Russ said. "Man who minds the boats in Pruett. A skiff went out of Pruett, across the bay, at half past ten last night. No lights. Skinny young fella with a bad leg."
 
-Dane looked at Beth. "Half past ten. You called at midnight, which means he was on his way before you ever picked up the phone. Nobody had to tell anybody anything. I was wrong last night."
+"Pruett," Dane said.
 
-All night she hadn't let herself think it: that somebody on her island had given that man her name. Now Dane said it was untrue, and her knees nearly went again. She locked them.
+"He rode over with the truck," Beth said. "I watched him walk off the ramp at Pruett. He lives here, Marshal. He came home in a skiff and found my cove in the dark."
+
+Dane looked at Beth. "Half past ten. You called at midnight. He was on his way before you ever picked up the phone, so nobody on my end had to tell him anything. I was wrong about that." He didn't take his eyes off her. "Somebody still sent him before you called. So who told Cole you'd seen?"
+
+"He saw me," Beth said. "He'd have told Cole himself."
+
+"Maybe."
+
+Half past ten to three. He had crossed the bay in the sleet and sat out there in the dark, waiting for her lights to go out.
 
 "I'm the only one who saw that kid with the drugs," Beth said. "If I run, Cole's people learn that kicking in a witness's door works. And look at Ned. He can't tie that boat up for a storm by himself."
 
@@ -86,7 +94,7 @@ All night she hadn't let herself think it: that somebody on her island had given
 
 "No second deputy gets out there before the storm, Dane," the boss said.
 
-"Then I'm staying." He never once looked at the boat. "A man kicked in her door at three in the morning and came down a hill after her. I'm going to assume he brought more than a flashlight. The skiff explains last night. It doesn't tell me who'll know where she sleeps tonight. So I report to you, and nobody else in that office, because you're the one person there I'd trust with my life."
+"Then I'm staying." He never once looked at the boat. "A man kicked in her door at three in the morning and came down a hill after her. I'm going to assume he brought more than a flashlight. The skiff explains last night. It doesn't tell me who'll know where she sleeps tonight. So I report to you, and nobody else in that office. I do it that way on every case."
 
 A short silence on the line. "Then you call me every morning and every night. Nobody else."
 
@@ -108,7 +116,7 @@ By seven the wind had gone round, and it was pushing the ferry onto the pier.
 
 The ferry's steel side ground against the stone with every wave, a long low groan that came up through the pier into her boots. There was ice on the posts already. Snow came sideways through the pier lights.
 
-She and Ned were doubling the ropes. Every rope that held the ferry to the pier got a second one beside it. Ned worked the posts up on the pier. Beth worked below him on the dock, between the ferry and the stone, where the back ropes came down. She pulled her gloves off with her teeth to tie the knots that mattered. Her fingers went white in a minute. She tied them anyway.
+She and Ned were doubling the ropes. Every rope that held the ferry to the pier got a second one beside it. Ned worked the posts up on the pier. Beth worked below him on the float, between the ferry and the stone, where the back ropes came down. She pulled her gloves off with her teeth to tie the knots that mattered. Her fingers went white in a minute. She tied them anyway.
 
 Dane stood at the edge of the pier and passed down whatever she asked for. He had a teenager's knots from two summers on a lobster boat. They weren't hers, and he didn't pretend otherwise.
 
@@ -116,21 +124,27 @@ Then she heard it. One of the old ropes at the back was groaning wrong, high and
 
 "Ned. That one."
 
-Ned looked at the sky first. "Wind's still coming round. She'll hold till it's done."
+Ned looked at the sky first. "Wind's still coming round. That rope'll hold till it's done."
 
 It went like a shot.
 
-The back of the ferry swung out into the harbor, slow, and then the next wave brought it back in. A hundred feet of steel came at the pier, and Beth was on the dock right in front of it.
+The back of the ferry swung out into the harbor, slow, and then the next wave brought it back in. A hundred feet of steel came at the pier, and Beth was on the float right in front of it.
 
 She didn't make a sound. She couldn't. She watched the steel come.
 
 Something grabbed her coat collar from above and yanked. Ned had her from the pier. He hauled her up and back over the edge like a sack of bait, and she heard him grunt, a sound she had never heard from him, and saw his hand go to his hip. She landed on the stone on her back. Below her, the steel hit the place where she'd been standing.
 
-The first thing she looked for was Dane. Before her own hands. Before Ned. She looked for Dane.
+She rolled over. Ned was down on one knee by the post, breathing hard.
 
-"Dane! Get on the boat!"
+"Ned." She got hold of his sleeve. "Thank you."
 
-He was going over the edge of the pier.
+"Go on. I'm all right."
+
+Then she looked for Dane. The back of the ferry was swinging out again, and nobody was aboard to take a rope.
+
+"Dane! Get on the ferry!"
+
+He was already going over the edge of the pier.
 
 He jumped for the ferry's deck, badly, and landed on his knees on the wet steel with a crack she heard from the pier. He got up.
 
@@ -146,7 +160,7 @@ She was on her feet. She dragged a new rope off the pile and threw him the end.
 
 "It's on, and it's holding. I'm right here, Beth. I'll keep talking till you tell me to stop."
 
-She took the pier end around a post and leaned on it with everything she had, and Ned leaned with her, gray in the face. The ferry came in. The rope creaked and stretched and held. Under them the dock, where the police boat had been tied forty minutes ago, broke apart against the stone with a noise like a barn coming down.
+She took the pier end around a post and leaned on it with everything she had, and Ned leaned with her, gray in the face. The ferry came in. The rope creaked and stretched and held. Under them the float, where the police boat had been tied forty minutes ago, broke apart against the stone with a noise like a barn coming down.
 
 Rope by rope, they walked the ferry in until it lay tied along the pier.
 
@@ -158,11 +172,11 @@ Dane was on his knees on the deck again.
 
 Ned climbed aboard and went slowly up the steel stairs to the wheel. He put both hands on the wheel and turned it. It spun. It spun all the way round with nothing on the other end, and he let go and watched it turn.
 
-He slid the window open. "Snow's letting up a little," he called down. "She's not answering, Bethie."
+He slid the window open. "Snow's letting up a little," he called down. "It's not answering, Bethie."
 
 * * *
 
-The float was gone. It had been the floating dock where every other boat tied up, and now it was one broken section chained to the pier, tilted, half under water.
+The float was gone. One broken section was left, chained to the pier, tilted, half under water.
 
 The ferry's ramp hung out over the water. Two trucks were chained on the car deck, the open deck where the trucks park: a lumber truck and the co-op's bait truck. They'd gone aboard after the last crossing last night to be first off the morning run. There was no morning run. With the ramp over open water, they couldn't drive off, either.
 
@@ -180,8 +194,6 @@ Dane came off the ferry, stiff in both knees, and took hold of her. Both arms, i
 
 Over his shoulder, the lobster boats tied out in the harbor were dragging. The first one hit the rocks on the far side and rolled. Then the second. She watched Russ's boat go with them, slow, and lie down on the rocks like it was tired. Russ stood at the shore end of the pier with his cap in his hand.
 
-She wanted him. She'd wanted him since the oar, and she was done calling it the cold.
-
 "You can let go," she said.
 
 "I know."
@@ -196,10 +208,10 @@ Russ walked over and put his cap back on.
 
 "Russ," Beth said. "Your boat."
 
-"Saw her go. Where are you sleeping tonight? Who's asking? Me, for now. Somebody else will be, before dark."
+"Saw it go. Where are you sleeping tonight?" He put up a hand before she could answer. "Don't tell me. It's me asking today. Somebody else will be asking before dark."
 
 Beth looked up the rise at her father's house. The board was across the back door. She had slept in that house every night of her life. And a man with a bad leg knew every step of that hill in the dark.
 
 "Not there," Dane said beside her. He was looking where she was looking.
 
-She didn't argue. That frightened her more than the steel had.
+She didn't argue. It was the first thing she'd let him decide.

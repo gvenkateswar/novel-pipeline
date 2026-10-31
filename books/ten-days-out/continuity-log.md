@@ -33,6 +33,21 @@
 
 ---
 
+## Chapter 02 — [Ch 02 title per final.md]
+
+*From `chapters/chapter-02/final.md`, 2,215 words, after one reader-fix round (cold reader pull 3 of 5 with "I'd keep reading, but…"; plain reader PASS). POV: Beth.*
+
+**What happened:** Friday Nov 13 (Day 1). Beth wakes on the couch under Dane's coat, "wanting the marshal"; he has nailed a board across her back door; she touches the oar bruise. At first light the Marine Patrol boat waits at the float with ten minutes; she puts one foot aboard and says no. On speaker, Dane's boss: the truck was clean, Beth is the whole case; grand jury Monday Nov 23, the prosecutor wants her in the room, or "he walks. No charge, no trial." Russ (constable) brings news: a skiff left Pruett at half past ten with a thin man with a bad leg. Dane drops his office theory ("I was wrong about that") but asks who told Cole she'd seen; Beth: "He saw me. He'd have told Cole himself." / "Maybe." He lives on the island, rode over with the truck, came home by skiff. Dane stays ("Forty-one, as of this morning"); he reports only to his boss, his habit on every case. The police boat leaves. A ferry rope parts in the storm; Ned hauls Beth clear and hurts his hip; she thanks him; Dane jumps aboard badly and takes a rope. The float breaks apart; the ferry's steering is gone ("It's not answering, Bethie"); the island's lobster boats drag onto the rocks, Russ's among them. The hold: "You can let go." / "I know." Russ: "Where are you sleeping tonight?… Somebody else will be asking before dark." Dane: "Not there." She lets him decide.
+**What changed:** No way off the island: no police boat, no ferry steering, no float, no lobster boats. Dane is staying. Beth wants him and has said so to herself plainly.
+**Who knows what:** The boss knows Dane stays and reports only to her. Russ knows about the skiff. Open question on the page: who told Cole she'd seen.
+**Objects / details introduced:** the board across the back door; the float (low floating dock below the stone pier, glossed); one broken float section chained to the pier, half awash; ferry tied along the pier, ramp out over water, steering gone; the lumber truck and the bait truck stuck on the car deck (boarded after Thursday's last crossing for Friday's first run); Ned's hip; Dane's knees from the jump.
+**Plants placed:** Ned can't swim / "I don't go in" (→ Ch 12); Ned looks back (→ later); who told Cole (→ Ch 09–11); talk against silence in danger (→ Ch 16); "I'll keep talking till you tell me to stop" (→ Ch 16).
+**Plants paid:** the dragging leg (← Ch 01) via Russ's description; the leak hook (← Ch 01) reframed.
+**Numbers stated:** forty-one witnesses; ten minutes; half past ten; Monday the twenty-third; a hundred feet.
+**Ends on:** the pier, Day 1 morning, Dane's "Not there," and Beth not arguing.
+
+---
+
 ## Plant ledger
 | Plant | Placed Ch | Pays off Ch | Status |
 |---|---|---|---|

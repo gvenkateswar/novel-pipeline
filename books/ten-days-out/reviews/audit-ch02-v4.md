@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–02, 4,637 words)
+# Audit — ten-days-out (chapters 01–02, 4,711 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -81,7 +81,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Ch | Words | Mean sent. | SD | ≤5-word share | Codes/1k | Numerals/1k | ALLCAPS/1k | Max opener run | Flags |
 |---|---|---|---|---|---|---|---|---|---|
 | 01 | 2,506 | 11.8 | 9.3 | 34% | 0.0 | 0.4 | 0.0 | 3 | mean short |
-| 02 | 2,131 | 10.7 | 7.4 | 29% | 0.0 | 0.0 | 0.0 | 3 | mean short |
+| 02 | 2,205 | 10.7 | 7.0 | 27% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -96,7 +96,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 - quiet: 2 (0.4/1k)
 - humm?(ing|ed)?: 0 (0.0/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 12 (2.6/1k)
+- still(ness)?: 13 (2.8/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 0 (0.0/1k)
@@ -119,12 +119,12 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | the kind of ... that | 0 | 0 | 0 | 0.0 | 2/ch |  |
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0 | 0.0 | 1/ch |  |
-| contrast construction (not X but Y / wasn't X. It was Y) | 0 | 2 | 2 | 0.4 | 0.0/1k | FLAG |
+| contrast construction (not X but Y / wasn't X. It was Y) | 0 | 3 | 3 | 0.6 | 0.0/1k | FLAG |
 | sentence-initial And/But/And yet | 5 | 3 | 8 | 1.7 | 3.0/1k |  |
 | em dashes | 2 | 0 | 2 | 0.4 | 2.0/1k |  |
 | semicolons | 0 | 0 | 0 | 0.0 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 0 | 0 | 0 | 0.0 | 1.0/1k |  |
-| one-sentence paragraph | 16 | 25 | 41 | 8.8 | report |  |
+| one-sentence paragraph | 16 | 27 | 43 | 9.1 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
@@ -138,5 +138,5 @@ Caps: at most 2 distinct terms in the book's first 1,000 words; at most 6 distin
 | Ch | Distinct | Uses | /1k | Top terms | |
 |---|---|---|---|---|---|
 | 01 | 1 | 1 | 0.4 | grand jury 1 |  |
-| 02 | 3 | 6 | 2.8 | skiff 2, float 2, grand jury 2 |  |
-- Audit ch02 v4: two contrast hits are false positives across a sentence break ("He wasn't at the table now. She was…"; "\"Not there,\" Dane said… He was looking"). Accepted.
+| 02 | 2 | 5 | 2.3 | skiff 3, grand jury 2 |  |
+- Audit ch02 v4 (after reader fixes, 2,215 words): the three contrast hits are false positives across sentence breaks. Accepted.
