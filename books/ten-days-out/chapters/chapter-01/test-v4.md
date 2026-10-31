@@ -176,4 +176,4 @@ He looked down at her. Her face was six inches from his. He could feel her breat
 
 Outside, over the water, the wind was rising. Somewhere out there in the dark, a small boat with no lights was going home to someone on her island.
 
-And on the mainland, in an office he trusted, somebody had given that man her name.
+And unless Dane was wrong, somebody in an office he trusted had given that man her name.
