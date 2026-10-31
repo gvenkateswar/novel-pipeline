@@ -14,7 +14,7 @@ That made no sense. A dealer who let his lobsters die lost his whole load.
 
 Unless the lobsters weren't the load.
 
-The driver set his brake and stayed in his cab. A second man was in the back, a man in a black hoodie, stacking the last crates through the side door with his head down, fast. The ferry pulled away from the island. A wave came under the boat, and the deck lifted, and a crate in the doorway slid and hit the steel and split open.
+The driver set his brake and stayed in his cab. It was Cole Varney, who had driven that truck onto her deck every Thursday for six years and tipped her twenty dollars at Christmas. A second man was in the back, a man in a black hoodie, stacking the last crates through the side door with his head down, fast. The ferry pulled away from the island. A wave came under the boat, and the deck lifted, and a crate in the doorway slid and hit the steel and split open.
 
 Lobsters spilled out across the wet deck, green-black and slow. And under them, packed in the bottom of the crate where nobody was meant to look, were bricks wrapped in gray tape. One had torn. White powder blew out of it in the wind.
 
@@ -44,9 +44,9 @@ He didn't turn around. He kept his eyes on the black water ahead.
 
 He was quiet for a long moment. "Then you didn't see it. Not tonight. Not on this boat, with those men twenty feet under us." He looked at her finally, and his face was gray. "Go home when we dock. Lock your door. We'll sort it out in the morning."
 
-She looked at him. He looked away first.
+She looked at him. In eleven years she had never once seen Ned Haskell afraid.
 
-When they docked at Pruett and the truck drove off, she held her phone low against her coat and took a picture of its license plate. Her hands were shaking so badly that it took her three tries.
+When they docked at Pruett and the truck drove off, she held her phone low against her coat and took a picture of its license plate. Her hands were shaking so badly that it took her three tries. The man in the hoodie walked off the ramp beside the truck and didn't look back.
 
 * * *
 
