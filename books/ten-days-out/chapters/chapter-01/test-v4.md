@@ -20,6 +20,8 @@ Lobsters spilled out across the wet deck, green-black and slow. And under them, 
 
 Beth knew what it was. Everybody on Cutter knew. Two kids from the island had died of fentanyl in the last three years, one of them a boy she'd taught to row. There was enough on that deck to kill the whole island and the next one over.
 
+She thought of the boy's mother at the funeral, standing in the snow at the church door, shaking every hand that came to her as if she'd been told to. Beth's mouth had gone dry. Her legs felt far away.
+
 The man in the hoodie dropped to his knees and shoved the bricks back into the crate with his bare hands. Then he looked up at her.
 
 He was young, maybe twenty-five. He had a thin face and a split lip, and he looked more scared than she was. That frightened her more than anything. A scared man with that much money on the line would do anything.
@@ -46,6 +48,8 @@ He was quiet for a long moment. "Then you didn't see it. Not tonight. Not on thi
 
 She looked at him. In eleven years she had never once seen Ned Haskell afraid.
 
+She stayed up there beside him for the rest of the crossing, because she couldn't make herself go back down. Neither of them said a word. Below the window, the dome light burned in the truck's cab the whole way over, and Cole Varney sat in it with both hands on the wheel, looking straight ahead at nothing. The man in the hoodie stood by the trailer's side door in the sleet. Twice she looked down and found him looking up at the window. The second time, he didn't look away.
+
 When they docked at Pruett and the truck drove off, she held her phone low against her coat and took a picture of its license plate. Her hands were shaking so badly that it took her three tries. The man in the hoodie walked off the ramp beside the truck and didn't look back.
 
 * * *
@@ -66,6 +70,10 @@ The trooper on the line went from bored to wide awake in one sentence. He asked 
 
 She hung up and checked both doors. She turned off the kitchen light and sat in the dark, listening to the sleet on the windows and the wind in the chimney.
 
+She thought about calling Ned, and didn't. She thought about the man in the hoodie looking up at the window, and how small this island was, and how everybody on it knew which house was hers. Her father's house. The kitchen still smelled faintly of his pipe after six years, or she told herself it did.
+
+One o'clock went by. Then half past. The police boat didn't come.
+
 At two in the morning, the back door handle turned.
 
 Slowly. Somebody testing it. Then a pause, and a crack, and the whole door jumped in its frame as a shoulder hit it from outside.
@@ -78,9 +86,13 @@ She ran.
 
 Down the hill behind the house, through the snow in her socks, the cold so sharp it felt like fire. Her father's old fish shack stood at the bottom on the rocks by the water, a little shingled building where he'd kept his traps. She got the door open and pulled it shut behind her and stood in the pitch dark with her back against the wall, breathing through her mouth so she wouldn't make a sound.
 
+She couldn't feel her feet. She could hear her own heart, and the sea sucking at the rocks under the floor, and nothing else.
+
 Up the hill, a flashlight came out of her house. It swung across the yard. It found her footprints in the snow.
 
 It started down the hill.
+
+She felt along the wall in the dark for anything. Rope. A coil of wire. Then her hand found something long and smooth leaning in the corner, and she knew it by touch before she knew it by thought. One of her father's oars. She took it in both hands and stood beside the door and waited, and the light came closer, and closer, and stopped outside.
 
 * * *
 
@@ -129,6 +141,10 @@ He was in trouble. He knew it right then, standing in the snow holding an oar. H
 "Who told you that?"
 
 "The government."
+
+"The government should have said something about the boots."
+
+"The government," he said, "is going to hear about it."
 
 Her mouth twitched. Almost a smile. Then her knees went, all at once, and he dropped the oar and caught her before she hit the ground.
 
