@@ -14,7 +14,7 @@ She was already on the steps.
 
 He got in ahead of her by one step, which was the most he was going to get.
 
-"Kitchen's clear," he said, low. "Hall. Back room. Clear." He kept talking, because she'd stopped. She stood in her kitchen without a word, and he had known her one night and already knew that quiet was how she got scared.
+"Kitchen's clear," he said, low. "Hall. Back room. Clear." He kept talking, because she'd stopped. She stood in her kitchen without a word, and after one night he already knew that quiet was how she got scared.
 
 Snow had drifted across the floor under the window over the sink. The house was empty. He'd been sure it wouldn't be.
 
@@ -24,7 +24,7 @@ He wanted her. He'd wanted her since she swung an oar at his head, and it was th
 
 The truck was clean. Everything Cole Varney's lawyer needed to make go away was standing in this kitchen, putting socks in a bag. Her eyes were the whole case.
 
-And he'd been wrong at the shack. Nobody had given the man her name. He knew the house and the hill and the window, like everybody on this island, and that was why she couldn't sleep here.
+And he'd been wrong at the shack. Nobody had given the man her name. The man had known the house and the hill and the window, like everybody on this island, and that was why she couldn't sleep here.
 
 Below, the ferry's ramp hung out over the water, and the lobster boats lay on the rocks. No way off.
 
@@ -54,21 +54,21 @@ Russ's was the only lit house on the harbor road now, and every dark window on i
 
 Russ put his cap back on and took the shotgun out to the porch. "Who's coming up these steps past me? Not him." He sat with the gun across his knees where the whole road could see him.
 
-Dane put his phone on the table on speaker, with Beth standing right there.
+Dane called his boss on speaker, with Beth right there.
 
 "Dane."
 
 "Russ Whitcomb's house, on the harbor road. He's on the porch with a shotgun. Generator, woodstove, one door at the back."
 
-"Call me at six. And Dane. The grand jury has to hear her by Monday morning, or the prosecutor says Cole walks."
+"Call me at six. The grand jury has to hear her by Monday morning, or the prosecutor says Cole walks."
 
 "She's heard," Beth said.
 
-She poured a mug of Russ's coffee and held it under her chin in both hands, steam on her face, eyes shut, too hot to drink yet. It was the first hot thing she'd had since Thursday.
+She poured a mug of Russ's coffee and held it under her chin in both hands, steam on her face, eyes shut. It was the first hot thing she'd had since Thursday.
 
 He couldn't stop watching her. He could still feel her arms around him on the pier this morning, and how he hadn't let go when she told him to. He wanted that again, and more, and he was supposed to be watching the road.
 
-Out there Russ sat on the only lit porch on the harbor road, and every dark house faced him. Dane stood at the window and saw what the road saw.
+Out there Russ sat in the light, and every dark house on the road faced him. Dane stood at the window and saw what the road saw.
 
 * * *
 
@@ -92,11 +92,11 @@ He counted. He counted everything. He got to two.
 
 She took a fistful of his shirt and kissed him.
 
-He kissed her back hard. His hand went to her jaw, and her back hit Russ's counter, and she didn't care, and neither did he. She tasted of Russ's terrible coffee. Her braid was cold against his wrist and her mouth was hot, and she opened it under his and made a low sound in her throat that he felt all the way down his spine. He slid his other hand under the hem of her father's sweater to her waist. Her skin was warm. She pressed into him, hips and stomach and all of her, and pulled him in by the shirt like a rope she was hauling. For once his head was quiet. Her fingers went into his hair. His thumb found the corner of her mouth. She bit his lower lip, and she wasn't gentle about it, and he heard himself make a sound he had never once made in front of a witness.
+He kissed her back hard. His hand went to her jaw, and her back hit Russ's counter, and she didn't care, and neither did he. She tasted of Russ's terrible coffee. Her braid was cold against his wrist and her mouth was hot, and she opened it under his and made a low sound in her throat that he felt down his spine. He slid his other hand under the hem of her father's sweater to her waist. Her skin was warm. She pressed into him, hips and stomach and all of her, and pulled him in by the shirt like a rope she was hauling. For once his head was quiet. Her fingers went into his hair. His thumb found the corner of her mouth. She bit his lower lip, and she wasn't gentle about it, and he heard himself make a sound he had never once made in front of a witness.
 
 That was what stopped him.
 
-He didn't go far. His forehead stayed on hers and his hand stayed on her face, and for a while they just breathed.
+He didn't go far. His forehead stayed on hers and his hand stayed on her face, and they breathed.
 
 "The truck was clean," he said, "so you're the whole case, and if Cole's lawyer can stand up and tell twelve strangers that the marshal was sleeping with the only witness, those twelve people start wondering what else the marshal told her to say. And then Cole goes home."
 
@@ -134,11 +134,11 @@ At one in the morning the radio on Russ's porch rail crackled, loud.
 
 Dane sat at the table with his back to the wall. Beth was asleep on the couch by the stove.
 
-"Russ! The Dyer house just phoned the store. Says he's the Dyers' nephew, out in his own boat yesterday to check the house before the storm. A tree's come through the roof, and he's hurt, and he can't get his leg out."
+"Russ! The Dyer house just phoned the store. Says he's the Dyers' nephew, out in his own boat yesterday to check the house before the storm. Tree's through the roof. He's hurt and can't get his leg out."
 
 "This is Russ Whitcomb," Russ said, as formal as church. "On my way."
 
-He leaned in the door. "That's Tess. Who's Tess? The store. And in a storm she's the emergency director, which means she drives the one fire truck and runs this radio."
+Russ leaned in the door. "That's Tess. Who's Tess? The store. And in a storm she's the emergency director, which means she drives the one fire truck and runs this radio."
 
 Beth sat up. "The Dyers have a nephew in Augusta."
 
@@ -176,9 +176,9 @@ The shots stopped. He counted the gap.
 
 He said it, and they went.
 
-The back door banged behind them, and the cold hit like another door. A shot came at the sound. Wood split off the top of the woodpile over their heads, and they went down behind it in the snow, the split ends hard against his back.
+The back door banged behind them, and the cold hit like another door. A shot came at the sound and split wood off the woodpile over their heads. They went down behind it in the snow, the split ends hard against his back.
 
-Light from the broken window lay across the side yard. In it, under the window, a line dragged through the new snow: one boot print and a drag. The man had walked right up and looked in before he fired.
+Down the side of the house, in the spill of the porch light, a line dragged through the new snow under the kitchen window: one boot print and a drag. The man had walked right up and looked in before he fired.
 
 The whole harbor road could see where she was, and Dane had made sure of it. And the call had come from the Dyer house, and Russ had gone.
 
