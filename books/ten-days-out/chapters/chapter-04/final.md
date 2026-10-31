@@ -1,15 +1,13 @@
-# Chapter Four: A Disappointing Kit
+# Chapter Four: The Net Loft
 
 Beth Calloway ran Dane Reyes along the shore in the dark with a man shooting at the sound of them.
 
 She had his wrist, and she went first, down the bank behind Russ's woodpile to the rocks below the harbor road. Nobody on the road could see down there, and the water was loud enough to cover boots.
 The rocks had ice on them. She knew which ones. Behind them Russ's generator roared, and with every step it got smaller.
 
-"Behind you," Dane said, low.
+"He's behind us," Dane said, low. "Up on the road."
 
 She said nothing.
-
-"He's up on the road."
 
 The snow came flat out of the northeast. The water was high and black and slopping over the low rocks. She put her feet on the flat tops of the big rocks, where her boots would hold.
 
@@ -25,7 +23,7 @@ Beth was flat on the ice before she had decided to be. Dane was half over her, h
 
 "Damn," she said into the ice.
 
-"He's above us. Left."
+"He's on the road, right above us."
 
 Ahead, the yacht club boathouse stood on its posts over the water, gray and shut for the season, padlocked. She crawled for it, and he came with her. They lay in under its floor on cold wet stones, with the harbor slapping at the posts.
 
@@ -37,19 +35,17 @@ She put her mouth to his ear. "His foot."
 
 Dane went quiet for the first time since the woodpile.
 
-Firm, then a scrape. Firm, then a scrape. She listened until she couldn't tell the steps from the wind. They were going east, toward Russ's lit house.
+Firm, then a scrape. The steps stopped right over them. The bank was fifteen feet of ice, and the man wasn't coming down it with that foot, in the dark, toward a marshal with a gun. Then the steps went back the way they had come, toward Russ's lit house.
 
 Past the boathouse the shore ran open below the church, pale with snow and flat. No cover.
 
 She got up and went across it upright and fast. He had to follow.
 
-"I'm on your left," Dane said at her back, low and even. "He's back by the boathouse. Keep going."
+"He's back by the boathouse," Dane said at her back. "Keep going."
 
-A second shot went off farther back, wild, aimed at the noise. Dane still didn't fire.
+A second shot came from back there, wild. Dane still didn't fire.
 
-"Still with you," he said.
-
-Then the co-op wharf. The fishermen's co-op was where the island's lobstermen sold their catch together, and over it sat the net loft, the long room where the men mended traps and nets in winter. No window on the road. A door that bolted from inside.
+Then the co-op wharf. No window on the road. A door that bolted from inside.
 
 She went up the outside stair with Dane on her heels. The door stuck. It always had. She lifted it on its hinges the way her father used to, and it swung in. She pulled him through and slid the bolt.
 
@@ -65,11 +61,11 @@ Then she took her hand down and found his arm in the dark. His left sleeve was s
 
 * * *
 
-The loft smelled of tarred twine, and under that of bait, coming up through the floor from the co-op below.
+The net loft, where the men mended their nets in winter, smelled of tarred twine, and under that of bait, coming up through the floor from the co-op below.
 
 Beth worked by feel, along the wall to the corner where the men threw their old tarps. She dragged one to the one window, on the harbor side, and hung it from the nails over the frame so no glow could reach the water.
 
-Then she felt her way to the kerosene heater the men used in winter, and the shelf above it where the matches had always been. They were still there.
+Then she felt her way to the kerosene heater and the shelf above it where the matches had always been. They were still there.
 
 She pulled her gloves off with her teeth. Her fingers would barely bend. On the second match the wick took. The heater ticked, and clicked, and caught, and a ring of orange came up out of the dark.
 
@@ -83,11 +79,15 @@ Dane had his phone out. In the orange light it showed no signal.
 
 "Good."
 
+"Russ went out to that call," she said.
+
+If somebody had been waiting for him out there, Russ was lying in the snow now, and nobody knew where he was either.
+
 She pointed at the bench. "Sit."
 
 He sat. She pushed his sleeve up. The cut ran across his forearm above the old bruise, still bleeding, slow. He took a small first-aid kit out of his jacket and handed it to her. He called it the trauma kit.
 
-She cleaned the cut with her bare hands, and they were steady now. He watched them work. She saw him watching.
+She cleaned the cut with gauze and snow scraped off her own sleeve, and her hands were steady now. He watched them work. She saw him watching.
 
 "Ms. Calloway." He said it politely, and slowly. "You walked across open snow ahead of me, with a man shooting at us, and I had to watch."
 
@@ -115,6 +115,10 @@ She wanted him. She had decided back on the ice, with his voice behind her in th
 
 He had.
 
+"And Cole's lawyer?"
+
+He looked at her. "Let him say it."
+
 She kissed him.
 
 He came up off the bench into the kiss and walked her back until her heels hit the pile of old net by the heater. They went down onto it together.
@@ -123,11 +127,11 @@ The old net was stiff with tar and salt and a hundred winters of mending, and it
 
 Across open snow, with a man shooting, he had kept talking at her back. Now he had her face in both hands, and he said nothing at all.
 
-"First time since the boathouse you've shut up," she said.
+"Twice in one night you've shut up," she said.
 
-"Beth." For a while that was all. Then, with his mouth still on hers: "Can I?"
+"Beth." For a while that was all. Then, with his mouth still on hers: "Tell me you're sure."
 
-"Yes."
+"I'm sure, Marshal."
 
 His gun lay on the workbench where he'd put it down, black in the orange light. He looked at it once, the way he looked at every door. Then his eyes came to her and stayed.
 
@@ -139,7 +143,7 @@ He hissed through his teeth. She grinned into his neck and left them there.
 
 He pushed her father's sweater up, and the shirt under it, and the cold hit her skin, and then his mouth did, hot on her breast, his stubble rasping. She arched up off the net with a sound she had to bite down on.
 
-A knot in the net dug into the stiff place low in her back. She shifted off it without thinking, the way she did after a double run, and pulled his head down again.
+A knot in the net dug into the stiff place low in her back. She shifted off it without thinking, the way she did after a day of hauling ferry lines, and pulled his head down again.
 
 She kept the sweater on. The loft was too cold for anything else.
 
@@ -179,7 +183,7 @@ She got his jeans open with her free hand and closed it on his cock, hard and ho
 
 Even now her hand knew to stay clear of the tape on his arm.
 
-The rope of the net pressed its squares into her shoulders through the sweater, and the bait smell came up through the floor, and the heater ticked, and his mouth was at her neck below her ear, and his arm in its white strip of her tape lay across her, and she listened for the dragging step out on the road and could not find it, and she wanted him, his hand, this cold loft, the whole night, and for once in her life nobody had the wheel, and she let it go where it went.
+The net pressed its squares into her shoulders through the sweater. The bait smell came up through the floor, and the heater ticked, and his mouth was at her neck below her ear. She listened for the dragging step out on the road and could not find it. She wanted him, his hand, this cold loft, the whole night, and for once in her life nobody had the wheel, and she let it go where it went.
 
 A corner of the tape on his arm had pulled loose, and a thread of blood came through. She moved his arm to lie along her hip, off the rough net, and kept going.
 
@@ -215,28 +219,24 @@ Dane slid the bolt. Russ came in gray in the face, snow caked on his cap, with h
 
 "Your father mended his traps up here every winter," Russ said. "Took me all night to think of it. Some constable."
 
-"Then the next man to think of it might not knock," Dane said. "We leave now. My boss has been waiting on a call since six."
+"Then the next man to think of it might not knock," Dane said. "We leave now."
 
 Beth put the bag on her shoulder.
 
-Russ looked at the tape on Dane's arm, and the blood through it. "Got home and the window's gone. Glass all over the couch. Blood on my woodpile. Yours, I figured."
+Russ looked at the tape on Dane's arm. "Blood on my woodpile. Yours, I figured."
 
 "When did you get home?" Beth said.
 
 Russ took his cap off and put it back on. "Late."
 
-"What's at the Dyer house?" Dane said.
+"And the Dyer house?" Dane said.
 
-"Mrs. Dyer's been at her daughter's in Bangor since October," Russ said.
+"Empty." Russ leaned on the workbench. "Mrs. Dyer's been at her daughter's in Bangor since October. No boat on the shore, no tree on the roof. Back door open, and somebody used the phone on her kitchen wall."
 
-"And the man on the phone?" Dane said.
+"The Dyer house is out on the point across the harbor," Beth said. "An hour round by the road, with that foot. The call came from there at one, and twenty minutes later he was at your window. Did anybody pass you on that road?"
 
-"Said he came out Thursday in his own boat. There's no boat on that shore, and there's no tree on that roof." Russ leaned on the workbench. "Back door was open."
+"Nobody."
 
-"The call came from her own phone?" Dane said.
+"Then there's two of them." Her hand closed on the bag strap so hard the canvas creaked. "The one with the foot. And somebody who knew that house was empty."
 
-"Off the one on her kitchen wall."
-
-"Anybody on this island could walk in that door," Beth said.
-
-Russ put his hands in his pockets. "Somebody walked in and used her phone."
+She thought of every face on this island, faces she had known her whole life. Which one of them had walked into Mrs. Dyer's house in the dark and picked up the phone?

@@ -62,6 +62,20 @@
 
 ---
 
+## Chapter 04 — The Net Loft
+
+*From `chapters/chapter-04/final.md`, 2,481 words, after one reader-fix round (cold reader 3 of 5, "I'd keep reading, but…: the plot hasn't moved since Ch 02"; plain reader PASS). POV: Beth. Supersedes the outline's Ch 04 title ("A Disappointing Kit") and closing line.*
+
+**What happened:** Saturday Nov 14, about 1:20 a.m. to dawn. Beth leads Dane along the icy shore; the shooter is on the road above and fires twice; they hide under the padlocked yacht club boathouse while his firm-then-dragging steps stop overhead (a fifteen-foot ice bank he won't come down with that foot, toward a marshal) and go back toward Russ's. Across open snow to the co-op wharf; the net loft (where the men mend nets in winter) bolts from inside; no phone signal ("Nobody on earth knows where you are. Including my boss." / "Good."). Kerosene heater. She cleans his cut with gauze and snow and tapes it. They argue face to face: she crossed open snow ahead of him; he never fired; the lit house was his call, and she says half of it is hers. Beth thinks Russ may be lying in the snow. "You said sooner." / "And Cole's lawyer?" / "Let him say it." First heat scene on the net pile: "Tell me you're sure." / "I'm sure, Marshal."; "Still yes?" / "Yes. Don't stop."; "No condoms. Fine. Hands and mouths, then."; "It's a very disappointing kit." / her laugh / "That's one laugh." / "Quit it." He sits up facing the door, gun in reach. Dawn: Russ finds them (her father mended traps up there every winter); he brings her bag; "When did you get home?" / cap off and on / "Late." Mrs. Dyer in Bangor since October; no boat, no tree; back door open; the kitchen phone used. Beth: the Dyer house is out on the point across the harbor, an hour round by the road; the call came at one, the shooter was at Russ's window twenty minutes later; nobody passed Russ on the road. "Then there's two of them. The one with the foot. And somebody who knew that house was empty."
+**What changed:** They are lovers (hands and mouths). The leak question has become a second person on the island. The loft is burned as a refuge.
+**Who knows what:** Russ knows the loft and the Dyer facts. Beth and Dane know there are two people. The boss has had no call since six Friday (no signal in the loft).
+**Objects / details introduced:** the yacht club boathouse (padlocked); the co-op net loft, kerosene heater, the old net pile; Dane's taped left forearm, bleeding through; Beth's bag (Russ brought it); her father's sweater.
+**Plants placed:** Russ's "Late" (→ Ch 11, he was at Tess's); the second person (→ Ch 05 Tess's account, Ch 09–12); the Dyer house on the point across the harbor, windows over the harbor (→ Ch 10 hiding place).
+**Numbers stated:** two shots; fifteen feet of ice; one a.m.; twenty minutes; an hour round by the road; Bangor since October; one laugh.
+**Ends on:** the loft at dawn, Beth gripping her bag strap, asking herself which familiar face walked into Mrs. Dyer's house and picked up the phone.
+
+---
+
 ## Plant ledger
 | Plant | Placed Ch | Pays off Ch | Status |
 |---|---|---|---|

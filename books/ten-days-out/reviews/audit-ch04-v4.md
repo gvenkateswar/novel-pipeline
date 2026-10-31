@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–04, 9,242 words)
+# Audit — ten-days-out (chapters 01–04, 9,298 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -19,7 +19,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "Ice cube with opinions" | 1 | 0 | 0 | 0 | 1 | 1 |  |
 | "I jumped" | 0 | 1 | 0 | 0 | 1 | 2 |  |
 | "Fell toward the boat" | 0 | 1 | 0 | 0 | 1 | 1 |  |
-| "Disappointing kit" | 0 | 0 | 0 | 2 | 2 | 2 |  |
+| "Disappointing kit" | 0 | 0 | 0 | 1 | 1 | 2 |  |
 | "Good till next August" | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | "Four seventy-nine" | 0 | 0 | 0 | 0 | 0 | 1 |  |
 | Receipt | 0 | 0 | 0 | 0 | 0 | 1 |  |
@@ -43,7 +43,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "Your marshal" (Ned, Tess) | 0 | 0 | 0 | 0 | 0 | 3 |  |
 | Ned looks back | 1 | 1 | 0 | 0 | 2 | 8 |  |
 | Gloves off | 0 | 1 | 0 | 1 | 2 | 5 |  |
-| Bare-handed | 1 | 0 | 0 | 1 | 2 | 6 |  |
+| Bare-handed | 1 | 0 | 0 | 0 | 1 | 6 |  |
 | The boy she taught to row | 2 | 1 | 0 | 0 | 3 | 5 |  |
 | Split lip (the kid) | 1 | 0 | 0 | 0 | 1 | 4 |  |
 | Good coat (the lawyer) | 0 | 0 | 1 | 0 | 1 | 5 |  |
@@ -88,7 +88,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 01 | 2,506 | 11.8 | 9.3 | 34% | 0.0 | 0.4 | 0.0 | 3 | mean short |
 | 02 | 2,205 | 10.7 | 7.0 | 27% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 | 03 | 2,103 | 12.5 | 9.7 | 27% | 0.0 | 0.0 | 0.0 | 3 | mean short |
-| 04 | 2,428 | 11.0 | 9.4 | 31% | 0.0 | 0.0 | 0.0 | 2 | mean short |
+| 04 | 2,484 | 11.2 | 7.8 | 27% | 0.0 | 0.0 | 0.0 | 2 | mean short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -103,7 +103,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 - quiet: 7 (0.8/1k)
 - humm?(ing|ed)?: 0 (0.0/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 32 (3.5/1k)
+- still(ness)?: 31 (3.3/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 0 (0.0/1k)
@@ -128,11 +128,11 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 3 | 0 | 0 | 3 | 0.3 | 0.0/1k | FLAG |
-| sentence-initial And/But/And yet | 5 | 3 | 1 | 0 | 9 | 1.0 | 3.0/1k |  |
+| sentence-initial And/But/And yet | 5 | 3 | 1 | 1 | 10 | 1.1 | 3.0/1k |  |
 | em dashes | 2 | 0 | 0 | 1 | 3 | 0.3 | 2.0/1k |  |
 | semicolons | 0 | 0 | 0 | 0 | 0 | 0.0 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 0 | 0 | 1 | 2 | 3 | 0.3 | 1.0/1k |  |
-| one-sentence paragraph | 16 | 27 | 34 | 37 | 114 | 12.3 | report |  |
+| one-sentence paragraph | 16 | 27 | 34 | 34 | 111 | 11.9 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
@@ -149,4 +149,3 @@ Caps: at most 2 distinct terms in the book's first 1,000 words; at most 6 distin
 | 02 | 2 | 5 | 2.3 | skiff 3, grand jury 2 |  |
 | 03 | 1 | 2 | 1.0 | choke 2 |  |
 | 04 | 0 | 0 | 0.0 |  |  |
-- Audit ch04 v4: Ch 04 clean; the contrast FLAG is Ch 02's three accepted false positives. Heat floor measured by the orchestrator: the scene from "You said sooner" runs about 960 words; the act from "Can I?" to scene end about 830.
