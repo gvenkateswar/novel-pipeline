@@ -376,3 +376,11 @@ So the beats and the dialogue doctor don't hand a line to the wrong voice.
 9. **The kid washes the dishes in every house he sleeps in** (Ch 05's summer house). **Default: yes.**
 10. **Beth's age-true details** (the muted group text, the dating app that found two cousins, the flight search she never books) and **Dane's** (texting with periods, the knee, the 2004 Red Sox). **Default: yes,** each used once or twice, never as a list.
 11. **Beth's father stays Alton,** dead six years. That matches the test chapter's "after six years" and v2's timeline (the boat taken eight years ago, his death two years later). **Default: yes.**
+
+## Orchestrator decisions (Oct 30, 2026, per the author's standing instruction to take the recommended default)
+
+- Banned phrases: no author list was found in the shared files; the conflict note in `book-brief.md` came from an earlier voice pass. Keep the approved Ch 01 as written. "Okay" is not Dane's habit; use it at most once a chapter. Use the speaker table's rewordings for the Ch 02 "noted" line and the Ch 08 "record" line.
+- Contrast lines: Ch 08 becomes "That ham is load-bearing." Ch 03 uses the file's reworded alternative for Beth's winning argument.
+- Ch 05: Beth tells Ned directly, as she tells Tess and Russ (her choice on the page). The "Ned at the counter hears all of it" line goes.
+- Ch 08–13, Ch 16 s2, Ch 10 s3: the lines flagged above go into the beat sheets.
+- All smaller defaults stand (Beth 5'10"; Ned sober twenty-two years; Tess's reason; Cole and the flowers; the kid and the dishes; Alton dead six years).
