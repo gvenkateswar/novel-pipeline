@@ -24,7 +24,7 @@
 5. **Plain language.** Beth works on a ferry, but the story is told in ordinary words. At most two boat, legal or police terms in the first 1,000 words, and each one is explained plainly the first time. Plot-critical facts are said in plain words and restated in the next scene (`docs/calibration.md`, Oct 30).
 6. **The mystery is about people.** The traitor is someone close to Beth. Beth and the reader suspect them at the same time; no 20% gap where the reader is ahead of her. No clues built on keys, bags, seals, tags, tides or logs. At most six named characters the reader must keep straight.
 7. **Heat on the page early (lane B, front-loaded).** First steamy scene by about 20–25%, real tension and at least one almost-kiss before it. Each scene grows out of a fight, a fear or a choice, and changes the relationship.
-8. **The rupture passes the one-talk test** (`genre-maps/romance.md`).
+8. **The rupture passes the one-talk test** (`genre-maps/romance.md`). The author, Oct 30: "I definitely hate the classic misunderstanding, I think it's stupid and immature… I always appreciate mature handling of conflict." So no misunderstanding, overheard half-sentence or withheld secret drives any conflict between the leads. When they disagree, they say so to each other's faces, in the scene, and they are both partly right. The fights are adult, and the arguing can be part of the flirting.
 9. **Short chapters:** 16–20 chapters of 1,500–2,000 words, each ending on a question the next opens on.
 
 ## Deliverables
