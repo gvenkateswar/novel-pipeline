@@ -26,7 +26,8 @@
 7. **Heat on the page early (lane B, front-loaded).** First steamy scene by about 20–25%, real tension and at least one almost-kiss before it. Each scene grows out of a fight, a fear or a choice, and changes the relationship.
 8. **The rupture passes the one-talk test** (`genre-maps/romance.md`). The author, Oct 30: "I definitely hate the classic misunderstanding, I think it's stupid and immature… I always appreciate mature handling of conflict." So no misunderstanding, overheard half-sentence or withheld secret drives any conflict between the leads. When they disagree, they say so to each other's faces, in the scene, and they are both partly right. The fights are adult, and the arguing can be part of the flirting.
 9. **Tropes are welcome** (author, Oct 30): forced proximity, the protector stuck with the witness, arguing that turns into flirting, the hero falling first. The misunderstanding is the only one ruled out. Make the specifics belong to these two people so each beat lands a little differently than the reader expects.
-10. **Short chapters:** 16–20 chapters of 1,500–2,000 words, each ending on a question the next opens on.
+10. **The story has to MOVE** (author, Oct 30). Every scene has something happen in it, on the page: an attack, an escape, a discovery, a kiss, a fight, a choice that can't be undone. No scene exists to go over what the characters already know, plan logistics or report news that happened offstage. Never two talk-only scenes in a row. Every chapter changes the situation so the next chapter can't be the same kind of chapter. When in doubt, cut the scene and start the next one later.
+11. **Short chapters:** 16–20 chapters of 1,500–2,000 words, each ending on a question the next opens on.
 
 ## Deliverables
 
