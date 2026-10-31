@@ -48,6 +48,20 @@
 
 ---
 
+## Chapter 03 — The Constable's Kitchen
+
+*From `chapters/chapter-03/final.md`, after one reader-fix round (cold reader 3 of 5, "I'd keep reading, but…"; plain reader PASS). POV: Dane.*
+
+**What happened:** Friday Nov 13, afternoon to about 1:20 a.m. Saturday. Dane loses the argument about who goes into Beth's broken house first and wins the one about where she sleeps: Russ's house, the only house on the harbor road with a generator, lit for the whole road to see, Russ on the porch with a shotgun. Beth wanted her old bunk on the ferry; Dane refused (one way off a boat, the man came by water, first place anyone looks). Power fails at a quarter past four. Six o'clock call to his boss in front of Beth; the boss asks who else knows where she is ("Six tomorrow morning, then. Me and nobody else."). At ten a light moves on the black harbor and goes out. The first kiss, on the page: she counts to three, he gets to two. He stops it for the lawyer and the jury; she wins most of the argument ("A jury doesn't get a vote on who kisses me. I do. I voted." / "He'll still say it." / "Let him. I'll still say yes."). "As of tonight? One. I'm keeping count." "Tonight's a bad night." / "Then tomorrow." / "Probably sooner." About one a.m. Tess relays a radio call: the Dyers' nephew, out in his own boat Thursday, a tree through the roof, leg pinned. Beth: the nephew lives in Augusta and hasn't been here in ten years. Dane: "It could be to get you off this porch." Russ goes anyway. Twenty minutes later the window is shot in; Dane is cut on the left forearm by glass, above the oar bruise; he doesn't fire (can't see the man, a road of sleeping houses behind him). Behind the woodpile: "That call was to get Russ off the porch." / "I know." A dragging-heel print under the kitchen window. "Russ." / "Later." Beth: "I know a place."
+**What changed:** They have kissed and both said what they want; the attacker is armed; Russ's house is gone as a refuge; Russ is off the page, fate unknown.
+**Who knows what:** The boss knows the house layout (porch, generator, stove, one back door). Tess relayed the call. Beth knows the nephew story is false.
+**Objects / details introduced:** Russ's generator (choke), his shotgun, his truck; the woodpile; Dane's cut left forearm; the island emergency radio, Tess runs it and the one fire truck.
+**Plants placed:** who sent the decoy call (→ Ch 05 Tess's account; Ch 12 Ned); the boss knew the house (→ Ch 10 trap tests the office); "I know a place" (→ Ch 04).
+**Numbers stated:** quarter past four; six o'clock; ten; about one; twenty minutes; one kiss as of tonight.
+**Ends on:** behind the woodpile at Russ's, the shooter reloading or moving, "I know a place."
+
+---
+
 ## Plant ledger
 | Plant | Placed Ch | Pays off Ch | Status |
 |---|---|---|---|

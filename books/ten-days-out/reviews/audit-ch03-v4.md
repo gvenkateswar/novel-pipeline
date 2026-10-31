@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–03, 6,824 words)
+# Audit — ten-days-out (chapters 01–03, 6,815 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -35,7 +35,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "Ask for ID" (Tess) | 0 | 0 | 0 | 0 | 1 |  |
 | "You're the other one" (Ch 15) | 0 | 0 | 0 | 0 | 1 |  |
 | "Till then you bail" (Ch 18) | 0 | 0 | 0 | 0 | 1 |  |
-| "Here's how this goes" (Dane) | 1 | 0 | 1 | 2 | 3 |  |
+| "Here's how this goes" (Dane) | 1 | 0 | 0 | 1 | 3 |  |
 | "Talk to me" (Dane) | 0 | 0 | 0 | 0 | 5 |  |
 | "Ms. Calloway" (Dane, first night and angry) | 3 | 0 | 0 | 3 | 8 |  |
 | "Okay" (Dane, at most once a chapter; Beth never as a pivot) | 1 | 0 | 0 | 1 | 18 |  |
@@ -55,15 +55,13 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "Her eyes are the case" | 0 | 1 | 0 | 1 | 3 |  |
 | "Open sand" | 0 | 0 | 0 | 0 | 3 |  |
 | "Good blanket" | 0 | 0 | 0 | 0 | 2 |  |
-| "Says he walks" / "Cole walks" (the clock) | 0 | 0 | 1 | 1 | 4 |  |
+| "Says he walks" / "Cole walks" (the clock) | 0 | 0 | 0 | 0 | 4 |  |
 | "Emergency protection" | 0 | 0 | 0 | 0 | 2 |  |
 
 ### Frequent 3–5 word n-grams (4+ uses, whole book)
 
 - 5× “the harbor road”
 - 4× “truck was clean”
-- 4× “half past ten”
-- 4× “road could see”
 - 4× “the man in the hoodie”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
@@ -86,7 +84,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 |---|---|---|---|---|---|---|---|---|---|
 | 01 | 2,506 | 11.8 | 9.3 | 34% | 0.0 | 0.4 | 0.0 | 3 | mean short |
 | 02 | 2,205 | 10.7 | 7.0 | 27% | 0.0 | 0.0 | 0.0 | 3 | mean short |
-| 03 | 2,113 | 12.2 | 8.7 | 28% | 0.0 | 0.0 | 0.0 | 3 | mean short |
+| 03 | 2,104 | 12.5 | 9.7 | 27% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -98,10 +96,10 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 ### Mood words per 1,000 (count; flag a cluster, not a word)
 
-- quiet: 5 (0.7/1k)
+- quiet: 6 (0.9/1k)
 - humm?(ing|ed)?: 0 (0.0/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 19 (2.8/1k)
+- still(ness)?: 21 (3.1/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 0 (0.0/1k)
@@ -125,11 +123,11 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 3 | 0 | 3 | 0.4 | 0.0/1k | FLAG |
-| sentence-initial And/But/And yet | 5 | 3 | 2 | 10 | 1.5 | 3.0/1k |  |
+| sentence-initial And/But/And yet | 5 | 3 | 1 | 9 | 1.3 | 3.0/1k |  |
 | em dashes | 2 | 0 | 0 | 2 | 0.3 | 2.0/1k |  |
 | semicolons | 0 | 0 | 0 | 0 | 0.0 | 2.0/1k |  |
-| perception filter (she noticed / could hear) | 0 | 0 | 2 | 2 | 0.3 | 1.0/1k |  |
-| one-sentence paragraph | 16 | 27 | 33 | 76 | 11.1 | report |  |
+| perception filter (she noticed / could hear) | 0 | 0 | 1 | 1 | 0.1 | 1.0/1k |  |
+| one-sentence paragraph | 16 | 27 | 33 | 76 | 11.2 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
@@ -144,5 +142,4 @@ Caps: at most 2 distinct terms in the book's first 1,000 words; at most 6 distin
 |---|---|---|---|---|---|
 | 01 | 1 | 1 | 0.4 | grand jury 1 |  |
 | 02 | 2 | 5 | 2.3 | skiff 3, grand jury 2 |  |
-| 03 | 3 | 4 | 1.9 | choke 2, skiff 1, grand jury 1 |  |
-- Audit ch03 v4: Ch 03 has no contrast hits; the FLAG row is Ch 02's three accepted false positives.
+| 03 | 1 | 2 | 1.0 | choke 2 |  |

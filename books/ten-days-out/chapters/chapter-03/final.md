@@ -1,6 +1,6 @@
 # Chapter Three: The Constable's Kitchen
 
-Dane Reyes lost the argument about going back into Beth's house in under a minute, and won the one about Russ Whitcomb's.
+Dane Reyes lost the argument about going back into Beth's house in under a minute, and won the one about where she would sleep tonight.
 
 He lost the first at the foot of her steps, gun in hand, with snow blowing flat across the yard.
 
@@ -10,7 +10,7 @@ She was already on the steps.
 
 Dane said, "If you walk in first and he's in there, how's that going to sound in a courtroom?"
 
-"It's going to sound like I did it." She opened her own front door.
+"It's going to sound like I came home." She opened her own front door.
 
 He got in ahead of her by one step, which was the most he was going to get.
 
@@ -22,9 +22,7 @@ She packed fast: clothes into a canvas bag, the phone in its zip bag, her father
 
 He wanted her. He'd wanted her since she swung an oar at his head, and it was the least useful thing he could think in a house a man had broken into. He looked out the window instead.
 
-Cole's truck had been clean. Everything his lawyer needed to make go away was standing in this kitchen, putting socks in a bag. Her eyes were the whole case.
-
-He had been wrong at the shack about his own office. The man had left Pruett at half past ten, before she ever called. The skiff explained how he knew the house, the hill and the window. It didn't explain who had told Cole she'd seen, and that was why she couldn't sleep here.
+Everything Cole's lawyer needed to make go away was standing in this kitchen, putting socks in a bag.
 
 Below, the ferry's ramp hung out over the water, and the lobster boats lay on the rocks. No way off.
 
@@ -42,7 +40,7 @@ At the door she shouldered the bag. "I'll sleep on the ferry. My old bunk in the
 
 "Fine."
 
-She carried the bag down the steps herself before he could offer. He followed with nothing in his hands, and he knew it.
+She carried the bag down the steps herself before he could offer. She slung it into the back of Russ's truck, wipers still going, and was in the front seat with the door shut while he was still crossing the yard.
 
 * * *
 
@@ -54,31 +52,39 @@ In the shed off the kitchen Russ hauled on the generator cord, three times, four
 
 "Choke, Russ," Beth said from the doorway. She didn't move.
 
-"Is the choke off?" Russ said. "It is." Another pull. "Who taught you that? Your father. Who taught your father? Mine, and he never got it right either."
+Russ looked down. He had forgotten the choke. He set it and pulled once more, and the generator caught with a flat roar. The bulbs came on.
 
-The generator caught with a flat roar, and the bulbs came on.
+"Your father teach you that?" Russ said.
+
+"You did."
 
 Russ's was the only lit house on the harbor road now, and every dark window on the road could see it. That was what Dane had asked for. He didn't like it.
 
-Russ put his cap back on and took the shotgun out to the porch. "Who's coming up these steps past me? Not him." He sat with the gun across his knees where the whole road could see him.
+Russ put his cap back on and took the shotgun out to the porch. "Nobody's coming up these steps past me." He sat with the gun across his knees where the whole road could see him.
 
-Dane called his boss on speaker, with Beth right there.
+Beth poured a mug of Russ's coffee and held it under her chin in both hands, steam on her face, eyes shut. She hadn't had anything hot since Thursday.
+
+He could still feel her against his chest on the pier this morning, and how he hadn't let go when she told him to. He wanted that again.
+
+At six Dane called his boss on speaker, with Beth at the table.
 
 "Dane," his boss said.
 
 "Russ Whitcomb's house, on the harbor road," Dane said. "He's on the porch with a shotgun. Generator, woodstove, one door at the back."
 
-"Call me at six," she said. "The grand jury has to hear her by Monday morning, or the prosecutor says Cole walks."
+"Who else knows she's there?"
 
-"She's heard," Beth said.
+"Anybody on the road who can see a lit window."
 
-"Six, Dane," the boss said.
+His boss let that sit a second. "Six tomorrow morning, then. Me and nobody else."
 
-She poured a mug of Russ's coffee and held it under her chin in both hands, steam on her face, eyes shut. She hadn't had anything hot since Thursday.
+"Nobody else," Dane said, and hung up.
 
-He couldn't stop watching her. He could still feel her against his chest on the pier this morning, and how he hadn't let go when she told him to. He wanted that again, and more, and he was supposed to be watching the road.
+Beth was watching him over the mug. "Your boss always that cheerful?"
 
-Dane stood at the window and saw what the road saw.
+"That was cheerful."
+
+At eight Russ came in stamping snow, held his hands to the stove until they went red, said the road was quiet, and took the shotgun back out into the cold.
 
 * * *
 
@@ -86,7 +92,9 @@ By ten Dane had turned the kitchen light off so nobody on the road could see in.
 
 He stood at the edge of the window and watched the road.
 
-Beth came and stood beside him, close. Her eyes were level with his. He didn't have to look down to fight with her, and he liked that more than he could afford to.
+Out on the black harbor a light moved, low on the water, where every boat on the island lay on the rocks. It went out. He watched the place it had been until his eyes ached. Nothing came back.
+
+Beth came and stood beside him, close. Her eyes were level with his. He didn't have to look down to fight with her.
 
 "That coffee," she said, "has been on the stove since the last election."
 
@@ -96,7 +104,7 @@ Beth came and stood beside him, close. Her eyes were level with his. He didn't h
 
 "What stopped you?"
 
-She was looking at his mouth and she let him see it. He wanted her so badly he'd stopped watching the window, and the window was his whole job.
+She was looking at his mouth and she let him see it. He stopped watching the window.
 
 "I'm going to kiss you," she said. "If you've got a reason why not, you've got about three seconds, and it had better be better than a jury."
 
@@ -136,7 +144,7 @@ He didn't go far. His forehead stayed on hers and his hand stayed on her face, a
 
 "Cole's truck was clean," he said, "so you're the whole case, and if Cole's lawyer can stand up and tell twelve strangers that the marshal was sleeping with the only witness, those twelve people start wondering what else the marshal told her to say. And then Cole goes home."
 
-He could already hear the man saying it, slowly, in a good coat, to twelve people from Maine.
+He could already hear the man saying it, slowly, in a good coat, to a jury box.
 
 "Three seconds," Beth said, "and you came back with a jury."
 
@@ -150,7 +158,7 @@ He could already hear the man saying it, slowly, in a good coat, to twelve peopl
 
 "You're right about most of it," he said. "I don't have an answer to that."
 
-The part she wasn't right about would come due in a courtroom someday. He wanted her more than he had ever wanted anything, and that was going to be a problem.
+The part she wasn't right about would come due in a courtroom someday. He wanted her anyway.
 
 "How many witnesses have kissed you?" she asked, as if she were asking the time.
 
@@ -172,15 +180,19 @@ Dane sat at the table with his back to the wall. Beth was asleep on the couch by
 
 "Whitcomb!" a woman's voice said. "The Dyer house just phoned the store. Says he's the Dyers' nephew, out in his own boat Thursday to check the house before the storm. Tree's through the roof. He's hurt and can't get his leg out."
 
-"This is Russ Whitcomb," Russ said, as formal as church. "On my way."
+Russ leaned in the door. "That's Tess, at the store. In a storm she runs the radio and the one fire truck."
 
-Russ leaned in the door. "That's Tess. Who's Tess? The store. And in a storm she's the emergency director, which means she drives the one fire truck and runs this radio."
+Beth sat up. "The Dyers' nephew lives in Augusta, way up on the mainland. He hasn't set foot on this island in ten years."
 
-Beth sat up. "The Dyers have a nephew in Augusta."
+"It could be to get you off this porch," Dane said.
 
-A man might be under a tree, and Russ was the only one who could reach him, and Dane wasn't leaving Beth. A tree through a roof in this wind was the likeliest thing in the world. He hated it anyway.
+Russ looked at him, then out at the dark road. "And if it isn't, a man bleeds out in the Dyers' kitchen."
 
-Russ took the shotgun. "Twenty minutes." He went down the steps into the snow, and the porch was empty.
+Dane had nothing to say to that. He couldn't go himself and leave her, and he wasn't taking her out into the dark toward a call like that one.
+
+Russ keyed the radio. "This is Russ Whitcomb," he said, as formal as church. "On my way."
+
+He took the shotgun. "Twenty minutes." He went down the steps into the snow, and the porch was empty.
 
 Dane talked, low and steady, because the house had gone too quiet. "My father drove one bus route in Lowell for thirty years," he said, "and he still can't win an argument about the thermostat."
 
@@ -194,7 +206,7 @@ The window blew in.
 
 A shot, and glass sprayed across the table. Dane was across the kitchen and had her off the couch and onto the floor before the second shot, his body between her and the window.
 
-"Here's how this goes," he said into her hair. "You stay on the floor, I stay between you and the window, and you keep breathing where I can hear it. You don't have to talk. I'll talk. I'm very good at it, ask anybody in Massachusetts."
+"Stay flat," he said into her hair. "I'm between you and the window. Just keep breathing where I can hear it."
 
 Beth said nothing. Her cheek was on the glass, eyes open.
 
@@ -204,11 +216,13 @@ More shots. Glass had opened his left forearm. He noticed it late.
 
 He had his gun out and didn't fire. He couldn't see the man, and behind him was a road of houses full of sleeping people.
 
-He would do anything to keep this woman breathing where he could hear it, and that reached well past the job.
-
 The shots stopped. He counted the gap.
 
-"Back door," he said. "When I say."
+"Russ," Beth said.
+
+"Later." He got a hand around her wrist. "Back door. When I say."
+
+Through the wall the generator roared on, and somewhere past the broken window the man was reloading or moving, and Dane couldn't hear which.
 
 * * *
 
@@ -218,7 +232,9 @@ The back door banged behind them, and the cold hit like another door. A shot cam
 
 Down the side of the house, in the spill of the porch light, one boot print and the long drag of a heel ran through the new snow under the kitchen window. The man had walked right up and looked in before he fired.
 
-The whole harbor road could see where she was, and Dane had made sure of it. The call had come from the Dyer house, and Russ had gone.
+"There was never any tree," Beth said against the wood. "That call was to get Russ off the porch."
+
+"I know."
 
 Blood had come through his left sleeve, above the bruise she'd given him. Beth saw it.
 
