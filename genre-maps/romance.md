@@ -45,6 +45,7 @@ Chemistry is the weakest-scoring element in clean books (+25 weighted against +3
 
 - **A turn:** something irreversible.
 - **Longing:** attraction on the page in every chapter from Ch 1, in a form the reader would call attraction (a touch that lasts, a look held, a line said too close, a thought about the other that is not about the plot). Business between the leads does not count.
+- **Obvious to a listener (author, Oct 30, 2026: "it should be obvious, some kind of flirting or something… or people arguing but then they flirt later").** The leads' first scene together has spark a half-listening reader can't miss: flirting, or a fight that tips into flirting. Each lead says something to the other that they would not say to anyone else, and the viewpoint character thinks plainly about wanting the other ("she wanted to kiss him," not a glance at his hands). Small gestures may add to it but never carry it alone. No cap on longing lines: a bible may never limit attraction to "one or two lines per scene." Pair: the flirting is specific to these two people and this situation, and it costs something or risks something each time.
 - **A laugh:** one line a specific person would say at a specific target. Humor that goes literal is a finding.
 - **Tonal contrast** with the previous chapter.
 
