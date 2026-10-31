@@ -33,7 +33,7 @@
 
 ---
 
-## Chapter 02 — [Ch 02 title per final.md]
+## Chapter 02 — First Light
 
 *From `chapters/chapter-02/final.md`, 2,215 words, after one reader-fix round (cold reader pull 3 of 5 with "I'd keep reading, but…"; plain reader PASS). POV: Beth.*
 
