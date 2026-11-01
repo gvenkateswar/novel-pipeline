@@ -40,7 +40,7 @@ At the top of the bank the flashlight found the white water where he had gone in
 
 It stayed.
 
-Dane counted. Counting was what he did with fear. He got to forty, and the light was still on the water. The sea came up white through it and went back, and the light waited for something to come up with it. Sixty. The cold was in his hands now, and in his jaw under her palm. Four people had known about that house, and it had burned. Only Russ had found the loft, and nobody had come to the loft. If Russ were selling her, the man would have been at that loft door. Dane wanted that to clear him, and didn't trust how much he wanted it. Ninety. He lost count somewhere after that.
+Dane counted. Counting was what he did with fear. He got to forty, and the light was still on the water. The sea came up white through it and went back, and the light waited for something to come up with it. Sixty. The cold was in his hands now, and in his jaw under her palm. Four people had known about that house, and it had burned. Only Russ had found the loft, and nobody had come to the loft. If Russ were selling her, the man would have been at that loft door. Dane wanted that to clear him. He didn't trust the wanting. Ninety. He lost count somewhere after that.
 
 His hands had stopped closing. He told the right one to make a fist, and it lay on the rock like somebody else's.
 
@@ -68,11 +68,11 @@ He couldn't.
 
 He went down on one knee. "Dane." She had him up. "Dane. Feet."
 
-"I tried one of those dating apps once," she said, flat, to keep him awake. "It found me nine men inside fifty miles, and two of them were my cousins."
+"I tried one of those dating apps once," she said, flat. "It found me nine men inside fifty miles, and two of them were my cousins."
 
 He laughed with no sound at all. She felt it in his ribs and kept walking.
 
-"The back window of the keeper's house doesn't lock. Every kid on this island has been in that window."
+"The keeper's back window doesn't lock. Every kid on this island has been in that window."
 
 The keeper's house stood beside the tower, a summer rental, shut for the winter. She lifted the window on its frame, and it came up. She got him over the sill and followed.
 
