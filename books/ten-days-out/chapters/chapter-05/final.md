@@ -12,15 +12,17 @@ Tess rang it up and told the whole store. "Four seventy-nine. Good till next Aug
 
 He could already see Cole's lawyer in a good coat, asking these two men slowly what the witness had bought on Saturday morning and who was standing behind her. He wasn't sorry.
 
-Last night in the net loft she had put her cold bare feet flat on his shins, and this morning she was buying these for tonight. He wanted tonight: a bed, a door that locked, the whole night with her.
+Last night in the net loft she had put her cold bare feet flat on his shins, and this morning she was buying these for tonight. He wanted one whole night with her in a bed, with neither of them listening for the stair.
 
 Beth counted out four dollars and change and came up a penny short.
 
-"I'll carry you the penny," Tess said.
+"Forget the penny," Tess said.
 
-"You won't," Beth said. She dug one out of her coat pocket and set it on the counter, then zipped the box into the pocket inside her coat.
+"No," Beth said. She dug one out of her coat pocket and set it on the counter, then zipped the box into the pocket inside her coat.
 
-"Cole Varney lent me the money for my new fuel tanks," Tess announced, "and you just put my store under, Calloway."
+Nobody on Cutter needed telling who the witness was. The whole harbor had seen the police boat wait for her at first light Friday, and the whole road had heard Russ's windows go last night.
+
+"Cole Varney lent me the money for my new fuel tanks," Tess told the store. "They put him in prison, that loan gets called, and I lose this store. You did that, Calloway."
 
 Then she came around the counter and hugged Beth hard, eyes shut, cheek on her shoulder.
 
@@ -32,15 +34,13 @@ Dane took the chair by the woodstove with its back to the wall. Beth took the ot
 
 Tess squared a rack of lighters by the register that was already square. "Screen said Dyer. A man, talking low, like he had his hand over it. He said send Russ, he could see his light from there. I sent Russ because the man said a tree was through the roof, and what was I supposed to do, ask for ID?"
 
-"Your marshal looks at my hands like he's pricing them," Tess told Beth's back.
-
-"He did mine first," Beth said from the urn. "I hit him with an oar."
-
 From the Dyer house on the point you could look straight across the black water at the one lit porch on the harbor road. Somebody had sat in Mrs. Dyer's dark house and watched Russ on that porch.
 
 "A man covers the phone when you'd know his voice," Dane said.
 
-"Well, I didn't," Tess said, too fast.
+"Well, I didn't," Tess said, too fast. Then, to Beth's back: "Your marshal's looking at me like I'm lying to him."
+
+"He looked at me that way first," Beth said from the urn. "I hit him with an oar."
 
 Tess's cell phone lay face up on the counter. It buzzed, and she had it before the first buzz was done. "Not now," she said low, her back half turned.
 
@@ -52,21 +52,21 @@ At the door Dane bent close to Beth. "Her phone rang while Russ had his at his e
 
 He opened the door. Russ stood on the steps with snow on his shoulders.
 
-"Summer house up the east road has its back window out," Russ said. "I saw it at five, looking for you. Didn't think anything of it till the light came up."
+"Summer house up the east road has its back window out," Russ said. "I saw it at five, when I was out hunting for you. I wanted you found before I went near it."
 
 * * *
 
-Russ drove them up the east road, three across the bench seat. Beth's thigh was against Dane's, warm through two layers of denim, and he wanted badly to put his left hand on it. He kept it on his knee. His right hand stayed free by the door, near the gun.
+Russ drove them up the east road, three across the bench seat. Beth's thigh was against Dane's, warm through two layers of denim. His right hand stayed free by the door, near the gun.
 
 Dane watched the road. "Who'd you tell she was sleeping at your place?"
 
-Russ answered before he'd finished. "Nobody. Who'd I tell?"
+"Nobody," Russ said. "Who'd I tell?"
 
-His eyes went to the mirror, down the hill to the store roof. Dane watched who a man looked at when he answered. Nobody said anything more.
+He had answered before Dane finished asking. Dane filed that away. Nobody said anything more.
 
 Russ stopped below the house. Every window was shuttered but one, the snow lay smooth on the front steps, and smoke was coming off the chimney of a house that ought to be dead cold.
 
-Dane was afraid, and he let himself know it. The man who had looked in Russ's window before he fired was somewhere close, and Beth was in this truck.
+The man who had looked in Russ's window before he fired was somewhere close, and Beth was in this truck.
 
 "Engine running, doors locked," he told her. "If you hear a shot, you drive to the store and you don't stop."
 
@@ -76,7 +76,7 @@ Dane took the front, Russ the back with the shotgun. Dane talked low the whole w
 
 The stove was warm under his palm. Cans of stew, a phone charger coiled on the table, the dishes washed and stacked, wet wool socks hung in a neat row by the stove. A kitchen chair stood at the front window, facing down the road they had come up.
 
-Beside the back door the window was broken out, and a drift of snow lay under it on the floor. Out the door, boot prints went down through the snow toward the shore: one clean print, then the long smear the other foot leaves, the edges already softening under new snow.
+Beside the back door the window was broken out, and a drift of snow lay under it on the floor. Out the door, boot prints went down through the snow toward the shore: one clean print, then the long smear the other foot leaves, the edges still sharp. Minutes old.
 
 The man had sat in that chair and watched them come, and then walked out the back.
 
@@ -88,11 +88,13 @@ Dane turned. A square of newspaper was pinned with a thumbtack to the wall by th
 
 Beth was in the kitchen doorway. He'd been in too long, so she had come to look.
 
+"Engine running," Dane said. "Doors locked." It came out hard, and his gun hand came down to his side.
+
 She saw the picture.
 
-It was Beth at thirty, in her orange work coat at the wheel of the ferry, on the day she got her captain's license. The island newsletter had run it. She went quiet. Her hand came up toward it and stopped an inch short.
+It was Beth at thirty, in her orange work coat at the wheel of the ferry, on the day she got her captain's license. The island newsletter had run it. She had the license and had never once used it; Ned kept the wheel. Beth went quiet. Her hand came up toward the picture and stopped an inch short.
 
-Dane put his hand flat at the small of her back. She leaned into it and let it stay. He wanted to put his mouth to her hair, here, with a stranger's socks drying by the stove, and he didn't. He kept his eyes on the back door.
+Dane put his hand flat at the small of her back. She leaned into it and let it stay. He kept his eyes on the back door.
 
 "I look like I'm being arrested," Beth said. Her voice came out thin.
 
@@ -102,9 +104,13 @@ Then she looked properly: a brown ring from a coffee mug across one corner, and 
 
 "That's Tess's," Beth said. "Off the board by her register. She put it up the week it ran, three years ago. I hate that picture. I never look at it. I don't know when it went."
 
-"That's the kid off Cole's boat," Russ said, his eyes on the prints by the back door. "That foot. He worked the back of Cole's boat two summers for cash and lived in Cole's trailer out the east road. I drove past it at dawn, and nobody's been in it since Thursday. Everybody called him kid. I don't think anybody ever asked his name."
+"That's the kid off Cole's boat," Russ said, his eyes on the prints by the back door. "That foot. He worked the back of Cole's boat two summers for cash and lived in Cole's trailer out the east road. I thought of him when the Pruett boatman called. Drove past the trailer at dawn, and nobody's been in it since Thursday. But I never once saw him walk on land. I wasn't sure till that drag."
 
-No name, no pay stub, no paper. "Then my office has nothing to run," Dane said.
+"I only saw him far off on Cole's boat," Beth said, "or in a hood on the ferry."
+
+"Everybody called him kid," Russ said. "I don't think anybody ever asked his name."
+
+No name, no pay stub, no paper. "Then my office has nothing to look up," Dane said.
 
 "I could sit on this house," Russ said.
 
@@ -112,7 +118,7 @@ No name, no pay stub, no paper. "Then my office has nothing to run," Dane said.
 
 Dane stood at the window, gun out. "Nobody hears where you sleep tonight," he said. "Nobody."
 
-Beth faced him. "The loft's found, and there's no food in it. I can't do nine more nights on nobody, Dane. I need a key and groceries." She tipped her head at Russ. "If he wanted me dead, he had me asleep in his kitchen."
+Beth faced him. "The loft's found, and there's no food in it. I can't spend nine more nights hiding from everybody I know, Dane. I need a key and groceries." She tipped her head at Russ. "If he wanted me dead, he had me asleep in his kitchen."
 
 "Fair," Dane said. "I hate it, and it's fair."
 
@@ -124,23 +130,15 @@ Dane kept his voice polite and slow. "Then my boss hears it too, Ms. Calloway. A
 
 * * *
 
-The store was nearly empty when they came back in the early afternoon, and the urn ticked on the woodstove. Beth put a list on the counter and Tess took it to the back. Ned Haskell stood at the counter, big and stooped, with both hands around a mug of coffee.
+The store was nearly empty when they came back in the early afternoon. Tess was at the register. Ned Haskell stood at the counter, big and stooped, with both hands around a mug of coffee.
 
-Beth told him straight. "We're at the north-side house tonight. The one Russ looks after."
+Beth told them both straight. "We're at the north-side house tonight. The one Russ looks after."
 
-"It'll blow two more days, Bethie," Ned said. "Russ keeps that place tight." He pushed his coffee across the counter to her, and she took it. To Dane he said, "She'll feed you. She won't be nice about it."
+"It'll blow two more days, Bethie," Ned said. "Russ keeps that place tight." To Dane he said, "She'll feed you. She won't be nice about it."
 
-Ned went. At the door he turned once and lifted a hand, and the bell rang behind him.
+Ned went, and the bell rang behind him.
 
-Tess came out of the back with the box half full: canned beans, onions, a stick of butter.
-
-"North-side house," Beth said. "Russ's. Food for two."
-
-Tess set a bundle of candles on top. "You'll want these up there. That's on the house."
-
-"Your house is going under," Beth said. She counted bills onto the counter. "Ring it up."
-
-Tess rang it up.
+Beth put her list on the counter, and Tess started filling a box from the shelves.
 
 On the cork board by the register, among the notices, was a pale square with a pinhole at each corner.
 
@@ -152,19 +150,23 @@ Beth looked at it. "When did my picture go off your board?"
 
 Tess's hands stopped on the box. "Beth."
 
-Out on the steps the snow came flat off the harbor, and his phone found one bar. He called his boss on speaker. Beth stood beside him with the box on her hip and Ned's coffee in her other hand.
+Out on the steps the snow came flat off the harbor, and his phone found one bar. He called his boss on speaker. Beth stood beside him with the box on her hip.
 
-"Twice in one day, Dane," his boss said.
+"Is she alive?" his boss said.
 
-"The north-side summer house, tonight," Dane said. "Three islanders know it: Tess Marr, Russ Whitcomb and Ned Haskell. I want the phone records for all three."
+"Holding groceries," Dane said. "The north-side summer house, tonight. Three islanders know it: Tess Marr, Russ Whitcomb and Ned Haskell. I want the phone records for all three."
 
 "Those three are mine, Dane," Beth said, to his face.
 
 "Then the records will say so," Dane said, "and I'll say I was wrong in front of Tess."
 
-"The phone companies take three days," his boss said, and hung up.
+"The phone companies take three days," his boss said.
 
-Her hand sat on his arm the whole time she fought him, and she hadn't noticed. He had.
+"She's got nine nights," Dane said. "Get them in two."
+
+The line was quiet. "Two," his boss said. "Call me at six."
+
+Her free hand had stayed on his arm the whole time she fought him.
 
 He put the phone away. "That's four people who know where you'll be tonight."
 

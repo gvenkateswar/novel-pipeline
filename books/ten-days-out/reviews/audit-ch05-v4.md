@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–05, 11,115 words)
+# Audit — ten-days-out (chapters 01–05, 11,111 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -62,10 +62,13 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 
 - 8× “the harbor road”
 - 5× “on the harbor road”
+- 4× “had never once”
 - 4× “the whole way”
 - 4× “through the snow”
 - 4× “truck was clean”
+- 4× “the whole road”
 - 4× “road could see”
+- 4× “his boss said”
 - 4× “the dyer house”
 - 4× “the east road”
 - 4× “in the orange light”
@@ -93,7 +96,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 02 | 2,205 | 10.7 | 7.0 | 27% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 | 03 | 2,103 | 12.5 | 9.7 | 27% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 | 04 | 2,474 | 11.1 | 7.8 | 27% | 0.0 | 0.0 | 0.0 | 2 | mean short |
-| 05 | 1,827 | 11.9 | 7.9 | 21% | 0.0 | 0.0 | 0.0 | 3 | mean short |
+| 05 | 1,823 | 11.9 | 7.8 | 23% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -105,10 +108,10 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 ### Mood words per 1,000 (count; flag a cluster, not a word)
 
-- quiet: 9 (0.8/1k)
+- quiet: 10 (0.9/1k)
 - humm?(ing|ed)?: 0 (0.0/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 31 (2.8/1k)
+- still(ness)?: 32 (2.9/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 0 (0.0/1k)
@@ -133,11 +136,11 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 3 | 0 | 0 | 0 | 3 | 0.3 | 0.0/1k | FLAG |
-| sentence-initial And/But/And yet | 5 | 3 | 1 | 1 | 1 | 11 | 1.0 | 3.0/1k |  |
+| sentence-initial And/But/And yet | 5 | 3 | 1 | 1 | 2 | 12 | 1.1 | 3.0/1k |  |
 | em dashes | 2 | 0 | 0 | 1 | 0 | 3 | 0.3 | 2.0/1k |  |
-| semicolons | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 2.0/1k |  |
+| semicolons | 0 | 0 | 0 | 0 | 1 | 1 | 0.1 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 0 | 0 | 1 | 2 | 1 | 4 | 0.4 | 1.0/1k |  |
-| one-sentence paragraph | 16 | 27 | 34 | 34 | 22 | 133 | 12.0 | report |  |
+| one-sentence paragraph | 16 | 27 | 34 | 34 | 20 | 131 | 11.8 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
@@ -155,4 +158,3 @@ Caps: at most 2 distinct terms in the book's first 1,000 words; at most 6 distin
 | 03 | 1 | 2 | 1.0 | choke 2 |  |
 | 04 | 0 | 0 | 0.0 |  |  |
 | 05 | 0 | 0 | 0.0 |  |  |
-- Audit ch05 v4: Ch 05 clean; the contrast FLAG is Ch 02's accepted false positives.

@@ -76,6 +76,20 @@
 
 ---
 
+## Chapter 05 — Good Till Next August
+
+*From `chapters/chapter-05/final.md`, 1,833 words, after one reader-fix round (cold reader 3.5 of 5; plain reader PASS). POV: Dane.*
+
+**What happened:** Saturday Nov 14, morning to early afternoon. At Marr's store Beth buys condoms in front of Tess and two lobstermen ("Four seventy-nine. Good till next August." / "I'd have asked for a receipt." / "You can expense it, Marshal."); she pays the penny ("Forget the penny." / "No."). The island already knows she's the witness (the police boat at dawn Friday; Russ's windows). Tess: Cole lent her the fuel-tank money; if he goes to prison the loan is called and she loses the store; then she hugs Beth. Dane asks about the Dyer call: caller ID said Dyer, a man spoke low, hand over the phone, said he was the Dyers' nephew, and to send Russ because he "could see his light from there." Tess's cell buzzes while Russ, outside, lowers his phone; she says "Not now" and hangs up when Beth walks back. In the truck Russ answers "Nobody. Who'd I tell?" before Dane finishes asking. The east-road summer house: every window shuttered but the front; back window broken (Russ saw it at five while hunting for her). Beth walks in from the running truck ("Engine running. Doors locked."). Stove warm, dishes washed, socks in a row, a chair at the front window; fresh tracks out the back, edges sharp, one dragging; "He washed up. I don't wash up." Beth's newspaper photo on the wall (the day she got her captain's license; she's never used it; Ned keeps the wheel): "I look like I'm being arrested." / "You look like you're about to tell somebody to move." It's Tess's copy off the board by her register. Russ: the kid off Cole's boat, two summers for cash, Cole's trailer, nobody knew his name, trailer empty since Thursday; Russ wasn't sure till the drag. Beth wins the bed argument (she can't spend nine more nights hiding from everybody she knows) and takes Russ's key to a north-side summer house. Back at the store Beth tells Ned and Tess herself; Ned's two lines (weather; "She'll feed you"). The empty square on Tess's cork board: the photo gone since the first week of September. On speaker the boss: "Is she alive?" / "Holding groceries."; phone records for the three islanders; "She's got nine nights. Get them in two." / "Two. Call me at six." End: "That's four people who know where you'll be tonight." / "Three of them would die for me." / "Somebody wanted your face on a wall in September." / "In September I hadn't seen anything."
+**What changed:** The next bed (north-side summer house) is known to Tess, Russ, Ned and the boss. The photo means someone marked Beth before she saw the drugs.
+**Who knows what:** Russ lied about telling nobody (he told Tess; paid Ch 11). Tess and Russ were on the phone with each other.
+**Objects / details introduced:** condoms, $4.79; Russ's key; the grocery box; Tess's cork board; Beth's captain's-license photo; the kid's camp (east road).
+**Plants placed:** the September photo (→ Ch 16 s3: Cole had the kid take it to know "the girl on the boat"); "could see his light from there" (→ Ned, Ch 12); Tess's loan from Cole; Russ and Tess's calls (→ Ch 11); phone records in two days (→ Ch 06–10).
+**Numbers stated:** $4.79; a penny; three years since the photo; first week of September; nine nights; two days; four people.
+**Ends on:** the store steps, early afternoon Saturday, "In September I hadn't seen anything."
+
+---
+
 ## Plant ledger
 | Plant | Placed Ch | Pays off Ch | Status |
 |---|---|---|---|
