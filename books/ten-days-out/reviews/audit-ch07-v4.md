@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–07, 15,392 words)
+# Audit — ten-days-out (chapters 01–07, 15,296 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -77,7 +77,6 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 4× “his boss said”
 - 4× “the dyer house”
 - 4× “the snow came”
-- 4× “the first time”
 - 4× “the east road”
 - 4× “in the orange light”
 - 4× “the man in the hoodie”
@@ -88,7 +87,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - jaw: 5 (0.3/1k)
 - knuckles?: 1 (0.1/1k)
 - throat: 5 (0.3/1k)
-- reath: 8 (0.5/1k)
+- reath: 9 (0.6/1k)
 - pulse: 2 (0.1/1k)
 - chest: 11 (0.7/1k)
 - hands? (stopped|stilled|went still|flat): 3 (0.2/1k)
@@ -107,7 +106,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 04 | 2,474 | 11.1 | 7.8 | 27% | 0.0 | 0.0 | 0.0 | 2 | mean short |
 | 05 | 1,823 | 11.9 | 7.8 | 23% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 | 06 | 1,840 | 13.3 | 7.6 | 14% | 0.0 | 0.0 | 0.0 | 3 |  |
-| 07 | 2,441 | 12.0 | 9.7 | 27% | 0.0 | 0.0 | 0.0 | 3 | mean short |
+| 07 | 2,345 | 11.7 | 8.4 | 27% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -122,7 +121,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 - quiet: 13 (0.8/1k)
 - humm?(ing|ed)?: 0 (0.0/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 46 (3.0/1k)
+- still(ness)?: 45 (2.9/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 0 (0.0/1k)
@@ -151,7 +150,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | em dashes | 2 | 0 | 0 | 1 | 0 | 0 | 0 | 3 | 0.2 | 2.0/1k |  |
 | semicolons | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0.1 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 0 | 0 | 1 | 2 | 1 | 3 | 0 | 7 | 0.5 | 1.0/1k |  |
-| one-sentence paragraph | 16 | 27 | 34 | 34 | 20 | 14 | 37 | 182 | 11.8 | report |  |
+| one-sentence paragraph | 16 | 27 | 34 | 34 | 20 | 14 | 40 | 185 | 12.1 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
@@ -170,5 +169,5 @@ Caps: at most 2 distinct terms in the book's first 1,000 words; at most 6 distin
 | 04 | 0 | 0 | 0.0 |  |  |
 | 05 | 0 | 0 | 0.0 |  |  |
 | 06 | 0 | 0 | 0.0 |  |  |
-| 07 | 0 | 0 | 0.0 |  |  |
-- Audit ch07 v4: Ch 07 clean; contrast FLAG is Ch 02's accepted false positives.
+| 07 | 1 | 1 | 0.4 | grand jury 1 |  |
+- Audit ch07 v4 (after reader fixes, 2,352): clean; contrast FLAG is Ch 02's accepted false positives.

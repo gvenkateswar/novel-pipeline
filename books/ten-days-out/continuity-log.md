@@ -104,6 +104,20 @@
 
 ---
 
+## Chapter 07 — Cold Water
+
+*From `chapters/chapter-07/final.md`, 2,352 words, after one reader-fix round (cold reader 6 of 10, "I'd keep reading, but…: the plot stands still for half the chapter"; plain reader PASS). POV: Dane.*
+
+**What happened:** Sunday Nov 15, night. On the shore rocks a wave takes Dane; he opens his hand on purpose so it won't take Beth too. His gun goes into the sea on his hip. Beth hauls him out by the collar, timing it to the swell, and holds his jaw shut so his teeth won't give them away. The man's light holds on the white water a long time, then goes. "He thinks we drowned." She half carries him a mile north ("It's a mile.") to the empty lighthouse keeper's house; in through the back window that doesn't lock. No fire, no light, the generator dead (→ Ch 08). She strips them both and warms his middle first; "This is medical." His first words are the confession that he slept on watch. The fight: "You let go of my hand." / "You don't get to decide what I can hold." / "Fair." Then "Best medical I've ever had." Hours later he wakes warm, dries his gun by feel; his phone shows no signal, no check-in since Saturday, so the boss may think Beth is dead. "Since dusk. So if anybody comes for you now, somebody had to tell them you're alive." Grand jury Monday the twenty-third, eight days off. She asks out loud: "I want you. I'm saying it out loud so you can't pretend I didn't." Heat #2 in total dark: "I can't see you." / "Then I'll tell you."; "The condom box is soup. These are fine."; "Tell me." / "Yes. Now, Dane."; "You creak like an old boat." Ends: "I'm going to get you off this island alive, and then I'm going to lose you, aren't I?" She doesn't answer; her hand closes on his.
+**What changed:** They're lovers fully; the man believes they drowned; nobody knows they're alive or where.
+**Who knows what:** Nobody, including the boss, knows they're alive.
+**Objects / details introduced:** the lighthouse keeper's house (summer rental), its unlocking back window, the dead generator; Dane's wet gun, dried by feel; two bruises below his collarbone from her hauling his collar; Beth's skinned palms; Dane's stiff right knee.
+**Plants placed:** the dead generator (→ Ch 08); "if anybody comes now, somebody told them" (→ Ch 08–09); the closing question about losing her (→ Ch 13).
+**Numbers stated:** forty, sixty, ninety (his count); a mile; two nights with no word to his boss; eight days to Monday; two laughs.
+**Ends on:** the keeper's house bed, Sunday night, his question unanswered.
+
+---
+
 ## Plant ledger
 | Plant | Placed Ch | Pays off Ch | Status |
 |---|---|---|---|

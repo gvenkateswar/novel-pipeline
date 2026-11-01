@@ -40,7 +40,7 @@ At the top of the bank the flashlight found the white water where he had gone in
 
 It stayed.
 
-Dane counted. Counting was what he did with fear. He got to forty, and the light was still on the water. The sea came up white through it and went back, and the light waited for something to come up with it. Sixty. The cold was in his hands now, and in his jaw under her palm. Four people had known about that house, and it had burned. Only Russ had found the loft, and nobody had come to the loft. If Russ were selling her, the man would have been at that loft door. Dane wanted that to clear him. He didn't trust the wanting. Ninety. He lost count somewhere after that.
+Dane counted. He got to forty, and the light was still on the water. The sea came up white through it and went back, and the light waited for something to come up with it. Sixty. The cold was in his hands now, and in his jaw under her palm. Ninety. He lost count somewhere after that.
 
 His hands had stopped closing. He told the right one to make a fist, and it lay on the rock like somebody else's.
 
@@ -51,6 +51,8 @@ Then it went away up the bank toward the fire, and it didn't come back.
 Beth took her hand off his mouth. Her lips were at his ear, and it was the first thing she had said since the wave.
 
 "He thinks we drowned."
+
+He tried to answer. His teeth started again.
 
 * * *
 
@@ -102,7 +104,7 @@ Then, lower: "Come here. You're shaking. Let me be the warm one for once."
 
 He shook. It came in long rounds from the jaw down, and let go, and came again smaller. Her heart went against his chest, fast and then slower. His hands came back, burning in every finger, which meant they were still his.
 
-Every part of him that could want anything was busy keeping him alive, under a hill of strangers' blankets, too cold to do one thing about it, and it was the most naked he had ever been in front of anyone.
+Every part of him that could want anything was busy keeping him alive, under a hill of strangers' blankets, too cold to do one thing about it.
 
 His voice came back rough.
 
@@ -130,11 +132,13 @@ She laughed out loud, right against his throat.
 
 Two laughs now, he thought.
 
+Her breathing went long against his neck. He meant to stay awake for both of them. He didn't.
+
 * * *
 
-Dane Reyes woke with dry feet.
+Dane Reyes woke warm, hours later, with dry feet.
 
-She had put a summer person's wool socks on him in the dark, thick and dry. He moved his toes in them.
+She had put a summer person's wool socks on him in the dark, thick and dry. He moved his toes in them. His right hand closed when he told it to.
 
 "I've been shot at, burned out of a house and drowned since dusk," he said, "and somebody's wool socks are the best thing that's happened to me all day, which tells you about my day."
 
@@ -142,17 +146,15 @@ She had put a summer person's wool socks on him in the dark, thick and dry. He m
 
 He believed her, and noticed that he did.
 
-He took the gun apart on the blanket by feel, dried each piece on a pillowcase and put it back together blind. His phone lit up on the floor with no signal.
+He took the gun apart on the blanket by feel, dried each piece on a pillowcase and put it back together blind. His phone lit up on the floor with no signal. No check-in since Saturday. As far as his boss knew, Beth Calloway might already be dead, and he couldn't tell her different until the phone found a tower.
 
 "He watched the water a long time," he said, "and then he went to tell somebody it was done."
 
 "So I'm dead."
 
-"Since dusk, and nobody on this island knows different, which means if anybody comes for you now, somebody had to tell them you're alive."
+"Since dusk. So if anybody comes for you now, somebody had to tell them you're alive."
 
 "Then he can take my picture down."
-
-Somebody had taken her face off Tess's board in September, two months before she'd seen anything, and he still couldn't make it add up.
 
 "You said off that hill you'd kiss me for an hour."
 
@@ -162,7 +164,7 @@ Somebody had taken her face off Tess's board in September, two months before she
 
 "I want you. I'm saying it out loud so you can't pretend I didn't."
 
-The woman who wouldn't let Tess forgive her a penny, who said she didn't owe anybody with her hand on his taped arm, had just asked him for something for herself. She had said it out loud, with no joke to hide behind. He knew it was the first time she had done that with anyone.
+She had asked him plain, with no joke on it.
 
 "Beth," he said.
 
@@ -181,8 +183,6 @@ She caught his wrist between both of hers and brought his hand to her breast.
 Her nipple was hard under his palm, cold from the room. He moved his thumb across it as slowly as she'd said. Her breath broke on his name.
 
 She kissed him, and he started on the hour he owed her. Her lips were dry with salt, and so was her throat when he got there, and her shoulder, the whole sea still on her skin.
-
-Out of habit he reached for the twelve people from Maine. Nobody was there. Nobody could see this.
 
 She touched him with the backs of her fingers, along his jaw and down his chest. He knew why. Her palms were skinned raw from the ice, and she kept them off him and touched him everywhere she could reach anyway.
 
@@ -226,11 +226,11 @@ Then she rocked against him, once, slow, and he forgot every plan he had ever ma
 
 "Stay there," she said.
 
-She held his face between her wrists and gave him the rest in single words. "Deeper." "Again." "Yes." Each one changed how she breathed.
+She held his face between her wrists. "Deeper."
 
-Once, he thought of the four people who had known that house, and that one of them had told. Then she said his name, and he put it down.
+He gave her that, and the old bed knocked once against the wall.
 
-He had stopped counting, and he didn't know when. He only noticed because there was nothing left in his head but her voice.
+"Again." Her breath went out short and hard against his mouth. "Yes."
 
 She pushed his hand down between them with her wrist, to her clit, and held it there. "Both," she said. "Both at once."
 
@@ -248,7 +248,7 @@ He came saying her name and nothing else, with salt on his tongue and the cold o
 
 She put her head on his shoulder. The wind went around the tower next door.
 
-Monday was Portland. After that she would go home to her ferry and her father's house, and he would go back to Boston. She would never leave this island. He had known that since the oar.
+The grand jury sat in Portland on Monday the twenty-third, eight days off. After that she would go home to her ferry and her father's house, and he would go wherever they sent him next. She would never leave this island. He had known that since the oar.
 
 "I'm going to get you off this island alive," he said, "and then I'm going to lose you, aren't I?"
 
