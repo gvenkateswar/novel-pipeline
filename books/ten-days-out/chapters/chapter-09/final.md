@@ -2,9 +2,17 @@
 
 A lantern came along the shore at half past two, low and swinging, and Dane had his gun on it before he could see whose hand held it.
 
-The north beach was a long curve of sand with rocks at both ends and spruce trees along the top. Beth was behind him at the north end, where he had put her. At one o'clock he had climbed the walkway around the top of the lighthouse, and from up there he had found the one place the trees couldn't see: behind the rocks at this end.
+The north beach was a long curve of sand with rocks at both ends and spruce trees along the top. Beth was behind him in the rocks at the north end, the one place the tower had shown him the trees couldn't see.
 
 The swell sucked in under the rocks and went quiet, and came again, slow now that the wind was down.
+
+The lantern was a long way off yet. Dane worked out how long the drive was from the Portland office to the Pruett ferry, and whether a man could ask to stay on in Maine. A man had no business working that out about a witness.
+
+"Does the ferry run all winter?" he said, with the gun still on the light.
+
+"When the sea lets it," Beth said. "Why?"
+
+"No reason."
 
 The lantern came up onto the iced rocks: a big stooped man in a green wool jacket, slow on his bad hip, with the lantern in one hand and a long pole with a hook in the other.
 
@@ -39,8 +47,6 @@ Beth's face went red under the wind-burn, and she didn't know what to do with he
 "You could have offered," Beth said.
 
 "You could have asked."
-
-Dane let her hold it. It was the last good thing that afternoon.
 
 "Then you'd better hear the rest," Ned said, "since you're going."
 
@@ -78,7 +84,7 @@ No helicopter would come up through icing for a woman who wasn't dying.
 
 "Ned, I'd like you on the sand, one step ahead of me and on my left."
 
-Ned went where he was put without a word.
+Ned stepped down onto the sand without a word.
 
 Tess's red fire truck sat at the south end, where the road came down. The sky beyond it had gone black.
 
@@ -90,17 +96,7 @@ Dane crouched so his face was level with hers. "Two years ago in New Bedford, Co
 
 "Then I'll keep a bucket by the stove."
 
-That was no answer, and he knew it.
-
-Dane worked out how long the drive was from the Portland office to the Pruett ferry, and whether a man could ask to stay on in Maine, with his eyes on the trees the whole time. A man had no business working that out about a witness.
-
-"Does the ferry run all winter?" he said.
-
-"When the sea lets it," Beth said. "Why?"
-
-"No reason."
-
-He heard the engine before he saw the boat. Then it came out of the gray off the middle of the beach, lifting and dropping in the swell: the Marine Patrol boat.
+He heard the engine before he saw the boat. Then it came out of the gray off the middle of the beach, lifting and dropping in the swell: the Marine Patrol boat, the state police on the water, the one his boss had sent.
 
 Tess was in her fire truck with the island radio, talking the boat in, and her voice came thin across the water from a speaker on its cabin.
 
@@ -114,7 +110,7 @@ It came in as close as the officer at the wheel dared and held there, rising and
 
 "Go," Dane said.
 
-Beth went into the sea. Dane waded in behind her to his thighs, between her and the trees, and his eyes went to the tree line.
+Beth went into the sea. Dane waded in behind her to his thighs, between her and the trees.
 
 Snow was coming off the spruce at the middle of the tree line. One bough dropped its load, then the next, then the next, a line of falling snow moving along the top of the beach toward the rocks, as fast as the boat. Somebody was moving through those trees, keeping pace with the boat.
 
@@ -130,25 +126,27 @@ It hit the officer leaning out for her hand. He sat down hard on the deck, holdi
 
 "Shit," Dane said.
 
-The cold had his legs to the thigh. The flash had come from the trees at this end, right above the rocks, where the line of falling snow had stopped. Dane set his feet on the stones under the water and brought the gun up.
+The flash had come from the trees at this end, right above the rocks, where the line of falling snow had stopped. The shooter had watched which end the boat swung to and come along the tree line above it. Dane came back out of the swell onto the end of the rocks, got his chest down on the iced granite and his elbows set, and held the gun on that place.
 
-The swell lifted him and set him down. He waited for the bottom of it, when the sea went still for half a breath, and fired once at the place the flash had been.
+He waited.
+
+The second flash came from the same spot, and the shot went through the side of the boat, low down near the water. Dane fired once, at the flash.
 
 Up in the trees something lurched. A branch shook. Then the snow up there stopped moving.
 
-The next shot from the trees went through the side of the boat, low down near the water. The officer at the wheel shouted, "He's put one through the side! We're taking water!"
+The officer at the wheel shouted, "He's put one through the side! We're taking water!"
 
 Another shot came, wild, and smacked into the sea beside Ned.
 
 Ned was in the sea. He had come off the sand past Dane with nothing in his hands, and waded out until the swell came up to his chest, and now he stood at Beth's shoulder, between her and the trees.
 
-Dane had put him on his left so he could watch his hands. Now Ned had walked into water too deep for a man who couldn't swim, to stand in front of her. Dane had no time to work out what that meant.
+Dane had put him on his left so he could watch his hands. Now Ned had walked into water too deep for a man who couldn't swim, to stand in front of her.
 
 The hurt man was bleeding onto the deck, the boat had a hole in it, and the swell was too high to get Beth up that side with a man shooting. The officer at the wheel looked at Dane.
 
 Dane waved them off with his free arm. "Take him in. Go."
 
-He got Beth by the arm and Ned by the back of the jacket and dragged them both through the swell toward the rocks, and he talked the whole way, low and steady, his eyes on the trees.
+He went back into the swell, got Beth by the arm and Ned by the back of the jacket and dragged them both toward the rocks, and he talked the whole way, his eyes on the trees.
 
 "He was right above the rocks, where the snow quit coming down. I think I hit him. Nothing's moved up there since, which means he's down or he's crawling off. Keep low. Rock's in front of you."
 
@@ -156,13 +154,13 @@ He got Beth by the arm and Ned by the back of the jacket and dragged them both t
 
 "I've got his jacket," Dane said. "Up you go."
 
-He shoved Beth up onto the iced granite and in behind the biggest rock, and hauled Ned up after her. Then he went down over her, his body on hers on the ice, and laid his gun on the trees over her shoulder.
+He shoved Beth up onto the iced granite and in behind the biggest rock, and hauled Ned up after her. Then he went down over her, his body on hers on the ice, and laid his gun across the rock over her shoulder.
 
 He watched a long time. The snow stayed on the boughs.
 
-Then he got his arms around her. She was shaking, from the cold and from all of it, so hard he could hear her teeth. He held her and kept his chin over her shoulder, where he could see the trees.
+Then he got his arms around her. She was shaking so hard he could hear her teeth. He held her and kept his chin over her shoulder.
 
-He had been afraid for her that whole minute. Now she was shaking under him, alive, and he shut his eyes against her hair and was so glad it hurt. Then he opened them on the trees.
+He shut his eyes against her hair for one breath. Then he opened them.
 
 Ned sat against the rock with the sea running out of his jacket, his empty hands on his knees.
 

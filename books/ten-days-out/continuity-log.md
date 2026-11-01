@@ -132,6 +132,20 @@
 
 ---
 
+## Chapter 09 — The North Beach
+
+*From `chapters/chapter-09/final.md`, after one reader-fix round (cold reader: "I'd keep going only to find out who leaked the hour… the chapters are starting to look the same"; plain reader PASS). POV: Dane. The midpoint.*
+
+**What happened:** Tuesday Nov 17, the north beach (a curve of sand, rocks at both ends, spruce along the top; Beth behind the rocks at the north end; Tess's red fire truck at the south end where the road comes down). Dane works out a Maine posting in his head ("Does the ferry run all winter?" / "When the sea lets it. Why?" / "No reason."). Ned comes up the shore with a lantern and a boat hook; Dane holds his gun on him until he leans the hook on the rock and opens his jacket. "He had it on a seagull this morning." / "The seagull knows what it did." Beth asks for the captain's job; Ned says it's hers in June (the letter to the board written since she got her license). "You could have offered." / "You could have asked." Ned confesses: for two years he took Cole's cash and ran his trucks across alone on night crossings after Beth's shift; he guessed what was in them; his son in Portland is an addict. "Two kids, Ned." / both fists / "I taught one of them to row." Dane: "If he sold the hour, they're in those trees now." Dane tightens his terms; New Bedford said aloud; the bucket line. The Marine Patrol boat (the state police on the water) comes in, Tess in her fire truck talking it in on the island radio. Snow drops from the spruce boughs in a line moving with the boat: someone keeping pace. The shooter worked out which end the boat swung to. Shots; an officer hit in the shoulder; Dane's one swear ("Shit"); the boat holed ("taking water"). Dane, chest down on the iced rock, fires once at the second flash; the shooter lurches. Ned, who can't swim, wades in empty-handed and stands chest-deep between Beth and the trees ("Ned can't swim." / "I've got his jacket."). Dane waves the boat off and drags them both behind the rocks. Dane sends Ned home ("I won't leave her to walk you in, the kid's hit and gone to ground, and I can't hand you to Russ while he's on my list."); Ned takes his blown-out lantern. Blood and a scraped line where one foot didn't lift: "I hit him." The boss had the hour from Dane and passed it to the Marine Patrol. "So it's one of your three, or it's one of mine." No boat until the storm blows through; Monday is six days off. "Which one?" Beth said.
+**What changed:** Rescue failed; no boat until the next window. Ned's confession (cash, night runs, his son). The kid is wounded.
+**Who knows what:** The hour was known to Tess, Ned, Russ, the boss and the Marine Patrol. Ned has told only the cash and the runs (no warning call, no lawyer, no phone).
+**Objects / details introduced:** Ned's lantern and boat hook; the holed Marine Patrol boat; the kid's blood at the tree line.
+**Plants placed:** the captain's job in June (→ Ch 13, 18); Ned's son (→ Ch 12); New Bedford (→ Ch 13); the kid wounded (→ Ch 14–16).
+**Numbers stated:** two years; one shot from Dane; six days to Monday.
+**Ends on:** behind the rocks at the north beach, Tuesday dusk, "Which one?" Beth said.
+
+---
+
 ## Plant ledger
 | Plant | Placed Ch | Pays off Ch | Status |
 |---|---|---|---|
