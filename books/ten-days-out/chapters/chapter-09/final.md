@@ -116,7 +116,7 @@ It came in as close as the officer at the wheel dared and held there, rising and
 
 Beth went into the sea. Dane waded in behind her to his thighs, between her and the trees, and his eyes went to the tree line.
 
-Snow was coming off the spruce at the middle of the tree line. One bough dropped its load, then the next, then the next, a line of falling snow moving along the top of the beach toward the rocks, as fast as the boat.
+Snow was coming off the spruce at the middle of the tree line. One bough dropped its load, then the next, then the next, a line of falling snow moving along the top of the beach toward the rocks, as fast as the boat. Somebody was moving through those trees, keeping pace with the boat.
 
 The next bough over let go, closer.
 
@@ -208,4 +208,4 @@ Beth turned her head and looked down the shore toward the village, where the lan
 
 There would be no boat now until the storm blew through, and Monday was six days off.
 
-"Which one?"
+"Which one?" Beth said.
