@@ -118,13 +118,13 @@ Behind them the light crossed a clearing, and in it she saw his track: one print
 
 "I know."
 
-She did know. Nobody had found the loft but Russ, and Russ had come up the outside stair in the open, with her bag. Four people had known about this house by Saturday afternoon. Now it was burning behind her, and three of the four were hers.
+She did know. Only Russ had found the loft, and nobody had come for them there. Four people had known about this house by Saturday afternoon. Now it was burning behind her, and three of the four were hers.
 
-She tried her old habit, one plain sentence for each of them. Tess Marr had walked her home from every dance and every wake on this island. Tess was. The sentence stopped there. Russ Whitcomb had taught her to bait a trap when she was six. Russ was. That one stopped too.
+She tried to say it to herself, one plain sentence for each of them. Tess Marr had walked her home from every dance and every wake on this island. Tess would never hurt me. She couldn't make herself believe it. Russ Whitcomb had taught her to bait a trap when she was six. Russ would never hurt me. She couldn't believe that one either.
 
-Ned Haskell had hauled her off the float by her collar two mornings ago. Ned was. Nothing came after it. For the first time in her life she couldn't finish one.
+Ned Haskell had hauled her off the float by her collar two mornings ago. Ned would never hurt me. She couldn't get to the end of it. For the first time in her life she didn't know who she could trust.
 
-"And one of them's mine," Dane said, running.
+"And the fourth one is my boss," Dane said, running.
 
 Three of them would die for me, she had told him yesterday. Now it sounded like what a woman says right before she finds out she's wrong.
 
