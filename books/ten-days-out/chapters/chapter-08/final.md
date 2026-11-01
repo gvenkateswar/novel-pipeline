@@ -124,7 +124,7 @@ She dialed from memory. Tess picked up before the first ring was done.
 
 Tess came on loud.
 
-"I drove the fire truck up to that north-side house last night, and it was burned to the cellar, and Russ walked the shore till two, and the sea had taken every track, and I sat in the cab and thought I'd be getting you ready for your coffin, Calloway."
+"I drove the fire truck up to that north-side house last night, and it was burned to the cellar, and Russ walked the shore till two, and the sea had taken every track, and I sat in the cab and thought I'd be washing you for your coffin, Calloway."
 
 Her voice went. "Beth."
 
