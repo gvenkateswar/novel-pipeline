@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–08, 17,218 words)
+# Audit — ten-days-out (chapters 01–08, 17,249 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -55,32 +55,35 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "Her eyes are the case" | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |  |
 | "Open sand" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 3 |  |
 | "Good blanket" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
-| "Says he walks" / "Cole walks" (the clock) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 4 |  |
+| "Says he walks" / "Cole walks" (the clock) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4 |  |
 | "Emergency protection" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 
 ### Frequent 3–5 word n-grams (4+ uses, whole book)
 
 - 10× “the harbor road”
-- 10× “his boss said”
-- 6× “a long time”
+- 9× “his boss said”
+- 7× “a long time”
+- 7× “the north beach”
 - 6× “the man had”
 - 5× “i'm going to”
-- 5× “the north beach”
+- 5× “against his chest”
+- 5× “the grand jury”
+- 5× “his other hand”
 - 5× “on the harbor road”
 - 4× “had never once”
 - 4× “the whole way”
+- 4× “she thought about”
 - 4× “through the snow”
 - 4× “put his hand”
-- 4× “against his chest”
 - 4× “took her hand”
 - 4× “truck was clean”
-- 4× “the grand jury”
 - 4× “the whole road”
 - 4× “road could see”
 - 4× “the dyer house”
 - 4× “the snow came”
 - 4× “dane took the”
 - 4× “the east road”
+- 4× “both hands on the”
 - 4× “in the orange light”
 - 4× “the man in the hoodie”
 - 4× “the tape on his arm”
@@ -90,11 +93,11 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - jaw: 5 (0.3/1k)
 - knuckles?: 1 (0.1/1k)
 - throat: 5 (0.3/1k)
-- reath: 9 (0.5/1k)
+- reath: 10 (0.6/1k)
 - pulse: 2 (0.1/1k)
-- chest: 11 (0.6/1k)
-- hands? (stopped|stilled|went still|flat): 4 (0.2/1k)
-- shoulders?: 11 (0.6/1k)
+- chest: 13 (0.8/1k)
+- hands? (stopped|stilled|went still|flat): 5 (0.3/1k)
+- shoulders?: 13 (0.8/1k)
 - gaze: 0 (0.0/1k)
 - tightened: 1 (0.1/1k)
 - swallowed: 0 (0.0/1k)
@@ -110,7 +113,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 05 | 1,823 | 11.9 | 7.8 | 23% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 | 06 | 1,840 | 13.3 | 7.6 | 14% | 0.0 | 0.0 | 0.0 | 3 |  |
 | 07 | 2,345 | 11.7 | 8.4 | 27% | 0.0 | 0.0 | 0.0 | 3 | mean short |
-| 08 | 1,922 | 13.8 | 10.6 | 20% | 0.0 | 0.0 | 0.0 | 3 | short |
+| 08 | 1,953 | 13.9 | 10.3 | 19% | 0.0 | 0.0 | 0.0 | 2 | short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -122,10 +125,10 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 ### Mood words per 1,000 (count; flag a cluster, not a word)
 
-- quiet: 16 (0.9/1k)
+- quiet: 15 (0.9/1k)
 - humm?(ing|ed)?: 1 (0.1/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 50 (2.9/1k)
+- still(ness)?: 47 (2.7/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 0 (0.0/1k)
@@ -145,16 +148,16 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | Construction | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | Total | /1k | Cap | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | as if / as though | 1 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 4 | 0.2 | 1.0/1k |  |
-| the way (a|the|people|someone) ... | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 2 | 0.1 | 1/ch |  |
+| the way (a|the|people|someone) ... | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 3 | 0.2 | 1/ch |  |
 | the kind of ... that | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 2/ch |  |
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 0.2 | 0.0/1k | FLAG |
-| sentence-initial And/But/And yet | 5 | 3 | 1 | 1 | 2 | 1 | 0 | 1 | 14 | 0.8 | 3.0/1k |  |
+| sentence-initial And/But/And yet | 5 | 3 | 1 | 1 | 2 | 1 | 0 | 3 | 16 | 0.9 | 3.0/1k |  |
 | em dashes | 2 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 3 | 0.2 | 2.0/1k |  |
-| semicolons | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0.1 | 2.0/1k |  |
-| perception filter (she noticed / could hear) | 0 | 0 | 1 | 2 | 1 | 3 | 0 | 1 | 8 | 0.5 | 1.0/1k |  |
-| one-sentence paragraph | 16 | 27 | 34 | 34 | 20 | 14 | 40 | 17 | 202 | 11.7 | report |  |
+| semicolons | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 2 | 0.1 | 2.0/1k |  |
+| perception filter (she noticed / could hear) | 0 | 0 | 1 | 2 | 1 | 3 | 0 | 0 | 7 | 0.4 | 1.0/1k |  |
+| one-sentence paragraph | 16 | 27 | 34 | 34 | 20 | 14 | 40 | 20 | 205 | 11.9 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
@@ -174,5 +177,5 @@ Caps: at most 2 distinct terms in the book's first 1,000 words; at most 6 distin
 | 05 | 0 | 0 | 0.0 |  |  |
 | 06 | 0 | 0 | 0.0 |  |  |
 | 07 | 1 | 1 | 0.4 | grand jury 1 |  |
-| 08 | 2 | 3 | 1.6 | hatch 2, grand jury 1 |  |
-- Audit ch08 v4: Ch 08 clean; contrast FLAG is Ch 02's accepted false positives.
+| 08 | 3 | 5 | 2.6 | hatch 2, grand jury 2, ledges? 1 |  |
+- Audit ch08 v4 (after reader fixes, 1,963): clean; contrast FLAG is Ch 02's accepted false positives.

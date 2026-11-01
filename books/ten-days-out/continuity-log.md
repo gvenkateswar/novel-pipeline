@@ -118,6 +118,20 @@
 
 ---
 
+## Chapter 08 — The Tower
+
+*From `chapters/chapter-08/final.md`, 1,963 words, after one reader-fix round (cold reader 3 of 5: "I stopped believing Dane is good at his job"; plain reader PASS). POV: Beth.*
+
+**What happened:** Monday Nov 16. Beth gets the keeper's-house generator running (the summer people shut the fuel off; black spark plug). Between pulls Dane says "I'm in love with you." She loves him (since the rock, when he opened his hand) and answers "Ask me in five days" (before the grand jury). He cooks the one tin of ham for a crowd (his mother worked nights; he cooked for the family and the hungry neighbors from twelve): "That ham is load-bearing." On the tower stair he dares her to ask Ned for the captain's job in June; he had a boat to see on Saturday. On the iced walkway Dane gives the safety orders; Beth slips watching the beach and goes over the hip-high railing; he catches her by the coat, braced, and hauls her in when the gust eases. His phone finds a signal; the boss calls ("The constable told me there were two people in the house that burned"; she called the store after the missed check-in and Russ picked up). Cole is held in Portland until the hearing Monday the twenty-third at two; grand jury at ten. A state police boat tomorrow afternoon when the wind drops, needing someone on the island radio who can see the beach. The calls argument: Dane offers to run it off his phone; Beth beats it on the merits (no captain crosses unknown ledges in a sea without someone local on the radio, so Tess; the island will know by supper; Ned and Russ shouldn't hear it off a scanner). Dane sets terms she accepts: she stands at the rocks at the far end out of sight of the trees; she says only the hour and "the north beach"; he's between her and the trees from the door to the boat. "You've still got my coat." / "Keep arguing. I'll keep hold of it." Tess on the phone: the island thought them dead (she drove the fire truck to the burned house; Russ walked the shore till two; the sea took the tracks): "…washing you for your coffin, Calloway." / "Beth." Tess sets three o'clock. Beth calls Ned and Russ. Dane: "He won't come up a stone tower with one door and me at the top of it. He'll wait for us to stand on open sand." The boss reads back "Tess Marr. Ned Haskell. Russ Whitcomb." / "And me," his boss said.
+**What changed:** The reprieve is over by choice. Four people have the hour and the north beach; only the boss knows the lighthouse.
+**Who knows what:** Tess, Ned, Russ: three o'clock, north beach. Boss: that plus the lighthouse. Beth's phone drowned; one phone (Dane's).
+**Objects / details introduced:** the tower key on the kitchen hook; the inside iron stair, ladder, hatch, iced walkway with a hip-high railing; the one bar of signal on the walkway; the ham tin.
+**Plants placed:** ask Ned for the job (→ Ch 09); "Ask me in five days" (→ Ch 13–17); Dane's terms for the beach (→ Ch 09); the hour as the leak test (→ Ch 09–10).
+**Numbers stated:** seven days to Portland; five days; three o'clock; the hearing at two, grand jury at ten on Monday the twenty-third.
+**Ends on:** the tower walkway, Monday afternoon, "And me," his boss said.
+
+---
+
 ## Plant ledger
 | Plant | Placed Ch | Pays off Ch | Status |
 |---|---|---|---|
