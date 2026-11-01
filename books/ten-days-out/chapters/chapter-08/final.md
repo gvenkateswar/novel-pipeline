@@ -20,7 +20,7 @@ She pulled again. On ten it caught. The engine coughed, then held one steady not
 
 She kept her hands on the machine. "Ask me in five days."
 
-Portland was seven days off. Five was less than seven, and she meant him to notice. From the way he breathed out, he had.
+Portland was seven days off. Five days meant she'd answer him before it was over, and she meant him to notice. From the way he breathed out, he had.
 
 She wanted to drag him down onto the cold step in the sleet, and that annoyed her, because she had an engine to finish. She wouldn't say it back with her hands in a machine. She wouldn't say no either.
 
@@ -124,7 +124,7 @@ She dialed from memory. Tess picked up before the first ring was done.
 
 Tess came on loud.
 
-"I drove the fire truck up to that north-side house last night, and it was burned to the cellar, and Russ walked the shore till two, and the sea had taken every track, and I sat in the cab and thought I'd be washing you for the box, Calloway."
+"I drove the fire truck up to that north-side house last night, and it was burned to the cellar, and Russ walked the shore till two, and the sea had taken every track, and I sat in the cab and thought I'd be getting you ready for your coffin, Calloway."
 
 Her voice went. "Beth."
 
@@ -184,4 +184,4 @@ His boss said the names back slowly, one at a time, writing.
 
 Then a pause, with the wind in it.
 
-"And me."
+"And me," his boss said.
