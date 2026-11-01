@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–06, 13,029 words)
+# Audit — ten-days-out (chapters 01–06, 12,951 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -60,23 +60,19 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 
 ### Frequent 3–5 word n-grams (4+ uses, whole book)
 
-- 8× “the harbor road”
-- 5× “the man had”
+- 9× “the harbor road”
+- 6× “the man had”
 - 5× “on the harbor road”
 - 4× “had never once”
 - 4× “the whole way”
 - 4× “through the snow”
-- 4× “i'm going to”
-- 4× “the whole time”
 - 4× “truck was clean”
 - 4× “the whole road”
 - 4× “road could see”
 - 4× “his boss said”
 - 4× “the dyer house”
 - 4× “the snow came”
-- 4× “she had known”
 - 4× “the east road”
-- 4× “for the first time”
 - 4× “in the orange light”
 - 4× “the man in the hoodie”
 
@@ -85,7 +81,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - jaw: 1 (0.1/1k)
 - knuckles?: 0 (0.0/1k)
 - throat: 2 (0.2/1k)
-- reath: 4 (0.3/1k)
+- reath: 5 (0.4/1k)
 - pulse: 2 (0.2/1k)
 - chest: 5 (0.4/1k)
 - hands? (stopped|stilled|went still|flat): 3 (0.2/1k)
@@ -103,7 +99,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 03 | 2,103 | 12.5 | 9.7 | 27% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 | 04 | 2,474 | 11.1 | 7.8 | 27% | 0.0 | 0.0 | 0.0 | 2 | mean short |
 | 05 | 1,823 | 11.9 | 7.8 | 23% | 0.0 | 0.0 | 0.0 | 3 | mean short |
-| 06 | 1,918 | 12.5 | 7.2 | 16% | 0.0 | 0.0 | 0.0 | 4 | mean short openers |
+| 06 | 1,840 | 13.3 | 7.6 | 14% | 0.0 | 0.0 | 0.0 | 3 |  |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -115,7 +111,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 ### Mood words per 1,000 (count; flag a cluster, not a word)
 
-- quiet: 11 (0.8/1k)
+- quiet: 10 (0.8/1k)
 - humm?(ing|ed)?: 0 (0.0/1k)
 - softly?: 0 (0.0/1k)
 - still(ness)?: 36 (2.8/1k)
@@ -131,7 +127,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 ### Phrases (count, whole book; any 3+ is worth a look)
 
-- 4× for the first time
+- 3× for the first time
 
 ### Constructions against Part 3 caps
 
@@ -143,11 +139,11 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 3 | 0 | 0 | 0 | 0 | 3 | 0.2 | 0.0/1k | FLAG |
-| sentence-initial And/But/And yet | 5 | 3 | 1 | 1 | 2 | 0 | 12 | 0.9 | 3.0/1k |  |
-| em dashes | 2 | 0 | 0 | 1 | 0 | 1 | 4 | 0.3 | 2.0/1k |  |
+| sentence-initial And/But/And yet | 5 | 3 | 1 | 1 | 2 | 1 | 13 | 1.0 | 3.0/1k |  |
+| em dashes | 2 | 0 | 0 | 1 | 0 | 0 | 3 | 0.2 | 2.0/1k |  |
 | semicolons | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0.1 | 2.0/1k |  |
-| perception filter (she noticed / could hear) | 0 | 0 | 1 | 2 | 1 | 4 | 8 | 0.6 | 1.0/1k |  |
-| one-sentence paragraph | 16 | 27 | 34 | 34 | 20 | 18 | 149 | 11.4 | report |  |
+| perception filter (she noticed / could hear) | 0 | 0 | 1 | 2 | 1 | 3 | 7 | 0.5 | 1.0/1k |  |
+| one-sentence paragraph | 16 | 27 | 34 | 34 | 20 | 14 | 145 | 11.2 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
@@ -166,4 +162,4 @@ Caps: at most 2 distinct terms in the book's first 1,000 words; at most 6 distin
 | 04 | 0 | 0 | 0.0 |  |  |
 | 05 | 0 | 0 | 0.0 |  |  |
 | 06 | 0 | 0 | 0.0 |  |  |
-- Audit ch06 v4: Ch 06 clean; the contrast FLAG is Ch 02's accepted false positives.
+- Audit ch06 v4 (after reader fixes, 1,850): clean; contrast FLAG is Ch 02's accepted false positives.

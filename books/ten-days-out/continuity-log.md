@@ -90,6 +90,20 @@
 
 ---
 
+## Chapter 06 — Who Knew
+
+*From `chapters/chapter-06/final.md`, 1,850 words, after one reader-fix round (cold reader 3 of 5, "the book is going in a loop"; plain reader PASS). POV: Beth.*
+
+**What happened:** Saturday night Dane sat up in a chair facing the door, gun on his knee; Beth slept in the big bed alone, door open. The condoms stay zipped in her coat pocket on the hook. All Sunday (Nov 15) the wind blows; Dane sits at the window with the gun. At dusk, while Beth fries onions and Dane finally dozes, she smells "smoke that wasn't hers": the back wall is burning and a flashlight waits at the front steps. "Dollar says he's at the front door." / "I don't bet on what I can see. Pantry." She shuts the stove vent ("It was habit, and it was crazy"), grabs coats and both pairs of boots; they go out the pantry window; her bag and the groceries burn. She digs his wet knotted laces loose: "Off this hill, I kiss you for an hour." / "Boots first." / "An hour's not long, Marshal." Running past the biggest spruce she sees the watching post: a log, trodden snow, a track straight in from the east woods, a sightline to the stove. The light comes round the side wall to their tracks; shots. They reason it out: he came straight to the house through the woods (no search); nobody was on the store steps during Dane's call. "Nobody could see this house. Somebody told him." / "I know." Only Russ found the loft and nobody came there; four people knew this house. Her three verdicts fail ("Tess would never hurt me…"). The September photo: somebody wanted the kid to know her face two months before she saw anything. "And the fourth one is my boss." The tide is making; under the bank it's black all the way north. Last line: "Hold my hand and do exactly what I do."
+**What changed:** The north-side house is burned. The leak is one of four: Tess, Russ, Ned, the boss. Beth's certainty about her people has failed.
+**Who knows what:** The boss has had no report since Saturday ("Call me at six"); there's no signal at the north house.
+**Objects / details introduced:** the north-side summer house (burned); the watching post by the biggest spruce; Beth's coat with the condoms in the pocket; both in their boots now.
+**Plants placed:** the condoms (→ Ch 07); "kiss you for an hour" (→ Ch 07); the tide over the low rocks and the wave (→ Ch 07 opening); the September photo as foreknowledge (→ Ch 16 s3).
+**Numbers stated:** four people; three of them hers; ten minutes to the tide over the rocks.
+**Ends on:** the iced shore rocks below the burning house, Sunday dusk into dark, a wave coming.
+
+---
+
 ## Plant ledger
 | Plant | Placed Ch | Pays off Ch | Status |
 |---|---|---|---|
