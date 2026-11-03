@@ -18,7 +18,7 @@ He got in ahead of her by one step, which was the most he was going to get.
 
 Snow had sifted in under the sash over the sink and lay in a thin line on the floor. The house was empty. He had been sure it wouldn't be.
 
-She packed fast: clothes into a canvas bag, the phone in its zip bag, her father's old sweater pulled on over her own.
+She packed fast: clothes into a canvas bag, the phone in its zip bag, a thick wool sweater pulled on over her shirt.
 
 He wanted her. He'd wanted her since she swung an oar at his head, and it was the least useful thing he could think in a house a man had broken into. He looked out the window instead.
 
@@ -120,7 +120,7 @@ She tasted of Russ's terrible coffee. Her braid was cold against his wrist, and 
 
 He said her name. It was all he had.
 
-She opened her mouth under his. His other hand found the hem of her father's sweater.
+She opened her mouth under his. His other hand found the hem of her sweater.
 
 "Can I?"
 

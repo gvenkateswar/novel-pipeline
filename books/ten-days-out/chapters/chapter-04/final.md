@@ -141,7 +141,7 @@ He hissed through his teeth. She grinned into his neck and left them there.
 
 "Cruel," he said.
 
-He pushed her father's sweater up, and the shirt under it, and the cold hit her skin, and then his mouth did, hot on her breast, his stubble rasping. She arched up off the net with a sound she had to bite down on.
+He pushed her sweater up, and the shirt under it, and the cold hit her skin, and then his mouth did, hot on her breast, his stubble rasping. She arched up off the net with a sound she had to bite down on.
 
 A knot in the net dug into the stiff place low in her back. She shifted off it without thinking, the way she did after a day of hauling ferry lines, and pulled his head down again.
 
