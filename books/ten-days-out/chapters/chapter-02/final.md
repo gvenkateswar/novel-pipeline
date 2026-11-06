@@ -1,6 +1,6 @@
 # Chapter Two: First Light
 
-Beth Calloway woke wanting the marshal, which was the most inconvenient thing to happen to her in a night that had included a man kicking in her back door.
+Waking up wanting the marshal was the most inconvenient thing to happen to Beth in a night that had included a man kicking in her back door.
 
 The marshal had sat at her father's table from four o'clock on with his gun in front of him, and every time she opened her eyes he was there, watching the back of the house.
 
@@ -38,7 +38,7 @@ His phone buzzed on the table. He read it.
 
 * * *
 
-The police boat's engine ran the whole time they argued. It was tied at the float, the floating dock below the stone pier where every boat but the ferry tied up. Snow blew flat across the harbor in the gray first light. The officer at the wheel checked his watch.
+The police boat's engine ran the whole time they argued. It was tied at the float, the floating dock below the stone pier where every boat but the ferry tied up. Snow blew flat across the harbor in the gray first light. The officer at the wheel checked his watch. Dane stood with his back to the boat, watching the only way down the pier.
 
 "Ten minutes," he said. "After that the sea closes the bay, and I can't come back for you. Not tomorrow. Maybe not for days."
 
@@ -46,7 +46,7 @@ Beth had the boat's bow rope in her hands. The officer was waiting on her.
 
 She put one foot on the boat's edge.
 
-She wanted to go. She wanted to be on that boat more than she had wanted anything since her father died. Her legs knew it before she did.
+Her whole body leaned toward that boat. Nothing had pulled at her like it since her father died, and her legs knew it before she did.
 
 Then she looked up at the pier.
 
@@ -146,9 +146,9 @@ Then she looked for Dane. The back of the ferry was swinging out again, and nobo
 
 He was already going over the edge of the pier.
 
-He jumped for the ferry's deck, badly, and landed on his knees on the wet steel with a crack she heard from the pier. He got up.
+He had timed it to the swing. He jumped as the stern came back in under the pier, a long drop onto wet steel, and landed on his knees with a crack she heard from where she stood. He was up and at the back rail before the stern swung out again, one hand out for a line.
 
-"I'm on," he called. "I'm at the back, on my knees, which wasn't the plan. Throw it."
+"I'm on," he called. "Knees first, which wasn't the plan. Throw it."
 
 She was on her feet. She dragged a new rope off the pile and threw him the end.
 
@@ -156,9 +156,9 @@ She was on her feet. She dragged a new rope off the pile and threw him the end.
 
 "Got it. Both hands. It's pulling like a truck."
 
-"Round the post behind you. Don't let go."
+"Round the post behind—"
 
-"It's on, and it's holding. I'm right here, Beth. I'll keep talking till you tell me to stop."
+"Two turns on it already, and it's holding. I'm right here, Beth. I'll keep talking till you tell me to stop."
 
 She took the pier end around a post and leaned on it with everything she had, and Ned leaned with her, gray in the face. The ferry came in. The rope creaked and stretched and held. Under them the float, where the police boat had been tied forty minutes ago, broke apart against the stone with a noise like a barn coming down.
 

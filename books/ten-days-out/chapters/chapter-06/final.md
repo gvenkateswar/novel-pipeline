@@ -1,6 +1,6 @@
 # Chapter Six: Who Knew
 
-Beth Calloway was frying onions in a stranger's kitchen at dusk, with the marshal asleep in the chair behind her, when she smelled smoke that wasn't hers.
+Smoke that wasn't hers came into the stranger's kitchen at dusk, while Beth fried onions and the marshal slept in the chair behind her.
 
 She had found butter in the cold pantry and two onions in the grocery box. She had cut them thick and let them go slow in an iron pan. The smell had filled every shut room of the house before anything else was ready, the window over the sink had gone blue, and her feet were dry for the first time in three days.
 
@@ -30,11 +30,13 @@ She didn't laugh. She pointed.
 
 The back hall had gone orange. Smoke came along the ceiling, slow and gray.
 
-Dane went to the edge of the front window. Down by the steps a flashlight shone, low and steady, at the door.
+Dane went to the edge of the front window, his shoulder to the wall. Down by the steps a flashlight shone, low and steady, at the door.
 
-"He lit the back so we'd use the front," Dane said. "Dollar says he's waiting at the bottom of the steps."
+"He lit the back so we'd use the front," Dane said. "Light's low and off to one side. He's crouched by the bottom step with the door in his sights. Which window's farthest from him?"
 
-Beth could see the light from where she stood. "I don't bet on what I can see. Pantry."
+Beth could see the light from where she stood. "Pantry."
+
+"Coat and boots. Leave the rest."
 
 She had tried every window in this house today. The pantry one faced the woods, away from the steps, and it opened if you hit it.
 
@@ -70,9 +72,9 @@ Dane saw it too. His stride went short. In the firelight his face was gray. He h
 
 She pulled his sleeve. "Dane. Move."
 
-Below them the flashlight left the front steps. It came fast around the corner of the house, along the side wall where they had crouched, and stopped on their tracks under the pantry window. Then it lifted toward the trees.
+Below them the flashlight left the front steps. It came fast around the corner of the house, along the side wall where they had crouched, and stopped on their tracks under the pantry window. Then it lifted toward the trees. Dane had her flat behind a trunk before it got there.
 
-The first shot came from there and cracked into the spruce over their heads. Snow came down off the branches onto them, all at once.
+The first shot cracked into the spruce over their heads. Snow came down off the branches onto them, all at once.
 
 * * *
 
@@ -130,7 +132,7 @@ At the top of the bank the flashlight came out of the trees and stopped.
 
 Dane looked at the rocks, and the ice, and the black water, and down at his own feet.
 
-"Before we start," he said, "you should know I'm terrible at this, and every rock down there looks the same to me, and there were witnesses."
+"Every rock down there looks the same to me," he said. "You pick the feet. I'll watch the bank."
 
 "I know. I watched you jump."
 

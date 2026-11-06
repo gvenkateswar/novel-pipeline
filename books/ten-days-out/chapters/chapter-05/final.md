@@ -1,6 +1,6 @@
 # Chapter Five: Good Till Next August
 
-Dane Reyes stood behind Beth at the island store at nine in the morning while she bought condoms in front of Tess Marr, two lobstermen and God.
+At nine in the morning, in front of Tess Marr, two lobstermen and God, Beth bought condoms at the island store, and Dane stood behind her.
 
 She set the box on the counter like a can of beans. The lobstermen looked at it, then at Dane.
 
@@ -64,7 +64,7 @@ Dane watched the road. "Who'd you tell she was sleeping at your place?"
 
 He had answered before Dane finished asking. Dane filed that away. Nobody said anything more.
 
-Russ stopped below the house. Every window was shuttered but one, the snow lay smooth on the front steps, and smoke was coming off the chimney of a house that ought to be dead cold.
+Every window was shuttered but one, and it faced down the road. Dane had Russ stop short, where the bank hid the truck from it. The snow lay smooth on the front steps, and smoke was coming off the chimney of a house that ought to be dead cold.
 
 The man who had looked in Russ's window before he fired was somewhere close, and Beth was in this truck.
 
@@ -118,9 +118,9 @@ No name, no pay stub, no paper. "Then my office has nothing to look up," Dane sa
 
 Dane stood at the window, gun out. "Nobody hears where you sleep tonight," he said. "Nobody."
 
-Beth faced him. "The loft's found, and there's no food in it. I can't spend nine more nights hiding from everybody I know, Dane. I need a key and groceries." She tipped her head at Russ. "If he wanted me dead, he had me asleep in his kitchen."
+Beth faced him. "The loft's found, and there's no food in it. I can't spend every night till Portland hiding from everybody I know, Dane. I need a key and groceries." She tipped her head at Russ. "If he wanted me dead, he had me asleep in his kitchen."
 
-"Fair," Dane said. "I hate it, and it's fair."
+"Groceries, yes," Dane said. "But nobody kills a woman in his own kitchen. He sends her somewhere else."
 
 Beth turned to Russ. "You've got the key to the north-side house."
 
@@ -150,7 +150,7 @@ Beth looked at it. "When did my picture go off your board?"
 
 Tess's hands stopped on the box. "Beth."
 
-Out on the steps the snow came flat off the harbor, and his phone found one bar. He called his boss on speaker. Beth stood beside him with the box on her hip.
+Out on the steps the snow came flat off the harbor, and his phone found one bar. He checked the harbor road both ways before he called his boss on speaker. Beth stood beside him with the box on her hip.
 
 "Is she alive?" his boss said.
 

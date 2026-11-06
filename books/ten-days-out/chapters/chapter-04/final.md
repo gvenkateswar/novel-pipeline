@@ -1,8 +1,8 @@
 # Chapter Four: The Net Loft
 
-Beth Calloway ran Dane Reyes along the shore in the dark with a man shooting at the sound of them.
+A man was shooting at the sound of them.
 
-She had his wrist, and she went first, down the bank behind Russ's woodpile to the rocks below the harbor road. Nobody on the road could see down there, and the water was loud enough to cover boots.
+Beth had Dane's wrist, and she went first, down the bank behind Russ's woodpile to the rocks below the harbor road. Nobody on the road could see down there, and the water was loud enough to cover boots.
 The rocks had ice on them. She knew which ones. Behind them Russ's generator roared, and with every step it got smaller.
 
 "He's behind us," Dane said, low. "Up on the road."
@@ -35,11 +35,11 @@ She put her mouth to his ear. "His foot."
 
 Dane went quiet for the first time since the woodpile.
 
-Firm, then a scrape. The steps stopped right over them. The bank was fifteen feet of ice, and the man wasn't coming down it with that foot, in the dark, toward a marshal with a gun. Then the steps went back the way they had come, toward Russ's lit house.
+Firm, then a scrape. The steps stopped right over them. Her legs gathered to run. Dane's hand came down flat between her shoulders and pressed, and she stayed. The bank was fifteen feet of ice, and the man wasn't coming down it with that foot, in the dark, toward a marshal with a gun. Then the steps went back the way they had come, toward Russ's lit house.
 
 Past the boathouse the shore ran open below the church, pale with snow and flat. No cover.
 
-She got up and went across it upright and fast. He had to follow.
+She got up and went across it upright and fast. He came behind her half turned, gun on the boathouse, his body between it and her back.
 
 "He's back by the boathouse," Dane said at her back. "Keep going."
 
@@ -97,7 +97,7 @@ She cleaned the cut with gauze and snow scraped off her own sleeve, and her hand
 
 "He could see us."
 
-"Fair." He looked at the tarp over the window. "I put you in the only lit house on the harbor road and let the whole road watch. That's on me."
+"He could see shapes. If I'd missed, my bullet went through somebody's kitchen." He looked at the tarp over the window. "I put you in the only lit house on the harbor road and let the whole road watch. That's on me."
 
 "I said, 'Fine.' Half of that's mine."
 
@@ -109,7 +109,7 @@ Neither of them had won, and she could see he knew it.
 
 She smoothed the end of the tape flat with her thumb. Then she laid her whole palm over it, flat on his forearm, and left it there. Under her hand his arm was warm, and his pulse had slowed.
 
-She wanted him. She had decided back on the ice, with his voice behind her in the dark.
+She had made up her mind about him back on the ice, with his voice behind her in the dark.
 
 "You said sooner."
 

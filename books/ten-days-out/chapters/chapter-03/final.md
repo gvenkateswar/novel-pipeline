@@ -1,6 +1,6 @@
 # Chapter Three: The Constable's Kitchen
 
-Dane Reyes lost the argument about going back into Beth's house in under a minute, and won the one about where she would sleep tonight.
+The argument about going back into Beth's house took under a minute, and Dane lost it. He won the one about where she would sleep tonight.
 
 He lost the first at the foot of her steps, gun in hand, with snow blowing flat across the yard.
 
@@ -64,7 +64,7 @@ Russ put his cap back on and took the shotgun out to the porch. "Nobody's coming
 
 Beth poured a mug of Russ's coffee and held it under her chin in both hands, steam on her face, eyes shut. She hadn't had anything hot since Thursday.
 
-He could still feel her against his chest on the pier this morning, and how he hadn't let go when she told him to. He wanted that again.
+He could still feel her against his chest on the pier this morning, and how he hadn't let go when she told him to.
 
 At six Dane called his boss on speaker, with Beth at the table.
 
@@ -108,7 +108,7 @@ She was looking at his mouth and she let him see it. He stopped watching the win
 
 "I'm going to kiss you," she said. "If you've got a reason why not, you've got about three seconds, and it had better be better than a jury."
 
-He counted. He counted everything. He got to two.
+He counted. He got to two.
 
 She took a fistful of his shirt and kissed him.
 
@@ -132,8 +132,6 @@ She made a low sound in her throat that he felt down his spine, and for once his
 
 She pressed into him, hips and stomach and all of her, and pulled him in by the shirt like a rope she was hauling. Her fingers went into his hair.
 
-"Don't you count," she said. "Not this."
-
 His thumb found the corner of her mouth. She bit his lower lip, and she meant it.
 
 He heard himself make a sound he had never once made in front of a witness.
@@ -156,9 +154,9 @@ He could already hear the man saying it, slowly, in a good coat, to a jury box.
 
 "Let him. I'll still say yes." Her thumb moved along his collarbone. "A jury doesn't get a vote on who kisses me. I do. I voted."
 
-"You're right about most of it," he said. "I don't have an answer to that."
+"You're right about the vote," he said. "It's yours. I just know what a good coat can do to a yes."
 
-The part she wasn't right about would come due in a courtroom someday. He wanted her anyway.
+The part she wasn't right about would come due in a courtroom someday, and he'd be the one to pay it.
 
 "How many witnesses have kissed you?" she asked, as if she were asking the time.
 
@@ -188,7 +186,9 @@ Beth sat up. "The Dyers' nephew lives in Augusta, way up on the mainland. He has
 
 Russ looked at him, then out at the dark road. "And if it isn't, a man bleeds out in the Dyers' kitchen."
 
-Dane had nothing to say to that. He couldn't go himself and leave her, and he wasn't taking her out into the dark toward a call like that one.
+Dane couldn't argue with a man bleeding out. He couldn't go himself and leave her, and he wasn't taking her out into the dark toward a call like that one.
+
+"Come back up the road with a light showing," he said, "so I know it's you."
 
 Russ keyed the radio. "This is Russ Whitcomb," he said, as formal as church. "On my way."
 
@@ -216,7 +216,7 @@ More shots. Glass had opened his left forearm. He noticed it late.
 
 He had his gun out and didn't fire. He couldn't see the man, and behind him was a road of houses full of sleeping people.
 
-The shots stopped. He counted the gap.
+The shots stopped.
 
 "Russ," Beth said.
 

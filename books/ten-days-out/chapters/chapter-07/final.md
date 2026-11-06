@@ -1,6 +1,8 @@
 # Chapter Seven: Cold Water
 
-Dane Reyes did exactly what she did, right up until the wave took him off the rock.
+The wave took Dane off the rock while he was doing exactly what she did.
+
+The line had been his: off the open ledge at the waterline, up onto the big rounded rocks, where the overhang of the bank hid them from the top.
 
 She dropped flat on a big rounded rock, still holding his hand, jammed her free arm into a crack on the high side, and put her face down on the ice.
 
@@ -40,7 +42,7 @@ At the top of the bank the flashlight found the white water where he had gone in
 
 It stayed.
 
-Dane counted. He got to forty, and the light was still on the water. The sea came up white through it and went back, and the light waited for something to come up with it. Sixty. The cold was in his hands now, and in his jaw under her palm. Ninety. He lost count somewhere after that.
+The sea came up white through it and went back. A man who thought they were alive would have come down the rocks hunting. This one was waiting for a body. The cold was in his hands now, and in his jaw under her palm.
 
 His hands had stopped closing. He told the right one to make a fist, and it lay on the rock like somebody else's.
 
@@ -130,8 +132,6 @@ He'd had the line ready for twenty minutes.
 
 She laughed out loud, right against his throat.
 
-Two laughs now, he thought.
-
 Her breathing went long against his neck. He meant to stay awake for both of them. He didn't.
 
 * * *
@@ -152,7 +152,7 @@ He took the gun apart on the blanket by feel, dried each piece on a pillowcase a
 
 "So I'm dead."
 
-"Since dusk. So if anybody comes for you now, somebody had to tell them you're alive."
+"Since dusk. So if anybody comes for you now, somebody had to tell them you're alive. You stay dead. In daylight I take the phone up the tower, and only my boss hears."
 
 "Then he can take my picture down."
 
