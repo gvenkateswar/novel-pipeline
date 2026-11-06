@@ -573,3 +573,6 @@ From `reviews/outline-audit-backhalf-r1.md`. Outline fix budget is now spent; th
 - "Dollar says": Ch 15 spends the last use. Ch 18's bet uses other wording. "I don't bet": one use left, free for Ch 18.
 - "Bethie": Ch 16 keeps only "I've got it, Bethie. Go."; the other becomes "Alton's way. You've seen it on the door."
 - Dane cuts one of the kid's ties and re-ties it over a life jacket. Ned is cuffed to the rail; Dane puts the cuff key in Beth's pocket (N8 plant for Ch 16). Russ's handheld radio goes to Dane.
+
+### Predictability note (orchestrator, Nov 6; binding on Ch 16–18 beats)
+The Ch 14 cold reader predicted, at 60–90%: she testifies; she runs her father's line through the rocks; she says yes and Dane moves to Maine and buys the boat; the rod sticks again; Ned gets a grace note; the fishing boat attacks. Keep the outline's outcomes, but each of Ch 16–18 must turn at least one of these in a way the reader doesn't see coming (how it happens, who does it, what it costs). The rod does not stick again (fear only). Don't quote earlier plants back in narration, don't re-gloss terms the book has defined, and vary chapter endings (not another single ominous image).
