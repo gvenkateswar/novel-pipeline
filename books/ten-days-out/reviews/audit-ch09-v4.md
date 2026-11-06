@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–09, 19,341 words)
+# Audit — ten-days-out (chapters 01–09, 19,491 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -8,8 +8,8 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 
 | Motif | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | Total | Cap | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| "Dollar says" (Dane's bet) | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 4 |  |
-| "I don't bet" (Beth's answer) | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 2 |  |
+| "Dollar says" (Dane's bet) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4 |  |
+| "I don't bet" (Beth's answer) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 | "Different ocean" (Ch 01) | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
 | "The right boots" (Ch 18) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
 | Fudge (the boot store) | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
@@ -46,7 +46,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Bare-handed | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 6 |  |
 | The boy she taught to row | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 5 |  |
 | Split lip (the kid) | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |  |
-| Good coat (the lawyer) | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 2 | 5 |  |
+| Good coat (the lawyer) | 0 | 0 | 2 | 0 | 1 | 0 | 0 | 0 | 0 | 3 | 5 |  |
 | Reading glasses | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |  |
 | "Somebody told him" | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 3 |  |
 | "You came down" (Ch 16 payoff) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
@@ -60,7 +60,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 
 ### Frequent 3–5 word n-grams (4+ uses, whole book)
 
-- 10× “the harbor road”
+- 11× “the harbor road”
 - 10× “his boss said”
 - 10× “the north beach”
 - 8× “a long time”
@@ -83,14 +83,13 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 4× “road could see”
 - 4× “dane said and”
 - 4× “the dyer house”
-- 4× “along the shore”
 - 4× “the snow came”
 - 4× “dane said the”
+- 4× “he could see”
 - 4× “dane took the”
 - 4× “the east road”
 - 4× “the tree line”
 - 4× “both hands on the”
-- 4× “with a man shooting”
 - 4× “in the orange light”
 - 4× “the man in the hoodie”
 - 4× “the officer at the wheel”
@@ -105,7 +104,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - pulse: 2 (0.1/1k)
 - chest: 16 (0.8/1k)
 - hands? (stopped|stilled|went still|flat): 6 (0.3/1k)
-- shoulders?: 18 (0.9/1k)
+- shoulders?: 20 (1.0/1k)
 - gaze: 0 (0.0/1k)
 - tightened: 1 (0.1/1k)
 - swallowed: 0 (0.0/1k)
@@ -115,12 +114,12 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | Ch | Words | Mean sent. | SD | ≤5-word share | Codes/1k | Numerals/1k | ALLCAPS/1k | Max opener run | Flags |
 |---|---|---|---|---|---|---|---|---|---|
 | 01 | 2,506 | 11.8 | 9.3 | 34% | 0.0 | 0.4 | 0.0 | 3 | mean short |
-| 02 | 2,205 | 10.7 | 7.0 | 27% | 0.0 | 0.0 | 0.0 | 3 | mean short |
-| 03 | 2,103 | 12.5 | 9.7 | 27% | 0.0 | 0.0 | 0.0 | 3 | mean short |
-| 04 | 2,474 | 11.1 | 7.8 | 27% | 0.0 | 0.0 | 0.0 | 2 | mean short |
-| 05 | 1,823 | 11.9 | 7.8 | 23% | 0.0 | 0.0 | 0.0 | 3 | mean short |
-| 06 | 1,840 | 13.3 | 7.6 | 14% | 0.0 | 0.0 | 0.0 | 3 |  |
-| 07 | 2,345 | 11.7 | 8.4 | 27% | 0.0 | 0.0 | 0.0 | 3 | mean short |
+| 02 | 2,242 | 10.8 | 7.1 | 26% | 0.0 | 0.0 | 0.0 | 3 | mean short |
+| 03 | 2,112 | 12.8 | 9.8 | 25% | 0.0 | 0.0 | 0.0 | 2 | mean short |
+| 04 | 2,507 | 11.2 | 7.6 | 27% | 0.0 | 0.0 | 0.0 | 2 | mean short |
+| 05 | 1,854 | 12.0 | 7.6 | 22% | 0.0 | 0.0 | 0.0 | 3 | mean short |
+| 06 | 1,854 | 13.0 | 7.4 | 15% | 0.0 | 0.0 | 0.0 | 3 | mean |
+| 07 | 2,371 | 11.9 | 8.4 | 26% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 | 08 | 1,953 | 13.9 | 10.3 | 19% | 0.0 | 0.0 | 0.0 | 2 | short |
 | 09 | 2,092 | 14.1 | 10.2 | 20% | 0.0 | 0.0 | 0.0 | 4 | short openers |
 
@@ -137,7 +136,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 - quiet: 17 (0.9/1k)
 - humm?(ing|ed)?: 1 (0.1/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 50 (2.6/1k)
+- still(ness)?: 49 (2.5/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 0 (0.0/1k)
@@ -163,10 +162,10 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | not because ... but because | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 0.2 | 0.0/1k | FLAG |
 | sentence-initial And/But/And yet | 5 | 3 | 1 | 1 | 2 | 1 | 0 | 3 | 1 | 17 | 0.9 | 3.0/1k |  |
-| em dashes | 2 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 3 | 0.2 | 2.0/1k |  |
+| em dashes | 2 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0.2 | 2.0/1k |  |
 | semicolons | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 2 | 0.1 | 2.0/1k |  |
-| perception filter (she noticed / could hear) | 0 | 0 | 1 | 2 | 1 | 3 | 0 | 0 | 2 | 9 | 0.5 | 1.0/1k |  |
-| one-sentence paragraph | 16 | 27 | 34 | 34 | 20 | 14 | 40 | 20 | 27 | 232 | 12.0 | report |  |
+| perception filter (she noticed / could hear) | 0 | 0 | 1 | 3 | 1 | 3 | 0 | 0 | 2 | 10 | 0.5 | 1.0/1k |  |
+| one-sentence paragraph | 16 | 27 | 35 | 34 | 20 | 14 | 40 | 20 | 27 | 233 | 12.0 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
@@ -180,12 +179,11 @@ Caps: at most 2 distinct terms in the book's first 1,000 words; at most 6 distin
 | Ch | Distinct | Uses | /1k | Top terms | |
 |---|---|---|---|---|---|
 | 01 | 1 | 1 | 0.4 | grand jury 1 |  |
-| 02 | 2 | 5 | 2.3 | skiff 3, grand jury 2 |  |
-| 03 | 1 | 2 | 1.0 | choke 2 |  |
+| 02 | 2 | 5 | 2.2 | skiff 3, grand jury 2 |  |
+| 03 | 1 | 2 | 0.9 | choke 2 |  |
 | 04 | 0 | 0 | 0.0 |  |  |
 | 05 | 0 | 0 | 0.0 |  |  |
 | 06 | 0 | 0 | 0.0 |  |  |
-| 07 | 1 | 1 | 0.4 | grand jury 1 |  |
+| 07 | 2 | 2 | 0.8 | ledges? 1, grand jury 1 |  |
 | 08 | 3 | 5 | 2.6 | hatch 2, grand jury 2, ledges? 1 |  |
 | 09 | 0 | 0 | 0.0 |  |  |
-- Audit ch09 v4 (after reader fixes, 2,102): clean; contrast FLAG is Ch 02's accepted false positives.

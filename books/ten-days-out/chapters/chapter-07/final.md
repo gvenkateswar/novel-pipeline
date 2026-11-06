@@ -248,7 +248,7 @@ He came saying her name and nothing else, with salt on his tongue and the cold o
 
 She put her head on his shoulder. The wind went around the tower next door.
 
-The grand jury sat in Portland on Monday the twenty-third, eight days off. After that she would go home to her ferry and her father's house, and he would go wherever they sent him next. She would never leave this island. He had known that since the oar.
+The grand jury sat in Portland on Monday the twenty-third, eight days off. After that she would go home to her ferry and her island, and he would go wherever they sent him next. She would never leave this island. He had known that since the oar.
 
 "I'm going to get you off this island alive," he said, "and then I'm going to lose you, aren't I?"
 

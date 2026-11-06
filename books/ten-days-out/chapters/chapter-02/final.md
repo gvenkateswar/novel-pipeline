@@ -146,7 +146,7 @@ Then she looked for Dane. The back of the ferry was swinging out again, and nobo
 
 He was already going over the edge of the pier.
 
-He had timed it to the swing. He jumped as the stern came back in under the pier, a long drop onto wet steel, and landed on his knees with a crack she heard from where she stood. He was up and at the back rail before the stern swung out again, one hand out for a line.
+He had timed it to the swing. He jumped as the back of the ferry came in under the pier, a long drop onto wet steel, and landed on his knees with a crack she heard from where she stood. He was up and at the back rail before it swung out again, one hand out for a line.
 
 "I'm on," he called. "Knees first, which wasn't the plan. Throw it."
 
