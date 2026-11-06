@@ -557,3 +557,9 @@ From `reviews/outline-audit-backhalf-r1.md`. Outline fix budget is now spent; th
 - Beth uses the ferry first-aid box's last dressing on Russ; it is empty for Ch 14, where Dane wraps her palms in his shirt.
 - During the raid Ned is cuffed to the town office back-room pipe; Tess leaves him at the shot. Russ's shotgun ends with Tess, who guards the prisoners with it.
 - Nobody on the island knows the kid's name.
+
+### Ch 14 beat-sheet carry-forwards (orchestrator, Nov 6; binding on Ch 15–18)
+- The steering jams because the rod from the wheel's gear to the rudder, bent in Ch 02, was straightened in the co-op's vise (no new one on the island); Beth warns before they cast off that it might bind. Ch 15 must say plainly that Beth spent Saturday on the rod; Ch 16 may use the fear of it inside the ledges, with no second jam. (Domain check at manuscript stage: rod linkage vs hydraulic steering on a 1989 ferry; fallback wording in chapter-14/beats.md.)
+- Tess lights the rocks with the fire truck's big light all night from the harbor road, says nothing on the radio, and drives away at first light. Russ guards the prisoners from the couch with the shotgun that night. Tess still isn't speaking to Beth (Ch 15 "She's not talking"; Ch 18).
+- Ch 14 spends the second and last "I don't bet". Ch 15 and Ch 18 take bets without that phrase.
+- Beth's palms are torn by the wheel (no burns). Dane wraps them in his shirt ("That was my good shirt." / "You don't have a good shirt.").
