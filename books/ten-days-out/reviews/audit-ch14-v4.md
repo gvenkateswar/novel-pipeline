@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–14, 30,115 words)
+# Audit — ten-days-out (chapters 01–14, 30,124 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -60,13 +60,14 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 
 ### Frequent 3–5 word n-grams (4+ uses, whole book)
 
-- 18× “the harbor road”
+- 19× “the harbor road”
 - 15× “the kid's phone”
-- 11× “his boss said”
+- 12× “his boss said”
+- 11× “on the harbor road”
 - 10× “the north beach”
-- 10× “on the harbor road”
 - 9× “a long time”
 - 8× “the town office”
+- 6× “had never once”
 - 6× “the whole way”
 - 6× “i'm going to”
 - 6× “the man had”
@@ -74,7 +75,6 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 6× “the east road”
 - 6× “the north-side house”
 - 6× “the kid had”
-- 5× “had never once”
 - 5× “she thought about”
 - 5× “through the snow”
 - 5× “and said nothing”
@@ -83,6 +83,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 5× “the whole time”
 - 5× “truck was clean”
 - 5× “the grand jury”
+- 5× “beth said and”
 - 5× “beth said i”
 - 5× “looked at beth”
 - 5× “came up through”
@@ -95,11 +96,10 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 5× “the tree line”
 - 5× “the harbor mouth”
 - 5× “a hurt boy”
+- 5× “his boss on speaker”
 - 5× “for the first time”
 - 4× “her voice came”
 - 4× “she had never”
-- 4× “with both hands”
-- 4× “the marine patrol”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
@@ -132,7 +132,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 11 | 1,992 | 13.0 | 9.0 | 18% | 0.0 | 0.0 | 0.0 | 3 | short |
 | 12 | 2,096 | 12.4 | 8.3 | 23% | 0.0 | 0.0 | 0.0 | 4 | mean short openers |
 | 13 | 2,031 | 11.9 | 8.4 | 24% | 0.0 | 0.0 | 0.0 | 2 | mean short |
-| 14 | 2,039 | 13.8 | 8.2 | 17% | 0.0 | 0.0 | 0.0 | 3 | short |
+| 14 | 2,048 | 13.4 | 7.8 | 18% | 0.0 | 0.0 | 0.0 | 2 | short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -147,7 +147,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 - quiet: 19 (0.6/1k)
 - humm?(ing|ed)?: 2 (0.1/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 67 (2.2/1k)
+- still(ness)?: 69 (2.3/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 1 (0.0/1k)
@@ -176,7 +176,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | em dashes | 2 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 1 | 7 | 0.2 | 2.0/1k |  |
 | semicolons | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0.1 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 0 | 0 | 1 | 3 | 1 | 3 | 0 | 0 | 2 | 3 | 1 | 0 | 0 | 0 | 14 | 0.5 | 1.0/1k |  |
-| one-sentence paragraph | 16 | 27 | 35 | 34 | 20 | 14 | 40 | 20 | 27 | 36 | 41 | 22 | 19 | 28 | 379 | 12.6 | report |  |
+| one-sentence paragraph | 16 | 27 | 35 | 34 | 20 | 14 | 40 | 20 | 27 | 36 | 41 | 22 | 19 | 23 | 374 | 12.4 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
@@ -202,4 +202,4 @@ Caps: at most 2 distinct terms in the book's first 1,000 words; at most 6 distin
 | 11 | 1 | 2 | 1.0 | skiff 2 |  |
 | 12 | 0 | 0 | 0.0 |  |  |
 | 13 | 1 | 1 | 0.5 | ledges? 1 |  |
-| 14 | 1 | 1 | 0.5 | hatch 1 |  |
+| 14 | 2 | 2 | 1.0 | stern(man)? 1, hatch 1 |  |
