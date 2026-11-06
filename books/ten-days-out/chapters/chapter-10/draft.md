@@ -1,0 +1,261 @@
+# Chapter Ten: The Blood Trail
+
+"Not Ned," Beth Calloway said, and heard how it sounded out loud.
+
+Dane crouched in front of her behind the split rock. To the south the storm stood like a black wall, and the first hard snow hissed on the granite by her face.
+
+"He knew the hour," Dane said. "So did two other people you love."
+
+"He stood in the sea for me."
+
+"I know. Every night so far the kid's picked the place. Not tonight."
+
+He came down to her level. "He's hit and bleeding, and the snow holds his trail until that storm fills it in, which is under an hour. Every other night he's had the dark and the choice. Tonight he's weaker than we are, because he's the one with a hole in him."
+
+She put her cold hand inside his coat, flat on his wet shirt, for the warmth.
+
+He didn't stop arguing, and he didn't move her hand.
+
+"And you're wet to the neck. Sit behind this rock while that comes in and you freeze, and the lighthouse is a mile back the wrong way."
+
+"It's nearly dark," she said. "There's a storm coming. He's got a gun."
+
+"I go first. If it turns toward houses, we stop and come back. I don't follow it anywhere I can't see."
+
+"Where it runs near the shore, I lead," she said. "I know where a man can go on it and where he can't."
+
+"Lead, then."
+
+"Fine."
+
+She stood up first, went down off the rock onto the shore stones and headed east, and she heard him come down after her.
+
+* * *
+
+They cut up to the tree line and found the trail going east.
+
+Dane went first and said nothing at all.
+
+He stopped at a spruce and pointed. Blood was black on the bark at shoulder height, where the kid had leaned his hurt left arm.
+
+Farther on, a hollow in the snow the shape of a man, and a handprint where he had pushed himself up.
+
+Then the groove the bad foot had plowed at every step, a line the snow hadn't filled yet.
+
+Beth watched his hands. She watched everybody's hands, to see whether they knew what they were doing. His did.
+
+At a big rock the groove turned downhill, away from the houses.
+
+"He's going to his boat," Beth said. "Between here and the village there's one cove a skiff can sit in."
+
+So she led them down onto the shore rocks under the bank. The woods and the road above were his. The shore was hers.
+
+She heard the cove before she saw it: a flat bottom grinding over stones in short drags.
+
+From the north lip of the cove she looked down. The kid had dragged his skiff to the water one-handed, his rifle slung on his back. His phone was lit at his ear, and it rang and rang, and nobody answered.
+
+In its light she saw his face. Young, scared, and gray.
+
+Dane's hand pressed once on her shoulder. Stay. He went down the rocks fast and quiet.
+
+"Put it down."
+
+The kid dropped the phone and swung the rifle round on its strap, and Dane was on him before it came round. The rifle hit the stones, and Dane kicked it away.
+
+The kid tore loose with a high sound, his hurt arm wrenched, and came up the rocks at Beth, dragging a pistol out of his hoodie pocket.
+
+She was the case, and he had nothing left.
+
+She was just above him, in the line. If Dane fired, he fired at her too. She saw Dane see it.
+
+She threw herself sideways off the rock, out of the line, and came down hard on the stones. Her knee hit a rock edge and opened. She didn't feel it yet.
+
+"Fuck," Dane said, going up the rocks after him.
+
+The kid was a step from her with the pistol coming up. Dane caught him by the hood and hauled him backward off the rock. The kid swung the pistol back across Dane's head, Dane went to one knee, and the kid was off into the spruce, east and inland, gone.
+
+Dane came to her. His hand was on her before she sat up.
+
+Blood was coming through the torn knee of her jeans, and out of his hair into one eyebrow. They looked at each other's blood and said nothing.
+
+He got up, took the kid's phone off the stones while it was still lit, and worked his thumb on it before the screen went dark. He checked the rifle and slung it.
+
+Beth looked south at the sky, then at the skiff.
+
+"He'd have been swamped at the ledges. An hour across is the ferry. In that, it's three, and the storm's here inside the hour."
+
+"He was going to try."
+
+"He's got nothing to lose."
+
+Dane lifted a rock off the beach and put it through the bottom of the skiff, twice.
+
+"Now there's one way off this island."
+
+"And it's my boat."
+
+The skiff settled on the stones with the sea coming in through the hole. Then the snow came, all at once, sideways out of the south.
+
+* * *
+
+The storm hit as they climbed the path from the cove.
+
+"The road's his tonight," Dane said against her ear.
+
+"And the shore path back is two hours in the dark," Beth said, "along rocks he could shoot down onto."
+
+"The blood went inland. He won't come back to a boat with a hole in it, toward a man who's got his rifle."
+
+The Pruett dentist's summer house stood at the top of the path, every window shuttered. Beth had closed it up herself in October, and the key was on her own ring.
+
+She opened the back door by feel, and it swung in on the black kitchen. She turned in the doorway and kissed him, hard and cold-faced, with the rifle strap between them and his blood on her cheek. The pistol had come up at her, and then it had come down across his head. He kissed her back the same way.
+
+Then, against her mouth: "Door first."
+
+She let him go.
+
+He cleared the house fast by phone light: the kitchen, the front room, the back bedroom. He checked the front door's bolt, the one she had set in October, and the shutters. He wedged a kitchen chair under the back door's knob, stood the rifle at the end of the daybed by the stove, and laid his gun on the other chair.
+
+Their breath showed white in the light. The shut house was colder than outdoors and smelled of somebody else's soap.
+
+"I'm lighting the stove," he said. "He already knows where we are, the storm will hide the smoke, and you're soaked, which is the bigger risk tonight."
+
+"The left damper," Beth said. "All the way out."
+
+He lit it, pulled the left one, and set the stove door open a crack. Orange light came across the floor.
+
+In that light he saw the blood through her torn knee. He sat her on the daybed, cut her jeans open above the knee and cleaned the cut. He closed it with thin strips from the trauma kit that pulled the edges together, then a pad and tape, quick and sure.
+
+She watched his hands.
+
+"You're good at this," she said.
+
+"I've been good at this the whole time. You've only seen the bad days."
+
+She laughed and reached for the blood in his hair. He moved her hand away, gently.
+
+"After."
+
+He finished, put the kit away and got up. He fed the stove, tried the chair under the knob once more, and stood at the shuttered front window, listening to the storm.
+
+"You said door first," Beth said from the daybed. "Both doors are done."
+
+He turned from the window.
+
+He came across the room and lay down beside her, minding the knee.
+
+This time it was slow, and the orange from the stove was on his face, and she could see him.
+
+The wet things came off in the cold room, quick and plain: her jeans stiff with salt and frozen at the cuffs, his clothes heavy with sea. The dentist's big quilt came up over them both.
+
+He lay on his side facing her, with his back to the room. Then he stopped, lifted his head, and looked over his shoulder at the back door.
+
+She didn't argue, and she didn't make a joke of it.
+
+"Then look at it."
+
+She went over him on her good knee and lay on her good side at the outside edge, facing the room. She pulled his arm over her, and he came in behind her with his back to the wall. Her bad leg lay straight on top, and his hand settled over the dressing. The rifle stood within reach.
+
+"Can you see it?"
+
+"Yes."
+
+The door was across the room with the chair under its knob, and the stove light reached across the floor to it, and his breath was on the back of her neck, and a pistol had come up at her face, and his hand had closed on a hood, and the room was getting warm a piece at a time, and she wasn't steering any of it, and she let it go.
+
+"I want you inside me," she said. "Slowly."
+
+She reached out from under the quilt into the cold, found a condom in her coat pocket on the chair, and put it in his hand. "Put that on."
+
+He opened it behind her. Then his hand stopped at her hip and waited.
+
+"Beth?"
+
+"Yes. Like this." She had put them like this herself, and she pressed back against him to say so.
+
+He went into her slowly, the way she had asked. She felt all of him, and she let out a long breath, and for the first time that night it didn't show.
+
+He held still. His stubble, nearly a beard by now, was rough on her shoulder. His hand stayed spread over the dressing and kept her leg steady, so nothing he did could jar it.
+
+Then he began to move, and the old springs of the daybed answered under them.
+
+She reached back into his hair and found the lump where the pistol had hit him, with the blood dried stiff around it. She held his head there against her neck, very gently. He made a sound against her skin and let her.
+
+His hand came up off her knee to her breast, warm on cold skin, and then went back to keep the dressing still.
+
+The storm leaned on the shutters. Wherever the stove reached her she was warm, and her shoulder was cold where the quilt had slipped, and he was hot behind her and inside her, moving the way she'd asked.
+
+"I want your fingers on me while you do that," she said.
+
+His hand left the dressing and came across her thigh, and his fingers settled on her clit, slow, where she was wet.
+
+She put her head back on his shoulder. The door was right there in front of her, and she watched it so he wouldn't have to, and then she couldn't watch anything.
+
+"That's the dentist's good quilt," she said, when she could. "I'll be the one washing it before the summer people come back."
+
+He laughed into her shoulder and didn't stop moving.
+
+"You can go harder than that," she said. "My knee's the only part of me that's hurt."
+
+He did. His fingers stayed where they were, and the springs went on under them, and she stopped thinking about her knee at all.
+
+Then his hand spread flat on her stomach and held her back against him, and his mouth was at her ear.
+
+"Beth. I—"
+
+She put her hand over his, where it lay on her stomach.
+
+"Don't say it yet."
+
+He didn't. He held her harder, and his fingers went back down to her, and she went with him.
+
+It came up in her from a long way off, and she let it come, and she said his name out loud into the warm room, and again, and shook against him until it was done.
+
+He came a moment after, saying her name against her neck, with his hand hard on her hip and his face in her hair.
+
+Then they lay still.
+
+The storm kept at the shutters. Her knee throbbed under the dressing. Behind her he wasn't asleep. She could feel him not sleeping.
+
+Over her shoulder his eyes were on the door, and his free hand had gone out from under the quilt to the rifle.
+
+The stove light lay across the floor on the wedged chair, and they both watched the door.
+
+* * *
+
+By ten the stove was a red bed behind its door. Dane sat on the floor against the daybed with the kid's phone open in his hand, and Beth read over his shoulder.
+
+One number, no names:
+
+*constables. ill get him off the porch.*
+
+*north side house. russ has the key.*
+
+*north beach 3.*
+
+Under the last one the kid had written back: *ok*
+
+"My boss knew the lighthouse on Monday," Dane said. "This never sent it."
+
+"And the Marine Patrol never had the north-side house," Beth said.
+
+It was one of her three.
+
+She knew all three of their numbers by heart, and this was none of them. She put her thumb over the number, as if that would keep it from being anybody.
+
+"Another number's called him four times since the beach," Dane said. "Never once texted."
+
+He took his own phone to the kitchen window, found one bar, and texted his boss with the screen turned so she could read it.
+
+*The phone records came back clean on her three. Keep it on. Don't answer it without me.*
+
+So somebody she loved had a second phone.
+
+At two the kid's phone lit up on the chair.
+
+*where r u. answer me.*
+
+Beth was awake. Whoever held that phone was somebody she had loved all her life, awake in a dark house on this island, waiting for a boy to write back.
+
+"Answer him," she said.
+
+She held the kid's phone out to him across the quilt, lit. He didn't take it yet. He was already reaching for his own.
