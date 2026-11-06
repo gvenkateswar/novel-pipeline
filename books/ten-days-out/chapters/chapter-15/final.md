@@ -22,7 +22,7 @@ Another shot hit the wall beside her while he waited.
 
 He went.
 
-The ferry's radio speaker crackled over the engine, and his voice came out of it from the upper deck, the open roof behind her wheelhouse, thin and close.
+The ferry's radio speaker crackled over the engine, and his voice came out of it from the upper deck, the open roof behind her, thin and close.
 
 "I'm up. I'm at the back rail. It's behind you on your right, about as far off as the length of the pier. Coming up."
 
@@ -216,7 +216,7 @@ She sat him up against the rail at the head of the ladder, where he could see do
 
 "Stay here. I'll bring them up."
 
-She took Ned's knife off Dane's belt, left him the rifle across his knees and went down the iced ladder alone to the wheelhouse where Ned had her boat.
+She took Ned's knife off Dane's belt, left him the rifle across his knees and went down the iced ladder alone to where Ned had her boat.
 
 * * *
 

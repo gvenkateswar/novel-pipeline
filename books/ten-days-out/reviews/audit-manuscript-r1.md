@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–17, 37,995 words)
+# Audit — ten-days-out (chapters 01–17, 37,992 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -133,7 +133,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 12 | 2,246 | 11.9 | 8.6 | 22% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 | 13 | 2,190 | 11.5 | 6.9 | 18% | 0.0 | 0.0 | 0.0 | 2 | mean short |
 | 14 | 2,354 | 12.5 | 8.3 | 19% | 0.0 | 0.0 | 0.0 | 2 | mean short |
-| 15 | 2,502 | 11.4 | 8.2 | 25% | 0.0 | 0.0 | 0.0 | 4 | mean short openers |
+| 15 | 2,499 | 11.4 | 8.2 | 25% | 0.0 | 0.0 | 0.0 | 4 | mean short openers |
 | 16 | 2,300 | 13.1 | 9.7 | 20% | 0.0 | 0.0 | 0.0 | 3 | short |
 | 17 | 2,144 | 12.2 | 6.8 | 19% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 
@@ -206,6 +206,6 @@ Caps: at most 2 distinct terms in the book's first 1,000 words; at most 6 distin
 | 12 | 1 | 3 | 1.3 | hatch 3 |  |
 | 13 | 2 | 2 | 0.9 | skiff 1, ledges? 1 |  |
 | 14 | 2 | 2 | 0.8 | ledges? 1, hatch 1 |  |
-| 15 | 3 | 9 | 3.6 | wheelhouse 4, ledges? 4, grand jury 1 | FLAG |
+| 15 | 3 | 7 | 2.8 | ledges? 4, wheelhouse 2, grand jury 1 |  |
 | 16 | 1 | 1 | 0.4 | grand jury 1 |  |
 | 17 | 0 | 0 | 0.0 |  |  |
