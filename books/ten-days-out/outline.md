@@ -1173,3 +1173,4 @@ None. The judgement calls, with the default taken:
 - **N6:** plant high water as Beth's reason to sail at ten.
 - **N7/N8:** strike every hidden-text line in the amendment.
 - **N9–N13:** take the auditor's fixes.
+- (Orchestrator, Ch 13 beats) Mercer's beard is **gray**, not red gone white, so a listener never confuses him with Russ. His tags: the orange float coat and the gold tooth. If the rebuilt Ch 12 doesn't leave the ferry's wrench with Beth, the windlass is a split of stove wood from the pile by her step.
