@@ -16,23 +16,23 @@ Dane fired once.
 
 At the far end of the wall a shape broke loose, bent double, and ran west along the stones toward the village. The bad foot plowed a line behind it through the snow.
 
-Dane's finger came off the trigger and lay along the guard. The first houses stood past the wall, and he didn't shoot toward houses. He didn't chase either. He had a witness and a tied man in a ditch.
+Dane's finger came off the trigger. The first houses stood past the wall, and he didn't shoot toward houses. He didn't chase either. He had a witness and a tied man in a ditch.
 
 "Up," he said. "Before he works out he can stop running."
 
-They climbed out, Ned an inch at a time on the bad hip. Dane walked a step wide on the uphill side with his eyes on the wall. The rope's end was still in Beth's bare hand.
+They climbed out, Ned an inch at a time on the bad hip. Dane walked uphill of them, his eyes on the wall. The rope's end was still in Beth's bare hand.
 
 She kept her eyes on the road. "Why?"
 
-"Snow's set in for the day," Ned said. He went three steps before the rest came. "Two years ago Cole came down the pier on a calm night. He said, after your deckhand's gone home, you take it back across alone. So I did. I ran his trucks over in the dark. He gave me a phone for it. Only number he ever called me on."
+"Snow's set in for the day," Ned said. He went three steps. "Two years ago Cole came down the pier on a calm night. He said, after your deckhand's gone home, you take it back across alone. So I did. I ran his trucks over in the dark. He gave me a phone for it. Only number he ever called me on."
 
 Two years of nights her boat had carried Cole's trucks across while she slept up the hill.
 
 Beth stopped on the rope. "On the beach you told me you'd never opened a truck."
 
-"On the beach I lied to you," Ned said. "Fuel runs, I told the co-op. Round to the fuel dock and back when the tank's low. Nobody asks the captain why he moves his own boat."
+"On the beach I lied to you," Ned said. "Fuel runs, I told the co-op. Nobody asks the captain why he moves his own boat."
 
-Dane's head turned to the wall and back. Snow ran off the top stones in the wind.
+Dane's head turned to the wall and back.
 
 "A man rang me on that phone the morning after," Ned said. "He told me the street my boy sleeps on."
 
@@ -64,7 +64,7 @@ Ned answered Beth. "It comes in from offshore. A boat. I never saw it." Snow fro
 
 She pulled on the rope, and he came.
 
-At the top of the rise Dane's phone found one bar. He rang Russ: put it on the island radio, every door locked, a boy with a pistol coming in from the east, and nobody to go out and help a hurt boy. Meet us at the town office. He said nothing about her.
+At the top of the rise Dane's phone found one bar. He rang Russ: the island radio, every door locked, a boy with a pistol coming in from the east, and nobody to go out to a hurt boy. Meet us at the town office. He said nothing about her.
 
 His hand came onto her back, once, between her shoulders, and went.
 
@@ -256,7 +256,7 @@ Beth lifted her head from the bolt.
 
 "Somebody's lit your stove," Ned said.
 
-Up on the rise, over the roofs, smoke stood up from her chimney into the last of the light. It went up thin and steady. At the foot of her lane Russ's truck sat where it had sat all day. Her house had stood empty and cold for five days.
+Up on the rise, over the roofs, smoke stood up from her chimney into the last of the light. At the foot of her lane Russ's truck sat where it had sat all day. Her house had stood empty and cold for five days.
 
 Dane's rifle came off his shoulder. Beth pushed the wrench into her coat pocket and came up onto her feet with the bent rod still in her hand, and the three of them looked up at the smoke.
 
