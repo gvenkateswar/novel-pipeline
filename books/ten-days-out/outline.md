@@ -565,3 +565,11 @@ From `reviews/outline-audit-backhalf-r1.md`. Outline fix budget is now spent; th
 - Beth's palms are torn by the wheel (no burns). Dane wraps them in his shirt ("That was my good shirt." / "You don't have a good shirt.").
 - Ch 15 s2 must restate the boss line cut from Ch 14 s4: a text from a phone in nobody's name and Ned's word won't arrest that lawyer, and the kid isn't talking.
 - (Ch 13 fix round) Dane rang the Coast Guard for Russ; "We'll fly when the icing clears." Binding on Ch 14–18: the icing does not clear before Monday (the same weather that grounds the helicopter is why Beth must go by ferry, "Sunday night or not at all"); Russ's bleeding stays stopped and he waits on the town office couch; he is flown out after the climax (Ch 17 or 18 may say so in one line). The kid fired twice in Ch 13 (through the door; into the snow by Dane's head).
+
+### Ch 15 beat-sheet carry-forwards (orchestrator, Nov 6; binding on Ch 16–18)
+- Plot change accepted under the author's Oct 29 standing instruction (reported to the author): Russ and Tess stay ashore. Russ waits on the town office couch for the Coast Guard flight when the icing clears on Tuesday; Tess stays with him and the shotgun. The prisoners (Ned and the kid) cross on the ferry because Tess can't nurse Russ and guard two men, and the kid ashore would draw the boat's men to Russ. Ch 16 s3 "everyone he has wronged is aboard" becomes "her and the boy he sent after her". Ch 17 or 18 says in one line that Russ was flown out Tuesday.
+- The public yes: Beth tells Russ and Tess herself, before Dane asks, that he's going to ask her something and she'll say yes, "so nobody ever says it for me." "Can I kiss you? I'm asking." / "Yes. Come here." Tess walks out; Russ: "Well." The Ch 12 rupture is settled face to face in Ch 15 s1.
+- "I'm asking": Ch 15 uses one; Ch 17 has the last.
+- "Dollar says": Ch 15 spends the last use. Ch 18's bet uses other wording. "I don't bet": one use left, free for Ch 18.
+- "Bethie": Ch 16 keeps only "I've got it, Bethie. Go."; the other becomes "Alton's way. You've seen it on the door."
+- Dane cuts one of the kid's ties and re-ties it over a life jacket. Ned is cuffed to the rail; Dane puts the cuff key in Beth's pocket (N8 plant for Ch 16). Russ's handheld radio goes to Dane.
