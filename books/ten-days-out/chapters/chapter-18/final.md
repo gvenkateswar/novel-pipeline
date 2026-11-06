@@ -128,7 +128,7 @@ That was all. She didn't hug her. She walked past into the kitchen and sat down 
 
 Beth set the pie on the counter and stood a moment with her hands on either side of it.
 
-She lifted the roasting pan out of the oven herself and set it in front of Russ, and Russ carved it thick from his chair while the light went yellow in the windows.
+She lifted the roasting pan out of the oven herself and set it in front of Russ, and Russ carved the ham thick from his chair while the light went yellow in the windows.
 
 Russ held his plate out for thirds. "Is there more? There's more. Who cooks a ham that size for four people? He does."
 
