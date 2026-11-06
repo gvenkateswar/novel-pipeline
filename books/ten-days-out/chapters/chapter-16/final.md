@@ -2,9 +2,11 @@
 
 The boat showing one light came up on them fast, and Beth Calloway knew in the first minute that she couldn't outrun it.
 
-Half past ten, and the harbor mouth was half a mile behind them. The light swung out from behind and came up on her left, close, its engine bigger than her own. A fishing boat twice as fast as the ferry, with men on its deck in its own light.
+Half past ten, and the harbor mouth was half a mile behind them. Pruett lay ahead across the bay. On her left the island's point ran out into the bay, a long black arm of land with the ledges along it. At ten tomorrow morning she went in to the grand jury in Portland.
 
-The side window beside her broke.
+The light swung out from behind and came up on her right, close, its engine bigger than her own. A fishing boat twice as fast as the ferry, with men on its deck in its own light.
+
+The side window on her right broke.
 
 Glass came in over her shoulder and down her collar, and the cold poured in after it. Below and behind her, the passenger cabin windows went too. At the rail by her left hand Ned went down on one knee, his cuffed arm stretched up to the steel. She had never been shot at on her own boat. Her hands wanted to let go of the wheel and cover her head. She kept them on the wheel.
 
@@ -18,15 +20,13 @@ Another shot hit the cabin while he waited for her.
 
 He went.
 
-The upper deck was the open roof behind and above her cabin, up a ladder outside the door, with a rail round it. From up there he could see all round. From the wheel she could only see ahead.
+The ferry's radio speaker crackled over the engine, and his voice came out of it from the upper deck, the open roof behind her cabin, thin and close.
 
-The ferry's radio speaker crackled over the engine, and his voice came out of it, thin and close.
-
-"I'm up. I'm at the back rail. It's behind you on your left, about as far off as the length of the pier. Coming up."
+"I'm up. I'm at the back rail. It's behind you on your right, about as far off as the length of the pier. Coming up."
 
 She found the handset with one hand. "Keep talking."
 
-"I'm still talking, so I'm still fine. Keep it straight."
+"I'm still talking, so I'm still fine," Dane said. "Keep it straight."
 
 Between his words she listened for his breath on the radio, and it was there.
 
@@ -34,11 +34,11 @@ Between his words she listened for his breath on the radio, and it was there.
 
 The rifle cracked behind her, three times. The one light swung away and dropped back.
 
-"It's dropping back. It's a long way behind now."
+"It's dropping back," Dane said. "It's a long way behind now."
 
-"Good."
+"Good," she said.
 
-"It's coming again. Behind you, on your left. Faster."
+"It's coming again. Faster."
 
 If the ferry went on the rocks tonight, in this sea, everyone ashore would say the storm had done it. She couldn't turn back. The big boat sat between her and the harbor mouth.
 
@@ -46,65 +46,61 @@ She keyed the handset again.
 
 "Coast Guard. This is the Cutter Island ferry, out from the island toward Pruett. A fishing boat is shooting at us. Four of us aboard."
 
-A woman's voice came back, far off and plain. They were coming. About an hour.
+A woman's voice came back from the Coast Guard, far off and plain. They were coming. About an hour.
 
-Then a man's voice came on the same air, calm and close.
+Then a man's voice came on the same air from the big boat, calm and close.
 
-"They're an hour off, ferry. Stop your engine and give us the girl and the boy, and the rest of you go home."
+"Ferry, they're an hour out. Stop your engine and we'll take the girl and the boy. The rest of you go home."
 
-Every boat at sea could hear the ferry's radio. That was what it was for. Now they had the hour too. Ashore, Tess heard every word and stayed off the air.
+Every boat at sea could hear the ferry's radio. Now they had the hour too. Up at the town office Tess would be hearing every word. She didn't come on.
 
 "Beth, don't answer him," Dane said, as if nobody else were listening. "I'll do the talking."
 
-The man's voice said, "You talk a lot, Marshal."
+The man on the big boat said, "You talk a lot, Marshal."
 
-"Everybody says so."
+"Everybody says so," Dane said. "Right side again. It's between you and Pruett, and it's closing."
 
-"Left side again," Dane said. "It's between you and Pruett, and it's closing."
+Each time she bent left, away from it, it followed. It was pushing her toward the point. It wanted her on the rocks.
 
-Each time she bent right, away from it, it followed. It was pushing her toward the island's point, the long arm of land on the far side of the harbor mouth. It wanted her on the rocks.
-
-She turned the wheel toward the point. The dark shape of the land came up on her right, with white water breaking between her and it.
+She turned the wheel toward the point. The dark shape of the land came up on her left, with white water breaking between her and it.
 
 * * *
 
-"It's behind you on your left. Close. It's keeping you on the rocks."
+"It's behind you on your right. Close," Dane said. "It's keeping you on the rocks."
 
-Beth held the ferry along the outside of the white water. The sea boomed on the ledges through the broken window, and every boom came up through the wheel into her hands.
+Beth held the ferry along the outside of the white water. The sea boomed on the rocks through the broken window, and every boom came up through the wheel into her hands.
 
-The ledges ran on out along the point for a mile. Close in to the shore, inside them, there was one narrow way, and it was the pencil line on her pantry door. A boat that didn't know it would be on the rocks in a boat's length.
+The ledges ran on out along the point for a mile. Close in to the shore, inside them, there was one narrow way, and it was the pencil line her father, Alton, had drawn on her pantry door. A boat that didn't know it would be on the rocks in a boat's length.
 
-The big boat couldn't live in there. If it saw her go in on purpose, it would sit off the far end and wait. She needed it close behind her, following her lights, when she turned. She couldn't say any of that on the air.
+The big boat couldn't live in there. If it saw her go in on purpose, it would sit off the far end and wait. She needed it close behind her, following her lights, when she turned.
 
 She keyed the handset.
 
 "Dane. You still owe me an answer."
 
-"On the other side. I'd like to be looking at you when I say it. Get us there."
+"On the other side," Dane said. "I'd like to be looking at you when I say it. Get us there."
 
-Anyone listening had heard it. Let them.
+She needed him talking, because his talking meant he was alive. She didn't care who heard.
 
 A burst of shots came out of the dark behind her and rang off the cabin wall and the ladder.
 
-"Beth. Can I tell them about the steering?"
+"Beth," Dane said. "Can I tell them about the steering?"
 
-The steering was fine. She could feel every spoke of it turning true under her skinned palms. He knew that. He had never once lied to her, so the lie was for them. To them it would sound like a marshal owning up to a weakness.
+The steering was fine. She could feel every spoke of it turning true under her skinned palms. He knew that. He had never once lied to her, so the lie was for them.
 
 "Tell them."
 
-"The steering's gone."
+"The steering's gone," Dane said.
 
-Three words from a man who talked in paragraphs. Let them think one of their shots had found it.
-
-She let the wheel go loose in her hands. The ferry swung side-on to the sea, and its nose came round to the right, toward the white water, as it had off the pier on Friday night under the fire truck's light, with the boat off the point watching.
+She let the wheel go loose in her hands. The ferry swung side-on to the sea, and its nose came round to the left, toward the white water, as it had swung off the pier on Friday night with the boat off the point watching.
 
 "It's coming in fast," Dane said. "Behind you. Close. Closer."
 
-The man's voice came over the speaker. "Shut your engine off, ferry. We'll take you off before you hit. I want you where I can count you."
+The man on the big boat came over the speaker. "Ferry, shut your engine off. We'll come alongside and take you off before you hit. I want you where I can count you."
 
 At the rail, Ned said, "Kind of them."
 
-The white water was right off her right hand now, and the gap was coming. She didn't turn her head.
+The white water was right off her left hand now, and the gap was coming. She didn't turn her head.
 
 "Ned. Is this the gap?"
 
@@ -118,9 +114,13 @@ The white water was right off her right hand now, and the gap was coming. She di
 
 She put the wheel over hard toward the shore.
 
-The ferry came round through the gap on her father's line, and the white water closed in on both sides of its nose.
+The radio clicked, and Tess's voice came out of the speaker. "Truck's on the point, Calloway. Light's on you."
 
-She steered from the drawing.
+A white light came on along the shore of the point and lay across the rocks ahead of her. Tess must have started the fire truck out the point road at the first shot. Half an hour by truck.
+
+In the light Beth saw the gap: two rocks standing up like the posts of a doorway, white water breaking on both sides of them, and black water between, hardly wider than her boat.
+
+The ferry went in between them on her father's line, and the white water broke on both sides of its nose.
 
 Dane's voice came out of the speaker. "It's turning in after you. It's right behind you." A pause. "It's very big."
 
@@ -134,29 +134,19 @@ She felt it through the deck before she heard it: a long grinding crash, and the
 
 "It's on the rock beside the gap," Ned said.
 
-It had come in blind on her lights, and it was too big to turn where she had turned.
+It had come in blind on her lights, and it was too wide for the doorway.
 
-The engine screamed again, and the light backed off the rock. It turned and limped off into the dark. It floated.
+The engine screamed again, and the light backed off the rock. It turned and limped off into the dark, holed and low in the water. It didn't sink.
 
 "Nobody's in the water," Ned said. "I'd hear them."
 
-The radio clicked.
+Inside, the shore ran close on her left, black rock wet in Tess's light. She brought the ferry in along it until she could see the weed on the rocks, and held it there, with the rocks breaking white on her other side.
 
-"Truck's on the point, Calloway. Light's on you."
-
-A white light came on along the shore and lay across the rocks ahead of her, and the narrow way showed black between the breaking water.
-
-In close along the shore. She brought the ferry in until the black of the point filled the right-hand windows, and she held it there.
-
-The sea broke white on the ledges to her left and on the shore rocks to her right, each wave by itself, and she steered between the two sounds.
-
-Out again where the pencil bent away from the land. She eased the wheel left, and the shore went away from her right hand.
+Ahead a ledge reached out from the shore, long and black, the sea pouring off it, where the pencil bent away from the land. She turned out round it.
 
 "Both sides now," Ned said. "Hold it."
 
-She held it.
-
-The third turn was coming, the tightest one, where the pencil line nearly touched the shore. If she let go now, everyone aboard went on the rocks, and Dane with them.
+Then the last turn, the tightest, where the pencil nearly touched the shore: one rock standing alone in Tess's light, and a slot of black water between it and the land. If she let go now, everyone aboard went on the rocks, and Dane with them.
 
 She brought the wheel back in hard, and the ferry's side slid past the shore rocks so close she could hear the sea sucking at them.
 
@@ -192,7 +182,7 @@ The ladder was iced, and her taped palms burned on every rung. The wind on the u
 
 "Ned."
 
-The wall box by the ladder was empty. She pulled off her black knit hat, folded it and pressed it into his side with both taped palms. They hurt. She pressed harder.
+The first-aid box by the ladder was empty. She pulled off her black knit hat, folded it and pressed it into his side with both taped palms. They hurt. She pressed harder.
 
 She wanted him, here, bleeding on the upper deck of her boat in a borrowed shirt, and she had never wanted anything so much in her life.
 
@@ -204,13 +194,7 @@ She wanted him, here, bleeding on the upper deck of her boat in a borrowed shirt
 
 "Yes."
 
-Blue and white lights came fast across the water from the mainland side, about an hour after her call. A Coast Guard boat swung wide of them and went on after the one light, far off now and fading.
-
-The radio in Dane's hand spoke. "Ferry, this is the Coast Guard. Anybody hurt?"
-
-Dane keyed it. "One. I'll live."
-
-"We're going after the fishing boat. We'll come back and see you in."
+Blue and white lights came fast across the water from the mainland side, about an hour after her call. A Coast Guard boat swung wide of them and went on after the one light, far off now, low in the water and crawling.
 
 She didn't think it would find anything.
 
@@ -218,43 +202,45 @@ Dane got an elbow under himself. "Can I lean on you?"
 
 "Yes."
 
+She sat him up against the rail at the head of the ladder, where he could see down through the cabin door.
+
 "I want everybody aboard in one room where I can see them."
 
-She slung the rifle across her back. She went down the ladder first, backward, with his weight on her shoulder and his hand in her coat collar, the stiff knee taking both of them on every rung, toward the cabin where Ned had her boat.
+"Stay here. I'll bring them up."
+
+She left him the rifle across his knees and went down the iced ladder alone to the cabin where Ned had her boat.
 
 * * *
 
-Beth took the wheel back from Ned a little after midnight. It was warm from his hands.
+Beth cut the kid's tie off the bench leg with Ned's knife and brought him up the steel stair a little after midnight, his wrists still tied in front of him over his life jacket. There was glass in his hair. She sat him in the cabin doorway under the ladder, where Dane could see him.
+
+She took the wheel back from Ned. It was warm from his hands.
 
 "Your marshal?" Ned said.
 
 "Talking."
 
-At the cabin door behind her, Dane was already talking down the steel stair to the kid. He went down holding his side, cut the tie off the bench leg with Ned's knife, and brought the kid up slowly.
-
 Ned stepped back from the wheel to the rail. He took the open cuff hanging from his wrist and closed it round the rail. Nobody had asked him. The click was the only sound he made.
 
-The kid came up the stair with his wrists tied in front of him over his life jacket. There was glass in his hair. Dane sat him on the floor against the back wall, a yard from Ned's boots.
+The kid talked up the ladder to Dane, fast.
 
-The kid talked to Dane, fast, one fact after another.
-
-"It was Cole. Through Cole's lawyer. The lawyer paid me. He met me himself, in Portland, in his car, behind the bus station. He gave me the phone and two thousand cash." He took a breath. "That boat's theirs. It brings the stuff in from offshore. I want that written down."
+"That man on the radio wanted the girl and the boy. They were going to kill me with the rest of you. It was Cole. Through Cole's lawyer. The lawyer paid me. He met me himself, in Portland, in his car, behind the bus station. He gave me the phone and two thousand cash." He took a breath. "That boat's theirs. It brings the stuff in from offshore. I want that written down."
 
 Dane typed it into his phone one-handed, in full sentences, with periods.
 
-"Her word puts Cole in that room," he said. "Yours puts his lawyer in it with him."
+"Her word puts Cole in that room," he said from the top of the ladder. "Yours puts his lawyer in it with him."
 
-Beth kept her hands on the wheel. At the rail, Ned shut his eyes.
+Beth watched the dark ahead. At the rail, Ned shut his eyes.
 
-A little before four the lights of Pruett came up out of the dark. She brought the ferry in against the pier slowly, on the first try. She had never landed it before. Her hands knew how.
+A little before four the lights of Pruett came up out of the dark. She brought the ferry in against the pier slowly, on the first try. She had never landed it before.
 
-Deputies came aboard out of the police lights, in jackets that said what they were. The first thing a deputy took was Dane's gun. Then the kid's rifle and pistol, Ned's knife, and a phone in a plastic bag, switched off. Dane handed them over without a word, holding his side.
+Deputies came aboard out of the police lights, in jackets that said what they were. The first thing a deputy took was Dane's gun. Dane handed it down the ladder himself, butt first, before they carried him off to the ambulance. The rifle, the pistol, Ned's knife and the planted phone went into one bag. Two deputies carried Dane down the ladder on a stretcher.
 
 A deputy took the key from Beth, freed Ned from the rail and led him off in Russ's cuffs. At the top of the ramp he looked back once and lifted his cuffed hands. Beth didn't lift hers.
 
 The kid went separately, between two deputies, still talking.
 
-Dane went on a stretcher. Snow lay on the planks. The ambulance for Maine Medical Center stood at the head of the pier with its back doors open and light coming out of them. Beth kept her hand on the edge of the stretcher all the way up.
+Snow lay on the planks. The ambulance for Maine Medical Center stood at the head of the pier with its back doors open and light coming out of them. Beth kept her hand on the edge of the stretcher all the way up.
 
 At the doors he turned his head to her.
 
@@ -264,4 +250,4 @@ If she said yes, she walked into that room alone, with Cole's people knowing her
 
 The ambulance man closed the doors.
 
-The ambulance pulled away up the pier road. A deputy held a car door open for her. She got in. Six hours.
+The ambulance pulled away up the pier road. A deputy held a car door open for her. She got in. It was six hours till ten.

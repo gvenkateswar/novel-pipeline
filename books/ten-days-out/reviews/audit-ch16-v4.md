@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–16, 34,386 words)
+# Audit — ten-days-out (chapters 01–16, 34,421 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -63,30 +63,31 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 19× “the harbor road”
 - 15× “the kid's phone”
 - 12× “his boss said”
+- 11× “the town office”
 - 11× “on the harbor road”
 - 10× “the north beach”
-- 10× “the town office”
 - 9× “a long time”
 - 9× “the white water”
-- 9× “the harbor mouth”
 - 8× “i'm going to”
+- 8× “the harbor mouth”
 - 7× “she had never”
 - 7× “had never once”
 - 7× “came up through”
 - 7× “her coat pocket”
 - 7× “dane took the”
+- 7× “the big boat”
+- 6× “voice came out”
 - 6× “the whole way”
 - 6× “and said nothing”
 - 6× “the man had”
+- 6× “the grand jury”
 - 6× “the car deck”
-- 6× “without a word”
 - 6× “dane said and”
+- 6× “her left hand”
 - 6× “the east road”
 - 6× “the north-side house”
-- 6× “along the shore”
 - 6× “the kid had”
 - 5× “her voice came”
-- 5× “voice came out”
 - 5× “she thought about”
 - 5× “through the snow”
 - 5× “put his hand”
@@ -94,12 +95,11 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 5× “against his chest”
 - 5× “the whole time”
 - 5× “truck was clean”
-- 5× “the grand jury”
 - 5× “beth said and”
 - 5× “beth said i”
 - 5× “looked at beth”
+- 5× “without a word”
 - 5× “the kitchen window”
-- 5× “his other hand”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
@@ -110,7 +110,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - pulse: 2 (0.1/1k)
 - chest: 20 (0.6/1k)
 - hands? (stopped|stilled|went still|flat): 8 (0.2/1k)
-- shoulders?: 41 (1.2/1k)
+- shoulders?: 40 (1.2/1k)
 - gaze: 0 (0.0/1k)
 - tightened: 1 (0.0/1k)
 - swallowed: 0 (0.0/1k)
@@ -134,7 +134,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 13 | 2,031 | 11.9 | 8.4 | 24% | 0.0 | 0.0 | 0.0 | 2 | mean short |
 | 14 | 2,048 | 13.4 | 7.8 | 18% | 0.0 | 0.0 | 0.0 | 2 | short |
 | 15 | 1,987 | 12.4 | 8.6 | 22% | 0.0 | 0.0 | 0.0 | 2 | mean short |
-| 16 | 2,275 | 11.0 | 7.7 | 26% | 0.0 | 0.0 | 0.0 | 4 | mean short openers |
+| 16 | 2,310 | 11.5 | 8.2 | 25% | 0.0 | 0.0 | 0.0 | 4 | mean short openers |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -149,7 +149,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 - quiet: 19 (0.6/1k)
 - humm?(ing|ed)?: 2 (0.1/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 78 (2.3/1k)
+- still(ness)?: 79 (2.3/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 1 (0.0/1k)
@@ -177,8 +177,8 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | sentence-initial And/But/And yet | 5 | 3 | 1 | 1 | 2 | 1 | 0 | 3 | 1 | 0 | 0 | 2 | 1 | 0 | 2 | 0 | 22 | 0.6 | 3.0/1k |  |
 | em dashes | 2 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 1 | 8 | 0.2 | 2.0/1k |  |
 | semicolons | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0.1 | 2.0/1k |  |
-| perception filter (she noticed / could hear) | 0 | 0 | 1 | 3 | 1 | 3 | 0 | 0 | 2 | 3 | 1 | 0 | 0 | 0 | 1 | 3 | 18 | 0.5 | 1.0/1k |  |
-| one-sentence paragraph | 16 | 27 | 35 | 34 | 20 | 14 | 40 | 20 | 27 | 36 | 41 | 22 | 19 | 23 | 27 | 31 | 432 | 12.6 | report |  |
+| perception filter (she noticed / could hear) | 0 | 0 | 1 | 3 | 1 | 3 | 0 | 0 | 2 | 3 | 1 | 0 | 0 | 0 | 1 | 4 | 19 | 0.6 | 1.0/1k |  |
+| one-sentence paragraph | 16 | 27 | 35 | 34 | 20 | 14 | 40 | 20 | 27 | 36 | 41 | 22 | 19 | 23 | 27 | 30 | 431 | 12.5 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
@@ -206,4 +206,4 @@ Caps: at most 2 distinct terms in the book's first 1,000 words; at most 6 distin
 | 13 | 1 | 1 | 0.5 | ledges? 1 |  |
 | 14 | 2 | 2 | 1.0 | stern(man)? 1, hatch 1 |  |
 | 15 | 2 | 5 | 2.5 | ledges? 3, hatch 2 |  |
-| 16 | 1 | 4 | 1.8 | ledges? 4 |  |
+| 16 | 2 | 5 | 2.2 | ledges? 4, grand jury 1 |  |
