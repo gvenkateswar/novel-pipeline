@@ -4,7 +4,7 @@
 
 The last truck onto the ferry that night was the seafood truck, and Beth knew something was wrong with it before it reached the top of the ramp.
 
-Beth Calloway had chained down that truck every Thursday for eleven years. It was the big white refrigerated truck that carried Cutter Island's lobsters to the mainland, and its cooling unit on its nose roared the whole hour across, so loud that Ned turned up the radio in the captain's cabin to talk over it.
+Beth Calloway had chained down that truck every Thursday for eleven years. It was the big white refrigerated truck that carried Cutter Island's lobsters to the mainland, and its cooling unit on its nose roared the whole hour across, so loud that Ned turned up the radio in the wheelhouse, the little room up top where he steered, to talk over it.
 
 Tonight it came up the ramp silent.
 
@@ -32,7 +32,7 @@ Her heart was going so hard she felt it in her teeth. She made her voice flat an
 
 "Crate's busted. You'll lose your count."
 
-She bent and fixed the chain on the truck's wheel, because her hands needed something to do, and because if she ran he would know. Then she walked to the stairs to the captain's cabin at a normal speed, and every step of the way she wanted to run. At the top she turned and looked down. He was still on his knees in the sleet, watching her. He favored his left leg when he stood up, and his left heel dragged a line through the slush.
+She bent and fixed the chain on the truck's wheel, because her hands needed something to do, and because if she ran he would know. Then she walked to the stairs to the wheelhouse at a normal speed, and every step of the way she wanted to run. At the top she turned and looked down. He was still on his knees in the sleet, watching her. He favored his left leg when he stood up, and his left heel dragged a line through the slush.
 
 Ned Haskell was at the wheel, with his white beard and his reading glasses pushed up on his head. He'd been the ferry captain for thirty years, and he'd been her father's best friend for longer than that.
 
@@ -40,15 +40,15 @@ Ned Haskell was at the wheel, with his white beard and his reading glasses pushe
 
 He didn't turn around. He kept his eyes on the black water ahead.
 
-"Bethie," he said, gently. "What did you see?"
+"Bethie," he said, gently. "Keep your voice down. What did you see?"
 
 "Fentanyl. A whole crate of it. Maybe the whole truck."
 
-He was quiet for a long moment. "Then you didn't see it. Not tonight. Not on this boat, with those men twenty feet under us." He looked at her finally, and his face was gray. "Go home when we dock. Lock your door. We'll sort it out in the morning."
+He was quiet for a long moment. Then he took one hand off the wheel and moved her behind his shoulder, out of the window, the way he used to move her off the car deck in a squall when she was a girl. "Not on this boat, you didn't. Not with those men twenty feet under us." He looked at her finally, and his face was gray. "Go home when we dock. Lock your door. Then you do what's right, from your own kitchen."
 
 She looked at him. In eleven years she had never once seen Ned Haskell afraid.
 
-She stayed up there beside him for the rest of the crossing, because she couldn't make herself go back down. Neither of them said a word. Below the window, the dome light burned in the truck's cab the whole way over, and Cole Varney sat in it with both hands on the wheel, looking straight ahead at nothing. The man in the hoodie stood by the trailer's side door in the sleet. Twice she looked down and found him looking up at the window. The second time, he didn't look away.
+She stayed up there behind his shoulder for the rest of the crossing, because she couldn't make herself go back down. Neither of them said a word. Below the window, the dome light burned in the truck's cab the whole way over, and Cole Varney sat in it with both hands on the wheel, looking straight ahead at nothing. The man in the hoodie stood by the trailer's side door in the sleet. Twice she looked down and found him looking up at the window. The second time, he didn't look away.
 
 When they docked at Pruett and the truck drove off, she held her phone low against her coat and took a picture of its license plate. Her hands were shaking so badly that it took her three tries. The man in the hoodie walked off the ramp beside the truck and didn't look back.
 
@@ -114,7 +114,7 @@ The light swung toward him and went out. Dane heard boots on rock, running, and 
 
 He let it go. He'd come for the witness.
 
-He went to the shack and put his hand on the door. "Ms. Calloway? My name is Dane Reyes. I'm a U.S. Marshal. I'm going to open this door slowly—"
+He went to the shack and put his hand on the door. "Ms. Calloway? My name is Dane Reyes. I'm a deputy U.S. marshal. I'm going to open this door slowly—"
 
 The door flew open, and something long and heavy swung at his head out of the dark.
 

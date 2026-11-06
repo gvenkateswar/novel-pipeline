@@ -50,27 +50,25 @@ Beth's face went red under the wind-burn, and she didn't know what to do with he
 
 "Then you'd better hear the rest," Ned said, "since you're going."
 
-He didn't look at Dane. "It was flat like this, after a blow, the night Cole came down the pier. Two years ago. He said he had lobster for restaurants that couldn't wait for morning. He said, after your deckhand's gone home, you take it back over alone. He paid cash. He said, don't you open that truck, Ned. And I never did. Two years I ran his trucks across in the dark and never asked."
+He didn't look at Dane. "Thursday night, when that crate split, I wasn't surprised. Six years Cole's truck has come across on my deck, and I never once opened it. I'd guessed. I let myself not know."
 
-"You knew," Beth said.
+"Ned."
 
-"I guessed. My boy in Portland's on that stuff, Bethie. So I told myself lobster, because I couldn't stand for it to be the other thing."
-
-"That's why you said I didn't see it."
-
-"I didn't want you to have seen it."
+"My boy in Portland's on that stuff, Bethie. Since the summer. Some nights I don't know where he sleeps." His big red hands opened and shut at his sides. "And every Thursday I stood on that deck and let it ride past me."
 
 "Two kids, Ned."
 
-She hit him in the chest with both fists, once. He took it, and he didn't step back.
+She put both fists against his chest and left them there. He didn't step back.
 
 "I taught one of them to row."
 
-Dane had watched Ned's hands the whole time, and they had stayed open. He thought it through once, fast and plain. A man who had taken Cole's money for two years had known about three o'clock since yesterday afternoon.
+Ned put one hand over her fists and looked at the sea.
+
+Dane had watched Ned's hands the whole time, and they had stayed open. He thought it through once, fast and plain. Three people had known about three o'clock since yesterday afternoon. One of them was standing here with nothing in his hands. One had said there was nobody to watch the harbor road. One would be sitting in a red fire truck where the beach road came down, with the only radio.
 
 He said it to her face, with Ned there to hear it.
 
-"If he sold the hour, they're in those trees now."
+"If one of them sold the hour, the kid's in those trees now."
 
 * * *
 
@@ -96,11 +94,11 @@ Dane crouched so his face was level with hers. "Two years ago in New Bedford, Co
 
 "Then I'll keep a bucket by the stove."
 
-He heard the engine before he saw the boat. Then it came out of the gray off the middle of the beach, lifting and dropping in the swell: the Marine Patrol boat, the state police on the water, the one his boss had sent.
+He heard the engine before he saw the boat. Then it came out of the gray off the middle of the beach, lifting and dropping in the swell: the Marine Patrol boat, the state's marine police, the one his boss had sent.
 
 Tess was in her fire truck with the island radio, talking the boat in, and her voice came thin across the water from a speaker on its cabin.
 
-"There's a rock just under the water off the point. Keep it on your left. Come in slow. Slower than that."
+"Bring it to the north rocks. There's a rock just under the water off the point. Keep it on your left. Come in slow. Slower than that."
 
 Dane stepped out past the edge of the rock and lifted one arm, so the boat saw him and the trees didn't see her.
 
@@ -174,7 +172,7 @@ The voice got thinner as the boat went, and then there was only the swell, sucki
 
 * * *
 
-"Go home along the shore, Ned," Dane said. "I won't leave her to walk you in, and the only man on this island I could hand you to is on my list."
+"Go home along the shore, Ned, and get dry," Dane said. "I won't leave her to walk you in, and the only man on this island I could hand you to is on my list."
 
 "Get her in before dark," Ned said.
 
@@ -202,7 +200,13 @@ She didn't answer.
 
 "So it's one of your three, or it's one of mine."
 
-Beth turned her head and looked down the shore toward the village, where the lantern had gone. Then she looked away. Dane saw her do it and said nothing.
+"Tess sent that boat to the north rocks before I ever lifted my arm."
+
+"Tess has known where I'd go since we were six."
+
+"So has everybody listening to that radio."
+
+Beth turned her head back the way they had come, toward the south end of the beach and the red truck she couldn't see from here. Dane saw her look and said nothing.
 
 There would be no boat now until the storm blew through, and Monday was six days off.
 

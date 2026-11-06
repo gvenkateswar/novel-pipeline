@@ -24,7 +24,7 @@ His arm was warm under her thumb. She left it there for one breath, then took he
 
 "You didn't sleep."
 
-"I needed something to do with my hands," Dane said. "This was the one I could explain."
+"What else was I going to do with my hands," Dane said, "that I could put in a report?"
 
 She looked at the door. "That's the only door on that side of the house."
 
@@ -40,7 +40,7 @@ His phone buzzed on the table. He read it.
 
 The police boat's engine ran the whole time they argued. It was tied at the float, the floating dock below the stone pier where every boat but the ferry tied up. Snow blew flat across the harbor in the gray first light. The officer at the wheel checked his watch. Dane stood with his back to the boat, watching the only way down the pier.
 
-"Ten minutes," he said. "After that the sea closes the bay, and I can't come back for you. Not tomorrow. Maybe not for days."
+"Ten minutes," the officer said. "After that the sea closes the bay, and I can't come back for you. Not tomorrow. Maybe not for days."
 
 Beth had the boat's bow rope in her hands. The officer was waiting on her.
 
@@ -62,7 +62,7 @@ Dane put his boss on speaker.
 
 "The truck was clean when the troopers stopped it. Cole's cold storage on the Pruett wharf has been hosed down. All we have is a little powder in the cracks of one crate. Her eyes are the case.
 
-"The grand jury sits Monday the twenty-third. The prosecutor won't go in on a phone call and a little powder. She wants you in the room, and she says if they don't indict him that morning, he walks. No charge, no trial."
+"The grand jury sits Monday the twenty-third. The prosecutor could have a trooper read them your statement. She won't. She wants you in the room, and if they don't indict him that morning, he walks out at two."
 
 "The grand jury," Dane said to Beth, "is a room of ordinary people who decide whether there's enough for a trial. They've never heard of you. They're about to."
 
@@ -82,7 +82,13 @@ Dane looked at Beth. "Half past ten. You called at midnight. He was on his way b
 
 "He saw me," Beth said. "He'd have told Cole himself."
 
-"Maybe."
+"Maybe. Who did you tell before you called?"
+
+"Ned, in the wheelhouse. Tess and Russ, at the store, on my way up the road. Tess said sleep on it. Russ said he'd call the troopers himself in the morning."
+
+"I'd have called them at seven," Russ said, to the snow.
+
+"I didn't wait."
 
 Half past ten to three. He had crossed the bay in the sleet and sat out there in the dark, waiting for her lights to go out.
 
@@ -108,7 +114,7 @@ He put the phone away. "You're the most stubborn witness I've ever had."
 
 She threw the rope aboard herself. The officer caught it and backed his boat out into the snow. Its lights went small, and smaller, and then they were gone.
 
-For one second she was glad. She knew exactly why, and it scared her. He was still standing beside her.
+For one second she was glad. She kept her eyes on the water. Beside her, Dane had already turned back to the pier.
 
 * * *
 
@@ -132,9 +138,9 @@ The back of the ferry swung out into the harbor, slow, and then the next wave br
 
 She didn't make a sound. She couldn't. She watched the steel come.
 
-Something grabbed her coat collar from above and yanked. Ned had her from the pier. He hauled her up and back over the edge like a sack of bait, and she heard him grunt, a sound she had never heard from him, and saw his hand go to his hip. She landed on the stone on her back. Below her, the steel hit the place where she'd been standing.
+Something grabbed her coat collar from above and yanked. Ned had come down the gangway to the float. He hauled her up the slats like a sack of bait, and she heard him grunt, a sound she had never heard from him, and saw his hand go to his hip. She landed on her back on the gangway. Below her, the steel hit the place where she'd been standing.
 
-She rolled over. Ned was down on one knee by the post, breathing hard.
+She rolled over. Ned was down on one knee on the slats, breathing hard.
 
 "Ned." She got hold of his sleeve. "Thank you."
 
@@ -150,7 +156,7 @@ He had timed it to the swing. He jumped as the back of the ferry came in under t
 
 "I'm on," he called. "Knees first, which wasn't the plan. Throw it."
 
-She was on her feet. She dragged a new rope off the pile and threw him the end.
+She was up the gangway and onto the pier. She dragged a new rope off the pile and threw him the end.
 
 "Rope," Beth said. "Hold it."
 
@@ -160,13 +166,13 @@ She was on her feet. She dragged a new rope off the pile and threw him the end.
 
 "Two turns on it already, and it's holding. I'm right here, Beth. I'll keep talking till you tell me to stop."
 
-She took the pier end around a post and leaned on it with everything she had, and Ned leaned with her, gray in the face. The ferry came in. The rope creaked and stretched and held. Under them the float, where the police boat had been tied forty minutes ago, broke apart against the stone with a noise like a barn coming down.
+She took the pier end around a post and leaned on it with everything she had, and Ned came up and leaned with her, gray in the face. The ferry came in. The rope creaked and stretched and held. Under them the float, where the police boat had been tied forty minutes ago, broke apart against the stone with a noise like a barn coming down.
 
 Rope by rope, they walked the ferry in until it lay tied along the pier.
 
 Dane was on his knees on the deck again.
 
-"I want everybody to remember," he said, "that I jumped."
+"When this goes in a report," he said, "can everybody please remember that I jumped?"
 
 "You fell toward the boat," Beth said. "It's different."
 
@@ -192,7 +198,7 @@ Ned came down off the ferry and sat on a post with his hand on his hip.
 
 Dane came off the ferry, stiff in both knees, and took hold of her. Both arms, in the snow. She let him.
 
-Over his shoulder, the lobster boats tied out in the harbor were dragging. The first one hit the rocks on the far side and rolled. Then the second. She watched Russ's boat go with them, slow, and lie down on the rocks like it was tired. Russ stood at the shore end of the pier with his cap in his hand.
+Over his shoulder, the lobster boats tied out in the harbor were dragging. The first one hit the rocks on the far side and rolled. Then the second. She watched Russ's boat go with them, slow, and lie down on the rocks like it was tired. Russ stood at the shore end of the pier and watched it go.
 
 "You can let go," she said.
 
@@ -204,7 +210,7 @@ There was no way off now. No police boat. No ferry. No float. And the island's o
 
 Ned got up off the post and limped up the harbor road toward home. At the top he looked back once and lifted a hand.
 
-Russ walked over and put his cap back on.
+Russ walked over.
 
 "Russ," Beth said. "Your boat."
 

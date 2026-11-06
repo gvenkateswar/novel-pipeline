@@ -118,7 +118,7 @@ He started talking.
 
 "They all leak. That's the little work."
 
-He kept on in a whisper about the soft boards, and under every word was how much he loved her, and that whoever walked down that road tonight would be somebody she loved too, and that nothing he knew how to do would make it anybody else. It was all he had to give her, and it was a boat.
+He kept on in a whisper about the soft boards, and under every word was how much he loved her, and that whoever walked down that road tonight would be somebody she loved too, and that nothing he knew how to do would make it anybody else.
 
 Through the gap at the road-side shutter, where one hook didn't seat, a light showed.
 

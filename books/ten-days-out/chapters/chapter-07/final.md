@@ -2,7 +2,7 @@
 
 The wave took Dane off the rock while he was doing exactly what she did.
 
-The line had been his: off the open ledge at the waterline, up onto the big rounded rocks, where the overhang of the bank hid them from the top.
+The line had been hers: off the open ledge at the waterline, up onto the big rounded rocks, where the overhang of the bank hid them from the top.
 
 She dropped flat on a big rounded rock, still holding his hand, jammed her free arm into a crack on the high side, and put her face down on the ice.
 
@@ -122,7 +122,9 @@ His voice came back rough.
 
 "I was holding the rock." An inch from his face, in the dark. "You don't get to decide what I can hold."
 
-"Fair."
+"Is that the rule for everybody, or only for marshals who fall in?"
+
+"Everybody."
 
 The shaking came once more, small, and went.
 
@@ -146,7 +148,7 @@ She had put a summer person's wool socks on him in the dark, thick and dry. He m
 
 He believed her, and noticed that he did.
 
-He took the gun apart on the blanket by feel, dried each piece on a pillowcase and put it back together blind. His phone lit up on the floor with no signal. No check-in since Saturday. As far as his boss knew, Beth Calloway might already be dead, and he couldn't tell her different until the phone found a tower.
+He took the gun apart on the blanket by feel, dried each piece on a pillowcase and put it back together blind. His phone lit up on the floor in its rubber case, with no signal. No check-in since Saturday. As far as his boss knew, Beth Calloway might already be dead, and he couldn't tell her different until the phone found a tower.
 
 "He watched the water a long time," he said, "and then he went to tell somebody it was done."
 
@@ -190,7 +192,7 @@ Her knuckles stopped on two sore places below his collarbone, where she had haul
 
 He spread his hand on her back, over the long hard muscle that had hauled him out of the sea.
 
-He wanted her. In nine years there had always been something to watch, a window, a door, a road, and here there was no window and no door, and the only thing he wanted to watch was her, and he couldn't see her. So he listened.
+In nine years there had always been something to watch, a window, a door, a road. Here there was no window and no door. There was her, and he couldn't see her. So he listened.
 
 "Lower," she said.
 
@@ -234,7 +236,7 @@ He gave her that, and the old bed knocked once against the wall.
 
 She pushed his hand down between them with her wrist, to her clit, and held it there. "Both," she said. "Both at once."
 
-He gave her both. She went quiet then, and for half a second it scared him, because quiet was how she got when she was afraid.
+He gave her both. She went quiet then, and for half a second it scared him. The last time she had gone that quiet, a wave was coming.
 
 Then it started in her. The long muscle of her back went tight under his other hand, and she came around him, slow and hard, saying his name into his mouth until she ran out of breath.
 

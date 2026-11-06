@@ -32,9 +32,9 @@ The back hall had gone orange. Smoke came along the ceiling, slow and gray.
 
 Dane went to the edge of the front window, his shoulder to the wall. Down by the steps a flashlight shone, low and steady, at the door.
 
-"He lit the back so we'd use the front," Dane said. "Light's low and off to one side. He's crouched by the bottom step with the door in his sights. Which window's farthest from him?"
+"He lit the back so we'd use the front," Dane said. "Light's low and off to one side. Dollar says he's crouched by the bottom step with the door in his sights. Which window's farthest from him?"
 
-Beth could see the light from where she stood. "Pantry."
+Beth could see the light from where she stood. "I don't bet on what I can see. Pantry."
 
 "Coat and boots. Leave the rest."
 
@@ -104,15 +104,17 @@ He had. She had watched him look up and down the harbor road before he dialed.
 
 Only Russ had found the loft, and nobody had come for them there. Four people had known about this house by Saturday afternoon. Now it was burning behind her, and three of the four were hers.
 
-She tried to say it to herself, one plain sentence for each of them. Tess Marr had walked her home from every dance and every wake on this island. Tess would never hurt me. She couldn't make herself believe it. Russ Whitcomb had taught her to bait a trap when she was six. Russ would never hurt me. She couldn't believe that one either.
+Tess Marr had walked her home from every dance and every wake on this island. Tess owed Cole Varney for two fuel tanks. On Thursday night she had told Beth to sleep on it, and on Saturday she had turned her phone face down on the counter.
 
-Ned Haskell had hauled her off the float by her collar two mornings ago. Ned would never hurt me. She couldn't get to the end of it.
+Russ Whitcomb had taught her to bait a trap when she was six. Russ had said "Nobody" before Dane finished asking, and "Late," as if late were an hour.
+
+Ned Haskell had hauled her off the float by her collar two mornings ago and hurt his hip doing it. That hip couldn't get him up the harbor road without a rest.
 
 "And the fourth one is my boss," Dane said, running.
 
 Three of them would die for me, she had told him yesterday. Now it sounded like what a woman says right before she finds out she's wrong.
 
-And somebody had taken her face off Tess's board in September. In September she had been a woman who chained down trucks. Somebody had wanted the kid to know her face two months before there was anything on her deck to see. Somebody had known, back then, that the load would ride her ferry, and that she was the one who looked. Every one of her three had been in and out of that store since September, past the pale square by the register.
+And somebody had taken her face off Tess's board in September. In September she had been a woman who chained down trucks. Somebody had wanted the kid to know her face two months before there was anything on her deck to see. Somebody had known, back then, that the load would ride her ferry, and that she was the one who looked. Tess had known to the week when it went. Every one of her three had been in and out of that store since September, past the pale square by the register.
 
 Her hand stayed in his, and she held on harder.
 
@@ -124,7 +126,7 @@ The rocks below were glazed with ice where the spray had frozen. The sea came up
 
 At the top of the bank the flashlight came out of the trees and stopped.
 
-"Down to the water," she said. "The tide's making. In ten minutes the sea's over the low rocks, and every track we leave goes with it. Under the bank it's black all the way north. He loses us down there."
+"Down to the water," she said. "The sea's breaking over the low rocks, and every track we leave goes with it. Under the bank it's black all the way north. He loses us down there."
 
 "And if we stay up here?"
 

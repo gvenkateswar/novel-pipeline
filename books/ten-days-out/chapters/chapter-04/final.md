@@ -159,7 +159,7 @@ His hand went down her stomach to the button of her jeans and stopped. It lay fl
 
 "Yes. Don't stop." She held his wrist where it was. "Have you got anything?"
 
-He reached past her to the bench for the trauma kit and opened it in the heater light like a man hoping for the best. Gauze. Tape. A small pair of scissors.
+He reached past her to the bench for the trauma kit and opened it in the heater light like a man hoping for the best. Gauze. Tape. Some little strips. A small pair of scissors.
 
 "It's a very disappointing kit," he said.
 
@@ -229,13 +229,15 @@ Russ looked at the tape on Dane's arm. "Blood on my woodpile. Yours, I figured."
 
 Russ took his cap off and put it back on. "Late."
 
+Late wasn't a time. Russ always gave you a time, to the minute. She saw Dane hear it too.
+
 "And the Dyer house?" Dane said.
 
 "Empty." Russ leaned on the workbench. "Mrs. Dyer's been at her daughter's in Bangor since October. No boat on the shore, no tree on the roof. Back door open, and somebody used the phone on her kitchen wall."
 
 "The Dyer house is out on the point across the harbor," Beth said. "An hour round by the road, with that foot. The call came from there at one, and twenty minutes later he was at your window. Did anybody pass you on that road?"
 
-"Nobody."
+"Nobody. Anybody walking would have heard my truck a mile off and got into the trees."
 
 "Then there's two of them." Her hand closed on the bag strap so hard the canvas creaked. "The one with the foot. And somebody who knew that house was empty."
 

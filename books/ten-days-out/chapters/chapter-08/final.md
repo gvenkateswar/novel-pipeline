@@ -18,7 +18,9 @@ She pulled again, hard, and it caught. The engine coughed, then held one steady 
 
 She kept her hands on the machine. "Ask me in five days."
 
-Portland was seven days off. Five days meant he'd have his answer before the grand jury, before Portland had any say in it.
+"Why five?"
+
+"Last night I hauled you out of the sea. I don't trust a word I'd say the morning after that."
 
 His gun hand eased on the grip. He didn't turn from the trees. "How far does that carry?"
 
@@ -94,81 +96,77 @@ He answered crouched at the foot of the lamp, out of the wind, the phone on spea
 
 The line stayed quiet a little too long.
 
-"When you missed your check-in I called the island store," his boss said. "The constable picked up. He told me there were two people in the house that burned."
+"The constable told me there were two people in the house that burned," his boss said.
 
 "We went out a pantry window," Dane said, "and she went first, which will look great in my report."
 
-"A state police boat, tomorrow afternoon, when the wind drops," his boss said. "It needs somebody on the island radio who can see the beach."
+"Marine Patrol will send a boat tomorrow at three, when the wind drops. It needs somebody on the island radio who can see the beach."
 
-"That's Tess," Beth said.
+"That's Tess," Beth said. "Bring it to the north beach, right under us. The pier's a mile of open road through the village. I can be on that sand in ten minutes."
 
-"Where does it come in, Dane?"
+"Then Tess has three o'clock," Dane said, "and by supper so does the store. Let her tell her people five, and bring the boat at three."
 
-"The north beach, right under us," Beth said. "The pier's a mile of open road through the village, and no boat that size can lie there in a sea. I can be on that sand in ten minutes."
+"No." His boss didn't hurry it. "Her three get the true hour, from her. If anybody's in those trees at three, it came off one of three phones, and I'll have all three phones' records. That's the test. You're between her and the trees."
 
-"Cole's held in Portland until the hearing, Monday the twenty-third at two," his boss said. "The grand jury hears her that morning, or he walks. Call me with the hour." She was gone.
+Dane looked at Beth. "So you're the cheese, and I'm the man standing next to the cheese with a gun, and we're calling that a plan?"
 
-So that was why they needed her dead: Cole was in a cell in Portland until Monday, and she was the only thing keeping him there.
+"We're calling it Tuesday," Beth said.
 
-Dane held the phone against his chest. "Right now the man with the gun thinks you're at the bottom of the bay, which makes this the safest you've been since Thursday. Every person you tell can tell him different."
+"Cole's held in Portland until the hearing, Monday the twenty-third at two," his boss said. "The grand jury hears her that morning, or he walks. Call me back with who has it." She was gone.
 
-"Tess has to be told. Your phone can't talk to a boat. Her radio can."
+Dane held the phone against his chest. "Right now the man with the gun thinks you're at the bottom of the bay. Every person you tell can tell him different."
 
-"The state can run that boat off my phone."
-
-"Into the north beach, in a sea, over ledges nobody aboard has ever seen? No captain comes in there without somebody local on the radio. That's Tess. And once Tess has a police boat on the store radio, the island knows by supper."
+"If they hear I'm alive, they hear it from me."
 
 She looked down at his fist. "You've still got my coat."
 
-"Keep arguing. I'll keep hold of it."
-
-"Russ will have walked that shore all night looking for my body. If he and Ned hear I'm alive off somebody's scanner, or I treat them like suspects to their faces, Cole has already taken them from me. I may not see them for a long time."
-
-Dane looked down at the beach a long time.
-
-"Then you make your calls," he said, "and I set the terms. You stand where I put you, at those rocks at the far end. The trees can't see that end. You tell them the hour and 'the north beach.' Nothing about this tower, nothing about which end. And I'm between you and the trees from the time you leave that door till you're on the boat."
+"Keep arguing. I'll keep hold of it." He looked down at the beach a long time. "Then here are my terms. You stand at those rocks at the far end. The trees can't see that end. You say the hour and 'the north beach.' Nothing about this tower, nothing about which end. And I'm between you and the trees from the time you leave that door till you're on the boat."
 
 "Done." She held out her hand, and he put the phone in it.
 
-She dialed from memory. Tess picked up before the first ring was done.
+She dialed from memory and left it on speaker. Tess picked up before the first ring was done.
 
 "Tess. It's me."
 
-Tess came on loud.
+"I drove the fire truck up to that north-side house last night and it was burned to the cellar, and Russ walked the shore till two, and I sat in the cab and thought I'd be washing you for your coffin, Calloway." Her voice went. "Beth."
 
-"I drove the fire truck up to that north-side house last night, and it was burned to the cellar, and Russ walked the shore till two, and the sea had taken every track, and I sat in the cab and thought I'd be washing you for your coffin, Calloway."
+"I'm fine. A boat's coming for me tomorrow at three, to the north beach, and they want you on the radio to bring it in. Sit on it."
 
-Her voice went. "Beth."
+"I'm sitting. You owe me a fire truck's worth of diesel." Tess hung up.
 
-Beth put her free hand flat on the cold iron and kept her eyes on the chimneys. "I'm here. I'm fine. A police boat's coming for me tomorrow, to the north beach, and they want you on the radio to bring it in. Sit on it till I've called Ned and Russ."
+Ned gave her the weather first. "Wind's going round to the north. It ought to lie down by tomorrow noon, or near it." When she told him the hour, he said, "I'll be there, Bethie."
 
-"I'll raise them on the radio at the store," Tess said, already moving. "Don't go anywhere, Calloway." She hung up.
+The job question was right there in her mouth, and she kept it for the beach.
 
-They waited. Ice ticked off the lamp glass. His knee was against hers.
+She was dialing Russ when the generator stopped.
 
-Tess called back.
+Below them its one steady note went ragged, coughed twice and quit. The quiet came up the tower after it.
 
-"Three o'clock. Top of the beach road. I'll have the radio, and you owe me a fire truck's worth of gas, Calloway."
+Dane's hand came out of her coat. He was up on one knee at the rail with the gun out, looking straight down at the back step. Beth went flat on the ice.
 
-Tess hung up. Dane had the phone back before the screen went dark.
+"Stay down."
 
-* * *
+The step was white. Two lines of tracks crossed it, hers and his, from the back door to the tower door, and nothing else. Nothing moved at the tree line. Sleet ticked on the lamp glass.
 
-The light had gone flat. Dane handed her the phone and turned to watch the trees below while she dialed.
+He watched a full minute.
 
-She called Ned with the wind in the microphone. "Ned, it's me. I'm alive. A boat's coming for me at three tomorrow, to the north beach, and I want you there to see me off."
+"It coughed," Beth said into the ice. "A man shutting it off doesn't make it cough. They left it a quarter tank for the winter, and we've had our quarter."
 
-Ned gave her the weather first. "Wind's going round to the north. It ought to lie down by tomorrow noon, or near it." Then: "I'll be there, Bethie."
+He let his breath out. "So I've just held a gun on a generator from sixty feet up, over a family from Connecticut who won't fill a gas can. Is that going in my report too?"
 
-The job question was right there in her mouth, and she kept it. "Not on the phone," she told Dane.
+"Leave out Connecticut."
 
-Then Russ. "Beth. I walked that shore till two." When she told him the hour: "Leave the harbor road with a gunman loose? Who'd watch it? Nobody."
+She rang Russ with the wind in the microphone.
 
-Dane took the phone back. "Everybody you love has the hour now. Tell me which one of them you'd like me to stop trusting first."
+"Beth." A breath. "I walked that shore till two."
 
-"None of them, Dane Reyes. Watching them is your job. Calling them was mine."
+She told him the hour.
 
-At the hatch he stopped. "He won't come up a stone tower with one door and me at the top of it. He'll wait for us to stand on open sand."
+"Leave the harbor road with that boy loose? Who'd watch it? Nobody." He didn't say he'd come.
+
+Dane took the phone back. "Everybody you love has the hour now. Which one would you like me to stop trusting first, or do I get to pick?"
+
+"None of them. Watching them is your job. Calling them was mine."
 
 He called his boss back himself. "Three o'clock, the north beach. Tess Marr, Ned Haskell and Russ Whitcomb have it. She told them herself."
 

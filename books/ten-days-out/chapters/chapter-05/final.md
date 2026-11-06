@@ -6,7 +6,7 @@ She set the box on the counter like a can of beans. The lobstermen looked at it,
 
 Tess rang it up and told the whole store. "Four seventy-nine. Good till next August."
 
-"I'd have asked for a receipt," Dane said.
+"Do I get a receipt," Dane said, "or do I explain this to accounting from memory?"
 
 "You can expense it, Marshal," Beth said, without turning around.
 
@@ -28,7 +28,7 @@ Then she came around the counter and hugged Beth hard, eyes shut, cheek on her s
 
 The lobstermen left.
 
-Dane took the chair by the woodstove with its back to the wall. Beth took the other without being asked, then put a dollar on the counter and went to the urn for two coffees.
+Dane took the chair by the woodstove with its back to the wall. Beth took the other without being asked, then put two dollars on the counter and went to the urn for two coffees.
 
 "Tell me how the call came in last night," Dane said.
 
@@ -64,7 +64,7 @@ Dane watched the road. "Who'd you tell she was sleeping at your place?"
 
 He had answered before Dane finished asking. Dane filed that away. Nobody said anything more.
 
-Every window was shuttered but one, and it faced down the road. Dane had Russ stop short, where the bank hid the truck from it. The snow lay smooth on the front steps, and smoke was coming off the chimney of a house that ought to be dead cold.
+Every window was shuttered but two. One faced down the road. The one by the back door had lost its shutter. Dane had Russ stop short, where the bank hid the truck from the front one. The snow lay smooth on the front steps, and smoke was coming off the chimney of a house that ought to be dead cold.
 
 The man who had looked in Russ's window before he fired was somewhere close, and Beth was in this truck.
 
@@ -118,7 +118,7 @@ No name, no pay stub, no paper. "Then my office has nothing to look up," Dane sa
 
 Dane stood at the window, gun out. "Nobody hears where you sleep tonight," he said. "Nobody."
 
-Beth faced him. "The loft's found, and there's no food in it. I can't spend every night till Portland hiding from everybody I know, Dane. I need a key and groceries." She tipped her head at Russ. "If he wanted me dead, he had me asleep in his kitchen."
+Beth faced him. "The loft's found, and there's no food in it. I can't spend every night till Portland hiding from everybody I know, Dane. The houses I look after are all out this road, where he's been living. I need somebody else's key, and groceries." She tipped her head at Russ. "If he wanted me dead, he had me asleep in his kitchen."
 
 "Groceries, yes," Dane said. "But nobody kills a woman in his own kitchen. He sends her somewhere else."
 
@@ -127,6 +127,8 @@ Beth turned to Russ. "You've got the key to the north-side house."
 Russ was already working it off his ring. She took it in her bare palm, over the white rope scar.
 
 Dane kept his voice polite and slow. "Then my boss hears it too, Ms. Calloway. And I'm asking her for the phone records of everybody you tell."
+
+Russ looked at the key in her palm, then out at the road, and said nothing.
 
 * * *
 

@@ -48,9 +48,9 @@ The lights went out at a quarter past four.
 
 Dane was at the kitchen window when the store went dark. Then the church. Then the harbor road, house after house, coming toward them, until the kitchen was black.
 
-In the shed off the kitchen Russ hauled on the generator cord, three times, four.
+Out back under the eave, with its cord run in through the kitchen wall, Russ hauled on the generator's pull rope, three times, four.
 
-"Choke, Russ," Beth said from the doorway. She didn't move.
+"Choke, Russ," Beth said from the back door. She didn't move.
 
 Russ looked down. He had forgotten the choke. He set it and pulled once more, and the generator caught with a flat roar. The bulbs came on.
 
@@ -60,7 +60,7 @@ Russ looked down. He had forgotten the choke. He set it and pulled once more, an
 
 Russ's was the only lit house on the harbor road now, and every dark window on the road could see it. That was what Dane had asked for. He didn't like it.
 
-Russ put his cap back on and took the shotgun out to the porch. "Nobody's coming up these steps past me." He sat with the gun across his knees where the whole road could see him.
+Russ took the shotgun out to the porch. "Nobody's coming up these steps past me." He sat with the gun across his knees where the whole road could see him.
 
 Beth poured a mug of Russ's coffee and held it under her chin in both hands, steam on her face, eyes shut. She hadn't had anything hot since Thursday.
 
@@ -92,7 +92,7 @@ By ten Dane had turned the kitchen light off so nobody on the road could see in.
 
 He stood at the edge of the window and watched the road.
 
-Out on the black harbor a light moved, low on the water, where every boat on the island lay on the rocks. It went out. He watched the place it had been until his eyes ached. Nothing came back.
+Out at the end of the porch Russ's phone lit his face. He talked into it low, with his back to the house. When he saw Dane at the glass, he put the phone away in his coat and looked at the road. Dane kept looking at him.
 
 Beth came and stood beside him, close. Her eyes were level with his. He didn't have to look down to fight with her.
 
@@ -169,6 +169,8 @@ She nearly laughed. He felt it under his hand.
 "Then tomorrow."
 
 "Probably sooner."
+
+Out on the porch the chair creaked as Russ shifted the shotgun. She let go of his shirt one finger at a time and went back to the couch, and he went back to the edge of the window.
 
 * * *
 

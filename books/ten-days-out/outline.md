@@ -610,3 +610,11 @@ The Ch 14 cold reader predicted, at 60–90%: she testifies; she runs her father
 - New Bedford was answered in Ch 17 on the bench; in Ch 18 Russ's question gets only the short callback ("Not always. So I watch the door."), not the list again.
 - Dane: medical leave until he starts at the Maine office in January; his gun still in Portland; he plugged the bullet hole in Beth's door and put a bolt on it; he lives in Beth's house. Russ flown out Tuesday, home on her ferry Wednesday night with a cane.
 - Ends: "Your ten days are up, Marshal." / "So. Are you any good at your job?" / "Ask me every night."
+
+### Part A carry-forwards for the back-half rebuild (orchestrator, Nov 6; binding on new Ch 12–17)
+- Ch 02: Beth told Ned (wheelhouse), Tess and Russ (at the store) on Thursday night. Tess said sleep on it; Russ said he'd call the troopers in the morning.
+- Ch 03: Russ talked low on his phone at the end of the porch at ten and pocketed it when he saw Dane. Ch 12's Russ confession should point at that call ("I told her, Friday night, from my porch").
+- Ch 08: the boss chose three o'clock as the test ("it came off one of three phones, and I'll have all three phones' records"); "Portland was seven days off" is cut.
+- Ch 09: Ned no longer confesses to night runs; he guessed and let himself not know; his son is on drugs in Portland since the summer. So Ch 12 is the reader's first word of night runs and Cole's phone: it must read as part of the reveal, plainly.
+- Ch 09: Tess sent the boat to the north rocks on the radio before Beth signaled; "Tess has known where I'd go since we were six." Innocent; no payoff required.
+- Caps after Part A: "Dollar says" 4 of 4 (Ch 06, 14, 15, 18) and "I don't bet" 2 of 2 (Ch 06, 14). The merged Ch 14 keeps at most what it needs; nothing new. Russ's cap gesture only in Ch 04 (cut it in Ch 12 and 18). "A teenager's knots" only in Ch 02 (cut it in Ch 14 and 15).

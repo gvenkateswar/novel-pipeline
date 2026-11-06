@@ -22,9 +22,9 @@ He didn't stop arguing, and he didn't move her hand.
 
 "Where it runs near the shore, I lead," she said. "I know where a man can go on it and where he can't."
 
-"Then it's your shore and my trail."
+"So you get the shore, I get the trail, and he gets to shoot whichever of us he likes better. Is that the deal?"
 
-"Fine."
+"That's the deal."
 
 She stood up first, went down off the rock onto the shore stones and headed east, and she heard him come down after her.
 
@@ -58,7 +58,7 @@ Dane's hand pressed once on her shoulder. Stay. He went down the rocks fast and 
 
 "Put it down."
 
-The kid dropped the phone and swung the rifle on its strap, but Dane was on him first. Dane tore the strap off his shoulder, the rifle hit the stones, and he kicked it away and took the kid by the collar. His cuffs were at the bottom of the bay with the rest of his kit.
+The kid dropped the phone and swung the rifle on its strap, but Dane was on him first. Dane tore the strap off his shoulder, the rifle hit the stones, and he kicked it away and took the kid by the collar. His cuffs were at the bottom of the bay, gone off his belt with the wave.
 
 The kid tore loose with a high sound, his hurt arm wrenched, and came up the rocks at Beth, dragging a pistol out of his hoodie pocket.
 
@@ -104,7 +104,7 @@ The storm hit as they climbed the path from the cove.
 
 "So we stay up here. He went inland bleeding. He won't come back to a sunk boat and a man carrying his rifle."
 
-"The Pruett dentist's house," she said. "I closed it up in October. The key's on the ring in my pocket. It went in the sea with me."
+"The Pruett dentist's house," she said. "I closed it up in October. The key's on the ring in my pocket. It went in the sea with me. Saturday I'd have had to walk you out the east road in daylight, past every window in the village, to get here."
 
 It stood at the top of the path, every window shuttered.
 
@@ -199,7 +199,7 @@ He laughed into her shoulder and didn't stop moving.
 
 "I'll dry," he said.
 
-She pushed back to meet him, and he let her set the pace, and his fingers never left her, and the quilt slid off her shoulder to the floor and neither of them went after it. She wanted him, all of him, with the wind in the chimney and his blood under her nails.
+She pushed back to meet him, and he let her set the pace, and his fingers never left her, and the quilt slid off her shoulder to the floor and neither of them went after it. She reached back for his hip and pulled him in deep again, with the wind in the chimney and his blood under her nails.
 
 "I've watched your hands all day," she said.
 
@@ -209,7 +209,7 @@ Then his other arm, the one under her, came up across her breasts and held her h
 
 She put her hand over his, flat on her breastbone.
 
-"Don't say it yet."
+"Don't say it again. Not till I can answer you."
 
 He didn't. He only gave her more of what he was already doing.
 
