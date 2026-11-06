@@ -1,137 +1,93 @@
-# Pull curve, whole book (revision round 1)
+# Pull curve — Ten Days Out, revised manuscript
 
-**Draft read:** `books/ten-days-out/manuscript.md`, revision round 1 (30,375 words). I opened nothing else.
-**Persona:** KU reader, 35 to 55, reads on her phone, three or four books a month. Reads open-door romantic suspense for the couple and the danger equally. Quits when the heat is all hints or the setup runs long. Two books like this have bored her before.
+**Draft read:** `books/ten-days-out/manuscript.md`, Nov 6 revision r1 (17 chapters, about 38,168 words). I read nothing else in the book folder.
+
+**Reader:** Dana, 41. Reads romantic suspense on her phone through Kindle Unlimited. The last book she finished cost $4.99. She's tired of villains she can name by chapter 3, of logistics, and of sex scenes that stop the plot. She wants the couple and the danger to keep moving.
+
+Positions are % of the manuscript, estimated from line position.
+
+---
 
 ## 1. Where I stopped
 
-I finished the book. I nearly put it down twice, and I'm reporting both as warnings, ahead of every score:
+**Chapter 12, "The Hold", at about 67%:**
 
-- **Ch 4 (~31%)**, at *"How does your pay get to a bank?" he said from under the set.* We'd had a kiss cut off by a phone at 25% and a "not yet" at 30%. Then came an engine bleed, fare-bag seals, the pay envelope and the father's boat memory, all while lying on concrete. I was out of patience. The bare hand laid on the housing pulled me back.
-- **Ch 8 (~73%)**, at *"The county rings the emergency director," he said, "and keeping a federal landing to herself is the one part of that job anybody asked her to do."* This stretch is three people going back and forth over who holds which key, then the Pike call ("Giglio") and the ham. I kept going only because the progress bar said the end was close. **This is the chapter where I'd most likely have quit for good.**
+> "The rod from the wheel to the rudder hung loose and bent. In the first storm the pin at the rudder end had sheared. The pin at the top was frozen."
 
-So: I'd keep reading, but I skimmed the logistics in four chapters.
+The secret was out a chapter ago, and I'd guessed it before the halfway mark. Now the two of them were fighting about a court order while she hammered a pin out of a steering rod, and I had nothing left to wait for. I read the rest only because I was asked to. Chapters 13 to 17 are scored below and marked.
 
-## 2. Buy
+## 2. Buy after the sample (about 10%, end of Ch 2): yes
 
-- **At the sample mark (~10%, end of Ch 1): yes.** Bricks under the lobsters on page one, a marshal in fudge-shop boots who jumps the ramp and gets caught by the jacket. I wanted the next chapter.
-- **At the end: yes.** I came for the couple and the danger and got both, but I paid for the middle with skimming.
-- **Book 2: no.** The *Dorothy M.* is a boat name I never saw on the page, and Russ's task force is not a couple. Nothing at the end makes me want the next book.
+Chapter 1 hooked me: the dead cooling unit, the split crate, the man testing the back door, the oar, the boots. But Chapter 2 was already spending half its pages on ropes, floats and which trucks were chained where.
 
-## 3. Pull score per scene (1 to 5)
+## 3. Pull curve by chapter (1 to 10)
 
-**Ch 1, Night Freight**
-- Car deck, the crate tips, the call: **4**. I wanted to know who comes for her after her name goes on a form.
-- Ramp, Reyes, the jump: **4**. I wanted them to keep holding each other by the clothes.
-- Coiling line, the boat talk, the subpoena: **3**. I wanted her to admit she'd been picturing him on that boat.
-- Tess on the slip, the heel track, the skiff, ferry cancelled: **3**. I wanted to know why he went for his hip.
+| Ch | Title | Pull | What I wanted next |
+|---|---|---|---|
+| 1 | The Last Truck | 8 | Who gave the kid her name, and whether she'd ever smile at him. |
+| 2 | First Light | 5 | Nothing after the boat left. The rope breaking woke me up. Then the float, the ramp and the two trucks put me back to sleep. |
+| 3 | The Constable's Kitchen | 7 | Whether they'd get out the back door. The kiss worked. The jury speech in the middle of it didn't. |
+| 4 | The Net Loft | 5 | The run along the rocks pulled hard. The loft sex went on long while a gunman was outside, and I stopped worrying about the gunman because the book had. What I wanted was Russ's "Late." |
+| 5 | Good Till Next August | 6 | Who took the picture off Tess's board. The condom counter was fun. |
+| 6 | Who Knew | 6 | The fire and the bootlaces were good. Then she ran the suspect list in her head while running for her life, and I already had it. |
+| 7 | Cold Water | 6 | The wave and him opening his hand: best moment in the book. Then another long sex scene, and I skimmed down to the line about losing her. |
+| 8 | The Tower | 4 | Nothing much. The railing slip was good. The phone round to three people, each with "the hour", felt like homework. "And me" from the boss was the only twist that made me look up. |
+| 9 | The North Beach | 6 | Whether the kid was in the trees. Ned's son confession made Ned my answer, so the "which one?" ending was a question I'd already answered. |
+| 10 | The Blood Trail | 4 | The cove fight was good. Then the third sex scene, by a stove, which I skimmed. The texts on the kid's phone told me the leak was one of her three, which I knew. |
+| 11 | Somebody's Boy | 5 | Only to watch her catch him. A lantern, "a big man, favoring one hip": I knew who it was before Beth said she did. The knife coming out was the one surprise. |
+| 12 | The Hold | 3 | **Stopped here.** Nothing. Witness protection, the hold, a review board, the rudder pin. |
+| 13 | Her Father's Kitchen | 4 | *(read past my stop)* The kid washing her dishes was a great picture. Russ getting shot woke me. Mercer in a new coat with a gold tooth was a villain I could name on sight. |
+| 14 | The Wheel | 3 | *(read past my stop)* The wheel tearing her palms was good. The hold withdrawn, the ham, and a phone taped to a truck frame was a pile of errands. |
+| 15 | Inside the Ledges | 7 | *(read past my stop)* Whether her father's line would hold, and whether Dane was alive when the radio went quiet. The best chapter since Ch 1. |
+| 16 | In the Room | 5 | *(read past my stop)* The lawyer was arrested off to one side in two lines. The grand jury laugh was nice. More sex in the hotel. |
+| 17 | Full Price | 4 | *(read past my stop)* Sweet, and slow. A new phone mystery is opened in the last pages to sell me book two. I didn't want it. |
 
-**Ch 2, The Weather Hold**
-- The mudroom door, the skiff lost in the squall, "Boat": **3**. Nothing much. I was waiting for the night.
-- Tess's roll call, the cable, the bridge comes down: **4**. I wanted to know who else heard where she'd sleep.
-- Kitchen floor, the door goes quiet, the latch lifts: **5**. Who knew she was there. This is the best scene in the book.
+**Average through my stop (Ch 1 to 12):** 5.4. **Average for the whole book:** 5.2.
 
-**Ch 3, The Generator Shed**
-- The shave, Pike's text on the phone: **4**. I wanted to know what "Do not disclose to witness" meant.
-- The chase through the fish houses, the store, Arsenault, the Ashby key: **2**. Nothing. I lost track of who was who in the store.
-- The generator shed kiss, stopped by the phone: **4**. I wanted the rest of it and was annoyed not to get it.
+**Chapters at 5 or below:** 2, 4, 8, 10, 11, 12, 13, 14, 16, 17.
 
-**Ch 4, Feeling for Warm**
-- Lookout Hill, the hood searches her house, Russ lies down like a cow: **3**. I wanted to know how the hood knew how her door opens.
-- The engine bleed, the seal on his wrist, the envelope questions, hiding behind the set, the handprint: **3**. The first half is a **2**: I skimmed the bleed screw and the bank talk. The hiding is a **4**. Then I wanted them out of that house.
+**Scenes at 2 or below (on a 1 to 5 scene scale):**
+- Ch 2, last scene: the broken float, the ramp over the water, the trucks on the car deck, Ned's hip, the life jacket. **2.**
+- Ch 8, the phone round: Tess, Ned, Russ, then the boss reading the names back. **2.**
+- Ch 10, the dentist's-house sex scene. It stops the chase dead. **2.**
+- Ch 12, the ferry hatch: the rudder pin and the argument about the hold. **1.** This is where I quit.
+- Ch 14, the town office: the ham, the tape on her hands, the planted phone and who could have put it there. **2.**
 
-**Ch 5, Half Tide**
-- Tess arrives with chowder and the book: **2**. Nothing. I couldn't tell whether I was supposed to fear her or love her, and the scene didn't care either way.
-- The shed burns, they cross the bar with the flashlight sweeping: **4**. I wanted them across.
-- The fish house, the trauma kit, the sex: **4**. I wanted to know whether this costs her the case. "It's a very disappointing kit" is where I relaxed into the book.
-- The flashlight across the cove, "who had Ashby": **2**. Nothing. It's the list of suspects again, read aloud.
+**The chapter where I'd most likely put it down for good:** Chapter 12.
 
-**Ch 6, Good Till August**
-- The outboard, Dane comes back soaked, "Walked the bar": **2**. Mild curiosity about where he went, nothing more.
-- Condoms on Tess's counter, Arsenault's hundreds: **3**. I wanted Tess to say something about the box. The "Good till next August" payoff was worth it.
-- The walk past the dragger, the flooded forepeak, the impeller, the tide card: **2**. Nothing. I skimmed the pump work.
-- The second sex scene, Marisol, the hundred-ton book: **3**. I wanted more of Marisol than I got. The sex is fine but lower-charged than the first one.
-- Thursday wade, the float lights are dark: **3**. I wanted to know who turned them off, though I already guessed.
+**Would I read this author again?** No. Chapter 1 and Chapter 15 show what she can do, but I'd already sat through a middle where the danger waited while they talked about logistics, and I wouldn't risk another one.
 
-**Ch 7, His Handwriting**
-- The shot at the ramp head, Pike says Saturday: **4**. I wanted to know how bad the arm was.
-- The butterfly strips, his questions, he writes it down: **3**. I wanted her to look in that notebook.
-- Reading the notebook, "Subject", the $9,000: **4**. I wanted the fight. "They missed the one they'd paid" is the sharpest turn in the book.
-- She takes the bar down and leaves him: **3**. I wanted to know where she was going.
-- The church, the woodpile, wading at the ledges: **2**. Nothing. I couldn't follow where she was or why the church.
-- The riprap, Ned takes her aboard, "Where's your marshal?": **3**. I wanted Dane to show up.
+## 4. Do I care about these two people yet?
 
-**Ch 8, Not Water**
-- The bunk, Dane on the riprap with the red case: **3**. I wanted them in a room together.
-- The mess table, "I went to bed with you and kept writing": **3**. I wanted her to make him crawl, and she mostly didn't.
-- The Pike call, "No indication" on every page, Giglio: **2**. Nothing. The bottom-of-the-page thing is nice, but the call is paperwork.
-- The ham lunch, "Ask me sober, Haskell": **2**. Cozy, and nothing pulls. I knew it was the calm before.
-- The radio, keys, "Teresa Marr" in pencil: **2**. Nothing. I'd already settled on Ned and was watching her refuse to.
-- Ned goes up the road and doesn't look back: **3**. I wanted to know what he'd done.
+Yes. Beth fighting with an oar in wet socks, and Dane cracking jokes because quiet scares him, made me want them together from the first scene. But by Ch 12 their fight was about paperwork.
 
-**Ch 9, Car Deck, No Lights**
-- She puts herself on the air as bait, the skiff passes: **3**. I wanted the attack.
-- Russ at the bollard: **2**. Nothing. The joke trails off.
-- Dane in the dark between the trucks: **3**. I wanted to know what the paddle was.
-- "Bethie. Water side.", the floods go off: **4**. I wanted to know what Ned had done.
-- Gasoline, the kick, the stern chain, the buoy: **5**. I wanted her to haul that boy in. Best set piece in the book.
-- The store, Ned confesses, Tess's split lip, Ned holds his wrists out: **3**. I had trouble with the confession because of the red and yellow seals, but Ned holding out his wrists landed.
-
-**Ch 10, First Boat**
-- The ramp, Ned goes off on Dane's arm: **3**. I wanted to know about "Put my name in."
-- Quist questions Tess: **2**. Nothing. I couldn't follow the keys or the impeller sticker, and the *Dorothy M.* came out of nowhere.
-- The lamp in the window, "I love you", "You jumped": **3**. A good line, but I'd already got the payoff in Ch 5.
-- She takes the boat across: **3**. Satisfying, quiet.
-- The grand jury, Pike, the trooper: **2**. Nothing.
-- *Pier Pressure*, the dollar bet, the quarter turn: **3**. Sweet. I closed the app smiling a little.
-
-## 4. Score per chapter (1 to 10)
-
-| Ch | Score | Note |
-|---|---|---|
-| 1 | 7 | Hooked on page one, and the jump is a real meet. |
-| 2 | 7 | The door going quiet is the best thing in the book. |
-| 3 | 6 | The shave makes me want; the store scene loses me; the kiss gets cut off. |
-| 4 | **5** | Bleed screws and bank envelopes. My first near-quit. The hiding saves it. |
-| 5 | 7 | The bar crossing, then finally the heat, at about 43%. |
-| 6 | **5** | Condoms on the counter, then the forepeak and the tide card. I skimmed. |
-| 7 | 6 | The notebook twist is good, the church is mud. |
-| 8 | **4** | Talk about keys, paperwork, ham. Where I'd most likely have quit for good. |
-| 9 | 7 | The gasoline on the car deck is the payoff. The confession is muddled. |
-| 10 | **5** | The interrogation and the grand jury drag. The last page is nice. |
-
-**The chapter where I'd most likely have put it down for good:** Ch 8.
-**Would I read this author again:** yes, a sample. I'd want the middle shorter and the heat sooner.
-
-## 5. Do I care about these two people?
-
-Yes. She reads men by their walk and their boats, he talks through every bad moment, and I believed him when he said "Don't fix it." I care about her a little more than about him.
-
-## 6. Did anyone make me laugh?
+## 5. Did anyone make me laugh?
 
 Yes.
-- "Dane." She wrote that too. "Like the dog." / "Like the dog," Dane agreed.
-- "It's a very disappointing kit," he said.
-- "Your jeans," he said, "have taken a side."
-- "'Ask me sober, Haskell.'" / "How long's he been sober?" / "Twenty-two years."
+- "Those boots," she said, "are for a different ocean." (Ch 1)
+- "You're an ice cube with opinions." (Ch 1)
+- "It's a very disappointing kit." (Ch 4)
+- "It found me nine men inside fifty miles, and two of them were my cousins." (Ch 7)
+- "That ham is load-bearing." (Ch 8)
 
-## 7. Did anyone make me want?
+## 6. Did anyone make me want?
 
-The shave: *"That lasted until he turned his jaw to the light and ran his hand along it to check, and she wanted it to be hers."* Also the wrist on the ramp: *"wrapped all the way round the bones of her wrist like he had measured it."*
+Yes. "She watched his hands. Then his forearms. She wanted them on her. She thought it in exactly those words, standing in her own kitchen at half past five in the morning, and she didn't take it back." (Ch 2)
 
-## 8. The three most boring passages
+Also, from Ch 7: "He opened his hand so it wouldn't take her too," and her answer later, "You don't get to decide what I can hold."
 
-1. **Ch 4, ~31%.** The bleed screw and the bank questions: *"How does your pay get to a bank?" he said from under the set. / "Envelope, at the store. Slip inside, flap tucked, never sealed. Goes over in Tess's bag."* I skimmed the seal, the envelope and the *Ruthie C*.
-2. **Ch 6, ~52%.** The forepeak: *"Third since the bridge," Ned said. "She eats them in dirty water." / The vanes went in.* Then the tide card. I skimmed the pump and waited for the next scene.
-3. **Ch 8, ~73 to 78%.** Keys and the radio: *"The county rings the emergency director," he said...* through *"Town ring hangs by her safe. Second key to the float box is on it."* Plus the Pike call before it. Runner-up: Quist questioning Tess in Ch 10 (~91%), where I gave up following who had which key.
+## 7. The three most boring passages
 
-Under all three: I stopped trying to follow the seal colors, the bags, the key ring and the timer box by about Ch 6. When Ned explained the red seal in Ch 9, I took his word for it.
+1. **About 10%, Ch 2:** "The ferry's ramp hung out over the water. Two trucks were chained on the car deck, the open deck where the trucks park: a lumber truck and the co-op's bait truck. They'd gone aboard after the last crossing last night to be first off the morning run." I skimmed it. Those trucks come back in Ch 14 with a phone taped under one, and I still didn't care.
+2. **About 42%, Ch 8:** "Her three get the true hour, from her. If anybody's in those trees at three, it came off one of three phones, and I'll have all three phones' records. That's the test." Then she phones all three, one after another. I skimmed the calls.
+3. **About 67%, Ch 12:** "The rod from the wheel to the rudder hung loose and bent. In the first storm the pin at the rudder end had sheared. The pin at the top was frozen." My stop line. A close runner-up is Ch 14 at about 79%: "The bag was dry and the battery near full. Friday night's spray had iced everything else on this deck." By then I'd also lost track of what day it was.
 
-## 9. What I think is going on (and when I first suspected)
+## 8. What I think is going on
 
-- **First suspected the culprit:** Ch 2 (~18%). Only Ned and Tess heard her say "Home," and Ned said "Nobody but me and God." It was a three-way split then between Ned, Tess and Dane's phone, about 30% Ned.
-- **Ch 3 to 4 (~25 to 33%):** Ned hands over the Ashby key and says his generator note is known. The generator goes dead and the hood shows up at Ashby. About 50% Ned.
-- **Ch 6 (~52%):** Ned's crates-too-heavy confession, then "Which tide?" About 80% Ned.
-- **Ch 7 (~60%):** "Ned set that timer." About 90%. After that, every pointer at Tess (the hundreds, the key hook, the hand writing) read as a red herring. The book tells you so in Ch 9, when Dane says "I'd still put Haskell on the list."
-- So the Ch 9 reveal confirmed what I already knew rather than turning anything over. What did surprise me was that he did it to protect her job and the winter boat, and that he gave them the whole boat but kept the fish house. That part landed.
-- **The one line that made me keep going:** *"Nobody who had been in this house made that sound."* (Ch 2, ~18%). After that I trusted the book to scare me again, and it did, at the end of Ch 4 and in Ch 9.
+**When I first suspected the person who sold Beth out:** Chapter 1, about 1%. Ned, at the wheel: "Go home when we dock. Lock your door. Then you do what's right, from your own kitchen." Then "In eleven years she had never once seen Ned Haskell afraid." The kind old captain who was her father's best friend, scared, sending her home alone: I read him as the leak right there.
+
+Ch 5 made it firmer. She tells Ned the north-side house, he leaves at once, and the house burns that night. Chapter 9, at about 45%, settled it: "My boy in Portland's on that stuff." That's a motive. From then on the only question was how he'd be caught.
+
+Tess and Russ read as decoys. Tess has the loan, the turned-over phone and the missing picture. Russ has "Late" and "Nobody." Both were too obvious to be the answer. The boss's "And me" was the only fake-out that worked on me, and only for a chapter.
+
+After the reveal I had the boat man (Mercer, gold tooth) pegged as the supplier the minute his new coat showed up. I expected the ledges line on the pantry door to be the way out, and it was. At the end, I took the planted phone to mean a second islander working for Cole, left open for book two.
