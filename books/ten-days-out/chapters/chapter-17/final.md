@@ -10,9 +10,9 @@ The lobby was warm after the street and smelled of wet wool and floor polish. Th
 
 "I hear the marshal's been keeping you warm."
 
-Mercer had watched Dane step in front of her on the town office step.
+That was where he had it from: Mercer, at the town office, watching Dane step in front of her.
 
-This man could find out what street Ned Haskell's son slept on and make it sound like a kindness. Her taped hands wanted to close. She let them.
+This man could find out what street Ned Haskell's son slept on and make it sound like a kindness. Her hands started to close in their tape. She let them.
 
 "Yes," she said. "I'll say so in there."
 
@@ -46,13 +46,13 @@ The prosecutor met Beth at the door of the room. She was a small woman with a fo
 
 Tables stood in rows, with a jug of water and a window onto the street. About twenty people sat at them, every age, a man in a work jacket, a woman in a cardigan. At a little machine by the front table a woman sat with her hands ready.
 
-Beth put her taped hand up and swore to tell the truth. Then she told them.
+Beth put up her right hand, black tape and all, and swore to tell the truth. Then she told them.
 
-"Thursday the twelfth, on the last crossing, Cole Varney drove the lobster truck onto my car deck with the cooling unit off. A crate split open on the steel. Under the lobsters were bricks in gray tape, and one was torn, and I knew the powder was fentanyl. A man in a black hoodie shoved the bricks back in, and then he watched me from the deck the whole way over. Cole Varney sat in the cab and looked straight ahead."
+"Thursday the twelfth, on the last crossing, Cole Varney drove the lobster truck onto my car deck with the cooling unit off. A crate split open on the steel. Under the lobsters were bricks in gray tape, and one was split, and I knew the powder was fentanyl. A man in a black hoodie shoved the bricks back in, and then he watched me from the deck the whole way over. Cole Varney sat in the cab and looked straight ahead."
 
 Her voice sounded smaller in here than it did on her deck. The typing went along under it and stopped each time she stopped.
 
-"Cole Varney's lawyers will raise this at a trial," the prosecutor told the jurors, "so I'd like you to hear it from her first. Deputy Reyes was taken off Ms. Calloway's protection at six this morning. He'll answer for that to his office, and to Cole Varney's lawyers at trial, under oath."
+"Cole Varney's lawyers will raise this at a trial," the prosecutor told the jurors, "so I'd like you to hear it from her first. The marshals kept Deputy Reyes on Ms. Calloway until the ferry landed. At six this morning he was taken off her protection. He'll answer for that to his office, and to Cole Varney's lawyers at trial, under oath."
 
 He had said it first, into his boss's phone on Saturday, and this was the bill.
 
@@ -124,7 +124,7 @@ She looked at the sweatshirt. "They let you out?"
 
 He lifted the phone to show her. "My boss—"
 
-She put her taped hand over the screen and held it there. "Not yet. I want you to answer me before that can be the reason."
+She put her wrapped hand over the screen and held it there. "Not yet. I want you to answer me before that can be the reason."
 
 "Will you stay?" she said. "I'm asking."
 
@@ -162,9 +162,9 @@ She was already walking him toward the corner, at his pace.
 
 * * *
 
-The hotel room was on the third floor, over the corner of Middle Street, and the afternoon came straight in through both windows.
+Dane Reyes watched Beth kick the deputy's shoes across the hotel carpet, one and then the other.
 
-Beth kicked the deputy's shoes across the carpet, one and then the other, and groaned like a woman lowering herself into a bath.
+The room was on the third floor, over the corner of Middle Street, and the afternoon came straight in through both windows. She groaned like a woman lowering herself into a bath.
 
 He laughed out loud.
 
@@ -192,7 +192,7 @@ He lay back on the white sheets. Across the street gulls sat on a wet roof in th
 
 "I am." She put her fingertips on his chest. "And then I want your mouth on me. Here." She touched the hollow of her throat. "And then I want you slow. Slower than you'd go."
 
-He did what she said, in order, and wanted every word of it.
+He did what she said, in order, and his hands shook on the third.
 
 She got his jeans off him. It took a while, and she made a production of it.
 
@@ -232,7 +232,7 @@ She lifted her head. "Again."
 
 She came laughing, her forehead on his, and he went after her a moment later, with the sun hot on his face and his hands still on her hips.
 
-Afterward she lay along his right side with her taped hands up on his chest. The gulls went off the roof all at once.
+Afterward she lay along his right side with her bandaged hands up on his chest. The gulls went off the roof all at once.
 
 "You did all the work," he said.
 

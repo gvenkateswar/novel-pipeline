@@ -28,11 +28,11 @@ She looked at his feet. Brown leather, high laced, oiled, with good soles. Water
 
 "Those are the right boots."
 
-"Tess charged me full price. She watched me count it out."
+"Tess charged me the marshal price. She watched me count it out."
 
-"She charges everybody full price."
+"What's the marshal price?"
 
-"Then why did she call it the marshal price?"
+"Full."
 
 Beth laughed again and lost half a bucket into her lap.
 
@@ -110,9 +110,9 @@ She put Ned's letter in the drawer. Behind her the fat spat in the pan, and Dane
 
 Beth heard the cane on the front step before she heard the knock.
 
-Russ stood on the step in his brown jacket and his Red Sox cap, leaning on the cane with both hands. He ran his thumb over the pale new plug of wood in her front door, at hip height, where the bullet had come through.
+Russ stood on the step in his brown jacket and his Red Sox cap, leaning on the cane with both hands. He ran his thumb over the pale new plug of wood in her front door, at chest height, where the bullet had come through.
 
-"Did you fix that? You did. I can only see it because I know where to look."
+"You fixed that. I can only see it because I know where to look."
 
 "Tuesday," Dane said behind her.
 
@@ -130,9 +130,9 @@ Beth set the pie on the counter and stood a moment with her hands on either side
 
 She lifted the roasting pan out of the oven herself and set it in front of Russ, and Russ carved the ham thick from his chair while the light went yellow in the windows.
 
-Russ held his plate out for thirds. "Is there more? There's more. Who cooks a ham that size for four people? He does."
+Russ held his plate out for thirds. "Is there more? There's more. Only a marshal cooks a ham that size for four people."
 
-"Thirty-eight dollars at my register," Tess told the table. "I should have charged him the marshal price."
+"Thirty-eight dollars at my register," Tess told the table. "Marshal price. The next pair's double."
 
 Russ laughed until he had to hold his leg. Tess passed Beth the potatoes without looking at her.
 
@@ -212,7 +212,7 @@ Tess came to Russ's other shoulder. She looked out, and then she looked at Russ,
 
 Beth took Tess's coat off the hook and held it ready.
 
-"That woman in New Bedford you told me about," Russ said to Dane. "They burned her house after she testified. Didn't they? They did." He worked his other arm into the coat. "Does a cell stop people like that?"
+"That woman in New Bedford," Russ said to Dane. "Beth told me about her on the ferry." He worked his other arm into the coat. "Does a cell stop people like that?"
 
 Dane was still at the table, with Tess's pie plate in front of him.
 
@@ -220,17 +220,15 @@ Dane was still at the table, with Tess's pie plate in front of him.
 
 He had no gun. It was in an evidence locker in Portland.
 
-"There's one more thing," Dane said. "My boss called Tuesday. The Coast Guard never found the big boat. It's still out there."
+Beth thought of a gold tooth in a gray beard, out past the harbor mouth.
 
-Beth thought of a gold tooth in a gray beard.
+"There's one more thing," Dane said. "The kid's name is Kyle Pelletier. He's nineteen."
 
-"And the kid's name is Kyle Pelletier, by the way. He's nineteen."
+She had put him at twenty-five that first night, in his hoodie on her car deck. Beth said the name over once, to keep it.
 
-Beth said the name over once, to keep it.
+"He swears he never put that phone on the ferry," Dane said. "The bag was dry under Friday night's spray, so it went in after Friday night, and the ferry sat at the pier all Saturday. He and Ned were tied up at the town office the whole time. Tess watched the harbor from the store steps all day, and nobody came in by water. Somebody on Cutter walked down and taped it there."
 
-"He swears he never put that phone on the ferry," Dane said. "It went in Saturday. The bag was dry under Friday's ice, and the battery was near full. By Saturday he was tied on the town office floor and Ned was cuffed to the pipe. The ferry sat empty at the pier all day. Somebody on Cutter walked down and taped it there."
-
-"How many of us live on Cutter?" Russ said. "Two hundred and forty. Any one of them could walk down to that pier, couldn't they? They could."
+"Two hundred and forty of us live on Cutter," Russ said. "Any one of them could walk down to that pier."
 
 "That counts me, Whitcomb," Tess said. "I walked past that pier twice Saturday with wood for your stove."
 

@@ -56,7 +56,7 @@ Then a man's voice came on the same air from the big boat, calm and close.
 
 She knew the voice. Mercer: the gray beard, and the gold tooth when he smiled on the town office step.
 
-Every boat at sea could hear the ferry's radio. Now they had the hour too. Down in the passenger cabin the speaker over the kid's bench carried every word. Up at the town office Tess would be hearing it all. She didn't come on.
+Every boat at sea could hear the ferry's radio. On Thursday Tess's call for Russ had told them all there was a boy in ties at the town office, and now they had the hour too. Down in the passenger cabin the speaker over the kid's bench carried every word. Up at the town office Tess would be hearing it all. She didn't come on.
 
 "Beth, don't answer him," Dane said, as if nobody else were listening. "I'll do the talking."
 
@@ -76,7 +76,7 @@ Beth held the ferry along the outside of the white water. The sea boomed on the 
 
 The ledges ran on out along the point for a mile. Close in to the shore, inside them, there was one narrow way, and it was the pencil line her father, Alton, had drawn on her pantry door. A boat that didn't know it would be on the rocks in a boat's length.
 
-The tide was at the top. The ferry floated where Alton's lobster boat had, and a dragger drew twice what the ferry did.
+The tide had only just turned. There was water enough in there for the ferry, only just.
 
 The big boat couldn't live in there. If it saw her go in on purpose, it would sit off the far end and wait. She needed it close behind her, following her lights, when she turned.
 
@@ -92,13 +92,13 @@ A burst of shots came out of the dark behind her and rang off the wheelhouse wal
 
 "Beth," Dane said. "Can I tell them about the steering?"
 
-The steering was fine. She could feel every spoke of it turning true under her skinned palms. He knew that. He had never once lied to her, so the lie was for them.
+The steering was fine. All the way out she had waited for the wheel to go heavy under her skinned palms, as it had on Friday night, and it had turned true every time. He knew that. He had never once lied to her, so the lie was for them.
 
 "Tell them."
 
 "The steering's gone," Dane said.
 
-She let the wheel go loose in her hands. The ferry swung side-on to the sea, and its nose came round to the left, toward the white water, as it had swung off the pier on Friday night with the boat off the point watching.
+She let the wheel go loose in her hands. The ferry swung side-on to the sea, and its nose came round to the left, toward the white water.
 
 "It's coming in fast," Dane said. "Behind you. Close. Closer."
 
@@ -120,7 +120,7 @@ The white water was right off her left hand now, and the gap was coming. She did
 
 She put the wheel over hard toward the shore.
 
-The radio clicked, and Tess's voice came out of the speaker. "Truck's on the point, Calloway. Light's on you."
+The radio clicked, and Tess's voice came out of the speaker. "Marshal. Truck's on the point. Light's on you."
 
 A white light came on along the shore of the point and lay across the rocks ahead of her. Tess must have started the fire truck out the point road at the first shot. Half an hour by truck.
 
@@ -142,7 +142,7 @@ For one second, through the broken side window, she saw Mercer in his own deck l
 
 "It's on the rock beside the gap," Ned said.
 
-It had come in blind on her lights, on water deep enough for the ferry and not for it.
+It had come in blind on her lights, onto water deep enough for the ferry. The big boat drew twice as much.
 
 The engine screamed again, and the light backed off the rock. It turned and limped off into the dark, holed and low in the water. It didn't sink.
 
@@ -192,7 +192,7 @@ The ladder was iced, and her taped palms burned on every rung. The wind on the u
 
 The first-aid box by the ladder was empty. She pulled off her black knit hat, folded it and pressed it into his side with both taped palms. They hurt. She pressed harder.
 
-She wanted him, here, bleeding on the upper deck of her boat in a borrowed shirt, and she had never wanted anything so much in her life.
+The hat went dark under her hands. They would not come off him.
 
 "Is this the other side?" he said.
 
@@ -212,7 +212,7 @@ Dane got an elbow under himself. "Can I lean on you?"
 
 She sat him up against the rail at the head of the ladder, where he could see down through the wheelhouse door.
 
-"I want everybody aboard in one room where I can see them."
+"I want them where I can see them."
 
 "Stay here. I'll bring them up."
 
@@ -240,11 +240,13 @@ Dane typed it into his phone one-handed, in full sentences, with periods.
 
 Beth watched the dark ahead. At the rail, Ned shut his eyes.
 
-A little before four the lights of Pruett came up out of the dark. She brought the ferry in against the pier slowly, on the first try. She had never landed it before.
+Once before Pruett she freed Ned onto the wheel and went up. The hat had soaked through. She pressed it back in with both palms until Dane said she was fussing. When she came down, Ned put his cuff back on the rail himself.
 
-Deputies came aboard out of the police lights, in jackets that said what they were. The first thing a deputy took was Dane's gun. Dane handed it down the ladder himself, butt first. The rifle, the pistol, Ned's knife and the planted phone went into one bag. Two deputies carried Dane down the ladder on a stretcher.
+A little before four the lights of Pruett came up out of the dark. She brought the ferry in against the pier slowly, on the first try. She had never landed it at Pruett before.
 
-A deputy took the key from Beth, freed Ned from the rail and led him off in Russ's cuffs. At the top of the ramp he looked back once and lifted his cuffed hands. Beth didn't lift hers.
+Deputies came aboard out of the police lights, in jackets that said what they were. The first thing a deputy took was Dane's gun. Dane handed it down the ladder himself, butt first. It went into one bag with the kid's rifle, the kid's pistol from Dane's belt, Ned's knife and the planted phone. Two deputies carried Dane down the ladder on a stretcher.
+
+A deputy took the key from Beth and freed Ned from the rail. He closed the open cuff on Ned's other wrist, so both were on, and they led him off in Russ's cuffs. At the top of the ramp he looked back once and lifted his cuffed hands. Beth didn't lift hers.
 
 The kid went separately, between two deputies, still talking.
 
