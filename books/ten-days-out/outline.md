@@ -563,3 +563,4 @@ From `reviews/outline-audit-backhalf-r1.md`. Outline fix budget is now spent; th
 - Tess lights the rocks with the fire truck's big light all night from the harbor road, says nothing on the radio, and drives away at first light. Russ guards the prisoners from the couch with the shotgun that night. Tess still isn't speaking to Beth (Ch 15 "She's not talking"; Ch 18).
 - Ch 14 is the first use in v4 of "Dollar says" (cap 4) and of "I don't bet" (cap 2): one each left for later chapters.
 - Beth's palms are torn by the wheel (no burns). Dane wraps them in his shirt ("That was my good shirt." / "You don't have a good shirt.").
+- Ch 15 s2 must restate the boss line cut from Ch 14 s4: a text from a phone in nobody's name and Ned's word won't arrest that lawyer, and the kid isn't talking.
