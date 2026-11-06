@@ -1154,3 +1154,22 @@ None. The judgement calls, with the default taken:
 
 ### Orchestrator override to the Nov 6 amendment (binding)
 - The rule from rebuild-brief-v4 item 8 stands: no withheld secret drives a conflict between the leads. So Dane does not hide the hold. Drop the Ch 11 plant. In new Ch 12, before the boss's speaker call, Dane tells Beth himself, to her face and plainly: last night he asked his boss to have the prosecutor seek a hold on her after Monday, under guard in Portland until the trial or until she takes witness protection. He says why. The boss's call then confirms it's filed. "Cancel it." / "No." The fight, the one-talk test (the request is filed and he won't withdraw it) and the repair in the merged Ch 14 stand as amended.
+
+### Logic-gate answers to the Nov 6 amendment (orchestrator; binding; supersedes conflicting lines above)
+- **B1 (timing):** Dane asks for the hold on **Wednesday**, at the town office, right after Ned's son is reached and the boss says "A lawyer who can find a man's son in a morning can find a woman on an island." He tells Beth himself, to her face, before the boss rings back. No Tuesday trace; no Ch 11 plant; Ch 11 unchanged.
+- **B2:** the boss says plainly that the hold rests on her deputy's word and only his word takes it back. Beth names her own leverage (refuse to testify) and refuses to use it: "I'm going in that room. You don't get to make me trade it."
+- **B3:** in Ch 13 on the step, Tess calls the Coast Guard on the island radio for Russ (the island radio, open channel); that is how Mercer heard there's a man shot.
+- **B4:** Mercer says "Come June" unprompted; Dane takes it as Cole's (Ned told Cole in September who'd have the boat after him).
+- **B5:** no lull. Mercer comes ashore Thursday in the lee of the point while it is still snowing; the helicopter still can't fly.
+- **B6:** keep the boss's two clauses (the Coast Guard is on the storm's distress calls; if a boat comes at them they'll come from an hour off). The Mercer license check comes back Saturday: no Hal Mercer out of Gloucester; lying to a federal officer is noted, and there is still nothing to board him for in that sea.
+- **B7 (the phone):** its job was to tell them when the ferry left the pier in the dark. Dane switches it off Sunday night, and Beth takes the ferry out with her lights off as far as the harbor mouth, so the big boat has to find them by ear; that is why the bigger engine comes up late out of the dark. She turns her lights on once she's found (the big boat then follows her lights into the ledges). Dane knows it went in on Saturday because the battery was near full and the bag was dry, with no ice on it. Anyone on Cutter could have walked down to the empty ferry that Saturday. No call-log claim.
+- **B8:** in the merged Ch 14, when he withdraws the hold on speaker, Dane says on the record: "And I'm involved with her. Write that down too." That is why he is taken off her protection at Pruett.
+- **B9:** Mercer knows the kid is with them because the kid's phone went silent and Tess's radio call named a boy in cable ties at the town office; one line.
+- **B10:** Wednesday afternoon Ned is on the car deck, cuffed to the rail, within Dane's sight.
+- **N1:** Ch 12 must not repeat Ch 09's "I let myself not know." Ned's night-run confession is new and plain, and Beth catches the lie he told on the beach.
+- **N2/N3:** Mercer's reason to come ashore: to see her face and to let the kid see his, so the kid stays quiet. Dane asks the kid "Is that him?" afterwards; the kid won't answer (that silence is why Ch 16's statement matters).
+- **N4:** keep Beth's accountability line in the repair ("Same thing I hated you for" or its equivalent).
+- **N5:** the Coast Guard loses the holed boat because it goes in among the island ledges where a cutter won't follow at night, and its lights go out.
+- **N6:** plant high water as Beth's reason to sail at ten.
+- **N7/N8:** strike every hidden-text line in the amendment.
+- **N9–N13:** take the auditor's fixes.
