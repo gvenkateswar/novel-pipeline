@@ -549,3 +549,11 @@ From `reviews/outline-audit-backhalf-r1.md`. Outline fix budget is now spent; th
 - Ch 13 s3: Dane uses "the ferry's first-aid box" (Ned brought it to the dentist's house); the trauma kit ran out of gauze in Ch 10.
 - Russ sits on Beth's road from about seven to dusk on the Ch 12 day; Dane guards Ned at the town office; Tess goes back to her store. Ch 13 must bring Russ in off the road overnight.
 - The second number is Cole's lawyer: Ned's phone shows one incoming call from it the morning after, and Ned names him.
+
+### Ch 13 beat-sheet carry-forwards (orchestrator, Nov 6; binding on Ch 14–18)
+- The kid's wrists are tied with long cable ties from Tess's hardware shelf (Dane has no cuffs; Russ's pair is on Ned). Ch 14 s1 and Ch 15 s2 say "the kid with his wrists tied", never "in cuffs". Ned keeps Russ's cuffs (Ch 15 needs them for the rail).
+- Beth waits in Russ's truck at the foot of the lane, not the fish shack (N7). Her term, agreed to his face at 4 a.m.: "If anybody bleeds, I'm coming up."
+- Russ was radioed in off the road at dusk on Wednesday; the snow did the watching overnight.
+- Beth uses the ferry first-aid box's last dressing on Russ; it is empty for Ch 14, where Dane wraps her palms in his shirt.
+- During the raid Ned is cuffed to the town office back-room pipe; Tess leaves him at the shot. Russ's shotgun ends with Tess, who guards the prisoners with it.
+- Nobody on the island knows the kid's name.
