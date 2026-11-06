@@ -1,0 +1,16 @@
+# Chapter 14 edit log (voice edit of draft-dialogue.md)
+
+Word count: hand count of final.md prose is about 2,010 (no shell available; counted by paragraph). Input was 2,058. Scenes by hand count: about 425 / 480 / 590 / 515 (floors 350 / 440 / 520 / 490 all met; Scene 4 trimmed by about 5 words only). Please confirm with `wc -w`; the safe band is 1,920-2,030.
+
+## Changes
+- Tic sweep (torn / pulled): "tore the skin off both palms" -> "took the skin off both palms"; "torn hands" -> "raw hands"; "his torn shirt" -> "his shirt"; "tore the shirt down its seam" -> "split the shirt down its seam"; "pulling him down by his coat" -> "dragging him down by his coat"; "pulled the bolt tight" -> "ran the bolt tight"; "pulled away up the hill" -> "drove away up the hill"; "pulled the flashlight out of her coat" -> "took the flashlight out of her coat".
+- Tightening: "before she had decided anything" -> "before she'd decided anything"; the pier opener split into two sentences instead of a "because the float" clause; "off its post on the deck" -> "off its deck post"; "Only at one point in its turn, for a second, and she felt it" -> "At one point in its turn, for a second, she felt it"; "turned the wheel to bring it back" -> "turned to bring it back".
+- Cuts: "with his free hand" (wrap); "beside her" (call on speaker); "and careful" (his hands steady); "Dane turned from the phone and said it to her face" -> "Dane turned from the phone to her"; "Later, with the boat steady, he said" -> "Later he said"; "was still on the car deck" -> "stood on the car deck".
+- Kept as is: the opener; Dane silent at the jam and wrap; "That was my good shirt." / "You don't have a good shirt."; lobster-boat line; "Last time you said that, you had hold of my coat."; "She wanted him. She was angry with him. Both were true." (only plain "wanted him" in the chapter; "wanted to be asked" in Scene 4 is a different want); the icing line; "Sunday night or not at all."; the lawyer/kid line; the father beat alone in Scene 2; "Dollar says" 1, "I don't bet" 1; Beth's one "damn you"; last line.
+- Forbidden/tic check: no Dane swearing, no "Bethie", no "your marshal", no ", which" quips, no hands "flat", no "the way a" simile, no gray faces (Russ's "gray" removed already upstream), no "since the oar", no scene-opening past-perfect block (one clause each: "He'd felt the boat turn wrong", "he had told her he loved her"), no contrast constructions found. "Gray" spelled as such in "first gray". Every boat is "it".
+- The "as if they already knew it" simile (father beat) is the chapter's one comparison.
+
+## Flags (not fixed; plot or fact level)
+- "Dane told Tess" line ("If she takes it off, we'll be inside the harbor till light") still pre-empts Beth's pier decision slightly; kept because the user's list protects the pier beats and "off the pier, inside the harbor" first appears at the pier. Consider "We'll be on the ferry till light."
+- Wrap mechanics: Dane holds the spoke with one hand and wraps with the other; with "free hand" cut, a listener may wonder who steers during the second palm. Harmless but a clause could go back in.
+- Fifth day: "at the generator in the keeper's house, he had told her he loved her" is from the dialogue draft; verify against Ch 08 in the log.

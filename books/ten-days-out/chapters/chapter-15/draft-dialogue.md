@@ -1,204 +1,285 @@
-# Chapter Fifteen: Eleven Pounds
+# Chapter Sixteen: Inside the Ledges
 
-Dane Reyes was trying to fit an eleven-pound ham into the town-office oven when Beth gave him her condition.
+The boat showing one light came up on them fast, and Beth Calloway knew in the first minute that she couldn't outrun it.
 
-"You ask me. Every time. Even when you're sure. And you never tell anybody I said yes when I didn't."
+It was half past ten, and the harbor mouth was half a mile behind them. The light swung out from behind and came up on her left, close, with an engine bigger than her own. It was a fishing boat twice as fast as the ferry, with men on its deck in its own light.
 
-He stood there with it in both hands, in Russ's flannel shirt, short in the arms. It was cold and slick under the glaze, and the kitchen smelled of cloves and brown sugar, and the oven had been built for something smaller. She meant Wednesday, and his own voice on the speaker with her three feet off.
+The side window beside her broke.
 
-His phone was still in her taped hand. She had rung the ferry board on it and asked for the boat for tonight herself, and got it. She hadn't put the phone down yet, as if the board might ring back and take it away.
+Glass came in over her shoulder and down her collar, and the cold poured in after it. Below and behind her, the passenger cabin windows went too. At the rail by her left hand Ned went down on one knee, his cuffed arm stretched up to the steel. She had never been shot at on her own boat. Her hands wanted to let go of the wheel and cover her head. She kept them on the wheel.
 
-"Give me the pig," she said. "I'll show you."
+Dane was already at the cabin door with the rifle.
 
-She reached for it, and her taped palms wouldn't close on it after all of Saturday at the co-op's vise with the steering rod, while he held the light. She held them a little away from her.
+"I'm going up top. Say go."
 
-He kept hold of it. He took her terms one at a time, as seriously as terms from a judge.
-
-"Even when I'm sure?"
-
-"Mostly then."
-
-"What if I'm sure and somebody's shooting at us? Because that's come up."
-
-"Then ask fast."
-
-"Yes," he said. "To all of it. I'd sign, but I'd have to put this down."
-
-Then she said the part he hadn't seen coming.
-
-"On Wednesday I said, 'And so do we.' I decided that for both of us, in that room. Same thing I hated you for."
-
-He didn't let her carry all of it. "I was right about what's out there."
-
-His eyes went to the window over the sink. Down the harbor, past the white water, lay the point. He only looked.
-
-"You were," Beth said. "It's still mine to say." She drew a breath. "So that part's off too."
-
-She said it to his face and then waited, her taped hands held up between them.
-
-"What's still on?" he said.
-
-"Ask me when Russ stops snoring."
-
-He looked at her mouth. He thought about kissing her here, against the stove, with glaze on his thumbs. Through the open door Russ went on snoring.
-
-He took the rack out and tried again. It hit the back wall and stopped.
-
-"That is not going in that oven," he said.
-
-"A dollar says it does."
-
-He stared at her. She had never once taken his bet. Now she was making her own, with his words. He looked at the oven, and at her, and at the oven again.
-
-Beth worked a dollar out of her coat pocket with two taped fingers and set it on the counter beside the oven.
-
-* * *
-
-Tess came in the front door with a roasting pan under one arm and the shotgun in her other hand. Beth held out her wrists for the pan. Tess walked past them and gave it to Dane.
-
-She sat at the front-room desk with the shotgun across her knees.
-
-Russ was awake now, his leg up on two cushions, his cap on.
-
-"In the pan," Beth said. "Bone end first."
-
-He set it in the pan bone end first.
-
-"On the oven floor. Lower. Turn it. There."
-
-He did exactly that and nothing else.
-
-"Is it going in?" Russ said. "It's not going in. Is he going to make it go in? He's going to try."
-
-The pan slid in across the oven floor with a soft scrape.
-
-"It's going in," Russ said.
-
-Dane shut the door on it, with a quarter inch to spare. He put a dollar of his own with hers and put both in her taped hand. She folded them into her coat pocket and buttoned it over them.
-
-"The ham is eleven pounds," Dane said, "and there are three of us."
-
-"Four," said Russ. "Who's he leaving out? Tess. Four."
-
-"Tess doesn't count," Beth said. "She's not talking."
-
-Tess didn't look up.
-
-Dane cracked the window over the sink against the oven heat. The daylight outside was going blue. Low under the point, beyond the harbor mouth, the big boat showed its one light. It hadn't moved since dawn yesterday. He shut the window.
-
-Beth stood in the doorway between the kitchen and the front room, where Russ and Tess could both see her.
-
-"Russ. Tess. He's going to ask me something, and I'm going to say yes. I'm telling you myself, so nobody ever says it for me."
-
-Tess's eyes came up off the desk to Beth's face, and stayed there.
-
-Dane stood there with the oven mitt still on one hand. He had planned nothing for this afternoon beyond supper.
-
-"You just told them the answer," Dane said.
-
-"Ask anyway." She turned to him. "Even when you're sure."
-
-He took the mitt off. His voice came out lower than he meant.
-
-"Can I kiss you? I'm asking."
-
-"Yes. Come here."
-
-He went. She couldn't put her palms on him, so she hooked her wrists over his shoulders and held her taped hands up behind his neck. He kept his own hands at her waist, clear of her palms. The oven was hot at his back. She kissed him slowly, after four days of not, in front of a man she had known since she was six, and she didn't hurry any of it. Her mouth was warm and tasted of coffee. He stopped thinking in sentences. He thought her name, and her mouth, and nothing else.
-
-Tess stood, put the shotgun under her arm, and walked out the front door onto the steps without a word. The door shut behind her.
-
-Beth watched it shut over his shoulder. She didn't let go of him.
-
-From the couch Russ said, "Well."
-
-* * *
-
-By eight it was full dark, and Dane Reyes lay on his back on the car deck with his flashlight on the underside of the bait truck and the cold smell of old herring on his face. The engine was already running. It came up through the steel into his shoulders.
-
-Nothing. He slid out and did the lumber truck, cab and load, then the crew room's two bunks and the engine room. They had slept aboard last night, and all day yesterday the boat had sat empty at the pier while the rod was in the co-op's vise, with the big boat watching from off the point. Nothing anywhere. That was the job done right.
-
-Beth sat on the steel stair outside the passenger cabin, where she could see both prisoners through the open door.
-
-At the far end of the cabin, Dane cut the kid's cable tie with Ned's knife, buckled a life jacket on him, and tied his wrists in front again with a fresh tie, and a second one through it round the bench leg. The kid's supper plate sat beside him, wiped clean. He said nothing.
-
-Ned sat in Russ's cuffs. Dane opened one cuff, worked Ned's arm through a life jacket, closed the cuff and buckled the jacket across his chest. Ned couldn't swim and had never worn one in thirty years on this boat. He looked down at it on himself and didn't seem to know whose it was.
-
-Dane clipped Russ's handheld radio to his coat and keyed it. "Tess."
-
-Her voice came back out of the radio from the town office up the road, small through the static. "Here." Then: "He's asleep. Don't call unless it's bad, Marshal."
-
-Nothing would fly in this icing before Tuesday, for Russ or for Beth, so it was this boat tonight, and Russ would wait on the couch with Tess. The prisoners crossed, because Tess couldn't nurse him and guard two men, and a kid left ashore who could name Cole's lawyer would bring the big boat's men to Russ's door.
-
-Beth came in off the stair, and Dane said it to her in front of the kid.
-
-"A text from a phone in nobody's name and Ned's word won't arrest Cole's lawyer. The kid's would. And the kid isn't talking. He's got the whole way across to think about it."
-
-The kid turned his face to the black window.
-
-Beth went out to the hatch and got down on the stiff knee, slowly. She levered the lid up with her wrists, reached down, and ran her taped thumb along the rod to the bright mark where the vise had held it.
-
-"If it sticks," she said, "I'll feel it first."
-
-Dane watched her kneel there in the deck lights, her braid down her back, checking the rod that had sent the wheel through her hands. He'd have knelt beside her and put his mouth to the back of her neck.
-
-Beth stood and shut the hatch with her boot.
-
-"Same as Friday," she said. "You're on the ropes."
-
-"On a teenager's knots and one night's practice."
-
-"The night counts."
-
-He picked up the kid's rifle from beside the cabin door. The kid's pistol was in his coat pocket. Beth went up the steel stair to the captain's cabin, and Dane followed her up.
-
-* * *
-
-A little before ten, Beth asked Dane for Ned from the wheel.
-
-"If anything happens at the ledges, I want Ned up here beside me. He knows them, and he hears breaking water in the dark before anybody sees it."
-
-"I don't like it," Dane said, to her face. "He's the man who sold you to them. Up here he's an arm's length from your wheel."
-
-"Down there he's an arm's length from the kid, and nobody's watching either one. I won't leave those two alone together. And he won't put it on the rocks."
-
-"It's your call. I'll bring him."
-
-Dane brought Ned up the steel stair. The rail was the steel bar along the side wall of the cabin, at her left hand. He opened one of Russ's cuffs and closed it on the rail, the steel cold under his hand. Ned stood a step from the wheel he had held for thirty years, with somebody else's hands on it.
-
-Dane put the cuff key in Beth's coat pocket, where she could see him do it.
-
-"Wind's going down," Ned said.
-
-"Not enough," Beth said. "In what's left of the sea the ferry can only crawl. Three hours at best."
-
-At the cabin door, on his way down to the ropes, Dane stopped.
-
-"That boat's still out there. Do we go?"
+Another shot hit the cabin while he waited for her.
 
 "Go."
 
-From the car deck he looked up at her window: her taped hands on the wheel, her face lit from below. He wanted her. He couldn't do one thing about it till they tied up at Pruett.
+He went.
 
-At her call he lifted each rope off its post and threw it clear. This time the last one came off clean. Up the road the town office window was one yellow square, where Russ would lie until Tuesday's helicopter. Dane climbed back up and took his place at her right shoulder, with the rifle.
+The upper deck was the open roof behind and above her cabin, up a ladder outside the door, with a rail round it. From up there he could see all round. From the wheel she could only see ahead.
 
-At ten she took it off the pier and across the harbor, slowly, on the last night that could get her into that room before Cole went free, with no escort and the Coast Guard an hour off. At the mouth she slowed again for the ledges, and white water showed on both sides in the deck lights. Ned turned his head toward it, listening.
+The ferry's radio speaker crackled over the engine, and his voice came out of it, thin and close.
 
-Under their own engine Dane heard a bigger one come up out of the dark off the point.
+"I'm up. I'm at the back rail. It's behind you on your left, about as far off as the length of the pier. Coming up."
 
-Beth heard it too. Her taped hands stayed where they were on the wheel.
+She found the handset with one hand. "Keep talking."
 
-"Tell me where it is," she said.
+"I'm still talking, so I'm still fine. Keep it straight."
 
-Dane took the rifle to the back window.
+Between his words she listened for his breath on the radio, and it was there.
+
+"I'm going to shoot at it. Don't look at my form."
+
+The rifle cracked behind her, three times. The one light swung away and dropped back.
+
+"It's dropping back. It's a long way behind now."
+
+"Good."
+
+"It's coming again. Behind you, on your left. Faster."
+
+If the ferry went on the rocks tonight, in this sea, everyone ashore would say the storm had done it. She couldn't turn back. The big boat was between her and the harbor mouth.
+
+She keyed the handset again.
+
+"Coast Guard. This is the Cutter Island ferry, out from the island toward Pruett. A fishing boat is shooting at us. Four of us aboard."
+
+A woman's voice came back, far off and plain. They were coming. About an hour.
+
+Then a man's voice came on the same air, calm and close.
+
+"They're an hour off, ferry. Stop your engine and give us the girl and the boy, and the rest of you go home."
+
+Every boat at sea could hear the ferry's radio. That was what it was for. Now they had the hour too. Ashore, Tess would be hearing every word, and she stayed off the air.
+
+"Beth, don't answer him," Dane said, as if nobody else were listening. "I'll do the talking."
+
+The man's voice said, "You talk a lot, Marshal."
+
+"Everybody says so."
+
+"Left side again," Dane said. "It's between you and Pruett, and it's closing."
+
+Each time she bent right to keep it off, it followed. It was pushing her toward the island's point, the long arm of land on the far side of the harbor mouth. It wanted her on the rocks.
+
+She turned the wheel toward the point. The dark shape of the land came up on her right, with white water breaking between her and it.
+
+* * *
+
+"It's behind you on your left. Close. It's keeping you on the rocks."
+
+Beth held the ferry along the outside of the white water. The sea boomed on the ledges through the broken window, and every boom came up through the wheel into her hands.
+
+The ledges ran on out along the point for a mile. Close in to the shore, inside them, there was one narrow way, and it was the pencil line on her pantry door. A boat that didn't know it would be on the rocks in a boat's length.
+
+The big boat couldn't live in there. If it saw her go in on purpose, it would sit off the far end and wait. She needed it close behind her, following her lights, when she turned. She couldn't say any of that on the air.
+
+She keyed the handset.
+
+"Dane. You still owe me an answer."
+
+"On the other side. I'd like to be looking at you when I say it. Get us there."
+
+Anyone listening had heard it. Let them.
+
+A burst of shots came out of the dark behind her and rang off the cabin wall and the ladder.
+
+"Beth. Can I tell them about the steering?"
+
+The steering was fine. She could feel every spoke of it turning true under her skinned palms. He knew that. He had never once lied to her. So the lie was for them. To them it would sound like a marshal owning up to a weakness.
+
+"Tell them."
+
+"The steering's gone."
+
+Three words from a man who talked in paragraphs. Let them think one of their shots had found it.
+
+She let the wheel go loose in her hands. The ferry swung side-on to the sea, and its nose came round to the right, toward the white water, exactly as it had swung off the pier on Friday night. The boat off the point had watched that under the fire truck's light.
+
+"It's coming in fast," Dane said. "Behind you. Close. Closer."
+
+The man's voice came over the speaker. "Shut your engine off, ferry. We'll take you off before you hit. I want you where I can count you."
+
+At the rail, Ned said, "Kind of them."
+
+The white water was right off her right hand now, and the gap was coming. She didn't turn her head.
+
+"Ned. Is this the gap?"
+
+"Alton's way. You've seen it on the door."
+
+"You've taken it?"
+
+"Never. He never took anybody."
+
+* * *
+
+She put the wheel over hard toward the shore.
+
+The ferry came round through the gap on her father's line, and the white water closed in on both sides of its nose.
+
+She steered from the drawing.
+
+Dane's voice came out of the speaker. "It's turning in after you. It's right behind you." A pause. "It's very big."
+
+Then shots, a long burst, at the upper deck behind her. "It's—" Dane's voice said, and stopped in the middle of the word.
+
+The radio hissed and said nothing.
+
+Behind her, steel hit rock.
+
+She felt it through the deck before she heard it: a long grinding crash, and the big engine screaming. The one light swung up and away.
+
+"It's on the rock beside the gap," Ned said.
+
+It had come in blind on her lights, and it was too big to turn where she had turned.
+
+The engine screamed again, and the light backed off the rock. It turned and limped off into the dark the way it had come. It floated.
+
+"Nobody's in the water," Ned said. "I'd hear them."
+
+The radio clicked.
+
+"Truck's on the point, Calloway. Light's on you."
+
+A white light came on along the shore and lay across the rocks ahead of her, and the narrow way showed black between the breaking water.
+
+In close along the shore. She brought the ferry in until the black of the point filled the right-hand windows, and she held it there.
+
+The sea broke white on the ledges to her left and on the shore rocks to her right, each wave by itself, and she steered between the two sounds.
+
+Out again where the pencil bent away from the land. She eased the wheel left, and the shore went away from her right hand.
+
+"Both sides now," Ned said. "Hold it."
+
+She held it.
+
+The third turn was coming, the tightest one, where the pencil line nearly touched the shore. If she let go now, everyone aboard went on the rocks, and Dane with them.
+
+She brought the wheel back in hard, and the ferry's side slid past the shore rocks so close she could hear the sea sucking at them.
+
+The white water fell behind on both sides. The ferry came out past the end of the point into open water.
+
+Beth keyed the handset.
+
+"Dane."
+
+The speaker hissed. Nothing.
+
+* * *
+
+Beth took the cuff key out of her coat pocket.
+
+They were clear of the rocks. Ned was the only other hand aboard who could hold the boat.
+
+She unlocked the cuff from the rail, left it hanging open from his wrist, and left him free at her wheel.
+
+"I've got it, Bethie. Go."
+
+He took the wheel where he had stood for thirty years. She went.
+
+The ladder was iced, and her taped palms burned on every rung. The wind on the upper deck hit her full in the face. Empty brass rolled by the rail. Dane lay on his back beside it with the rifle at his side and Russ's radio still in his hand. A bullet had opened a line along his ribs, and Russ's flannel shirt was soaked dark down one side. His eyes were open.
+
+"You left the wheel," he said.
+
+"You stopped talking."
+
+"I got shot. I'll start again in a minute."
+
+"Who's got the boat?"
+
+"Ned."
+
+The wall box by the ladder was empty. She pulled off her black knit hat, folded it and pressed it into his side with both taped palms. They hurt. She pressed harder.
+
+She wanted him, here, bleeding on the upper deck of her boat in a borrowed shirt, and she had never wanted anything so much in her life.
+
+"Is this the other side?" he said.
+
+"Pruett's the other side. Stay alive till then."
+
+"Is that an order?"
+
+"Yes."
+
+Blue and white lights came fast across the water from the mainland side, about an hour after her call. A Coast Guard boat swung wide of them and went on after the one light, which was far off now and fading.
+
+The radio in Dane's hand spoke. "Ferry, this is the Coast Guard. Anybody hurt?"
+
+Dane keyed it. "One. I'll live."
+
+"We're going after the fishing boat. We'll come back and see you in."
+
+She didn't think it would find anything.
+
+Dane got an elbow under himself. "Can I lean on you?"
+
+"Yes."
+
+"I want everybody aboard in one room where I can see them."
+
+She slung the rifle across her back. She went down the ladder first, backward, with his weight on her shoulder and his hand in her coat collar, the stiff knee taking both of them on every rung, toward the cabin where Ned had her boat.
+
+* * *
+
+Beth took the wheel back from Ned a little after midnight. It was warm from his hands.
+
+"Your marshal?" Ned said.
+
+"Talking."
+
+At the cabin door behind her, Dane was already talking down the steel stair to the kid. He went down holding his side, cut the tie off the bench leg with Ned's knife, and brought the kid up slowly.
+
+Ned stepped back from the wheel to the rail. He took the open cuff hanging from his wrist and closed it round the rail. Nobody had asked him. The click was the only sound he made.
+
+The kid came up the stair with his wrists tied in front of him over his life jacket. There was glass in his hair. Dane sat him on the floor against the back wall, a yard from Ned's boots.
+
+The kid talked to Dane, fast, one fact after another.
+
+"It was Cole. Through Cole's lawyer. The lawyer paid me."
+
+"He met me himself. In Portland, in his car, behind the bus station. He gave me the phone and two thousand cash."
+
+"That boat's theirs. It brings the stuff in from offshore."
+
+The kid said, "I want that written down."
+
+Dane typed it into his phone one-handed, in full sentences, with periods.
+
+"Her word puts Cole in that room," he said. "Yours puts his lawyer in it with him."
+
+Beth kept her hands on the wheel. At the rail, Ned shut his eyes.
+
+A little before four the lights of Pruett came up out of the dark. She brought the ferry in against the pier slowly, on the first try. She had never landed it before. Her hands knew how.
+
+Deputies came aboard out of the police lights, in jackets that said what they were. The first thing a deputy took was Dane's gun. Then the kid's rifle and pistol, Ned's knife, and a phone in a plastic bag, switched off. Dane handed them over without a word, holding his side.
+
+A deputy took the key from Beth, freed Ned from the rail and led him off in Russ's cuffs. At the top of the ramp he looked back once and lifted his cuffed hands. Beth didn't lift hers.
+
+The kid went separately, between two deputies, still talking.
+
+Dane went on a stretcher. Snow lay on the planks. The ambulance for Maine Medical Center stood at the head of the pier with its back doors open and light coming out of them. Beth kept her hand on the edge of the stretcher all the way up.
+
+At the doors he turned his head to her.
+
+"Ten o'clock. Will you go in without me?"
+
+If she said yes, she walked into that room alone, with Cole's people knowing her face and him in a hospital bed.
+
+The ambulance man closed the doors.
+
+The ambulance pulled away up the pier road. A deputy held a car door open for her. She got in. Six hours.
 
 ---
 ## Dialogue log
-- Scene 1: "Give it here" became "Give me the pig" (Beth's flat verdict; it also makes clear she is reaching for the ham and not the phone). Dane's terms-from-a-judge questions now sound like him: "Because that's come up." on the shooting clause, and a joke against himself when he says yes ("I'd sign, but I'd have to put this down."). New exchange after "So that part's off too.": Dane pursues ("What's still on?") and Beth puts him off by setting a condition ("Ask me when Russ stops snoring."). That leaves the kiss pending and pays off in Scene 2, when Russ is awake and she tells the room herself. The narration line about her rule went, and Russ snoring is now the beat that undercuts Dane. The four binding lines are unchanged.
-- Scene 2: Russ talks too much and answers his own questions ("Is he going to make it go in? He's going to try."; "Who's he leaving out? Tess. Four."). The second line sets up Beth's "Tess doesn't count." Tess stays silent in the room. The public yes, the kiss, the walk-out and "Well." are as written.
-- Scene 3: Tess on the radio is blunt and speaks only to Dane ("He's asleep. Don't call unless it's bad, Marshal."). Dane's lawyer line now ends on a tactic aimed at the kid ("He's got the whole way across to think about it."). The crew line now calls back to "a teenager's knots" from Ch 14 and adds a bit of adult double meaning ("one night's practice" / "The night counts.").
-- Scene 4: no line changes. Ned says only "Wind's going down." The ending is untouched.
-- Caps checked: "ham" 2 (the first line and "The ham is eleven pounds"). "Eleven pounds" appears once in the body. "I'm asking" 1. "Dollar says" 1 (Beth's). "He wanted her" 1. "Bethie", "your marshal", "I don't bet", "since the oar" and "Here's how this goes" 0. No ", which" quips. Dane swears 0. No contrast constructions. Every boat is "it".
-- Lines added: 4 (Dane "What's still on?", Beth "Ask me when Russ stops snoring.", Tess's second radio line, Dane's line to the kid; Russ's additions sit inside his existing lines)   Lines cut: 0 dialogue (one narration sentence about her rule removed)
-- Prose words: about 1,975 by hand count (draft 1,933, about +60 added and -18 cut), inside 1,900–2,030. Orchestrator to confirm with wc.
-- Tag-strip test: pass. Beth uses short imperatives and conditions. Dane speaks in longer lines with "because" and turns jokes on himself. Russ asks and answers his own questions. Tess is curt and uses surnames ("Marshal"). Ned gives one weather line.
+- Scene 1: Dane gets a joke against himself on the air before he fires ("Don't look at my form."). Beth gets a one-word verdict ("Good.") that his next line overturns at once. The narration about the big boat coming up on the Pruett side is now Dane's radio line ("Left side again... between you and Pruett, and it's closing."), so the map stays in his where-it-is voice. Cut the boots beat, trimmed the Coast Guard lead-in to "She keyed the handset again.", and cut the Tess-silence paragraph down to one clause. Cut the duplicate "behind her too" position line.
+- Scene 2: Dane's "On the other side" answer now carries the longing in his shape ("I'd like to be looking at you when I say it."). That length also sets up the three-word lie as the odd one out. Cut "They wanted her in their hands tonight..." because the man's lines and Ned's "Kind of them" already show it. Folded the Friday-night swing into one sentence. Cut "quietly" and "by her left hand" from Ned's laugh.
+- Scene 3: Tightened the shots-and-silence beat. Cut "his head turned to it", "She made the turn." and "Then the narrow way opened ahead." The action says all three. Shortened the limp-off.
+- Scene 4: Cut "He looked at her face and didn't argue." (gaze choreography), so "Ned." stands alone. Added Dane's tease and her order after "Stay alive till then." ("Is that an order?" / "Yes."). Trimmed the palms sentence.
+- Scene 5: Cut the narrated "It was true." The next sentence shows him talking. Otherwise unchanged. The kid's statement, "I want that written down", the pier and the unanswered "Ten o'clock" stand as revised.
+- All lines on the keep list are intact. No issues.md fix was reverted. Dane swears 0. No "I'm asking", "Dollar says", "I don't bet", ", which" quips, "Here's how this goes" or "since the oar". Every boat is "it". No contrast constructions added. No family in the tender beats.
+- Lines added: 4 (Dane "Don't look at my form."; Beth "Good."; Dane "Is that an order?"; Beth "Yes."), and 2 lines expanded (Dane's Pruett radio line replacing narration; Dane's "other side" answer).   Lines cut: 0 spoken lines; about 14 narration sentences or clauses cut or merged.
+- Word count: estimated at about 2,320 prose words (draft 2,406). No shell was available, so the orchestrator should run `wc -w`.
+- Tag-strip test: pass. Dane uses long, present-tense where-it-is lines, a joke against himself and one long line of longing, then goes short only for the lie. Beth gives orders and one-word verdicts ("Go." "Keep talking." "Good." "Tell them." "Yes."). Ned speaks in slow understatement and calls the water. The man speaks calm imperatives with "ferry". The kid gives fast runs of facts.

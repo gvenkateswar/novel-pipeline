@@ -1,31 +1,31 @@
-# Chapter 17 · In the Room · Beat Sheet
+# Chapter 18 · The Right Boots · Beat Sheet
 
-*Plot-architect, Nov 6, 2026. Book folder: `books/ten-days-out/`. Sources: the `outline.md` Ch 17 entry and every closing section of `outline.md` (audit answers A14, A18, A22, A23; round 2 fixes N1–N12; the Ch 12–16 carry-forwards; the icing line; the Predictability note; the Ch 15 reader-fix carry-forwards). Also `continuity-log.md` (logged through Ch 14), `chapters/chapter-16/beats.md` and `chapters/chapter-16/draft.md` (Ch 16 as it stands), `chapters/chapter-15/final.md` (being fixed; the carry-forward governs: Beth has already answered "I love you"), `story-bible.md` (voices, HEAT RULES, PLAIN LANGUAGE, MOTIF LIST, the courthouse and hotel entries; the outline and log win where it's stale), `book-brief.md` ("For the author's next bible review"), `genre-maps/romance.md`, and `research/domain-check-v4.md` §1, §3, §9, §12, §15 (the grand jury and courthouse facts; `research/domain-check.md` doesn't cover them).*
+*Plot-architect, Nov 6, 2026. Book folder: `books/ten-days-out/`. Sources: the `outline.md` Ch 18 entry and every closing section of `outline.md` (audit answers, round 2 fixes N1–N12, the Ch 12–17 carry-forwards, the Predictability note, the Ch 15 reader-fix carry-forwards, the Ch 16 cold-read carry-forward on New Bedford); `continuity-log.md` (logged through Ch 15); `chapters/chapter-17/beats.md` and `chapters/chapter-17/draft.md` (ends "Will they let me off the boat?" / "Ask them."); `chapters/chapter-16/final.md`; `chapters/chapter-01/final.md` ("Ask me again in ten days"); `story-bible.md` (voices, Tess, Russ, Ned, Dane's boat [DC §13], the calendar; the outline and log win where it's stale); `book-brief.md` (series opener, packaging, "Tess doesn't forgive Beth in this book"); `genre-maps/romance.md`.*
 
 ---
 
 ## Flags before the beats
 
-None of these blocks the chapter. Flags 1–4 change how things happen against the outline's Ch 17 entry. Nobody wins, loses or ends up together differently, and every outcome in the outline still lands: Beth testifies, the lawyer is arrested at the door on the kid's sworn word, she says yes in the room, she asks him to stay, he says what he wants, Cole goes to trial and stays in, and heat #4 happens in a Portland hotel. The orchestrator should confirm 1–4 and report them to the author.
+None of these blocks the chapter. Flags 1–3 change how things happen against the outline's Ch 18 entry. Nobody wins, loses or ends up together differently. Every outcome in the outline still lands: the leaking boat and the lost bet, the right boots, the captain's job in June, the Maine office, Ned's letter and his son in treatment, Tess and Russ out in the open with the pie and "Calloway", Russ on a cane, the one light offshore, the ham, everyone fed. The orchestrator should confirm 1–3 and report them to the author.
 
-1. **PLOT CHANGE (how it happens): she asks before she'll hear the vote.** This is the Predictability note's main turn. The reader expects her to testify and walk out to the news that Cole's been charged. **Settled:**
-   - Plain procedure: the grand jury decides after the witness leaves the room, and nobody tells her the result in the hall. Beth walks out not knowing.
-   - Dane has the result on his phone from his boss before she reaches the bench.
-   - He holds it up to tell her. She puts her taped hand over the phone and asks first: "Will you stay? I'm asking." For the first time in the book she puts what she wants ahead of the case, and the case gets settled second, in one text.
-   - *What this keeps:* every outcome (the vote, Cole stays in), "she asked first" [A23], the book's last "I'm asking", and Dane deciding nothing for her. He offers the news and she defers it herself.
-2. **PLOT CHANGE (what it costs): the boat was his way out.** The reader expects "Dane moves to Maine and buys the boat," and it still happens (Ch 18). The turn is in what he admits. The bible lists it as the thing Dane is afraid she'll find out: he's been looking at boats for two years because he wanted out of the job, and he has never told anyone. The worse boat he wants now is one that keeps him tied up where she is. Then he names what ends today: after today nobody pays him to watch her door. So he asks to watch it anyway. The outcome is the same and the meaning is reversed.
-3. **ADDITION (who asks): a juror asks the question Dane has dreaded.** The outline has the prosecutor ask about the relationship [A18], and that stays. Then a juror asks Beth whether the deputy ever told her what to say. That's the fear Dane has carried since the first kiss (Ch 03), asked by one of the ordinary people it was about. Beth answers with a laugh line and a plain fact, and the room moves on. *For the domain checker at the manuscript stage:* grand jurors questioning a witness is ordinary practice (working knowledge, marked unclear in `domain-check-v4.md` §3).
-4. **ADDITION: a short coda scene (Scene 5) for the end question.** The outline's s3 is the hotel and nothing after it. The end question ("Will the island take her back, and take him?") can't be set up inside the heat scene without bringing her people into it. So it gets its own short scene, after a break: Russ's text. **Russ flown out:** his text says they're flying him out in the morning, when the icing lifts. That's Tuesday, which keeps the icing line. Ch 18 can confirm it in past tense in one clause, or drop it if Scene 5 is cut.
-5. **POV:** Scenes 1–2 Beth, Scenes 3–5 Dane, following the outline's "Beth, then Dane." Scene 3 names Dane in its first sentence. Scene 5 stays in Dane.
-6. **Scene count:** the outline has three scenes. This sheet has five, because the door and the room are separate events and the coda is flag 4. Total words stay at the target.
-7. **"Two days late" is dropped (outline s2, A23).** It counted from "Ask me in five days" (Ch 08), but Beth paid that line in Ch 15, when she answered his "I'm in love with you." A "late" joke now would point at a debt the book has already settled. No "five days" anywhere.
-8. **The lawyer is just inside the door,** by the security line. The binding opener has her walk *into* the courthouse, so he can't be outside on the step. "At the door" [DC] still holds.
-9. **Bible stale:** CASE FACTS says Beth tells the grand jury "when a juror asks." The outline [A18] has the prosecutor ask about the relationship. Followed: the prosecutor asks about the relationship, and the juror asks a different question (flag 3). The bible's "bandaged hands" become **taped palms** (Ch 14–16 usage). Her hands were skinned on the wheel, never burned.
-10. **"Dollar says" ledger conflict.** The orchestrator's note says 2 of 4 used. The Ch 15 carry-forward says Ch 15 spent the last use and Ch 18's bet uses other wording. Ch 17 uses **zero** either way, so the conflict doesn't bite here. The orchestrator should settle the count before Ch 18. "I don't bet" stays at zero (Ch 18 has the last).
-11. **"Good coat": once at most,** as the lawyer's one marker, on his first appearance in person. The cap is 5 and the count so far isn't in the log, so the orchestrator should check it. If it's at cap, his coat is "a coat that cost more than her truck" and the words "good coat" don't appear.
-12. **Which side Dane is hit.** The page hasn't said. **Set:** his left side. Beth sits on his right on the bench, and the dressing runs along his left ribs in Scene 4. For the continuity log.
-13. **Who pays for the hotel:** Beth, at the desk, on her own card. Nobody is protecting her after today (the program is off: Ch 14), and she owes nobody a dollar on purpose (bible). One clause.
-14. **The worse boat stays vague.** No year, no price, no leak. Ch 18 needs the leak and the bet fresh.
+1. **PLOT CHANGE (who makes it happen, and what it costs): the captain's job.** The cold reader predicts the job in June at 85–90%. It still happens, but the reader won't see who does it.
+   - **The cost (Ned):** Ned's letter from jail says he has written to the board and taken his name off his letter for her, because a letter from a man charged with running drugs on that ferry would cost her the job. He tells her to get somebody from the island to speak for her. This is his small, true last beat. It's an act. It isn't an apology, it asks for nothing, and it doesn't excuse him.
+   - **Who (Tess):** Beth does the hardest asking of the book. She asks Tess, who isn't speaking to her, to speak for her to the board. Tess wrote to the board on Tuesday, unasked, before she had forgiven anything, and she still hasn't.
+   - *What this keeps:* the job in June (the board's formal decision is still June; until then the board has Beth running the ferry); "it isn't forgiveness"; Tess not forgiving Beth in this book (book brief, approved); Beth's need (ask out loud and let someone give it to her).
+2. **PLOT CHANGE (how): the boat is the one he came to see.** Dane bought the boat by phone on Tuesday without seeing it. It's the boat in Pruett he was driving up to look at on the Saturday the call came (Ch 01). It came across on Beth's car deck on Wednesday, her first run as the board's captain. It's on Russ's empty mooring, since Russ's own boat is on the rocks (Ch 02). One clause each. The outcome (the worse boat, leaking, Beth bails) is unchanged.
+3. **PLOT CHANGE (the Book 2 hook gets a fact): the kid says he never planted the phone.** The phone behind the bait truck's back wheel (Ch 15) went to the deputies at Pruett (Ch 16). Dane reports at the table that the kid swore he never put it there, so somebody on Cutter did. Russ takes it as his job, and Tess says "We." That, the big boat, and the one light make the hook. **New fact for the bible and the series bible.**
+4. **Ned's letter moves from s1 to s2.** The outline puts it at the boat. Scene 1 is the chapter's most tender scene, so no Ned there (the author's rule on tender moments). It goes to Scene 2 at her father's table, which isn't a romantic beat.
+5. **The New Bedford risk is faced in Scene 5.** Russ asks it plainly, and Dane answers what is different now. He doesn't promise anything and watches the door anyway. Ch 17 named the big boat and the spring trial but didn't answer New Bedford, so this closes the Ch 16 cold-read carry-forward.
+6. **Russ flown out Tuesday and back:** one clause, past tense (Scene 3). He was flown out Tuesday, and came home on her ferry Wednesday night with a cane. *Domain check at manuscript stage:* discharge in about a day after a thigh wound that went five days on a pressure bandage. Fallback: "home Wednesday night against the doctor's advice," which echoes Dane and is a laugh. The writer picks one.
+7. **New facts (for the log and the bible):** Dane is on medical leave until he starts at the Maine office in January. The deputies kept his gun at Pruett, and it's still in Portland (no gun at Thanksgiving, said once). He's living in Beth's house, and he plugged the bullet hole in her front door (Ch 13) and put a bolt on it. Beth is the board's captain until the June decision. Russ's mooring.
+8. **Stale against the page:** the book brief has Dane's boat as "a 1966 Webbers Cove 34." The bible [DC §13] corrects it to a wooden lobster boat (Webbers Cove hulls are fiberglass), and that's followed here. The bible's Ch 18 line "She'll take up in a week" is "It'll take up in a week" (outline r1). The bible's "the dragger's lights" becomes "one light, far out" [A20]. Nobody names it.
+9. **The commute is off the page on purpose.** Portland is two hours plus an hour's ferry from Cutter. The Maine office starts in January, after the book. If the plot auditor asks, it's January's problem, and the series bible can carry it.
+10. **Caps (from the caller and the log):**
+    - "Dollar says": **1** (Dane, Scene 1), which makes 3 of 4. "I don't bet": **0**, so 1 of 2 goes unspent; that's fine.
+    - "Bethie" 0 (Ned's letter opens "Beth"). "Your marshal" 0. "I'm asking" 0. Dane swears 0. "Ten days" 1 (dialogue, Scene 5).
+    - "Calloway" from Tess: up to 3. "Beth" from Tess: exactly 1 (Scene 4).
+    - "Ham": as needed, at most 4. "Marshal" from Beth: at most 2. "The government" 0. "Keeping count" 0. "Look/looked back" 0.
+    - The wanting refrain ("She wanted him"): at most once, Scene 1 only.
 
 ---
 
@@ -33,297 +33,285 @@ None of these blocks the chapter. Flags 1–4 change how things happen against t
 
 | Item | Value |
 |---|---|
-| POV | **Beth** (Scenes 1–2), then **Dane** (Scenes 3–5), close third, past tense. Each viewpoint character is named in the first sentence of their first scene. |
-| **Chapter total target** | **2,140.** Scenes: 310 / 400 / 450 / 830 / 150. **Floors:** 280 / 360 / 410 / **800** / 130 (sum 1,980). Heat floor 800, with at least 500 words of intimate action played in real time (HEAT RULES). The writer runs ±10%; the orchestrator's check is ±8%. |
-| Time | Monday Nov 23. Scene 1 about a quarter to ten; Scene 2 about ten to half past; Scene 3 a little after eleven; Scene 4 early afternoon; Scene 5 a little after four (sunset about three minutes past four; it's going dark). |
-| **Opens with (binding)** | **"Beth Calloway walked into the federal courthouse in borrowed shoes, with a marshal's blood still under her fingernails."** That's her answer to "Will you go in without me?", given in action. The next sentence is in motion: the man by the security line stepping toward her. No catch-up block, no past perfect, nothing from Pruett to Portland. |
-| Shape | **The courthouse.** Ch 16 was loud, dark and at sea. Ch 17 is quiet and indoors, a town in daylight: a lobby, a closed room, a park bench, a warm hotel. The danger is gone from the body and moves into words said in front of strangers. Scene 4 is the warmest the book has been. |
-| Register | Beth in public: plain, short and true, at the cost of saying it to strangers. Dane on the bench: his long sentences built on "because," for once with no joke at the end of them. Dane in bed: quiet out loud, with his interior long. Beth in bed: what she wants, said plainly. |
-| **The turns** | S1: the lawyer is arrested in front of her, after she has said yes to his face. S2: it's on the record; she says yes in the room. S3: she asks before she'll hear the vote; he admits the boat was his way out; he asks to watch her door. S4: he says he loves her and she says "Again"; he stops watching the door. S5: the island is waiting. |
-| End question | *Will the island take her back, and take him?* Asked as Dane's question at the end of Scene 5, with the cost in one line before it, and left open: "Ask them." |
-| Swears | Dane: **zero** (binding). Beth: zero planned. Nobody else on the page swears. |
-| Heat | **#4, open door, level 4, Dane's POV, Scene 4.** Grows out of the declaration (S3), never the other way round. Consent and protection on the page. **No family member, no Ned, nothing of her father's, in Scene 4 or the lines leading into it.** |
-| Danger | None physical (outline pacing flag 9). The tension lives in the lawyer at the door, the closed room, and the risk Dane names on the bench: the big boat is still out there, and there's a trial in the spring. |
+| POV | **Beth** throughout. Close third, past tense, named in the first sentence. |
+| **Chapter total target** | **2,050.** Scenes: 450 / 320 / 400 / 450 / 430. **Floors:** 410 / 290 / 360 / 410 / 390 (sum 1,860). The writer runs ±10%; the orchestrator's check is ±8%. |
+| Time | Thursday, Nov 26, Thanksgiving. Cold and clear. Scene 1 is from about half past eleven to noon. Scene 2 is about one. Scene 3 is about two, through dinner. Scene 4 is about half past three. Scene 5 is about half past four, after sunset (about one minute past four), full dark. |
+| **Opens with (outline)** | **"Beth Calloway bailed out Dane Reyes's brand-new old boat on Thanksgiving morning, laughing too hard to do it well."** The next sentence gives the reason she's laughing, in motion: Dane bailing with his coffee mug. No catch-up from Monday. |
+| Shape | **The holiday table.** Ch 17 was strangers, a city and a hotel. Ch 18 is home: her harbor, her kitchen, her people, all in daylight going to dark. No physical danger (outline pacing flag 9). The tension is social: Tess's silence, the board, the stranger at the table, and the risk that hasn't gone. |
+| **The turns** | S1: she makes her first blind bet, on his boat, and loses. S2: Ned has taken his name off her, and she decides to ask Tess. S3: Dane asks the island to its face, and it answers. S4: Beth asks Tess; Tess already did it; they settle the terms with the whole truth, unforgiven. S5: the risk named and not promised away; the hook; he bolts the door anyway; the last line. |
+| HEA | A scene, never a summary: the boat, the job, the Maine office, the house, the island's yes, the two of them at the door. |
+| **Series hook (plain enough to repeat)** | Somebody on Cutter put that phone behind the bait truck's wheel, the boat that came for the ferry is still out there, and Russ and Tess are going to find out who. |
+| Swears | Dane **zero** (binding). Everyone else zero planned. |
+| Heat | None. Warm and physical only: a hand, a knee, a shoulder. |
+| Danger | None physical. The risk is named in Scene 5. |
 
-### Grand jury procedure, plain (binding; domain-check-v4 §1, §3, §15)
-Say each of these once, in plain words, where it matters. The book glossed "grand jury" in Ch 02, so don't gloss it again; show it.
-- The room is upstairs. **No judge. No lawyer for Cole. No lawyer for her. No Dane.** Present are the jurors (about twenty ordinary people at tables), the prosecutor (a woman), and a woman at a small machine typing down every word. Never say "court reporter."
-- Beth swears to tell the truth and answers the prosecutor's questions. A juror may ask her a question too.
-- **They decide after she leaves the room, and nobody tells her in the hall.**
-- If they vote to send him to trial, there will be a trial in the spring, and she'll tell it all again with Cole in the room.
-- A deputy can't go into the room. Dane waits across the street by choice, and Scene 3 says why in one line.
-- **Words never on the page:** indictment, indicted, subpoena, true bill, preliminary hearing, detention hearing, probable cause, AUSA, court reporter, material witness, WITSEC, AMA. Use "voted to send him to trial," "the hearing," "the prosecutor," "against the doctor's advice." The terms that need explaining (sworn, the vote, the trial) take one plain clause each.
-
-### Gear, bodies and custody at the open (from the Ch 16 draft, the bible's DC entries and flag 12)
-- **Beth:** her own clothes from the ferry; a woman deputy's spare shoes, half a size small. Palms skinned on the wheel (Ch 14) and opened again on the ferry (Ch 16), taped. A healing cut across her knee from the cove (Ch 10), stiff. Dane's blood under her nails from the hat she pressed into his side. No phone of her own (hers drowned in Ch 07).
-- **Dane:** eleven stitches along his left ribs under a white dressing, from a bullet that opened a line along them. A scan says nothing inside is hurt. Orders not to lift anything. He signed himself out at nine against the doctor's advice. He's wearing a hospital gift-shop sweatshirt (Russ's shirt was soaked through). **No gun:** the deputies took it at Pruett. He has his phone.
-- **The lawyer:** free until he walks into the lobby. His marker is the coat (flag 11). He's unnamed.
-- **The kid:** in custody. He swore to his statement at dawn. Off the page.
-- **Ned:** in custody. Off the page and never named in Scenes 4–5.
-- **Russ and Tess:** on the island. Russ is on the town office couch, and the flight comes when the icing lifts on Tuesday. Russ appears only as a text in Scene 5.
+### Gear, bodies and facts at the open
+- **Beth:** her palms are healing pink and lightly wrapped (Ch 14, 16, 17). The cut on her knee is healing and stiff. Her orange work coat and black knit hat. She ran the ferry Wednesday as the board's captain.
+- **Dane:** eleven stitches along his left ribs, and nothing to lift heavier than a mug (doctor's orders). On medical leave. **No gun** (the deputies kept it at Pruett). New boots from Tess's store, the right ones. Living in Beth's house.
+- **Russ:** on a cane. He was flown out Tuesday and came home Wednesday night on her ferry.
+- **Tess:** fingerless gloves and a red work vest. She still isn't speaking to Beth, beyond "Calloway."
+- **Ned and the kid:** in custody in Portland, off the page. Ned appears only as his letter (Scene 2).
+- **The planted phone:** with the deputies since Pruett.
 
 ### Tic guards for this chapter
-- **Caps:** "I'm asking" **once** (Beth, Scene 3, the book's last). "Bethie" 0. "Your marshal" 0. "Dollar says" 0. "I don't bet" 0. "Say go" 0. "Talk to me" 0. "Okay" 0. "Ms. Calloway" 0 (the lawyer calls her "Beth"; see Scene 1). "Here's how this goes" 0. "Good coat" ≤ 1 (flag 11). "The government" 0 (count unknown). "Keeping count" 0. "Forty-one" 0. "Ten days" **0**: say "since Thursday night" or "all week." "Cole walks" 0. "Look/looked back" 0 (the audit regex catches any form). "Other side" ≤ 1, in dialogue only. "He wanted her" or "She wanted him" as a refrain: **at most once in the chapter**. It's allocated to nobody; use other plain words for wanting.
-- **Never:** Dane swearing; Dane's ", which…" quips; "Here's how this goes"; hands laid "flat", and "flat" anywhere; "the way a…" similes; gray faces; "torn" or anything done with teeth (Dane's wound is "the stitches along his ribs," "the bullet line"; Beth's palms are "skinned" and "taped"); "since the oar"; "trust me," "you're safe," "I've got you"; "I'm not going anywhere"; "Fair."
-- **No contrast constructions** ("not X but Y," "X, not Y," "less X than Y," "rather … than," "instead of" as a pivot). Every suggested line below has been checked. The writer checks Beth's answers in Scene 2 and Dane's declaration in Scene 3 again.
-- **Don't quote earlier lines back in narration or re-gloss anything.** No narrated "the other side," "Ask me in five days," "Don't say it yet," "She'll go," "Not all of her," "You ask me. Every time." Characters may speak a callback where this sheet places one. Narration never points at one.
-- **No family inside a tender moment.** Scene 4, and the lines leading into it, hold only the two of them: their bodies, the room, the cold outside, what they say. No Ned, no father, no Tess, no Russ. Her people come back only in Scene 5, after a scene break.
-- **No past-perfect catch-up** at the top of any scene. Every scene opens in motion.
+- **Never:** Dane swearing; Dane's ", which…" quips; "Here's how this goes"; "flat," and hands laid flat; "the way a…" similes; gray faces; "torn," or anything done with teeth; "since the oar"; "trust me," "you're safe," "I've got you"; "Fair"; "Okay."
+- **No contrast constructions** ("not X but Y," "X, not Y," "less X than Y," "rather … than," "instead of" as a pivot). Every suggested line below has been checked. The writer rechecks Tess's lines in Scene 4 and Dane's answer in Scene 5.
+- **No narration quoting earlier lines back, and no re-glosses.** Callbacks live in dialogue only, where this sheet places them: "Ask them" paid by Dane's question in Scene 3, "Ask me again in ten days" paid in Scene 5. The narration never says "she'd never bet on what she couldn't see." Dane's face carries that.
+- **No family inside a tender moment.** Scene 1 (the boat) and the last exchange of Scene 5 hold only the two of them. **The trap in Scene 1:** it's a wooden lobster boat, and the bank took her father's. Don't name him, his boat, or anything of his in Scene 1. Her father's table and drawer belong to Scene 2, which isn't a romantic beat.
+- **No past-perfect catch-up** at the top of any scene. A single past-perfect clause mid-scene is fine (the boat's history, Russ's flight).
 - **Every boat is "it."**
-- **The ending isn't a single ominous image.** It's a question, its cost, and a two-word answer that hands the question back.
+- **The last line isn't an ominous image.** The one light is mid-scene in Scene 5. The book ends on the two of them talking.
 
-### Plain language (at most two legal or boat terms per scene, each explained once)
-- S1: "sworn" (one plain clause: the boy from the ferry put his name to it at dawn). "Arrest" is plain.
-- S2: "the vote" and "a trial in the spring" (plain); "swear to tell the truth" (plain). No other terms.
-- S3: "the Maine office" (already in the book). No new terms.
-- S4–S5: none.
+### Plain language
+- S1: "take up" (one plain clause: the planks dried out all fall on land, and in the water they swell until the seams close). "Mooring" is plain enough; it needs no gloss.
+- S2–S5: "the board" (already in the book). No other terms.
 
 ---
 
 ## Scene 1
 
-**Setting:** The lobby of the federal courthouse in Portland, just inside the main door on the corner of Federal and Market, about a quarter to ten on Monday morning. Daylight through tall windows; a security line with a belt and a metal frame to walk through; stone underfoot. **Sensory anchor:** the borrowed shoes pinching at the heel on stone. A second anchor: the lobby's warmth after the cold street, and the smell of wet wool coats.
+**Setting:** Dane's boat on Russ's empty mooring in the island harbor, about half past eleven to noon. Cold, clear and still. The ferry lies at the stone pier across the water. **Sensory anchor:** cold water over her ankles in the bottom of the boat, and the scrape of the bucket on the planks. A second anchor: the right boots.
 
-**Characters present:** Beth, Cole's lawyer, two deputies (unnamed, one marker each at most), and the woman deputy who drove her (one marker: the shoes are hers).
+**Characters present:** Beth, Dane.
 
 **Point of view:** Beth.
 
 **Want:**
-- **Beth** wants to get up the stairs and into that room without being slowed down.
-- **The lawyer** wants her shaken before she sits down in front of strangers.
+- **Beth** wants his boat to float. That's a want for him she can do something about with her hands.
+- **Dane** wants her to be in his boat, and to win one bet off her he didn't rig.
 
 **Surface action:**
-1. **The binding opener.** Then, in motion: a man steps away from the wall by the security line and into her way. He's polite and unhurried, and his coat cost more than her truck (flag 11).
-2. **He uses her first name.** "Beth." Then: "I represent Cole Varney." Then the bible line: **"I hear the marshal's been keeping you warm."**
-3. **Her verdict on him, in one plain sentence (her habit of thought).** Something like: he was a man who could find out what street a sick boy slept on and make it sound like a kindness. Then her reaction at true size, in her body: her taped hands want to close, and she lets them.
-4. **She answers straight (outline, binding):**
-   - Beth: **"Yes. I'll say so in there."**
-   - That's all she gives him.
-5. **The arrest [DC, A14].** Two deputies come in through the door behind him. One says his name and **"You're under arrest,"** and they take his arms. One line of Beth's interior gives the reason plainly: the boy from the ferry had put his name to it at dawn, sworn to it, and that made two people saying the same thing about this man, which was enough. (Domain-checked: "arrested," never "taken for questioning.")
-6. **The laugh.** The lawyer, cuffed and still polite, says to the deputy: "I'll want my coat." The deputy says: "You've got it on." *(Option, if the writer wants more menace than laugh: the lawyer, looking down, says "Mind those shoes. They're not yours." The deputy's line is the default.)*
-7. **Longing, plain.** She wants Dane at her shoulder so badly that she looks for him in the glass of the door, and he isn't there, because she said she'd go in without him. Don't make that last clause a recap. Keep it to the look in the glass.
-8. **Through security.** She puts nothing in the tray, because she has nothing. She walks through the metal frame. The woman deputy points her to the stairs.
+1. **The opener.** Then the reason she's laughing: Dane sits on the engine box bailing with his coffee mug, one cup at a time over the side, because the doctor said he could lift a mug.
+2. **The laugh.** Dane: "I can't lift anything." / Beth: "I know. I'm bailing." *(Or the writer's own.)*
+3. **What it is (Beth's interior, one or two plain lines, no father):** a wooden lobster boat older than both of them, cedar planks gone gray. He bought it by phone on Tuesday without seeing it. It's the boat in Pruett he was driving up to look at on the Saturday he got the call instead (flag 2). One clause: it came across on her car deck on Wednesday. Beth's verdict: "You bought a boat you never saw." Dane: "I'd seen eleven. I knew what I'd get." / "Leaks." / "I knew it would leak."
+4. **Her verdict on it, plain (bible line, revised):** **"It'll take up in a week. Till then you bail."** Gloss "take up" in one clause.
+5. **The right boots (the title).** She looks at his feet. Beth: "Those are the right boots." / Dane: "Tess charged me full price." / Beth: "She charges everybody full price." / Dane: "She called it the marshal price." No narration about the first-night boots.
+6. **The job, one line in Beth's head:** the board has her running the ferry until June, when they decide. Across the water she can see it at the pier, and from its cabin she'll be able to see this boat every time she comes in. Don't point at Ch 17's line. Just let her see it.
+7. **The bet (book "Dollar says" 3 of 4):** Dane: **"Dollar says we're still bailing at noon."** Beth looks at the seams. She can't see into the planks. **"Done."** Dane stops with the mug in the air and stares at her. His face is the whole callback, and it isn't narrated.
+8. **Longing (the chapter's one wanting refrain, optional, here only):** she wanted him in his right boots on his leaking boat, and she said so to herself in those words. Or a plain variant: she watches his mouth while he talks about the engine.
+9. **Noon** (his phone, or the church bell across the harbor if the writer wants sound). The water is back over her ankles. She has lost. She pays at once, a wet dollar out of her coat pocket into his hand, because she owes nobody a dollar. He puts it in his shirt pocket over the stitches.
 
-**Turn:** She has said yes to the enemy's face before she says it in the room, and he's gone before she reaches the stairs.
+**Turn:** For the first time she bets on something she can't see. It's him, really, and she loses happily.
 
-**Longing:** step 7.
+**Longing:** step 8. Also the cold water and his warm hand when she pays.
 
-**Laugh:** "I'll want my coat." / "You've got it on."
+**Laugh:** the mug; "Tess charged me full price" / "She called it the marshal price."; "Done."
 
-**Subtext:** He came to make her ashamed of the one thing she's decided not to be ashamed of. She has already priced it in (Ch 03: if they ask, she says yes). The book's most frightening voice gets arrested in the middle of being polite, and she never raises hers.
+**Subtext:** She knows wooden boats and knew she'd lose. She took the bet because she wants it to float for him. He came here for a boat and got her. Neither of them says that.
 
-**Tension source:** Interpersonal: a stranger who knows her name, and her bed, three minutes before she testifies. Internal: she is alone, by her own answer.
+**Tension source:** Situational and small: the boat is slowly filling. Internal: the job is hers only until June.
 
-**Ends on (ending type: action):** Beth climbs the stairs, one hand on the rail and the bad knee taking each step, toward the room upstairs.
+**Ends on (ending type: action, then a line):** the dollar in his shirt pocket. Optional close: Dane: "I'm keeping this one." / Beth: "Bail, Marshal." (He's holding his mug.) Never "keeping count."
 
-**Texture budget (2):** the borrowed shoes on stone; the coat.
+**Texture budget (2):** the mug bailing; the right boots.
 
-**Plants:** the trial in the spring is coming (→ S2, S3). **Payoffs:** the lawyer (Ch 03, 10, 12, 16); the kid's statement, the second witness (Ch 16, A14); "keeping you warm," the cost of sleeping with the witness (Ch 03); "Will you go in without me?" (Ch 16 end), answered by the opener.
+**Plants:** the board in June (→ S2, S4). **Payoffs:** Dane's boat (Ch 01, 08, 11, 17); the boots (Ch 01, the title); the bet, her first blind one (Ch 06, 14, 15); "don't lift anything" (Ch 17); where she can see it from the ferry (Ch 17), unspoken.
 
-**Word count target:** 310. **Floor 280.** If it runs long, step 3 drops to the verdict sentence only and step 8 to one clause. Never cut the opener, "Beth.", "I hear the marshal's been keeping you warm," "Yes. I'll say so in there.", the arrest with its one-line reason, or the coat exchange.
+**Word count target:** 450. **Floor 410.** If it runs long, step 3 drops to the phone purchase and the Pruett boat, and step 6 to one clause. Never cut the opener, the mug, "It'll take up in a week. Till then you bail.", the boots, the bet and "Done.", or the dollar paid.
 
 ---
 
 ## Scene 2
 
-**Setting:** The grand jury room upstairs, about ten to half past. An ordinary room: tables in rows, about twenty people of every age in work jackets and cardigans, a window onto the gray street, a jug of water. The prosecutor stands at a small table at the front. A woman sits at a little machine, typing every word. **Sensory anchor:** her own voice in a quiet room, sounding smaller than it does on her deck. A second anchor: the typing, which stops each time she stops.
+**Setting:** Beth's kitchen, about one. The woodstove is lit and a ham is in the oven. Her father's table, and the drawer under the counter that has stuck for years. **Sensory anchor:** the smell of the ham filling the house before anything else is ready. A second anchor: Ned's pencil handwriting.
 
-**Characters present:** Beth, the prosecutor (a woman), the jurors (one speaks once: an older man in a work jacket), and the woman at the machine (no lines).
+**Characters present:** Beth, Dane.
 
 **Point of view:** Beth.
 
 **Want:**
-- **Beth** wants to tell what she saw once, plainly, and leave.
-- **The prosecutor** wants the jurors to hear the hard part from Beth before Cole's side ever says it.
+- **Beth** wants to read Ned's letter once and know what to do.
+- **Dane** wants to let her read it without hovering, and he can't quite manage it.
 
 **Surface action:**
-1. **Open in motion, at the door of the room.** The prosecutor tells Beth plainly what's inside. Suggested: "Nobody comes in with you. No lawyer for you, nobody for him, no judge. Them, me, and her, writing it down." Beth goes in. **No Dane, and no reason he could come in. Say it here, once.**
-2. **The oath, one line.** She swears to tell the truth with her taped hand up.
-3. **The testimony, one sentence (A22, binding).** She tells them what she saw that Thursday night on her car deck, in plain words: the crate, the white powder, Cole Varney's face in the cab of his truck. The narration moves on. No retelling of Ch 01.
-4. **The prosecutor's question (outline, A18, binding).** It's asked plainly, with her reason said aloud for the jurors: Cole's lawyer will raise it at a trial, so she wants them to hear it from Beth first.
-   - The prosecutor: "Are you in a relationship with the deputy marshal who protected you?"
-   - Beth: **"Yes."**
-   - The prosecutor: "Does that change anything you saw?"
-   - Beth: **"No. I saw it six hours before I ever met him."** *(Checked: about nine at night to a little before three. That's her logic, and it's airtight.)*
-   - **The cost, said aloud (outline: "It costs her, and she says it").** Beth: "I've never said that to a room full of people before. I'm saying it." It's said plainly, with no apology. The prosecutor doesn't look surprised (bible).
-5. **The juror (flag 3).** An older man in a work jacket raises his hand, and the prosecutor nods to him. "Did he ever tell you what to say?"
-   - Beth: **"He tried telling me what to do once. It didn't take."** A few people at the tables laugh, and so does the woman at the machine.
-   - Then Beth, plainly: "Nobody told me what to say. I saw it."
-6. **The trial (A23, binding; the risk Dane names in S3).** The prosecutor tells her plainly: they'll decide after she leaves, nobody will tell her in the hall, and if they vote to send him to trial, she'll tell it all again in the spring with Cole in the room. Beth: "Then I'll tell it again."
-7. **Out.** The hall, the stairs, the lobby, the corner door. Cold air and daylight.
+1. **Open in motion, before the letter (longing first, kept apart from the letter):** Dane is basting with his sleeves pushed up, his forearms in the steam. One plain line of Beth wanting to watch him do it. Laugh: Beth: "It's Thanksgiving. That's a ham." / Dane: "I've ruined every turkey I ever met. A ham forgives you."
+2. **The letter.** It came Wednesday in the mail bag she carried across herself. She opens it at her father's table. It's in pencil, in Ned's hand.
+3. **What it says (Ned's voice: the weather first; plain; nothing asked).** Suggested, in italics or quoted, about 70–90 words:
+   - It opens with her name, "Beth," and nothing else before it. One line of interior: she notices what he left off. **Don't print the pet name.**
+   - *Cold here. You can't see the water from anywhere in this place.*
+   - *My boy's in treatment. Second week. He says it's the worst place he's ever been. I told him that's how you know.*
+   - *I wrote the board Monday and took my name off your letter. A letter from me would cost you that job. Get somebody from the island to speak for you.*
+   - *Ned.*
+   - No sorry, no request, nothing about the beach or the road.
+4. **Her reaction, at true size and in her body.** She reads it once and sets it face down. Her verdict, one plain sentence (her habit): something like *Ned Haskell had pulled her out from under the boat on the first morning and sold her by the end of the week, and a page in pencil didn't change what that added up to.* That doesn't excuse him and doesn't hate him. Watch for contrast and "both… true" (used in Ch 14).
+5. **The turn, plain.** Nobody from Cutter has spoken for her to the board now. In June they decide.
+6. **She can't decide, so she fixes the nearest broken thing (bible habit).** She works the stuck drawer out, rubs a candle stub along its runners, and slides it back. When it runs smooth, she knows.
+7. **She tells him, to his face (adults talk).**
+   - Beth: "He took his name off my letter to the board."
+   - Dane: "Who'll you ask?"
+   - Beth: "Tess."
+   - Dane: "She isn't speaking to you."
+   - Beth: "Then she can write."
+8. She puts Ned's letter in the drawer and shuts it. It runs smooth.
 
-**Turn:** It's on the record. The thing a lawyer was going to read back slowly to strangers has been said first, by her, in her own words.
+**Turn:** Ned has stepped out of her way, at a cost to her. She decides to ask the one person who isn't speaking to her.
 
-**Longing (shown):** her answer to the juror is about Dane, said in front of strangers. One line of interior after "Yes": she wanted him to have heard her say it. That's a plain wanting line, without the "She wanted him" refrain.
+**Longing:** step 1, Dane's forearms at the stove.
 
-**Laugh:** "He tried telling me what to do once. It didn't take."
+**Laugh:** "It's Thanksgiving. That's a ham." / "A ham forgives you." Then "Then she can write."
 
-**Subtext:** Every attack in the book was meant to stop her reaching this room. Inside it, the hard question isn't about the drugs. It's about the man, and the juror's question is the one Dane has been hearing in his head since the first kiss. The page doesn't say that. The reader who remembers Ch 03 gets it, and the reader who doesn't gets a laugh.
+**Subtext:** Ned's one decent act now is to get out of her way, and he knows it. Beth won't write back today, and the page doesn't say whether she ever will. "A ham forgives you" sits under the chapter's real question without anyone noticing.
 
-**Tension source:** Internal: saying the private thing to twenty strangers and a typing machine. Situational: the outcome isn't hers to know.
+**Tension source:** Internal: the job she has wanted for years now rests on someone else's word. Interpersonal, ahead of her: Tess.
 
-**Ends on (ending type: image, warm, scene-level only):** Beth comes out of the corner door into the cold. Across Federal Street, on a bench in the park, sits a man in a hospital sweatshirt who is supposed to be in a hospital bed. One line of her interior that he's supposed to be in bed. No more.
+**Ends on (ending type: action):** the fixed drawer sliding shut on the letter.
 
-**Texture budget (2):** the typing that stops when she stops; the ordinary people at the tables (one work jacket, one cardigan, no more).
+**Texture budget (2):** the pencil; the candle stub on the runners.
 
-**Plants:** the trial in the spring (→ S3; Ch 18, the series); "they'll decide after you leave" (→ S3, the text). **Payoffs:** the prosecutor in the room (Ch 02, 08); the cost of sleeping with the witness (Ch 03, 12); what she saw (Ch 01), in one sentence.
+**Plants:** "Then she can write" (→ S4, Tess already has). **Payoffs:** Ned's letter to the board (Ch 09); his son (Ch 09, 12; in treatment, bible); fixing the nearest broken thing (bible; Ch 08, 14); Dane cooking too much (bible; Ch 08, 15).
 
-**Word count target:** 400. **Floor 360.** If it runs long, step 1 drops to "Nobody comes in with you," and the trial line in step 6 shrinks to one sentence. Never cut the one-sentence testimony, "Yes.", "I saw it six hours before I ever met him," the spoken cost, the juror's question and Beth's answer, or "nobody will tell you in the hall."
+**Word count target:** 320. **Floor 290.** If it runs long, step 1's laugh shrinks to two lines. Never cut the letter's three facts, "Beth" with nothing before it, the verdict, the drawer, or "Tess." / "She isn't speaking to you." / "Then she can write."
 
 ---
 
 ## Scene 3
 
-**Setting:** A bench in the park across Federal Street from the courthouse (Lincoln Park, never named), a little after eleven. Bare trees, old snow along the paths, a cold bright sky. Pigeons work the path. **Sensory anchor:** the cold of the bench slats through the sweatshirt, against the stitches. A second anchor: the phone face up in his hand with the boss's text on it.
+**Setting:** Beth's front door, then her kitchen table, about two, through dinner. Daylight is going yellow in the windows. **Sensory anchor:** the pale new plug of wood in the front door at hip height, where the bullet went through (Ch 13). A second anchor: Tess's pie.
 
-**Characters present:** Dane, Beth.
+**Characters present:** Beth, Dane, Tess, Russ.
 
-**Point of view:** **Dane.** He's named in the first sentence.
+**Point of view:** Beth.
 
 **Want:**
-- **Dane** wants to give her the vote, then the answer he owes her, in that order, because the case is the thing he's been carrying for her.
-- **Beth** wants her answer about him first, and she says so with her hand.
+- **Dane** wants the island's answer, from the two people at this table who count. He wants to ask it himself.
+- **Tess** wants to be here without giving an inch.
+- **Russ** wants everyone to be fine, and to be taken seriously.
+- **Beth** wants Dane to have their yes, and wants Tess to look at her.
 
 **Surface action:**
-1. **Open in motion, in Dane's head.** Something like: Dane Reyes watched her come out of the courthouse door and cross Federal Street against the light, in shoes that didn't fit. No recap of the hospital. The facts come in as he moves: eleven stitches pulling as he sits up straighter, and no gun on his hip.
-2. **Why the park, one line (his habit of hearing how it'll sound).** If he'd been in the hallway, Cole's lawyer could tell a jury in the spring that a marshal walked her to the door. So he sat across the street, where everyone could see he wasn't with her.
-3. **The phone.** His boss's text came a few minutes ago. The boss's voice is short and gives orders: *Voted to send him to trial. He stays in. Lawyer's downstairs in a cell. Tell her.*
-4. **She sits on his right, careful of his left side (flag 12).**
-   - Dane: "You never answered me."
-   - Beth: "I went in."
-   - **The laugh (pick one):** Beth: "They let you out?" / Dane: "I signed a paper that said I'd been warned." / Beth: "Were you?" / Dane: "Thoroughly." *(Or, about the sweatshirt: "It was this or the gown.")*
-5. **The turn (flag 1).** He lifts the phone to show her. "They—"
-   - She puts her taped hand over the screen and holds it there.
-   - Beth: **"Will you stay? I'm asking."** *(Binding. The book's last "I'm asking." The bible's tail, "I don't, mostly.", is optional.)*
-   - One line of Dane's interior: she had just walked out of the room the whole week was about, and she wanted his answer before she'd hear the vote.
-6. **The declaration (outline, binding: the Maine office, a worse boat, her), in his voice.** Long sentences built on "because," with no dry turn at the end for once. **No ", which…" quip.** Suggested lines, which the writer may reshape while keeping the order (confession, then want, then her):
-   - "I've looked at boats for two years because I wanted a way out of this job. I never told anybody that." *(Flag 2: the turn the reader won't expect.)*
-   - "I put in for the Maine office on Saturday. I want a worse boat, one that stays tied up where you can see it from the ferry. And I want you, every day you'll have me."
-   - **Plain line of wanting in his head (at most once in the chapter, if it's the refrain):** he wanted to put both hands on her face and couldn't, because of her palms and his side, so he didn't. The writer may use "He wanted her" here, and nowhere else in the chapter.
-7. **The risk, named plainly (outline, A23, binding):**
-   - "That boat's still out there. The Coast Guard didn't find it."
-   - "There's a trial in the spring, and you'll say it all again with him in the room."
-   - "And after today nobody pays me to watch your door." *(The program is off since Ch 14. Don't restate the program.)*
-8. **His ask, keeping her condition (outline, binding).** He doesn't say "I'm asking" (spent).
-   - Dane: **"Can I be the one who watches it anyway?"**
-   - Beth: **"Yes. From inside."**
-9. **The vote, second.** She takes her hand off the phone. "Now tell me." He turns it toward her, and she reads it. Her reaction, through Dane's eyes, at true size and in her body: she sits very still, then breathes out once, long, and looks back at the courthouse door. *(Don't write "looks back"; the audit counts it. Write "turns her head to the courthouse.")* Then she looks at him.
-10. **The move (ending).** She stands and holds out her wrist (her palm is taped) for him to pull on. He takes it and doesn't lift, which is the order.
-    - Dane: "Where are we going?"
-    - Beth: "Somewhere you have to lie still."
+1. **Open in motion: the knock and the cane on the step.** Russ is on a cane. One clause, past tense: they flew him out Tuesday, and he came home on her ferry Wednesday night (flag 6). Russ runs his thumb over the plug in the door. Russ: "Did you fix that? You did." (He asks and answers.)
+2. **Tess, with the pie (outline):** she hands it to Beth and says **"Calloway."** That's all. She doesn't hug her. She takes the chair she has always taken at this table.
+3. **Dinner in one or two paragraphs, in motion.** The ham is far too big for four. Russ: "Is it the same ham? It isn't." Everyone is fed, and there's ham enough for the week.
+4. **Dane's ask (the payoff of "Ask them", in dialogue).** After the plates, in his long sentences built on "because," with no joke at the end:
+   - Suggested: "I start at the Maine office in January. I'd like to live in this house with Beth, and she's said yes, and she told me to ask the two of you, because it's your island, and I'd like to hear it from you."
+   - He doesn't say "I'm asking" (spent).
+5. **Longing:** under the table Beth's knee is against his while he talks. She watches his mouth.
+6. **The answers.**
+   - Russ: "Do we mind? We don't."
+   - Tess looks at Dane's hands first (she prices them, from the bible), then at his face. **"Coffee's a dollar, Marshal. Same as everybody."**
 
-**Turn:** She asks for what she wants before she'll hear the case. He admits the boat was a way out and asks to stay in.
+**Turn:** The island answers him, and he's in, at the island price.
 
-**Longing:** step 6's wanting line; "every day you'll have me"; her hand on his phone.
+**Longing:** step 5.
 
-**Laugh:** "I signed a paper that said I'd been warned." / "Were you?" / "Thoroughly." Then "Somewhere you have to lie still."
+**Laugh:** "Did you fix that? You did."; "Is it the same ham? It isn't."; "Coffee's a dollar, Marshal. Same as everybody."
 
-**Subtext:** All week he has carried the case for her, and she has carried the asking for both of them. Today she sets the case down first, and he hands over the one thing he never told anyone. Neither of them treats the vote as the climax. The reader does, and gets it second.
+**Subtext:** Tess speaks to Dane and not to Beth. She'll take the stranger before she takes back the friend, and everyone at the table hears it.
 
-**Tension source:** Interpersonal: the answer he has owed her since Saturday, and the risk he won't leave out of it. Internal (Dane): he has always come with a gun and a reason to be there, and today he has neither.
+**Tension source:** Social: Tess's silence at a table built for talk. Dane, the stranger, asking out loud.
 
-**Ends on (ending type: motion, then a line):** "Somewhere you have to lie still." She is already walking him toward the corner, at his pace.
+**Ends on (ending type: a line):** "Same as everybody."
 
-**Texture budget (2):** the gift-shop sweatshirt; the boss's text on the screen.
+**Texture budget (2):** the plug in the door; the pie.
 
-**Plants:** the Maine office and the worse boat (→ Ch 18); "watches the door" (→ S4, where he doesn't); "lie still" (→ S4); the big boat (→ Ch 18, the one light offshore). **Payoffs:** "I'll tell you on the other side" (Ch 14) and "Pruett's the other side" (Ch 16), paid by the declaration itself with no narrated echo; Dane's boat want (Ch 01, 08, 11); the Maine office (Ch 14); "Will you stay? I'm asking." (bible); her condition (Ch 15), kept by his ask; "Will you go in without me?" (Ch 16), sealed by "I went in."
+**Plants:** Tess hasn't looked at Beth (→ S4). **Payoffs:** "Ask them" (Ch 17); the pie, "Calloway" and "it isn't forgiveness" (Ch 17, bible); Russ flown out (Ch 17); the shot through the door (Ch 13); the Maine office (Ch 14, 17); "From inside" (Ch 17), unspoken; the ham (Ch 08, 15, bible).
 
-**Word count target:** 450. **Floor 410.** If it runs long, step 2 drops to one clause and the laugh in step 4 to two lines. Never cut "You never answered me." / "I went in.", the hand on the phone, "Will you stay? I'm asking.", the boat confession, the three wants, the three risks, "Can I be the one who watches it anyway?" / "Yes. From inside.", or the vote read second.
+**Word count target:** 400. **Floor 360.** If it runs long, step 3 drops to the ham line. Never cut the cane, the pie and "Calloway.", Dane's ask, "Do we mind? We don't.", or Tess's answer.
 
 ---
 
 ## Scene 4
 
-**Setting:** A hotel room a few streets from the courthouse, early afternoon. It's too warm, and the heater under the window ticks. White sheets. Through the window, a gray roof and gulls on it. The door is behind the head of the bed. **Sensory anchor:** the heat of the room after a week of cold, on both of them. A second anchor: a drugstore bag on the chair.
+**Setting:** The kitchen sink, about half past three. Tess washes and Beth dries. Through the doorway, Russ and Dane are at the table. **Sensory anchor:** hot water steaming in the cold kitchen, and the dish towel against her healing palms. A second anchor: Tess's fingerless gloves set on the windowsill.
 
-**Characters present:** Dane, Beth. **Nobody else, named or thought of.**
+**Characters present:** Beth, Tess (Russ and Dane in the next room, heard only).
 
-**Point of view:** Dane.
+**Point of view:** Beth.
 
 **Want:**
-- **Beth** wants him, now, with nothing left to say to anyone, and she wants to be in charge of it.
-- **Dane** wants her, and for the first time he has nothing to guard while he has her. He hates lying still.
+- **Beth** wants to ask Tess for the one thing she needs and can't pay back, and to tell her the whole truth while she does it.
+- **Tess** wants Beth to know exactly what this week cost, and she doesn't want to be asked for anything she's already given.
 
-**Surface action (approach, about 200 words):**
-1. **Open in motion, naming Dane.** The asking is part of the heat (HEAT RULES, binding): Dane asks to undo her coat, then each button, because her palms can't manage them. "Can I?" each time. "Yes" each time, until she laughs and tells him to stop asking about buttons. Keep his words few. His interior runs long.
-2. **Protection, one line (binding), plus the laugh.** It's in the drugstore bag on the chair. She bought it on the corner and wouldn't let him carry the bag, because the doctor said not to lift anything. She paid for the room downstairs on her own card (flag 13): one clause, no more.
-3. **She puts him on the bed.** Beth: "Lie down." Dane: "The doctor said don't lift anything." Beth: "Then don't." She moves to turn him so he faces the door. **He says "Leave it."** He lies with his back to the door and lets her be the thing he watches. One line of his interior: no gun on the chair, no door in sight, and he doesn't want either. Don't explain the echo of Ch 10. Let the action carry it.
+**Surface action:**
+1. **Open in motion.** Tess runs the water too hot and takes her gloves off to wash, which is a thing Beth does. Neither of them remarks on it. Tess, without looking up: "You'll open those hands up again." / Beth: "Then I'll tape them."
+2. **Beth asks, first and plainly (her arc).** "Ned took his name off my letter to the board. I need somebody from here to speak for me in June. Will you?"
+3. **The turn:** Tess: **"I wrote them Tuesday."** Beth stops drying. One line of interior at true size: Tuesday, the day after Portland, when Tess wasn't speaking to her. Beth: "You're not speaking to me." / Tess: "I'm not. I'm writing to the board."
+4. **The settle, face to face, both partly right, nothing withheld (binding).** Suggested lines, which the writer may reshape while keeping both sides:
+   - Beth: "I put you on the list. I'd put you on it again."
+   - Tess: "I know you would. Somebody you loved was selling you, and I lied to you all week about Russ. I'd have put me on it too."
+   - Tess: "You never once asked me to my face. You've known me your whole life."
+   - Beth: "Would you have told me about Russ?"
+   - Tess: "No." (a beat) Then the true part: "He got shot on your step."
+   - Beth: "He did. I can't pay that back."
+   - Tess: "No. You can't." (Beth, who owes nobody a dollar on purpose, owes Tess this for good. That's the cost, and the page lets it stand.)
+5. **Longing:** through the doorway Beth sees Dane laugh at something Russ says and press a hand to his ribs. One plain line.
+6. **Tess says her name (bible: "Beth" only when it's serious, the only time in the chapter):** "Beth. You're the best hand on that water, and I won't have a stranger from the mainland at our wheel. That's what the letter says. The rest isn't in it."
+7. **Back to work.** Tess hands her the next plate.
 
-**Surface action (intimate action, at least 500 words, real time, binding):**
-4. **She does the work (bible, binding).** Close in his body and his history: the dressing along his left ribs, and her care around it. Her taped palms are held up off the sheets, and she braces on her wrists and forearms and touches him with her fingertips. The healing cut across her knee pulls when she kneels over him, so she shifts her weight to the other knee and tells him so in four words. Her braid comes over her shoulder onto his chest.
-5. **He hates lying still and says so (bible, binding), and she enjoys that.**
-   - Dane: "I hate this."
-   - Beth: "I know." Then her plain verdict: "I'm enjoying it."
-   - The writer may add one stitches laugh: he lifts his head, and she says "That's lifting." Use it once.
-6. **Consent and the check (binding):** an explicit yes (his "Can I?" / "Yes," from the approach or inside the scene) and one check. When the stitches pull and he breathes in hard, she stops. "Stop?" He says her name, then "No. Please." Never "Don't stop" from him; that's Beth's line.
-7. **Registers (binding):** Beth says what she wants, plainly ("Come here." "There." "Look at me."). Dane goes quiet out loud: her name, a question, a few words. **His interior keeps its long sentences, and for once nobody in his head is reading any of it back to a jury.** She said it all in that room this morning, so there's nothing left for anyone to say slowly. This is plot touch #1 (the testimony). He stops counting anything. Never write "keeping count."
-8. **Plot touch #2 (binding: twice):** the stitches from the boat that came for them, and the cold of the sea a night ago against the heat of this room, in one thought. Keep it about his body. No fear and no names.
-9. **What changes (the relationship turn, binding).** Near the end, in his quiet register, he says it: "I love you." He hasn't said it since she stopped him at the cove house. She answers "Again." He says it again. She laughs, and he kisses her through it (HEAT RULES: humor survives). **She doesn't say "I love you" as a new answer.** She gave that in Ch 15, and Ch 17 doesn't re-stage it. "Again" is her answer now.
-10. **Climax:** both of them, played in real time from his POV. Frank words from the allowed list, sparing and exact (one frank noun lands harder than three). No banned euphemisms. Never more than two sentences in a row about who touches what. Then a thought, a sound, a line.
+**Turn:** Beth asks for what she can't repay and finds it already given. They say the whole truth to each other. It's settled on its terms, and it isn't forgiveness.
 
-**Surface action (after, within 150 words of the climax, binding):**
-11. She lies along his right side, clear of the dressing, with her taped hands held up on his chest like something she's carrying. The heater ticks. One plain line between them, about the two of them only. Suggested: Dane: "You did all the work." / Beth: "Somebody had to."
+**Longing:** step 5.
 
-**Turn:** He says it, she asks for it again, and the man who has guarded every door since Thursday night lies with his back to one and doesn't care.
+**Laugh:** "I'm not. I'm writing to the board."; "Would you have told me about Russ?" / "No."
 
-**Longing:** the whole scene, said in words: her "Come here," his "I love you," her "Again."
+**Subtext:** Tess vouched for her the day after Portland because the island's wheel matters more than her anger. She'll keep the anger a while anyway, and she's earned the right. Beth's whole book has been learning to ask and let someone give, and the hardest giver says yes before she's asked.
 
-**Laugh:** "I hate this." / "I know. I'm enjoying it." Plus the bag she wouldn't let him carry, and "Somebody had to."
+**Tension source:** Interpersonal: the one fight in the book between two women who love each other, held at a sink with their hands busy. One-talk test: *If they told each other the whole truth (they do), it would still be a problem, because Beth was right to suspect her, Tess was right that Beth never asked, and Russ's leg can't be paid back.*
 
-**Subtext:** Every other time, something was hunting them. This is the first time it's chosen with nothing left to hide from anyone, because she said it to the room. He gave up the door on purpose. She is in charge because she wants to be and because his body can't, and both of them like it.
+**Ends on (ending type: a line):** Tess: **"Dry, Calloway."** The surname coming back is the truce.
 
-**Tension source:** Physical: his stitches, her palms, her knee, with every move negotiated. Interpersonal, and sweet: he can't do anything, and that's the joke and the heat.
+**Texture budget (2):** the too-hot water; the gloves on the sill.
 
-**Ends on (ending type: a line):** "Somebody had to." No image after it.
+**Plants:** Tess still angry, the friendship on new terms (→ Book 2). **Payoffs:** the list (Ch 06, 14); Russ and Tess's lie (Ch 05, 12); Russ on Beth's step (Ch 13); Tess not speaking (Ch 14, 15, 17); "it isn't forgiveness" (Ch 17); "Then she can write" (S2); the board (S1, S2).
 
-**Texture budget (2):** the ticking heater; the drugstore bag. Bodies don't count against it. Use different body details from the three earlier scenes: the dressing, the taped palms held up, the knee shifting, the braid. Never her palm scar or his forearm cut.
+**Word count target:** 450. **Floor 410.** If it runs long, step 1 drops the hands exchange. Never cut Beth's ask, "I wrote them Tuesday.", "I'm writing to the board.", the list exchange, "Would you have told me about Russ?" / "No.", "He got shot on your step." / "I can't pay that back." / "No. You can't.", "Beth." with its line, or "Dry, Calloway."
 
-**Heat checks (HEAT RULES):** level 4; floor 800; at least 500 words of intimate action in real time; consent (yes plus a check); protection (one line); the plot touches it twice (the testimony, the stitches); bodies specific and age-true; humor alive inside; no aftermath cut; no fade inside the floor; **no family, no Ned, no Tess, no Russ, nothing of her father's, in the scene or the lines leading into it.**
-
-**Plants:** none outward. The island comes in Scene 5, after a break. **Payoffs:** "Don't say it yet" (Ch 10), paid by "I love you" / "Again" with no narrated echo; the door (Ch 10, S3); "lie still" (S3); "don't lift anything" [DC]; her palms (Ch 14, 16) and knee (Ch 10); his stitches (Ch 16).
-
-**Word count target:** 830. **Floor 800 (binding).** If it runs long, cut the approach: the buttons go to two asks, and the drugstore bag to one clause. Never cut below 500 words of intimate action, "Leave it.", "I hate this." / "I know. I'm enjoying it.", the check, "I love you." / "Again.", or "Somebody had to."
+**Bible check:** Tess's surprise (she bid on Alton's boat and lost) stays out. It's kept for Book 2.
 
 ---
 
 ## Scene 5
 
-**Setting:** The same hotel room, a little after four, after a scene break. The window over the roofs is going dark (sunset about three minutes past four). Streetlights are coming on below. **Sensory anchor:** the phone's light on the white ceiling when it buzzes on the nightstand.
+**Setting:** Beth's front room and front door, about half past four. Full dark outside, the lamp on, the harbor black past the window. **Sensory anchor:** the cold coming off the window glass. A second anchor: the new bolt on the front door.
 
-**Characters present:** Dane, Beth. Russ appears as a text.
+**Characters present:** Beth, Dane, Tess, Russ (then Beth and Dane alone).
 
-**Point of view:** Dane.
+**Point of view:** Beth.
 
 **Want:**
-- **Dane** wants to know whether the island will let him walk off her ferry.
-- **Beth** wants to go home, and knows what home will cost her on Thursday.
+- **Russ** wants to ask the constable's question out loud, and to be the one who does something about the answer.
+- **Dane** wants to answer it honestly in front of her, without promising.
+- **Beth** wants them gone and him to herself, and wants the truth said first.
 
 **Surface action:**
-1. **Open in motion: the phone lights.** A text from Russ, in italics, in full sentences. Russ asks his own question and answers it (bible). Suggested:
-   *They're flying me out in the morning if the icing lifts. Am I glad. I am. Tess says Thanksgiving is at Beth's this year. Does Beth know. She does now. Tess says to tell her it isn't forgiveness.*
-   *(Write numbers in words. Russ texts like a man of 44. Keep his own "?" off the questions, the way the kid's texts skip their periods, or keep them; the writer picks one way and holds it.)*
-2. **Beth reads it over his shoulder. The laugh, in her verdict voice:** "She's coming to my house to not talk to me."
-3. **The cost, one line of Dane's interior, before the question (genre map: the cost before the answer).** Thursday, the whole island at her table, Tess not saying one word to Beth in front of all of them, and him at the end of it: the man from Portland with no gun and no reason to be there except her. **No Ned, by name or by hint.**
-4. **The question (the outline's end question):** Dane: **"Will they let me off the boat?"**
-5. **Her answer, which hands the question back:** Beth: **"Ask them."**
+1. **Open in motion: Russ at the window with his cane, coat half on.** Far out past the harbor mouth there's one light. It's low on the water and too far off to be anything. Nobody names it. Tess comes to his shoulder, and they look at each other (outline).
+2. **New Bedford, plain (binding; the Ch 16 carry-forward).** Russ asks and answers: "In New Bedford they burned that woman's house after she testified. Didn't they? They did."
+3. **Dane answers what is different, in plain words (suggested; reshape, keep the content):**
+   - "In New Bedford she was the only witness. Beth has the kid's word on paper beside hers."
+   - "The man who'd give that order is in a cell, and so is Cole. Every Coast Guard boat on this coast knows what that boat looks like."
+   - "Hurting her now gets them nothing."
+   - Russ: "Does that stop people like that?"
+   - Dane: "Not always." Then, plainly: "So I watch the door." *(No gun: one line of Beth's interior. The deputies still have it in Portland, and he'll watch it anyway.)*
+4. **The hook fact (flag 3).** Dane: "The kid swore he never put that phone behind the bait truck's wheel."
+   - Russ: "Then somebody on this island did. Who? I don't know." (a beat) "I will."
+   - Tess, buttoning her coat: **"We will."**
+   - That's the next couple and the next case, said plainly. Leave the light where it is. Don't look at it again.
+5. **They go.** Coats, the cane on the step. Tess at the door, optional, one line to Beth: "Next year's at mine, Calloway." (It's a start, and it isn't forgiveness. The writer can cut it if it reads too warm.)
+6. **The door.** Dane slides the bolt he put on Tuesday, tries it, and stands with his hand on it a moment longer than it needs. One plain line of Beth wanting his hand off the bolt and on her (not the refrain wording).
+7. **The last exchange (binding: warm, earned, their voices; no family, no Ned, nothing of her father's).** Suggested:
+   - Beth: **"Your ten days are up, Marshal."**
+   - Dane: "I know."
+   - Beth: **"So. Are you any good at your job?"**
+   - Dane: **"Ask me every night."**
+   - *(This pays "Ask me again in ten days" from Ch 01 in dialogue. Narration never points at it. The asking runs the other way now: he wants to be asked. It promises every night without promising safe. Alternative last line if the writer wants Beth's verdict: Dane: "Ask me." / Beth: "Every night, then." The default is Dane's line.)*
 
-**Turn:** The island has spoken first, through Russ, and it's an invitation with a warning attached.
+**Turn:** The risk is said out loud and isn't promised away. The next case is handed to Russ and Tess. He bolts the door anyway, with no gun and no orders, and she asks him the question from the first night.
 
-**Longing:** her shoulder against his while she reads, held for a moment.
+**Longing:** step 6; the whole last exchange.
 
-**Laugh:** Russ's text ("Does Beth know. She does now."), and "She's coming to my house to not talk to me."
+**Laugh:** Russ's "Didn't they? They did." works in his rhythm, though it's grim. The real laugh is "Ask me every night," which lands as a smile.
 
-**Subtext:** She asked for what she wanted all day. Now she tells him to do the same with her people. It's her condition turned outward: no one says yes for anybody.
+**Subtext:** Nobody in this house believes she's safe forever. What they believe is that she isn't alone now. Russ wants a case that makes the island take his badge seriously, and he's just been handed one.
 
-**Tension source:** Social and situational: a small island with a long memory, Tess's silence, Dane the stranger. Internal: whether the life he asked for on the bench will have him.
+**Tension source:** Situational: a light on the water and a phone nobody has explained. Interpersonal: the honest answer in front of the woman it's about.
 
-**Ends on (ending type: an exchange, a question and a two-word answer):** "Ask them." Nothing after it. The chapter doesn't end on an image or at rest.
+**Ends on (ending type: a line of dialogue, warm):** "Ask me every night." Nothing after it: no image, no light, no summary.
 
-**Texture budget (1):** the phone's light on the ceiling.
+**Texture budget (2):** the window's cold; the bolt.
 
-**Plants:** Thanksgiving at Beth's house, with Tess and Russ coming (→ Ch 18 s2); "it isn't forgiveness" (→ Ch 18, the pie and "Calloway"); Russ flown out Tuesday (→ Ch 18, one clause in past tense, optional); "Ask them" (→ Ch 18, Dane at the table).
+**Plants (Book 2, stated plainly):** who planted the phone; the big boat; Russ and Tess as the next couple, on the case together; the one light. **Payoffs:** New Bedford (Ch 09, 12); the big boat got away (Ch 16, 17); the planted phone (Ch 15, 16); "watches the door" (Ch 17); "Ask me again in ten days" (Ch 01); Dane's no gun (Ch 16).
 
-**Word count target:** 150. **Floor 130.** If Scene 4 runs long, this scene still keeps Russ's text, the cost line, "Will they let me off the boat?" and "Ask them." Everything else can go.
+**Word count target:** 430. **Floor 390.** If it runs long, cut step 5's optional line and the no-gun interior. Never cut the light and the look, Russ's New Bedford question, Dane's three differences and "Not always.", the phone fact with "I will." / "We will.", the bolt, or the last exchange.
 
 ---
 
@@ -331,34 +319,33 @@ Say each of these once, in plain words, where it matters. The book glossed "gran
 
 | Check | Where |
 |---|---|
-| An event on the page in every scene | S1: the lawyer stops her; she answers; he's arrested. S2: she testifies; she says yes; the juror; she leaves. S3: she asks first; the declaration; his ask; the vote read. S4: heat #4; "I love you" / "Again"; he stops watching the door. S5: Russ's text; the question. |
-| Never two talk-only scenes in a row | S2 has the oath, the room and the walk out. S3 has the hand on the phone, the reading, and the move. S4 is the heat scene. S5 is short and follows an action scene. |
-| Predictability note: at least one turn the reader won't see coming | **Three.** How it happens: she covers the phone and asks before she hears the vote (flag 1). What it costs: the boat was his way out, and the job of guarding her ends today, so he asks to do it anyway (flag 2). Who asks: a juror asks the question Dane has dreaded since Ch 03, and she answers with a laugh (flag 3). |
-| Outcomes kept | She testifies; the lawyer is arrested at the door on the kid's sworn word; she says yes in the room; Cole goes to trial and stays in; Maine and the boat stand for Ch 18; heat #4 in a Portland hotel. |
-| Opens on her answer, in action | The binding opener. "I went in." (S3) seals it in dialogue. |
-| Beth's love answer is not re-staged | She says "Again" (S4). She never says "I love you" as a new answer. |
-| Dane's "other side" answer is paid | S3: the Maine office, a worse boat, her. |
-| "Will you stay? I'm asking." | S3, once, the book's last "I'm asking." |
-| Grand jury procedure plain and accurate | S2: no judge, no defense lawyer, no lawyer for her, no Dane; an oath; the prosecutor's questions; a juror's question; they decide after she leaves; nobody tells her. S3: the text. Never "indictment." |
-| Legal terms minimal, each explained once | "Sworn" (S1), "the vote" and "a trial in the spring" (S2). Grand jury isn't re-glossed. |
-| Russ flown out | S5, as his own text: in the morning, if the icing lifts (Tuesday). Ch 18 may confirm it. |
-| Heat #4 per the brief | S4: open door, level 4, Dane's POV, sensory, at least 500 words of intimate action, grows out of S3, changes the relationship ("I love you" / "Again"; the door left behind). Stitches and taped palms and knee are real in it. Consent and protection. No family, no Ned. |
-| Dane never swears | 0. |
-| Caps | "Bethie" 0; "your marshal" 0; "Dollar says" 0; "I don't bet" 0; "I'm asking" 1; "good coat" ≤ 1; "ten days" 0; "look back" 0; the wanting refrain ≤ 1 (S3 only, optional). |
-| Every boat is "it" | "That boat's still out there" (S3); "a worse boat, one that stays tied up" (S3). |
-| No contrast constructions; no banned tics | Suggested lines checked. The writer rechecks S2's answers and S3's declaration. |
-| No narrated callbacks or re-glosses | Callbacks are in dialogue only: "I went in.", "Again." |
-| Ending types vary; the chapter doesn't end on a single ominous image | Action, image (scene-level, warm), motion then a line, a line, then a question with a two-word answer. |
-| Final scene sets up the outline's promise | "Will they let me off the boat?" / "Ask them." That's *Will the island take her back, and take him?*, with the cost in one line before it. |
-| One-talk test (Beth–Dane) | No conflict between them. Every move is asked and answered in the scene. |
+| An event on the page in every scene | S1: the bailing, the bet, the dollar. S2: the letter, the drawer, the decision. S3: the arrival, the dinner, Dane's ask, the answer. S4: the ask, the reveal, the settle. S5: the light, New Bedford, the hook, the door, the last exchange. |
+| Never two talk-only scenes in a row | S2 has the drawer fix. S3 has the arrival and dinner. S4 is the washing-up. S5 has the window, the leaving and the bolt. |
+| Predictability note: at least one outcome delivered in a way the reader won't see | **The job:** Ned takes his name off (the cost), and Tess wrote to the board Tuesday, unasked and unforgiving (who). **The boat:** it's the Pruett boat he never got to see (how). **Maine:** Dane asks the island himself at the table, and Tess answers with a price. |
+| Tess and Beth settle face to face, adult, both partly right, no misunderstanding | S4. Beth was right to suspect her and would again. Tess was right that Beth never asked her face to face, and she lied all week. Russ's leg is a debt Beth can't pay. "Beth." Then "Dry, Calloway." |
+| Thanksgiving at Beth's house; "isn't forgiveness" holds | S3–S5. Tess never says she forgives. |
+| Russ flown out Tuesday, and back | S3, one past-tense clause, on a cane (outline). |
+| New Bedford faced plainly | S5: what's different (a second witness, the lawyer and Cole in cells, the boat's description out); "Not always"; he watches the door with no gun. |
+| Series hook clear, HEA intact | S5: the planted phone, the big boat, "We will." The HEA (boat, job, Maine, the house, the island's yes, the last exchange) is untouched by it. |
+| Ned's last beat is small, true, and doesn't excuse him | S2: he takes his name off her letter, says his son is in treatment, writes "Beth" with nothing before it, asks for nothing. Her verdict stands. |
+| One bet only | "Dollar says" ×1 (S1). "I don't bet" ×0. |
+| Dane never swears; no "Bethie", "your marshal", "I'm asking" | 0 / 0 / 0 / 0. |
+| Every boat is "it" | "It'll take up in a week"; "that boat" (S5). |
+| No family in a tender moment | S1: no father, no father's boat. S5's last exchange: the two of them only. Her father's table and drawer are in S2 (non-romantic). |
+| No contrast constructions; no banned tics | Suggested lines checked. The writer rechecks S4 and S5. |
+| No narrated callbacks | Callbacks only in dialogue: "Ask them" (S3, Dane's ask), "ten days" (S5). The bet's history is carried by Dane's face. |
+| No past-perfect catch-up at scene tops | Every scene opens in motion: the mug, the stove, the knock, the water, the window. |
+| Ending types vary | Action/line; action; line; line (a name); last line of dialogue, warm. |
+| Final scene sets up the outline's promise | The HEA scene and the series hook: "the constable and the store owner, and the big boat that came for the ferry." |
+| One-talk test | Beth–Dane: no conflict. Beth–Tess: passes (see S4). |
 
 ## For the continuity log (after the chapter is final)
-- **About a quarter to ten, Monday Nov 23:** Beth walked into the federal courthouse in a woman deputy's spare shoes, with Dane's blood under her nails. Cole's lawyer was waiting just inside, by the security line. He called her "Beth" and said "I hear the marshal's been keeping you warm." She answered "Yes. I'll say so in there." Two deputies arrested him in the lobby on the kid's sworn statement from dawn (the second witness). "I'll want my coat." / "You've got it on."
-- **The grand jury room:** no judge, no lawyers, no Dane. About twenty jurors, the prosecutor (a woman), and a woman typing every word. Beth swore, told what she saw in one telling, and said yes when the prosecutor asked whether she's in a relationship with the deputy. "I saw it six hours before I ever met him." A juror asked whether he ever told her what to say: "He tried telling me what to do once. It didn't take." / "Nobody told me what to say. I saw it." She was told they'd decide after she left and that there'd be a trial in the spring, where she'll tell it all again with Cole in the room.
-- **Dane:** signed himself out of Maine Medical Center at nine against the doctor's advice; eleven stitches along his **left** ribs; hospital gift-shop sweatshirt; no gun. He waited on a bench in the park across the street so nobody could say a marshal walked her in.
-- **The boss's text, a little after eleven:** *Voted to send him to trial. He stays in. Lawyer's downstairs in a cell. Tell her.* Beth covered the phone and asked first: "Will you stay? I'm asking." (the book's last "I'm asking"). Dane: he has looked at boats for two years because he wanted a way out of the job and never told anyone; he put in for the Maine office Saturday; he wants a worse boat tied up where she can see it from the ferry, and her. Risks named: the big boat is still out there and the Coast Guard didn't find it; the trial in the spring; after today nobody pays him to watch her door. "Can I be the one who watches it anyway?" / "Yes. From inside." Then she read the text.
-- **Hotel:** Beth paid for the room on her own card and bought condoms at the drugstore on the corner, and wouldn't let him carry the bag. Heat #4, Dane's POV: she did the work; "Leave it." (he lay with his back to the door); "I hate this." / "I know. I'm enjoying it."; "I love you." / "Again." / "Somebody had to."
-- **A little after four:** Russ's text: they're flying him out in the morning if the icing lifts (Tuesday); Thanksgiving is at Beth's, per Tess; "Tell her it isn't forgiveness." "Will they let me off the boat?" / "Ask them."
-- **Who knows what:** Beth and Dane know Cole goes to trial and stays in, and the lawyer is under arrest. The jurors and the prosecutor know about Beth and Dane, and it's on the record. Tess has invited herself to Beth's for Thanksgiving and is still not forgiving her.
-- **Caps spent:** "I'm asking" 1 (the last); "Bethie" 0; "your marshal" 0; "Dollar says" 0; "I don't bet" 0 (one left, Ch 18); "good coat" 0–1; Dane swears 0; "look back" 0.
-- **Injuries:** Dane, eleven stitches along the left ribs, ordered not to lift anything (→ Ch 18: Beth bails). Beth, palms skinned and taped (→ Ch 18: healing, lightly wrapped); the knee cut healing and stiff.
+- **Thursday Nov 26, Thanksgiving, cold and clear.** Dane's boat: wooden, older than both of them. Bought by phone Tuesday without seeing it, the Pruett boat he'd meant to view on Nov 14. Came across on Beth's ferry Wednesday, on Russ's empty mooring. It leaks until it takes up (a week). Beth bails; Dane bails with his mug (no lifting). "Dollar says we're still bailing at noon." / "Done." She lost and paid a dollar, and he kept it in his shirt pocket. His new boots came from Tess's store at full price ("the marshal price").
+- **Beth** is running the ferry for the board until the June decision.
+- **Ned's letter** (came Wednesday, pencil, opens "Beth"): the weather; his son in treatment, second week; he wrote the board Monday and took his name off her letter; "Get somebody from the island to speak for you." Signed "Ned." It's in the kitchen drawer Beth fixed with a candle stub.
+- **Russ** was flown out Tuesday and came home on her ferry Wednesday night on a cane. Dane plugged the bullet hole in the front door and put a bolt on it (Tuesday).
+- **Dane** asked Tess and Russ at the table: he starts at the Maine office in January (on medical leave until then) and will live in Beth's house. "Do we mind? We don't." / "Coffee's a dollar, Marshal. Same as everybody." No gun; it's still in Portland.
+- **Tess** wrote to the board on Tuesday for Beth, unasked. At the sink: the whole truth both ways; "He got shot on your step." / "I can't pay that back." / "No. You can't." "Beth" once. Not forgiven. "Dry, Calloway."
+- **After dark:** one light far out past the harbor mouth, unnamed; Russ and Tess looked at each other. New Bedford answered (the kid's word beside hers, the lawyer and Cole in cells, the boat's description out; "Not always"; Dane watches the door). **New fact:** the kid swore he never put the phone behind the bait truck's wheel, so somebody on Cutter did. Russ: "I will." Tess: "We will." (Book 2.)
+- **Ends:** "Your ten days are up, Marshal." / "So. Are you any good at your job?" / "Ask me every night."
+- **Caps spent:** "Dollar says" 3 of 4 (book total); "I don't bet" 1 of 2; "Bethie", "your marshal", "I'm asking" 0; Dane swears 0; "ten days" 1; Tess's "Beth" 1.

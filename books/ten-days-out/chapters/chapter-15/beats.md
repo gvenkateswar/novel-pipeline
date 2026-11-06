@@ -1,41 +1,31 @@
-# Chapter 15 · Eleven Pounds · Beat Sheet
+# Chapter 16 · Inside the Ledges · Beat Sheet
 
-*Plot-architect, Nov 6, 2026, revision 1, after the coordinator's note on the rewritten Ch 13. Book folder: `books/ten-days-out/`. Sources: the `outline.md` Ch 15 entry; "Audit answers (back half)"; "Audit round 2 fixes" (N1–N12); the Ch 12, Ch 13 and Ch 14 beat-sheet carry-forwards, including the boss's lawyer line for Ch 15 s2 and the new Ch 13 fix-round line (the icing doesn't clear before Monday; Russ waits on the couch and is flown out after the climax); `continuity-log.md` (logged through Ch 13, rewritten entry); `chapters/chapter-13/beats.md`; `chapters/chapter-14/beats.md` and `chapters/chapter-14/draft.md` (Ch 14 isn't logged yet, so its draft is where Ch 15 starts); `story-bible.md` (voices); `book-brief.md`; and `genre-maps/romance.md`. Where the bible disagrees with the outline, the log or the page, the outline, the log and the page win.*
+*Plot-architect, Nov 6, 2026. Book folder: `books/ten-days-out/`. Sources: the `outline.md` Ch 16 entry and every closing section of `outline.md`: the audit answers, the round 2 fixes (N1–N12), the Ch 12–15 carry-forwards, the "Bethie" line and the Predictability note. Also `continuity-log.md` (logged through Ch 13), `chapters/chapter-13/final.md` (the pencil route), `chapters/chapter-14/final.md`, `chapters/chapter-15/beats.md` and `chapters/chapter-15/draft.md` (Ch 15 as it stands; it isn't logged yet), `story-bible.md` (voices only; the outline and the log win where it's stale), `book-brief.md` and `genre-maps/romance.md`.*
 
 ---
 
 ## Flags before the beats
 
-None of these blocks the chapter. Each is settled below. Flag 1 is a plot change against the outline's Ch 15 entry and needs the orchestrator's confirmation. Nobody wins, loses or ends up together differently.
+None of these blocks the chapter. Flags 1–6 change how things happen against the outline's Ch 16 entry. Nobody wins, loses or ends up together differently, and every outcome in the outline still lands. The orchestrator should confirm 1–6 and report them to the author.
 
-1. **PLOT CHANGE: Russ and Tess stay ashore [new binding line vs. outline Ch 15 s2].** The outline puts "Russ on a stretcher, and Tess with him and the shotgun" aboard. The new Ch 13 fix-round line says Russ "waits on the town office couch" and "is flown out after the climax," and the icing doesn't clear before Monday. A man aboard the ferry would go to hospital by ambulance from Pruett, so he couldn't be flown out. The two lines can't both hold. **Settled, following the newer binding line:**
-   - Russ stays on the town office couch, with his bleeding stopped, to wait for the Coast Guard helicopter when the icing clears on Tuesday. Tess stays with him and the shotgun.
-   - Why they don't cross, in one plain line on the page (Scene 3): the Coast Guard told Dane on Thursday that it will fly for Russ when the icing clears. The same icing keeps anything from flying Beth out before Monday, which is why she goes tonight by sea. A man with a packed thigh is safer on a couch than in a chase.
-   - Why the prisoners still cross ("Nobody is left ashore to guard them" no longer holds, so it gets a new answer): Tess can't nurse Russ and guard two prisoners alone for two days. And with a boat full of armed men off the point, a kid who can name the lawyer, left on an island, is a reason for those men to come ashore where Russ and Tess are. Dane takes the reason with him. Ned also has to be at the ledges (Scene 4).
-   - **Downstream, for the Ch 16 beat sheet:** the outline's Ch 16 s3 reason for handing Ned the wheel, "everyone he has wronged is aboard," becomes "Beth and the boy he sent after her are aboard." Beth's Scene 4 line here is reworded to match (see Scene 4). Ch 18's "Russ is on a cane" stands. Ch 17 or 18 says in one line that he was flown out on Tuesday.
-   - **If the orchestrator prefers the outline** (Russ and Tess aboard, with the flight replaced by the Pruett ambulance), Scenes 1, 2 and 4 don't change. Scene 3 gets back the stretcher, Tess on the bench and Russ's lines, and the "why they stay" line goes.
-2. **The public yes is built so the reader won't see it coming [plot addition].** The outline has Dane ask "Can I kiss you? I'm asking," Beth say yes in front of Russ and Tess, Tess leave, and Russ say "Well." The cold readers now predict that. **Settled:** the outcome stays the same, but Beth does the public part herself and does it first. Once the ham is in, she turns to Russ and Tess and tells them what is about to happen: he's going to ask her something and she's going to say yes, and she's telling them herself so nobody ever says it for her. Dane has no plan to ask anything right then, so he's caught out along with the reader. She makes him ask anyway ("Even when you're sure"). Then he asks, she says yes, and they kiss.
-   - *Why it holds:* it's her Ch 05 move. She buys the condoms in front of Tess and two lobstermen because she won't be embarrassed (bible: "she says the embarrassing thing out loud on purpose"). It answers "She'll go." exactly: he once told someone her answer without asking her, and now she tells people her own answer, to their faces. It also ends her arc as the book frames it, a woman who has never asked anyone for anything saying out loud what she wants.
-   - *What it costs her:* she says it to Tess's face while Tess isn't speaking to her. Tess doesn't answer. She gets up and goes out. The yes costs Beth something in public.
-   - *Fit with the rewritten Ch 13:* on Thursday Beth already said "I want you, Marshal. I haven't stopped. I'm still not going." So the wanting is already said out loud. What's still standing from Ch 12 is her half of the rupture, "And so do we." Scene 1 takes that back face to face, and Scene 2 makes it public.
-3. **"I'm asking": one use here [N11 against the outline].** N11 allows at most two in the back half. Ch 17 needs Beth's "Will you stay? I'm asking. I don't, mostly." (binding declaration), and the outline gives Ch 15 two more. **Settled:** Ch 15 uses it once, in the kiss line. At the cabin door, "There may be a boat out there. I'm asking." becomes **"There may be a boat out there. Do we go?"**
-4. **"Dollar says": the last use is spent here, by Beth [cap].** **Settled:** Dane makes a claim with no bet in it ("That is not going in that oven."), and Beth takes his phrase and uses it on him: "A dollar says it does." It's her first bet in the book. **Downstream for Ch 18:** "Dollar says" is used up, so Ch 18's bet has to be worded another way ("A dollar it floats till noon"). "I don't bet" is **not** used here, so its one remaining use is free for Ch 18.
-5. **"Bethie" budget, a flag for the Ch 16 beat sheet.** Ch 15 uses none. The outline's Ch 16 has two ("Alton's way, Bethie." and "I've got it, Bethie. Go."). With about nine used and a cap of ten, only one fits. **Recommendation:** keep "I've got it, Bethie. Go." and make the other "Alton's way. You've seen it on the door."
-6. **No escort and no flight, each said plainly once (coordinator's note; A4; the new icing line).** The flight is in Scene 3, the one line that explains why Russ stays and Beth goes. The sea escort is in Scene 4, Dane's one line as they leave the pier. Neither is repeated.
-7. **Beth spent Saturday on the rod (Ch 14 carry-forward, binding).** It's said plainly in Scene 1, when her taped hands can't lift the ham, and restated in Scene 3, when she puts her hand on it at the hatch.
-8. **The boss's line restated (Ch 14 carry-forward, binding).** It was cut from the Ch 14 draft, so Ch 15 is its first full statement on the page. Dane says it in Scene 3 (= outline s2), to Beth, in front of the kid. Scene 4 restates it in one clause. No call with the boss in this chapter [A8].
-9. **Two outline scenes become four.** The outline's s1 splits into Scene 1 (the condition, the two of them alone) and Scene 2 (the bet paid, the public yes). The outline's s2 splits into Scene 3 (the search and where everyone is) and Scene 4 (the cabin, Ned, leaving the pier, the light).
-10. **Life jackets over tied and cuffed wrists.** Dane cuts the kid's cable tie, puts the jacket on him and ties his wrists again in front with a fresh tie. He opens one of Ned's cuffs, puts the arm through and closes it again. The kid is never "in cuffs."
-11. **The cuff key (N8 plant).** Dane puts the key in Beth's coat pocket in Scene 4.
-12. **The handheld radio (plant for Ch 16).** Russ gives Dane the constable's handheld at the town office door, and Dane tests it in Scene 3: Tess's voice from the couch end, one word. Beth has the ferry's own radio for the Coast Guard.
-13. **Custody per the rewritten Ch 13 log:** the kid's pistol is in Dane's **pocket** (not his belt), and the kid's rifle is with Dane. The first-aid box is empty.
-14. **For the orchestrator, small Ch 14 draft fixes (this sheet doesn't make them):**
-    - Against the rewritten Ch 13, the Ch 14 draft's "She hadn't called him that since Wednesday" is now wrong. She said "I want you, Marshal" on Thursday. Suggested fix: "She hadn't called him that since Thursday on her step."
-    - "He tore the shirt with his teeth" is close to the banned teeth tic.
-    - "Russ lay gray" is a gray face.
-    - Ch 14 also has Russ guarding with the shotgun overnight. That still fits.
-15. **Stale bible items, overridden:** a crossing of "about six hours" (now three hours at best [A17]); "the kid waits at the harbor mouth" and "the hand on the rail" (retired); "Russ guarding Ned"; Russ aboard (flag 1). The bible's "Can I kiss you? I'm asking. You told me to ask every time…" is trimmed to its first two sentences, because the listener heard the condition two pages earlier.
-16. **Word target 1,950** (orchestrator, this run). The outline's table says 1,700 and the bible's ledger says 1,725. The orchestrator's figure governs.
+1. **PLOT CHANGE (how it happens): Dane's talking becomes the weapon, and the stuck rod becomes his lie.** This is the Predictability note's main turn. The outline has the big boat "follow close and blind" into the ledges and hit. The cold reader expects that, and also expects the rod to stick again. **Settled:**
+   - The big boat can hear the ferry's radio. Every boat out here can. It proves it on the air right after Beth calls the Coast Guard.
+   - Beth needs it right behind her, not looking, when she turns in among the rocks. A boat that sees her go in will just wait at the far end.
+   - So Dane asks her, on the air, a question that sounds innocent to them: **"Beth. Can I tell them about the steering?"** She can feel that the steering is fine, and he knows it. He has never lied to her, so she understands he's asking to lie to *them*. "Tell them."
+   - Dane goes short, as he always does when he lies (bible): **"Her steering's gone."** Three words from a man who talks in paragraphs.
+   - Beth lets the ferry wander off course toward the white water, the way a boat with nobody steering it would. The big boat rushes in close behind to get aboard before it hits. She turns into her father's line, and it follows her in, blind, and hits.
+   - *What this keeps:* the outline's outcome (it follows, it hits, it limps off under its own power), the payoff of his talking [A15], "he asks before he acts", and the binding line "The rod does not stick again; the fear of it may be used once." The fear is used once, as a lie told to the enemy. The rod never binds. No scene has Beth fearing the rod in her own hands.
+2. **PLOT CHANGE (who does it): Ned doesn't know the line.** The reader expects Ned to guide her through his friend's route. **Settled:** at the ledges Beth asks Ned where the line goes in. He answers with the binding line, "Alton's way. You've seen it on the door.", and then says he has never taken it, because Alton never took anybody. Beth is the only person alive who knows that line, and she knows it from a pencil drawing she has seen on her pantry door every morning. Ned is still of use, as the outline wants: he calls where the sea is breaking by ear after thirty years outside those rocks. The turn is that the route is hers alone, from paper, in the dark.
+3. **PLOT CHANGE (small): Beth uncuffs Ned, not Dane.** The outline's s3 has "Dane uncuffs one of Ned's hands to the wheel." Dane is hit on the upper deck, and the key is in Beth's pocket (N8). Beth unlocks the cuff from the rail herself and leaves Ned free at the wheel. That's her cost: the man who sold her has the boat and everyone on it. **Addition:** when she comes back, Ned steps back to the rail and closes the open cuff on his own wrist, unasked, with no line. That's his grace note, turned small and practical so the reader who expects a big one doesn't get it.
+4. **PLOT CHANGE (small): the big boat gets a voice, once.** One man on the radio, two short lines in Scene 1. It proves the big boat can hear them (flag 1), puts a face on a faceless enemy (outline pacing flag 4), and sets up the man for Book 2. He's never named, never described and never heard again in this book.
+5. **"You came down." becomes "You left the wheel."** In the geography below, the upper deck sits behind the captain's cabin and she has to climb a ladder to reach it, so "came down" would confuse a listener. "You left the wheel." / "You stopped talking." keeps the exchange and names her cost.
+6. **Cut: "her father did everything right and lost anyway, and she does it anyway"** (outline s2, in her head). The binding instruction says her father's route is a working fact used under fire, not a tender beat. Grief in the middle of the ledges would be one. The line is used as a list of turns, nothing more.
+7. **Geography of the ledges (a continuity note for the orchestrator, no conflict).** Ch 13 put the pencil drawing at "the ledges, the rocks just under the water at the harbor mouth." Ch 15 glossed the ledges as rocks on both sides of the harbor mouth. Ch 16 needs them off the point. **Settled:** the ledges on the point side of the harbor mouth run on out along the point, a few hundred yards off its shore, for about a mile. The pencil drawing shows all of them. Between the ledges and the point's shore there is one narrow way, and that's the pencil line. Said once, plainly, in Scene 2. Don't re-gloss "the ledges": the book already has.
+8. **Where the kid talks.** The outline's s3 has the kid talk to Dane "below." This is Beth's chapter, so the kid is brought up to the captain's cabin (Scene 5). Dane, hit, wants every person aboard in one room where he can see them. Beth hears the statement from the wheel, and so does Ned.
+9. **Plant from Ch 15 (draft) used here:** Beth's "If it binds, I'll feel it first." That's why she knows the steering is fine when Dane asks his question. Not quoted back in narration.
+10. **"Your marshal": its last use is spent, and it lands (Scene 5).** Ned, at the wheel, as Beth comes back down: "Your marshal?" / Beth: "Talking." It's a grim laugh, and it means he's alive. If the writer finds it doesn't land, cut it. Nothing depends on it.
+11. **"Bethie": once,** in "I've got it, Bethie. Go." (Scene 4). The book's cap of ten is reached.
+12. **Word target: 2,250** (the orchestrator gave about 2,100 and said the climax may run a little longer). Floors sum to 2,040.
 
 ---
 
@@ -43,312 +33,309 @@ None of these blocks the chapter. Each is settled below. Flag 1 is a plot change
 
 | Item | Value |
 |---|---|
-| POV | **Dane**, close third, past tense (odd chapter; Ch 14 was Beth). He's named in the first sentence. |
-| **Chapter total target** | **1,950.** Scenes: 500 / 560 / 450 / 440. Floors: 460 / 520 / 410 / 400 (sum 1,790). The writer runs ±10%; the orchestrator's check is ±8%. |
-| Time | Sunday Nov 22 (Day 10). Scenes 1–2: about three to half past three in the afternoon, with the light going (sunset about four). Scene 3: about eight at night. Scene 4: about ten. |
-| Places | The town office: the kitchen (stove, an oven built for something smaller, one window down the harbor to the mouth and the point); the front room (desk, couch); the back room door, shut. The ferry at the stone pier: the car deck with the two trucks, the passenger cabin, the hatch over the steering, the steel stair, the captain's cabin. The harbor mouth at night. |
-| Shape | **Supper, then departure.** Ch 14 was loud, wet and in Beth's body all night. Ch 15 opens warm, domestic and funny, with a kitchen, a ham and an audience. Then it goes dark and methodical (the search), then tight and quiet (the cabin), and it ends on a threat with no face. |
-| Register | Scene 1: close and low, his long interior against her short sentences. Scene 2: the comedy at full room, then quiet for the kiss. Scene 3: Dane's job register, plain and quick. Scene 4: held breath, then the engine. |
-| **Opens with (binding)** | **"Dane Reyes was trying to fit an eleven-pound ham into the town-office oven when Beth gave him her condition."** The next sentence is the condition, in her words. Never a recap. |
-| **The turn** | Scene 1: Beth bets for the first time in the book. Scene 2, the romantic turn: the public yes, which she says before he asks. Scene 4, the plot turn: the big boat falls in behind them. |
-| **The longing** | Dane thinks plainly about wanting her in every scene. "He wanted her" may be used **once in the chapter at most**, in Scene 4 or not at all. Everywhere else, show it through what he notices, says and does. |
-| **The laugh** | Scene 1: "Even when I'm sure?" / "Mostly then." Scene 2: Russ at the oven ("Is it going in? It's not going in."), "Tess doesn't count. She's not talking.", "Well." Scene 3: "The certificate says two. You're the other one." and Ned in a life jacket. |
-| **Argument that tips into flirting** | Scene 1: the condition argued clause by clause, ending on the bet. Scene 2: the ham, her orders and his hands. |
-| Cost | Beth's: the yes said to Tess's face, and Tess walking out on it. Dane's: Ned at her shoulder, which he doesn't like, says so, and allows anyway. Leaving Russ and Tess behind on an island with that boat off the point. |
-| End question | *What does it want?* The last image is the one light behind them, keeping pace. |
-| Swears | Dane: **zero**. Beth: zero. Russ: zero (his one was spent in Ch 13). |
-| Heat | No intimate scene (heat #4 is Ch 17). One kiss, on the page, in public, at full length for a kiss. |
+| POV | **Beth**, close third, past tense (even chapter; Ch 15 was Dane). She's named in the first sentence. |
+| **Chapter total target** | **2,250.** Scenes: 550 / 420 / 460 / 400 / 420. Floors: 500 / 380 / 420 / 360 / 380 (sum 2,040). The writer runs ±10%; the orchestrator's check is ±8%. |
+| Time | Sunday Nov 22, about eleven at night (Scene 1) to about midnight (Scenes 2–4: the ledges; the Coast Guard arrives about an hour after her call). Scene 5: the crossing after, then the Pruett pier at about four on Monday morning. |
+| **Opens with (binding)** | **"The boat showing one light came up on them fast, and Beth Calloway knew in the first minute that she couldn't outrun it."** The next sentence is in motion. Never a recap. |
+| Shape | **The chase at sea.** Ch 15 was warm, domestic and methodical. Ch 16 is loud, dark, fast and in Beth's hands and ears. Scene 3 is tight and nearly silent. Scenes 4–5 come down hard, in short steps, to a pier at four in the morning. |
+| Register | Beth's high-temperature register (bible): she goes quiet and listens, two or three words at a time. Dane, on the radio, talks more, in the present tense, so she knows where he is. That contrast *is* the chapter. When he goes quiet, the scene has lost him, and she notices. |
+| **The turns** | S1: the big boat can hear everything they say. S2, the plot turn: Dane's lie. S3, the climax: the big boat hits, and Dane stops talking. S4: Beth frees Ned and leaves the wheel. S5: the kid talks. |
+| End question | *Six hours to the grand jury, and Dane is in an ambulance. Will she go in alone?* The chapter ends on his question, with her answer kept for the Ch 17 opener. The cost is named in one line before the doors close. |
+| Swears | Dane: **zero** (binding). Beth: zero. Ned: zero. |
+| Heat | None. Romance through what they say on the radio, in the enemy's hearing, plus one plain line of wanting (Scene 4). |
+| Danger | Shots through the cabin glass; a faster boat alongside; the ledges in the dark; Dane hit. **No one in the water. No fire. The big boat leaves under its own power.** |
 
-### Carried in from Ch 13 (rewritten), Ch 14 (the draft) and the carry-forwards
-- **Thursday, on her step** (Ch 13): Beth, with Russ's blood on her hands, took two fistfuls of Dane's coat and said "I want you, Marshal. I haven't stopped. I'm still not going." The Ch 12 fight stood after that.
-- **Saturday at dawn** (Ch 14), on speaker: "I still think you should go. It was never mine to say." / "She doesn't go into the program unless she says so. Write that down." / "Then she's on her own after Monday." / "Not all of her." He has put in for the Maine office. On the fifth day he didn't ask. "What do you want, Dane?" / "I'll tell you on the other side." **Ch 15 doesn't answer that question.** It's kept for Ch 17.
-- **Still standing from Ch 12:** her "And so do we," until Scene 1.
-- **Prisoners** in the town office back room, door shut. Ned is in Russ's cuffs at the pipe. The kid's wrists are tied in front with long black cable ties from Tess's shelf, and he hasn't said a word since "They've got a boat."
-- **Russ** is on the couch with his thigh packed and strapped, the bleeding stopped. The Coast Guard told Dane on Thursday: "We'll fly when the icing clears." **The icing doesn't clear before Monday** (binding). Tess has the shotgun and **isn't speaking to Beth.** On Friday night she lit the rocks with the fire truck without a word.
-- **Beth's hands:** both palms torn by the jammed wheel, the old rope scar opened, now taped with tape from Tess's shelf (the first-aid box is empty). She can't grip anything heavy.
-- **Dane:** no shirt of his own left. He's in one of Russ's flannel shirts, short in the arms, under the coat that still has her blood on the wool from Thursday. He has his own gun, the kid's pistol in his coat pocket, the kid's rifle, and Ned's rope knife.
-- **The steering:** the rod bound once under load (Ch 14). On Saturday she had it at the co-op vise again (flag 7).
-- **The big boat** showing one light has lain off the point, out of the wind, since dawn Saturday.
-- **The window:** "Sunday night or not at all." The harbor mouth is passable from Sunday evening; the next storm arrives before light Monday; the icing grounds anything that flies.
+### The map a listener has to hold (said plainly, once each, at the moment it matters)
+- **The ferry** is crawling across from the island toward Pruett on the mainland. **Beth** is at the wheel in the captain's cabin, high at the front. She can see ahead and nothing behind.
+- **The upper deck** (Scene 1, the one gloss) is the open roof over the passenger cabin behind her, up a ladder, with a rail round it. **Dane** is up there with the rifle. He can see all round, so he's her eyes. He tells her where the big boat is as "your left," "your right," "behind you," "close," and "a long way off." No compass words, no boat words.
+- **The big boat** is faster. It keeps coming up on her left, between her and Pruett, and each time it pushes her right, toward the island's **point**: the long arm of land on the far side of the harbor mouth. Plainly, in Scene 1: it wants her on the rocks, because a ferry lost on the rocks on a night like this looks like the storm did it.
+- **The ledges** (already glossed in Ch 15; don't re-gloss) run out along the point. Inside them, close to the shore, is one narrow way: her father's pencil line (Scene 2, flag 7).
+- **Ned** is cuffed to the rail behind her. **The kid** is on the far bench of the passenger cabin, below Dane's feet.
+
+### Gear and custody at the open (from the Ch 15 draft)
+- **Dane:** his own gun, the kid's rifle, the kid's pistol in his coat pocket, Ned's rope knife, and Russ's handheld radio clipped to his coat. He's in Russ's flannel shirt, short in the arms, under the coat with her blood on the wool.
+- **Beth:** at the wheel, with the ferry's own radio. Her palms are skinned and taped. The cuff key is in her coat pocket (N8).
+- **Ned:** Russ's cuffs, one wrist to the rail behind her, the other hand free, in the life jacket Dane buckled on him.
+- **The kid:** wrists tied in front with a fresh cable tie over a life jacket, on the far passenger-cabin bench. He has said nothing since "They've got a boat."
+- **Ashore:** Russ on the town office couch and Tess with the shotgun. Neither appears or is heard in this chapter.
 
 ### Tic guards for this chapter
-- **"Bethie" 0. "Your marshal" 0** (one left in the book). **"I'm asking" 1** (the kiss only). **"Dollar says" 1** (Beth, the last in the book). **"I don't bet" 0.** "Since the oar" 0 (Ch 13 spent it). Dane swears 0.
-- **Not used:** Dane's ", which…" quips; hands laid "flat"; "Here's how this goes"; "the way a…" similes; gray faces (Russ is "pale" at most, once); gloves or anything else pulled off with teeth; "Talk to me"; "Okay"; "Fair"; "low and steady"; "where I put you"; "eyes on"; "Ms. Calloway"; "looked back" in any form; "good coat"; "Cole walks"; "ten days"; "somebody told"; "in his head, plainly" (N11); "load-bearing."
-- **Dane's running talk is saved for Ch 16 [A15].** In Scenes 3–4 he speaks in short practical lines.
-- **No contrast constructions** in narration or dialogue ("not X but Y," "X, not Y," "less X than Y," "rather … than"). Every suggested line below has been checked. The writer checks again.
-- **No family inside a tender or physical moment.** Nobody's father, mother or Ned appears in the kiss or in the lines leading to it. The back room isn't mentioned from the ham count to the end of Scene 2. Ned's business in Scene 4 is kept apart from Dane's longing paragraph.
-- **No fire** (the stove and oven are lit and stay lit). Nobody in the water. No rescue. Dane is competent and on the offense.
-- **Every boat is "it."** "My boat" (Beth's possessive) is fine.
-- **Scene endings vary:** Scene 1 an action. Scene 2 a line ("Well."), the only quoted sting in the chapter. Scene 3 motion. Scene 4 an image.
-- **No catch-up openings.** No scene opens in past perfect. Every fact comes in at the moment it matters, in a clause.
+- **Caps:** "Bethie" 1 (Scene 4 only). "Your marshal" 1 (Scene 5, last in the book, optional). "I'm asking" 0 (Ch 17 has the last). "Dollar says" 0 (used up). "I don't bet" 0 (Ch 18). "Since the oar" 0. "Talk to me" 0. Dane swears 0. "She wanted him" or another plain line of wanting: **once**, Scene 4. "Looked back": once, Ned at Pruett (outline, bible). "Say go.": once (Scene 1).
+- **Never:** Dane's ", which…" quips; "Here's how this goes"; hands laid "flat" (and avoid "flat" anywhere, including "flat roof"); "the way a…" similes; gray faces; "torn" or anything done with teeth (Dane's wound is "a bullet had opened a line along his ribs"; Beth's palms are "skinned"); "low and steady"; "eyes on"; "Okay"; "Fair"; "Ms. Calloway"; "good coat"; "in her head, plainly" (N11); "trust me" or "you're safe."
+- **Don't quote earlier plants back in narration.** No narrated "They've got a boat," "Sunday night or not at all," "If it binds…," "She'll go," or "the other side" as an echo. Characters may speak a callback. Narration may not point at it.
+- **No contrast constructions** ("not X but Y," "X, not Y," "less X than Y," "rather … than," "instead of" used as a pivot). Every suggested line below has been checked. The writer checks again, especially Beth's interior in Scenes 2 and 4.
+- **No family inside a tender moment.** Her father's line is a working fact in Scenes 2–3: a list of turns, no memory, no grief. Nothing of her father in Scene 4 (the upper deck) or in the lines leading into it.
+- **No past-perfect catch-up** at the top of any scene. Every scene opens in motion.
+- **Every boat is "it."** "My boat" (Beth's) is fine. The big boat is "the big boat" or "the boat showing one light," never "no lights" [A20].
+- **The ending is not a single ominous image** (Predictability note). It's a question, the cost of the answer, and an action.
 
-### Plain language for a listener
-- **Boat terms, at most two a scene, glossed once:** Scene 3 "the car deck" (the open deck where the trucks park) and "the hatch" (the square lid in the deck over the steering). Scene 4 "the ledges" (the rocks just under the water on both sides of the harbor mouth) and "the rail" (the steel bar along the back wall of the cabin). Never "helm," "wheelhouse," "stern," "port/starboard," "bow," "lee," "cast off" as narration (say "took it off the pier"), "hard over," or an engine term.
-- **Plot facts, plain and restated once in the next scene:**
-  - *The condition* (S1) is restated in S2 by "Even when you're sure."
-  - *The rod, Saturday* (S1) is restated in S3 at the hatch.
-  - *The one light* (S2) is restated in S4, falling in behind.
-  - *The lawyer line* (S3) is restated in S4 in one clause.
-  - *Russ and Tess staying for the helicopter* (S3) is restated in S4 in one clause, as Dane leaves them behind.
-
----
-
-## Plant list (placed here, paid later)
-
-| Plant | Placed | Pays off |
-|---|---|---|
-| Beth's condition: he asks every time, even when he's sure, and never tells anyone she said yes when she didn't | Scene 1 | Ch 16 ("I'm going up top. Say go."), Ch 17 s2 (he asks to be the one who watches the door) |
-| Beth's first bet, won ("A dollar says it does.") | Scenes 1–2 | Ch 18 (her first blind bet, lost). "Dollar says" is used up. |
-| "So do we" taken back, face to face | Scene 1 | Ch 17 (the declaration builds on it) |
-| The public yes, said by Beth before he asks, to Russ and Tess | Scene 2 | Ch 17 s1 (yes on the record to the prosecutor), Ch 18 (Tess and Russ at her table) |
-| Tess walks out on the yes without a word | Scene 2 | Ch 18 (the pie, "Calloway") |
-| Russ and Tess left on the island to wait for the helicopter | Scene 3 | Ch 17 or 18 (one line: flown out Tuesday), Ch 18 (the cane) |
-| The kid hears the lawyer line and that he's the only one who could make it stick | Scene 3 | Ch 16 s3 (he talks after his own people shoot at him) |
-| Russ's handheld radio, with Dane, tested to Tess | Scene 3 | Ch 16 s1 (Dane's running talk) |
-| The rod checked by hand before they go | Scene 3 | Ch 16 (the fear of it in the ledges; no second jam) |
-| Ned in a life jacket Dane buckled on him; Ned cuffed to the rail | Scenes 3–4 | Ch 16 s2–s3 |
-| The cuff key in Beth's coat pocket (N8) | Scene 4 | Ch 16 s3 |
-| The kid's rifle aboard; his pistol in Dane's pocket | Scenes 3–4 | Ch 16 s1 |
-| The big boat falls in behind them | Scene 4 | Ch 16 opener |
-
-## Payoffs (planted earlier, paid here)
-
-| Payoff | Planted |
-|---|---|
-| "She'll go." (he spoke her answer for her) is answered by the condition's second clause and by Beth speaking her own yes | Ch 12 |
-| "Then they stop. And so do we." is taken back by Beth, face to face, both partly right | Ch 12 |
-| "I'm still not going." (Thursday) still holds, and Scene 1 says so | Ch 13 |
-| "I'll tell you on the other side." is kept | Ch 14 |
-| The bet she won't take; "Dollar says it holds till light." / "I don't bet on—" | Ch 06, Ch 14 |
-| Dane cooks too much for a crowd | Ch 08; bible |
-| Her orders and his hands ("Lower." "There." "Don't move it.") | Ch 14 s2 |
-| Saying the embarrassing thing out loud on purpose, in front of Tess | Ch 05 |
-| "We'll fly when the icing clears." (it doesn't clear before Monday) | Ch 13 |
-| The rod bound once | Ch 14 |
-| The one light off the point; "They've got a boat"; "It comes in from offshore" | Ch 12, 13, 14 |
-| No escort [A4]; the lawyer can't be arrested on a text and Ned's word [A14] | Ch 14 |
-| Ned can't swim and won't wear a life jacket | Ch 02, Ch 09; bible [DC] |
-| "The certificate says two." | bible [DC §16] |
-
-## Numbers used (all in words on the page)
-- **Eleven pounds.** "Three of us." / "Four."
-- **A dollar.**
-- **About three** in the afternoon; the light gone by **four**. **Eight** (the search), **ten** (they leave).
-- **Two**: the crew the certificate needs; the two trucks.
-- **Three hours at best**, the short way.
-- **An hour off**: the Coast Guard by sea. **Tuesday**: when the icing lifts.
-- **Two tomorrow**: when Cole goes free if she isn't in the room. Use it once at most.
+### Plain language (at most two boat terms a scene, each explained once)
+- S1: **"the upper deck"** (glossed). "The captain's cabin" is already in the book.
+- S2: **"the ledges"** (already glossed; use it plain) and "the point" (a place, not a boat term; one plain clause).
+- S3: no new terms. "The narrow way between the rocks."
+- S4: none new.
+- S5: "the pier" at Pruett (plain).
+- Never: helm, wheelhouse, stern, bow, port, starboard, lee, cast off, hard over, throttle, knots, any engine term, any channel number, "Mayday" (Beth calls in plain words).
 
 ---
 
 ## Scene 1
 
-**Setting:** The town office kitchen, Sunday at about three in the afternoon. It's a narrow room with a woodstove for heat, an electric stove and oven on the generator, and one window that looks down the harbor to the white water at the mouth and, past it, the point. **Sensory anchor:** the cold, slick weight of the ham in Dane's hands against the oven's too-small mouth, the rack in the way, and the clove-and-sugar smell of the glaze he has already put on it. A second anchor: Beth's hands, taped across both palms in white, held a little away from her body.
+**Setting:** The captain's cabin, open water between the island and Pruett, about eleven at night. The wind is dropping but the sea is still big. The front windows are black, and the deck lights are on below. **Sensory anchor:** cold air pouring through the broken side window beside her, with glass in the folds of her coat. A second anchor: Dane's voice coming out of the ferry's radio speaker, thin and close, over the engine.
 
-**Characters present:** Dane, Beth. Russ is asleep on the couch through the open doorway; he's heard once, snoring, and says nothing. Tess is out at her store. The back room door is shut, and nobody mentions it.
+**Characters present:** Beth, Dane, Ned (at the rail, silent until the laugh in Scene 2). The man on the big boat is heard, not seen (flag 4).
 
-**Point of view:** Dane.
+**Point of view:** Beth.
 
 **Want:**
-- **Beth** wants to start again on terms that will hold, said by her, before anyone else is in the room.
-- **Dane** wants her, wants the ham in the oven, and has promised himself to ask her for nothing large until she's safe enough to say no.
+- **Beth** wants to keep her boat moving and everyone on it alive, and she can't leave the wheel.
+- **Dane** wants to be where he can see the big boat, and he wants her answer first.
 
 **Surface action:**
-1. **The binding opener.** Then, at once, the condition, in her words (binding):
-   - "You ask me. Every time. Even when you're sure. And you never tell anybody I said yes when I didn't."
-2. **Dane understands it in one long interior sentence** that runs on "and," with the ham still in his hands. It's the answer to the town office on Wednesday, when he told his boss "She'll go" with her three feet away. It's the condition for something, and she hasn't said what. The short undercutting clause: he's holding eleven pounds of pig and can't put it down.
-3. **Where she's just been, at the moment it matters (one clause each, no past-perfect block):**
-   - She has come in from the phone on the front-room desk. The ferry board has given her the boat for tonight [DC]. She asked them for it herself, and he can see on her that it's the first thing she's ever asked for out loud and got.
-   - **Saturday on the rod (binding, plain):** she reaches to take the ham from him to show him how, and she can't grip it. She spent all of Saturday at the co-op vise with the steering rod, straightening it again with her palms taped while he held the light, and her hands are paying for it today. Two plain sentences: what she did, and what it cost.
-4. **The argument that tips into flirting (binding).** He takes the condition clause by clause, seriously, the way he'd take terms from a judge. That's his respect, and she knows it.
-   - Dane: "Even when I'm sure?"
-   - Beth: "Mostly then."
-   - Dane: "What if I'm sure and somebody's shooting at us?"
-   - Beth: "Then ask fast."
-   - He says yes to all of it, without a speech. He keeps the long sentences in his head.
-5. **The rupture resolved, face to face, both partly right (binding).** Beth gives her own accountability, which nobody has asked her for. That's the surprise of the scene:
-   - "On Thursday I told you I want you. I meant it, and I'm still not going. On Wednesday I said so do we. I decided that for both of us, in that room. Same thing I hated you for."
-   - Dane doesn't let her take all of it. He keeps his view: "I was right about what's out there." His eyes go to the window. **The one light isn't named yet.** He just looks.
-   - Beth: "You were. It's still mine to say." Then the take-back, plainly: "So that part's off too."
-   - Neither gives up a view. He still thinks the program would keep her breathing, and she still won't go. One line each at most. Nothing is misunderstood.
-   - **He keeps the Ch 14 promise.** He doesn't tell her what he wants. In one clause of his interior: on the other side, he said, and they're still on this one.
-6. **The longing (plain, his).** He looks at her mouth while she gives him terms, and he thinks about kissing her in a kitchen that smells of cloves, in plain words, without using "he wanted her." He doesn't ask yet, because under her rule an ask has to mean it, and Russ is ten feet away.
-7. **The bet (binding turn).** He tries the ham again and it won't go past the rack. With total confidence: "That is not going in that oven."
-   - Beth, who has never taken a bet: "A dollar says it does."
-   - He stares. One sentence in his head: she has never once taken his bet, and now she's making her own with his words.
+1. **The binding opener.** Then, in motion: the one light swings out from behind them and comes up on her left, big and close. It's a fishing boat twice the ferry's speed, men on its deck in its own light.
+2. **The first shots** break the side window beside her. Glass is in her collar. She can't leave the wheel. One line of her fear at true size: she has never been shot at on her own boat, and her hands want to let go of the wheel and cover her head.
+3. **"I'm going up top. Say go." (binding).** Dane is already at the cabin door with the rifle. The ask costs seconds, and a second shot hits the cabin while he waits for her answer. "Go." He goes.
+4. **The upper deck, glossed once:** the open roof over the passenger cabin, behind and above her, up a ladder, with a rail round it. From up there he can see all round, and she can only see ahead.
+5. **The payoff of his talking [A15] (binding).** Dane on Russ's handheld, coming through the ferry's speaker. Present tense, plain, so she knows where the big boat is and where he is. Sample lines (the writer may vary them, but keep the shape: position, distance, what it's doing):
+   - "I'm up. I'm at the back rail, behind you. It's on your left, about as far off as the length of the pier. Coming up."
+   - "I'm still talking, so I'm still fine. Keep it straight." *(Bible sample 8, trimmed. This is the plant for Scene 3's silence. Say it once.)*
+   - Beth, into the handset, two words: "Keep talking."
+6. **He fires; it falls back; it comes again (binding).** "I'm going to shoot at it. Keep it straight." The rifle cracks over her head, three times. The big boat's light swings away and drops back, and Dane says so: "It's dropping back. It's a long way off now." Then: "It's coming again. Your left. Faster."
+7. **Why it's out here, one line (outline s1):** Beth sees it plainly. If the ferry goes on the rocks tonight, everyone ashore will say the storm did it.
+8. **Why she can't turn back, one line:** the harbor mouth is behind her, she'd have to slow to a crawl between the rocks there, and the big boat is between her and it.
+9. **The Coast Guard, in plain words (binding, N9).** Beth, one hand on the wheel and one on the ferry's handset: "Coast Guard. This is the Cutter Island ferry, out from the island toward Pruett. A fishing boat is shooting at us. Four aboard." A voice comes back: they're coming, about an hour.
+10. **The turn: the big boat can hear them (flag 1, flag 4).** A new voice comes on the same air, a man's, calm, from the big boat:
+    - "They're an hour off, ferry. Stop your engine and give us the girl and the boy, and the rest of you go home."
+    - One line of Beth's interior: every boat at sea could hear the ferry's radio. That was what it was for. Now they had the hour too.
+    - **The grim laugh (binding: a laugh in every scene).** Dane, on the air, as if nobody else were listening: "Beth, don't answer him. I'll do the talking." The man: "You talk a lot, Marshal." Dane: "Everybody says so."
+    - It's the first time anyone on that boat has spoken. They know what he is.
+11. **The chase drives her the long way (binding, A17).** The big boat comes up on her left again, between her and Pruett. Every time she holds her course, it closes. She bends away to the right, toward the island's point, the long arm of land on the far side of the harbor mouth. She understands what it's doing: it's pushing her onto the rocks.
 
-**Turn:** Beth bets. It's small and irreversible: she has stepped back into the game they had, of her own will, after saying why.
+**Turn:** The enemy hears everything Dane says, and Dane's talking is the only way she can steer.
 
-**Subtext:** She comes to him straight from the first thing she has ever asked for and got, and she asks for the next thing before her nerve goes. Her condition is about Wednesday. It's also the rule she broke herself when she decided "so do we" for him. He hears her owning that, and he loves her for doing it first. He can't say so without breaking his own word.
+**Longing (shown in what they say):** "Keep talking." She steers to keep his voice coming, and her interior notices she is listening for his breath between words. No plain line of wanting here (that's Scene 4).
 
-**Tension source:** Interpersonal: the terms of a second start, with real stakes (if one of them says yes for the other again, it's over). Internal: Dane holding back what he wants to say. Situational, at the edge of the frame: the window.
+**Laugh:** "You talk a lot, Marshal." / "Everybody says so."
 
-**Ends on (ending type: action):** Beth takes a dollar out of her coat pocket with two taped fingers and puts it on the counter beside the oven. No line after it.
+**Subtext:** Every word that keeps her alive also tells the men trying to kill her where she is. Dane knows it the second the man speaks, and he keeps talking anyway, because she can't see without him. Beth asked him in Ch 15 to ask her every time, and he did, under fire, and it cost a shot. She noticed.
 
-**Texture budget (2):** the ham against the oven (the rack, the glaze); her taped palms and what Saturday at the vise cost them.
+**Tension source:** Situational: a faster boat, guns, glass, the dark, an hour until help. Interpersonal: the two of them, apart, joined only by a voice the enemy shares.
 
-**Plants:** the condition (→ S2, Ch 16, Ch 17); the bet (→ S2); "So that part's off too" (→ Ch 17); the window (→ S2).
+**Ends on (ending type: action):** Beth turns the wheel toward the point. The dark shape of the land comes up on her right, with white water breaking between her and it.
 
-**Word count target:** 500. **Floor 460.** If it runs long, step 3's board clause shrinks to "the board had given her the boat," and step 4 loses the "shooting" exchange. Never cut the opener, the condition, "Mostly then," Saturday on the rod, "Same thing I hated you for," "It's still mine to say," or the bet.
+**Texture budget (2):** the glass and the cold through the broken window; Dane's voice on the speaker, giving position and distance.
+
+**Plants:** "I'm still talking, so I'm still fine" (→ Scene 3, his silence); the big boat can hear the radio (→ Scene 2, the lie); the Coast Guard an hour off (→ Scene 4, arriving too late); the push toward the rocks (→ Scene 2).
+
+**Word count target:** 550. **Floor 500.** If it runs long, trim step 6 to two radio lines and drop step 8 to a clause. Never cut the opener, "Say go." / "Go.", the gloss of the upper deck, "I'm still talking, so I'm still fine," the Coast Guard call, the man's first line, or "Everybody says so."
 
 ---
 
 ## Scene 2
 
-**Setting:** The same kitchen and the front room, minutes later. The light outside is going blue. Tess is back from the store with a roasting pan under one arm and the shotgun in her other hand. Russ is awake on the couch with his leg up on two cushions. **Sensory anchor:** the oven's heat on Dane's face with the door open, and the rack sliding out in his hands. A second anchor, under the comedy: through the kitchen window in the last light, past the white water at the harbor mouth, off the point, one light.
+**Setting:** The captain's cabin, running along the outside of the ledges off the point, minutes later. On her right, a few hundred yards off, is the black shape of the point. Between her and it, the sea breaks white over the ledges for as far ahead as she can see. **Sensory anchor:** the boom of the sea breaking on the ledges, heard through the broken window and felt in the wheel. A second anchor: her skinned palms on the spokes, feeling every one of them turn true.
 
-**Characters present:** Dane, Beth, Russ, Tess. (Four people with lines in one scene is a pattern this book handles badly, so Tess has no lines. She acts and leaves.)
+**Characters present:** Beth, Dane (on the radio), Ned (at the rail). The man on the big boat is heard once.
 
-**Point of view:** Dane.
+**Point of view:** Beth.
 
 **Want:**
-- **Beth** wants to win, and then she wants something much larger, out loud, in front of the people she has known all her life.
-- **Dane** wants to lose the bet well.
-- **Russ** wants to be entertained, and he is.
-- **Tess** wants Russ fed and nothing from Beth.
+- **Beth** wants the big boat right behind her, close and not looking, at the one moment she turns in.
+- **Dane** wants to give her that, and he needs her yes to do it.
+- **Ned** wants to be of use, and he says almost nothing.
 
 **Surface action:**
-1. **Open in motion.** Tess comes in with a roasting pan from her store, walks past Beth's held-out wrists and hands it to Dane. That one action shows the silence. She sits at the front-room desk with the shotgun across her knees.
-2. **The ham, by Beth's orders and Dane's hands (binding laugh; arguing into flirting).** Her hands are taped, so she makes it fit with his. Her orders are short, the way she ran the closet in Ch 14:
-   - "Take the rack out." "Bone end first." "Lower." "Turn it." "There."
-   - He does exactly what she says and moves nothing she hasn't told him to.
-   - **Russ, from the couch (he asks and answers himself):** "Is it going in? It's not going in." Then, as it slides in: "It's going in."
-   - The oven door shuts on the ham with a quarter inch to spare.
-   - Dane pays the dollar into her taped hand. She folds it into her coat pocket as if it were worth more than a dollar. No narrated meaning beyond that.
-3. **The count (binding outline exchange).**
-   - Dane: "The ham is eleven pounds, and there are three of us."
-   - Russ: "Four."
-   - Beth: "Tess doesn't count. She's not talking."
-   - Tess doesn't look up. The two in the back room are never counted, and the page doesn't say so.
-4. **The one light, under the comedy [A16] (binding).** Dane cracks the kitchen window against the oven heat, and there it is in the last of the daylight: the big boat off the point, out of the wind, showing one light, where it has been since dawn yesterday. One sentence. He closes the window and says nothing about it in this room.
-5. **The public yes (flag 2, the surprise; binding outcome).**
-   - Beth walks to the doorway between the kitchen and the front room, where Russ and Tess can both see her, and says to them, plainly:
-     - "Russ. Tess. He's going to ask me something, and I'm going to say yes. I'm telling you myself, so nobody ever says it for me."
-   - Dane is caught completely. He hasn't planned to ask anything this afternoon. One clause of his interior: she has done in a doorway what he did on a speakerphone, the right way round.
-   - Dane: "You just told them the answer."
-   - Beth: "Ask anyway. Even when you're sure."
-   - **Dane (the chapter's one "I'm asking"):** "Can I kiss you? I'm asking."
-   - Beth: "Yes. Come here."
-6. **The kiss (romance obvious to a listener; 120–160 words).** Bodies, theirs only:
-   - She can't put her palms on him, so she hooks her wrists over his shoulders and keeps her taped hands in the air behind his neck.
-   - He's careful of her hands. Russ's shirt is too short in the arms, and the oven is hot at his back.
-   - It's a kiss after days of not, in front of the people she grew up with, and she doesn't hurry it.
-   - Dane goes quiet the way he does when he wants her (bible). One short line in his head about her mouth and nothing else.
-   - **No family, no Ned, nothing of the back room in this beat or in the lines leading into it.**
-7. **Tess leaves the room (binding).** She stands, puts the shotgun under her arm, and goes out the front door onto the steps without a word. The door shuts. It's Beth's cost, plainly: she said it to Tess's face, and Tess walked out on it. One clause of Dane's interior: Beth watched the door shut and didn't let go of him.
-8. **Russ, from the couch, the whole line:** "Well."
+1. **Open in motion.** Dane on the radio: "It's behind you on your left. Close. It's keeping you on the rocks." Beth holds the ferry along the outside of the white water.
+2. **The geography, said once (flag 7).** One or two plain sentences of her interior: the ledges run out along the point for a mile, and close in to the shore, inside them, there's one narrow way. It's the pencil line on her pantry door. A boat that doesn't know it would be on the rocks in a boat's length.
+3. **Her plan, in her interior, plainly:** she can go in there and the big boat can't follow. If it sees her go in, though, it'll wait at the far end and finish her there. She needs it close behind her and not looking when she turns. She can't say any of this on the radio, because they'd hear it.
+4. **Romance on the air, in the enemy's hearing (binding: show it in what they say on the radio).** Beth keys the handset:
+   - Beth: "Dane. You still owe me an answer."
+   - Dane: "On the other side. Get us there."
+   - That's all. Anyone listening hears it. She doesn't care.
+5. **The ask (flag 1; binding: he asks before he acts):**
+   - Dane: **"Beth. Can I tell them about the steering?"**
+   - Beth's interior, three or four short sentences: the steering is fine. She can feel every spoke of it true under her palms. He knows that. He has never once told her a lie. So he's asking for one, to tell *them*.
+   - Beth: "Tell them."
+6. **The lie, short (bible: Dane goes short when he lies).** Dane, on the air: **"Her steering's gone."** That's all of it, three words. One line of Beth's interior: a man who talked in paragraphs had just gone short, and the boat behind her didn't know him well enough to hear it.
+7. **She makes it look true.** She lets the wheel slacken and the ferry wander off its line, its nose drifting toward the white water, like a boat nobody is steering. Describe the action; no simile. The big boat's light swings in behind her, fast and close, to be aboard before the ferry hits.
+8. **The laugh (Ned's slow understatement).** The man on the big boat: "Shut your engine off, ferry. We'll take you off before you hit." Ned, at the rail behind her, quietly: "Kind of them."
+9. **The question (flag 2).** The white water is right off her right hand. She has to turn in now, at the one gap. She doesn't turn her head.
+   - Beth: "Ned. Where does it go in?"
+   - Ned: **"Alton's way. You've seen it on the door."** (binding)
+   - Beth: "You've taken it."
+   - Ned: "Never. He never took anybody."
 
-**Turn (binding, the romantic turn):** The public yes. Beth says it to Russ and Tess before he asks, and then he asks anyway. The rupture is over in front of witnesses, and neither of them gave up their view to get here.
+**Turn:** Dane lies to the enemy for her, with her yes. Then she learns the route is hers alone.
 
-**Subtext:** Beth does in public what Dane did wrong on Wednesday, and does it right. She speaks her own answer, to people's faces, with the man in the room. It costs her: Tess, the person she most wanted to hear it, gets up and goes. Dane learns that her yes is worth exactly what her rule says it is.
+**Longing (shown):** "You still owe me an answer." / "On the other side. Get us there." It's said in front of the men trying to kill them. And she reads him by the length of his sentences, which is intimacy no one else on the air has.
 
-**Tension source:** Comedy with stakes (the bet, the audience). Interpersonal: Tess's silence two yards away. The one light, under all of it.
+**Laugh:** "Kind of them."
 
-**Ends on (ending type: a line, the one quoted sting in the chapter):** Russ: "Well." Nothing after it.
+**Subtext:** She asked him to ask her every time, even when he's sure. He just did, in a sentence built so the enemy hears a weakness and she hears a plan. The lie works because she knows him. Ned, who lied to her for two years, is the one who calls the enemy kind.
 
-**Texture budget (2):** the ham in by her orders and his hands; the one light in the window.
+**Tension source:** Situational: the big boat closing on a ferry it thinks is crippled, and the rocks a boat's length away. Internal: she has to turn in at the right place, and the one man she counted on to know where it is doesn't.
 
-**Plants:** the public yes (→ Ch 17, Ch 18); Tess walking out (→ Ch 18); the one light (→ S4).
+**Ends on (ending type: a line):** Ned's "Never. He never took anybody." Nothing after it. Scene 3 opens on her hands turning the wheel.
 
-**Word count target:** 560. **Floor 520.** This is the chapter's heart. Never compress step 5 or step 6. If it runs long, step 2's orders drop to three, and Russ's line keeps only "It's not going in." / "It's going in."
+**Texture budget (2):** the boom of the sea on the ledges; the wheel true under her skinned palms.
+
+**Plants:** the lie (→ Scene 3, the big boat follows her in blind); "On the other side" (→ Scene 4); the route is hers alone (→ Scene 3).
+
+**Word count target:** 420. **Floor 380.** If it runs long, step 2 drops to one sentence and step 3 to two. Never cut "You still owe me an answer," "Can I tell them about the steering?", her reading of it, "Tell them," "Her steering's gone," "Kind of them," or Ned's two lines.
 
 ---
 
 ## Scene 3
 
-**Setting:** The ferry at the stone pier, about eight at night. Full dark, the snow stopped, the wind dropping, the deck lights on. Gloss **the car deck** once: the open deck where the trucks park. The lumber truck and the co-op's bait truck are still chained there. The passenger cabin is lit and warm, with benches. Gloss **the hatch** once: the square lid in the deck at the back, over the steering. **Sensory anchor:** Dane's flashlight on the underside of the bait truck, and the cold smell of old herring coming off it. A second anchor: the engine already running, coming up through the steel into his boots.
+**Setting:** Inside the ledges, the narrow way between the rocks and the shore of the point, around midnight. The deck lights show white water breaking on both sides, close enough to hear each wave separately. Behind her, the one light and the big engine come in. **Sensory anchor:** the sound of the sea breaking white on both sides, left and right, so she steers between two sounds. A second anchor: the pencil line in her mind's eye as a list of turns. It's a picture she has seen every morning, used as directions.
 
-**Characters present:** Dane, Beth, Ned (in cuffs, silent), the kid (wrists tied, silent). Tess is heard once on the handheld radio from the town office. Russ and Tess are ashore (flag 1).
+**Characters present:** Beth, Ned, Dane (on the radio, then silent). The big boat behind.
 
-**Point of view:** Dane.
+**Point of view:** Beth.
 
 **Want:**
-- **Dane** wants every space on this boat checked before he puts her at the wheel, and every person aboard where he can see them.
-- **Beth** wants her boat ready and her rod sound.
-- **The kid** wants nobody to look at him.
+- **Beth** wants the next turn, and then the one after it.
+- **Ned** wants to give her his ears.
 
 **Surface action:**
-1. **Open on the search already under way [A16] (binding), in motion.** Dane on his back under the bait truck with the flashlight. Then the lumber truck's cab, the space under its seat, the load under its straps. The crew room's two bunks. The engine-room hatch. Every space and both trucks.
-   - Why, in one clause: this boat sat at an open pier last night with the island asleep, and something has watched it from off the point since dawn yesterday.
-   - He finds nothing. That's the job done right.
-2. **Where everyone is, said once (binding), each set off by Dane seeing or doing it, never a list in a paragraph:**
-   - **Beth** at the hatch (step 5), then the wheel. Dane is her second crew (step 6).
-   - **The kid** on a bench at the far end of the passenger cabin. **Dane cuts his cable tie, puts a life jacket on him, and ties his wrists again in front with a fresh tie (flag 10).** The kid says nothing.
-   - **Ned** in Russ's cuffs. Dane opens one cuff, puts Ned's arm through a life jacket, closes the cuff and buckles the jacket. **The laugh:** Ned, who can't swim and has never once worn one, looks down at it on himself like a man in a borrowed suit. *(If that's a "like a" simile, write it plainly: he looks down at it and doesn't seem to know whose it is.)* He says nothing. He stays in the passenger cabin until Scene 4.
-3. **Why Russ and Tess stay, and why nothing flies (flag 1, flag 6; the one plain statement of the flight; binding per the coordinator).** Dane clips Russ's handheld radio to his coat (Russ gave it to him at the town office door) and tests it. Tess's voice comes back from the couch end, one word ("Here."). She's speaking to Dane, never to Beth. Then, plainly, in one or two sentences of Dane's interior or one line he says to Beth:
-   - The Coast Guard will fly for Russ when the icing clears, and it won't clear before Monday. That same icing is why nothing can fly her to Portland, and why it's this boat tonight.
-   - Russ stays on the couch with his bleeding stopped, with Tess and the shotgun, to wait for it.
-   - The prisoners cross, because Tess can't nurse Russ and guard two men alone for two days, and a boy who can name that lawyer, left ashore, is a reason for that boat to send men ashore where Russ is lying.
-4. **The boss's line restated (binding; carry-forward, A14).** Dane says it to Beth, in front of the bench where the kid sits, plainly:
-   - **"A text from a phone in nobody's name and Ned's word won't arrest that lawyer. The kid's would. And the kid isn't talking."**
-   - The kid looks at the black window, toward where his people are. Dane sees it. One clause: the boy has just heard that he's the only person aboard who could put that man in a cell. Plant for Ch 16.
-5. **Beth at the hatch; the rod restated (binding, flag 7).** Beth kneels at the hatch, lifts it with her wrists, and reaches down to put her taped hand on the steering rod. Plainly: she spent Saturday at the co-op vise on it, and it's as straight as anyone on this island can make it. The risk, once: "If it binds, I'll feel it first."
-   - **Dane's longing (plain, his):** watching her kneel at the hatch in the deck lights with her hands taped and her braid down her back, checking the thing that tore them. Say it in plain words about her and what he wants. Don't use "he wanted her" here.
-6. **The crew line (binding, DC §16; the laugh).** Beth stands, closes the hatch with her boot, and says: "The certificate says two. You're the other one."
-   - Dane, one dry line against himself that she undercuts. For example: "Two summers and one night." / "The night counts." Check the shape for contrast.
-7. **The rifle.** Dane picks up the kid's rifle from where he leaned it by the passenger cabin door. The kid's pistol is in his coat pocket, said once.
+1. **Open in motion: she turns in.** She puts the wheel over toward the shore at the gap. The white water closes on both sides of the ferry's nose. Plain words (outline): a narrow way between the rocks, and you have to know it to the yard.
+2. **The line as working directions (no memory, no grief; flag 6).** She steers from the drawing. Give three turns in plain words, each followed by the boat doing it:
+   - in past the first rock and close along the shore;
+   - out again at the second, where the pencil bent away from the land;
+   - then back in hard at the third, the tightest, where the line nearly touched the shore.
+   She has never seen these rocks from a boat, only on her door. That's the only thing the scene says about where she learned it.
+3. **Ned's ears (outline: "by Ned at her shoulder").** He calls the breaking water by sound, short and slow: "Breaking on your left." "Both sides now." "Hold it." After thirty years outside these rocks he knows where they break, though he has never been inside them. That's his use.
+4. **Dane, true, on the radio:** "It's turning in after you. It's right behind you." **The grim laugh:** "It's very big." Then more shots, a burst at the upper deck, and Dane's voice stops in the middle of a word. One plain line: the radio hisses and says nothing.
+5. **The cost, held:** she can't leave the wheel. This is the third turn, the tightest. Her interior, in two short sentences: if she lets go now, everyone aboard goes on the rocks, and him with them. She makes the turn.
+6. **The big boat hits (binding outcome).** Behind her, steel meets rock: a long grinding crash she feels through the deck, and the big engine screaming. The one light swings up and away. The big boat had followed her in, close and blind, on a lie, and found the second rock. It backs off the ledge under its own power and goes off limping into the dark the way it came. **Nobody goes in the water.** Say so plainly from her side: the light moves away, it doesn't sink, and nobody is in the sea.
+7. **Out the far end.** The white water falls behind on both sides, and the ferry is in open water beyond the point.
 
-**Turn:** The boat is searched and clean, and everyone who will cross is aboard, equipped and placed. The kid has heard what he's worth. Russ and Tess will be alone on the island with that boat off the point.
+**Turn:** The big boat is beaten, and the man she steers by has gone silent.
 
-**Subtext:** Dane does what he's best at, in front of her, and it's the first night since Wednesday that his job and her wishes point the same way. Leaving Russ and Tess is his cost, and he takes the danger away from them by taking the boy. The kid's look at the window is the first crack in his silence.
+**Longing (shown):** the one word she says into the handset at the end.
 
-**Tension source:** Situational: a watched boat, a hostile prisoner, two friends left behind. Internal: Dane's longing kept to a look. The engine running and the clock.
+**Laugh (grim):** "It's very big."
 
-**Ends on (ending type: motion):** Beth goes up the steel stair to the captain's cabin, and Dane follows her up with the kid's rifle. No dialogue after the crew exchange.
+**Subtext:** She does her father's way perfectly and feels nothing about her father. She's too busy. That's the point, and the page doesn't say so. Ned, the captain of thirty years, is reduced to her ears, and he takes it.
 
-**Texture budget (2):** the search (under the trucks, every space); the life jackets over tied and cuffed wrists.
+**Tension source:** Physical and situational: rocks a few yards off on both sides, a boat behind, a route she has never run. Internal: Dane's silence, and a wheel she can't let go of.
 
-**Plants:** the radio to Tess (→ Ch 16); the kid hears the lawyer line (→ Ch 16 s3); Ned in a life jacket (→ Ch 16); the rod checked (→ Ch 16); Russ waiting for Tuesday's flight (→ Ch 17/18).
+**Ends on (ending type: silence):** Beth keys the handset. "Dane." The speaker hisses. Nothing. No line after it, no image of the light, no reaction beat.
 
-**Word count target:** 450. **Floor 410.** If it runs long, shorten the search to the bait truck and the lumber truck's cab, and step 3's prisoner reason to its second half. Never cut the life jackets, the flight line, the lawyer line, Saturday on the rod, or "The certificate says two."
+**Texture budget (2):** the breaking water on both sides by sound; the three turns from the drawing.
+
+**Plants:** Dane's silence (→ Scene 4); the big boat limping off (→ Scene 4, the Coast Guard too late; Ch 18, one light far offshore).
+
+**Payoffs:** "I'm still talking, so I'm still fine" (Scene 1), paid by the silence alone, never restated. The pantry-door line (Ch 13). The lie (Scene 2).
+
+**Word count target:** 460. **Floor 420.** If it runs long, Ned's calls drop to two. Never cut the three turns, "It's very big," the voice stopping, her choice to make the third turn, the hit and the limp off, "nobody in the sea," or "Dane." and the hiss.
 
 ---
 
 ## Scene 4
 
-**Setting:** The captain's cabin, about ten at night: the wheel, the ferry's radio, the front windows black, the deck lights on the car deck below. Gloss **the rail** once: the steel bar along the back wall of the cabin. Then the car deck, the pier, and the harbor mouth. Gloss **the ledges** once: the rocks just under the water on both sides of the harbor mouth, where a boat has to slow. **Sensory anchor:** the cold steel of the rail under Dane's hand as he closes the cuff on it. A second anchor, at the end: through the back window, one light low on the black water, and a big engine under it, heard over their own.
+**Setting:** The captain's cabin for a few lines, then the ladder and the upper deck, in open water beyond the point, a few minutes after midnight. Wind on the upper deck. The rail. Glass and empty brass by Dane's boots. **Sensory anchor:** the warm wet of Russ's flannel shirt under her taped hands. A second anchor: blue and white lights coming fast across the water from the mainland side.
 
-**Characters present:** Dane, Beth, Ned.
+**Characters present:** Beth, Ned, Dane. The Coast Guard boat is seen and heard on the radio in one line.
 
-**Point of view:** Dane.
+**Point of view:** Beth.
 
 **Want:**
-- **Beth** wants Ned at her shoulder at the ledges, and she wants it on her say.
-- **Dane** wants Ned anywhere but behind her, and he wants to keep the rule he agreed to in the kitchen.
-- **Ned** wants to be of use to her once.
+- **Beth** wants to know he's alive, and she has to leave her boat to find out.
+- **Ned** wants to give her the one thing he can.
+- **Dane** wants her back at the wheel and wants her to stay where she is.
 
 **Surface action:**
-1. **Open on Beth's ask, face to face [A23] (binding one-talk), at the wheel:**
-   - Beth: if anything happens at the ledges, she wants Ned in this cabin at her shoulder. He's the only other person aboard who knows them.
-   - Dane says he doesn't like it and says why, to her face, in two lines at most: he's the man who sold her to them, and in here he's an arm's length from her wheel.
-   - Beth answers it (reworded for flag 1): he can't swim, and he's on this boat with her and the boy he sent after her. He won't put it on the rocks.
-   - **Dane agrees to her face.** It's her call, and he says so in a few words.
-   - Neither is wrong. He keeps his view and she keeps her decision. It's the kitchen's rule working in the first hour.
-2. **Ned to the rail.** Dane brings Ned up the stair, opens one of Russ's cuffs and closes it on the rail behind her. Ned stands where he has stood for thirty years, with someone else at the wheel. He says nothing, or at most one weather line with no name in it ("Wind's going down."). **Dane puts the cuff key in Beth's coat pocket (flag 11, N8),** where she can see him do it.
-3. **The crossing, plainly [A17] (binding one line), said by Beth:** in what's left of the sea the boat can only crawl, so it's three hours at best the short way.
-4. **Dane on the car deck; the longing (plain, his; kept apart from Ned).** Dane goes down to lift the ropes off the posts at her call, as he did on Friday night. From the car deck he looks up at her window: her taped hands on the wheel, her face lit from below. This is the one place in the chapter where **"He wanted her"** may be used, or say it another way. Then the plain fact that undercuts him: he can't do one thing about it until Portland, and he's glad of the rule.
-   - **Restate, one clause each, as he passes the lit passenger cabin window and looks up the dark harbor road:** the boy on the far bench is the only one who could put that lawyer in a cell; up the road, in the town office, Russ is on the couch waiting for a helicopter that can't come before Tuesday, with Tess and the shotgun.
-5. **The ask at the cabin door (flag 3, binding).** He comes back up. At the door, before they go:
-   - Dane: "There may be a boat out there. Do we go?"
-   - Beth: "Go."
-   - **"Sunday night or not at all,"** restated in one clause: it's tonight, or Cole walks out at two tomorrow.
-6. **The no-escort line [A4] (binding, said once),** in Dane's interior as she takes the boat off the pier: nobody is coming out with them. The Coast Guard comes by sea only if that boat comes at them, and then from an hour off. The Marine Patrol boat on this stretch has a hole in it, and the state won't send another into a shooting.
-7. **Ten o'clock.** She takes it off the pier and across the harbor, slowly. She slows for the ledges at the harbor mouth. White water shows on both sides in the deck lights. The radio stays quiet. Dane stands at her shoulder on the side away from Ned, with the rifle.
-8. **The image (binding).** On the far side of the mouth, Dane looks through the cabin's back window. Off the point, the one light is moving now. It swings in behind them, and under their own engine he hears a bigger one, keeping pace.
+1. **Open in motion: the key (N8, binding).** Beth takes the cuff key out of her coat pocket and unlocks the cuff from the rail. One line of her reasoning (outline, reworded by the Ch 15 carry-forward): they're clear of the rocks, Ned is the only other person aboard who can hold the boat, and her and the boy he sent after her are aboard. She leaves him free (flag 3). That's her cost, and she knows it.
+2. **"I've got it, Bethie. Go." (binding, the book's last "Bethie").** Ned takes the wheel where he has stood for thirty years. She goes.
+3. **The ladder and the upper deck.** Dane is on his back by the rail with the rifle beside him and the handheld still in his hand. A bullet has opened a line along his ribs (never "torn"). Russ's shirt is soaked dark down one side. He's awake.
+4. **The exchange (outline, flag 5):**
+   - Dane: "You left the wheel."
+   - Beth: "You stopped talking."
+   - **The grim laugh:** Dane: "I got shot. I'll start again in a minute."
+5. **Her hands on the wound.** The first-aid box is empty (Ch 13). She pulls off her knit hat and presses it into his side with her taped palms, and her palms hurt, and she presses anyway. One plain sentence of the pain, no more.
+6. **The one plain line of wanting in the chapter (binding: at most once).** Beth's interior, in plain words: she wants him, here, bleeding on her roof in a borrowed shirt, and she has never wanted anything so much in her life. Keep it about the two of them: no father, no Ned. Check that the line has no contrast construction.
+7. **"The other side" (romance obvious; the Ch 17 declaration kept).**
+   - Dane, on his back: "Is this the other side?"
+   - Beth: "Pruett's the other side. Stay alive till then."
+8. **The Coast Guard arrives, too late to matter (binding, N9).** Blue and white lights come fast from the mainland side, about an hour after her call. A Coast Guard boat swings past them after the one light, which is far off and fading. On the handheld, one line from it: it's following the fishing boat, and it'll come back and see them in. They both know it won't find anything. One clause, said once.
+9. **Dane gets up.** He doesn't ask to be helped. He asks something else, which keeps her condition: "Can I lean on you?" "Yes." He wants every person aboard in one room where he can see them.
 
-**Turn (binding, the plot turn):** The big boat is following them out.
+**Turn:** She leaves her boat to the man who sold her, for the man she loves.
 
-**Subtext:** Dane gives way on Ned because he made a rule in the kitchen and he means it, though it costs him everything he knows about keeping a witness alive. Beth puts the man who sold her at her shoulder because she needs what he knows. Each is trusting the other's judgment against their own fear, and the light behind them is the test.
+**Longing:** the plain line (step 6), and "Stay alive till then."
 
-**Tension source:** Interpersonal: the Ned argument, short and real. Situational: the ledges, the dark, a boat that has watched them for a day and a half. Physical: three hours of crawling ahead.
+**Laugh:** "I got shot. I'll start again in a minute."
 
-**Ends on (ending type: image):** One light and a big engine, keeping pace behind them. No line after it, no question in the narration, no reaction beat. Ch 16 opens: "The boat showing one light came up on them fast…"
+**Subtext:** The book's two hardest trusts happen in one minute: Ned with the wheel, Dane with her. The Coast Guard comes exactly when it said it would, and that's an hour too late. That's the outline's point: nobody was ever coming in time, so they had to do it themselves.
 
-**Texture budget (2):** Ned cuffed to the rail and the key in her pocket; the ledges at the harbor mouth.
+**Tension source:** Physical: how badly he's hit. Situational: Ned free and alone at the wheel below. Interpersonal: under the joke, the question he has kept for days and hasn't answered.
 
-**Plants:** Ned at the rail and the key (→ Ch 16); the radio and the rifle in Dane's hands (→ Ch 16); the big boat behind them (→ Ch 16 opener).
+**Ends on (ending type: motion):** Beth goes down the ladder first, backward, with Dane's weight on her shoulder and his hand in her coat collar, toward the cabin where Ned has her boat.
 
-**Word count target:** 440. **Floor 400.** If it runs long, the weather line goes and step 4's restates drop to a clause each. Never cut Beth's ask and Dane's agreement, the key, three hours at best, "Do we go?" / "Go.", the no-escort line, or the last image.
+**Texture budget (2):** her taped palms and the hat pressed into his side; the Coast Guard's lights crossing the water.
+
+**Plants:** Dane's rib wound (→ Ch 17, eleven stitches); "Pruett's the other side" (→ Ch 17 s2); the big boat gone, the Coast Guard finding nothing (→ Ch 18); Ned free at the wheel (→ Scene 5).
+
+**Word count target:** 400. **Floor 360.** If it runs long, the Coast Guard's radio line goes and the lights stay. Never cut the key, "I've got it, Bethie. Go.", "You left the wheel." / "You stopped talking.", the laugh, the plain wanting, "Is this the other side?" / "Pruett's the other side. Stay alive till then.", or the Coast Guard arriving after the light is gone.
+
+---
+
+## Scene 5
+
+**Setting:** The captain's cabin, on the long crossing after, and then the Pruett pier at about four on Monday morning. In the cabin: broken glass swept to one side, the wind through the window, the lights of the mainland coming up ahead. At the pier: the lights of police cars and an ambulance, men in jackets that say what they are, snow on the planks. **Sensory anchor:** the wheel coming back into her taped hands, warm from Ned's. A second anchor at the pier: the ambulance's back doors standing open with light coming out of them.
+
+**Characters present:** Beth, Dane, Ned, the kid. At the pier: the deputies (unnamed, one marker each at most) and the ambulance crew.
+
+**Point of view:** Beth.
+
+**Want:**
+- **Beth** wants to land her boat, and wants not to let go of him.
+- **The kid** wants it written down, now that his own people have shot at him.
+- **Dane** wants the statement and wants her to go in at ten, and he'll ask.
+
+**Surface action:**
+1. **Open in motion: Ned's beat (flag 3, no line).** Beth takes the wheel back. Ned steps back from it to the rail, takes the open cuff, and closes it on his own wrist. Nobody asked him. The click is the only sound he makes.
+2. **"Your marshal" (flag 10, optional, the last in the book).** Before he steps back, Ned: "Your marshal?" Beth: "Talking." It's true. Behind her, Dane is already talking to the kid.
+3. **The kid comes up (flag 8).** Dane, holding his side, has brought him up the stair from the passenger cabin. There's glass in the kid's hair: his own people shot through the windows where he sat. Dane sits him on the floor against the back wall, between Ned's knees and the door.
+4. **The kid talks (binding, outline s3).** To Dane, short, in a boy's flat run of facts. (The writer avoids the word "flat" in narration.)
+   - Cole, through Cole's lawyer, who paid him.
+   - The big boat: it's theirs, and it brings the stuff in from offshore.
+   - **The September photo (binding):** Cole had him take it off Tess's board so he'd know "the girl on the boat," the one who'd have the ferry in June.
+   - "I want that written down." Dane types it into his phone, one-handed, in full sentences with periods.
+   - Beth's reaction, at true size, in one sentence. Cole knew she'd have this boat before she did, and he wanted her face for that. She keeps her hands on the wheel.
+   - Ned, at the rail, hears the lawyer named. He shuts his eyes. Nothing else.
+5. **The landing.** The lights of Pruett, and she brings the ferry in against the pier, slowly, on the first try. It's her first landing. One sentence and no ceremony: her hands knew how. Don't name the captain's job.
+6. **The pier (binding, outline s3).**
+   - Deputies come aboard. **The first thing a deputy takes is Dane's gun,** then the kid's rifle. Say it plainly. Dane hands them over without a word, holding his side.
+   - Ned is led off in Russ's cuffs. At the top of the ramp **he looks back once** (bible, the last look-back) and lifts his cuffed hand. Beth doesn't lift hers. One clause.
+   - The kid is taken separately, still talking.
+   - Dane goes on a stretcher into the ambulance, which is bound for **Maine Medical Center** [DC].
+7. **The ask (the end question, kept open per the genre map: "a chapter never answers its own cliffhanger").** At the open doors, Dane, on the stretcher, keeping her condition:
+   - Dane: "Ten o'clock. Will you go in without me?"
+   - The cost, in one line of her interior, before any answer: if she says yes, she walks into that room alone, with Cole's people knowing her face and him in a hospital bed.
+   - She doesn't answer on this page. The ambulance man closes the doors.
+8. **Close (action).** The ambulance pulls away up the pier road. A deputy holds a car door open for her. She gets in. Six hours.
+
+**Turn:** The kid's statement is on the record. It's the second witness that will arrest the lawyer on Monday (A14), though the page doesn't explain that here; Ch 17 does.
+
+**Longing (shown):** she doesn't let go of his stretcher until the doors close; and he asks.
+
+**Laugh:** "Your marshal?" / "Talking." If flag 10 is cut, the laugh moves to Dane handing over his gun: one dry line to the deputy against himself, no ", which…". For example: "It's been a long week for it."
+
+**Subtext:** Every person who sold or hunted her is in this cabin, and the boy among them is the one who saves her case, because his own people tried to kill him with the rest of them. Ned puts himself back on the rail because it's the one thing left he can do right without being asked. Dane asks her the hardest question he has, and lets her not answer.
+
+**Tension source:** Interpersonal: the kid's confession, in front of the man it implicates by name. Situational: the clock (six hours), Dane's wound, a city of strangers after an island of her own.
+
+**Ends on (ending type: action, after an unanswered question):** Beth gets into the deputy's car. The grand jury sits at ten. It's a clock line, plain, and no ominous image. Ch 17 opens with her answer: "Beth Calloway walked into the federal courthouse in borrowed shoes, with a marshal's blood still under her fingernails."
+
+**Texture budget (2):** the glass in the kid's hair; the gun taken first on the pier.
+
+**Plants:** the kid's statement (→ Ch 17 s1, the lawyer arrested at the door on the second witness); "Will you go in without me?" (→ Ch 17 opener); Maine Medical Center (→ Ch 17 s2, he signs himself out at nine); Ned's look-back and his self-cuff (→ Ch 18, his letter from jail).
+
+**Payoffs:** the September photo (Ch 05, 06, 12); the kid hearing he's the only one who could make the lawyer charge stick (Ch 15); the cuff key (Ch 15, N8); "the girl on the boat" and the captain's job in June (Ch 08, 09); Ned looks back (Ch 02, 12).
+
+**Word count target:** 420. **Floor 380.** If it runs long, the landing drops to one sentence and the kid's facts to the lawyer, the boat and the photo. Never cut Ned's self-cuff, the photo line and "I want that written down," the gun taken first, the look-back, "Will you go in without me?", the one-line cost, or the closing action.
 
 ---
 
@@ -356,41 +343,43 @@ None of these blocks the chapter. Each is settled below. Flag 1 is a plot change
 
 | Check | Where |
 |---|---|
-| An event on the page in every scene | S1: the condition; "so do we" taken back; her first bet. S2: the ham fits; the public yes; the kiss; Tess walks out. S3: the search; the life jackets; the lawyer line in front of the kid; the rod checked. S4: Ned to the rail on her say; they leave; the big boat falls in behind. |
-| Never two talk-only scenes in a row | S1 is closest to talk-only, and it has the ham, the hands and the bet. S2 is physical comedy and a kiss. |
-| Dane on the job (competent, on the offense) | Takes her terms seriously; searches every space and both trucks; puts life jackets on two restrained prisoners without freeing either; takes and tests the radio; brings the rifle; takes the prisoners away from Russ and Tess with a reason; restates the case plainly; objects to Ned in the cabin to her face and agrees on her reason; gives her the key; asks before they go. |
-| One-talk test (Beth–Dane) | The condition is argued and accepted. The rupture: she owns deciding for both of them, he keeps his view about the danger, and both say so. Ned in the cabin: she asks, he objects with a reason, he agrees to her face. Nothing overheard, withheld or guessed wrong. |
-| The Ch 12 rupture resolved, face to face, both partly right | S1 ("Same thing I hated you for." / "I was right about what's out there." / "It's still mine to say." / "So that part's off too."), then the public yes in S2. |
-| Public yes the reader won't call | Beth announces her own yes to Russ and Tess before Dane asks, and he isn't ready. Then she makes him ask anyway (flag 2). |
-| Arguing that tips into flirting | S1, the condition into "Mostly then" / "Then ask fast" and the bet. S2, her orders and his hands. |
-| Romance obvious to a listener | Dane wants her plainly in all four scenes; the kiss is on the page in front of witnesses; "He wanted her" at most once (S4). |
-| No family reminders in tender or physical moments | No father or Ned from the ham count through the kiss. Ned's S4 business is kept apart from Dane's longing paragraph. |
-| Plot facts named plainly and restated once in the next scene | Condition (S1 → S2); rod on Saturday (S1 → S3); one light (S2 → S4); lawyer line (S3 → S4); Russ waiting for the flight (S3 → S4). |
-| Binding restates | Saturday on the rod (S1, S3). The boss's lawyer line (S3, S4). No flight, said once plainly (S3). No escort at sea, said once (S4). Sunday night or not at all (S4). |
-| Prisoners | The kid: cable ties, re-tied in front over the life jacket, never "cuffs." Ned: Russ's cuffs, a life jacket, then cuffed to the rail. |
-| Russ and Tess (new binding line) | Russ on the town office couch, bleeding stopped, waiting for the Coast Guard flight after the icing clears on Tuesday. Tess with him and the shotgun. Tess speaks to Dane only (one word on the radio). |
-| Safer options closed | Fly her out: icing until Tuesday. Wait: Sunday night or not at all. An escort: the Coast Guard comes only if the boat comes at them; Marine Patrol won't send a boat into a shooting. Leave the prisoners: Tess can't guard them and nurse Russ, and the kid ashore draws that boat to Russ. Ned below: she needs him at the ledges. |
-| Danger acts | The big boat off the point (S2) and behind them (S4). The search under a watched boat (S3). No fire, no water, no rescue. |
-| Swears | Dane 0. Beth 0. Russ 0. |
-| Caps | "Bethie" 0. "Your marshal" 0. "I'm asking" 1. "Dollar says" 1 (Beth; the last). "I don't bet" 0. "Since the oar" 0. "He wanted her" ≤ 1. "Talk to me" 0. "Here's how this goes" 0. "Okay" 0. "Looked back" 0. "The way a…" 0. |
-| Jargon | ≤ 2 glossed terms a scene. No never-list words. Every boat is "it." |
-| Contrast constructions | None in the suggested lines. The writer checks the S3 crew-line example and Dane's interior in S1 and S4. |
-| Ending types vary | Action, line, motion, image. |
-| Final scene sets up the outline's promise | One light and a big engine keeping pace leads to *What does it want?* and the Ch 16 opener. |
+| An event on the page in every scene | S1: shots; Dane goes up; he fires; the Coast Guard call; the voice; the push toward the rocks. S2: the ask; the lie; the drift; Ned's answer. S3: the line run; Dane hit; the big boat hits and limps off. S4: Ned freed; Dane found; the Coast Guard arrives too late. S5: Ned's self-cuff; the kid's statement; the landing; the gun taken; the ask. |
+| Never two talk-only scenes in a row | No scene is talk-only. |
+| Predictability note: at least one turn the reader won't see coming | **Three.** How it happens: Dane's talking becomes the weapon, and the rod-sticks fear is his lie, so the rod never sticks (flag 1). Who does it: Ned doesn't know the line, and Beth runs it from a pencil drawing (flag 2). What it costs: Beth frees Ned and leaves the wheel, and Ned's grace note is to re-cuff himself, unasked (flag 3). |
+| The rod does not stick again | It never binds. The fear is used once, as the lie on the air (S2). |
+| Dane talks her through it from the upper deck; asks before he acts | S1 "Say go." S2 "Can I tell them about the steering?" S4 "Can I lean on you?" S5 "Will you go in without me?" "I'm asking" is not used. |
+| He fires; it falls back; it comes again | S1, step 6. |
+| Dane never swears | 0. |
+| Ned cuffed to the rail, the key in Beth's pocket (N8) | S1 frame; S4 she unlocks it; S5 he re-cuffs himself. |
+| The kid's wrists tied over a life jacket | Frame; S5 (he's brought up tied). Never "cuffs." |
+| Russ and Tess ashore | Not on the page. "Her and the boy he sent after her" (S4). |
+| "Bethie" | Only "I've got it, Bethie. Go." (S4). |
+| "Alton's way. You've seen it on the door." | S2, with the turn. |
+| "Your marshal" | S5, optional, last use. |
+| Coast Guard: called in plain words, arrives as the big boat limps off, too late | S1 call; S4 arrival. |
+| Big boat leaves under its own power; nobody in the water; no fires | S3, step 6, said plainly. |
+| Every boat is "it" | Throughout. |
+| Plain words: at most two boat terms a scene, no re-gloss | S1 "the upper deck" (glossed). S2 "the ledges" (not re-glossed), "the point" (a place). S3–S5 none new. |
+| A listener can follow where everything is | The map above: the cabin at the front (she sees ahead only); Dane on the upper deck behind and above (sees all round); the big boat named by "your left/right, behind, close, far" in every radio line; the point and the ledges on her right from S1's end on. |
+| Romance obvious to a listener, in what they say over the radio | "Keep talking." / "You still owe me an answer." / "On the other side. Get us there." / "Tell them." Then "Is this the other side?" / "Pruett's the other side. Stay alive till then." Plain wanting once (S4). |
+| No family reminders inside a tender moment | Her father's line appears only as turns, in S2–S3. Nothing of him in S4 or S5's ask. |
+| No contrast constructions; no banned tics | Suggested lines checked. The writer rechecks S2's interior and S4's wanting line. |
+| No past-perfect catch-up openings | Every scene opens in motion. |
+| Ending types vary; no single-ominous-image chapter end | Action, line, silence, motion, then an unanswered ask, its cost, and an action. |
+| Final scene sets up the outline's promise | Six hours to the grand jury, Dane in an ambulance, his question unanswered, which leads into the Ch 17 opener. |
+| One-talk test (Beth–Dane) | No conflict between them in this chapter. Every move is asked and answered in the scene. |
 
 ## For the continuity log (after the chapter is final)
-- **Sunday Nov 22, about three:** the ferry board gave Beth the boat by phone; she asked for it herself.
-- **Saturday (stated here):** Beth spent the day at the co-op vise on the steering rod with her palms taped; Dane held the light.
-- **The condition:** "You ask me. Every time. Even when you're sure. And you never tell anybody I said yes when I didn't." Accepted.
-- **The rupture resolved:** Beth owns "so do we" as deciding for both ("Same thing I hated you for."); Dane: "I was right about what's out there." / "You were. It's still mine to say." / "So that part's off too." She still isn't going into the program. Dane still hasn't said what he wants ("on the other side" stands for Ch 17).
-- **The bet:** Beth's first, "A dollar says it does." Won; the ham fit by her orders and his hands. **"Dollar says" is used up for the book.**
-- **The public yes:** Beth told Russ and Tess, before Dane asked, that he would ask and she'd say yes. "Can I kiss you? I'm asking." / "Yes. Come here." Kiss in front of Russ and Tess. Tess walked out onto the steps without a word. Russ: "Well." **"I'm asking": one used in Ch 15; one left (Ch 17).**
-- **Dane's clothes:** Russ's flannel shirt, short in the arms.
-- **About eight, the search:** every space and both trucks; nothing found.
-- **Who crossed:** Beth (captain), Dane (second crew: "The certificate says two. You're the other one."), the kid (wrists tied in front with a fresh cable tie over a life jacket, far passenger-cabin bench), Ned (Russ's cuffs, a life jacket Dane buckled on him, then cuffed to the captain's-cabin rail behind Beth at her request).
-- **Who stayed:** Russ on the town office couch, bleeding stopped, waiting for the Coast Guard helicopter when the icing clears (not before Monday; Tuesday); Tess with him and the shotgun. **[Plot change against outline Ch 15 s2; see flag 1.]**
-- **Gear:** Russ's handheld radio with Dane (tested to Tess); the kid's rifle with Dane; the kid's pistol in Dane's coat pocket; Ned's rope knife with Dane. The cuff key is in Beth's coat pocket.
-- **Said on the page:** "A text from a phone in nobody's name and Ned's word won't arrest that lawyer. The kid's would. And the kid isn't talking." (in front of the kid). Nothing flies before Monday (icing). No escort at sea (A4). Three hours at best the short way.
-- **About ten:** "There may be a boat out there. Do we go?" / "Go." Off the pier at ten; slowed for the ledges.
-- **Ends on:** past the harbor mouth, the one light swings in behind them with a big engine, keeping pace.
-- **Caps spent:** Bethie 0, your marshal 0, Dane swears 0, Dollar says 1 (last), I don't bet 0 (one left), I'm asking 1 (one left), since the oar 0.
+- **About eleven, Sunday night:** the big boat came alongside; shots broke the captain's cabin side window. "I'm going up top. Say go." / "Go." Dane on the upper deck (the open roof over the passenger cabin) with the kid's rifle and Russ's handheld. He fired (three shots); it fell back and came again.
+- **Beth called the Coast Guard** in plain words on the ferry's radio: "about an hour."
+- **The big boat can hear the ferry's radio.** A man's voice from it, twice: "They're an hour off, ferry. Stop your engine and give us the girl and the boy, and the rest of you go home." / "Shut your engine off, ferry. We'll take you off before you hit." "You talk a lot, Marshal." / "Everybody says so." The man is unnamed (Book 2).
+- **The lie:** "Beth. Can I tell them about the steering?" / "Tell them." / "Her steering's gone." The steering was fine. **The rod never bound in Ch 16.**
+- **The line:** Ned has never taken Alton's way ("Never. He never took anybody."). Beth ran it from the pantry-door drawing, with Ned calling the breaking water by ear. The ledges run out along the point for about a mile, and the line runs inside them, close to the shore.
+- **The big boat** followed her in and hit the second rock, backed off under its own power, and limped away. Nobody went in the water.
+- **Dane** was hit on the upper deck by a bullet along the ribs and went silent mid-word. "You left the wheel." / "You stopped talking." / "I got shot. I'll start again in a minute." "Is this the other side?" / "Pruett's the other side. Stay alive till then." Beth pressed her knit hat into the wound.
+- **Ned:** Beth unlocked his cuff from the rail with the key and left him free at the wheel. "I've got it, Bethie. Go." When she came back, he re-cuffed himself to the rail, unasked.
+- **The Coast Guard** arrived about an hour after the call, as the big boat's light faded, and went after it. (Ch 18: it found nothing.)
+- **The kid's statement,** in the captain's cabin, to Dane: Cole, through Cole's lawyer, paid him; the big boat is theirs and brings it in from offshore; Cole had him take the September photo off Tess's board to know "the girl on the boat," who'd have the ferry in June. "I want that written down." Dane typed it into his phone. Ned heard the lawyer named.
+- **Pruett, about four, Monday Nov 23:** Beth's first landing. Deputies took Dane's gun first, then the rifle. Ned looked back once at the top of the ramp. Ambulance to Maine Medical Center. "Ten o'clock. Will you go in without me?" Not answered on the page. Beth went with the deputies.
+- **Caps spent:** Bethie 1 (cap reached), your marshal 1 (last, if kept), Dane swears 0, I'm asking 0 (one left, Ch 17), Dollar says 0 (used up), I don't bet 0 (one left, Ch 18), Say go 1, plain wanting 1, looked back 1.
+- **Injuries:** Dane, a bullet line along the ribs (Ch 17: eleven stitches). Beth's palms re-opened under the tape.

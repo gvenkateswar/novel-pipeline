@@ -2,23 +2,17 @@
 
 Dane Reyes lay in the snow under Beth's kitchen window at first light and watched the kid wash her dishes.
 
-The kid stood at her sink with his left arm bound to his body in one of her dish towels. He washed a mug one-handed and set it upside down to drain. His pistol lay on the drainboard beside the mugs. He stood on his right leg and let the left one hang.
+The kid stood at her sink with his left arm bound to his body in one of her dish towels. He washed a mug one-handed and set it upside down. His pistol lay on the drainboard. He stood on his right leg and let the left one hang.
 
-Dane had his face at the corner of the lowest pane and his gun in his right hand. The cold came up through his coat into his chest and his bad knee.
+The cold came up through Dane's coat into his chest and his bad right knee. Orange stove light lay across the glass. The boy had lit that stove at dusk for the whole village to see. The cold had beaten him.
 
-Orange stove light lay across the glass. The boy had lit that stove before dark last night, with the smoke going up for the whole village to see. Nobody hiding did that. The cold had beaten him. He'd bled for two nights, and he was weaker this morning than he'd been all week.
+Dane wanted to put him through the glass, and he lay still.
 
-This was the boy Ned's phone had sent to every bed she slept in. Now he was rinsing her mug, and Dane wanted to put him through the glass.
+One line of tracks came up through the new snow from the shore, a clean print and a long smear. None went out. Dane's board still crossed the back door. Beth had told him which board talked and which window a Calloway went out of.
 
-He didn't move.
+Russ had watched with him all night. A quarter mile down the lane, Beth sat in Russ's truck behind the rise.
 
-One line of tracks came up through the new snow from the cove, a clean print and a long smear, over and over. None went out. Dane's own board still crossed the back door. The kid was in there, and in this light he couldn't see out.
-
-The kid bent and drank from the tap, his good hand on the edge of the sink.
-
-A quarter mile down the lane, Beth sat in the truck behind the rise.
-
-"You wait in the truck behind the rise," he'd told her at the town office. "Dirt stops a bullet. And if this goes wrong, I want to know where you are."
+"You wait in the truck behind the rise," he'd told her at four, "because dirt stops a bullet, and if this goes wrong I'd like to know where you are."
 
 "I'll go. Don't flatter yourself." She had her arms folded. "If anybody bleeds, I'm coming up."
 
@@ -28,154 +22,206 @@ A quarter mile down the lane, Beth sat in the truck behind the rise.
 
 "I've lost to you every day since the oar. I'm getting quick at it. Give me till Monday and I'll lose before you open your mouth."
 
-"Marshal—" She stopped on the word. Then she took the first-aid box out of his hands without touching his fingers.
+"Except about Portland. Marshal—" She stopped on the word. Then she took the first-aid box out of his hands without touching his fingers.
 
-Yesterday he'd told his boss on speaker, with Beth three feet away, that she'd take witness protection: a new name in a new state, and never this island again. *She'll go.* He had lost her in two words, and he'd done it himself.
+The hold he'd asked for yesterday still stood.
 
-Behind the glass the kid lifted his head.
+The kid lifted his head. His eyes came to the window and rested on the snow outside it. If he came to the glass, there was nowhere to be. A gull went over. The kid went back to the mug.
 
-Dane went still. The boy's eyes came to the window and rested on the snow outside it. If he came to the glass, there was nowhere to be. A gull went over, crying. The kid went back to the mug.
-
-Then Russ's fist hit the front door, hard, from beside it, behind the stone chimney that ran up the front wall. Dane had told him to stand there. Inside, the kid's wet hand closed on the pistol.
+Then Russ's fist hit the front door from beside it, behind the stone chimney. Dane had told him twice to stand there. Inside, the kid's wet hand closed on the pistol.
 
 * * *
 
 The kid was gone from the sink, and the pistol with him.
 
-Dane came up off the snow and got his back to the wall under the sill. His right knee had set in the cold, and getting it under him cost a second he didn't have.
+Dane came up off the snow, his back to the wall under the sill, his cold right knee a second slow.
 
-Inside the front door a board creaked. *That one talks when you step on it,* Beth had said. *You'll hear him get there.* The kid was at the door.
+Inside, the board by the front door talked. The kid was at the door.
 
-Russ's voice came from beside the door, behind the chimney, where it belonged.
+Russ's voice came from beside the door, where it belonged.
 
-"Hey in there! Russ Whitcomb, the constable. You know me off the harbor. You're hurt, son. Come on out and we'll get you warm."
+"Hey in there! Russ Whitcomb, the constable, you know me off the harbor. You're hurt, son, and it's cold, and we'll get you warm. Come on out."
 
-Then the voice moved. Dane heard it come round to the middle, square in front of the door.
+Then the voice moved, square in front of the door.
 
-"I've got nothing in my hands. See? Nothing. Come on out."
+"I've got nothing in my hands, look at them. Come on out."
 
-Russ had stepped in front of the door. He'd been the constable here twenty years, talking drunk men out of houses. At the town office he'd said a hurt boy would come out for a voice he knew from the harbor.
+That boy was a stranger to Russ, and Russ had twenty years of talking drunk men out of houses.
 
-Dane couldn't leave the window. *Anybody in that kitchen who has to run goes out over the sink,* Beth had said. *I did, at sixteen.* If he ran for the front, the kid would be out the window and down the rocks. His first thought was Beth, in the truck behind the rise, out of any line from this house. He held the window.
+Dane couldn't leave the window. *Anybody in that kitchen who has to run goes out over the sink. I did, at sixteen.* His first thought was Beth, behind the rise, out of any line from this house.
 
-The shot cracked through the door.
-
-Russ's voice went up into a yell. Dane heard him go down hard on the step.
+The shot cracked through the door. Russ yelled and went down hard on the step.
 
 "My leg! Damn it, he got my leg!"
 
-Russ was hit. A review board would call it Dane's plan and Dane's constable. He held the window.
+A review board would call it Dane's plan and Dane's constable. He held the window.
 
-The window went up over his head, shoved from inside with a shoulder. The pistol came over the sill in the kid's good right hand, and the rest of him behind it, as Beth had said he would.
+The sash went up, shoved from inside by a shoulder, and the pistol came over the sill in the kid's good hand. Dane took the gun wrist in his left hand. The kid twisted, and the pistol went off beside Dane's head.
 
-Dane took the gun wrist in his left hand as it cleared the sill. The kid twisted, and the pistol went off beside Dane's head.
-
-Snow and grit hit his face. His left ear filled with a high whine, and for a breath it was the only sound anywhere. He bent the wrist back hard against the frame.
+Snow and grit hit his face, and a high whine filled his left ear. He bent the wrist back hard against the frame.
 
 "Let go of it."
 
-The pistol dropped into the snow. Dane pulled, and the kid came the rest of the way out and down, and Dane put him face down with a knee across his back.
+The pistol dropped into the snow. Dane hauled the kid out and put him face down with a knee across his back.
 
 The kid spoke into the snow. "My arm."
 
 "I know which one. I'm the one who shot it."
 
-The kid turned his face out of the snow, his lip pulled back off his teeth. Dane picked up the pistol and shoved it into his belt at the back. Only then did he holster his own gun. He brought the good wrist across to the bound one at the boy's chest and pulled a cable tie tight round both, one of the long black ones off Tess's hardware shelf. He put a second round the first.
+Dane picked the pistol out of the snow and put it in his belt before he holstered his own. He had no cuffs; Russ's pair was on Ned. Two of Tess's long black cable ties went round the kid's wrists, good one to bound one, one tie over the other.
 
 A boy with Cole's lawyer's number on his phone could sit in a room in Portland and say who sent him. He could only do it alive.
 
-Dane hauled him up. The left heel dragged a line round the corner of the house. Russ lay on his back on the step with both hands clamped on his thigh. Dane took the kid past him and in through her front door, laid him on his side on the kitchen floor, and ran a third tie from his wrists to the iron leg of the sink.
+Dane dragged him round the corner, the kid's heel cutting a line. Russ lay on his back on the step, both hands clamped on his thigh, blood on the snow. Her front door had a splintered hole at chest height.
 
-From the bottom of the lane came boots, running, uneven, one knee that wouldn't bend, and Beth's voice saying Russ's name.
+Dane laid the kid on her kitchen floor and tied him to the iron leg of the sink with a third tie.
+
+From the bottom of the lane came Russ's pickup in low gear, sliding on the turn.
 
 * * *
 
-Beth came up the lane running stiff-legged on the bad knee, the ferry's first-aid box under one arm, her gloves already gone. She went down on her knees on the step.
+Beth came out of the cab with the first-aid box, gloves already gone, and went down on her knees on the step.
 
-Russ was shot high in the thigh and bleeding hard. His blood lay bright on the snow of the step and steamed in the cold.
+The wound was halfway up the thigh and bleeding hard, bright on the snow and steaming in the cold.
 
-"Knife," she said.
+"Knife."
 
-Dane put Ned's rope knife in her hand. She slit the trouser leg from the knee up, tore open the last dressing in the box and packed the hole with two fingers, deep. Russ made a sound Dane had never heard from him.
+Dane put Ned's rope knife in her hand. She slit the trouser leg and packed the hole with the box's last dressing, two fingers, deep. Russ made a sound Dane had never heard from him.
 
-"Shit," Beth told the wound. "Hold this."
+"Shit," Beth told the wound. "Dane. Press. Harder."
 
-Dane put his hands where hers had been.
+She pulled the box's cloth strap round the thigh above the hole, put the ferry's wrench from her pocket through the knot and twisted, one turn, two, until the bleeding under Dane's hands stopped. She tied the wrench off.
 
-"Press. Harder."
+Dane read his watch out loud. "Twenty to seven."
 
-He pressed. She ran a strap from the box round the thigh above the hole, braced her boot on the step and hauled the knot tight. Under his hands the bleeding slowed, then stopped. The box lay empty on the step.
+"Remember it." The box lay empty on the step. "Don't move," she told Russ.
 
-"Don't move," she told Russ.
+"I'm not dying, so quit the face. Did I stand in the door? I stood in the door like a summer kid. You said the side."
 
-Dane had his phone out before he was off his knees. One bar. He rang the Coast Guard in South Portland and gave it to them plain: Cutter, a man shot in the thigh, a strap on it.
+"I did," Dane said.
 
-"Is the bleeding stopped?"
+The fire truck came up the lane. Tess got down with the stretcher and her handheld, went straight to Russ, checked the wrench and bandaged over the packing. She didn't look at Beth.
 
-Beth answered past his shoulder. "Stopped. Strap's on above it. He's talking."
+She keyed the radio. "Coast Guard, this is Cutter Island fire. We've got a man shot in the thigh. Strap's on, bleeding's stopped. He's talking."
 
-"Then keep the strap on and keep him warm. We'll fly when the icing clears."
+"Is the shooter secured?" the radio said.
 
-No helicopter would come up through icing for a man who wasn't dying.
+"A boy. Cable ties. He's going down to the town office with the marshal."
 
-Russ heard it. "Not dying. You hear that? I'm not dying. Did I stand in the door? I stood in the door. Twenty years, and I stood in the door like a summer kid." He found Dane. "You said the side."
+"Nobody's flying a stable patient in this ceiling. Cape Cod comes if he gets worse. If he's not going into shock, in an hour ease the strap slow. Keep the packing in and a tight bandage on. If it bleeds, tighten it again."
 
-"I did."
+Every boat in the bay had just heard there was a boy in ties at the town office. Dane would have kept that off the air, and Tess wasn't asking him anything today.
 
-Russ's shotgun leaned on the chimney, where he'd set it down to have his hands empty for the boy.
+He texted his boss with Russ's blood on his thumb. *Have him. Alive. My constable shot in the leg, bleeding stopped.*
 
-Dane texted his boss with Russ's blood on his thumb. *Have him. Alive. My constable shot in the leg, bleeding stopped. Need a flight when the icing clears.*
-
-He watched her. Her braid had fallen forward over her shoulder, and her hands were red to the wrists. Between orders she said nothing at all. She was the best thing he had ever seen at work.
-
-The fire truck came up the lane, its engine loud in the still morning. Tess got down with the stretcher and went straight to Russ. She took the strap end out of Beth's fingers and checked the knot herself. She didn't look at Beth.
-
-"Ned Haskell's cuffed to the pipe in the back room," Tess told Dane. "On that hip he's going noplace."
-
-"Town office couch for Russ," Dane said. "I'll bring the kid down behind you."
+"Those ties are a dollar apiece," Tess told him. "Haskell's cuffed to the pipe in back. On that hip he's going noplace."
 
 "Tess," Russ said. "I stood in the door."
 
-"I can see that, you old fool. Lift."
+"I can see that, Whitcomb, you old fool. Lift."
 
-They got Russ onto the stretcher and into the back of the truck. Tess laid the shotgun on the seat beside her, and the fire truck went back down the lane.
+They loaded Russ on the stretcher into the bed of his own pickup. Tess laid his shotgun on the seat, tossed Dane the fire-truck keys without a word and drove off.
 
-Beth stayed on her knees on the step with Russ's blood to her wrists. Dane held a hand down to her.
+Beth was still on her knees, bloody to the wrists. Dane held a hand down to her.
 
-She went past it to his coat, two fistfuls, and came up off the step on them. She held on. Her face was a foot from his, and her hands left red on the wool.
+She went past it to his coat, two fistfuls, and came up off the step on them. Her face was a foot from his.
 
-"I want you, Marshal," she said. "I haven't stopped. I'm still not going."
+"I want you, Marshal. I haven't stopped."
 
-He wanted her. He stood on her step with her hands in his coat and couldn't take back one word he'd said to his boss. She'd said it anyway.
+Dane put his hand over one of her fists and kept it there for one breath. The hold stood. He kept his face empty.
 
-She let go and went in to her kitchen.
+She let go and went into the kitchen. The prints of her hands stayed on his coat, red on the wool.
 
 * * *
 
-The stove the kid had lit was still going. Under the woodsmoke her kitchen smelled of somebody else's two nights in it, wet wool and canned stew. On the floor the kid breathed short and wet against the leg of the sink.
+The kid's stove was still going. Under the woodsmoke her kitchen smelled of somebody else's night in it, wet wool and canned stew.
 
-Beth stood at the sink wiping Russ's blood off her hands on a dish towel. The mugs the kid had washed hung on her hooks with their handles out.
+Beth wiped Russ's blood off her hands on a dish towel. The mugs the kid had washed hung on her hooks with their handles out.
 
 "You put the mugs away wrong," Beth told the kid.
 
-She took one down, turned it, and hung it back with the handle in. She stood with her hand on it. One of her dish towels was round the kid's arm, another was stuffed in the broken pane by her door, and she was holding a third.
+She took one down, turned it, and hung it back with the handle in. She stood with her hand on it.
 
-Dane nearly laughed.
+Dane laughed once through his nose and stopped it.
 
-"On this island it's finished," he said to her.
+His hand came up toward hers on the mug. He put it in his coat pocket and checked the kid's ties at the sink leg.
 
-Beth folded the towel and hung it on the rail of the stove.
+Another dish towel was stuffed in the broken pane. She folded a third and hung it on the stove rail.
 
-The pantry door stood open where the kid had eaten off her shelves. On the inside of it, in old soft pencil, her father had drawn the harbor rocks: the ledges, the rocks just under the water at the harbor mouth, as small careful shapes, and one line running inside them that wasn't on any chart.
+The pantry door stood open where the kid had eaten off her shelves. On the inside of it, in old soft pencil, someone had drawn the ledges at the harbor mouth as small careful shapes, and one line ran inside them that wasn't on any chart.
 
-"What's the line?" Dane said.
+"What am I looking at?"
 
 "My father's way home. Nobody's taken it since him."
-
-A way through the rocks that no chart showed, and nobody had used it in years. Nobody watching this harbor would think to watch that. He didn't answer her.
 
 The kid laughed once from the floor, and it hurt him.
 
 Dane turned. "Who's coming for her?"
 
-The kid turned his face up off the boards. "You think I was what's coming?" he said. "They've got a boat."
+The kid turned his face up off the boards. "You think I was what's coming? They've got a boat."
+
+* * *
+
+Dane saw the stiff new orange float coat when it was still a mile off, coming round the head of the harbor in the snow.
+
+In the lee of the point, where nothing lay in November, a big fishing boat lay quiet. The icing was up in the cloud. A skiff could get into the lee under it, and a helicopter couldn't get down through it.
+
+Beth sat on the town office step with the bent steering rod across her knees, brushing it clean for the co-op's vise. The steel was cold enough to burn.
+
+"Inside, please," Dane said, "where the walls are."
+
+"No." She kept brushing.
+
+He stood in the doorway with the kid's rifle. With the back-room door open he could see the road, the step, Ned asleep against the pipe and the kid tied on the floor. He thought about shutting it and left it.
+
+The new coat belonged to a big, slow man in his sixties, gray-bearded and bare-headed. He stopped at the foot of the step.
+
+"Heard on the radio you've got a man shot. Terrible thing. I've got gauze aboard, if you're short."
+
+They were short. "We're fine," Beth said.
+
+Dane came down the step and stood in front of her. Beth got up beside him and put her hand on his arm.
+
+"Don't stand in front of me," she said, low.
+
+Her hand stayed, and Dane kept very still so she'd leave it there.
+
+"And you are?"
+
+"Hal Mercer. Out of Gloucester. Laying in out of the weather."
+
+Dane held up his phone. "Smile for my boss."
+
+Mercer smiled for it, gold tooth and all, and turned the smile on Beth. "Captain. Come June, anyway."
+
+He looked at the rod in her hands. "That's no good for a crossing, Captain. Weather's no good either. I'd wait for Tuesday."
+
+"That coat's never been wet," Beth said.
+
+Mercer looked past Dane, through the open back-room door, and smiled at what he saw on the floor. Dane turned. The kid looked at Mercer, then turned his face to the wall.
+
+Mercer set a sealed packet of gauze on the bottom step and went back down the road. Dane watched the coat until the snow took it.
+
+Inside, he crouched by the kid. "Is that him?"
+
+The kid kept his face to the wall. Dane waited long enough for it to count, then stood.
+
+He'd said June. That came from Cole, through Ned. And the open door would go in a review board's report under Dane's name, and he had been very pleased with that door.
+
+He sent the photo and the name on one bar. His boss answered: *Nothing to hold him on. I'll run the name.*
+
+They wouldn't come for the town office. A marshal, a rifle and a shotgun behind a lit window in a village of two hundred and forty, and a shot-up town office looked like murder.
+
+The hold was right. It would be right on Monday at two.
+
+At dusk Tess came back with the wood and the shotgun and went in past Beth without a word. The gauze lay on the bottom step under new snow. Beth hadn't touched it.
+
+"Cancel it, Dane."
+
+"No. He walked a mile in the snow to look at you."
+
+"He told me to wait for Tuesday. You want me in a room in Portland till spring. Which one of you is going to ask me?"
+
+He didn't answer. She went down the step toward the co-op and its vise, and he took the rifle and followed, a step wide on the water side.
+
+Off the point, through the snow, a single light came on.

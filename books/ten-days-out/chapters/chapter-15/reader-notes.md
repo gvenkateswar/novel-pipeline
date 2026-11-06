@@ -1,111 +1,98 @@
-# Reader Notes: Chapter 15, "Eleven Pounds"
+# Reader Notes: Chapter 16, "Inside the Ledges"
 
-**Draft read:** `chapters/chapter-15/final.md`, Nov 6, 2026. I read it after `final.md` for chapters 01 to 14, in order, and nothing else.
+**Draft read:** `chapters/chapter-16/final.md`, as of Nov 6, 2026. Context: `final.md` for chapters 01 to 15, read in order before it. Nothing else.
 
 ---
 
 ## Pull score
 
-**3.5 / 5 for the chapter.**
+**Chapter: 3.5 / 5.** I'd keep reading, but... read the "but" below.
 
-| Scene | Pull | Note |
+| Scene | What happens | Pull |
 |---|---|---|
-| 1. The ham and her condition | 3 | Charming, but the terms are spelled out like a contract. |
-| 2. Tess, the bet, the kiss | 3.5 | Russ's commentary saves it. The "I'm telling you myself" speech feels staged. |
-| 3. Car deck: search, life jackets, logistics | **2.5** | This is where I drifted. Procedure and plot-hole patching. |
-| 4. Ned to the wheel, casting off, the engine | 4.5 | Tense and quiet. The last three lines pull hard. |
+| 1 | The big boat comes up, the windows go, Dane goes up top, the voice on the radio | 4 |
+| 2 | The steering lie, letting the wheel go loose, "Is this the gap?" | 4 |
+| 3 | Running Alton's way, the big boat hits the rock, Tess's light, the three turns | 3 |
+| 4 | Dane goes quiet, Beth hands the wheel to Ned, the upper deck | 4.5 |
+| 5 | The kid confesses, the landing at Pruett, the ambulance, "Six hours." | 3 |
 
-I would keep reading, with no hesitation, but only because of the last page. I have had fourteen chapters of build to this crossing, and the ending of this one finally pays it. The first three quarters are a breather, and a long one.
+**I'd keep reading, but:** I'm reading to finish, not because I'm burning to know something. This was the climax. I know she's going into that room. I know Dane lives ("I'll live" came over the radio). The one question left open, whether she goes in without him, isn't really open. The book has told me for sixteen chapters that she doesn't run.
 
 ---
 
 ## Where I got bored
 
-- **The truck search.** "Nothing. He slid out and did the lumber truck, cab and load, then the crew room's two bunks and the engine room. All day yesterday the ferry sat empty at the pier while the rod was in the co-op's vise, and the big boat watched it from off the point. Nothing anywhere." I work out that he's looking for a bomb or something planted, but the book never says so. It reads as a checklist, and nothing is found. My attention went here.
-- **The life-jacket buckling.** Cut the tie, buckle the jacket, re-tie, a second tie round the bench leg. Then open one cuff, work the arm through, close the cuff, buckle. Step-by-step prisoner handling. I understood why after the first sentence.
-- **The logistics paragraph:** "Nothing would fly in this icing before Tuesday, for Russ or for Beth, so it was this boat tonight, and Russ would wait on the couch with Tess. The prisoners crossed, because Tess couldn't nurse him and guard two men, and a kid left ashore who could name Cole's lawyer would bring the big boat's men to Russ's door." It feels like the author answering an objection before I can raise it. I hadn't raised it. Chapter 14 already told me nothing flies until Tuesday.
-- **"A text from a phone in nobody's name and Ned's word won't arrest Cole's lawyer. The kid's would."** Dane says this out loud to Beth, who already knows it, so that I'll know it.
+- The run through the gap itself. "The sea broke white on the ledges to her left and on the shore rocks to her right, each wave by itself, and she steered between the two sounds." / "Out again where the pencil bent away from the land. She eased the wheel left, and the shore went away from her right hand." / "The third turn was coming, the tightest one..." This should be the most physical, frightening passage in the book. It reads like turn-by-turn directions. I couldn't picture the gap, how wide it was or how close the rocks were, so the three turns felt like a list to get through. The sea had more terror back in Chapter 7, with one rock and one wave.
+- The kid's confession. "It was Cole. Through Cole's lawyer. The lawyer paid me. He met me himself, in Portland, in his car, behind the bus station. He gave me the phone and two thousand cash." It's a deposition. It ties off a plot thread, and my attention went flat while it was tied.
+- The deputies' inventory at Pruett: "Dane's gun. Then the kid's rifle and pistol, Ned's knife, and a phone in a plastic bag, switched off." It's a checklist of props from earlier chapters, and I could feel the book counting them back in.
 
 ## Where I got confused
 
-- **The opening line's "her condition."** A condition for what? It took me a paragraph to realize this is the terms for getting back together after "And so do we" in Ch 12. That's fine once I had it, but I started the chapter a step behind.
-- **"She still had his phone in her taped hand. The ferry board had given her the boat for tonight, and she'd asked them herself."** She asked the board for the boat. That's a big moment for a woman who couldn't ask Ned for his job for years, and it sits in a half-sentence of backstory. On first read I didn't catch that this is why she's holding the phone.
-- **"So that part's off too."** Which part? I think it means the breakup ("so do we" is off). I had to reread.
-- **Timeline.** "After all of Saturday at the co-op's vise with the steering rod, while he held the light." So this is Sunday afternoon. The "It hadn't moved since dawn yesterday" line confirms it, but I had to do the math. Then the phrase "Same as Friday" sends me back again.
-- **The town office suddenly has a kitchen.** It has an oven big enough to nearly take an eleven-pound ham, plus a sink and a window. In Ch 12 it was "a front room built for one clerk" and a back room. I didn't picture a kitchen there.
-- **Where did the ham come from, and why a ham?** Nobody says. I liked it, but I wondered. (Then I realized it was the Ch 8 payoff, "I never learned to cook for two," and liked it more. The book never points at that, which was right.)
-- **Tess walking out during the kiss.** Is she disgusted, giving them privacy, or still punishing Beth? I couldn't tell. Her silence has run three chapters now, and I'm no longer sure what it's about. Is it the suspicion, or Russ getting shot at Beth's door, or both? "Tess doesn't count. She's not talking" is a good line, but the thread is starting to feel stuck rather than held.
-- **Which deferred question is "something"?** "He's going to ask me something, and I'm going to say yes." I thought this was finally the answer to "ask me in five days." He asks, "Can I kiss you?" Was that the question? Or is the love question still saved for "the other side"? I honestly don't know whether the five-days thread just paid off or got pushed again.
+- **The geography of the chase.** The harbor mouth is "half a mile behind." The big boat "sat between her and the harbor mouth." Then it's pushing her toward "the island's point, the long arm of land on the far side of the harbor mouth." Which side of the harbor mouth am I on? I gave up trying to map it and just went with "rocks on the right."
+- **"Alton's way."** Who is Alton? I worked out it must be her father, since it's the pencil line on the pantry door, but I don't remember him being named anywhere before. For a second I thought it was a new character.
+- **Why she says "Dane. You still owe me an answer" on the open radio.** The chapter makes a point of it: "Anyone listening had heard it. Let them." Why does she want the gunmen hearing that? To sound distracted? To sound like a soft target? I couldn't tell if it was tactics or just her wanting to hear him. If it's tactics, I missed it.
+- **How Tess got the fire truck onto the point.** Chapter 4 says the point is "an hour round by the road." Here she's on the radio with "Truck's on the point, Calloway. Light's on you" within what feels like ten minutes of the chase starting. Did she drive out there ahead of time? If so, I wanted one line telling me.
+- **Time.** The gap run feels like minutes. Then the Coast Guard arrives "about an hour after her call" while Beth is up top with Dane, then "a little after midnight," then "a little before four" at Pruett. Chapter 15 said "Three hours at best." I lost track of how long they were out there and why it took six.
+- **"Ten o'clock."** Before this, the grand jury was "Monday morning" and Cole goes free "at two." Ten o'clock is new information slipped into the last line of dialogue. It's fine, but I had to stop and do sums to land on "Six hours."
+- **Why the deputies take Dane's gun first.** I assume it's procedure after he fired at people. A reader who doesn't know that will think he's being treated as a suspect.
 
 ## Where I stopped believing
 
-- **Beth's announcement to Russ and Tess:** "I'm telling you myself, so nobody ever says it for me." Nobody talks like this before a kiss. It's the theme of the chapter said out loud by a character, to an audience, in one sentence. Beth has been blunt all book, but blunt about things like ham and oars, not about her own motives.
-- **The reconciliation is too balanced.** He wronged her by deciding for her, and she admits she did the same ("Same thing I hated you for"). He admits fear (in Ch 14), and she admits he was right about the danger. It's even-steven, each owning exactly half, like a mediated settlement. Real people making up after that fight would be messier and less fair.
-- **Russ's sudden chatter.** "Is it going in? It's not going in. Is he going to make it go in? He's going to try." I loved it as comedy. But this is the man whose whole voice has been "Late," taking his cap off and putting it back on. He's been shot, so maybe painkillers, maybe relief, but the book doesn't give me a reason, so it reads as a different character for one beat.
-- **Ned on the bridge, cuffed one-handed to a rail, key in Beth's pocket.** Her reasoning holds up. But Dane making a show of putting the key "where she could see him do it" told me loudly that this key matters later. I stopped being inside the scene and started watching the setup.
-- **Leaving in the face of a boat that has watched the harbor for a day and a half.** "Do we go?" "Go." There's no stated plan, no call to the Coast Guard to say "we're leaving now, here's our position," nothing. Maybe her father's line through the rocks (Ch 13) is the plan and it's being held back, which would be fine. But nobody even glances at it, so I can't tell if they've forgotten it or are hiding it from me.
+- **The kid confessing now.** He hadn't said a word since "They've got a boat," through two days and a storm. Then he "talked to Dane, fast, one fact after another." I can build the reason myself: the voice on the radio said "give us the girl and the boy," so his own people just tried to kill him. That's a good reason. But neither he nor Dane says it, so on the page it reads like the plot needed the lawyer named before Monday. One line from the kid tying it to "the boy" would have sold it.
+- **Dane after being shot.** A bullet opened his ribs. Then he leans on her down an iced ladder, goes "down the steel stair" again to fetch the kid, cuts a tie and brings him up. He's being treated the way the book treats Beth's knee: a wound that matters for one scene and then is scenery.
+- **The big boat following her into the gap.** I half bought it. "It had come in blind on her lights" is fine. But these are men who run drugs in from offshore on this coast, and they follow a "broken" ferry straight at a line of breaking water. Then it backs off the rock and limps away. That's convenient both ways: it crashes so she wins, and it floats so nobody has to deal with bodies.
+- **"Ashore, Tess heard every word and stayed off the air."** We're in Beth's head. Beth can't know Tess heard every word. It reads like the author leaning in.
+- **"She had never landed it before. Her hands knew how."** Her first time at the wheel alone was in Chapter 14, her first landing is here, with skinned, taped palms after six hours, and the book gives it one line. Chapter 14 already did "Her hands went to this one as if they already knew it." Now the hands knowing is a habit, not a moment.
 
 ## Where it sounded like AI
 
-- **"Her taped hands" / "taped palms" / "taped fingers" / "taped thumb" / "taped hand."** I counted about nine in one chapter. Each was fine alone, but read together they're a tic.
-- **"He wanted her" again.** "He wanted her. He couldn't do one thing about it till they tied up at Pruett." Also "He'd have knelt beside her and put his mouth to the back of her neck" and "He thought about kissing her here, against the stove." Each POV beat stops to note desire in the same shape. Across the book "He wanted her" / "She wanted him" has become a refrain. By Ch 15 I skim it.
-- **Dialogue that states the book's theme:** "Even when you're sure." "Mostly then." "It's still mine to say." "So nobody ever says it for me." "Ask anyway. Even when you're sure." The consent/asking idea is a good spine, but this chapter says it five times in case I missed it.
-- **The callback is explained.** "She had never once taken his bet. Now she was making her own, with his words." I remembered the unfinished dollar bet from Ch 14. Telling me what the callback means took the fun out of noticing it.
-- **Explanatory definitions in the middle of action:** "The rail was the steel bar along the side wall of the cabin, at her left hand." The book has done this all along (the float, the grand jury, the ledges, the rudder). It's mostly helpful, but here it stops the scene to define a word nobody needed defined.
-- **Beth and Dane sound alike again in the terms scene.** Short declaratives, dry, matched rhythm. "Then ask fast." / "The night counts." / "Go." Either could have said most of these lines.
+- **Explaining the trick after doing it.** "He had never once lied to her, so the lie was for them. To them it would sound like a marshal owning up to a weakness." Then: "Three words from a man who talked in paragraphs. Let them think one of their shots had found it." The plan was clear the moment he said "Can I tell them about the steering?" Two rounds of explanation drained it.
+- **"She couldn't say any of that on the air."** / **"Every boat at sea could hear the ferry's radio. That was what it was for."** The narrator walks me through the logic of every move.
+- **The "she wanted him" line.** "She wanted him, here, bleeding on the upper deck of her boat in a borrowed shirt, and she had never wanted anything so much in her life." Some version of this is in nearly every chapter since 12: "She wanted him. She was angry with him. Both were true." / "I want you, Marshal." / "she wanted both fists in his coat." By now it's a stamp, and it lands in the one scene where it least needs saying.
+- **Scene-closing one-liners.** "She went." / "She held it." / "She steered from the drawing." / "Six hours." Every section ends on a short, clipped sentence. Taken one at a time they're good. Together they're a drumbeat.
+- **"Beth kept her hands on the wheel" / "Her taped hands stayed where they were" / "She kept them on the wheel."** The same image three or four times in one chapter.
+- **"The upper deck was the open roof behind and above her cabin, up a ladder outside the door, with a rail round it. From up there he could see all round. From the wheel she could only see ahead."** A stage manager's note, dropped in mid-gunfight.
+- **The villain on the radio** sounds like a movie villain: "I want you where I can count you." Ned's "Kind of them" is the only reason that exchange is any good.
 
-## Prediction section
+## The listener pass (heard as audio)
 
-What I expect, so you can check it against the book:
+- **Too many disembodied radio voices.** In this chapter the radio carries Dane, the unnamed gunman, a Coast Guard woman, Tess, and later the Coast Guard again. Several lines come with no tag. In print the italic-free quotes are just about trackable. By ear, "They're an hour off, ferry. Stop your engine..." straight after the Coast Guard woman is a stumble: is it still the Coast Guard? "Truck's on the point, Calloway" only works if the listener catches "Calloway" as Tess's word.
+- **Left, right, left.** "Behind you on your left," "on her left," "to her left," "her right hand," "the right-hand windows," "eased the wheel left," "the shore went away from her right hand." Aloud, the gap sequence turns to mush. I couldn't hold the directions in my head.
+- **"Alton's way."** A listener can't flip back. It lands as a brand-new name.
+- **What works aloud:** "It's—" Dane's voice said, and stopped in the middle of the word. / The radio hissed and said nothing. That's the best audio beat in the book. The silence plays as silence. "You left the wheel." / "You stopped talking." also plays perfectly, short and clean, two voices you can tell apart without tags.
+- **Repetitions you'd hear:** "her hands" (constantly), "on her left" (five or six times), "talking" / "talk" (the motif is deliberate, but it's thick here: "I'm still talking, so I'm still fine," "You talk a lot, Marshal," "a man who talked in paragraphs," "You stopped talking," "Talking," "talking down the steel stair," "still talking").
 
-1. **The big boat comes at them at the ledges, and Beth takes her father's line through the rocks** (the pencil drawing on the pantry door, Ch 13) to lose it, or to draw it onto the ledges. I'd bet heavily on this. The book planted it hard and then went quiet about it, which reads as a hold.
-2. **Somebody goes in the water, and it's Ned.** He can't swim, he never wore a life jacket in thirty years, and in this chapter, for the first time, he's wearing one. That's three plants. Either he goes over and the jacket saves him, or he goes over saving Beth. A redemption death for Ned feels likely.
-3. **The cuff key in Beth's pocket gets used to free Ned so he can help:** at the wheel, on the ropes, or to take the wheel when her hands give out.
-4. **Her hands fail at the wheel.** The rod sticks again ("If it sticks, I'll feel it first"), and her raw palms can't hold it. Someone else's hands go on the wheel: Ned's, or Dane's under her orders.
-5. **Tess and the fire truck's light show up again on the shore,** and that's how Tess breaks her silence, by doing rather than talking.
-6. **The kid talks before Pruett.** "He's got the whole way across to think about it" is a promise. My guess is he talks after the big boat shows it'll kill him too, or after Ned does something for him ("somebody's boy").
-7. **The ending:** she testifies Monday morning, Cole is indicted, Cole's lawyer is arrested on the kid's word, and Dane gets the Maine office. He finally asks the love question, she says yes, and he buys the leaky wooden lobster boat. She captains the ferry. The ham gets eaten by everybody, Tess included.
+## Predictions (what I think happens from here)
 
-If the book does all seven of these, it will feel predictable. If it skips 1 or 2, I'll feel cheated, because the plants are that loud.
+- She goes in alone at ten. Of course she does. The chapter ends on the question so the next chapter can open with her walking in. Confidence: very high.
+- Cole is indicted, the lawyer is arrested on the kid's statement, and Ned's son is safe. Confidence: high.
+- Dane gives her his "answer" from a hospital bed or turns up at the courthouse. He wants to stay in Maine, maybe on the old wooden boat that "needs everything." Confidence: high.
+- Ned gets some last scene with Beth (prison visit, a letter) that ends on the ferry job, or on her not forgiving him. "Beth didn't lift hers" says not yet.
+- Tess finally speaks to her. She's been silent since Wednesday and broke it only to say "Light's on you." Calloway. I'd bet the last chapter has Tess saying something rude and loving. Confidence: high.
+- The fishing boat got away, and Dane told Beth in Chapter 9 that the New Bedford woman was burned out *after* testifying. If the ending ignores that, it'll feel like a dropped thread. I expect either a line that the boat was caught or a closing note of watchfulness on the island.
+- Beth takes the wheel in June.
 
-## Listener pass (read as if hearing it)
-
-- **Works aloud:** the opening sentence. Russ's "Is it going in?" run, which is the best audio moment in the chapter. "It's going in." "Tess doesn't count. She's not talking." The last four lines, which are short, with the sound coming before the sight.
-- **Hard to follow by ear:**
-  - "She meant Wednesday, and his own voice on the speaker with her three feet off." A listener won't know what "she meant" refers to.
-  - "Her taped palms wouldn't close on it after all of Saturday at the co-op's vise with the steering rod, while he held the light." Too many clauses before the sentence lands.
-  - The logistics paragraph ("Nothing would fly in this icing before Tuesday… would bring the big boat's men to Russ's door"). On audio I'd lose it halfway through.
-  - "At ten she took it off the pier and across the harbor, slowly, on the last night that could get her into that room before Cole went free, with no escort and the Coast Guard an hour off." This is a strong sentence on the page, but long aloud.
-- **Repetition the ear catches:** "taped" (the narrator will say it nine times), "cuff" / "cuffs" in the Ned business, and "Nothing" opening consecutive sentences in the search.
-- **Who's speaking:** clear throughout. Russ and Tess are well tagged, and Ned's single line, "Wind's going down," is unmistakably his weather-first voice. That carried over from earlier chapters.
+All of this feels inevitable. That's comfort for a romance, but nothing above is a surprise I'm waiting for.
 
 ## What I want to know next
 
-Plenty. This is the strongest pull since the Ned reveal:
+- How she walks into the grand jury room. Not whether. I want to see her under the "good coat" Dane has been imagining since Chapter 3. That courtroom has been promised for thirteen chapters.
+- What Dane's answer is, and whether he asks her (her condition from Chapter 15: "You ask me. Every time.").
+- Whether Tess forgives her.
+- Whether the boat off the point comes back.
 
-- What is the big boat going to do, and where on the crossing will it hit?
-- Is Beth going to take her father's line through the rocks? Can she do it with those hands, at night, after nobody's run it in years?
-- Will the rod stick again?
-- Is Ned going to do something with the cuff off, and which way will he go?
-- Will the kid talk, and what makes him?
-- What is Dane going to say "on the other side"? (Though I'm close to tired of waiting. See below.)
-
-**Warning about the love question.** "Ask me in five days" (Ch 8), "Don't say it yet" (Ch 10), "I'll tell you on the other side" (Ch 14), and now "He's going to ask me something" turns out to be a kiss. That's four deferrals. I still want the answer, but the teasing is starting to feel like the book stalling, not the characters holding back. One more dodge and I'll be annoyed.
+Plainly: the questions are real but small, and I can guess the answers. The pull into Chapter 17 is "let me see it land," not "I have to know."
 
 ## Best moment
 
-> "What if I'm sure and somebody's shooting at us? Because that's come up."
+> Then shots, a long burst, at the upper deck behind her. "It's—" Dane's voice said, and stopped in the middle of the word.
 >
-> "Then ask fast."
+> The radio hissed and said nothing.
 
-Runner-up, and the scene I'll remember:
+And its payoff on the upper deck:
 
-> "Is it going in?" Russ said. "It's not going in. Is he going to make it go in? He's going to try."
+> "You left the wheel," he said.
 >
-> The pan slid in across the oven floor with a soft scrape.
->
-> "It's going in," Russ said.
->
-> Dane shut the door on it, with a quarter inch to spare.
+> "You stopped talking."
 
-Also the ending: "'Tell me where it is,' she said." For a whole book she's had him talk so she can hear where he is. Now she's the one asking him to be her eyes. I noticed the reversal without being told, which is how a callback should work.
+The whole book built Dane as a man who talks through everything and Beth as a woman who never leaves the wheel, and here each one breaks their rule for the other in four words. It's earned, it's quick, and nobody explains it. The next beat, Beth unlocking Ned and handing the wheel to the man who sold her ("I've got it, Bethie. Go." / "He took the wheel where he had stood for thirty years. She went."), is the second-best moment. Ned closing his own cuff on the rail afterward, "Nobody had asked him," is the best small touch in the chapter.

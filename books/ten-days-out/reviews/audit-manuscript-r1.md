@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–10, 30,323 words)
+# Audit — ten-days-out (chapters 01–17, 37,995 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -6,224 +6,136 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 
 ### Motif list (bible caps, whole book)
 
-| Motif | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | Total | Cap | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Palm flat (Ch 3, the log, only) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
-| Palm laid flat, any order | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
-| Hand flat on (watch v1's tic) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
-| Thirty-one, every use (rests after Ch 3) | 0 | 0 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 3 |  |
-| Thirty-one thousand | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
-| The store's truck (name it differently each time) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
-| Store pickup | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
-| Store pickup, no possessive | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
-| Tess's truck | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
-| Store vehicle | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 2 | 2 |  |
-| Plow frame | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 2 | 2 |  |
-| Gloves off | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 5 |  |
-| Bare-handed | 0 | 0 | 1 | 2 | 1 | 1 | 0 | 0 | 0 | 0 | 5 | 5 |  |
-| Her bare hands | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 2 | 3 |  |
-| "Bethie" (Ned only) | 1 | 0 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 6 | 6 |  |
-| "Water side" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 2 |  |
-| "Me and God" | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 3 |  |
-| "Ned's color" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
-| Red seal | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 2 | 2 |  |
-| Seal noted | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 2 | 2 |  |
-| Ned looks back (plants and the payoff) | 0 | 0 | 1 | 0 | 0 | 2 | 0 | 1 | 0 | 0 | 4 | 6 |  |
-| Lifts a hand | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
-| Ned's hearing aid | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
-| Ned's rag on the windows | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 0 | 3 | 3 |  |
-| "Ask me sober" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 2 | 2 |  |
-| Tess's hand, the ballpoint | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 | 3 |  |
-| Back of her hand | 0 | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 3 | 3 |  |
-| Blue to the wrist | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 1 |  |
-| Twenty-two forty | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
-| "Who knew you were here" | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
-| "Dollar says" | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 | 4 |  |
-| "I don't bet" | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
-| Dane's predictions, "There it is" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
-| Exact change | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
-| "Here's how this goes" | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |  |
-| "Talk to me" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4 |  |
-| "For the record" (Dane only) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
-| "Ms. Calloway" | 2 | 0 | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 7 | 8 |  |
-| "Your marshal" | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 2 | 4 |  |
-| "Okay" (Dane's pivot; Beth never) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 30 |  |
-| Back to the wall | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
-| Back to a wall | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
-| Different ocean | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
-| Narrow definition of waterproof | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
-| The right boots | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 |  |
-| A hundred and ninety | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
-| Fudge | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
-| "From away" | 2 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 8 |  |
-| "The glass" (barometer) | 2 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 1 | 5 | 6 |  |
-| "Make fast" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
-| Dooryard | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4 |  |
-| Wicked | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
-| Ayuh | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  |
-| "Material witness" (never) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  |
-| "First District" (never) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  |
-| "Undersized" (never in Ned's or Beth's mouth) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  |
-| Holland (retired make) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  |
-| Webbers Cove | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 | 4 |  |
-| Master and one deck | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
-| Sector (Ned's word) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 3 |  |
-| The inspector | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 1 | 2 | 5 | 5 |  |
-| "Steel doesn't burn" | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 3 |  |
-| "Anyone with a skiff" | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
-| "Over that stern" | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 2 |  |
-| "Ten days" | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |  |
-| "Last sitting" | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
-| Latch, any form | 0 | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 10 |  |
-| Lift and shove | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
-| The chimney | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 0 | 0 | 6 | 7 |  |
-| "Walked the bar" | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 3 | 3 |  |
-| "Do not disclose" | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 2 | 3 |  |
-| "No indication" | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 2 | 3 |  |
-| The screen | 1 | 0 | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 4 | 6 |  |
-| "Is this going in your log" | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
-| "We go down to look" | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 2 |  |
-| "Not again today" | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 2 |  |
-| "They burned Ashby" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
-| "Not Tess. Not tonight." | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 2 |  |
-| "This isn't water" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 1 |  |
-| The ham | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 1 | 1 | 4 | 5 |  |
-| Eleven pounds | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 2 |  |
-| "Disappointing kit" | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
-| "Good till" (the condoms) | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 2 | 2 |  |
-| Receipt | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 2 |  |
-| "I know what you are" | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
-| "Choosing anyway" | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
-| "I report this" | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
-| Giglio | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 2 |  |
-| Marisol | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 4 |  |
-| "Called off of" | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
-| "There goes my boat" | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
-| "Sold. Sorry." | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
-| Shut his eyes | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
-| Fist in his belt | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
-| Fist near belt, any order | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
-| Fist in his collar | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
-| Jacket front | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
-| Knee-deep | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 3 | 4 |  |
-| Thigh-deep | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 2 | 2 |  |
-| Waist-deep | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
-| The gut | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 6 |  |
-| A stride inside | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 2 |  |
-| Socks on steel | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 2 | 0 | 3 | 4 |  |
-| Ring buoy | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 4 |  |
-| First match | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
-| Pine tar | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
-| Handwriting (incl. the Ch 7 title) | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 5 |  |
-| Potato | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
-| "Chimney smoke's people" | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
-| "That narrows it" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
-| "Not a complicated man" | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
-| "Just the once" | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
-| "That's the bridge" | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
-| "Like your dad" | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
-| No lights (the truck) | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 3 |  |
-| Two pots | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
-| Since he brought you the diesel | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
-| Impeller | 0 | 0 | 0 | 1 | 0 | 4 | 0 | 0 | 0 | 1 | 6 | 6 |  |
-| Town ring | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 3 | 4 |  |
-| Propane cage | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |  |
-| Timer | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 2 | 5 |  |
-| Golds | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
-| "Heart of the island" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
-| "Hard winter" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
-| "Agent Quist" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 2 | 3 |  |
-| Bucket | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
-| "It's a Tuesday" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
-| "Traps out by Tuesday" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 |  |
-| "Ninety seconds" | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
-| "Not yet I can't afford" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
-| "Long enough to be useful" | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
-| LifeFlight | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 2 | 3 |  |
-| The ballfield | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 3 |  |
-| Deck lights | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 3 | 3 |  |
-| Sleet | 2 | 1 | 0 | 1 | 0 | 0 | 0 | 2 | 0 | 0 | 6 | 12 |  |
-| Woodsmoke | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
-| Thrum | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
-| Her Tess voice (Beth's mimicry) | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 1 |  |
-| Her Ned voice | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
-| Her Russ voice | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
-| Rockweed | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |  |
-| Breath on (v1 tic) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
-| Stubble | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 2 | 3 |  |
-| Callus | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 2 | 3 |  |
+| Motif | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | Total | Cap | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| "Dollar says" (Dane's bet) | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 | 4 |  |
+| "I don't bet" (Beth's answer) | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
+| "Different ocean" (Ch 01) | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
+| "The right boots" (Ch 18) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 |  |
+| Fudge (the boot store) | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
+| "The government" as a person (three uses of the bit; Ch 01's exchange is one use with three hits) | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 6 |  |
+| "Keeping count" | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |  |
+| "Forty-one" | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |  |
+| "Ice cube with opinions" | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
+| "I jumped" | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
+| "Fell toward the boat" | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
+| "Disappointing kit" | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
+| "Good till next August" | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 2 |  |
+| "Four seventy-nine" | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
+| Receipt | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
+| "Load-bearing" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
+| "This is medical" | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
+| "Best medical" | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
+| The ham (tin, eleven pounds, Thanksgiving) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 4 | 7 | 9 |  |
+| "Eleven pounds" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
+| "Ask me in five days" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
+| "Ask me again in ten days" (Ch 01) | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
+| "Tess doesn't count" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
+| "Who'd I tell" (Russ) | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
+| "Ask for ID" (Tess) | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
+| "You're the other one" (Ch 15) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
+| "Till then you bail" (Ch 18) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 |  |
+| "Here's how this goes" (Dane) | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |  |
+| "Talk to me" (Dane) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 1 | 3 | 5 |  |
+| "Ms. Calloway" (Dane, first night and angry) | 3 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 7 | 8 |  |
+| "Okay" (Dane, at most once a chapter; Beth never as a pivot) | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 18 |  |
+| "Bethie" (Ned only) | 1 | 2 | 0 | 0 | 1 | 0 | 0 | 1 | 2 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 9 | 10 |  |
+| "Your marshal" (Ned, Tess) | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 3 | 3 |  |
+| Ned looks back | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 4 | 8 |  |
+| Gloves off | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 5 |  |
+| Bare-handed | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 | 6 |  |
+| The boy she taught to row | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 5 |  |
+| Split lip (the kid) | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |  |
+| Good coat (the lawyer) | 0 | 0 | 2 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 5 |  |
+| Reading glasses | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |  |
+| "Somebody told him" | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |  |
+| "You came down" (Ch 16 payoff) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
+| "You stopped talking" (Ch 16 payoff) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 1 |  |
+| "Ten days" (title phrase) | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 | 6 |  |
+| "Her eyes are the case" | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |  |
+| "Open sand" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  |
+| "Good blanket" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |  |
+| "Says he walks" / "Cole walks" (the clock) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4 |  |
+| "Emergency protection" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  |
 
 ### Frequent 3–5 word n-grams (4+ uses, whole book)
 
-- 14× “the north reach”
-- 14× “the margaret ann”
-- 12× “his right hand”
-- 12× “the fish house”
-- 11× “the outside ladder”
-- 10× “the oak bar”
-- 10× “the ramp head”
-- 9× “she could see”
-- 9× “the harbor road”
-- 9× “under the bank”
-- 7× “the car deck”
-- 7× “could see the”
-- 7× “the north road”
-- 7× “under the set”
-- 7× “the bait shed”
-- 7× “the margaret ann s”
-- 6× “the cold came”
-- 6× “came along the”
-- 6× “the chart table”
-- 6× “top of the tide”
-- 6× “at the ramp head”
-- 5× “the fuel float”
-- 5× “put it away”
-- 5× “eyes went to”
-- 5× “along the harbor”
-- 5× “at first light”
-- 5× “the north point”
-- 5× “through the wool”
-- 5× “against her hip”
-- 5× “round the point”
-- 5× “under her boots”
-- 5× “across the cove”
-- 5× “across the door”
-- 5× “his right side”
-- 5× “the marine patrol”
-- 5× “down the outside ladder”
-- 5× “and the cold came”
-- 5× “the top of the tide”
-- 4× “under her fingers”
-- 4× “the black water”
+- 17× “the harbor road”
+- 15× “his boss said”
+- 14× “the kid's phone”
+- 12× “the town office”
+- 9× “i'm going to”
+- 9× “a long time”
+- 8× “the whole way”
+- 8× “dane said and”
+- 8× “he could see”
+- 8× “the north beach”
+- 8× “the harbor mouth”
+- 8× “on the harbor road”
+- 7× “and said nothing”
+- 7× “against his chest”
+- 7× “without a word”
+- 7× “dane said the”
+- 7× “the east road”
+- 7× “the white water”
+- 6× “voice came out”
+- 6× “she had never”
+- 6× “both hands on”
+- 6× “put his hand”
+- 6× “let go of”
+- 6× “the man had”
+- 6× “the whole time”
+- 6× “the grand jury”
+- 6× “came up through”
+- 6× “the snow came”
+- 6× “dane took the”
+- 6× “the tree line”
+- 6× “the kid had”
+- 6× “the big boat”
+- 6× “at the town office”
+- 5× “had never once”
+- 5× “through the snow”
+- 5× “in both hands”
+- 5× “took her hand”
+- 5× “truck was clean”
+- 5× “beth said and”
+- 5× “beth said i”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
 - jaw: 6 (0.2/1k)
-- knuckles?: 4 (0.1/1k)
-- throat: 5 (0.2/1k)
-- reath: 21 (0.7/1k)
-- pulse: 1 (0.0/1k)
-- chest: 7 (0.2/1k)
-- hands? (stopped|stilled|went still|flat): 3 (0.1/1k)
-- shoulders?: 38 (1.3/1k)
+- knuckles?: 1 (0.0/1k)
+- throat: 8 (0.2/1k)
+- reath: 23 (0.6/1k)
+- pulse: 2 (0.1/1k)
+- chest: 24 (0.6/1k)
+- hands? (stopped|stilled|went still|flat): 8 (0.2/1k)
+- shoulders?: 47 (1.2/1k)
 - gaze: 0 (0.0/1k)
-- tightened: 0 (0.0/1k)
+- tightened: 1 (0.0/1k)
 - swallowed: 1 (0.0/1k)
 
 ## 2. Ear (read-aloud check)
 
 | Ch | Words | Mean sent. | SD | ≤5-word share | Codes/1k | Numerals/1k | ALLCAPS/1k | Max opener run | Flags |
 |---|---|---|---|---|---|---|---|---|---|
-| 01 | 3,066 | 15.2 | 11.7 | 20% | 0.0 | 0.0 | 0.0 | 2 | short |
-| 02 | 2,890 | 15.1 | 10.2 | 19% | 0.0 | 0.0 | 1.0 | 3 | short |
-| 03 | 2,650 | 15.6 | 11.1 | 18% | 0.0 | 0.0 | 0.0 | 2 | short |
-| 04 | 2,286 | 11.3 | 8.0 | 25% | 0.0 | 0.0 | 0.0 | 3 | mean short |
-| 05 | 3,686 | 11.2 | 8.5 | 24% | 0.0 | 0.5 | 0.0 | 4 | mean short openers |
-| 06 | 3,296 | 10.6 | 7.4 | 27% | 0.0 | 0.0 | 0.0 | 3 | mean short |
-| 07 | 3,114 | 12.0 | 8.8 | 23% | 0.0 | 0.6 | 0.0 | 4 | mean short openers |
-| 08 | 3,131 | 13.9 | 11.2 | 17% | 0.0 | 0.0 | 0.0 | 2 | short |
-| 09 | 2,963 | 13.7 | 11.7 | 20% | 0.0 | 0.0 | 0.0 | 3 | short |
-| 10 | 3,241 | 13.7 | 9.0 | 14% | 0.0 | 0.0 | 0.6 | 4 | openers |
+| 01 | 2,553 | 12.0 | 9.5 | 33% | 0.0 | 0.4 | 0.0 | 3 | mean short |
+| 02 | 2,300 | 10.9 | 7.5 | 27% | 0.0 | 0.0 | 0.0 | 3 | mean short |
+| 03 | 2,164 | 13.0 | 9.9 | 24% | 0.0 | 0.0 | 0.0 | 2 | short |
+| 04 | 2,544 | 11.1 | 7.6 | 27% | 0.0 | 0.0 | 0.0 | 2 | mean short |
+| 05 | 1,904 | 12.1 | 8.0 | 22% | 0.0 | 0.0 | 0.0 | 3 | mean short |
+| 06 | 1,885 | 13.4 | 7.4 | 12% | 0.0 | 0.0 | 0.0 | 3 |  |
+| 07 | 2,379 | 11.8 | 8.2 | 25% | 0.0 | 0.0 | 0.0 | 3 | mean short |
+| 08 | 1,893 | 13.8 | 9.9 | 15% | 0.0 | 0.0 | 0.0 | 2 |  |
+| 09 | 2,138 | 14.4 | 11.3 | 19% | 0.0 | 0.0 | 0.0 | 3 | short |
+| 10 | 2,520 | 14.4 | 10.3 | 15% | 0.0 | 0.4 | 0.0 | 3 |  |
+| 11 | 1,979 | 13.0 | 9.0 | 18% | 0.0 | 0.0 | 0.0 | 3 | short |
+| 12 | 2,246 | 11.9 | 8.6 | 22% | 0.0 | 0.0 | 0.0 | 3 | mean short |
+| 13 | 2,190 | 11.5 | 6.9 | 18% | 0.0 | 0.0 | 0.0 | 2 | mean short |
+| 14 | 2,354 | 12.5 | 8.3 | 19% | 0.0 | 0.0 | 0.0 | 2 | mean short |
+| 15 | 2,502 | 11.4 | 8.2 | 25% | 0.0 | 0.0 | 0.0 | 4 | mean short openers |
+| 16 | 2,300 | 13.1 | 9.7 | 20% | 0.0 | 0.0 | 0.0 | 3 | short |
+| 17 | 2,144 | 12.2 | 6.8 | 19% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -235,10 +147,10 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 ### Mood words per 1,000 (count; flag a cluster, not a word)
 
-- quiet: 15 (0.5/1k)
-- humm?(ing|ed)?: 4 (0.1/1k)
+- quiet: 22 (0.6/1k)
+- humm?(ing|ed)?: 2 (0.1/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 50 (1.6/1k)
+- still(ness)?: 85 (2.2/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 1 (0.0/1k)
@@ -251,24 +163,49 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 ### Phrases (count, whole book; any 3+ is worth a look)
 
-- 1× not quite
-- 1× for the first time
+- 4× for the first time
 
 ### Constructions against Part 3 caps
 
-| Construction | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | Total | /1k | Cap | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| as if / as though | 3 | 2 | 1 | 2 | 1 | 0 | 0 | 1 | 0 | 0 | 10 | 0.3 | 1.0/1k |  |
-| the way (a|the|people|someone) ... | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0.1 | 1/ch |  |
-| the kind of ... that | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 2/ch |  |
-| with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
-| not because ... but because | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
-| contrast construction (not X but Y / wasn't X. It was Y) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 0.0/1k |  |
-| sentence-initial And/But/And yet | 1 | 1 | 2 | 0 | 3 | 1 | 0 | 3 | 0 | 0 | 11 | 0.4 | 3.0/1k |  |
-| em dashes | 1 | 1 | 3 | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 11 | 0.4 | 2.0/1k |  |
-| semicolons | 0 | 3 | 1 | 5 | 0 | 1 | 1 | 0 | 1 | 0 | 12 | 0.4 | 2.0/1k |  |
-| perception filter (she noticed / could hear) | 2 | 2 | 3 | 1 | 3 | 0 | 2 | 0 | 1 | 3 | 17 | 0.6 | 1.0/1k |  |
-| one-sentence paragraph | 18 | 19 | 24 | 16 | 40 | 49 | 23 | 38 | 26 | 34 | 287 | 9.5 | report |  |
+| Construction | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | Total | /1k | Cap | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| as if / as though | 1 | 0 | 2 | 0 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 3 | 1 | 1 | 0 | 11 | 0.3 | 1.0/1k |  |
+| the way (a|the|people|someone) ... | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 5 | 0.1 | 1/ch |  |
+| the kind of ... that | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 2/ch |  |
+| with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
+| not because ... but because | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
+| contrast construction (not X but Y / wasn't X. It was Y) | 0 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 0.1 | 0.0/1k | FLAG |
+| sentence-initial And/But/And yet | 5 | 3 | 1 | 1 | 2 | 1 | 0 | 2 | 0 | 0 | 0 | 3 | 1 | 1 | 0 | 1 | 1 | 22 | 0.6 | 3.0/1k |  |
+| em dashes | 2 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 1 | 10 | 0.3 | 2.0/1k |  |
+| semicolons | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 4 | 0.1 | 2.0/1k |  |
+| perception filter (she noticed / could hear) | 0 | 0 | 1 | 3 | 1 | 3 | 0 | 0 | 2 | 3 | 1 | 1 | 1 | 0 | 3 | 1 | 0 | 20 | 0.5 | 1.0/1k |  |
+| one-sentence paragraph | 16 | 27 | 34 | 34 | 20 | 14 | 40 | 20 | 28 | 36 | 41 | 32 | 22 | 30 | 30 | 25 | 28 | 477 | 12.6 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
+
+## 4. Jargon (words a reader with no boat, court, police or trade experience won't know)
+
+Caps: at most 2 distinct terms in the book's first 1,000 words; at most 6 distinct terms and 3 uses per 1,000 words in any chapter. A term the page explains in plain words the first time can be removed in the book's `jargon.txt` with a leading `-`. The plot-critical facts (what was found, who is in danger, what happens if they fail) must be in plain words whatever this count says.
+
+- First 1,000 words: 1 distinct (wheelhouse 2) 
+
+| Ch | Distinct | Uses | /1k | Top terms | |
+|---|---|---|---|---|---|
+| 01 | 2 | 3 | 1.2 | wheelhouse 2, grand jury 1 |  |
+| 02 | 3 | 6 | 2.6 | skiff 3, grand jury 2, wheelhouse 1 |  |
+| 03 | 1 | 2 | 0.9 | choke 2 |  |
+| 04 | 0 | 0 | 0.0 |  |  |
+| 05 | 0 | 0 | 0.0 |  |  |
+| 06 | 0 | 0 | 0.0 |  |  |
+| 07 | 2 | 2 | 0.8 | ledges? 1, grand jury 1 |  |
+| 08 | 2 | 2 | 1.1 | hatch 1, grand jury 1 |  |
+| 09 | 0 | 0 | 0.0 |  |  |
+| 10 | 2 | 7 | 2.8 | skiff 6, ledges? 1 |  |
+| 11 | 1 | 2 | 1.0 | skiff 2 |  |
+| 12 | 1 | 3 | 1.3 | hatch 3 |  |
+| 13 | 2 | 2 | 0.9 | skiff 1, ledges? 1 |  |
+| 14 | 2 | 2 | 0.8 | ledges? 1, hatch 1 |  |
+| 15 | 3 | 9 | 3.6 | wheelhouse 4, ledges? 4, grand jury 1 | FLAG |
+| 16 | 1 | 1 | 0.4 | grand jury 1 |  |
+| 17 | 0 | 0 | 0.0 |  |  |

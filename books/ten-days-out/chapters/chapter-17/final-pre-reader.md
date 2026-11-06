@@ -1,269 +1,245 @@
-# Chapter Seventeen: In the Room
+# Chapter Eighteen: Full Price
 
-Beth Calloway walked into the federal courthouse in borrowed shoes, with a marshal's blood still under her fingernails.
+Beth Calloway bailed out Dane Reyes's brand-new old boat on Thanksgiving morning, laughing too hard to do it well.
 
-A man stepped away from the wall by the security line and into her way. His coat had cost more than her truck.
+He sat on the engine box with his coffee mug. He dipped it into the water around his boots, lifted it over the side, and poured it out, one cup at a time. The doctor had said he could lift a mug.
 
-"Beth," he said, as if they'd met at a funeral. "I represent Cole Varney."
+"I can't lift anything," he said. "Doctor's orders."
 
-The lobby was warm after the street and smelled of wet wool and floor polish. The shoes were a woman deputy's, lent to her in the car, half a size too small, and they pinched her heels on the stone.
+"I know. I'm bailing."
 
-"I hear the marshal's been keeping you warm."
+She scraped the bucket along the bottom planks and threw the water over the rail. Cold water came over her ankles again before the bucket was back.
 
-He could find out what street a sick boy slept on and make it sound like a kindness. Her taped hands wanted to close. She let them.
+It was a wooden lobster boat, older than both of them, its cedar planks gone gray. He had bought it by phone on Tuesday afternoon, a few hours after she brought the ferry home from Pruett with him aboard. It was the boat at Pruett he'd come up to see the day after the call came.
 
-"Yes," she said. "I'll say so in there."
+"You bought a boat you never saw. And I carried it over on my car deck."
 
-He smiled, polite, and opened his mouth for the next thing.
+"I'd seen eleven. How different could the twelfth be?"
 
-The door behind him opened. Two deputies came in out of the cold with snow on their shoulders. The first one said his name, his whole name, and "You're under arrest," and they took an arm each.
+"Wetter."
 
-The woman deputy at Beth's elbow spoke low, for her alone. "The kid signed his statement at Pruett at dawn. Reyes's boss sent it up ahead of us. He says this man paid him himself, behind the bus station here."
+"I knew it would leak. Why do you think I was out here with the mug at midnight?"
 
-Ned's word, and now the kid's. It was enough.
+She ran her thumb along a seam. The light wrap on her palms was damp, and the cold made them ache.
 
-The cuffs went on behind his back. He turned his head to the deputy, still polite.
+"It'll take up in a week. Till then you bail."
 
-"I'll want my coat."
+The planks had dried out all fall on land, and in the water they'd swell until the seams closed.
 
-"You've got it on."
+She looked at his feet. Brown leather, high laced, oiled, with good soles. Water ran over the toes and stayed out.
 
-They walked him out the door he'd been waiting by. Beth watched the glass after it shut and looked for Dane in it. There was only the street and her own face.
+"Those are the right boots."
 
-She had nothing for the tray. She walked through the metal frame, and nothing rang.
+"Tess charged me full price. She watched me count it out."
 
-The deputy pointed. "Stairs. Second floor."
+"She charges everybody full price."
 
-Beth climbed with one hand on the rail, the bad knee taking every step, toward the room upstairs.
+"Then why did she call it the marshal price?"
 
-* * *
+Beth laughed again and lost half a bucket into her lap.
 
-The prosecutor met Beth at the door of the room. She was a small woman with a folder under her arm, and she talked plainly.
+Across the harbor the ferry lay at the stone pier, white in the sun. The board had her running it until June, when they decided. From its cabin she would see this boat every time she came in.
 
-"Nobody comes in with you. No lawyer for you, nobody for him, no judge. The grand jury, me, and her, writing it down."
+Dane watched the seams with her. "Dollar says it's dry by noon."
 
-"Fine," Beth said, and went in.
+"Done."
 
-Tables stood in rows, with a jug of water and a window onto the street. About twenty people sat at them, every age, a man in a work jacket, a woman in a cardigan. At a little machine by the front table a woman sat with her hands ready.
+He stopped with the mug in the air. "Did you just—"
 
-Beth put her taped hand up and swore to tell the truth.
+"Bail," she said.
 
-Then she told them what she'd seen on her car deck that Thursday night: the split crate, the white powder, and Cole Varney's face in the cab of his truck. Her voice sounded smaller in here than it did on her deck. The typing went along under it and stopped each time she stopped.
+He bailed and told her about the engine. She wanted him, in those boots, on his leaking boat. She kept bailing.
 
-"Cole Varney's lawyers will raise this at a trial," the prosecutor told the jurors, "so I'd like you to hear it from her first." She turned to Beth. "Are you in a relationship with the deputy marshal who protected you?"
+The church bell rang noon across the water.
 
-"Yes."
+Her bucket scraped bare wood. A cupful lay in the bottom by the engine box, and it wasn't coming back.
 
-"Does that change anything you saw?"
+She dug in her coat pocket and came up with a wet dollar and put it in his hand. His hand was warm.
 
-"No. I saw it six hours before I ever met him." The typing caught up and stopped. "I've never told a room full of strangers who I sleep with. I'm telling you."
+He folded it once and put it in his shirt pocket, over the stitches.
 
-The prosecutor didn't look surprised.
+"I'm keeping this one."
 
-In the second row the man in the work jacket put up his hand.
-
-"Did he ever tell you what to say?"
-
-"He tried telling me what to do once," Beth said. "It didn't take."
-
-A few people at the tables laughed. The woman at the machine laughed too.
-
-"I saw it," Beth said.
-
-The prosecutor closed the folder. "They'll decide after you leave. Nobody will tell you in the hall. If they vote to send him to trial, there'll be a trial in the spring, and you'll tell all of this again with Cole Varney in the room."
-
-"Then I'll tell it again."
-
-She went out the way she'd come, down the stairs and through the corner door into the cold and the daylight.
-
-Across Federal Street, on a bench in the park, sat a man in a hospital sweatshirt. He was supposed to be in a hospital bed.
+"There's a cup left, Marshal."
 
 * * *
 
-Dane Reyes watched her come out of the courthouse and cross Federal Street against the light, in shoes that didn't fit.
+Beth stood in the kitchen doorway and watched Dane at the oven.
 
-He sat up straighter on the bench. The eleven stitches along his left ribs pulled under the dressing, and the cold of the slats came through the sweatshirt and found every one. His hip felt light without the gun.
+He had his sleeves pushed up past the elbow, and the steam off the pan rose around his forearms when he bent to spoon the fat over. The woodstove was going. The smell had filled the house before anything else was close to ready. She leaned on the doorframe and didn't go in.
 
-If he'd stood in that hallway, Cole's side could tell a jury in the spring that a marshal walked her to the door. From this bench anybody could see he wasn't with her.
+"It's Thanksgiving," she said. "That's a ham."
 
-His phone lay face up in his hand. His boss had texted four minutes ago.
+"I've ruined every turkey I ever met, because a turkey wants you to pay attention. A ham forgives you."
 
-*Voted to send him to trial. He stays in. Lawyer's downstairs in a cell. Tell her.*
+The letter had come on Wednesday's ferry, and she'd left it in her coat a day. She took it to the kitchen table and opened it.
 
-Beth sat down on his right, the side away from the stitches, and put her shoulder against his.
+Pencil. Ned's hand, big and slanted, pressed hard enough to dent the paper.
 
-"You never answered me," he said.
+*Beth,*
 
-"I went in. They asked about you, and I said yes. Then a man in a work jacket asked if you ever told me what to say."
+It began with her name, only that.
 
-"What did you tell him?"
+*Cold here. You can't see the water from anywhere in this place.*
 
-"That you tried once."
+*My boy's at the clinic in Portland. First week. He says it's the worst place he's ever been. I told him that's how you know.*
 
-He shut his eyes for a second. "And?"
+*I wrote the board Monday and took my name off your letter. A letter from me would cost you that job. Get somebody from the island to speak for you.*
 
-"They laughed."
+*Ned.*
 
-She looked at the sweatshirt. "They let you out?"
+That was all. No sorry. Nothing asked, and nothing about the beach or the road.
 
-"I signed a paper that said I'd been warned."
+She read it once and turned it face down on the table. Ned Haskell had sold her the first night, from the ferry at Pruett, and a page in pencil didn't change what that added up to.
 
-"Were you?"
+Nobody from Cutter had spoken for her to the board now. In June they'd decide.
 
-"Thoroughly."
+She got up. The drawer under the counter had stuck for years. She worked it out with both wrapped hands, found the candle stub on the windowsill, and rubbed it along the wooden runners until they shone. She slid the drawer back in. It ran the whole way, and by the time it did, she knew.
 
-He lifted the phone to show her. "They—"
+"He took his name off my letter to the board," she said.
 
-She put her taped hand over the screen and held it there.
+Dane set the spoon down. "Who'll you ask?"
 
-"Will you stay?" she said. "I'm asking."
+"Tess."
 
-"I've looked at boats for two years because I wanted a way out of this job," he said. "I never said it straight to anybody."
+"She isn't speaking to you, and she's coming to dinner to make sure you notice."
 
-He wanted to put both hands on her face. One of them had the phone in it under her hand, and his side pulled when he turned, so he kept still.
+"Then she can write."
 
-"The Maine office has my papers. I want a worse boat than any I looked at, one that stays tied up where you can see it from the ferry, because I've never once known where I'd be sleeping a month from now, and I'd like to know. And I want you, every day you'll have me."
-
-She didn't move her hand.
-
-"The big boat's still out there," he said. "The Coast Guard looked all night and found nothing."
-
-"New Bedford," Beth said. "She testified. Then they burned her house."
-
-"They did. The lawyer's in a cell downstairs, asking what he can trade. The kid's statement says whose boat it is and who was on it, and the Coast Guard has all of it. None of that makes you safe."
-
-She waited.
-
-"And after today nobody pays me to watch your door. Can I be the one who watches it anyway?"
-
-"Yes," Beth said. "From inside."
-
-She took her hand off the phone. "Now tell me."
-
-He turned the screen to her, and she read it. She sat very still. Then she breathed out once, long. She turned her head to the courthouse, and then she turned it to him.
-
-She stood and held out her wrist above the tape for him to pull on. He took it and didn't lift.
-
-"Where are we going?"
-
-"Somewhere you have to lie still."
-
-She was already walking him toward the corner, at his pace.
+She put Ned's letter in the drawer and shut it. It ran smooth.
 
 * * *
 
-Dane Reyes asked to undo her coat, because the buttons were small and stiff and her taped fingers were slow.
+Beth heard the cane on the front step before she heard the knock.
 
-"Can I?"
+Russ stood on the step in his brown jacket and his Red Sox cap, leaning on the cane with both hands. He ran his thumb over the pale new plug of wood in her front door, at hip height, where the bullet had come through.
 
-"Yes."
+"Did you fix that? You did. I can only see it because I know where to look."
 
-The room was too warm. The heater under the window ticked, and past the glass gulls sat on a wet roof. After a week of cold the heat lay on his face and on hers. He did the top button. "Can I?"
+"Tuesday," Dane said behind her.
 
-"Yes."
+"They put me in a helicopter at the landing Tuesday," Russ said, "and I'll tell you, I don't recommend it. They let me out yesterday. They didn't want to."
 
-He did the next one. "Can I?"
+She had brought him across on the last run, his leg up on the bench in her cabin.
 
-She laughed. "That's three. Ask me about the rest."
+Tess came up the step after Russ with a pie in both hands, apple, the crust crimped all the way round. She had her red work vest on under her coat and her fingerless gloves on. She held the pie out to Beth.
 
-"Will you come to bed with me?"
+"Calloway."
 
-"Yes."
+That was all. She didn't hug her. She walked past into the kitchen and sat down in the chair by the stove, the one she had always taken at this table, and kept her gloves on.
 
-The drugstore bag sat on the chair. She had paid for it and the room out of her coat pocket, and she hadn't let him carry it.
+Beth set the pie on the counter and stood a moment with her hands on either side of it.
 
-"Lie down," she said.
+She lifted the ham out of the oven herself and set the pan in front of Russ, and Russ carved from his chair. It was far too big for four people, and he carved it thick anyway while the light went yellow in the windows.
 
-"The doctor said don't lift anything."
+They ate. Russ had seconds and then thirds. Tess talked to Russ and Dane about heating oil and passed Beth the potatoes without looking at her. There would be enough left for the week.
 
-"Then don't."
+When the plates were pushed back, Dane put his forearms on the table and didn't reach for his coffee.
 
-He lay down on the white sheets. She put her wrists against his shoulder to turn him round so he'd face the door, and he caught her arm above the tape.
+"I'm on leave till January, and then I start at the Maine office," he said. "I'd like to stay on this island and live in this house with Beth, and she's said yes, and she told me to ask the two of you, because it's your island, and I'd like to hear it from you."
 
-"Leave it."
+Under the table Beth's knee was against his. She watched his mouth while he said it, and she didn't care who saw.
 
-He lay with his back to the door. There was no gun on the chair and no door in sight, and that suited him. He had her to watch.
+Russ took his cap off and put it back on. "Well." He looked at Tess, and then at Dane. "Somebody has to go first, and I've got the badge. I don't mind."
 
-She knelt on the bed beside him and pushed the sweatshirt up over the white dressing along his left ribs. Then she bent and put her mouth on his chest on the right side, well clear of the tape.
+Tess looked at Dane's hands first. Then she looked at his face, for a long time. Then she pushed his coffee across the table to him.
 
-"Beth," he said.
-
-She kept her palms up off him, both of them, as if she were carrying something hot, and touched him with her fingertips and her mouth.
-
-"Arms," she said, and got the sweatshirt off over his head with her wrists. Her braid came over her shoulder and lay along his chest.
-
-She did his jeans with her fingertips, and he lifted his hips to help.
-
-"That's lifting," she said.
-
-He put them down again. "I hate this."
-
-"I know." She worked his jeans down his legs and off. "I'm enjoying it."
-
-She stood by the bed and took off her own clothes with her fingertips, and he watched every second of it. A healing cut ran across one knee, red at its edges.
-
-She took the box out of the drugstore bag, opened it, and rolled the condom onto him, careful, and he shut his eyes.
-
-"Look at me," she said.
-
-He did. She knelt over him, and the cut on her knee pulled when it took her weight, and she shifted it off.
-
-"Bad knee. Other one."
-
-Then she took him inside her, slowly, all the way, and the whole too-warm room went still except the heater.
-
-He said her name. It was all he had.
-
-No lawyer in his head, reading it back to anybody. She had said everything herself, in that room this morning, and now she was moving over him.
-
-She began with her weight on her forearms either side of his head. Her braid fell across his mouth, and he laughed into it.
-
-"Don't move," she said.
-
-She leaned down to kiss him, and the stitches pulled, and he breathed in hard. She stopped.
-
-"Stop?"
-
-"Beth." He put his hand on her hip. "No. Please."
-
-She watched his face a moment longer, and then she moved again, more carefully.
-
-The cold of the upper deck was still in his bones from last night. Here her skin burned on his, and the stitches pulled every time she came down. He'd have taken eleven more.
-
-She kissed him, and he put his hand between them.
-
-"Here?"
-
-He found her clit with his thumb, and she said, "There," against his mouth.
-
-He said it then, quietly. "I love you."
-
-She lifted her head. "Again."
-
-"I love you."
-
-She laughed, and he kissed her through it, and she came like that, laughing, with her forehead on his. He came a moment after her, with her name, and there was nothing else in his head at all.
-
-Afterward she lay along his right side, clear of the dressing, with her taped hands held up on his chest. The heater ticked.
-
-"You did all the work," he said.
-
-"Somebody had to."
+"Coffee's a dollar, Marshal. Same as everybody."
 
 * * *
 
-The phone lit on the nightstand a little after four, and Dane watched its light go up white across the ceiling. Outside the window the roofs were going dark, and the streetlights were coming on below.
+Beth dried while Tess washed, and Tess ran the water too hot.
 
-It was Russ.
+Steam came up off the sink into the cold kitchen and fogged the bottom of the window. Tess set her fingerless gloves on the windowsill, one on top of the other, beside Beth's own pair, stacked the same way.
 
-*They're flying me out in the morning if the icing lifts. Am I glad. I am. Tess says Thanksgiving is at Beth's this year. Does Beth know. She does now. Tess says to tell her it isn't forgiveness.*
+"You'll open those hands up again," Tess said to the dishwater.
 
-Beth read it over his shoulder with her chin on it. Her shoulder stayed against his after she'd finished.
+"Then I'll tape them."
 
-"She's coming to my house to not talk to me," she said.
+Tess handed her a plate. The towel rasped on Beth's healing palms through the wrap. She set the plate on the stack, and then she said it, all of it, before she could find something else to fix.
 
-Thursday, then. Tess at her table, not saying one word to Beth, and him at the end of it, a man with no reason to be there except her.
+"I need somebody from here to speak for me in June. Will you?"
 
-"Will they let me off the boat?"
+Tess rinsed a glass and held it up to the window. "I wrote them Tuesday. Cost me a stamp."
 
-"Ask them."
+Beth stopped drying.
+
+"You wrote to the board, and you won't talk to me."
+
+"Yes."
+
+Beth put the towel over her shoulder. The water ran.
+
+"I put you on the list," she said. "I'd put you on it again."
+
+"I know you would." Tess scrubbed at a pan that was already clean. "I'd have put me on it." She set the pan in the rack hard. "You never once asked me to my face. You've known me your whole life."
+
+"Would you have told me about Russ?"
+
+"No."
+
+Tess kept her hands in the water.
+
+"He got shot on your step."
+
+"He did. I can't pay that back."
+
+"No. You can't."
+
+Beth took the towel off her shoulder and picked up the next plate.
+
+Through the doorway Dane laughed at something Russ said and pressed a hand to his ribs where the stitches were, and went on laughing. Beth watched that hand until the plate in her own was dry twice over.
+
+Tess turned off the water.
+
+"Beth."
+
+Tess dried her hands on her vest and turned to face her.
+
+"Best hand on that water. I won't have a stranger at our wheel. That's what the letter says. The rest isn't in it."
+
+She handed Beth the next plate.
+
+"Dry, Calloway."
+
+* * *
+
+Beth found Russ at the front window with one arm in his coat, leaning on his cane and looking out at the dark.
+
+The lamp was on behind them. When she stood beside him, the cold came off the glass onto her face. The harbor was black. Far out past the harbor mouth there was one light. It sat low on the water and didn't move, out where the Coast Guard had looked all night for the big boat and found nothing.
+
+Tess came to Russ's other shoulder. She looked out, and then she looked at Russ, and he looked at her.
+
+Beth took Tess's coat off the hook and held it ready.
+
+"That woman in New Bedford you told me about," Russ said to Dane. "They burned her house after she testified. Didn't they? They did." He worked his other arm into the coat. "Does a cell stop people like that?"
+
+Dane was still at the table, with Tess's pie plate in front of him.
+
+"Not always," he said. "So I watch the door."
+
+He had no gun. It was in an evidence locker in Portland.
+
+"There's one more thing," Dane said. "My boss called Tuesday. The phone I found on your car deck, behind the bait truck's wheel. The kid swears he never put it there. He was tied up in the town office from Thursday morning, so I believe him."
+
+Russ leaned his weight onto the cane.
+
+"Then somebody on this island did, and somebody has to find out who." He was quiet a moment. "I will."
+
+Tess took her coat from Beth and buttoned it to the chin. "We will."
+
+Dane gave Tess her pie plate. Beth gave Russ a foil package of leftovers the size of a toolbox. Russ held it against his chest with his free arm and said nothing.
+
+They went out onto the step, the cane first, and Tess went down the path after Russ. Beth listened to the cane on the frozen road until she couldn't hear it.
+
+Dane shut the door. He slid the new bolt and tried it, and then he stood with his hand on it longer than any bolt needed. Beth crossed the room to him.
+
+"Your ten days were up on Monday, Marshal."
+
+"I know."
+
+She put her wrapped hand over his on the bolt. "So. Are you any good at your job?"
+
+He turned his hand over under hers and held on.
+
+"Ask me every night."

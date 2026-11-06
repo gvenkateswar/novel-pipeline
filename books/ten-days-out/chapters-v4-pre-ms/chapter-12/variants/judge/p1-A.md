@@ -1,0 +1,257 @@
+# Chapter Twelve: The Hold
+
+Beth Calloway held the end of the rope for a mile of the east road before Ned answered her.
+
+New snow nobody had plowed came to the knee at the mouth of the dentist's lane and squeaked under three sets of boots. Dane walked uphill of them with the kid's rifle, below an old stone wall across a white field. On the downhill side a ditch lay half full of snow.
+
+"Snow's set in for the day," Ned said.
+
+She waited.
+
+"Two years ago Cole came down the pier on a calm night. He said, after your deckhand's gone home, you take it back across alone. Two years I ran his trucks over in the dark. He gave me a phone for it. Only number he ever called me on."
+
+Two years of nights she had gone home and left him the boat. Her boat.
+
+Beth stopped on the rope. "On the beach you told me you'd never opened a truck."
+
+"On the beach I lied to you. Fuel runs, I told the co-op. Nobody asks the captain why he moves his own boat. A man rang me on that phone the morning after. He told me the street my boy sleeps on."
+
+The rope went slack in her bare hand. She walked on, and it jerked at every step his bad hip took.
+
+"Why was the truck clean?"
+
+"I called Cole from Pruett while you were photographing his plate. I told him you'd call. I know you."
+
+"Why my Thursday?"
+
+"The blow was coming. No night run till it passed, and Cole wouldn't wait on it. He said you never open a truck."
+
+Eleven years she had never opened a truck, and that was what had picked her.
+
+"Did you know he'd send somebody to my door?"
+
+"Cole said nobody'd be touched. I didn't ask him twice."
+
+Beth stopped walking.
+
+Dane had already stopped, his head up toward the wall. She looked at him first, then at the wall. In a storm the island always made some sound. Up by the wall it made none.
+
+The crack came off the wall. Snow jumped off the road ahead of Ned.
+
+Dane had her by the coat and down in the ditch before the sound finished. Ned came in after her and rolled until his back lay between her and the field.
+
+Dane came up on one knee at the lip of the ditch. "Ned. He's aiming at her, and you're in the way of me."
+
+"Get off me." Beth shoved Ned off with both hands.
+
+Dane fired once at the wall.
+
+At the far end a shape broke loose, bent double, and ran west along the stones toward the village, the bad foot plowing a line through the snow.
+
+Dane's finger came off the trigger. Past the wall were the first houses, and he didn't shoot toward houses. He didn't chase either. He had a witness and a tied man in a ditch.
+
+"Why was my picture on that wall in September?" Beth said.
+
+"In September Cole asked me who'd have the boat after me. I told him you. I was proud of it."
+
+"Where does Cole get it?" Dane said.
+
+Ned answered Beth. "It comes in from offshore. A boat. I never saw it."
+
+"So I came to stand where he'd have to shoot me first," he said. Nobody had asked.
+
+At the top of the rise Dane's phone found signal, and he rang Russ: the island radio, every door locked, a boy with a pistol coming from the east, nobody to go out to a hurt boy. He said nothing about her.
+
+His hand came to her back once, between her shoulders, and went.
+
+Below them on the harbor road a door shut. Then another.
+
+* * *
+
+Tess's door opened as they came along the harbor road. Every other door stayed shut.
+
+Russ came out into the snow in his shirt sleeves with his shotgun. Tess stood behind him in the doorway in his brown work jacket, the cuffs pulled down over her fingers.
+
+Everybody stopped.
+
+"Late," Beth said.
+
+"Later than that," Russ said.
+
+"Not one word, Calloway," Tess said.
+
+Beth looked at the jacket, then away.
+
+Russ turned to Dane, his ears red. "You asked me who I told you were at my place. I told her. Friday night, from my porch, before the shooting. Saturday at the store, when her phone buzzed and she hung up on it, that was me telling her I'd found you alive. Did I lie to you to keep her name out of it? I did."
+
+"You've owned the one lie that put you on my list," Dane said. "Take him."
+
+Behind them Tess's door shut.
+
+At the town office step Russ took his cuffs off his belt. Beth held out the end of the rope, and Russ put his hand on it. She kept hold a breath longer, then opened her hand.
+
+Dane took Ned's knife from his pocket, put it in her hand and closed her fingers on it with his own, a second longer than it took. She cut her own knot. Russ's cuffs closed where the rope had been.
+
+"Take your truck and your shotgun to the foot of the Calloway lane," Dane told Russ. "A hurt boy goes to ground he knows."
+
+In the town office doorway Ned turned once and looked back at Beth. His hands were cuffed, so he nodded. Then he went in.
+
+* * *
+
+Dane turned the clerk's chair to the stove. "Sit."
+
+"That's mine," Beth said. "I say that."
+
+"I'm borrowing it, because I spent a long time on that knee last night, and you've stood on it all morning like it owes you money."
+
+She sat. "Once."
+
+"Once is how everything starts with you."
+
+Through the open back-room door Ned sat against the wall in Russ's cuffs, the rope burn red above them.
+
+Ned's cheap phone buzzed on the desk and rattled against the kid's phone. Dane turned the screen to her.
+
+*the kid isnt answering ned. your son is. go finish it.*
+
+Ned came up off the back-room floor in his cuffs, faster than that hip should have let him. "Let me answer him. Let me tell him it's done. He'll leave my boy be."
+
+Beth got to the doorway first, on the bad knee. She put both hands on his chest and walked him back down the wall.
+
+"Sit down, Ned."
+
+He sat.
+
+She came back past the window, where Dane had both phones side by side on the sill, and he drew his elbow in to let her by. There was room without it.
+
+"Same number," Dane said. "It called the kid four times. It rang you once, the morning after."
+
+"That's him," Ned said from the floor. "Cole's lawyer."
+
+Dane rang Portland police, gave his name and badge, and asked for a car to an address, now. "Ned. The address."
+
+"Ninety-six Grant Street. Second floor, the door round the back."
+
+Dane was making a desk in Portland do what he said, for the man who had sold her, and Beth wanted to cross the room and put her mouth on his while he was still talking.
+
+Ned's thumbs worked at the rope burn, one wrist and then the other. He never looked at the phone. He looked at Beth.
+
+The stove ticked.
+
+Dane's phone rang in his hand. He listened.
+
+"They found him," he said. "He'd used. He's breathing. They've got him in an ambulance."
+
+Ned bent over his cuffed hands until his forehead was on his knees, and stayed there. Beth got up, pulled the back-room door half shut and left her hand on it.
+
+* * *
+
+Dane gave his boss the arrest, the number and the son with Beth three feet away. Her voice came small and dry off the window sill.
+
+"A lawyer who can find a man's son in a morning can find a woman on an island. After she testifies there's witness protection. A new name in a new state. She can't come back here, and she can't tell anyone from here where she is. Not her friends, not this island, and not you. Reyes, ask her."
+
+"She's here," Beth said. "She's been here the whole call, and she can hear you fine. No."
+
+"Then our part ends after Monday. Call me back, Reyes."
+
+The call ended. Dane stayed at the window, and Beth watched his thumb move on the phone. He sent.
+
+Then he crossed the room and turned the screen toward her.
+
+"I've asked for a hold. After you testify, the prosecutor asks a judge to keep you in Portland under guard until the trial, or until you sign for the program. You said no to the one thing that keeps you breathing. This one doesn't need your yes."
+
+"Cancel it."
+
+"No."
+
+He was close enough that she could smell stove smoke on his coat. She didn't step back, and her hand closed on the chair until the wood creaked.
+
+She took her coat off the hook.
+
+"Where?" he said.
+
+"My boat's broken."
+
+He hauled Ned up off the back-room floor and into his coat one-handed, the rifle on his shoulder. "Walk where you like. I'm paid to."
+
+She had the door open, and snow was blowing in across the floor.
+
+"Beth. One second to get his other arm in, which is harder than it looks with a rifle, and then—"
+
+The wind took the door out of her hand and banged it shut on the rest.
+
+* * *
+
+Dane moved one of Russ's cuffs from Ned's wrist to the car-deck rail, in sight of the hatch.
+
+"Wind's going round west by dark," Ned said.
+
+Beth threw the steering hatch open. A ladder went down into the cold.
+
+"I'll hold the light," Dane said.
+
+"Don't hold the light."
+
+She went down with the ferry's big wrench. Dane stood at the hatch mouth with the rifle, watching the pier.
+
+The first storm had bent the steering rod and broken it off the rudder. The pin at the top was frozen, and when she hit it with the wrench the whole hull rang.
+
+After the third blow Dane said, "Is she always like this down a hatch?"
+
+"Snow's letting up," Ned said. Then: "Since she was nine."
+
+She looked up. Dane was watching her hands on the wrench. He looked back at the pier too late.
+
+His phone rang at the rail, where the one bar was. He held it out over the hatch on speaker.
+
+"The prosecutor's agreed to ask," his boss said. "Two o'clock Monday."
+
+Beth spoke up the ladder. "Can you stop it?"
+
+"It rests on my deputy's word that you'll be killed if you go home. Only his word takes it back. I don't overrule the man on the ground."
+
+The call ended.
+
+Beth came halfway up the ladder, head and shoulders out of the hatch.
+
+"I could tell her I won't go in that room Monday till it's gone." She let it sit. "I won't. I'm going in that room. You don't get to make me trade it."
+
+Dane crouched at the hatch edge. "Ms. Calloway. In New Bedford they burned out a woman who had already testified. Testifying ends nothing. Tuesday a pistol came up at you on the cove rocks. This morning a boy shot at you off a wall. The man who loved you most on this island sold you for his son, and the next one will sell you for less."
+
+Ned looked at the sea.
+
+"I wanted to tell your people five," Dane said. "My boss wanted her test, and you wanted them told the truth by you, and a man got shot in the shoulder at three. Every time I've asked you, it was your life you spent."
+
+"That's Cole winning, Dane Reyes. Slower. If I leave my island because a boy shot at me, then shooting at me works, and every one of them learns it."
+
+She leaned on the wrench until the pin came out.
+
+"You're right about New Bedford. And the wall, and Ned. And the beach. I wanted them told, and a man paid for it. It's still my life to spend."
+
+The rod came free with a crack. She shoved the wrench onto the deck and held the rod up, bent along its whole length.
+
+"Co-op vise in the morning," she said.
+
+"I'd lose you to keep you alive," he said, with no joke after it.
+
+"You will."
+
+"I know. It's the one thing my job can still do for you, and I've done it."
+
+The rod was in one hand, and the bad knee wouldn't take the last rung without the other. She reached up. He gave her his hand, and she came up out of the hatch on it.
+
+At the top she still held it. "Then they stop. And so do we."
+
+She held on a breath past the words, then let go.
+
+He took it standing. "I'm still your guard until Monday."
+
+"Then stand there."
+
+She sat on the hatch edge with the bent rod across her knees and put the wrench on the next bolt. He stood there. By the fourth bolt the snow along the rail had gone blue.
+
+"Wind's backed west," Ned said, facing the east rise across the harbor. "Somebody's lit your stove."
+
+On the rise, over the roofs, smoke was rising from her chimney into the last of the light. At the foot of her lane Russ's truck sat where it had sat all day. Her house had stood empty and cold for five days.
+
+Dane's rifle came off his shoulder. Beth was on her feet, the bent rod in her hand, and the three of them looked up at the smoke. Ned's cuff chain ticked against the rail in the wind.

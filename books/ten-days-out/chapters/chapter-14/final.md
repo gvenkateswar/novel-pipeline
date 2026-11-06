@@ -1,78 +1,36 @@
 # Chapter Fourteen: The Wheel
 
-All Thursday and all Friday Dane watched the harbor with the kid's rifle, and the kid still wouldn't say what boat. By Friday night the only boat Beth Calloway could hear was her own, breaking itself against the pier.
+By Friday night Beth Calloway could hear her own boat breaking itself against the pier through the town office wall.
 
-The sound came through the town office wall. Steel grinding on stone, a long shriek and then a thud, each time the sea lifted the ferry and dropped it. She was on her feet, coat half on, before she'd decided anything.
+Steel on stone: a long shriek, then a thud, each time the sea lifted the ferry and dropped it. She had her coat half on before she'd decided anything.
 
-"I'm taking it off," she said.
+"I'm taking it off."
 
-In the back room Dane ran a thumb under each of the kid's cable ties and added a fresh one. The kid lay with his face to the wall. He hadn't said a word since "They've got a boat." Ned sat in Russ's cuffs at the pipe, listening to his boat grind on the stone.
+In the back room Dane ran a thumb under the kid's cable ties and added a fresh one. The kid kept his face to the wall.
 
-Beth watched Dane's thumb go under the ties, slow and careful. On Wednesday she had told him they were done.
+Beth watched the thumb, slow and careful, and rubbed her own wrist. Then she made herself look at the door.
 
-Russ lay on the couch with his leg up, shot in the thigh through her own front door. Thursday night Tess had swapped the strap for a tight bandage, as the Coast Guard told her on the radio, and he was holding. Beth looked at his color every time she passed. Tess held his shotgun out to Dane.
+At the pier the ferry rolled on bare granite. Past the harbor mouth the snow opened on one light, low under the point, and shut again.
 
-"It's loaded, Marshal. I loaded it." Tess didn't look at Beth. She hadn't spoken to Beth since Wednesday on the harbor road. Beth had put her on the list of people who might have sold her, and Russ had taken a bullet at Beth's door.
+"By daylight it's holed," Beth said. "I'll hold it off in the harbor till the wind goes round."
 
-He broke it open, looked, closed it and handed it back.
+"The steering's never had the sea on it," Dane shouted. "Out there it's the rocks in the dark. Here it only grinds."
 
-"If she takes it off, we'll be on the ferry till light," Dane told Tess.
+"Here it's holed for certain," Beth said. "Out there it might hold."
 
-Tess said nothing. She put the island radio in her coat pocket, on top of her keys.
-
-At the pier the ferry rolled against bare granite in the blowing snow. The float had gone to pieces in the first storm.
-
-"By light it's holed," Beth said, "and a holed boat takes nobody to Portland. I'll hold it off the pier, inside the harbor, till the wind goes back round."
-
-"You've had the steering in pieces two days," Dane shouted, "and it's never had the sea on it. If it goes out there, you're on the rocks in the dark. Here it only grinds."
-
-"Here it's holed for certain. Out there it might hold."
-
-He didn't tell her no. "What do you need?"
+"What do you need?" he said.
 
 "Two hands on the ropes that know what they're doing."
 
-"I've got a teenager's knots from two summers on a lobster boat."
+"I worked the back of a lobster boat two summers," Dane said. "I'm good at exactly this."
 
-"Tonight they only come off. Hold this." She took the flashlight out of her coat and put it in his hand, and Ned's knife after it.
+She put the flashlight in his hand, and Ned's knife after it. "Tonight you hold the light."
 
-At the hatch she pushed her gloves into her coat pocket and dropped down into the dark where the steering lived. The flashlight came down after her in his hand.
+The rod from the wheel down to the rudder, the steering blade under the boat, was back in, straight as the co-op vise could get it. She told him, "It might stick with the sea on it."
 
-* * *
+In eleven years she had never stood at this wheel with nobody beside her. Her father had stood at a wheel every working day of his life, and her hands went to this one as if they knew it.
 
-She lay on her back on cold steel with a wrench, in a space the size of a closet. Every wave boomed through the hull a foot from her head.
-
-"Lower," she said. "There. Don't move it."
-
-He held the light right where she'd pointed, crouched behind her because there was nowhere else to be, his breath on the back of her neck.
-
-"What am I looking at?"
-
-"This rod. The wheel moves it, and it swings the rudder, the steel blade under the stern that steers us. The first storm bent it, and the co-op's vise only got it so straight. It might stick when the sea's on it."
-
-"And if it does?"
-
-"Then I'll find out at the wheel. On that stone it's holed by light."
-
-His chest was almost at her back, and her hands slowed on the wrench. She thought about turning over in the dark and dragging him down by his coat.
-
-At the last bolt she said, "Hold it still, Marshal."
-
-They both heard it.
-
-"Last time you called me that, you had both hands in my coat," he said quietly. "Thursday, on your step. You said you wanted me."
-
-"Hold the light."
-
-She ran the bolt tight. He held the light.
-
-She climbed the steel stair on the stiff knee and put her hands on the wheel. In eleven years she had never once been in charge of it with nobody beside her.
-
-Her father had stood at a wheel every working day of his life. Her hands went to this one as if they already knew it.
-
-She called the ropes off one at a time from the cabin window. Down on the car deck Dane lifted each off its deck post and threw it clear. She kept the last one on so the boat could swing out on it, off the stone. It held the whole boat now, so tight it hummed.
-
-In the first storm a rope like that had parted like a gunshot, and Ned had dragged her clear. Her hands wanted to leave the wheel and go down there.
+She called the ropes off from the cabin window, and Dane threw each clear. The last held the whole boat, so tight it hummed. In the first storm a rope like that had parted like a gunshot.
 
 "It won't come off the post," Dane shouted up. "Cut it?"
 
@@ -80,118 +38,208 @@ One second.
 
 "Cut it."
 
-He stood to the side of the rope's line, because a cut rope under that much pull comes back like a whip. He cut it with Ned's knife, and the end whipped back across the pier, nowhere near him.
+He stood clear of the rope's line and cut it, and the end whipped back across the empty pier.
 
-She watched him do it right.
-
-The boat swung free of the pier into the dark and the snow, and the stone fell away from its side. Dane stood on the car deck with the knife in his hand, looking up at her window.
+The boat swung free into the snow. Dane stood on the car deck with the knife in one hand and her flashlight in the other, looking up at her window.
 
 * * *
 
-She had held the boat's nose into the wind for most of an hour. Below the harbor road were the rocks where the lobster boats had gone up in the first storm, and she couldn't see them.
+An hour in, the wheel went heavy under Beth's hands at one point in its turn.
 
-The wheel went heavy.
-
-At one point in its turn, for a second, she felt it in her palms before she understood it. Then the nose began to swing off the wind, and she turned to bring it back.
+Her palms knew it before she did. The nose began to swing off the wind, and she turned to bring it back.
 
 The wheel stopped.
 
-It wouldn't come back. The rod she'd straightened had stuck, with the blade under the boat turned all the way to one side, so the boat kept turning. Slowly at first. Then faster. Toward the rocks.
+It wouldn't come back. The rod she'd straightened had stuck, holding the rudder turned hard to one side, so the boat kept turning. Slowly at first. Then faster. Toward the rocks.
 
 "Come on," she said. "Come on, damn you."
 
-She threw her whole body on the wheel, and the rod came free all at once. Nothing held the blade then. The sea shoved it, and the wheel spun back through her hands with it. She held on as it spun, and it took the skin off both palms. The white rope scar across her left palm opened with the rest. She could have let go. She held on until it stopped, and then she held it there.
+She threw her whole body on the wheel, and the rod came free all at once. Nothing held the rudder then. The sea shoved it, and the wheel spun back through her hands. She held on as it spun, and it took the skin off both palms. The white rope scar across her left palm opened with the rest. She could have let go. She held on until it stopped, and then she held it there.
 
-Dane was in the doorway. He'd felt the boat turn wrong through his feet, down among the trucks, and come up the stair. He looked at her hands and said nothing.
+Dane was in the doorway; he'd felt the boat turn wrong through his feet. He looked at her hands and said nothing.
 
 A white light came on along the shore.
 
-It swung across the snow and stopped on the rocks, and behind it was the shape of the island's red fire truck on the harbor road. The rocks were far closer than she had guessed, and the boat was still swinging toward them.
+It swung across the snow and stopped on the rocks. Behind it stood the red fire truck on the harbor road. The rocks were far closer than she had guessed.
 
-If she turned all the way, the rod might stick again, so she turned the wheel most of the way with her raw hands and held it. The boat came round slowly. The rocks went by in the white light a few yards off.
+If she turned all the way, the rod might stick again. She turned most of the way and held it. The rocks went by a few yards off.
 
-Tess. She had put the light on the rocks for Beth, and she still wouldn't say one word to her on the radio.
+Tess had put the light on the rocks for her and still wouldn't say a word to her on the radio. She'd save your life and charge you for the gas.
 
 "Who's on the prisoners?" Dane said.
 
 "Russ. She'll have given him the shotgun."
 
-The ferry's first-aid box was in the town office, empty since Russ's leg. Dane took off his coat, then his shirt, and put the coat back on over his bare chest. He held the shirt up to her without a word.
+The first-aid box was empty since Russ's leg. Dane took off his coat, then his shirt, and put the coat back on over his bare chest. He held the shirt up to her without a word.
 
 She took her left hand off the wheel. "Hold it here. Don't turn it."
 
-He took the spoke where hers had been and kept one hand on it. She gave him her left hand, and he stood on one sleeve, split the shirt down its seam with his free hand and wrapped her palm, quick and sure, as he'd done her knee. She took the wheel back with the wrapped hand, and he did the right.
+He took the spoke exactly where hers had been, as if it might go off. He stood on one sleeve, split the shirt down its seam and wrapped her left palm while she steered with her right. Then she took the wheel back with the wrapped hand and gave him the other.
 
-Later he said, "In an hour they'll stiffen. Keep the fingers moving."
-
-"I know what cold does to a cut," Beth said. "It's helping."
-
-Later still: "That was my good shirt."
+"That was my good shirt," he said.
 
 "You don't have a good shirt."
 
-"Open and close them for me. Every few minutes, or they'll set."
+"I had one. You're wearing it." He tied off the last strip. "Open and close them for me. Every few minutes, or they'll set."
 
 "Stop," she told him, and he stopped.
 
-His coat hung open over bare skin in a cabin cold enough to show her breath, and his hands had been steady on hers. She wanted him. She was angry with him. Both were true.
+His coat hung open over bare skin in a cabin cold enough to show her breath. She looked at the hollow of his throat and thought about her mouth there, and she was angry enough to keep both hands on the wheel.
 
-Hours on, the light was still on the rocks.
-
-"Dollar says it holds till light," Dane said.
-
-"I don't bet on—"
-
-The sea kicked the wheel in her wrapped hands. She caught it and held the nose into the wind, and nobody finished the bet.
+Later, when he turned to watch the light, she opened and closed her wrapped hands on the wheel, as he'd told her to, where he couldn't see her do it.
 
 * * *
 
-In the first gray, past the white water at the harbor mouth, a big fishing boat lay off the point, out of the wind, showing one light.
+In the first light Beth saw the big boat before she saw anything else.
 
-Her hands were wrapped on the wheel in his shirt, stiff and brown.
+It lay off the point, past the white water at the harbor mouth, showing its one light, closer in than last night. On the harbor road the fire truck's light went off, and the truck drove up the hill.
 
-"That's not from here," she said.
+Her hands sat on the wheel in his shirt, gone stiff and brown.
 
-"Whose is it?"
+Dane propped his phone on the shelf under the windows and called his boss on speaker. "The big boat came in closer overnight."
 
-"Nobody's."
+"Your Hal Mercer comes back to nobody," his boss said. "No license out of Gloucester in that name."
 
-Nobody from here lay off the point in November, and she knew every boat on this coast by its shape.
+Dane's hand closed on the shelf beside the phone.
 
-On the harbor road the fire truck's light went off, and the truck drove away up the hill. All night Tess had never once swung the light up to the cabin to look at her.
+"That's a lie to a federal officer," his boss said.
 
-Dane's phone sat on the shelf under the front windows, on the harbor's one bar. He called his boss on speaker and gave it plain: a big fishing boat off the point, one light, watching the harbor mouth.
+"Can anybody get aboard and ask him why?" Dane said.
 
-"Then hear it all at once," his boss said. "Nothing flies in this icing until Tuesday at the earliest, for her or for your constable. Nobody has a boat to bring you in. The Coast Guard's out on the storm's distress calls and won't come for a boat that hasn't done anything. If it comes at you, call them, and they'll come from an hour off. Marine Patrol, the state police on the water, has one boat on your stretch, the one with the hole in it. The kid isn't talking, and without her the rest won't hold. If she isn't in the room on Monday, Cole goes free at two."
+"Not in this sea. Nothing flies before Tuesday, and the Coast Guard's on the storm's distress calls. If that boat comes at you, that's a distress, and they'll come from an hour off."
 
-"Then it's the ferry," Dane said. "The harbor mouth is white water till Sunday evening, and the next storm's in before light Monday. Sunday night or not at all."
+"The harbor mouth is white water till Sunday evening," Dane said, "and the next storm's in before light Monday. Sunday night or not at all."
 
 "Sunday," Beth said.
 
-Dane turned from the phone to her.
+"Then the hold stands for Monday," his boss said. "If she isn't in that room, Cole goes free at two."
 
-"Wednesday I told her you'd go." He stopped. "I was scared. Called it the job. I'd still put you somewhere they can't find you. It was never mine to say."
+Beth looked at Dane over her wrapped hands. "Cancel it."
 
-To the phone: "She doesn't go into witness protection unless she says so. Write that down."
+He looked at her hands. "Withdraw it. Tell the prosecutor this morning. She doesn't get held, and she doesn't go into the program unless she says so. Write that down."
 
-"Then she's on her own after Monday," his boss said.
+"You asked for it Wednesday," his boss said.
 
-"Not all of her. I've put in for the Maine office." Then: "Tell her yourself. She's right here."
+"I was scared, and I called it the job." Dane swallowed. "And I'm involved with her. Write that down too."
 
-He took the phone off the shelf and held it out to her.
+The line went quiet. "Written," his boss said. "Then she's on her own after Monday."
+
+"Not all on her own," Dane said. "I've put in for the Maine office." He took the phone off the shelf and held it out to Beth.
 
 "Say it to me," Beth said.
 
-The boss spoke to Beth for the first time. "After Monday nobody from my office stands between you and those people. Do you understand what you're choosing?"
+"After Monday nobody from my office stands between you and those people," his boss said. "Do you understand what you're choosing?"
 
 "I know what I'm choosing. I'm the one standing here."
 
-The call ended.
+The call ended. Dane stayed an arm's length off.
 
-It was five days since he'd said he loved her and she'd told him to ask again in five. He didn't ask. She looked at him in his open coat with nothing under it and wanted to be asked.
+"I still think you should go," he said. "It was never mine to say. I knew that before last night, and then you took it off the pier when I'd have left it there, and you held that wheel with the skin coming off, and you were right both times."
+
+"Then you ask me. Every time. Even when you're sure. And you never go round me to anybody again."
+
+"Yes," Dane said. He thought about it. "What if somebody's shooting at us?"
+
+"Then ask fast," Beth said.
+
+"I get terms too," he said. "When I think you're wrong, I say so, to your face, as loud as it takes."
+
+"Fine," she said. "Wednesday I said, 'And so do we.' For both of us. Same thing I hated you for."
+
+"Then we split the blame," he said. "I'll take the bigger half. I'm the one who filed it."
+
+Five days ago on the lighthouse he'd said he loved her, and she'd told him to ask again in five. He didn't ask. She looked at him in his open coat and waited.
 
 "What do you want, Dane?"
 
-"I'll tell you on the other side."
+"I'll tell you on the other side. When nobody's paying me to stand here."
 
-Past the white water, off the point, the one light hadn't moved.
+The wind went round. She brought the boat's nose toward the pier, and he was down the stair to take the ropes before she'd said a word.
+
+* * *
+
+Dane Reyes had the ham in the town-office oven by three, because that was the one thing on Cutter he could still fix.
+
+The kitchen smelled of cloves. Ned and the kid were behind the shut back-room door. He wore Russ's flannel shirt, short in the arms, because what was left of his own was round her hands.
+
+Beth sat on the counter by the sink and held out her hands. He unwound the brown strips, put clean ones across her palms and wound black electrical tape over them. She opened and closed her hands for him without being asked. That morning she had called the ferry board and asked for the boat tonight.
+
+He pulled the curtain on the one light under the point.
+
+Beth got down off the counter and stood in the doorway where Russ and Tess could see her.
+
+"Russ. Tess. He's going to ask me something, and I'm going to say yes. I'm telling you myself, so nobody ever says it for me."
+
+Tess's eyes came up off the desk to Beth's face and stayed there.
+
+"You just told them the answer," Dane said. "I had a whole speech."
+
+"Ask anyway. Even when you're sure."
+
+He set the roll of tape down on the counter. "Can I kiss you? I'm asking."
+
+"Yes." She stayed where she was. "And what you said to me at the lighthouse. Yes to that too. I love you. I have since the rock, when you opened your hand."
+
+Dane didn't move. On the couch Russ set his glass down.
+
+"Come here," she said.
+
+He went. She couldn't put her palms on him, so she hooked her wrists over his shoulders and held her taped hands up behind his neck. He kept his own hands at her waist, clear of her palms. She kissed him slowly, after four days of not, and Russ was watching, and some part of him went on working out how this would sound in a courtroom, and then it quit. There was her mouth and her name, and nothing else.
+
+Tess stood with the shotgun. "Whitcomb. I'll be on the steps. Somebody ought to watch the harbor." She went out past Beth without a look, and the door shut hard.
+
+Beth watched it shut over his shoulder. She didn't let go of him.
+
+From the couch Russ said, "Well."
+
+* * *
+
+By eight it was full dark, and Dane Reyes lay under the bait truck with her flashlight in the cold smell of old herring, looking for a man or anything left behind.
+
+Up behind the back wheel, taped to the frame, he found a cheap phone in a plastic bag, switched on.
+
+The bag was dry and the battery near full. Friday night's spray had iced everything else on this deck. Tess had watched the harbor from the store steps all Saturday, and nothing came in by water. The ferry sat empty all that day while he held the light for her at the co-op vise.
+
+He had missed that one. So it was somebody on Cutter.
+
+He took it up to Beth. "It shows the boat off the point where we are. Can I switch it off?"
+
+"When the last line comes off," Beth said.
+
+"When it goes dead, they'll know we're moving."
+
+"Then we go dark. Let them find us by ear."
+
+Tess couldn't nurse Russ and guard two men, so both crossed. Ned looked down at his life jacket as if it were somebody else's. The kid went into fresh ties over his life jacket, and one more to a bench leg. Dane clipped Russ's handheld radio to his coat.
+
+At the hatch Beth ran her thumb along the rod to its second bright mark. "If it sticks, I'll feel it first."
+
+At the wheel she asked for Ned beside her, because he heard breaking water before anybody saw it.
+
+"He's the man who sold you to them," Dane said.
+
+"If he stays below, he's an arm's length from the kid."
+
+"Your call." He moved one of Ned's cuffs to the rail by her left hand and dropped the key in her coat pocket.
+
+"We go at ten," she said. "An hour after high water, while there's still water over the rocks."
+
+"Do we go?" he said.
+
+"Go. If it comes at us, I run inside the ledges, close in to the point."
+
+Every light aboard went off at her word.
+
+His hand went to the cabin light switch out of habit.
+
+"Touch that and you swim."
+
+At ten Tess threw off the lines, and as the last one came free Dane switched the phone off. Beth took the ferry out by feel.
+
+At the mouth she slowed. White water broke loud on both sides, and Ned turned his head toward it, listening.
+
+Then, under their own engine, Dane heard a bigger engine come up out of the dark off the point.
+
+Her taped hands stayed where they were on the wheel. "Tell me where it is."
+
+Dane took the rifle to the back window.
