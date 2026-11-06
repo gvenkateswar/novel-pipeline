@@ -6,19 +6,19 @@ Beth had held the end of the rope for a mile of the east road before Ned answere
 
 The rope was stiff with cold in her bare hand. It jerked a little at every step his bad hip took.
 
-"Cole's lawyer rang me the morning after, on the phone Cole gave me for the night runs. It was the only number Cole ever called me on. He said where my boy sleeps. He said the street."
+"Cole's lawyer rang me the morning after, on the phone Cole gave me for the night runs. It was the only number Cole ever called me on."
 
 Her eyes went to the left pocket of Dane's coat. That phone had sent the boy to Russ's porch, the north-side house and the beach at three.
 
-Dane walked a step wide of her on the uphill side, carrying the ferry's first-aid box Ned had brought, because his own kit had no gauze left. He had waited for light because in the dark the island was the kid's, and he had picked the road because Ned couldn't do the shore rocks tied.
+Dane walked a step wide on the uphill side with the ferry's first-aid box, since his own kit had no gauze left. He had waited for light because the dark was the kid's, and taken the road because Ned couldn't do the shore rocks tied.
 
 New snow squeaked under three sets of boots. On the uphill side an old stone wall ran across the top of a field gone white. On the downhill side a shallow ditch lay half full.
 
 "Why was the truck clean?" Beth said.
 
-Ned kept walking. "I called Cole from the boat before you'd got your phone out. I told him you'd call. I know you." He went on, too fast. "I stood in the cabin with the door shut so you wouldn't hear, and I thought if the truck was clean there'd be nothing for you to have seen."
+Ned kept walking. "I called Cole from the boat before you'd got your phone out. I told him you'd call the police. I know you." He went on, too fast. "I stood in the cabin with the door shut so you wouldn't hear, and I thought if the truck was clean there'd be nothing for you to have seen."
 
-The truck had been clean because of him. So the police had only her word, and that was why a boy with a gun had come to every bed she slept in for six days.
+Ned had warned Cole. The truck had been clean because of him. So the police had only her word, and that was why a boy with a gun had come to every bed she slept in for six days.
 
 The rope went slack in her hand. She had stopped walking.
 
@@ -42,9 +42,11 @@ Dane's finger came off the trigger and lay flat along the guard. Past the wall w
 
 Ned spoke into the ditch. "In September Cole asked me who'd have the boat after me. I told him you. I was proud of it."
 
-"Where does Cole get it?" Dane said, without turning his head.
+"So he'd know who to buy next," Dane said, without turning his head. "Where does Cole get it?"
 
 Ned answered Beth. "It comes in from offshore. A boat. I never saw it."
+
+So there was a boat out there, too, and nobody had seen it.
 
 He got his good knee under him and his tied hands on the lip of the ditch, and pushed himself up on the bad hip an inch at a time.
 
@@ -70,15 +72,13 @@ Russ took his cap off and put it back on. "Later than that."
 
 "Not one word, Calloway," Tess said.
 
-Russ turned to Dane. "You asked who I told. I told her." His ears had gone red. "I went to her after the Dyer house, the phone she hung up on Saturday was me, and Tuesday I kept the harbor road like I said, because every house on it stood empty and I wasn't leaving hers."
+Russ turned to Dane. "You asked who I told. I told her." His ears had gone red. "I went to her after the Dyer house, and the phone she hung up on Saturday was me."
 
-Russ Whitcomb had lied to a marshal's face for six days to hide the one thing on this island everybody would have cheered.
-
-At the town office step Russ took his cuffs off his belt. Behind them Tess's door shut. Beth turned in time to see it close. Tess hadn't stayed to watch.
+At the town office step Russ took his cuffs off his belt. Behind them Tess's door shut. Tess hadn't stayed to watch.
 
 Beth held out the end of the rope. Russ put his hand on it. She held on a breath longer, then let go.
 
-Russ cuffed Ned's wrists in front and picked her knot loose. Two days ago Dane couldn't have handed Russ a man. He stood back and let him.
+Russ cuffed Ned's wrists in front and picked her knot loose.
 
 In the town office doorway Ned turned once and looked back at Beth. His hands were cuffed, so he nodded. Then he went in.
 
@@ -90,7 +90,7 @@ Russ went in his shirt sleeves. His truck pulled away up the east side of the vi
 
 The cheap phone buzzed on the desk.
 
-It rattled on the old wood beside the kid's phone. Dane had kept it switched on all morning, because whoever else had that number would try it. Through the open back-room door, Ned sat on the floor against the wall, the rope burn red on both wrists above Russ's cuffs.
+It rattled on the old wood beside the kid's phone. Dane had kept it switched on all morning, because whoever else had that number would try it. Through the open back-room door Ned sat against the wall, the rope burn red above Russ's cuffs.
 
 Dane turned the screen so Beth could read it.
 
@@ -104,13 +104,13 @@ Dane held the kid's phone beside it. The number on Ned's screen was the one that
 
 "That's him," Ned said from the floor. "Cole's lawyer."
 
-Dane went to the window, where the signal was, and rang Portland police on his own phone. He got a desk, then a sergeant. He gave his name and his badge, and said, politely and slowly, that a man's life was under threat and he needed a car at an address now.
+Dane went to the window, where the signal was, and rang Portland police on his own phone. He gave his name and his badge, and said, politely and slowly, that a man's life was under threat and he needed a car at an address now.
 
 "Ned. The address."
 
 Ned gave it from the floor, every word. "Ninety-six Grant Street. Second floor, the door round the back."
 
-Beth stood with her bad knee against the desk. Dane was on the phone to a city she had been to twice, making a desk in Portland do what he said, for the man who had sold her. She wanted to cross the room and put her mouth on his while he was still talking, and how much she wanted it frightened her. She stayed at the desk.
+Dane was making a desk in Portland do what he said, for the man who had sold her, and Beth wanted to cross the room and put her mouth on his while he was still talking.
 
 Ned's thumbs worked at the rope burn on one wrist, then the other, over and over. He never looked at the phone. He looked at Beth.
 
@@ -136,7 +136,7 @@ Her voice came small and flat out of the phone face up on the desk, and it fille
 
 "After she testifies, there's witness protection. A new name in a new state. She can't come back here, and she can't tell anyone from here where she is. Not her friends, not this island, and not you."
 
-She said *not you* in the same flat voice as the rest. She knew what Beth was to him.
+She knew what Beth was to him.
 
 "If she says no, our part ends after Monday. Will she take it?"
 
