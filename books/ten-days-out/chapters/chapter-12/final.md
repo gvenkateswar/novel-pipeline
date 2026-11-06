@@ -10,15 +10,15 @@ The rope was stiff with cold in her bare hand. It jerked a little at every step 
 
 Her eyes went to the left pocket of Dane's coat. That phone had sent the boy to Russ's porch, the north-side house and the beach at three.
 
-Dane walked a step wide on the uphill side with the ferry's first-aid box, since his own kit had no gauze left. He had waited for light because the dark was the kid's, and taken the road because Ned couldn't do the shore rocks tied. Ned's lantern had come down this road last night for anybody in these fields to see.
+Dane walked a step wide on the uphill side with the ferry's first-aid box, since his own kit had no gauze left. Dane had waited for light because the dark was the kid's, and taken the road because Ned couldn't do the shore rocks tied. Ned's lantern had come down this road last night for anybody in these fields to see.
 
 New snow squeaked under three sets of boots. On the uphill side an old stone wall ran across the top of a field gone white. On the downhill side a shallow ditch lay half full.
 
 "Why was the truck clean?" Beth said.
 
-Ned kept walking. "I called Cole from the boat before you'd got your phone out. I told him you'd call the police. I know you." He went on, too fast. "I stood in the cabin with the door shut so you wouldn't hear, and I thought if the truck was clean there'd be nothing for you to have seen."
+Ned kept walking. "I called Cole when we tied up at Pruett, while you were on the ramp taking your picture of his plate. I told him you'd call the police. I know you." He went on, too fast. "I thought if the truck was clean there'd be nothing for you to have seen."
 
-So the police had only her word, and that was why a boy with a gun had hunted her for six days.
+So the police had only her word.
 
 The rope went slack in her hand. She had stopped walking.
 
@@ -70,7 +70,7 @@ Russ took his cap off and put it back on. "Later than that."
 
 "Not one word, Calloway," Tess said.
 
-Russ turned to Dane. "You asked who I told. I told her." His ears had gone red. "I told her the north-side house. I went to her after the Dyer house. The phone she hung up on Saturday, that was me. Tuesday I kept the harbor road like I said, because every house on it stood empty, and was I leaving hers? I was not."
+Russ turned to Dane. "You asked who I told. I told her." His ears had gone red. "I told her where the north-side house was. Nobody else. Saturday at the store, when Tess's phone buzzed and she hung up on it, that was me calling her. And Tuesday I stayed on the harbor road because her store is on it. I lied to you to keep her name out of it."
 
 At the town office step Russ took his cuffs off his belt. Behind them Tess's door shut.
 
@@ -108,11 +108,15 @@ Dane turned the screen so Beth could read it.
 
 "He means me," Beth said.
 
+"I never would." Ned said it from the floor of the back room, loud enough to carry. "The knife was for that boy's sleeve. I came to help him. That's all I came for."
+
 Dane held the kid's phone beside it. The number on Ned's screen had called the kid four times since the beach and never written a word. Ned's call history held it once more, an incoming call on Friday morning.
 
-"That's him," Ned said from the floor. "Cole's lawyer."
+"That's him," Ned said. "Cole's lawyer."
 
-Dane went to the window, where the signal was, and rang Portland police on his own phone. He gave his name and his badge, and said, politely and slowly, that a man's life was under threat and he needed a car at an address now.
+"So Cole's own lawyer has been running the kid," Dane said, "and holding your son."
+
+Dane went to the window, where the signal was, and rang Portland police on his own phone. He gave his name and his badge, and said that a man's life was under threat and he needed a car at an address now.
 
 "Ned. The address."
 
@@ -158,11 +162,11 @@ The boss was already saying, "Call me back." Dane took it off speaker, ended the
 
 "You told your boss I'd go," Beth said. "With me standing right here. You decided I'd be alive in Ohio and stop being me, and you didn't even ask."
 
-"Ms. Calloway, I'll say why once, slowly. Two years ago in New Bedford, Cole's people burned down the house of a woman who had already testified, so testifying ends nothing. On Tuesday a pistol came up at you on the cove rocks, and this morning a boy shot at you off that wall. The man who loved you most on this island sold you for his son, and the next one will sell you for less." He stopped. "I said it because I mean to make you go. I'd lose you to keep you alive."
+"Ms. Calloway, I'll say why once. You know what they did in New Bedford to a woman who had already testified. Testifying ends nothing. On Tuesday a pistol came up at you on the cove rocks, and this morning a boy shot at you off that wall. The man who loved you most on this island sold you for his son, and the next one will sell you for less." He stopped. "I was going to ask to stay on in Maine. I'd still ask. It's no good to me where I am if you're dead. I said it because I mean to make you go. I'd lose you to keep you alive."
 
 "That's Cole winning," Beth said. "Slower. If I leave my island because a boy shot at me, then shooting at me works, and every one of them learns it. I won't do it, Dane Reyes."
 
-He stood across the desk with his face grey from no sleep, and she wanted both fists in his coat and the desk gone from between them. She gripped the edge of the wood.
+He stood across the desk with his face gray from no sleep, and she wanted both fists in his coat and the desk gone from between them. She gripped the edge of the wood.
 
 "You're right about New Bedford," she said. "And the wall, and Ned. I still won't live it."
 
@@ -179,5 +183,7 @@ He fed it. All afternoon he stayed on the far side of the room with his back to 
 At dusk Beth went out on the town office steps for air and sat with her bad leg straight. The cold came through her jeans. Dane stood in the doorway behind her.
 
 Up on the east rise, over the roofs, smoke was rising from her own chimney into the last of the light. At the foot of her lane below it, Russ's truck sat where it had sat all day.
+
+Her house had stood empty and cold for six days. Somebody was inside it.
 
 Dane came down one step. The smoke went up pale into the blue, the truck sat small and dark beneath it, and the two of them looked at it together, a step apart.

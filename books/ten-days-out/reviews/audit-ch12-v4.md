@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–12, 25,978 words)
+# Audit — ten-days-out (chapters 01–12, 26,045 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -65,7 +65,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 10× “his boss said”
 - 10× “the north beach”
 - 9× “a long time”
-- 7× “on the harbor road”
+- 8× “on the harbor road”
 - 6× “the whole way”
 - 6× “i'm going to”
 - 6× “the man had”
@@ -77,10 +77,11 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 5× “the whole time”
 - 5× “truck was clean”
 - 5× “the grand jury”
+- 5× “beth said i”
 - 5× “looked at beth”
 - 5× “the kitchen window”
+- 5× “dane said and”
 - 5× “his other hand”
-- 5× “the dyer house”
 - 5× “the snow came”
 - 5× “the tree line”
 - 4× “her voice came”
@@ -90,12 +91,11 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 4× “and said nothing”
 - 4× “took her hand”
 - 4× “beth said and”
-- 4× “beth said i”
 - 4× “ned looked at”
 - 4× “without a word”
 - 4× “the whole road”
 - 4× “road could see”
-- 4× “dane said and”
+- 4× “the dyer house”
 - 4× “hand flat on”
 - 4× “dane said the”
 - 4× “through the floor”
@@ -130,7 +130,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 09 | 2,092 | 14.1 | 10.2 | 20% | 0.0 | 0.0 | 0.0 | 4 | short openers |
 | 10 | 2,466 | 14.3 | 10.4 | 15% | 0.0 | 0.4 | 0.0 | 3 |  |
 | 11 | 1,992 | 13.0 | 9.0 | 18% | 0.0 | 0.0 | 0.0 | 3 | short |
-| 12 | 2,029 | 12.7 | 8.7 | 20% | 0.0 | 0.0 | 0.0 | 4 | mean short openers |
+| 12 | 2,096 | 12.4 | 8.3 | 23% | 0.0 | 0.0 | 0.0 | 4 | mean short openers |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -145,7 +145,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 - quiet: 19 (0.7/1k)
 - humm?(ing|ed)?: 1 (0.0/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 56 (2.2/1k)
+- still(ness)?: 57 (2.2/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 1 (0.0/1k)
@@ -170,11 +170,11 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 5 | 0.2 | 0.0/1k | FLAG |
-| sentence-initial And/But/And yet | 5 | 3 | 1 | 1 | 2 | 1 | 0 | 3 | 1 | 0 | 0 | 1 | 18 | 0.7 | 3.0/1k |  |
+| sentence-initial And/But/And yet | 5 | 3 | 1 | 1 | 2 | 1 | 0 | 3 | 1 | 0 | 0 | 2 | 19 | 0.7 | 3.0/1k |  |
 | em dashes | 2 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 5 | 0.2 | 2.0/1k |  |
 | semicolons | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 2 | 0.1 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 0 | 0 | 1 | 3 | 1 | 3 | 0 | 0 | 2 | 3 | 1 | 0 | 14 | 0.5 | 1.0/1k |  |
-| one-sentence paragraph | 16 | 27 | 35 | 34 | 20 | 14 | 40 | 20 | 27 | 36 | 41 | 20 | 330 | 12.7 | report |  |
+| one-sentence paragraph | 16 | 27 | 35 | 34 | 20 | 14 | 40 | 20 | 27 | 36 | 41 | 22 | 332 | 12.7 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
