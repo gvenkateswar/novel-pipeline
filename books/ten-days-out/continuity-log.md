@@ -189,7 +189,7 @@
 
 ---
 
-## Chapter 13 — They've Got a Boat
+## Chapter 13 — Her Father's Kitchen
 
 *From `chapters/chapter-13/final.md`, 2,041 words, after one structural reader-fix round (cold reader 3 of 5, "I'd keep reading, but…": opening flashback block, Russ/kid contradiction with Ch 05, no call for help, capture too easy; plain reader romance FAIL on Beth's side). Both addressed in the rewrite. POV: Dane.*
 
