@@ -585,3 +585,8 @@ The Ch 14 cold reader predicted, at 60–90%: she testifies; she runs her father
 - The ledges on the point side of the harbor mouth run out along the point about a mile; the pencil route runs inside them, close to shore.
 - The kid gives his statement in the captain's cabin.
 - Ends: Dane on the stretcher at Pruett about four, "Ten o'clock. Will you go in without me?" Her answer is not on the page. "Bethie" reaches 10 of 10 ("I've got it, Bethie. Go."); "your marshal" spent ("Your marshal?" / "Talking.").
+
+### Ch 15 reader-fix carry-forwards (orchestrator, Nov 6; binding on Ch 16–18)
+- The love question stopped stalling: in Ch 15's public-yes scene Beth answers Dane's Monday "I'm in love with you" in front of Russ and Tess: yes, since the rock. What is still owed in Ch 17 is Dane's "I'll tell you on the other side" (what he wants: the Maine office, a worse boat, her) and Beth's "Will you stay? I'm asking." Ch 17 must not re-stage her love answer as new.
+- Dane found a switched-on phone taped under a truck on the car deck (how the big boat tracked the ferry) and switched it off. In Ch 16 the big boat tracks them by eye and by listening to the ferry's radio.
+- Before casting off, Beth said plainly she'd run inside the ledges, close to the point, if the boat came at them.
