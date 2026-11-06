@@ -2,9 +2,9 @@
 
 The kid wrote the way kids wrote, all small letters and no names, and by half past two in the morning Dane Reyes could write it too.
 
-Besides the leak's thread, the phone held a few short ones to numbers with no names: *cant*, *ill*, a period after most of it. Nothing about Cole or the ferry or Beth.
+The kid's phone held a few other short texts, to numbers with no names: *cant*, *ill*, a period after most of it. Nothing about Cole or the ferry or Beth.
 
-At a quarter past two he had rung the leak's number from his own phone, and it was off. Like the kid's, it came on only to send or to wait for an answer. So the one way to get it switched on, in somebody's pocket, in a room with them, was to give it something to answer.
+At a quarter past two Dane had rung the leak's number from his own phone. It was off. The leak kept that phone switched off and turned it on only to send a text or to wait for one. So the one way to get it switched on, in somebody's pocket and in a room with them, was to send it a text it had to answer.
 
 He set the kid's phone to silent, so the number that kept calling couldn't ring in the dark. The leak's texts would still light it.
 
@@ -30,7 +30,7 @@ He stood a moment with his hands empty.
 
 "I know. So it's my face they find."
 
-He drew the front door's bolt and left the door shut. "This is the kid's cove, and the road's his too. He's got a pistol and no boat. If that door opens on him, you go out the front when I say go."
+He unlocked the front door so it would open fast, and left it shut. "This is the kid's cove, and the road's his too. He's got a pistol and no boat. If that door opens on him, you go out the front when I say go."
 
 "Fine. If it's the kid, I go. Anyone else, I stay till I've seen the face."
 
