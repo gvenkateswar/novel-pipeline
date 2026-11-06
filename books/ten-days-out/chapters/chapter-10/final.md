@@ -76,11 +76,11 @@ Dane came to her. His hand was on her before she sat up.
 
 Blood was coming through the torn knee of her jeans, and out of his hair into one eyebrow. They looked at each other's blood and said nothing.
 
-He got up, took the kid's phone off the stones while it was still lit, and worked his thumb on it before the screen went dark. He checked the rifle and slung it.
+He got up, took the kid's phone off the stones while it was still lit, and kept his thumb moving on it so the screen wouldn't lock. He checked the rifle and slung it.
 
 Beth looked south at the sky, then at the skiff.
 
-"He'd have been swamped at the ledges, the rocks just under the water at the harbor mouth. An hour across is the ferry. In that, it's three, and the storm's here inside the hour."
+"He'd have been swamped at the ledges, the rocks just under the water at the harbor mouth. The ferry takes an hour to cross. A skiff in that sea would take three, and the storm's here inside the hour."
 
 "He was going to try."
 
@@ -242,7 +242,7 @@ One number, no names:
 
 Under the last one the kid had written back: *ok*
 
-"My boss knew the lighthouse on Monday," Dane said. "This never sent it."
+"My boss was the only one who knew we were at the lighthouse," Dane said. "This number never sent it. So it isn't my boss."
 
 "And your Marine Patrol never had the north-side house," Beth said.
 
@@ -257,6 +257,8 @@ He took his own phone to the kitchen window, found one bar, and texted his boss 
 Her answer came back inside a minute.
 
 *Records on her three came back clean. Keep it on. Don't answer it without me.*
+
+Clean records meant nothing. Whoever it was had a second phone, one nobody knew about.
 
 At two the kid's phone lit up on the chair.
 
