@@ -576,3 +576,12 @@ From `reviews/outline-audit-backhalf-r1.md`. Outline fix budget is now spent; th
 
 ### Predictability note (orchestrator, Nov 6; binding on Ch 16–18 beats)
 The Ch 14 cold reader predicted, at 60–90%: she testifies; she runs her father's line through the rocks; she says yes and Dane moves to Maine and buys the boat; the rod sticks again; Ned gets a grace note; the fishing boat attacks. Keep the outline's outcomes, but each of Ch 16–18 must turn at least one of these in a way the reader doesn't see coming (how it happens, who does it, what it costs). The rod does not stick again (fear only). Don't quote earlier plants back in narration, don't re-gloss terms the book has defined, and vary chapter endings (not another single ominous image).
+
+### Ch 16 beat-sheet carry-forwards (orchestrator, Nov 6; accepted under the Oct 29 standing instruction, reported to the author)
+- The turn: the big boat can hear the ferry's radio. Dane asks on the air, "Beth. Can I tell them about the steering?" She can feel the steering is fine and says "Tell them." He says "Her steering's gone." She lets the ferry drift toward the rocks; the big boat comes in close to board; she turns into the narrow way inside the ledges; it follows blind and hits; it limps off under its own power. The rod never sticks. (Writer: Beth knows it's a lie because the wheel is fine under her hands; don't claim a lying tell for Dane that the book hasn't set up.)
+- Ned has never taken the route ("Alton's way. You've seen it on the door." / "Never. He never took anybody."). Beth runs it from the pantry-door drawing; Ned calls the breaking water by ear.
+- Dane is hit up top (a bullet line along his ribs). Beth uncuffs Ned with the key from her pocket to free her hands; Ned cuffs himself back to the rail unasked.
+- One unnamed man on the big boat's radio, two lines plus "You talk a lot, Marshal." / "Everybody says so." (Book 2 face.)
+- The ledges on the point side of the harbor mouth run out along the point about a mile; the pencil route runs inside them, close to shore.
+- The kid gives his statement in the captain's cabin.
+- Ends: Dane on the stretcher at Pruett about four, "Ten o'clock. Will you go in without me?" Her answer is not on the page. "Bethie" reaches 10 of 10 ("I've got it, Bethie. Go."); "your marshal" spent ("Your marshal?" / "Talking.").
