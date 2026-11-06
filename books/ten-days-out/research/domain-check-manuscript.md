@@ -1,323 +1,415 @@
-# Ten Days Out: Domain check, manuscript mode
+# Ten Days Out: Domain check (manuscript mode)
 
-*Domain-checker, October 29, 2026. Text checked: `manuscript.md`, v2 rebuild, 30,041 words, read in full. I read `research/domain-check.md` (setup pass) first and did not re-check items it settled unless the page changed them. Verdicts: **OK** (confirmed against the sources listed), **Fix** (an expert reader would trip; corrected fact and a one-line page fix given), **Plausible** (fits real practice, but no source confirms the exact detail, or it is a fictional choice inside real limits). Anything I couldn't source is marked unclear, never OK.*
+*Domain-checker, November 6, 2026. Text checked: `books/ten-days-out/manuscript.md` as of this date (18 chapters, 3,912 lines). Checked against `research/domain-check.md` (setup mode, Oct 28).*
 
-Calendar used throughout (checked against the 2026 calendar: Nov 1, 2026 is a Sunday): Day 0 is Thu Nov 12 (reefer). Day 1 is Fri Nov 13 (Dane arrives, bridge falls). Thu Nov 19 is the shot. Fri Nov 20 is the bait night. Sat Nov 21 is the arrests. Sun Nov 22 is the crossing. Mon Nov 23 is the grand jury. The coda is Fri Dec 18.
+*Verdicts: **OK** (confirmed against the sources listed), **adjust** (the core holds but a detail or word is wrong), **wrong** (a reader in the trade would catch it), **unclear** (I could not source it, or I am working from memory). Nothing below changes the story. Each fix is the smallest one I could find, and the author or architect picks.*
+
+*Blocked fetches: Cornell LII pages for FRCrP 6, FRCrP 5.1 (a later Cornell URL for 5.1 did load) and 18 U.S.C. § 3142 timed out on permission. Rule 6 is covered by the federal grand-juror handbook. § 3142 is covered by a secondary source and marked as such.*
 
 ---
 
-## Fix items, ranked by how badly an expert reader would trip
+## Summary: fix these first
 
-| Rank | Item | Who trips | Page | One-line fix |
+| # | Ch | What the page says | Verdict | Smallest fix |
 |---|---|---|---|---|
-| 1 | "the last sitting before Pelletier walks" | any criminal lawyer | Ch 2 | "It's the last sitting before his preliminary hearing, and they'd like you in front of it." |
-| 2 | Beth's hand on the reefer box: "not cold" | reefer drivers, lobster dealers | Ch 1 s1 | Put her hand on the unit's grille, not the box (see item 2) |
-| 3 | Propane truck on a passenger run | Maine ferry crews | Ch 2, Ch 9 (Ch 10 if the truck is still aboard) | Book the propane truck on the no-passenger propane run after the two o'clock |
-| 4 | The hundred-ton license "in her wallet," a card with sharp corners | any licensed mariner | Ch 4 s3, Ch 6 s4 | Make it the passport-size credential in her coat's zip pocket |
-| 5 | Ferry cancellation broadcast on channel 16 | mariners | Ch 1 s4 | "opened up on thirteen", or have Ned make a short call on 16 and shift to 13 |
-| 6 | "the defense had a copy" by Dec 18 | lawyers (a nitpick) | Ch 10 s5 | "and the defense would have a copy" |
-| 7 | Beth sails as master on Day 10 with no word from the owner | ferry people | Ch 10 s3 | One line: the district rang the store and gave her the boat |
-| 8 | What losing the freight contract costs: "three days a week" (Ch 6) vs "ties her up December to April" (Ch 9) | islanders; also a continuity problem | Ch 6 s3, Ch 9 s5 | Use "three days a week" in both places |
-| 9 | Prisoners in an open boat, cuffed behind, no life jackets | marine law enforcement | Ch 10 s1 | "…with their hands behind them and life jackets over their shoulders" |
-| 10 | "The inspector's temporary repair" | ferry people (wording) | Ch 10 s3 | "The temporary repair the inspector had passed" |
-| 11 | Sodium lights still on at 7:40 a.m. on Nov 13 | almost nobody | Ch 1 s2 | Optional: "still on, the photocell fooled by the overcast", or leave it |
+| A1 | 2, 8, 14 | "If they don't indict him that morning, he walks. No charge, no trial." | **adjust** | He walks *that afternoon* at a preliminary hearing. He can be charged again later. Cut "No charge, no trial." |
+| A2 | 2 | The prosecutor "won't go in on a phone call and a little powder. She wants you in the room." | **adjust** | Legally an agent could tell the grand jury what she said. Make it the prosecutor's own choice in one line. |
+| A3 | 13–14 | A strap tourniquet from first light Thursday until "Thursday night", then a pressure bandage | **wrong** | Convert it to packing and a pressure dressing within about 2 hours, on radio advice. Add a windlass (a stick or a wrench) to the strap. |
+| A4 | 6 | "The tide's making" at dusk on Sunday Nov 15 | **wrong** | High water at Portland was 2:47 p.m. At dusk it is ebbing. Say the sea is breaking over the low rocks instead. |
+| A5 | 2 | Ned on the pier hauls Beth up off the float by her collar at about 7 a.m. Nov 13 | **adjust** | Low water was 7:04 a.m., so the float sits around 9–10 ft below the pier top. Put Ned on the float's gangway above her. |
+| A6 | 2 / 14 | The wheel "spun all the way round with nothing on the other end", but later the fault is a *bent* rod | **adjust** | A bent rod binds; a wheel spins free only when the linkage is disconnected. Ch 14: the pin sheared and the rod bent, "the rudder took the pier." |
+| A7 | 9, 14 | "the Marine Patrol boat, the state police on the water"; Ch 8 "A state police boat" | **wrong** | Marine Patrol is a bureau of the Dept. of Marine Resources, not the State Police. Use "Marine Patrol, the state's marine police." |
+| A8 | 1, 16 | "the captain's cabin" for where Ned steers | **wrong** (terminology) | Use "wheelhouse." A captain's cabin is where he sleeps. |
+| A9 | 16 | Beth calls "Coast Guard. This is the Cutter Island ferry…" while being shot at | **adjust** | Being fired on is a Mayday. Start with "Mayday, mayday, mayday, this is the Cutter Island ferry." |
+| A10 | 3 | The generator runs all night "in the shed off the kitchen" | **wrong** (safety; Maine readers know this) | Move it outside under the eave with the cord through the wall. "Roared through the wall" still works. |
+| A11 | 8 | Tess: "you owe me a fire truck's worth of gas" | **adjust** | Fire apparatus runs on diesel: "a fire truck's worth of diesel." |
+| A12 | 12 | "Ninety-six Grant Street" | **adjust** (real-address risk) | Grant St. (Parkside) has real multi-unit buildings at 80, 84, 107–109 and 111. Drop the number, or use an invented street. |
+| A13 | 12, 16 | Arithmetic: house empty "six days"; crossing "Three hours at best" against a 10 p.m. to ~3:50 a.m. run | **wrong** | "five days"; "Five hours, maybe six." |
+| A14 | 5 / 18 | Two coffees for "a dollar"; later "Coffee's a dollar … same as everybody" | **wrong** (arithmetic) | Ch 5: "put two dollars on the counter." |
 
 ---
 
-## 1. Federal grand jury procedure, District of Maine
+## 1. Federal grand jury (Ch 2, 17)
 
-**Claims on the page:**
-- Ch 2: "the grand jury sits a week from Monday, the twenty-third. It's the last sitting before Pelletier walks."
-- Ch 10 s4: Beth comes out of the grand jury room alone. Pike: "They'll return the indictment before four. Pelletier stays in." The prosecutor asked about the money once. "Did they have his book?" "Yes."
+**Page:** Ch 17. "Nobody comes in with you. No lawyer for you, nobody for him, no judge. The grand jury, me, and her, writing it down." About twenty people. A court reporter at "a little machine." A juror in a work jacket puts up his hand and asks a question. "They'll decide after you leave." The boss texts: "Voted to send him to trial."
+
+**Verdict: OK.**
+- Only the grand jurors, the government attorney, the witness, the court reporter and any interpreter may be present. No judge and no defense lawyer, and the witness's own lawyer waits outside. The page matches.
+- Twenty-three jurors are selected and 16 make a quorum, so "about twenty" is right.
+- After the prosecutor, "the other members of the grand jury may question the witness." The juror's question is accurate.
+- At least 12 must vote to indict, and the indictment is reported "to the judge or a magistrate judge in open court." Deliberation is private and secret, so "Nobody will tell you in the hall" is right.
+- **Optional:** a marshal would more likely text "True bill" or "They indicted" than "Voted to send him to trial." Either reads fine.
+- **Unclear:** whether the Portland grand-jury room is on the second floor of the Gignoux courthouse. No source found.
+
+**Sources:** [Handbook for Federal Grand Jurors (uscourts.gov)](https://www.uscourts.gov/file/2804/download)
+
+## 2. "If they don't indict him that morning, he walks" (Ch 2, 8, 14)
+
+**Page:**
+- Ch 2: "she says if they don't indict him that morning, he walks. No charge, no trial."
+- Ch 8: "Cole's held in Portland until the hearing, Monday the twenty-third at two … or he walks."
+- Ch 14: "Cole goes free at two."
+
+**Verdict: adjust.**
+- **The hearing at two is a preliminary hearing.** If the defendant is in custody, it must be held no later than 14 days after the initial appearance. An indictment makes it unnecessary. If Cole made his first appearance on Fri Nov 13, the deadline is Nov 27, so Monday Nov 23 fits.
+- **If the magistrate finds no probable cause**, she must dismiss the complaint and discharge him, but that "does not preclude the government from later prosecuting the defendant for the same offense." So "he walks at two" is right, and "No charge, no trial" is wrong.
+- **The detention hearing** happens at the first appearance, with continuances of up to 3 days for the government and 5 for the defense. It would already have taken place in the week of Nov 16. Don't call Monday's hearing a detention hearing. *The statute page was blocked; this comes from a secondary source.*
+- **Hearsay.** An indictment resting only on hearsay is valid (Costello v. United States, 1956). The prosecutor could have an agent or trooper read Beth's statement to the grand jury. Wanting her "in the room" is a choice, not a rule. A lawyer reader will notice "she says he walks unless you come" stated as law.
+
+**Smallest fix:**
+- Ch 2: cut "No charge, no trial." Say instead: "…he walks out at two, and it's a year before anybody builds it again."
+- Ch 2: add one line making it the prosecutor's choice. For example, Dane: "She could have a trooper read them your statement. She won't. She says if you won't sit in that room, you won't sit in a trial."
+- Ch 8 and Ch 14 can stay as written.
+
+**Sources:**
+- [FRCrP 5.1 (Cornell LII)](https://www.law.cornell.edu/rules/frcrmp/rule_5_1)
+- [Federal detention hearing timeline (secondary)](https://www.daeryunlaw.com/us/insights/federal-detention-hearing-us)
+- [Costello v. United States, 350 U.S. 359](https://law.resource.org/pub/us/case/reporter/US/350/350.US.359.72.html)
+
+## 3. Where Cole is held (Ch 8, 17)
+
+**Page:** "Cole's held in Portland." Ch 17: "Ned Haskell's in the county jail."
+
+**Verdict: unclear.**
+- The USMS has an agreement with Cumberland County Jail in Portland.
+- In September 2022 the Marshals removed federal prisoners from that jail over staffing. I found no source on whether they have returned.
+- "The county jail" for Ned is safe.
+
+**Smallest fix:** Ch 8: "Cole's held until the hearing" (drop "in Portland"), or "in the county jail."
+
+**Sources:**
+- [USMS IGA, Cumberland County Jail](https://www.usmarshals.gov/sites/default/files/media/document/IGA-Maine-Cumberland-County-Jail.pdf)
+- [Bangor Daily News, 2022: Marshals remove federal prisoners](https://www.bangordailynews.com/2022/09/07/portland/cumberland-county-jail-federal-prisoners/)
+
+## 4. U.S. Marshals: emergency protection, WITSEC, arrests, title (Ch 1, 2, 12, 14, 16, 17)
+
+**Page:**
+- Ch 1: the trooper says "this is now a federal case. Somebody from the U.S. Marshals is coming out to you tonight." Dane: "I'm a U.S. Marshal."
+- Ch 12, the boss: "After she testifies, there's witness protection. A new name in a new state. She can't come back here…"
+- Ch 14: "She doesn't go into witness protection unless she says so."
+- Ch 12: Dane arrests Ned with no warrant.
+- Ch 16: deputies take Dane's gun.
 
 **Verdicts:**
-- **Fix: "before Pelletier walks."** The Speedy Trial Act requires an indictment within 30 days of arrest (18 U.S.C. § 3161(b)). Pelletier was arrested Friday, Nov 13, so the deadline is Sunday, Dec 13. If no grand jury sits in that window, the statute itself adds another 30 days. Excludable delay under § 3161(h) can extend it further. Even if the deadline is missed, the remedy is dismissal of the complaint, possibly *without* prejudice (§ 3162(a)(1)). A Nov 23 sitting is not the last chance, and missing it would not free him. The deadline that does bite on Nov 23 is the **preliminary hearing**: within 14 days of the initial appearance for a defendant in custody, unless he is indicted first (Fed. R. Crim. P. 5.1(a), (c)). That puts it around Nov 27–30. Prosecutors indict ahead of it so the defense doesn't get an early look at the case. That gives the AUSA a real reason to want Beth on the 23rd.
-  - **Page fix (Ch 2):** "It's the last sitting before his preliminary hearing, and they'd like you in front of it." Or the simpler "…and Portland would like you in front of it" with the deadline unstated.
-  - **Bible note:** the Premise says "the grand jury's last sitting before the driver's deadline." That is fine if "deadline" means the preliminary-hearing deadline. The bible's Dane reason (b), "Pelletier walks," should not reach the page. It appears nowhere else in the text.
-  - *Unclear:* how often the District of Maine grand jury sits in Portland. I found no published schedule.
-- **OK: the witness alone in the room.** Only the government attorneys, the witness being questioned, an interpreter and the court reporter may be present while the grand jury is in session (Rule 6(d)(1)). Beth "came out of the grand jury room" alone, and Pike waits in the corridor. Correct.
-- **OK: indictment returned the same day.** The grand jury returns the indictment to a magistrate judge in open court, and at least 12 jurors must concur (Rule 6(f)). A return the same afternoon as the last witness is ordinary practice. "Return" is the right verb.
-- **Plausible: "Did they have his book?" "Yes."** DOJ policy requires prosecutors to put before the grand jury "substantial evidence that directly negates the guilt of a subject" (JM 9-11.233, cited in JM 9-5.001). That covers evidence about Pelletier's guilt, not about a witness's credibility. So showing the grand jury the deputy's log is the prosecutor's choice, not a duty. It is still a believable choice, to defuse the $9,000 before the defense ever raises it.
-- **OK, with item 6 below: Giglio.** Ch 8: "What I told Pike at four goes to the defense… Anything that makes a marshal look bent, the prosecutor has to hand them." Pike: "Then it's Giglio, Deputy. Every page you write goes to the defense." DOJ's Giglio policy names the U.S. Marshals Service among the agencies whose employees must disclose potential impeachment information. That includes "any finding of misconduct that reflects upon the truthfulness or possible bias of the employee," on duty or off (JM 9-5.100). A deputy sleeping with the protectee he logs is bias evidence about both of them. The term and the principle are right.
+- **Emergency protection the same night: OK, but fast.** The Justice Manual allows emergency protection before the risk assessment and MOU when a witness "is in imminent danger" and the investigative agency can't protect them. The Office of Enforcement Operations (OEO) authorizes it, and the USMS must first do a preliminary interview. Three hours from her call to a deputy on her step is quick. The break-in shows the danger was imminent.
+  - Optional: Dane's line "They called the U.S. Attorney's duty line, and she called us."
+- **Who decides WITSEC: adjust.**
+  - Admission is authorized by DOJ officials (the OEO Director and others). The U.S. Attorney signs the application, and the witness signs an MOU. The Marshals interview, relocate and protect.
+  - The boss can't simply offer it. Ch 12: "The U.S. Attorney will put her in for the program."
+  - Ch 14 ("unless she says so") is correct.
+  - "She can't come back here" fits the rules: after court appearances the witness goes back to the relocation area "as soon as practicable."
+- **Arrest without a warrant: OK.** Marshals and deputies "may make arrests without warrant … for any felony cognizable under the laws of the United States if they have reasonable grounds." That covers Ned in Ch 11 and Cole's lawyer in Ch 17. A warrant for the lawyer could also have been sworn between dawn and ten.
+- **Gun taken after a shooting: OK.** This is standard practice. *Working knowledge; unclear, no source fetched.*
+- **Title: adjust.** Ch 1 dialogue: "I'm a U.S. Marshal" → "I'm a deputy U.S. marshal." A U.S. Marshal is the presidential appointee who heads a district; everyone else is a deputy. Beth calling him "Marshal" is normal and can stay. *From memory, unclear.*
+- **Deputy on loan: unclear on the page.**
+  - Dane is from Lowell, Mass., and "put in for the Maine office," so he isn't assigned to the District of Maine. The District of Maine's headquarters is the Gignoux courthouse in Portland, with a second office in Bangor.
+  - If the page wants it explained, one line will do: he's on a temporary assignment to the District of Maine.
 
 **Sources:**
-- [18 U.S.C. § 3161 (Cornell LII)](https://www.law.cornell.edu/uscode/text/18/3161)
-- [18 U.S.C. § 3162 (Cornell LII)](https://www.law.cornell.edu/uscode/text/18/3162)
-- [Fed. R. Crim. P. 5.1 (Cornell LII)](https://www.law.cornell.edu/rules/frcrmp/rule_5_1)
-- [Fed. R. Crim. P. 6 (Cornell LII)](https://www.law.cornell.edu/rules/frcrmp/rule_6)
-- [Justice Manual 9-5.000 (9-5.001, 9-5.100)](https://www.justice.gov/jm/jm-9-5000-issues-related-trials-and-other-court-proceedings)
+- [Justice Manual 9-21.000, Witness Security](https://usdoj.gov/jm/jm-9-21000-witness-security)
+- [18 U.S.C. § 3053 (Justia)](https://law.justia.com/codes/us/2019/title-18/part-ii/chapter-203/sec-3053/)
+- [USMS District of Maine offices](https://edit.usmarshals.gov/es/node/7051)
 
-## 6. Giglio timing: "the defense had a copy" (Dec 18)
+## 5. Witness money (Ch 17)
 
-**Claim (Ch 10 s5):** "The listing sheet for the other boat was in an evidence locker… and the defense had a copy."
+**Page:** a woman deputy lends Beth shoes "with an envelope of witness money." Beth later pays for a hotel room and a drugstore bag from it.
 
-**Verdict: Fix (minor).** DOJ policy says impeachment information "will typically be disclosed at a reasonable time before trial," and witness-security concerns can push that later (JM 9-5.001). Twenty-five days after indictment, Giglio material about a protected witness and her deputy would more likely be pending than produced. Early, open-file production does happen, so this is a lawyer's nitpick, not a howler.
+**Verdict: unclear.**
+- The federal witness fee is $40 a day, plus a subsistence allowance when an overnight stay is needed, capped at the GSA per diem.
+- It is normally paid by voucher, not as cash handed over in a car. Cash for lodging fits the Emergency Witness Assistance Program cited in the setup check.
+- **Smallest fix (optional):** "an envelope from the victim-witness office, for a room and meals."
 
-**Page fix:** "and the defense would have a copy." (The same sentence, future tense.)
+**Source:** [28 U.S.C. § 1821 (govinfo)](https://govinfo.gov/content/pkg/USCODE-2023-title28/html/USCODE-2023-title28-partV-chap119-sec1821.htm)
 
-**Source:** [JM 9-5.001](https://www.justice.gov/jm/jm-9-5000-issues-related-trials-and-other-court-proceedings)
+## 6. Fentanyl and the reefer (Ch 1)
 
----
+**Page:** the cooling unit is dark, so "nobody was keeping them alive… A dealer who let his lobsters die lost his whole load." Also "Twelve thousand dollars of live lobster."
 
-## 2. Reefer units and live-lobster transport
+**Verdict: adjust (the tell).**
+- Cold, moist lobsters live about 24–48 hours out of water, so one hour with the unit off wouldn't kill them.
+- Freezing does kill them, at about 29°F.
+- On a sleeting November night the unit's job is to keep the load from freezing on the run to Portland.
+- **Smallest fix:** "On a night this cold the unit was all that kept them from freezing before Portland."
+- *Unclear:* the $12,000 value. No current dealer price was fetched, but a load of roughly 1,500–2,000 lb is in range.
+- The charge is never named on the page, which is safe. Don't name it unless it's checked.
 
-**Claims on the page:**
-- Ch 1 s1: The unit "on its nose" is dark, and the display is black. "Every Thursday for two years, that unit had droned the whole crossing." Then: "she put her hand on the box. Aluminum, wet and slick, and not cold. A live load in November, and the box was the temperature of the night and no colder."
-- Ch 6 s3, Ned: "Thermo King, he runs it continuous for live product."
+**Source:** [Lobster Anywhere, survival out of water](https://lobsteranywhere.com/seafood-savvy/how-long-can-lobster-live-out-of-water/)
+
+## 7. Ferry: steering, casualty reporting, terms (Ch 2, 14, 15, 16)
+
+**Page:**
+- Ch 2: the wheel "spun all the way round with nothing on the other end."
+- Ch 14: "This rod. The wheel moves it, and it swings the rudder… The first storm bent it, and the co-op's vise only got it so straight." When it sticks and then frees, the wheel spins back through her hands.
 
 **Verdicts:**
-- **OK: "continuous," the unit on the nose, the display.** Thermo King units run in two modes. Cycle-Sentry starts and stops to hold setpoint. Continuous "runs continuously to hold setpoint and provide constant airflow" (Thermo King operator manual). Ned's word is the manufacturer's word. "The unit on its nose" is how drivers say it.
-- **Fix: the hand on the box.** A reefer trailer is an insulated box: foam between the inner liner and the outer skin. Its outside skin sits at the outdoor temperature whether the unit is running or not, so "the box was the temperature of the night" tells her nothing. The bigger trap is the season. Live lobster ships at about 2–4 °C (36–39 °F). There is a reported case of a load that arrived dead and "encrusted in ice" from low shipping temperatures (CBC). A November sleet night is at or below freezing, so a reefer running for live lobster in November is often *holding the box up off the freeze*, not cooling it. A reefer driver or a lobster dealer will see that the dark unit is the real tell, and that "not cold" points the wrong way.
-  - *Unclear:* I didn't fetch a manufacturer wall-construction page. The insulated-wall point comes from the trailer-construction patents in the search results and from general knowledge.
-  - **Page fix (Ch 1 s1), the smallest change:** move her hand from the box to the unit. "She put her bare hand on the unit's grille. Cold, and dead still. A live load in November, and nothing was keeping it off the freeze, and her hand stayed there longer than the chain needed." That keeps the beat and the rhythm, and it makes the clue point at "no live product."
-- **OK: "bricks… under the top layer" and "boxes rode heavy."** The setup correction landed (Ch 6: "too many pieces to the crate for the weight… Boxes rode heavy").
+- **Free-spinning wheel vs a bent rod: adjust.**
+  - With a mechanical linkage, a bent but connected rod binds; the wheel goes stiff or jams. A wheel spins free only when the linkage is disconnected. (With hydraulic steering, a free wheel means lost fluid.)
+  - Ch 14's backdrive, where the rudder drives the wheel back through her hands, is right for mechanical rod steering and wrong for hydraulic.
+  - So the book needs mechanical steering, which fits an older boat. Wheels connect "to a mechanical, electric servo, or hydraulic system."
+  - **Fix:** in Ch 14, add that the storm drove the rudder into the pier, sheared the pin and bent the rod. That pays both Ch 2 (free spin) and Ch 14 (bent, binds). Have the bible state the boat's age and steering type.
+  - *Unclear (working knowledge):* most car ferries built since the 1970s have hydraulic steering, so the *North Reach*'s build year matters.
+- **Straightening in a vise: unclear.** Cold-straightening a heavy steel link risks cracking it. A trade reader expects heat ("heated it cherry with the co-op's torch and pulled it in the vise"). One clause fixes it. *No source fetched.*
+- **Loss of steering is a reportable casualty: adjust (optional texture).** "A loss of main propulsion, primary steering, or any associated component" that reduces maneuverability must be reported to the nearest Coast Guard unit "immediately after addressing resultant safety concerns." One line ("I called it in to Sector") inoculates the book against the marine reader.
+- **"Captain's cabin" (Ch 1, 2, 14, 16): wrong.** The trade word is wheelhouse (also pilothouse, or bridge/helm on MSFS boats). Keep "cabin" for the passenger cabin.
+- **"Ropes", "deck post" and "posts": unclear terminology.** Aboard, a rope in use is a *line* (stern line, spring line), and the fittings are bitts or bollards. The plain-English register looks deliberate. At a minimum, put "lines" in Beth's mouth, since she has eleven years on deck. *Working knowledge, no source fetched.*
+- **"The steering lived" / "hatch":** the space is the lazarette or steering-gear room. Optional, one mention.
+- **License and size (setup check §6):** the page says "A hundred feet of steel" and never states tonnage. That is consistent with option A (~104 ft, under 100 GT). It landed.
 
 **Sources:**
-- [Thermo King operator manual: Cycle-Sentry vs Continuous](https://www.emea-user-manuals.thermoking.com/etech-emea-public/thermoking-emea/Galway%20-%20Trailer/Literature/Operation%20or%20Owners/0006113587.xml/$/0005755390)
-- [CBC: lobster dead and ice-encrusted in transit; live lobster shipped at 2–4 °C](https://amp.cbc.ca/lite/story/1.5822478)
-- [Patent: wall construction for refrigerated vehicles](https://patents.google.com/patent/US3206902A/en)
+- [46 CFR 4.05-1 (Cornell LII)](https://www.law.cornell.edu/cfr/text/46/4.05-1)
+- [Ship's wheel (Wikipedia)](https://en.wikipedia.org/wiki/Ship%27s_wheel)
+- [BDN, a day with a Maine ferry crew](https://www.bangordailynews.com/2024/09/03/midcoast/midcoast-government/day-in-the-life-maine-ferry-crew-joam40zk0w)
+- [Shelter Island Reporter, "In the wheelhouse with South Ferry captains"](https://shelterislandreporter.timesreview.com/?p=64139)
 
----
+## 8. Radio: Mayday and channel 16 (Ch 16)
 
-## 3. Propane truck on the car deck with passengers
+**Page:** "Coast Guard. This is the Cutter Island ferry… A fishing boat is shooting at us. Four of us aboard." "Every boat at sea could hear the ferry's radio."
 
-**Claims on the page:**
-- Ch 2: "the two trucks left for the two o'clock that never ran." Dane and Beth were to be passengers on that run.
-- Ch 9: "the propane truck carried its cylinders in their rack."
+**Verdict: adjust (the call); OK (everyone hears).**
+- Mayday is for immediate danger to life. The format is "Mayday" three times on channel 16, the vessel name, position, the emergency, persons aboard. Gunfire qualifies.
+- **Fix:** "Mayday, mayday, mayday. This is the Cutter Island ferry, off the point toward Pruett. We're being fired on. Four aboard."
+- Beth giving "Four of us aboard" is already correct form.
 
-**Verdict: Fix.** Maine ferry practice, under Coast Guard guidance, keeps propane and passengers apart. Propane and passengers generally can't ride the same Maine State Ferry Service vessel at once, except the driver and a helper. Bulk propane moves on a private vessel or on a contracted off-hours run (Mainebiz). The federal rule for any hazmat vehicle on a ferry also requires that its operator "shall remain with the vehicle," its engine stays off and it is parked where the crew directs (49 CFR 176.89). Any Maine island ferry deckhand will know this.
+**Source:** [Boating Magazine, distress calls](https://boatingmag.com/how-to/marine-distress-calls-explained/)
 
-**Page fix:** in Ch 2, "down the one lane of steel between the two trucks left for the two o'clock that never ran" becomes "…between the bait truck and the propane truck, booked for the two o'clock and the propane run behind it, neither of which ran." In Ch 10, if the propane truck is still on deck on Sunday, add a clause that it went ashore at the pier on Saturday, or keep it unmentioned. Nothing in the Ch 9 plot changes.
+## 9. Maine Marine Patrol (Ch 1, 8, 9, 14)
 
-**Sources:**
-- [Mainebiz: Islanders and propane haulers grapple with tighter ferry restrictions](https://mainebiz.biz/article/islanders-and-propane-haulers-grapple-with-tighter-ferry-restrictions)
-- [49 CFR 176.89 (Cornell LII)](https://www.law.cornell.edu/cfr/text/49/176.89)
+**Page:** "the Marine Patrol boat, the state police on the water" (Ch 9; Ch 14 repeats it). Ch 8: "A state police boat."
 
----
+**Verdict: wrong.**
+- The Bureau of Marine Patrol is "one of five bureaus within the Maine Department of Marine Resources," with uniformed state law-enforcement officers and a large patrol vessel per section.
+- Ch 1 ("The Marine Patrol officer who drove him across") is right.
 
-## 4. The hundred-ton license as a wallet card
+**Fix:**
+- Ch 8: "A Marine Patrol boat."
+- Ch 9 and Ch 14: "Marine Patrol, the state's marine police," or just "Marine Patrol."
 
-**Claims on the page:**
-- Ch 4 s3: "the hundred-ton license pressing her ribs from her wallet."
-- Ch 6 s4: "She took her wallet out of her coat… found the license and put it in his hand… The corners were still sharp. He tipped it to the drum's glow and read it."
+**Source:** [Maine DMR, Marine Patrol structure](https://www.maine.gov/dmr/marine-patrol/know-marine-patrol/organizational-structure)
 
-**Verdict: Fix.** Since May 2009 the Coast Guard has issued one consolidated Merchant Mariner Credential, "the same size and shape as a passport." It replaced the old paper license, the MMD card and the STCW endorsement (Professional Mariner). Since March 2024 new and renewed credentials come as a single waterproof sheet that folds to passport size, and the old "red book" is being phased out (Maritime Executive). Beth got hers at 30 (about 2023) and has renewed it (bible), so she holds a red book or the new folded sheet. Neither is a wallet card with sharp corners. A mariner reader will notice.
+## 10. Medevac, icing and the Coast Guard (Ch 9, 13, 14, 18)
 
-**Page fixes:**
-- Ch 4 s3: "with the hundred-ton pressing her ribs from the zip pocket of her coat."
-- Ch 6 s4: "She took the red book out of the zip pocket of her coat and put it in his hand. 'Hundred-ton,' she said. 'Never used.' The cover had no wear on it." He "tipped it to the drum's glow and read" the page still works.
-- The bible already gives the credential's wording ("Master of Self-Propelled Vessels of Less Than 100 GRT"). That is OK.
-
-**Sources:**
-- [Professional Mariner: passport-like booklet replaces four credentials (Aug 2009)](https://professionalmariner.com/?p=2775)
-- [Maritime Executive: USCG begins phase-out of the red book (2024)](https://maritime-executive.com/article/uscg-begins-phase-out-of-merchant-mariners-red-book-for-modern-format)
-
----
-
-## 5. VHF: the cancellation on channel 16; the net on 68 and handhelds on 9
-
-**Claims on the page:**
-- Ch 1 s4: "the handheld on the counter opened up on sixteen. *All stations, all stations, this is the ferry North Reach. The fourteen hundred departure is cancelled…*"
-- Ch 9: Beth keys "the wheelhouse set on sixty-eight." The handhelds are on nine.
+**Page:**
+- Ch 13: Dane "rang the Coast Guard in South Portland." The CG: "keep the strap on… We'll fly when the icing clears." Narration: "No helicopter would come up through icing for a man who wasn't dying."
+- Ch 14: "Nothing flies in this icing until Tuesday."
+- Ch 18: Russ flown out Tuesday, released Wednesday.
 
 **Verdicts:**
-- **Fix (low).** The Coast Guard lists channel 16 as "International Distress, Safety and Calling" (NAVCEN). A schedule cancellation is routine traffic, not a safety broadcast. A licensed mariner expects it on 13 or a working channel, or a short call on 16 followed by "switch to one-three." The v1 rounds checked the radio rules, but this line was written by the bible-builder (marked [BB] in the bible).
-  - **Page fix:** "At a quarter past one the handheld on the counter opened up on thirteen." Keep the message word for word. "Standing by one-six and one-three" is correct.
-- **OK: 68 and 9.** NAVCEN lists 68 as non-commercial and 9 as boater calling, commercial and non-commercial. An island net on 68 and a captain and deckhand on 9 are both realistic.
-  - *Unclear (working knowledge, not sourced):* marine VHF use ashore without a coast-station license is technically outside FCC rules, but it is common on Maine islands. Leave it.
-
-**Source:** [USCG NAVCEN, U.S. VHF channel information](https://www.navcen.uscg.gov/us-vhf-channel-information)
-
----
-
-## 7. Ferry crewing on Day 10; the district hiring a master
-
-**Claims on the page:**
-- Ch 10 s3: "Kenny was on the lines… The two of them were the whole crew the certificate asked for." Islanders board "with their bags and their dogs." Beth takes the wheel.
-- Ch 4 s3: "the district would hire a man from away." Ch 10 s5: "The week after Portland she had walked into the district office herself and asked for the boat."
-
-**Verdicts:**
-- **OK: crew count and license.** The bible, following setup item 6 option A, now makes the *North Reach* about 104 ft and under 100 GT. Its COI winter tier is master plus one deckhand, up to 49 passengers. The 100-ton master's credential covers a vessel of that size (setup §6, the *Charles Norman Shay* precedent). Beth plus Kenny meets the certificate. The vessel may not run without the COI complement (46 U.S.C. § 8101, setup §5). Watch item: the Day 10 foot passengers must stay at 49 or fewer. "Islanders with their bags and their dogs" is fine.
-- **OK: setup correction landed.** Ch 1 s2 reads "Master and one deck. That's the certificate. Without me she doesn't leave the slip." That is the recommended line.
-- **Fix (low): who made her master?** Ned's say-so ("Tell the district I said so") is not authority. The vessel's owner (the district) has to put a credentialed master in command. *Unclear (working knowledge, not sourced):* there is no Coast Guard sign-off on a particular master beyond the credential and the COI, but a public ferry operator would never sail without the employer's word. A ferry reader will ask who told her she could take the boat.
-  - **Page fix (Ch 10 s3, one line before "Single up"):** "The district had rung the store at noon: the boat was hers till they said otherwise."
-- **OK: "the district would hire a man from away."** MaineDOT hires its own ferry captains through a job posting (setup §6, Maine JobLink). A small independent ferry district hiring its own master is the same thing at a smaller scale.
+- **Who you call: adjust.**
+  - A Maine island medical emergency goes to 911 and LifeFlight of Maine, whose helicopters are the main air evacuation for islands. Coast Guard helicopters come from Air Station Cape Cod (MH-60 Jayhawk), not South Portland. Sector Northern New England in South Portland coordinates boats.
+  - On small islands the Coast Guard is used when nothing else can go (Matinicus).
+  - **Fix:** Dane calls 911 and LifeFlight declines on icing. Sector says it will hold a Cape Cod Jayhawk unless he gets worse.
+- **"Nobody flies in icing": adjust.**
+  - The Jayhawk *is* equipped for icing: it has engine anti-ice and blade de-ice, and it is "the only Coast Guard search and rescue helicopter" in the region that can handle icy weather. It still needs about a 300–400 ft ceiling and a mile of visibility.
+  - LifeFlight does stay on the ground in icing (setup check §2).
+  - So "for a man who wasn't dying" is the right logic for the Coast Guard: it's a judgment about a stable patient, not a hardware limit.
+  - Ch 14's "Nothing flies in this icing" should become "Nobody will fly a stable patient in this."
+- **Discharge a day after (Ch 18): unclear.** A through-and-through thigh wound with no fracture or vascular injury is often discharged within a day or two. Five days on a couch first raises the infection risk, and "They didn't want to" covers it. *No source fetched.*
+- **Dane signing out against advice (Ch 17): OK** as behavior. *Unclear medically:* a bullet along the ribs normally gets a CT for pneumothorax first.
 
 **Sources:**
-- [46 U.S.C. § 8101 (Cornell LII)](https://www.law.cornell.edu/uscode/text/46/8101)
-- Setup §§5–6 in `research/domain-check.md`
+- [Island Institute, LifeFlight and islands](https://islandinstitute.org/?p=22356)
+- [Maritime Professional, Air Station Cape Cod hoist in Maine](https://www.maritimeprofessional.com/amp/news/uscg-rescues-acadia-national-park-296558)
+- [DVIDS, Matinicus airlift by Air Station Cape Cod](https://www.dvidshub.net/image/1093487/matinicus-maine-airlift)
+- [DVIDS, CG aircrews in New England winter (Jayhawk de-ice, minimums)](https://www.dvidshub.net/news/printable/222991)
+- [Pen Bay Pilot, Matinicus EMS](https://www.penbaypilot.com/node/41445)
 
-## 8. The winter boat (continuity, and lifeline-service realism)
+## 11. The tourniquet and the pressure bandage (Ch 13, 14)
 
-**Claims:** Ch 6, Ned: "Lose it, the district runs her three days a week." Ch 9, Ned: "Without the contract the district ties her up December to April, and you and Kenny go ashore."
-
-**Verdict: Fix (consistency).** The two lines contradict each other. A year-round island of 240 people would not lose its ferry for four months. MaineDOT cuts capacity or substitutes a smaller boat when crew or money is short (setup §5). It does not stop service. *Unclear:* no source covers what a ferry district would do. Ch 6's version is the believable one.
-
-**Page fix (Ch 9 s5):** "Without the contract the district runs her three days a week, and somebody goes ashore, and it's you or Kenny."
-
----
-
-## 9. Marine Patrol custody and transport
-
-**Claims on the page (Ch 10 s1):** Ned is cuffed in front between two Marine Patrol officers. "Two men sat in the Marine Patrol boat's stern with their hands behind them." The Coast Guard is alongside the *Margaret Ann*.
+**Page:**
+- Ch 13: "She ran a strap from the box round the thigh above the hole, braced her boot on the step and hauled the knot tight. … the bleeding slowed, then stopped."
+- Ch 14: "Thursday night Tess had swapped the strap for a tight bandage, as the Coast Guard told her on the radio." The wound happened at first light Thursday.
 
 **Verdicts:**
-- **OK: authority.** Marine Patrol officers are "vested with the authority to enforce all laws of the State and may arrest for violations of any criminal laws" (12 M.R.S. § 6025). A Marine Patrol boat carrying prisoners off a ferry-less island is exactly their job.
-- **OK: the Coast Guard alongside the dragger.** Coast Guard stations' missions include law enforcement as well as search and rescue (for example, Station Merrimack River).
-- **Fix (low): cuffs behind the back in an open boat, no life jackets.** *Unclear (working knowledge, not sourced):* marine officers put PFDs on prisoners before a boat transfer. A prisoner cuffed behind his back who goes over the side drowns. Ned cuffed in front for the step down is the careful version, and it's right.
-  - **Page fix:** "…with their hands behind them and life jackets buckled over their coats."
+- **A knotted strap: wrong.** "Simply tying a constricting band tightly around a limb rarely provides enough pressure to occlude arterial flow." In one test, a cloth wrap without a windlass failed 79 of 80 times, and a venous-only band can make bleeding worse. Her packing the wound "with two fingers, deep" is right.
+  - **Fix:** add a windlass, e.g. "twisted it down with the box's wrench handle and tied that off."
+- **12+ hours, then a swap: wrong.** EMS conversion guidance says "Every effort should be made to convert tourniquets in less than (2) hours if bleeding can be controlled by other means." Prolonged use risks "ischemic injury, nerve damage, and increased risk of limb loss." A tourniquet left on longer than 2 hours goes to a crush-injury protocol before it is taken down.
+  - **Fix:** in Ch 13 the voice on the radio says "If he's not going into shock, in an hour loosen it slow, keep the packing and a tight bandage on; if it bleeds, tighten it again." Ch 14: "By noon Thursday Tess had swapped the strap for a tight bandage…"
+- **"High in the thigh": unclear.** A wound very high in the thigh (junctional) may leave no room for a tourniquet above it. Then packing and hard pressure is the whole treatment. "Mid-thigh" avoids the question.
+- **Dane's "trauma kit" (Ch 4, 10): adjust.** A law-enforcement trauma kit (IFAK) carries a commercial tourniquet, hemostatic gauze and a pressure bandage. A kit of "Gauze. Tape. A small pair of scissors" reads as a first-aid kit to any police or EMS reader. Either call it "first-aid kit," or say its tourniquet went into the sea. *Working knowledge, unclear.*
+- *Continuity note:* Ch 10 says "His cuffs were at the bottom of the bay with the rest of his kit," but the trauma kit is in use in the same scene.
 
 **Sources:**
-- [12 M.R.S. § 6025 (Maine Legislature)](https://legislature.maine.gov/statutes/12/title12sec6025.html)
-- [Coast Guard Station Merrimack River (missions)](https://en.wikipedia.org/wiki/Coast_Guard_Station_Merrimack_River)
+- [Crisis Medicine, "Tourniquets Require a Windlass"](https://www.crisis-medicine.com/tourniquets-require-a-windlass/)
+- [REMO EMS Advisory 25-02, Tourniquet Conversion](https://www.remo-ems.com/images/uploads/pdfs/Advisory_25-02_Tourniquet_Conversion.pdf)
 
-## 10. The inspector's temporary repair (wording)
+## 12. Fire truck on a small island (Ch 3, 8, 9, 13, 14, 16)
 
-**Claim (Ch 10 s3):** "The inspector's temporary repair sat forward where the frames came together."
+**Verdicts:**
+- **"A fire truck's worth of gas" (Ch 8): adjust.** "Almost all heavy fire apparatus rely on diesel fuel." Use diesel.
+- **Stretcher "into the back of the truck" (Ch 13): adjust.** A pumper's back is a hose bed. Small islands without an ambulance move patients in the back of pickups.
+  - **Fix:** "the fire department's old rescue truck," or Tess brings the stretcher and Russ's own pickup.
+- **A scene light on the rocks (Ch 14, 16): OK.** Fine as written. *Unclear: no source fetched on scene-light fit.*
+- **Tess running the radio and the truck: OK.** Island volunteer departments and one-person EMS are real (Matinicus).
+- **"Half an hour by truck" out the point road (Ch 16):** OK against the timeline (see Arithmetic).
 
-**Verdict: Fix (wording).** A Coast Guard marine inspector examines and accepts a repair. The yard or the crew makes it (46 CFR 176.700, setup §1). "The inspector's repair" reads as if he welded it.
+**Sources:**
+- [EngineerFix, fire truck fuel](https://engineerfix.com/how-much-gas-does-a-fire-truck-hold/)
+- [Pen Bay Pilot, Matinicus EMS](https://www.penbaypilot.com/node/41445)
 
-**Page fix:** "The temporary repair the inspector had passed sat forward…"
+## 13. Generators (Ch 3, 8)
 
----
+**Page:**
+- Ch 3: "In the shed off the kitchen Russ hauled on the generator cord," and it runs all night "through the wall."
+- Ch 8: a small generator by the lighthouse back door runs the refrigerator, and "the stove coil went red."
 
-## Items that are OK or Plausible
+**Verdicts:**
+- **Ch 3: wrong.** "DON'T operate a portable generator inside a home, garage, basement, crawlspace, shed or on a porch." Run it at least 20 ft from the house. Maine storm coverage always carries CO deaths.
+  - **Fix:** "under the lean-to roof out back, cord in through the wall."
+- **Ch 8: unclear.** A small portable generator can't run a 240-volt electric range element. Make it a propane range ("the burner caught blue") or a hot plate. *Working knowledge.* Ch 8 already sets the generator outside on the back step, which is correct.
 
-### U.S. Marshals witness security for a witness, and the "material witness" correction
-- **OK (setup correction landed).** The text never calls Beth a "material witness." Dane and Pike say "witness," "my witness" and "the protectee," and Pike calls Dane "Deputy," which is the right rank for a Deputy U.S. Marshal.
-- **Plausible: one deputy on an emergency move.** The bible makes it a one-day transport with a second deputy meeting him at Pruett, and the weather strands the first deputy alone. Short-term protection before WITSEC is real (setup §3). *Unclear:* there is no public USMS staffing rule for a single-deputy detail.
-- **Plausible: HSI asking the Marshals for a daily log, kept from the witness.** Mixing protection with investigation is irregular, and a defense lawyer would attack it, which is the book's point (Giglio, item 1). Nothing forbids an AUSA-sanctioned log. Pike "ordered it" and owns it on the page ("I don't apologize for orders"). That is the right posture for a supervisor who knows it will be discoverable. *Unclear: no source on USMS policy for logging protectees for a case agent.*
+**Source:** [CPSC, What to Know About Generators](https://www.cpsc.gov/s3fs-public/468_WhattoKnowGenerators_2022_v5.pdf)
 
-### HSI's role
-- **OK.** HSI has offices in the Portland area, plus Houlton and Bangor, and investigates narcotics among its transnational cases (NEWS CENTER Maine). "Homeland Security. Portland." and "Q" as an HSI special agent are both correct. HSI task forces taking local officers (Russ, Ch 10 s5) is standard practice. *Unclear: the task-force cross-designation process wasn't fetched.*
-- Source: [NEWS CENTER Maine: Maine ICE/HSI agent on what the office does](https://newscentermaine.com/article/life/maine-ice-agent-speaks-about-work-his-office-does/97-852abd93-c2dc-424e-856d-45ee9f531c3c)
+## 14. Lobster trade words (Ch 4, 18)
 
-### Deputies reporting themselves and being relieved
-- **OK: the referral.** USMS policy requires managers to "immediately report all allegations of misconduct to OPR-IA or DOJ-OIG," and OIG decides whether to investigate. "The referral sat in somebody's inbox in Arlington" fits: USMS headquarters is at 1215 S. Clark St., Arlington, VA.
-- **OK: leave.** The same policy lets senior officials impose administrative leave or limited duty to protect USMS interests, and lists steps for "relieving an employee from duty." Dane "on leave" in December fits.
-- **Plausible: "Pike wants your weapon" at the ramp head.** Taking the duty weapon from a relieved deputy is normal practice, but the policy I fetched doesn't address weapon surrender. *Unclear.*
-- **Plausible: Pike leaves Dane in place after the 4 a.m. report** ("Nothing flies before first light tomorrow"). There is no one else on the island to relieve him.
-- Sources: [USMS Policy Directive, Misconduct Investigations](https://www.usmarshals.gov/sites/default/files/media/document/usms-policy-directive-misconduct-investigations.pdf) · [USMS HQ contact](https://prod.usmarshals.gov/who-we-are/contact-us/headquarters-contact-information)
+**Verdicts:**
+- **The net loft "where the men mended their nets in winter", "a pile of old net" (Ch 4): adjust.** Lobstermen fish traps, not nets. The winter job is knitting trap heads from twine; "They constructed their own traps and hand-knitted the heads." Tarred twine is right.
+  - **Fix:** "where the men knit trap heads in winter," with "a pile of old twine and heads" or "old seine net from the herring days." Russ's line ("Your father mended his traps up here") already points the right way.
+- **"The right boots" are "brown leather, high laced, oiled" (Ch 18): unclear.** On a lobster boat the right boots are rubber. The Maine answer is rubber-bottomed, leather-topped laced boots (Bean boots). Add "rubber bottoms." *Working knowledge.*
 
-### The Coast Guard lifeboat turning away under fire (Ch 7 s1)
-- **Plausible.** "Lifeboat" is the Coast Guard's own word for the 47-ft motor lifeboat. The boat slows as the shot comes, swings and turns south with the inspector aboard. Pike: "Not again today. First light Saturday." No rule governs this. A coxswain on a non-emergency transport, coming toward an unknown shooting with a civilian inspector aboard and a front due by mid-morning, standing off is a believable call. Dane thumbs back one word (a graze, no medevac), so the Coast Guard has no casualty to answer. An expert might ask why a law-enforcement-capable station crew didn't come in. The page covers it with Dane's reply and the front.
-- Optional half-line if the architect wants it shut: Pike's text could read "CG won't put in to a shooting. First light Saturday. Status?"
-- Setup correction landed: Ch 6 has Pike's line as a refusal with a reason ("The district won't put a helicopter on a non-emergency move, and theirs is offshore on a case"). "First District" never appears.
+**Sources:**
+- [Maine Memory Network, knitting heads, Frenchboro 1930](https://www.mainememory.net/record/152118)
+- [Lobster trap (Wikipedia)](https://en.wikipedia.org/wiki/Lobster_trap)
 
-### LifeFlight of Maine
-- **OK.** "LifeFlight wouldn't lift an old woman with a bad heart yesterday" puts the decision with the aircraft, as setup §2 asked. LifeFlight's weather limits are in setup §2.
-- **Plausible: "LifeFlight. Ballfield."** LifeFlight's landing-zone guidance asks for a flat site at least 30×30 ft inside a 100×100 ft safety area, with clear approaches. An island ballfield is the obvious choice. The guidance also says to call 911 first, and medical staff may review a launch. Dane's refusal ("open ground with that deck looking straight up the harbor at it… No.") is the scene-safety reasoning a flight crew would use. *Unclear: I found no LifeFlight source naming ballfields specifically.*
-- Source: [LifeFlight of Maine, Landing Zone Update (Sept 2024)](https://lifeflightmaine.org/wp-content/uploads/2024/09/240926-Landing-Zone-Update-1.pdf)
+## 15. A wooden lobster boat taking up (Ch 18)
 
-### Credit union bags, seal tags and the $9,000
-- **OK (setup §4 holds).** Credited by count and flagged; under the CTR threshold; SAR confidentiality fits "Do not disclose to witness."
-- **Plausible: colored seals as identity.** The yellow store seal and the red boat seal, Ned cutting the yellow one and resealing with a red from his own drawer, and the teller noting "Seal noted: red" all fit how numbered colored seals are used (setup §4 sources).
-  - Watch item, not a fix: if both bags arrive red, "red" alone wouldn't tell the teller which bag it was. Beth's reading ("The teller had written down the boat's bag") is her inference, and Ch 9 corrects it, so this works as a misdirect.
-  - The optional seal number from setup was not added. That is fine.
-- **Plausible: "an old red seal the credit union had sent back in an empty pouch"** (Ch 4). Returning the cut seal in the empty bag is a believable practice. *Unclear: no source fetched.*
-- **OK: Beth never sees the deposit.** The bible says she banks by envelope, never by app, and the page never gives her mobile banking.
+**Page:** "It'll take up in a week. Till then you bail." "The planks had dried out all fall on land." It is nearly dry by noon Thanksgiving after a Tuesday purchase.
 
-### Binder chains on the car deck
-- **Plausible.** Chains, binders and D-rings are standard vehicle lashing on small ro-ro ferries. Crews lash freight vehicles in heavy weather and always lash dangerous goods (Shetland Islands Council operational note; chain-binder research on ferry decks). "A quarter turn" fits a ratchet binder. "The plumber had chained his own van" is a joke about the plumber. On most ferries the crew lashes, which is what Beth does next, so it reads right.
-- Sources: [Shetland Islands Council, lashing vehicles on the Yell–Unst ferry](https://www.shetland.gov.uk/news/article/3943/operational-note-new-arrangements-for-lashing-vehicles-on-yell-unst-ferry-crossing) · [Chain binder strength on ferry decks (Univ. of Zilina)](https://komunikacie.uniza.sk/artkey/csl-202302-0012_investigation-of-the-strength-of-a-chain-binder-for-securing-a-wagon-on-the-railway-ferry-deck.php)
+**Verdict: OK.**
+- Taking up runs from days to weeks. Softwoods take up faster than hardwoods. Owners launch "and stand by with large pump at the ready" or leave the boat in the slings. Cedar out of the water for one fall, nearly tight in about two days, is plausible.
+- Beth's "a week" is a fair hedge.
+- **Optional:** a real owner would also have a bilge pump running, and the mug is funnier beside a pump that can't keep up.
 
-### A lobster boat on a trailer on the car deck (Ch 10 s5)
-- **Plausible.** Russ's pickup and trailer chained to the D-rings, with the last binder on the trailer chain, is how a small boat crosses to an island. The page doesn't size the boat. Keep it trailerable, which means a smaller fiberglass boat (low 20s to mid-20s in feet). A 34-footer is far too heavy for a pickup. "Worse than the Webbers Cove in every way" already implies smaller. *Unclear: no boat weight fetched.*
+**Source:** [DIY Wood Boat, "Taking up"](https://www.diy-wood-boat.com/Taking_up.html)
 
-### Island emergency management director (Tess)
-- **OK, with a nuance.** Under 37-B M.R.S. § 782, the **municipal officers** (the selectboard) appoint the director. "Since town meeting. I was slow putting my hand down" works as volunteering at town meeting, with the selectmen appointing her after. The county call about the landing fits too, because the director "serves as the liaison to the appropriate county or regional agency."
-- Source: [37-B M.R.S. § 782](https://legislature.maine.gov/statutes/37-B/title37-Bsec782.html)
+## 16. Portland geography (Ch 16, 17, 12)
 
-### The constable's badge (Russ)
-- **OK.** Maine constables "shall be appointed in the same manner and with the same effect as special police officers," and the "certificate of appointment shall state whether or not the constable is allowed to carry a weapon" (30-A M.R.S. § 2673). The bible gives Russ the training and an M&P (v1 checked). "Badge on the outside of his coat" is believable texture. Russ holding Arsenault in the truck until Marine Patrol arrives is in the bible and fits.
-- Source: [30-A M.R.S. § 2673](https://legislature.maine.gov/legis/statutes/30-A/title30-Asec2673.html)
+- **The federal courthouse and "Across Federal Street, on a bench in the park": OK.**
+  - The Gignoux courthouse, 156 Federal St., takes the block bounded by Federal, Newbury, Pearl and Market.
+  - Lincoln Park is bounded by Congress, Pearl, Federal and Franklin, so it sits across the Federal/Pearl corner. "Across Federal Street" is fair.
+- **The hotel "over the corner of Middle Street": OK.** Hotels exist on Middle St. (The Docent's Collection at 121 and 178 Middle). The walk from Lincoln Park is a few blocks.
+- **"Behind the bus station" (Ch 16): OK, with a choice.**
+  - Concord Coach runs from the Portland Transportation Center, 100 Thompson's Point Rd.
+  - Greyhound used its own station at Congress and St. John St. MaineHealth bought it in 2020. *Its current status is unclear.*
+  - "The bus station" works for either. Don't add an address.
+- **Maine Medical Center (Ch 16): OK.** It is Maine's only Level I trauma center. The formal name has been "MaineHealth Maine Medical Center" since June 1, 2024, but "Maine Med" and "Maine Medical Center" are what people say.
+- **"Ninety-six Grant Street. Second floor, the door round the back" (Ch 12): adjust.** Grant St. is in Parkside, full of multi-unit buildings, and the right texture for the son. But listings show real buildings at 80, 84, 107–109 and 111, so 96 is very likely a real home. Drop the number ("a three-decker on Grant Street, second floor, the door round the back") or invent a street.
 
-### Kerosene lamp oil at $9.50 a gallon
-- **Plausible.** Maine's statewide average kerosene price on Oct 5, 2026 was $6.89 a gallon, with the highest region at $7.00 (Governor's Energy Office). Tess's $9.50 is about 38% over the delivered average. For an island store pumping K-1 into islanders' cans in a storm, with "I'm not sorry" on top, that is a believable markup. Bottled lamp oil costs far more per gallon. *Unclear: Maine's price-gouging law during a declared emergency isn't triggered on the page and wasn't checked.*
-- Source: [Maine GEO weekly heating fuel prices, Oct 5, 2026](https://www.maine.gov/energy/sites/maine.gov.energy/files/inline-files/2025-2026%20Heating-Season-Weekly-Prices-10-05-2026.pdf)
+**Sources:**
+- [Gignoux courthouse (Wikipedia)](https://en.wikipedia.org/wiki/Edward_T._Gignoux_United_States_Courthouse)
+- [Lincoln Park, Portland (Wikipedia)](https://en.wikipedia.org/wiki/Lincoln_Park_(Portland,_Maine))
+- [The Docent's Collection at 178 Middle Street](https://www.hotels.com/ho3781621120)
+- [Portland Transportation Center (Wikipedia)](https://en.wikipedia.org/wiki/Portland_Transportation_Center)
+- [WJBQ, MaineHealth buys Greyhound station](https://wjbq.com/maine-medical-center-now-owns-portlands-greyhound-station/)
+- [Maine EMS, MMC name change](https://www.maine.gov/ems/index.php/node/1711)
+- [Mainebiz, Level I trauma](https://mainebiz.biz/article/maine-med-re-verified-as-maines-only-level-i-trauma-center)
+- [84 Grant St (Parkside, 6 units)](https://www.apartments.com/84-grant-st-portland-me/eq01mbq/)
 
-### Maine sea duck season (the page claims it, Ch 8)
-- **OK.** "One shot over the water at first light. That's somebody's eiders." The shot is Thursday, Nov 19, 2026. The 2026–27 Coastal Zone duck season runs Nov 5, 2026 to Jan 5, 2027, and sea ducks (eider, scoter, long-tailed) fall under it. Eider daily limit: 2, no more than 1 hen. Shooting hours on Nov 19 open at 6:08 a.m. EST, half an hour before sunrise, so a first-light shot is legal timing. Sunday hunting is illegal in Maine, but Nov 19 is a Thursday.
-- *Unclear:* the 100-yard safety zone around dwellings (12 M.R.S. § 11209) would make a shot that close to the landing illegal. That is Beth's point (islanders don't care), not a page claim.
-- Source: [MDIFW 2026–27 migratory bird seasons](https://www.maine.gov/IFW/docs/26-MDIFW-10-Migratory-stand-alone-2026-27.pdf)
+## 17. Island constable (Ch 2, 12)
 
-### Fentanyl in lobster freight
-- **Plausible, with the caveat that it's rare.** Drugs concealed in seafood freight are documented: a Sinaloa-linked ring shipped cocaine, heroin and fentanyl to Buffalo in pallets labelled "sea cucumbers" (DEA, via Fox). Fishing boats recovering drugs at sea to land them have also been prosecuted (UK: a lobster boat recovering cocaine holdalls rigged to look like pot strings). The caveat for an expert reader: almost all U.S. fentanyl seizures happen at the southwest border. Roughly 26 kg were seized at the northern border from Oct 2024 to May 2025, against about 3,700 kg at the southwest border (CBC). A seaborne fentanyl route into Maine is a fictional choice, not a known pattern. Nothing on the page claims it's common, so it stands. The page says "bricks wrapped tight in gray tape" and only Quist says "fentanyl." That works.
-- Sources: [Fox/DEA: drugs shipped as "sea cucumbers"](https://www.foxnews.com/us/feds-bust-ring-that-labeled-drug-containers-as-sea-cucumbers) · [UK Gov: lobster-pot cocaine convictions](https://www.gov.uk/government/news/convictions-for-lobster-pot-cocaine-plotters) · [CBC: northern vs southwest border fentanyl seizures](https://www.cbc.ca/lite/story/1.7577702)
+**Verdict: OK.** Maine municipal officers "have all the statutory powers of a constable" and are subject to the Title 25 training requirements. Russ carrying cuffs and taking custody of Ned in his own town fits.
 
-### Other checks
-- **OK (Ch 1):** State trooper takes the call, and Pelletier is stopped on Route One. The subpoena has the court name in capitals and her full typed name. Any non-party adult may serve a subpoena, so a deputy serving it is fine.
-- **OK:** "Deputy," "the protectee," "Giglio," "Sector." "The 2692" isn't used, and that's fine.
-- **OK (Ch 4):** Bleeding the diesel generator: the bleed screw cracked a quarter turn, air then froth, the injector pump. Correct sequence and words.
-- **OK (Ch 10):** The Gignoux courthouse and the grand jury corridor. Pike waiting outside is fine.
-- **Plausible:** Dane carrying his gun near gasoline vapor while Beth orders "Don't fire." A muzzle flash igniting vapor is a real risk.
+**Source:** [30-A M.R.S. § 2671](https://legislature.maine.gov/statutes/30-A/title30-Asec2671.html)
 
----
+## 18. Cold water and rewarming (Ch 1, 7)
 
-## Setup corrections: did they land?
-
-| Setup item | Status on the page |
-|---|---|
-| 1. Inspector booked on the Day 7 boat | **Landed.** Ch 6: "They're bringing the inspector over for the ferry." Ch 7: the lifeboat leaves "with the inspector aboard." Ch 10: the inspector is aboard from eight. |
-| 2. Coast Guard helicopter refusal with a reason; never "First District" | **Landed.** Ch 6, Pike's line via Dane. |
-| 3. Never "material witness" | **Landed.** It appears nowhere. |
-| 4. "Credited and flagged"; optional seal number | **Landed** (Ch 7 notebook). The seal number was not added; it was optional. |
-| 5. "Master and one deck. That's the certificate." | **Landed** (Ch 1 s2). Day 10 crew matches. |
-| 6. Tonnage, option A | **Landed** in the bible. The page never states tonnage; nothing contradicts it. |
-| 7. Webbers Cove 34, rebuilt Cat, firm at thirty-one | **Landed** (Ch 1, Ch 3, Ch 10). |
-| 8. Iridium: one message open, the arrow for the next | **Landed** (Ch 3 s1: "She pressed the arrow once…"). |
-| 9. Ned's tell: too many pieces for the weight; boxes rode heavy | **Landed** (Ch 6 s3). |
-| LifeFlight decision is the aircraft's | **Landed** ("wouldn't lift"). |
+**Verdict: OK. Working knowledge, unclear: no source fetched this round.**
+- Ch 7 gets the cold-shock gasp, wet clothes off, and "warm the middle first" right, and leaving the arms alone is correct.
+- Ch 1, Dane "rubbing her arms hard": she isn't hypothermic in the medical sense, so leave it. The Ch 7 contrast already does the work.
 
 ---
 
-## Arithmetic and dates (every figure on the page, recomputed)
+## Tides and daylight (Portland, Casco Bay, November 2026, EST)
 
-| Page line | Check | Result |
+| Scene | Page | Predicted | Verdict |
+|---|---|---|---|
+| Ch 2, Fri 13, ~6–7 a.m. | First light; boat leaves; Ned hauls Beth off the float "from above" | Civil twilight 6:02, sunrise 6:32. **Low 7:04 a.m.** (1.65 ft) | Daylight OK. Float hauling: **adjust** (§A5) |
+| Ch 3, Fri 13 | "lights went out at a quarter past four" | Sunset 4:17 | OK |
+| Ch 6, Sun 15, dusk | "The tide's making. In ten minutes the sea's over the low rocks" | **High 2:47 p.m.** (8.8 ft), low 9:16 p.m. Sunset 4:16, civil dusk 4:47 | **Wrong:** ebbing ~2 h after high. Fix: "It's just past high water, and every sea's coming over the low rocks" |
+| Ch 9, Tue 17, 3 p.m. | Boat to the north beach; "Get her in before dark" | High 4:33 p.m. Sunset 4:14 | OK (rising, near high, so more water over the ledges) |
+| Ch 11, Wed 18, ~3 a.m. | Skiff "lifting on the tide" | Low 11:42 p.m. Tue, high 5:17 a.m. | OK (flooding) |
+| Ch 14, Sat 21 | "In the first gray" | Civil twilight 6:11 | OK |
+| Ch 16, Sun 22, 10 p.m. to midnight | Running inside the ledges | **High 8:58 p.m.** (9.3 ft) | OK, and useful: 1–3 h after high there's the most water in Alton's gap. Optional line from Ned: "Tide's an hour off the top. Plenty over the bar." |
+| Ch 17, Mon 23 | "a little after four … streetlights were coming on" | Sunset 4:09 | OK |
+| Ch 18, Thu 26 | Thanksgiving | Nov 26, 2026 is the fourth Thursday | OK |
+
+**Sources:**
+- [Tide-Forecast, Portland (Casco Bay) tide times](https://www.tide-forecast.com/tide/Portland-Casco-Bay-Maine/tide-times)
+- [Sunrise-Sunset.org, Portland ME](https://sunrise-sunset.org/us/portland-me)
+
+*The tide tables are a secondary source built on NOAA harmonics. The NOAA station page for 8418150 wasn't fetched.*
+
+---
+
+## Arithmetic: every count, date and sum on the page
+
+Calendar check: Nov 12, 2026 is a Thursday, Nov 23 a Monday, Nov 26 Thanksgiving. Computed from Jan 1, 2026 being a Thursday.
+
+| Ch | Line | Correct figure | Verdict |
+|---|---|---|---|
+| 1 | "within three hours of her call" (midnight → ~3 a.m.) | ~3 h | OK |
+| 1/2 | "maybe forty witnesses" / "Forty-one" | consistent | OK |
+| 2 | "Six hours, and I'm already 'the witness'" (midnight → ~6:30) | ~6.5 h | OK |
+| 2 | "Half past ten to three" | 4.5 h | OK |
+| 2 | Police boat tied "forty minutes ago" (left ~6:30, float breaks after 7) | ~40 min | OK |
+| 2 | Ten days (Fri 13 → Mon 23) | 10 | OK |
+| 3 | "She had kissed him three hours ago" (10 p.m. → ~1:20 a.m.) | ~3 h | OK |
+| 3 | "hadn't had anything hot since Thursday" (Fri evening) | OK | OK |
+| 5 | "She's got nine nights" (Sat 14 → Mon 23) | Sat–Sun 22 = 9 | OK |
+| 5 | Condoms "Four seventy-nine"; "four dollars and change … a penny short" | $4.79 works as a tax-in total ($4.54 + 5.5% Maine sales tax = $4.79) | OK |
+| 5 / 18 | "put a dollar on the counter and went to the urn for two coffees" / "Coffee's a dollar, Marshal. Same as everybody." | **$2.00** | **Wrong:** "two dollars" |
+| 5 | Photo "three years ago", Beth "at thirty" → 33; "eleven years" on deck → started at 22 | consistent | OK |
+| 6 | "dry for the first time in three days" (Fri, Sat, Sun) | 3 | OK |
+| 6 | "two mornings ago" (Fri → Sun) | 2 | OK |
+| 6 | "two months before" (Sept → Nov) | ~2 | OK |
+| 7 | "You'd been up three nights" (Thu/Fri, Fri, Sat) | 3 | OK |
+| 7 | "eight days off" (Sun 15 → Mon 23) | 8 | OK |
+| 8 | "Portland was seven days off" (Mon 16 → Mon 23) | 7 | OK |
+| 8 / 14 | "Ask me in five days" / "five days since" (Mon 16 → Sat 21) | 5 | OK |
+| 9 | "Monday was six days off" (Tue 17 → Mon 23) | 6 | OK |
+| 9 | "Two years ago … Two years I ran his trucks" | consistent | OK |
+| 11 | 2:00 text; 2:15 call; 11-min wait; bait; "Four minutes later … coming"; Ned's "hour of road"; Ch 12 "from four o'clock to first light" | arrival ~3:45–4:00 | OK |
+| 12 | "Her house had stood empty and cold for six days" (left Fri 13 midday; now Wed 18 dusk) | **5 days** | **Wrong:** "five days" |
+| 12 | "eleven minutes" for Portland PD | plausible | OK |
+| 13–14 | Tourniquet from ~6:30 a.m. Thu to "Thursday night" | **12–15 h** | **Wrong medically** (§11); convert within 2 h |
+| 14 | "in pieces two days" (Thu, Fri) | 2 | OK |
+| 15 | "after four days of not" (last kiss Tue night; Sun afternoon) | Wed–Sat = 4 full days | OK |
+| 15 | Ham "eleven pounds", "three of us"/"Four" | 4 eaters + 2 prisoners in the building | OK as a joke; nobody counts the prisoners, so make sure that's intended |
+| 16 | Beth: "Three hours at best"; left "At ten"; landed "A little before four" | **~5 h 50 min** | **Wrong:** "Five hours, maybe six" (the ledges and the fight explain the rest) |
+| 16 | "Half past ten … harbor mouth half a mile behind" | ~1 knot; matches "crawl" | OK |
+| 16 | CG "About an hour"; lights "about an hour after her call" | consistent | OK |
+| 16 | Tess "Half an hour by truck" from the first shot (~10:30) to light on the gap | ~11:00; the gap comes after the chase; the kid comes up "a little after midnight" | OK |
+| 16 | "four of us aboard" (Beth, Dane, Ned, kid) | 4 | OK |
+| 16 | "six hours till ten" (~4 a.m.) | 6 | OK |
+| 17 | "I saw it six hours before I ever met him" (crossing ~9 p.m. → ~3 a.m.) | ~6 h | OK |
+| 18 | Russ: shot Thu 19; flown Tue 24; "let me out yesterday" (Wed 25) | 5 days on island, 1 in hospital | OK (see §10) |
+| 18 | "Your ten days were up on Monday" | Fri 13 → Mon 23 = 10 | OK |
+
+---
+
+## Did the setup-mode corrections land?
+
+The Oct 28 check was written against an earlier outline. Most of its items aren't on this page any more.
+
+| Setup item | On the page? | Status |
 |---|---|---|
-| Ch 2 (Fri Nov 13): "a week from Monday, the twenty-third" | Next Monday is Nov 16; a week from it is Nov 23. Nov 23, 2026 is a Monday | **Correct** |
-| Ch 4 (Sun Nov 15): "Till Monday week. Eight days." | Nov 15 to Nov 23 = 8 days | **Correct** |
-| Ch 5 (Mon Nov 16): "Monday's the twenty-third" | — | **Correct** |
-| Ch 6 (Thu Nov 19): "Seven days on this island" | Fri 13 to Thu 19 inclusive = 7 | **Correct** |
-| Ch 10 (Sat Nov 21): "generator… quiet for the first time in nine days" | Grid down Fri Nov 13 evening to Sat Nov 21 noon is 8 days elapsed, 9 calendar days | **OK** (calendar count) |
-| Ch 10 (Mon Nov 23): "After eleven days of cold" | Fri 13 to Mon 23 inclusive = 11 calendar days (10 elapsed) | **OK** |
-| Ch 2 / Ch 10: "Ten days, if the state gets a barge out"; barge seen Sun Nov 22 | 9 days after the collapse | **OK** (Ned's estimate) |
-| Ch 1: "Every Thursday for two years"; Ch 6: "since the Fourth of July two years back"; Ch 10: "two years of… night fuel" | July 4, 2024 to Nov 12, 2026 ≈ 2 years 4 months | **Consistent** |
-| Ch 1: "Eleven years"; Ch 9: "every night for eleven years" | The bible has Beth on the boat at 22 and 33 now: 11 | **Correct** |
-| Ch 6: "Hawser. Twenty-three." | Bible: scar at 23 | **Correct** |
-| Ch 7: "owed nobody a dollar in eight years" | Bible: the bank took the boat eight years ago | **Correct** |
-| Ch 8: "Twenty-two years" sober | Bible: 22 | **Correct** |
-| Ch 8: "The ham is eleven pounds, and there are three of us"; Ch 10: "Fourteen pounds… two of us" / "Three" | Matches the bible | **Correct** |
-| Ch 8: "the crew's Thanksgiving" | Thanksgiving 2026 = Thu Nov 26 | **Correct** |
-| Ch 10: "The Friday before Christmas week" | Dec 18, 2026 is a Friday; Christmas week starts Mon Dec 21 | **Correct** |
-| Ch 10: "at about four the sodium lights… had come on" (Dec 18) | Sunset in midcoast Maine ≈ 4:00 p.m. EST | **Correct** |
-| Ch 10: "At quarter to six… the windows were black" (Nov 22) | Sunrise ≈ 6:40 a.m.; civil twilight ≈ 6:08 | **Correct** |
-| Ch 7: the shot "at first light" (Nov 19), "gray coming up in the east" | Shooting hours open 6:08 (MDIFW); twilight ≈ 6:05 | **Correct** |
-| Ch 1: "Twenty to eight… sodium lights over the ramp were still on" (Nov 13) | Sunrise ≈ 6:30 a.m.; lights on 70 minutes after sunrise | **Possible in heavy overcast; low priority** (Fix 11) |
-| Ch 1 s4: "a quarter past one… the fourteen hundred departure is cancelled" | — | **Consistent** |
-| Ch 7 notebook: "D5 0150" | Day 5 = Tue Nov 17; matches "Before two on Tuesday morning I left you asleep" | **Correct** |
-| Ch 7 notebook: "D6 am. Q: CU written rpt" | Day 6 = Wed Nov 18 (the call on the rock) | **Correct** |
-| Ch 6 s2: "Nine fifty a gallon" | Maine average kerosene $6.89 (Oct 5, 2026): +38% | **Plausible markup** |
-| Ch 6 s2 / s4: "Four seventy-nine. Good till next August." | An island-store small pack at $4.79 is cheap-to-normal; an expiry 9 months out on slow stock is believable | **Plausible** |
-| Ch 1: "Hundred and ninety" (boots) | Matches the bible | **Correct** |
-| $9,000 cash | Under the $10,000 CTR threshold, over the $5,000 SAR threshold (setup §4) | **Correct** |
-| "thirty-one" (boat) | Matches setup §7 | **Correct** |
-| Speedy Trial arithmetic (not on the page; the basis for Fix 1) | Arrest Nov 13 + 30 days = Sun Dec 13. Rule 5.1: initial appearance Nov 13–16 + 14 days = Nov 27–30 | Nov 23 is the last sitting before the **preliminary-hearing** deadline, not before release |
-
-**Tide sequence (internal check only; Cutter is fictional):** working back from high water about 4–5 a.m. Fri Nov 20 ("Top of the tide, Marshal") at about 50 minutes a day gives:
-- Thu Nov 12, about 11 p.m. high ("near the top of the tide," Ch 1). Fits.
-- Fri Nov 13, about 11:50 p.m. high ("tide coming in on top of the storm" at dusk). Fits.
-- Mon Nov 16, low about 8 p.m., half flood about 11:10 p.m. ("half tide's a bit before eleven"). Fits.
-- Tue Nov 17, about 2:20 a.m. high ("D5 0150… the top of the tide"). Fits.
-- Thu Nov 19, about 4 a.m. high, ebb "before six." Fits; the dry ledges two hours into the ebb are a slight stretch.
-- Fri Nov 20, evening high about 5:15 p.m. ("At dusk the high water…"). Fits.
-- Sat Nov 21, low about noon ("A little before eleven, near the low"). Fits.
-
-The tides are internally consistent to within about an hour. No fix.
+| §1 CG inspection hold, CG-2692 | No hull-damage plot | N/A. The new steering casualty is reportable (§7 above) |
+| §2 Never "First District"; LifeFlight on weather | "First District" never used. LifeFlight never named | Landed. See §10 for who flies |
+| §3 Never "material witness" | Never used | **Landed** |
+| §4 Credit union / SAR | Absent | N/A |
+| §5 COI manning, master + one deckhand | Ned ran Cole's trucks "alone" after the deckhand went home (an illegal run, which fits). Beth runs Ch 14/16 with Dane as the only hand | Consistent. Optional: Beth's emergency sailing short could carry one line, "I'll answer to Sector for it." |
+| §6 License vs tonnage | "A hundred feet of steel"; no tonnage stated | Landed (option A compatible) |
+| §7 No "Holland 34" | Boat unnamed: "thirty-some thousand", "an old wooden lobster boat" | **Landed** |
+| §8 Iridium screen | Absent | N/A |
+| §9 Shorts tell | Absent; Ned now told himself "lobster for restaurants" | N/A |
 
 ---
 
-## Blocked or unfetched
-- The Maine State Ferry Service line-up and tariff PDF failed to load. The propane rule rests on Mainebiz and 49 CFR 176.89.
-- No published District of Maine grand jury sitting schedule was found.
-- No source covers USMS weapon surrender on relief, PFD practice for prisoners in boats, district authorization of a relief master, or the outer-skin temperature of an insulated reefer wall (I relied on construction patents and general knowledge). Each is marked unclear above.
+## Things the manuscript does not say but a trade reader will check
+
+1. **The steering system type and the boat's build year.** Put them in the bible (mechanical rod linkage, pre-1970s hull) so Ch 2 and Ch 14 agree (§7).
+2. **Who flies the medevac.** 911 → LifeFlight (grounded by icing); Sector South Portland → Air Station Cape Cod Jayhawk (won't launch for a stable patient below minimums) (§10).
+3. **What the radio is.** Tess, Russ's handheld and the ferry are evidently all on marine VHF, since the Coast Guard and the gunmen hear them. Say "channel 16" once in Ch 16, and have the Coast Guard ask her to switch to a working channel ("Go to two-two alpha"), which the gunmen can also follow. *Working knowledge, unclear.*
+4. **Monday's hearing is a preliminary hearing,** not a detention hearing. An indictment that morning cancels it (§2).
+5. **Dane's assignment.** A Massachusetts deputy on temporary assignment to the District of Maine (§4).
+6. **Paperwork after Dane's shootings** (Ch 9, Ch 16). The gun goes into evidence (on the page) and he goes on administrative leave (Ch 18, "on leave till January"). Consistent. *Unclear, no source fetched.*
+7. **Rule 5(a) delay for Ned.** A federal arrestee must go before a magistrate "without unnecessary delay." Weather explains four days on the island; one line from the boss would cover it. *From memory, unclear.*
