@@ -1174,3 +1174,10 @@ None. The judgement calls, with the default taken:
 - **N7/N8:** strike every hidden-text line in the amendment.
 - **N9–N13:** take the auditor's fixes.
 - (Orchestrator, Ch 13 beats) Mercer's beard is **gray**, not red gone white, so a listener never confuses him with Russ. His tags: the orange float coat and the gold tooth. If the rebuilt Ch 12 doesn't leave the ferry's wrench with Beth, the windlass is a split of stove wood from the pile by her step.
+
+### Orchestrator decisions on chapters/chapter-14/issues-ms.md (Nov 6; binding)
+- Tide: high water Sunday Nov 22 is about 9 p.m. Ch 14: "We go at ten, an hour after high water, while there's still water over the rocks." Ch 15: "The tide had only just turned."
+- The phone: Dane finds it at eight and leaves it on; he switches it off as the last line comes off at ten, so its going dead tells them the ferry is moving, which is why Beth goes dark. Dating: the bag was dry under Friday night's spray, so it went in after Friday night, and the ferry sat at the pier all Saturday. Nobody came in by water on Saturday: Tess watched the harbor from the store steps all day. So somebody on Cutter.
+- Tess's radio line in Ch 15 is said to Dane, not to Beth: "Marshal. Truck's on the point. Light's on her." Her silence toward Beth holds until the sink in Ch 17.
+- The bullet hole in Beth's front door is at chest height (Ch 13); Ch 17 matches.
+- "She had never landed it before" means at Pruett as captain.
