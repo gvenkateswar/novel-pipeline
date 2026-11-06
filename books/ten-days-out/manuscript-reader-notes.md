@@ -1,165 +1,214 @@
-# Manuscript Reader Notes: Ten Days Out
+# Ten Days Out: Full-Manuscript Cold Read
 
-**Draft read:** `books/ten-days-out/manuscript.md`, v2 rebuild, 30,041 words. Read once, start to finish, in order. No other file opened.
-
-**Reader stance:** I picked this up in a bookstore. I know nothing except what is on the page.
-
-Page locations are approximate percentages through the book, plus chapter and scene.
+**Draft read:** `books/ten-days-out/manuscript.md`, Nov 6, 2026 build (about 38,900 words, Chapters One to Eighteen). I read nothing else in the book folder.
 
 ---
 
-## Would I stop? Where?
+## The short version
 
-**I did not stop.** I finished it, and from Chapter 7 on I read it in a hurry.
+I would finish this book. I would not have stopped, but I came close twice. The first time was around Chapters 12, 14 and 15: the breakup, the second ferry-at-the-pier night, and the ham. The second was the opening of Chapter 15. Chapters 1, 6, 7, 11 and 16 are the book. The danger is very good when it is a cold, physical problem on a real piece of shore: a wave, ice, fire, a stuck wheel. It is weak when it is a person, because the person behind it (Cole, his lawyer, "the boat") is never on the page. The one human antagonist I could see was the kid, and he escapes so often that it stops feeling like bad luck and starts feeling like the plot needs him to.
 
-The one place I would most likely have put it down is **Chapter 3, second scene (about 23–27%)**: the chase through the fish houses and the store business after it. The choreography there is muddled ("Beth and Dane went out the front, the bell behind them, round to the side wall. Russ stayed inside at the counter. Ned was round the side wall with an urn cup, and Dane stopped at the front corner..."). Then the narration jumps with no transition to a night walk ("They waited out the afternoon in her kitchen with the door locked. The north road went up over the spine of the island in the dark"). If I were tired, this is where I'd close it and maybe not open it again. What saved it was the generator-shed kiss at the end of the chapter, and the Chapter 4 hide scene after that.
+The romance is obvious from page 5 and fully on the page by Chapter 4. It is warm, and the banter is often funny. It is not a slow burn. The one real conflict between the leads ("She'll go") is made by one bad sentence on a speakerphone, and a ham fixes it.
 
-Second risk point: **Chapter 6, middle (about 52–57%)**. The Coast Guard, helicopter and county logistics, then the forepeak impeller. Pulse drops. The chapter's last line pulled me back.
-
-**"I'd keep reading, but..."** I'd keep reading, but the prose is so compressed that I had to reread sentences to work out who was where and who said what. That happened about once a page in Chapters 2–6. It's the main cost of this book.
+Ned is the character I will remember.
 
 ---
 
-## Pull score per chapter (1–10)
+## Pull score by chapter (1 to 5)
 
-| Ch | Title | Pull | One-line reason |
+| Ch | Title | Pull | One line |
 |---|---|---|---|
-| 1 | Night Freight | 8 | Strong cold open (the dark reefer, the bricks under the lobsters). The ramp jump is a real meet. |
-| 2 | The Weather Hold | 8 | The bridge collapse and the mudroom door going quiet. The best suspense mechanism in the first half. |
-| 3 | The Generator Shed | 6 | The shave and the shed kiss are excellent. The middle (store, chase, key handoff) is the muddiest stretch in the book. |
-| 4 | Feeling for Warm | 8 | The hide behind the cold generator and the frost handprint. Russ lying down "like a cow" is the best laugh. |
-| 5 | Half Tide | 7 | Tess at the truck is great. The bar crossing is tense. The after-scene ("Three things you didn't count") lost me. |
-| 6 | Good Till August | 6 | The condom purchase and "Good till next August" are a delight. Logistics and the impeller sag. Strong last line. |
-| 7 | His Handwriting | 9 | The notebook. The book turns here. "They missed the one they'd paid." |
-| 8 | Not Water | 8 | The "No indication" page-turning, the ham, "Ask me sober, Haskell," "It's pencil," and Ned not looking back. |
-| 9 | Car Deck, No Lights | 7 | The climax is quick and physical and uses her skills. The confession is a monologue dump. |
-| 10 | First Boat | 7 | Tess's "I sold you condoms" and "Tell him yes." Quist re-explains the plot. The epilogue is lovely but very tidy. |
+| 1 | The Last Truck | 5 | The silent reefer truck is a great first image. The kick-in, the socks in the snow and the oar all land. |
+| 2 | First Light | 4 | The ferry-rope disaster is excellent. The boss's exposition and Beth's reason for staying are thin. |
+| 3 | The Constable's Kitchen | 4 | The kiss is good. The Dyer-house call is an obvious trap, and I saw it well ahead of the characters. |
+| 4 | The Net Loft | 4 | The escape along the rocks is tense, and the "very disappointing kit" is funny. The sex runs a little long while a gunman is outside. |
+| 5 | Good Till Next August | 4 | The condom-buying opener is charming. The photo on the wall is the creepiest thing in the book. |
+| 6 | Who Knew | 5 | Onions, then smoke. The wet knotted laces. The watcher's log. Strong all the way through. |
+| 7 | Cold Water | 4 | The wave and the open hand are the best action writing in the book. The sex in the dark afterward goes on too long. |
+| 8 | The Tower | 4 | The second save by a fist in a coat. The "And me." ending works as a hook. |
+| 9 | The North Beach | 4 | Ned's confession and Ned in the water are strong. The beach shootout is clear. |
+| 10 | The Blood Trail | 3 | The kid gets away again. The third sex scene in a row with the dress-the-wound-first setup. The texts on the phone pull me forward. |
+| 11 | Somebody's Boy | 5 | The bait, the lantern on the road, "Son? It's all right, son." The best chapter. |
+| 12 | She'll Go | 3 | The rescue of Ned's son is too quick and easy. The breakup feels manufactured. |
+| 13 | Her Father's Kitchen | 4 | The kid washing her mugs is a great image. Russ in the doorway works. The pantry-door chart gets planted with a spotlight on it. |
+| 14 | The Wheel | 3 | The stuck wheel is good. The rest is the ferry at the pier again, another info dump from the boss, and a lot of procedure. |
+| 15 | Eleven Pounds | 3 | The ham scene alone is a 2. The planted phone and the departure bring it back up. |
+| 16 | Inside the Ledges | 5 | The fake steering-failure call over the radio, Alton's way, Tess's light. A real climax. |
+| 17 | In the Room | 4 | The grand jury scene is short and good. The lawyer's arrest is too easy. The hotel scene is sweet. |
+| 18 | Full Price | 4 | The boots payoff, Ned's letter and Tess at the sink all land. "Ask me every night" is earned. |
+
+**Lowest scene in the book: the ham at the start of Chapter 15 (pull 2).** At that point a boat full of men has been watching the harbor for two days. Russ is shot. The grand jury is tomorrow. And the scene spends its length on whether a ham fits in an oven, a dollar bet about the ham, and Russ commentating on the ham. I would have skimmed it.
 
 ---
 
-## Boredom ledger
+## Where I'd stop (if I'd stop)
 
-1. **Ch 2, scene 2 (about 13%).** "Beth doubled the lines that held the bow to the pier at dusk, and again in full dark..." The slip-bridge-tower geography never came clear to me ("her bow shoved up under the bridge, the car ramp on its two steel towers"). I skimmed until the cable screamed.
-2. **Ch 3, scene 2 (about 23–25%).** The fish-house chase and the store. Two Dane lines run back to back ("I owe you a floor, Ms. Marr..." / "Your man went in between those fish houses..."), then the side-wall choreography. My attention went.
-3. **Ch 4, scene 2 opening (about 31%).** "It had run dry and sucked air, and the last of the fuel can was in it now. She had the bleed screw cracked a quarter turn." The mechanics before the tension starts. It pays off later (the diesel tongue, the cold set), but on the way in it's a manual.
-4. **Ch 6, scene 3 (about 53%).** "Coast Guard's sending a lifeboat at first light tomorrow, to the town float, because it's the only lee in this swell." / "The district won't put a helicopter on a non-emergency move..." Procedure delivered as dialogue.
-5. **Ch 6, forepeak (about 55%).** The impeller swap. It's a quiet, important Ned moment, but it runs long before he speaks.
-6. **Ch 9, scene 2 (about 85%).** "Russ, top of the brow by the bollard... You in the lane between the trucks, on the stern. Me in the wheelhouse..." Then Dane repeats his own position back. Staging read aloud.
-7. **Ch 10, scene 2 (about 93%).** Quist reads Ned's statement off the pad. I'd just heard most of it from Ned in Chapter 9. Second recital of the solution.
-8. **Pattern, whole book.** Nearly every scene opens on weather, tide or light ("The snow was over. The wind was rising ahead of the gale."). By Chapter 6 my eye was skipping first sentences.
+I didn't stop. The two places I nearly put it down:
+
+1. **The opening of Chapter 15:** "Dane Reyes was trying to fit an eleven-pound ham into the town-office oven when Beth gave him her condition for taking him back." The first sentence announces the reconciliation and then shows it. The danger has been switched off for a cooking bit.
+2. **The opening of Chapter 14:** "All Thursday and all Friday Dane watched the harbor with the kid's rifle, and the kid still wouldn't say what boat." Two days skip by in one sentence, the setting is the ferry grinding on the pier again (Chapter 2 already did that), and I had lost track of what day it was.
+
+I'd keep reading, but Chapters 12 to 15 are where a less patient reader drops this book.
+
+---
+
+## Where I got bored
+
+- **Ch 2:** "The grand jury," Dane said to Beth, "is a room of ordinary people who decide whether there's enough for a trial." This is for me, not for Beth. The boss's speech just before it ("The truck was clean when the troopers stopped it. Cole's cold storage...") reads like a briefing memo.
+- **Ch 3 / Ch 5 / Ch 11:** Cole's lawyer "in a good coat" talking to a jury. The first time, it's a nice worry. By the third time, Dane has the same thought every time he touches her.
+- **Ch 7:** The sex in the dark after the hypothermia goes on for pages: "Lower." "Slower than that." "Deeper." "Again." "Both at once." At that length, a stream of one-word instructions reads like a list.
+- **Ch 10:** "He cleared the house fast by phone light: the kitchen, the front room, the back bedroom. He checked the front door's bolt... and the shutters. He wedged a kitchen chair..." Inventory. By now I have watched Dane clear three houses.
+- **Ch 12:** "Dane walked a step wide on the uphill side with the ferry's first-aid box, since his own kit had no gauze left. Dane had waited for light because the dark was the kid's, and taken the road because Ned couldn't do the shore rocks tied." Logistics written to stop plot holes, not to be read.
+- **Ch 14:** The whole steering-rod explanation, and the boss's paragraph beginning "Then hear it all at once." That paragraph is seven facts in a row, and I could feel the author clearing the board of every boat and helicopter.
+- **Ch 15:** The ham. All of it. "Is it going in?" Russ said. "It's not going in. Is he going to make it go in? He's going to try."
 
 ---
 
 ## Where I got confused
 
-- **Ch 2, the phone "seeing the sky."** Dane has to stand outside to use his phone. Only in Ch 5 does Tess explain the booster at the store and that "past the dock a cell phone's a brick." Until then I didn't know if it was a satellite phone or a quirk.
-- **The dragger's names.** "Gloucester boat," "big steel fishing boat," "Gloucester dragger," "the dragger," then the *Margaret Ann*, then Arsenault, then Lyle. It took me until Chapter 6 to be sure these were all one boat and one man.
-- **Ch 3, Russ.** "Russ came out the back door at the noise." Who is Russ, and why does Dane hand Beth to him? I didn't learn he was the constable until the badge in Chapters 8–9.
-- **Ch 3, "Firm at thirty-one. Saturday noon."** It took a beat and a later line to know this is $31,000 for the boat.
-- **Ch 4, Russ's line.** "Who's asked me twice where you sleep? Tess." He asked her himself in Ch 3. I couldn't tell if he was accusing Tess or being wry.
-- **Ch 4, "He drew."** For half a second I read "drew" as drew breath.
-- **Ch 5, the after-scene.** It opens out of order ("She had put the lantern out as soon as she saw it."). Then come "Cove." and "You heard Tess," then "Three things you didn't count." What three things? I never worked it out.
-- **Ch 5, "Monday's the twenty-third."** It *is* Monday in that scene, so for a moment I thought the grand jury was today.
-- **Ch 6, "shorts."** Ned says "Figured it was shorts." I guessed undersized lobsters. A reader who doesn't know Maine won't.
-- **Ch 7, "The ring hung on its nail by Tess's safe."** This drops into the middle of the bandaging with no thought attached to it. I had to work out that Beth was thinking about who else had a key.
-- **Ch 7, the church.** Whose handheld squawks "…church…"? A second man? It's never followed up.
-- **Ch 8, the mess confrontation.** These are very short lines with no tags: "The generator shed. All those money questions." / "For the case." / "My bed." I lost who was speaking twice.
-- **Ch 9, the arrests.** Lyle is suddenly in Russ's truck with his hands behind him. The arrest happens off the page, and I wanted to see it or be told how.
-- **Ch 10, the bait bucket.** Quist has "a clean white bait bucket," Tess says "Whitcomb's," and Russ brings Quist a new one in the epilogue. I don't know what's in it or what the joke is. I reread it and still don't.
-- **Pike's sex.** I pictured Pike as a man until Dane says "whatever you tell her now" in Chapter 8. Not a problem, just a jolt.
-- **"Four years."** Dane's "first call he had made about a person in four years" and "best run I've had in four years." I took it to mean since Marisol, but the book never quite says so.
+- **Ch 7, second paragraph:** "The line had been his: off the open ledge at the waterline..." Whose? She had just told him to do exactly what she did. I read it three times and still think it should be hers.
+- **The days of the week from Ch 8 on.** "Ask me in five days." "Portland was seven days off." "Tuesday I stayed on the harbor road." "On Wednesday she had told him they were done." "Thursday, on your step." "Since Saturday her palms had been wrapped." I was doing arithmetic and still not sure which night was which. By Ch 14 and 15 I couldn't tell you what day it was without flipping back.
+- **The steering rod.** In Ch 14 she has "had the steering in pieces two days," it fails Friday night, and then in Ch 15 she "spent that whole day at its vise" on Saturday. So it was fixed twice? I followed it eventually, but it was a snag.
+- **Ch 10:** "Beth. I—" / "Don't say it yet." He already said "I'm in love with you" out loud in Ch 8. Why is she stopping him from saying something he's already said? It reads like the scene forgot Ch 8.
+- **Who is the boss?** No name across eighteen chapters. Ch 8 ends with "And me," which sets her up as a suspect. Then Ch 10 clears her in one line, and she goes back to being a voice that delivers exposition. I spent a chapter suspecting someone who doesn't exist as a person.
+- **Ch 5:** Tess tells the store "You did that, Calloway," about losing her store, then hugs Beth hard. I couldn't tell whether she was furious, joking, or both. It's probably meant as both, but it whiplashed me.
+- **Ch 2 and Ch 12 boss lines:** paragraph breaks inside one speaker's dialogue ("...Her eyes are the case. / "The grand jury sits Monday..." and "...Not her friends, not this island, and not you." / "If she says no, our part ends after Monday. Will she take it?"). The second one reads like Dane is speaking. In Ch 12 I briefly thought Dane asked "Will she take it?"
+- **Ch 16:** "On her left the island's point ran out into the bay... The light swung out from behind and came up on her right." I lost the geography of the chase for a few paragraphs until Tess's light came on.
 
 ---
 
 ## Where I stopped believing
 
-- **Beth writes *Teresa Marr* for Pike (Ch 8, about 81%).** She has read "Seal noted: red." She knows the fare bag is red and that it's Ned's. The narration says plainly "She left the seal out." I understand it as denial, but she puts her oldest friend's name in pencil for a federal file while she sits on the evidence against Ned. That made me like her less, and it was the one moment I half stopped believing her. Tess's "You put my name in." / "I sold you condoms." in Ch 10 partly redeems it, but she never apologizes, and I wanted her to.
-- **Dane's notebook.** A careful marshal writes "subject" and "$9,000" in a book he leaves in his jacket on a nail, beside a woman who has already read his phone once. It's convenient that she finds it.
-- **Pike's "Done."** A supervisor accepts a witness's terms on speakerphone in two words. Too easy.
-- **The villains' plan.** Ned tells Arsenault the boat is a trap, so they'll stay off it. Arsenault sends the boy with gasoline to burn a steel ferry with a marshal aboard anyway. They went from "watch you go" to shooting and arson with very little on the page to explain the escalation.
-- **The hooded boy.** He walks the island in daylight for a week, shows his face from Beth's back step, and is never named. Russ, the constable, does nothing. "Q says hands off" covers some of that, but the antagonists are thin. Arsenault gets two counter scenes, and Pelletier never appears.
-- **Ned's confession (Ch 9).** He volunteers the whole thing in sequence, in five paragraphs, each tagged "Ned said." It reads like a mystery's solution being recited, not like a ruined man talking. The last paragraph (the ham, "Sober") is real. The ones before it are a briefing.
-- **Leaving Dane unbarred (Ch 7).** She's furious, fine. But she leaves a man who can't lift his arm, with a door nobody can bar from outside, while a shooter is on the island. The open case softens it. I still flinched.
+- **Ch 2: Beth refuses to leave.** A man kicked in her door three hours earlier and chased her down a hill. Her reasons: if she runs, Cole's people learn that it works, and Ned can't tie up the boat alone. The second reason is tiny next to "somebody just tried to kill you." The marshal and his boss accept it in about a page.
+- **Ch 9: Dane sends Ned home alone.** Ned has just confessed on the beach to running Cole's trucks in the dark for two years. A shooter used the hour that Ned knew. And Dane says "Go home along the shore, Ned." A marshal doesn't let that man walk off into the dark. It only happens so the bait in Ch 11 can work.
+- **The kid escapes over and over.** He gets away in a boat in Ch 1, at Russ's in Ch 3, from the boathouse in Ch 4, from the summer house in Ch 5, after the fire in Ch 6, wounded from the beach in Ch 9, out of Dane's hands at the cove in Ch 10, and from the stone wall in Ch 12. By the cove in Ch 10, when Dane has him by the collar and he still gets away, I stopped believing the fights and started seeing the outline.
+- **Ch 12: Portland police get Ned's son in eleven minutes.** One phone call, an address, and he's "in the car." The hardest problem in Ned's life is solved off the page in the time it takes to boil a kettle.
+- **Ch 12: "She'll go."** Dane has just watched this woman refuse a boat, a hotel and a hiding place for a week, and he tells his boss on speaker, in front of her, that she'll give up her name and her island. He's a man whose whole method all book is asking. It's the one thing he'd never do, and he does it so the book has a breakup.
+- **Ch 15: the reconciliation is too easy.** She names a condition, he says yes, she takes half the blame, and they're back together before the ham is in the oven. Two chapters of silence, settled in one exchange.
+- **Ch 16: the kid's confession on cue.** He lays out the lawyer, the bus station, the phone, the two thousand cash and the offshore boat, finishing with "I want that written down." He has been silent for four days and suddenly talks like a statement form.
+- **Ch 17: the lawyer.** He walks into a federal courthouse to taunt the witness and is arrested in the lobby. The man running the whole conspiracy is removed in a paragraph. The deputy even says it: "He walked right in anyway." Saying it out loud doesn't make it believable.
+- **Ch 17: shot along the ribs in the early hours, signed out of the hospital, on a bench by noon, and in a hotel bed that afternoon.** It's the genre, and I let it go, but I noticed.
+- **Cole Varney is absent.** He appears once, in a truck cab in Ch 1, "looking straight ahead at nothing," and never again. The villain is a phone number, a lawyer and an anonymous boat. When the boat hits the rock in Ch 16, I didn't feel a villain lose. I felt a hazard clear.
 
 ---
 
 ## Where it sounded like AI
 
-This mostly doesn't read like generic AI prose. It reads like a deliberately styled, clipped, maritime literary voice, and many images are specific and earned. The tells are in the machinery:
+- **Every chapter ends on a button line,** and nearly every scene does too: "I know a place." "Then there's two of them." "In September I hadn't seen anything." "Hold my hand and do exactly what I do." "And me." "Which one?" "Answer him." "Why?" "They've got a boat." "Ask me every night." Any one of these is fine. Eighteen in a row is a pattern I could predict by Ch 6.
+- **Desire stated as a flat sentence, over and over:**
+  - Ch 2: "She wanted them on her. She thought it in exactly those words."
+  - Ch 3: "He wanted her. He'd wanted her since she swung an oar at his head."
+  - Ch 10: "She wanted him, all of him."
+  - Ch 13: "He wanted her."
+  - Ch 14: "She wanted him. She was angry with him. Both were true."
+  - Ch 16: "She wanted him, here, bleeding on the upper deck of her boat..."
+  - Ch 17: "He wanted her. He did what she said, in order."
 
-- **Every scene ends on a stinger.** "'You.'" / "'Do we run it?'" / "She struck the match." / "The float lights were dark." / "'Where's your marshal?'" / "He didn't look back." / "'Who's taking her home?'" Nearly every scene and every chapter closes on a one-line paragraph built to resonate. Individually they're good. Together the pattern is visible by Chapter 4.
-- **The callbacks are too symmetrical.** "Steel doesn't burn / Everything in it does" (three times). "Me and God" (three times). "Dollar says." "Lift and shove." "Nobody who's been in this house makes that sound" (twice). "Ms. Calloway" plus a pause (three times). The quarter turn on a binder that opens and closes the book. The gap of black water opening at the ramp in the first chapter and the last line. The last page is assembled from parts of the first page. It's satisfying, and it's the kind of satisfying you can see being built.
-- **"Let" as a tic.** "She let him." "She let it." "let her get there." "let it be hers." "let the sound go." "let her keep the hand." "He let her hear that." "let him walk there." "She let herself look." Dozens.
-- **"Nobody on this island..."** Constant, from everyone.
-- **The sex scenes share a template.** Each one builds to a long run-on that ends in her losing track: Ch 3 "her mouth was asking for things before she'd thought them"; Ch 5 "she heard her own voice asking him for something and couldn't have said what"; Ch 6 "she was asking him for something and then for something else"; Ch 10 "and then none of that was anywhere." Same move, four times.
-- **Dane narrating danger.** His polite running commentary under threat is his best trait (cable, brick, shot, kick). By the fourth time ("I'm getting up. I've changed my mind about getting up.") it's a routine.
-- **Tess's quips are writerly.** "Wrong's free, Marshal. Right goes on your tab." / "Lamp oil I've got. Sense I'm out of." Fun, but they sound composed, not said.
-- **Planted exposition.** Tess explaining that Ned's phone lives on her shelf (Ch 5) and the "Marr's price sticker" on the impeller box (Ch 6) are visibly placed for later.
-
----
-
-## Listener pass (as if hearing it read aloud)
-
-- **Dialogue with no tags will fall apart in audio.** Ch 8's mess scene ("No." / "Then you'll have to ask me..." / "My bed." / "After."), the "Ned." / "Haskell." / "Ned." exchange, and much of Ch 5 depend on the eye tracking line breaks.
-- **The POV switch to Dane in Ch 9 ("Dane sat in the dark lane...") has no marker.** It's the first time in 85% of the book we're in his head. A listener will hear "he thought about her hands" and have to reorient. The epilogue is his POV too.
-- **Scene breaks with no time or place cue.** Ch 3's "They waited out the afternoon... The north road went up..." and Ch 5's out-of-order after-scene. On audio I'd be lost.
-- **Notebook shorthand read aloud is noise.** "D5 0150 report. No indication." / "D6 am. Q: CU written rpt."
-- **The vocabulary is heavy, and a listener can't glance back.** D-ring, binder, brow, dolphin, forepeak, impeller, quarter ladder, transom, gut, sill.
-- **What works aloud:** the long breath-driven sentences (the bar crossing, the snow escape down the bank, Beth crossing the black deck in her socks). The rhythm carries them. Dane's voice is distinct enough to hear. Russ is instantly recognizable.
-
----
-
-## Predictions and surprises
-
-**What I predicted correctly:**
-- **Ned was compromised.** I suspected him from Chapter 1 ("Go home" twice, insisting on taking the store's bag, not asking about the crate). By Chapter 2 ("Home. Don't tell anybody." / "Me and God." and then her "You.") I was fairly sure. Chapter 6's "shorts" confession moved me off it for a chapter. So the reveal was no surprise, but her refusal to see it made it hurt, and that worked.
-- **Arsenault was the boss.** From the first "whatever the gentleman's having."
-
-**What surprised me:**
-- **The log exonerates her.** I expected the notebook to be a betrayal. "No indication" at the foot of every night, "as if he had measured where they would go," is the book's best reversal. The grand jury payoff ("a deputy's pencil had answered it at the foot of every night") lands.
-- **Dane reports himself to Pike** before she can.
-- **Tess turns out to be the quiet hero.** The cloth ledger from the safe, the margins.
-- **Ned proposes sober** and Tess says "Tell him yes" through a federal agent. I didn't see that coming, and it's the emotional peak of Chapter 10.
-- **Nobody fires the gun all book.** The climax is a stern chain and a ring buoy. I liked that.
+  This is the single loudest tic in the book.
+- **Feelings explained after they're already shown:**
+  - Ch 3: "he'd follow her anywhere on this island, and that was a terrible thing for a marshal to know about himself."
+  - Ch 11: "It was all he had to give her, and it was a boat."
+  - Ch 6: "Now it sounded like what a woman says right before she finds out she's wrong."
+  - Ch 1: "He was in trouble. He knew it right then."
+- **Ch 6, the three-suspect litany:** "Tess would never hurt me. She couldn't make herself believe it... Russ would never hurt me. She couldn't believe that one either... Ned would never hurt me. She couldn't get to the end of it." It's built like a template with the names swapped in.
+- **Everybody quips in the same clipped, wry register.** Dane, Beth, Russ, Tess, Ned and the boss all speak in short dry lines with a turn at the end. Russ gets a tic late (question, then answer: "Can he stay? He can stay." "Is there more? There's more." "Didn't they? They did."), but before Ch 13 he sounds like everyone else. Ned stands apart by talking about the weather instead of answering, and that's the best voice work in the book.
+- **The sex scenes run on one template.** First a wound is dressed (the arm in Ch 4, hypothermia in Ch 7, the knee in Ch 10, the ribs in Ch 17). Then comes a consent check ("Can I?" / "Still yes?" / "Tell me you're sure." / "Tell me."), then she gives instructions, then a joke mid-act, then she comes, then he comes, then a quiet line. By the third scene I could feel the next beat coming.
+- **Ch 3 and Ch 15 openings tell the outcome first:** "The argument about going back into Beth's house took under a minute, and Dane lost it. He won the one about where she would sleep tonight. He lost the first at the foot of her steps..." That's a summary followed by the scene it summarized.
 
 ---
 
-## How the ending lands
+## Listener pass (repeats an ear would catch)
 
-- **Mostly earned.** Beth taking the wheel was set up honestly (the hundred-ton license "never used," "Put my name in" said at last, the gust off the dolphin she corrects alone). Ned holding his wrists out across the counter is the real climax, and it's devastating.
-- **The romance HFN is earned.** "Since when?" / "You jumped." works because the jump was so well done.
-- **Weak spots:** The action climax is half a page. The confession and Quist's re-reading explain the plot twice. The epilogue's ring structure (binder, quarter turn, ramp rising, black gap) is so neat it pulls me out of the story and I see the author's hand. The villains get no ending of their own, just bodies in a boat stern.
+Read aloud, the short sentences are a strength. This would be easy to follow on audio. But these repeats would jump out:
+
+- **"Marshal"** as a form of address, dozens of times, from Beth, Tess and Russ. Plus **"Dane Reyes"** in full from Beth (Ch 4, 8, 9, 12), **"Calloway"** from Tess (every Tess scene), **"Bethie"** from Ned, and **"Ms. Calloway"** whenever Dane gets formal.
+- **"A teenager's knots from two summers on a lobster boat"** appears nearly word for word in Ch 2 and Ch 14, and again in Ch 15 ("On a teenager's knots").
+- **Hauled by the collar or coat:** Ned hauls Beth off the float (Ch 2), Beth hauls Dane out of the sea (Ch 7), Dane holds her coat at the railing (Ch 8). Three rescues by a fist in fabric.
+- **"Russ took his cap off and put it back on"** appears at least three times.
+- **"Eleven":** eleven years, eleven minutes twice (Ch 11, the wait for the boss's reply; Ch 12, the son's rescue), the eleven-pound ham, "I'd seen eleven."
+- **"One bar"** of signal, in almost every chapter from Ch 5 on.
+- **"Quick and sure"** for both the knee dressing (Ch 10) and the palm wrapping (Ch 14).
+- **"Quiet was how she got scared"** is stated outright twice (Ch 3, Ch 7).
+- **"The boy she taught to row"** appears four times.
+- **"Dollar says"** bets appear in Ch 14, 15 and 18. The payoff works, but the motif is heavy.
+- **"Fine."** as Beth's one-word reply comes up again and again.
+- **"Since the oar" / "since the rock"** are used as timestamps for feelings.
+- **"Body-length"** appears twice in two chapters.
+- **"The swell sucked in under the rocks and went quiet"** appears twice in Ch 9.
+- **The text messages in Ch 10 to 12** (*constable's. ill get him off the porch.*) would be hard on audio. The narrator has to perform lowercase and missing apostrophes, and the listener won't hear that Dane is copying the kid's style.
+- **The one long run-on sentence in Ch 10** ("The door was across the room with the chair under its knob, and the stove light ran along the floor to it...") is the best single sentence for the ear in the whole book, because it's the only time the rhythm changes.
 
 ---
 
-## Would I buy book 2?
+## Is the romance obvious and satisfying?
 
-**Maybe. Not on the hook.** The only forward thread is Russ joining Quist's task force for "every boat in this bay." That's a premise for someone else's book, and it's barely a sentence. Dane is on leave pending a referral. Beth has the boat. Their story feels finished. I'd buy the author's next book for the voice, Tess and Ned, and the texture. I wouldn't buy a sequel because this one left me needing to know something. **Nothing in the last chapter makes me need the next book.**
+**Obvious:** Very. He's "in trouble" by the oar, they kiss on night two, and by Ch 4 it's hands and mouths in the net loft. Nobody reading this will miss that it's a romance.
+
+**Satisfying:** Mostly. What works:
+
+- The banter has real texture: the boots, the oar, "an ice cube with opinions," "It's a very disappointing kit," "You creak like an old boat," "That ham is load-bearing."
+- The consent theme ("ask me, every time") turns into a real payoff when she announces her own yes to Russ and Tess, and again in the grand jury room. That's the smartest thing the romance does.
+- "He opened his hand so the sea would take him and leave her" is a real reason to fall in love, and the book uses it as one.
+- "Ask me every night," set against "Ask me again in ten days," closes the frame well.
+
+What doesn't work:
+
+- There is no slow build. All the wanting gets spent by Ch 4, and the middle runs on repetition rather than escalation.
+- "I'm in love with you" on day four, said to her back while she pulls a generator cord, feels rushed.
+- The one conflict between the leads would be fixed by one honest conversation, and it gets one honest conversation two chapters later. I didn't fear for the couple for even a page.
 
 ---
 
-## Best moments
+## Does the danger move?
 
-**Single best:**
-> She turned the page and found them at its foot. She found them at the foot of the next, in the same place, as if he had measured where they would go.
+**Chapters 1 to 11: yes, strongly.** Every night has a new attack in a new place, each with its own physics: snow in socks, glass, ice, fire, a wave, a railing, a beach. The question of who is leaking her location tightens the screw, with Tess's phone, Russ's quick answer, the photo from September and "And me." The leak plot is the engine of the first half, and it's good.
 
-**Runners-up:**
-- "The last witness who knew her own town better than I did is buried in it."
-- "Somebody had sat at a desk in a warm room and spelled her right."
-- "In the frost bloom on the cold steel, the clear print of a bare hand. Five fingers. A foot above where her head had been."
-- Russ going down "like a cow lying down... the thermos held up out of harm the whole way like a baby at a christening."
-- "Four seventy-nine. Good till next August."
-- "They missed the one they'd paid."
-- "'Ask me sober, Haskell.' / 'How long's he been sober?' / 'Twenty-two years.'"
-- "This isn't water." / "Not Ned." ... "It's pencil."
-- "At the top of the pier road her hand was already coming up off the rail for his wave. ... He didn't look back."
-- Ned holding his wrists out across the counter.
-- "You put my name in." / "Yes." / "I sold you condoms."
+**But the answer is telegraphed.** "Then you didn't see it" in Ch 1 points at Ned, and then Ned confesses to trafficking on the beach in Ch 9, so when the lantern comes down the lane in Ch 11 I wasn't surprised. I was moved, and that's better. But it isn't a twist.
+
+**Chapters 12 to 15: the danger stalls.** The leak is solved, Cole is offstage, and the threat becomes "a boat with one light" sitting off the point for two days. I couldn't picture a person on it. The tension shifts to logistics: steering rods, helicopters, the icing, Coast Guard response times.
+
+**Chapter 16 brings it back** because the danger is the sea and the ledges, Beth's own territory, and because she wins with knowledge her father left her. It's the right climax for this heroine.
+
+---
+
+## Does the ending pay off?
+
+**Yes, mostly.** The grand jury scene is short and right ("He tried telling me what to do once. It didn't take."). Ned's letter is the best thing in the last chapter: "I told him that's how you know." Then: "That was all. No sorry." Tess at the sink ("Best hand on that water. I won't have a stranger at our wheel. That's what the letter says. The rest isn't in it.") pays off a thread I had forgotten I cared about. The boots and the leaky boat pay off Ch 1.
+
+**What's thin:** The big boat was never found, the planted phone is still unexplained, and "We'll find out" reads as a hook for the next book bolted onto a finished story. The lawyer's arrest happens offstage in a paragraph. Cole is never seen again. The ending pays off the people. It doesn't pay off the crime.
+
+---
+
+## What I want to know next (after the last page)
+
+- Who taped the phone under the bait truck? That's the one question the book leaves pulling at me, and I'd read a second book for it.
+- Does Ned's son stay clean, and does Beth ever answer the letter?
+- Do Tess and Beth talk again? I care more about that than about the boat.
+
+---
+
+## Best moment
+
+Ch 11, Ned at the daybed:
+
+> "Son? It's all right, son."
+>
+> ...He knelt by the daybed slowly, minding the bad hip, and talked the whole way down.
+>
+> "I've got the box off the boat, son. Gauze and tape. It's all right now. You're cold, that's all, so I brought my good blanket." He shook it out over the shape and smoothed it down. "There. Let's have a look at you."
+
+Then, a page later: "He's somebody's boy, Bethie." The man who sold her walked an hour through a storm to help the boy who was sent to kill her, and the book doesn't tell me how to feel about it. That's the whole novel in one scene.
+
+Runner-up, Ch 7: "Her hand was still in his. The sea had him now, and it would take whatever he was holding. He opened his hand so it wouldn't take her too."
 
 ---
 
 ## The book as a whole
 
-- **Did the ending feel earned?** Yes for Beth and the boat, and yes for Ned and Tess. Mostly yes for the romance. The plot's solution is told twice instead of seen once, and the final page is too symmetrical.
-- **Which character will I remember?** **Ned.** The bad hip, "Bethie," the lifted hand on the ladder, the sober proposal, the wrists. Then Tess. Beth is vivid in what she does and opaque in what she feels. Dane is charming, but his charm is a repeated move.
-- **Where would I most likely have stopped?** Chapter 3, second scene, about 23–27% in. If a reader survives to the frost handprint at the end of Chapter 4, they finish.
+**Did the ending feel earned?** The romantic ending did: "Ask me every night" answers the first chapter, and the asking theme carries it. The suspense ending didn't. The villains are removed off the page, by a lawyer's arrogance and a rock.
+
+**Who I'll remember:** Ned Haskell, without question. Then Tess: "Coffee's a dollar, Marshal. Same as everybody." Then Russ, standing in the door "like a summer kid." Dane and Beth are likable, but they talk so much alike that a month from now I'll remember them as one witty voice.
+
+**Where I'd most likely have stopped:** The start of Ch 15, at the ham. If I'd been reading on a phone at night, that's where I'd have turned it off and maybe not come back.
+
+**What I'd tell a friend:** "It's a snowed-in Maine island romantic suspense, spicy, with a deckhand and a U.S. Marshal, and a different near-death every night for the first half. The island people are the best part, especially the old ferry captain. The heat starts early and doesn't really build. The bad guys are mostly a phone number. The middle sags around a ham, but the ferry run through the rocks at the end is worth it."
