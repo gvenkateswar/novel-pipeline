@@ -1,8 +1,8 @@
 # Chapter Eleven: Somebody's Boy
 
-The kid wrote the way kids wrote, all small letters and no names, and by half past two in the morning Dane Reyes could write it too.
+The kid wrote the way kids wrote, all small letters, no names, a period after most of it, and by half past two in the morning Dane Reyes could write it too.
 
-The kid's phone held a few other short texts, to numbers with no names: *cant*, *ill*, a period after most of it. Nothing about Cole or the ferry or Beth.
+The kid's phone held a few other short texts, to numbers with no names: *cant*, *ill*. Nothing about Cole or the ferry or Beth.
 
 At a quarter past two Dane had rung the leak's number from his own phone. It was off. The leak kept that phone switched off and turned it on only to send a text or to wait for one. So the one way to get it switched on, in somebody's pocket and in a room with them, was to send it a text it had to answer.
 
@@ -18,11 +18,15 @@ Dane wrote it the boy's way and held the screen out to her.
 
 "That's him," she said.
 
-He fetched the second quilt and rolled it long. "Here's how this goes. This goes on the daybed, and you go in the back bedroom."
+He fetched the second quilt and rolled it long. "Right. This goes on the daybed, and you go in the back bedroom."
 
 "No." She didn't move. "Whoever comes will kneel and put a hand on him. A quilt doesn't breathe. I want to be the one they find."
 
-He threw the quilt back through the bedroom door. "You're right, which I'm going to hold against you. The first hand on it would know, and they'd be gone before I could stop them."
+He held the quilt and looked at her. "If the kid comes instead, you're lying in the dark with your back to the door."
+
+"With you at the door."
+
+He looked at her a while longer. Then he threw the quilt back through the bedroom door. "You're right, which I'm going to hold against you. The first hand on it would know, and they'd be gone before I could stop them."
 
 He stood a moment with his hands empty.
 
@@ -34,9 +38,9 @@ He unlocked the front door so it would open fast, and left it shut. "This is the
 
 "Fine. If it's the kid, I go. Anyone else, I stay till I've seen the face."
 
-"If it's the kid, the plan is I shoot him. If it's Tess, the plan is you explain."
+"If it's the kid, the plan is I shoot him. If it's Tess, you explain to her why I've got a gun on her."
 
-"If it's Tess, the plan is run."
+"If it's Tess, I'm going out the back. She'll skin us both."
 
 "You'd leave me here with her."
 
@@ -62,9 +66,9 @@ At the kitchen window, where the one bar was, he texted his boss with the screen
 
 *I want to bring the leak here with a text from the kid's phone. Beth plays the boy on the daybed. I take the door. I need your go.*
 
-He waited.
+He waited eleven minutes, with the cold coming up through the floor.
 
-*Go.*
+*Go. Your call, your badge.*
 
 He sent the bait.
 
@@ -99,8 +103,6 @@ It came again.
 It came again, and again, in time with the sea: the kid's skiff, half full of water, lifting on the tide and dropping back onto the stones.
 
 Dane listened until he was sure it kept time with the sea and nothing else. Then he went back to his corner.
-
-Neither of them said it was nothing.
 
 "Talk to me," Beth said into the dark.
 
@@ -154,7 +156,7 @@ Snow melted off his jacket onto the dentist's floor. The kitchen smelled of kero
 
 His hand went to his belt, to the rope knife every man on the ferry wore for cutting a rope in a hurry. The blade came out over Beth.
 
-He meant to cut a sleeve off a wound. Dane's gun came up anyway.
+Dane's gun came up.
 
 Beth sat up out from under both blankets.
 
@@ -178,7 +180,7 @@ Ned took out a cheap phone. It was lit and shaking in his big hand, with the kid
 
 Dane ended the call and put the kid's phone in his shirt pocket. He took the knife off Ned's belt and put it in his right coat pocket, then held out his free hand. Ned gave him the phone, and it went in the left coat pocket. The knife on the right, Ned's phone on the left, the kid's phone over his heart, the gun in his hand.
 
-Dane, who talked through everything, stood by the door of a stranger's kitchen with his mouth shut. This was hers. He hated watching her do it, and he would not take one word of it from her, and at the back of his head Cole's lawyer was already asking twelve people from Maine to picture an old man on his knees with a blanket. He held his tongue. He was bad at it.
+Dane, who talked through everything, stood by the door of a stranger's kitchen with his mouth shut. This was hers. He hated watching her do it, and he would not take one word of it from her, and at the back of his head Cole's lawyer was already asking twelve people from Maine to picture an old man on his knees with a blanket.
 
 Beth sat with one hand flat on the daybed beside her.
 
@@ -222,15 +224,13 @@ Beth pulled his blanket off her legs and folded it square.
 
 She put it in his arms. He set it on the chair by the daybed.
 
-"Ned," Dane said, "you're under arrest." It came out rough. He liked the man.
+"Ned," Dane said, "you're under arrest." It came out rough.
 
 Ned held his wrists out together. He held them out to Beth.
 
-Dane's cuffs were at the bottom of the bay.
+Dane had no cuffs.
 
 Beth got up off the daybed, took the length of rope from around the kindling in the woodbox and came back. She knelt on her good knee in front of him and tied his wrists with the knot he had taught her on the car deck when she was nine, the one that only pulls tighter.
-
-Whatever Ned said next, about why he had sold her, would take the last of him away from her, and Dane could not stand in front of it.
 
 Ned looked at the cold stove.
 

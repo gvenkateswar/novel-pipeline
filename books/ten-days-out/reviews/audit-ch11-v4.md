@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–11, 23,944 words)
+# Audit — ten-days-out (chapters 01–11, 23,949 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -35,7 +35,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "Ask for ID" (Tess) | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
 | "You're the other one" (Ch 15) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
 | "Till then you bail" (Ch 18) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |  |
-| "Here's how this goes" (Dane) | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 | 3 |  |
+| "Here's how this goes" (Dane) | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |  |
 | "Talk to me" (Dane) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 5 |  |
 | "Ms. Calloway" (Dane, first night and angry) | 3 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 8 |  |
 | "Okay" (Dane, at most once a chapter; Beth never as a pivot) | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 18 |  |
@@ -60,7 +60,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 
 ### Frequent 3–5 word n-grams (4+ uses, whole book)
 
-- 12× “the kid's phone”
+- 13× “the kid's phone”
 - 11× “the harbor road”
 - 10× “his boss said”
 - 10× “the north beach”
@@ -94,12 +94,12 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 4× “the dyer house”
 - 4× “hand flat on”
 - 4× “dane said the”
+- 4× “through the floor”
 - 4× “he could see”
 - 4× “dane took the”
 - 4× “the north-side house”
 - 4× “a long way”
 - 4× “both hands on the”
-- 4× “beth said from the”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
@@ -129,7 +129,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 08 | 1,953 | 13.9 | 10.3 | 19% | 0.0 | 0.0 | 0.0 | 2 | short |
 | 09 | 2,092 | 14.1 | 10.2 | 20% | 0.0 | 0.0 | 0.0 | 4 | short openers |
 | 10 | 2,466 | 14.3 | 10.4 | 15% | 0.0 | 0.4 | 0.0 | 3 |  |
-| 11 | 1,987 | 12.9 | 9.0 | 19% | 0.0 | 0.0 | 0.0 | 3 | mean short |
+| 11 | 1,992 | 13.0 | 9.0 | 18% | 0.0 | 0.0 | 0.0 | 3 | short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -173,7 +173,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | em dashes | 2 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 5 | 0.2 | 2.0/1k |  |
 | semicolons | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 2 | 0.1 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 0 | 0 | 1 | 3 | 1 | 3 | 0 | 0 | 2 | 3 | 1 | 14 | 0.6 | 1.0/1k |  |
-| one-sentence paragraph | 16 | 27 | 35 | 34 | 20 | 14 | 40 | 20 | 27 | 36 | 42 | 311 | 13.0 | report |  |
+| one-sentence paragraph | 16 | 27 | 35 | 34 | 20 | 14 | 40 | 20 | 27 | 36 | 41 | 310 | 12.9 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 

@@ -159,6 +159,21 @@
 
 ---
 
+## Chapter 11 — Somebody's Boy
+
+*From `chapters/chapter-11/final.md`, 1,999 words, after one reader-fix round (cold reader 7 of 10, "I'd keep reading, but… the mystery is spent before the chapter; 'Why?' has to deliver something new"; plain reader PASS). POV: Dane.*
+
+**What happened:** Wednesday Nov 18, about 2 a.m. to before dawn, the Pruett dentist's house. Dane learns the kid's texting style (small letters, no names, a period after most of it). At a quarter past two he rings the leak's number: off (the leak turns it on only to send a text or wait for one). He writes the bait from the kid's phone: shot, bleeding, come alone, the house up the hill at the east cove. Dane wants a rolled quilt on the daybed; Beth says no ("A quilt doesn't breathe"); he pushes back once ("your back to the door" / "With you at the door") and gives in. Exit plan: she goes out the front if it's the kid; anyone else, she stays till she's seen the face. Front door unlocked, left shut. He texts his boss; eleven minutes; *Go. Your call, your badge.* Kid's phone on silent so the number that keeps calling can't ring. Stove damper shut; the house goes cold by three. The leak answers *coming.* The sunk skiff knocks on the rocks (a scare). Dane whispers to her about the old boat he wants. A lantern on the lane, dipping on every other step: a big man favoring one hip. Ned, with the ferry's first-aid box and his good blanket, calls the shape "son", lays the blanket over it, draws his rope knife; Dane's gun comes up; Beth sits up. Dane rings the leak's number at about four; Ned's coat buzzes. Ned admits it: Russ's porch, the north-side house, the north beach at three, the fake call from the Dyer phone ("That was me." / "Me." / "Me."). He told Tess "I could see his light from there" to get Russ off the porch unhurt. "Ned, you're under arrest." Dane has no cuffs; Beth ties Ned's wrists with the rope from the woodbox, with the knot he taught her on the car deck when she was nine. "He's somebody's boy, Bethie." She asks "Why?"
+**What changed:** Ned is exposed as the leak (about 63%). He is roped and under arrest. The kid is still loose with a pistol.
+**Pockets at the end:** Ned's phone in Dane's left coat pocket; Ned's knife in his right; the kid's phone in Dane's shirt pocket; the gun in Dane's hand.
+**Objects / details introduced:** the ferry's first-aid box (Ned brought it; replaces the empty trauma kit for Ch 13); Ned's good blanket; Ned's lantern; the dentist's rope.
+**Plants placed:** "Why?" (→ Ch 12); the old boat Dane wants (→ Ch 18); the knot (→ later).
+**Numbers stated:** quarter past two (first call, off); eleven minutes (boss reply); about four (second call, the coat buzzes); the knot at nine; an hour's walk for Ned.
+**Bethie count:** 1 this chapter (about 9 total; cap 10).
+**Ends on:** before dawn Wednesday, Beth holding the rope: "Why?"
+
+---
+
 ## Plant ledger
 | Plant | Placed Ch | Pays off Ch | Status |
 |---|---|---|---|
