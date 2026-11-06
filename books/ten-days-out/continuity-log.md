@@ -146,6 +146,19 @@
 
 ---
 
+## Chapter 10 — The Blood Trail
+
+*From `chapters/chapter-10/final.md`, 2,477 words, after one reader-fix round (cold reader 4 of 5, "I'd keep reading"; plain reader PASS). POV: Beth. Back half rebuilt (outline Nov 5).*
+
+**What happened:** Tuesday Nov 17, dusk into the small hours of Wednesday. Behind the split rock Beth says "Not Ned." Dane wins the hunt on the merits (the kid is bleeding; the snow holds his trail under an hour; she's wet to the neck). Terms: he goes first; "your shore and my trail." He reads the blood trail in silence. At the east cove the kid (young, scared, gray; wounded in the left arm) is at his skiff. "Put it down." Dane tears the rifle off him and takes him by the collar (his cuffs are at the bottom of the bay); the kid tears loose and comes up the rocks at Beth with a pistol; Dane can't fire with her in the line; Beth throws herself off the rock and opens her knee; the kid pistol-whips Dane (scalp split) and runs uphill and inland. Dane's second swear ("Fuck"). Dane keeps the kid's phone unlocked (thumb moving on it) and the rifle, and puts a rock through the skiff's bottom: "Now there's one way off this island." / "And it's my ferry, once I fix the steering." Why not take the skiff: swamped at the ledges, the rocks just under the water at the harbor mouth; a skiff would take three hours in that sea. The storm hits; the shore path back is two hours along rocks the kid could shoot down onto. The Pruett dentist's summer house above the cove: Beth closed it up in October; the key on the ring in her pocket. She kisses him at the back door; "Door first." Front door bolted since October; he wedges the back door with a chair; the stove lit (reason given); one bar of signal at the kitchen window. He dresses her knee; she cleans his scalp with the kit's last gauze ("After." paid). Heat #3, lit and slow, on the daybed facing the back door: "Can you see it?" / "Yes."; "Beth?" / "That's a yes. I turned us round for it."; the foil from her coat pocket on the chair; "I've watched your hands all day."; "Beth. I—" / "Don't say it yet." After: "I'll take the first watch." The kid's phone: one number texted him *constable's. ill get him off the porch.*, *north side house*, *north beach 3*; another number called him four times, never texted. The boss was the only one who knew the lighthouse and it was never sent, so not the boss; the Marine Patrol never had the north-side house. Dane texts his boss; *Records on her three came back clean. Keep it on. Don't answer it without me.* Clean records meant a second phone. At two: *where r u. answer me.* "Answer him."
+**What changed:** The boss and the Marine Patrol are cleared; the leak is one of Beth's three, on a second phone. Dane holds the kid's phone and rifle; the kid is loose, wounded, unarmed but for the pistol; his skiff is sunk.
+**Objects / details introduced:** the Pruett dentist's house (front and back doors, daybed, quilt, stove, one bar at the kitchen window); the kid's phone, rifle, pistol; Beth's opened knee; Dane's split scalp.
+**Plants placed:** the second number (→ Ch 12, the lawyer); the bait (→ Ch 11); "Don't say it yet" (→ Ch 17); the ferry's steering to fix (→ Ch 14).
+**Numbers stated:** three texts; four calls; under an hour; two hours along the shore; three hours by skiff.
+**Ends on:** the daybed, about 2 a.m. Wednesday, "Answer him."
+
+---
+
 ## Plant ledger
 | Plant | Placed Ch | Pays off Ch | Status |
 |---|---|---|---|

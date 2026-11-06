@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–10, 21,930 words)
+# Audit — ten-days-out (chapters 01–10, 21,995 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -81,9 +81,9 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 4× “the marine patrol”
 - 4× “and said nothing”
 - 4× “put his hand”
-- 4× “watched his hands”
 - 4× “took her hand”
 - 4× “truck was clean”
+- 4× “beth said and”
 - 4× “without a word”
 - 4× “the whole road”
 - 4× “the kitchen window”
@@ -128,7 +128,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 07 | 2,371 | 11.9 | 8.4 | 26% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 | 08 | 1,953 | 13.9 | 10.3 | 19% | 0.0 | 0.0 | 0.0 | 2 | short |
 | 09 | 2,092 | 14.1 | 10.2 | 20% | 0.0 | 0.0 | 0.0 | 4 | short openers |
-| 10 | 2,439 | 14.4 | 10.4 | 15% | 0.0 | 0.4 | 0.0 | 3 |  |
+| 10 | 2,504 | 14.5 | 10.5 | 14% | 0.0 | 0.4 | 0.0 | 3 |  |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -172,7 +172,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | em dashes | 2 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 5 | 0.2 | 2.0/1k |  |
 | semicolons | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 2 | 0.1 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 0 | 0 | 1 | 3 | 1 | 3 | 0 | 0 | 2 | 3 | 13 | 0.6 | 1.0/1k |  |
-| one-sentence paragraph | 16 | 27 | 35 | 34 | 20 | 14 | 40 | 20 | 27 | 37 | 270 | 12.3 | report |  |
+| one-sentence paragraph | 16 | 27 | 35 | 34 | 20 | 14 | 40 | 20 | 27 | 36 | 269 | 12.2 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
@@ -194,5 +194,4 @@ Caps: at most 2 distinct terms in the book's first 1,000 words; at most 6 distin
 | 07 | 2 | 2 | 0.8 | ledges? 1, grand jury 1 |  |
 | 08 | 3 | 5 | 2.6 | hatch 2, grand jury 2, ledges? 1 |  |
 | 09 | 0 | 0 | 0.0 |  |  |
-| 10 | 2 | 6 | 2.5 | skiff 5, ledges? 1 |  |
-- Audit ch10 v4: clean; Ch 10's two contrast hits are false positives across sentence breaks ("it didn't show. He was hard…"; "He didn't take it yet. He was already…"); Ch 02's three as before.
+| 10 | 2 | 7 | 2.8 | skiff 6, ledges? 1 |  |

@@ -1,6 +1,6 @@
 # Chapter Ten: The Blood Trail
 
-"Not Ned," Beth Calloway said, and heard how it sounded out loud.
+"Not Ned," Beth said, and heard how it sounded out loud.
 
 Dane crouched in front of her behind the split rock. To the south the storm stood like a black wall, and the first hard snow hissed on the granite by her face.
 
@@ -8,13 +8,13 @@ Dane crouched in front of her behind the split rock. To the south the storm stoo
 
 "He stood in the sea for me."
 
-"I know. Every night so far the kid's picked the place. He's hit and bleeding, and the snow holds his trail until that storm fills it in, which is under an hour. For once he's weaker than we are, because he's the one with a hole in him."
+"I know. Every night so far the kid's picked the place. Tonight he's bleeding, and the snow holds his trail for under an hour."
 
 She put her cold hand inside his coat, flat on his wet shirt, for the warmth.
 
 He didn't stop arguing, and he didn't move her hand.
 
-"And that hand's my next point. You're wet to the neck. Sit behind this rock while that comes in and you freeze, and the lighthouse is a mile back the wrong way."
+"And that hand's my next point. You're wet to the neck. Sit behind this rock and you freeze."
 
 "It's nearly dark," she said. "There's a storm coming. He's got a gun, and you'll be in front of it."
 
@@ -58,7 +58,7 @@ Dane's hand pressed once on her shoulder. Stay. He went down the rocks fast and 
 
 "Put it down."
 
-The kid dropped the phone and swung the rifle on its strap, but Dane was on him first. Dane tore the strap off his shoulder, the rifle hit the stones, and he kicked it away.
+The kid dropped the phone and swung the rifle on its strap, but Dane was on him first. Dane tore the strap off his shoulder, the rifle hit the stones, and he kicked it away and took the kid by the collar. His cuffs were at the bottom of the bay with the rest of his kit.
 
 The kid tore loose with a high sound, his hurt arm wrenched, and came up the rocks at Beth, dragging a pistol out of his hoodie pocket.
 
@@ -90,7 +90,7 @@ Dane lifted a rock off the beach and put it through the bottom of the skiff, twi
 
 "Now there's one way off this island."
 
-"And it's my boat."
+"And it's my ferry, once I fix the steering."
 
 The skiff settled on the stones with the sea coming in through the hole. Then the snow came, all at once, sideways out of the south.
 
@@ -104,7 +104,7 @@ The storm hit as they climbed the path from the cove.
 
 "So we stay up here. He went inland bleeding. He won't come back to a sunk boat and a man carrying his rifle."
 
-"The Pruett dentist's house," she said. "I closed it up in October. The key's on my ring."
+"The Pruett dentist's house," she said. "I closed it up in October. The key's on the ring in my pocket. It went in the sea with me."
 
 It stood at the top of the path, every window shuttered.
 
@@ -126,7 +126,6 @@ He lit it, pulled the left one, and set the stove door open a crack. Orange ligh
 
 In that light the blood showed through her torn knee, and he looked at it. He sat her on the daybed, and that was when the knee started to hurt. He cut her jeans open above it and cleaned the cut. He closed it with thin strips from the trauma kit that pulled the edges together, then a pad and tape, quick and sure.
 
-She watched his hands.
 
 "You're good at this," she said.
 
@@ -234,7 +233,7 @@ Hours later the stove was a red bed behind its door. Dane sat on the floor again
 
 One number, no names:
 
-*constables. ill get him off the porch.*
+*constable's. ill get him off the porch.*
 
 *north side house. russ has the key.*
 
