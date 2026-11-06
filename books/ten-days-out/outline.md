@@ -618,3 +618,539 @@ The Ch 14 cold reader predicted, at 60–90%: she testifies; she runs her father
 - Ch 09: Ned no longer confesses to night runs; he guessed and let himself not know; his son is on drugs in Portland since the summer. So Ch 12 is the reader's first word of night runs and Cole's phone: it must read as part of the reveal, plainly.
 - Ch 09: Tess sent the boat to the north rocks on the radio before Beth signaled; "Tess has known where I'd go since we were six." Innocent; no payoff required.
 - Caps after Part A: "Dollar says" 4 of 4 (Ch 06, 14, 15, 18) and "I don't bet" 2 of 2 (Ch 06, 14). The merged Ch 14 keeps at most what it needs; nothing new. Russ's cap gesture only in Ch 04 (cut it in Ch 12 and 18). "A teenager's knots" only in Ch 02 (cut it in Ch 14 and 15).
+## Manuscript revision (Nov 6, author-approved): Ch 12–17
+
+*Story-architect, Nov 6, 2026. The author approved Part B of `reviews/revision-brief.md` on Nov 6 ("Full fix"). This section is built from:*
+- *the revision brief (Part B is binding);*
+- *the Part A carry-forwards above ("Part A carry-forwards for the back-half rebuild");*
+- *`reviews/pull-curve.md` (the stop at Ch 12, about 66%);*
+- *`manuscript-reader-notes.md`;*
+- *`reviews/manuscript-audit.md` (F1, F3, F5, F7, F8, F10, F12, F15, F17, F18);*
+- *`reviews/manuscript-continuity.md`;*
+- *`genre-maps/romance.md`;*
+- *`manuscript.md` (Nov 6 build).*
+
+*Line numbers are `manuscript.md` line numbers in the Nov 6 build. Part A didn't touch Ch 12–18, so those numbers still point at the current text. Everything above this section stands unless a line below replaces it, and where the two disagree, this section wins for Ch 12 onward.*
+
+*The outcomes don't change. Beth and Dane win and end up together. Ned is the leak. The climax happens inside the ledges, and she testifies to the grand jury. The HEA is at Thanksgiving, and the Book 2 hooks stay: the big boat that got away, the phone somebody on Cutter planted, and Russ and Tess.*
+
+---
+
+### The book becomes 17 chapters
+
+| New | Old | Title | POV | Words | Runs to |
+|---|---|---|---|---|---|
+| 12 | 12 (rebuilt) | The Hold | Beth | 2,150 | ~65% |
+| 13 | 13 (one new scene) | Her Father's Kitchen | Dane | 2,100 | ~71% |
+| 14 | 14 + 15 (merged) | The Wheel | Beth, then Dane | 2,300 | ~77% |
+| 15 | 16 | Inside the Ledges | Beth | 2,200 | ~83% |
+| 16 | 17 | In the Room | Beth, then Dane | 2,000 | ~94% |
+| 17 | 18 | Full Price | Beth | 1,700 | 100% |
+
+**Ch 12–17: about 12,450. Book: about 36,500,** with Ch 01–11 at about 24,100 after Part A. The writer runs ±10%.
+
+**POV.** Ch 14 switches from Beth to Dane at the scene break before the public yes, the way Ch 01 and Ch 16 switch. From Ch 14 on, the even/odd rule gives way to "the climax is Beth's." Every chapter and every switch still names the viewpoint character in its first sentence.
+
+**Genre-map beats after the change:**
+
+| Beat | Required | Lands |
+|---|---|---|
+| Rupture | 65–78% | Ch 12 s4 (~64–65%) |
+| Repair: accountability and verification | 75–88% | Ch 14 s3 (~74%). "Cancel it," and he cancels it in front of her. |
+| Repair: condition | | Ch 14 s3, straight after |
+| Repair: the ordinary beat, and the public yes | | Ch 14 s4 (~75%) |
+| Relationship point of no return | ≥ 60% | Ch 14 s3 |
+| Declaration | 88–95% | Ch 16 s3 (~89%) |
+| HEA | last 5% | Ch 17 |
+
+*Pacing flag:* the rupture and the repair both land about 1% early, because the cut middle pulls everything after Ch 11 forward. I'm accepting that rather than padding the book. If Ch 12 runs long, both move back into their bands.
+
+---
+
+### What the rupture is now (B1)
+
+**The act.** On Tuesday night, at the dentist's kitchen window, Dane texted his boss about the kid's phone with the screen turned so Beth could read it (Ch 10, line 2137). A few minutes later he sent a second text, and he didn't turn the screen for that one:
+
+*After Monday ask the AUSA for the material-witness hold. She doesn't go back on that ferry.*
+
+The boss agreed. On Monday at two, after Beth testifies, the prosecutor will ask the judge for a material-witness warrant. Beth would be held in Portland, under guard, until the spring trial, or until she signs for witness protection.
+
+**Why he did it.** Since Ch 01 Dane's method has been to ask, and every time he has asked, Beth has spent her own life. She told her three about the north-side house, and it burned. On the tower (Ch 08, after Part A) he wanted to tell her people five o'clock and bring the boat at three. His boss overruled him for her test, and Beth wanted her people told the truth by her. A Marine Patrol officer was shot at three. Then, on Tuesday, a pistol came up at her on the cove rocks. That night he stopped trusting the asking and did the one thing his method forbids. He did it knowing every fact. It's the condemnable choice the genre map asks for, and it's his.
+
+**How she learns it.** In Ch 12 the boss is on speaker in front of her. The boss assumes Beth knows. Beth asks "What hold?", and Dane tells her all of it at once, to her face. Nobody overhears anything, and nobody misunderstands anything.
+
+**Why it holds (the one-talk sentence).** *If they sat down and told each other the whole truth, this would still be a problem, because the truth is that he has asked for her to be held and won't withdraw it. He believes the hold is the only thing between her and New Bedford, and she won't be with a man who has her locked in a room for her own good. No conversation can undo a request filed with the prosecutor. Only he can, and in Ch 12 he tells her to her face that he won't.* Both are partly right. He's right that she'll probably die on Cutter, and she owns the beach. She's right that the decision was hers and that he went round her.
+
+**Why it doesn't end in Ch 13.** She asks him to cancel it twice: on the boat in Ch 12, and on her step in Ch 13 with Russ's blood on her hands. He doesn't. Then Cole's man walks up to the town office in daylight (Ch 13 s5), which makes Dane surer than ever.
+
+**What changes his mind (Ch 14).** On Friday night she takes the ferry off the pier, which he would have left, and holds the jammed wheel while the skin comes off her palms. She's right both times, and he cut the rope when she said to. He watches her price her own risk on her own water, and price it correctly. At dawn she says "Cancel it," and he cancels it on speaker, in front of her. He keeps his view: "I still think you should go. It was never mine to say."
+
+**Required plant outside the range (Ch 11, one line, no plot change).** Ch 11 is Dane's POV, and he texts his boss in it (line 2221). If the hold isn't in his head there, Ch 12 is a POV cheat. Add one line after "*Go. Your call, your badge.*" (line 2225), in Dane's head:
+
+> Above it on the screen sat the other text, the one he hadn't turned round for her at midnight. He put the phone in his pocket.
+
+The text itself isn't quoted, so a listener knows there's something without knowing what. That gives Ch 11 s2 its irony: he tells her about his boat in the dark with that text already sent. In Ch 12 she says so.
+
+---
+
+### The face on the danger (B2)
+
+**Hal Mercer** is the skipper of the big boat and the voice on the radio in the climax. He comes ashore in daylight on Thursday (Ch 13 s5).
+
+- **Look, for a listener:** a big, slow man in his sixties. A red beard gone white at the chin. A gold tooth when he smiles, and he smiles often. A new orange float coat. Bare-headed in the cold.
+- **Voice tag:** he calls Beth "Captain." She isn't captain until June, and he knows about June. He says it on the town office step and again on the radio in Ch 15, so a listener hears the same man both times.
+- **The name** is the one he gives. Dane writes it down and photographs him. In Ch 17 there's no Hal Mercer on any license out of Gloucester (Book 2).
+- **Why he comes:** to look. He wants to see her, the state of the ferry (the bent steering rod is across her knees), who guards the town office, and whether the kid is alive and talking. He also wants to frighten her into waiting until Tuesday, after Cole walks. He lands in the big boat's skiff on the lee shore of the harbor point and walks in along the point road. The harbor mouth is white water, but the lee shore isn't.
+- **Why Dane can't arrest him:** a man laying in out of the weather walks up a public road and offers gauze for a shot man. Nothing he says is a crime on its face. Dane photographs him, sends the photo to his boss, and follows him back to his skiff with the rifle.
+- **How he knew Russ was shot:** Tess's island radio, which every boat at sea can hear. The Coast Guard told her over it how to swap the strap. This plants Ch 15, where the big boat listens to the ferry's radio.
+- **The lawyer's channel (audit F19):** Mercer watched Dane step in front of Beth on the step. That's where Ch 16's "keeping you warm" comes from.
+
+**The boat's timeline changes.** The big boat arrives Thursday late morning, between the kid's "They've got a boat" and Mercer's walk. It lies off the point Thursday, Friday, Saturday and Sunday. It's no longer first seen at dawn on Saturday. Ch 15's "with the boat off the point watching" (line 3257) is now correct, so leave it as written. Continuity Issue 19 is retired.
+
+---
+
+### Plot logic folded in
+
+| Item | Answer | Where |
+|---|---|---|
+| Cole's phone and the night runs, first told to the reader (Part A moved them out of Ch 09) | These are part of the reveal, said plainly, under fire. | Ch 12 s1 |
+| Why the load rode Beth's Thursday run (F5) | Ned: "The blow was coming. No night run till it passed, and Cole wouldn't wait on it. He said you never open a truck." | Ch 12 s1 |
+| Did Ned know a man would come to her door? (F5) | Beth asks. Ned: "I didn't let myself think it." | Ch 12 s1 |
+| Why they walk Ned a mile of open road (F12) | "No truck could get up the dentist's lane in that drift." | Ch 12 s1 |
+| Russ's lie (F6, and the Ch 03 porch call after Part A) | "You asked who I told you were at my place. I told her. Friday night, from my porch, before the shooting. And Saturday's call at the store was me telling her I'd found you alive." | Ch 12 s2 |
+| Talk-only scenes back to back (F15) | Ch 12 s3 gets an event: Ned comes up off the floor for his phone, and Beth puts him back down. Ch 12 s4 moves from the town office to the ferry, where she starts on the steering. | Ch 12 s3, s4 |
+| The steering failure (continuity Issue 13) | "The first storm bent it and tore it off the rudder." | Ch 12 s4 |
+| Why nobody boards the supply boat (F7) | The boss: the Coast Guard can't put a boarding team across in this sea, and a boat laying in out of the weather, whose skipper broke nothing, hasn't done anything they can board it for. | Ch 14 s3, one clause in the boss's one plain line |
+| The phone's date (F3) | Its call log says it was first switched on Saturday at twenty to one. The ferry sat empty at the pier all Saturday while Beth and Dane were at the co-op vise, and Dane owns that. | Ch 14 s5 |
+| The phone's job (F3) | "From the point they can see the pier all day. In the dark they can't see it leave." | Ch 14 s5 |
+| Who could have planted it (F3) | Several people. Ned and the kid were tied all Saturday. Tess walked past the pier twice with wood for Russ's stove. Two co-op men took turns at the vise, and one was gone twenty minutes. Anyone on the harbor road could have. Nothing put off from the big boat all day: Tess watched it through her store binoculars, which makes her the witness for its innocence and keeps her on the list. | Ch 14 s5 (two lines in Dane's head); Ch 17 s5 (said aloud) |
+| The gap: depth, not width (F8) | A narrow way along the shore, on water deep enough for the ferry. The big boat draws twice what the ferry does, came in blind on her lights, and hit bottom beside the gap. | Ch 15 s3 |
+| Why the Coast Guard loses it (F7) | Its one light goes out, and the snow closes behind it. | Ch 15 s4 |
+| Dane pays for sleeping with the witness (F10) | In the grand jury room the prosecutor makes the cost plain: he was taken off her protection at six that morning, and he'll answer for it under oath at the spring trial. Ch 17 adds the desk and the letter in his file. | Ch 16 s2; Ch 17 s3 |
+| Why Dane says "on the other side" (F18) | "When nobody's paying me to stand here." | Ch 14 s3 |
+| Why Cole's people don't raid the town office | A marshal with a rifle and a shotgun, behind a lit window, in a village of two hundred and forty. A lost ferry looks like the storm, and a shot-up town office looks like murder. Dane thinks it in one line after Mercer leaves. | Ch 13 s5 |
+
+---
+
+### 12 · The Hold · Beth · 2,150 · Rupture
+
+**Shape:** the reckoning. A shot on the open road, a lunge in the back room, the hold found out, and the fight carried onto her boat.
+**Opens with:** keep line 2395 ("Beth had held the end of the rope for a mile of the east road before Ned answered her.").
+
+**s1 (700), the east road, Wednesday first light. Event:** Ned answers her one question at a time, and the kid fires from the wall.
+
+After Part A, this is the reader's first word of Cole's phone and the night runs, so Ned says them as a confession, plainly.
+
+- **Keep word for word:** 2395–2399; 2407–2431 (the walk, the silence by the wall, the crack, the ditch, Ned's back between her and the field, the kid running west, "he didn't shoot toward houses"); 2433–2443; 2445–2449.
+- **Rewrite 2401 as the confession,** in this order:
+  - "Two years ago Cole came down the pier on a flat night and said, after your deckhand's gone home, you take it back over alone. Two years I ran his trucks across in the dark. He gave me a phone for it. Only number he ever called me on."
+  - Beth stops. "You knew." / "I guessed, and I let myself not know."
+  - Then the son: "A man rang me on that phone the morning after. He told me the street my boy sleeps on."
+  - The rope goes slack (2399's "It jerked a little at every step" moves after this). Beth reacts at true size: eleven years beside him, and the boat she loves was carrying it.
+- **Cut:** 2403 (the recap of the three texts) and 2405 (the logistics block).
+- **Replace 2405** with one line: "No truck could get up the dentist's lane in that drift, so they walked, Dane a step wide on the uphill side."
+- **After 2411–2413 (the clean truck),** Beth: "Why my Thursday?" Ned: "The blow was coming. No night run till it passed, and Cole wouldn't wait on it. He said you never open a truck."
+- **Then Beth:** "Did you know he'd send somebody to my door?" Ned: "I didn't let myself think it." Beth stops walking (the existing 2415).
+- **If Ch 11 doesn't already carry it,** the Dyer call's getaway (continuity Issue 6) goes after the beach line: "I stood in Ellie Dyer's woodshed till Russ's truck went by."
+- **Pacing:** the confession and "Why my Thursday?" come before the shot, and the September photo, "It comes in from offshore," and the beach come after it, in the ditch, as written. No more questions than that.
+
+**s2 (400), the harbor road. Event:** Russ comes out of Tess's door at dawn with Tess behind him in his jacket, owns his lie, and takes Ned in his own cuffs.
+
+- **Keep:** 2453–2459 and 2463 ("Late." / "Not one word, Calloway."); 2467; 2471–2479.
+- **2461:** cut the cap gesture (after Part A, Russ's cap gesture is only in Ch 04). Keep his line: "Later than that," Russ said.
+- **Replace 2465** (this pays the Ch 03 porch call): "You asked who I told you were at my place. I told her. Friday night, from my porch, before the shooting. And Saturday at the store, when her phone buzzed and she hung up on it, that was me telling her I'd found you alive. Tuesday I stayed on the harbor road because her store is on it. I lied to you to keep her name out of it."
+- **Keep 2469** ("You've owned the one lie that put you on my list").
+
+**s3 (450), the town office. Event:** the lawyer texts Ned's phone, Ned comes up off the floor for it, Beth puts him back down, and Dane gets a Portland car to Ned's son.
+
+- **Keep:**
+  - 2483–2491 (the chair; "Once." / "Once is how everything starts with you.");
+  - 2493–2499;
+  - 2505–2517 (the number match, "Ninety-six Grant Street," and Beth wanting to cross the room and put her mouth on his: the chapter's longing line);
+  - 2521; 2527 ("eleven minutes"); 2533.
+- **Cut:** 2501–2503 ("He means me" and Ned's "I never would" speech).
+- **New event (F15):** when the text lands, Ned comes up off the back-room floor in Russ's cuffs. "Let me answer him. Let me tell him it's done. He'll leave my boy be." Beth gets to the doorway first on the bad knee, puts both hands flat on his chest and walks him back down the wall. "Sit down, Ned." He sits. Dane is already dialing.
+- **The son comes at a cost** (the cold reader called it too quick and easy). Replace 2525 with: "They found him. He'd used. He's breathing. They've got him in an ambulance." This plants Ch 16's clinic and Ch 17's letter.
+
+**s4 (600), the town office, then the pier and the car deck. Event:** the boss says "the hold you wanted," and Beth asks "What hold?" Dane tells her and refuses to cancel it. She walks out to her boat and starts taking the steering apart, with him standing guard.
+
+- **Keep:** 2537 ("A lawyer who can find a man's son in a morning can find a woman on an island"); 2539, with "with Beth three feet away" (this is its one use, Issue 10).
+- **The boss's speech is one paragraph,** with no break inside one speaker (the cold reader thought Dane asked "Will she take it?"): "After she testifies there's witness protection. A new name in a new state. She can't come back here, and she can't tell anyone from here where she is. Not her friends, not this island, and not you. And the prosecutor will ask the judge for your hold at two on Monday. Material witness. She stays in Portland, under guard, till the trial or till she signs."
+- **Cut:** 2543–2547 ("Will she take it?" / "She'll go.") and 2553–2555.
+- **New, in order:**
+  - Beth: "What hold?" The phone goes quiet.
+  - Dane, to her face, straight away: "I asked for it Tuesday night, at the dentist's window, after the cove. I didn't turn the screen round."
+  - "Cancel it." / "No."
+  - Dane, into the phone: "I'll call you back." He ends the call.
+  - She takes her coat off the hook and walks out. He takes the rifle and follows, because he's her guard. "Walk where you like. I'm paid to."
+- **On the car deck she opens the steering hatch** and goes down with the ferry's wrench.
+  - The rod: "The first storm bent it and tore it off the rudder." She'll take it to the co-op vise in the morning.
+  - He offers to hold the light. "Don't hold the light." He stands at the hatch with the rifle. Ch 14 pays this.
+- **The fight, down the hatch and up, with both of them partly right:**
+  - **His case, adapted from 2557:** New Bedford; "Testifying ends nothing"; the cove pistol; the wall; "The man who loved you most on this island sold you for his son, and the next one will sell you for less."
+  - **His beach line, new (matches Part A's Ch 08):** "I wanted to tell your people five. My boss wanted his test, and you wanted them told the truth by you, and a man got shot in the chest at three. Every time I've asked you, it was your life you spent."
+  - **Keep:** "I'd lose you to keep you alive."
+  - **Cut:** "I said it because I mean to make you go." The act says it now.
+  - **Her case, kept from 2559 and 2563:** "That's Cole winning. Slower. If I leave my island because a boy shot at me…" and "You're right about New Bedford. And the wall, and Ned."
+  - **Her case, added:** "And the beach. I wanted them told, and a man paid for it. It's still my life to spend."
+  - **Hers, new:** "You lay in the dark at that house and told me what you'd fix first on your boat, and you'd already sent it."
+  - **The ending exchange, 2565–2569 adjusted:**
+    - "I know. It's the one thing my job can still do for you, and I've done it."
+    - "Then they stop. And so do we."
+    - He takes it standing. "I'm still your guard until Monday."
+    - "Then stand there." (This replaces "Then feed the stove.")
+- **Cut 2573,** the afternoon of silence. This is the pull-curve stop line. Now she works and he stands guard, which is an action.
+- **End beat, kept and moved:** at dusk Beth climbs out of the hatch. Up on the east rise, seen from the car deck, smoke is rising from her own chimney, and Russ's truck sits at the foot of her lane. Keep 2577 and 2581. In 2579, "six days" becomes "five days" (Issue 11).
+
+**Romance beat:** she wants to put her mouth on his while he moves Portland for Ned; "Don't hold the light"; "And so do we," said by a woman who still wants him.
+**Danger beat:** the shot from the wall; Ned's lunge; the lawyer's reach into Portland.
+**Dane on the job:**
+- the ditch and the return fire;
+- no shot toward houses;
+- the number match;
+- a car to Grant Street inside eleven minutes;
+- the whole truth the instant she asks.
+
+**New fact:**
+- the night runs and Cole's phone (the reader's first word of them);
+- why the load rode her Thursday;
+- Ned didn't let himself think it;
+- the lawyer is running the kid;
+- the son was using;
+- the hold.
+
+**One-talk sentence:** as above. The disagreement and the breakup both survive the truth, because the act is still standing when the chapter ends.
+**End question:** *Who's in her father's house?*
+**Laugh:** "Late." / "Later than that." / "Not one word, Calloway."
+**No intimate scene. Dane doesn't swear.**
+**Pacing flag:** this is the most crowded chapter. If it runs long, s2 drops to the "Late" exchange, Russ's confession and the cuffs.
+
+---
+
+### 13 · Her Father's Kitchen · Dane · 2,100
+
+**Shape:** the raid at first light, then the enemy's face in daylight.
+**Opens with:** keep line 2585.
+
+**s1 (450), under her kitchen window, Thursday first light. Event:** the plan goes in.
+
+- **Keep:** 2585–2613 and 2617–2621.
+- **Replace 2615** (the book's one rupture recap, kept per F17) with one line in his head: "Yesterday she had heard what he'd asked for from his boss's mouth. It still stood."
+
+**s2 (550), the shot and the window. Event:** Russ steps into the doorway and takes a bullet through the door, and the kid comes out the window into Dane.
+
+- **Keep word for word:** 2625–2671.
+
+**s3 (450), the front step. Event:** Beth saves Russ's leg with her bare hands.
+
+- **Keep:** 2675–2699, 2703–2727 and 2733.
+- **Cut:** 2701 (the helicopter line, Issue 7), and from 2711 the line "She was the best thing he had ever seen at work" (a stated feeling; audit Part 7).
+- **Replace 2729:** "I want you, Marshal. I haven't stopped. Cancel it."
+- **Replace 2731** (a flat "He wanted her"): "He stood on her step with her hands in his coat and the hold still standing, and gave her nothing back but his face." He doesn't cancel. She lets go.
+
+**s4 (250), her kitchen. Event:** the mugs, the map and the kid's line.
+
+- **Keep:** 2741–2747 (compress 2737–2739 to one sentence) and 2751–2763.
+- **Cut:** 2757 ("Nobody watching this harbor would think to watch that"). It announces the climax in advance, so the predictability note applies.
+
+**s5 (400), NEW: the town office step, Thursday early afternoon, the lull between storms. Event:** Cole's man walks up to the town office in daylight and talks to Beth face to face.
+
+- **Set-up, one line:** by late morning a big fishing boat has come in off the sea and lies off the harbor point, out of the wind. Beth sits on the town office step with the bent rod across her knees, cleaning it for the co-op vise. Dane stands in the doorway with the kid's rifle. Through the open door, the kid lies tied on the back-room floor.
+- **Mercer walks down the point road alone,** with the look and the voice tag given above. At the foot of the step he says, pleasant: "Heard on the radio you've got a man shot. I've got gauze aboard, if you're short." They are short.
+- **Beth:** "We're fine."
+- **Through the doorway, Dane sees the kid see him.** The kid turns his face to the wall.
+- **Dane comes down the step and stands in front of her.** Beth gets up, steps out beside him and says to Dane, low: "Don't stand in front of me."
+- **Dane:** "Name?" / "Hal Mercer. Out of Gloucester. Laying in out of the weather."
+- **The photo:** Dane holds up his phone. "Smile." He does, and there's the gold tooth.
+- **Mercer, to Beth:** "You'll be the captain." / "Not till June." / "June. I'll call you Captain anyway. Saves time."
+- **Mercer, to the rod across her knees:** "That's no good for a crossing, Captain. Weather's no good either. I'd wait for Tuesday."
+- **Beth:** "Nobody asked you to wait," or another dry verdict in her register. The dialogue doctor chooses.
+- **He goes back up the point road.** Dane follows to the top with the rifle and watches the skiff go out to the big boat. He sends the photo and the name to his boss.
+- **In Dane's head, two plain lines only:**
+  - Mercer has been listening to Tess's radio. He knew about June, which only her people knew. And a man can't be arrested for offering gauze.
+  - Why they don't come for the town office: a marshal, a rifle and a shotgun, in a lit village of two hundred and forty. A lost ferry looks like the storm.
+- **The hold, in his head:** it was right. Monday at two.
+- **End (an action, not a button):** at dusk the big boat shows one light off the point. Beth is back on the step with the rod, and she doesn't look round at him.
+
+**Romance beat:** her bloody hands in his coat and "I haven't stopped"; "Don't stand in front of me." She wants him beside her, which pays as "Not all of her" in Ch 14.
+**Danger beat:** the shot through the door; Russ down; the man at the step.
+**Dane on the job:**
+- reads the smoke;
+- a sound plan;
+- takes the kid alive;
+- photographs Mercer and watches him back to his skiff;
+- reads the kid's face.
+
+**New fact:** "They've got a boat," then the boat itself, and the man who runs it, with a face and a name.
+**What changes:** the threat has a face; Dane is surer of the hold than ever; the kid is more afraid of Mercer than of prison.
+**End question:** *Will Dane cancel it before Monday, and what is that boat waiting for?*
+**Laugh:** "You put the mugs away wrong." / "I know which one. I'm the one who shot it."
+**Pacing flag:** two set pieces in one chapter. If it runs long, s4 compresses to the mugs and the kid's line, and s1 loses 2593–2595. s5 never goes below 400.
+
+---
+
+### 14 · The Wheel · Beth, then Dane · 2,300 · Repair: accountability, verification, condition, the public yes
+
+**Shape:** the storm night against the rocks; the dawn repair; the public yes; casting off with the enemy listening.
+**Opens with (Beth named first, no recap):** "By Friday night Beth Calloway could hear her own boat breaking itself against the pier through the town office wall."
+
+**s1 (450, Beth), the town office and the pier, Friday night, the storm at its peak. Event:** she decides to take the ferry off the pier, and Dane takes the last rope off her way.
+
+- **Keep:**
+  - 2769–2771;
+  - 2781 (Dane checks Tess's shotgun);
+  - 2787–2797 and 2801;
+  - 2833;
+  - 2837–2851.
+- **Replace 2799** (after Part A, "a teenager's knots" is only in Ch 02): "I worked the back of a lobster boat two summers. I'm good at exactly this." This is the outline's laugh line.
+- **Compress 2773** to Dane adding a fresh tie to the kid's wrists, the kid's face to the wall.
+- **Cut:**
+  - 2775, and the last two sentences of 2779 (recaps);
+  - 2777, down to one clause (Russ on the couch, holding);
+  - 2783–2785.
+- **Cut the whole hatch scene, 2805–2831,** including the rod explanation the cold reader flagged. One line at the wheel replaces it: she spent Thursday and Friday at the co-op vise on the rod, and it's back in, as straight as the vise could get it.
+- **New, one line, paying Ch 12:** before she climbs to the wheel, she puts the flashlight in his hand. He looks at it. "Tonight you hold the light."
+
+**s2 (600, Beth), the captain's cabin, all night. Event:** the steering jams toward the rocks, Beth holds the wheel while her palms tear, and Tess's light comes on.
+
+- **Keep word for word:**
+  - 2855–2881 (the jam, "Come on, damn you," the palms, the rope scar, Tess's light);
+  - 2883–2895 (the shirt; "That was my good shirt." / "You don't have a good shirt.");
+  - 2901 (kept per Issue 8);
+  - 2903–2909 (the bet: "Dollar says it holds till light." / "I don't bet on—").
+- **Trim:** "quick and sure" from 2887 (listener pass); cut 2889–2899 to one exchange.
+
+**s3 (500, Beth), the cabin at dawn, Saturday. Event:** "Cancel it," and he cancels the hold on speaker in front of her. Then her condition.
+
+- In the first gray the one light still lies off the point, closer in than last night. Keep 2915 and 2925 (Tess drives away without once swinging the light up to look at her).
+- **Cut:** 2917–2923 ("That's not from here"). The boat has been known since Thursday.
+- **Dane calls his boss on speaker** to report that the boat moved in overnight.
+- **Replace the boss's block (2929)** with one plain line: "Nothing flies before Tuesday, nobody can bring you in, and the Coast Guard won't put a boarding team across to a boat laying in out of the weather in this sea. If she isn't in the room Monday, Cole walks at two."
+- **Add one clause,** for continuity Issue 18: "And a text from a phone in nobody's name won't arrest a lawyer."
+- **Keep 2931–2933:** "Sunday night or not at all." / "Sunday," Beth said.
+- **The hold, cancelled:**
+  - Boss: "And the hold stands for Monday."
+  - Beth, to Dane, not to the phone, her raw hands on the wheel: "Cancel it."
+  - Dane looks at her hands, then speaks into the phone: "Withdraw it. Tell the prosecutor this morning. She doesn't get held, and she doesn't go into the program unless she says so. Write that down."
+  - Boss: "You asked for it Tuesday." / "I was scared, and I called it the job. Write it down." / "Written."
+- **Keep 2941–2951:**
+  - "Then she's on her own after Monday." / "Not all of her. I've put in for the Maine office."
+  - He holds out the phone. "Say it to me." The boss speaks to Beth.
+  - "I know what I'm choosing. I'm the one standing here." The call ends.
+- **New, to her face:** "Last night you took it off when I'd have left it, and you held that wheel with the skin coming off. You were right both times." Then the outline's line: "I still think you should go. It was never mine to say."
+- **Her condition (moved from old Ch 15 and changed for the hold):** "Then you ask me. Every time. Even when you're sure. And you never go round me to anybody again." / "Yes." Optional, from 2983–2985: "What if somebody's shooting at us?" / "Then ask fast."
+- **Keep 2955–2959:** five days since he said he loved her; he doesn't ask; "What do you want, Dane?" His answer becomes: "I'll tell you on the other side. When nobody's paying me to stand here." (F18)
+
+**s4 (400, Dane), the town office, Sunday afternoon. Event:** the public yes and her love answer, in front of Russ and Tess.
+
+- **Opens with Dane named first:** "Dane Reyes had the ham in the town-office oven by three, because that was the one thing on Cutter he could still fix."
+- **Setting, one line only:** the oven, the smell of cloves, Russ on the couch with his leg up, Tess at the desk with the shotgun.
+- **Keep 2971** (the ferry board gave her the boat for tonight, by his phone).
+- **Keep word for word, 3051–3079:**
+  - Beth in the doorway: "Russ. Tess. He's going to ask me something, and I'm going to say yes. I'm telling you myself, so nobody ever says it for me."
+  - "Can I kiss you? I'm asking." / "Yes… I love you. I have since the rock, when you opened your hand."
+  - Tess goes out to watch the harbor. Russ: "Well."
+- **In 3073,** "after four days of not" becomes "after three days of not" (Wednesday to Sunday).
+- **Cut everything else in old Ch 15 s1–s2, 2965–3049:** the ham-fitting, the ham bet, "Ask me when Russ stops snoring," "Is it going in?", the count of four, and "She meant Wednesday…". Keep one window look from 3049: the one light off the point, unmoved since Thursday.
+
+**s5 (350, Dane), the car deck and the cabin, eight to ten p.m. Event:** Dane finds the planted phone, Beth asks for Ned at her shoulder, Dane asks before they go, and past the harbor mouth a bigger engine comes up out of the dark.
+
+- **Keep:** 3083 and 3087–3095 (the phone under the bait truck, switched on, one bar; "Can I switch it off?" / "Off.").
+- **Replace 3085:** "All Saturday the ferry had sat empty at the pier while he held the light for her at the co-op vise. That one was his."
+- **Replace the second sentence of 3091 (the job, F3):** Dane opens the call log. "First switched on Saturday, twenty to one. From the point they can see the pier all day. In the dark they can't see it leave."
+- **Keep 3097:** "Now it has to watch for us."
+- **Who could have, in Dane's head, two lines only:** Ned and the kid were tied all Saturday, and nothing put off from the big boat. Tess passed the pier twice with wood, the co-op men took turns at the vise, and the harbor road was anybody's.
+- **Keep, compressed:**
+  - 3099 (the life jackets; Ned has never worn one);
+  - 3105 (the prisoners cross, because Tess can't nurse Russ and guard two men);
+  - 3125–3137 (Beth asks for Ned at the wheel; Dane objects to her face, then agrees, and drops the cuff key in her pocket);
+  - 3139–3141 ("Three hours at best");
+  - 3145–3147 ("Do we go?" / "Go. If it comes at us, I run inside the ledges…");
+  - 3151–3161 (cast off at ten; the bigger engine; "Tell me where it is."; the rifle to the back window).
+- **Cut:**
+  - 3101–3103 (Tess's radio, now one clause);
+  - 3107–3119, including the second "teenager's knots" at 3117. Keep only "If it sticks, I'll feel it first," as one line at the wheel, for the fear in Ch 15;
+  - 3111 (a repeated longing line).
+
+**Romance beat:** "Tonight you hold the light"; the shirt; "Not all of her"; "Cancel it," and he does; "Ask me every time"; the public yes and "I love you. Since the rock."
+**Danger beat:** the jammed wheel toward the rocks; the boat closer at dawn; the planted phone; the engine behind them.
+**Dane on the job:**
+- cuts the rope when she says;
+- wraps her hands;
+- reports the boat;
+- withdraws his own request on the record;
+- owns the unguarded ferry;
+- finds the tracker.
+
+**New fact:** the hold is withdrawn; nobody is coming; the phone was planted Saturday; somebody on Cutter did it.
+**One-talk sentences:**
+- *The storm night:* taking it off might lose the ferry, and leaving it loses it by morning. It's her call.
+- *The repair:* he keeps his view and gives up the decision, and he undoes the act in front of her. She takes the risk with it named. Neither of them gives in.
+- *Ned in the cabin:* he's the only other person aboard who knows the ledges, and he's the man who sold her. She asks; Dane objects to her face, then agrees.
+
+**End question:** *What does it want?*
+**Laugh:** "You don't have a good shirt." / "I'm good at exactly this."
+**Caps after Part A:** "Dollar says" and "I don't bet" are used once each here (2905, 2907). Nothing new.
+**Pacing flag:** this is the densest chapter in the book. Floors: s2 at 550 and s3 at 450. If it runs long, s4's setting line and s5's "who could have" lines go first. Tournament (B4).
+
+---
+
+### 15 · Inside the Ledges · Beth · 2,200 · Climax (old Ch 16)
+
+**Ripple changes only.** Everything else is kept word for word (3165–3415).
+
+1. **Heading:** "Chapter Fifteen: Inside the Ledges."
+2. **Mercer's voice (B2).**
+   - 3215: "Captain, they're an hour out. Stop your engine and we'll take you and the boy. The rest of you go home."
+   - 3261: "Captain, shut your engine off…"
+   - After 3215, one line in Beth's head: the red beard, and the gold tooth when he smiled on the step.
+   - Keep 3221–3223 ("You talk a lot, Marshal." / "Everybody says so.").
+3. **The face at the strike.** At 3295, as the one light swings up and away, Beth sees him for one second in his own deck light, behind his wheelhouse glass: the white chin, the open mouth. Nothing more. The climax has a face.
+4. **Depth, not width (F8).** Replace 3299: "It had come in blind on her lights, on water deep enough for her and not for it." Add one line in 3235–3237: at this tide the ferry floats where her father's boat floated, and a dragger draws twice what she does. *(Domain check: the drafts of a small car ferry, a lobster boat and a dragger, and the tide at about 11 p.m. on Sunday Nov 22. Fallback: set the crossing near high water and say so in Ch 14 s5.)*
+5. **The boat gets away for a reason (F7).** Replace 3361: "Its one light went out, and the snow came down between them."
+6. **The kid's statement (Issue 16).** Add after the first sentences of 3389: "Cole had me take your picture off the store board in September, so I'd know the girl on the boat." Optional clause: "The man on the radio. Mercer. That's his boat."
+7. **Continuity Issues 22 and 27.** Beth takes Ned's knife off Dane's belt before she goes down (3373). The passenger cabin has its own speaker (3217).
+8. **Everything else stays.** 3257's "with the boat off the point watching" is now correct.
+
+**End question, unchanged:** *Will she go in alone?*
+
+---
+
+### 16 · In the Room · Beth, then Dane · 2,000 · Declaration, heat #4 (old Ch 17)
+
+**Ripple changes only.** Everything else is kept (3419–3665).
+
+1. **Heading:** "Chapter Sixteen: In the Room."
+2. **The lawyer's channel (F19).** After 3427, one clause in Beth's head: "Mercer had watched Dane step in front of her on the town office step."
+3. **The cost made plain (F10).** This is the one new beat in the room, at 3469–3477.
+   - Before her question, the prosecutor tells the jurors: "Deputy Reyes was taken off Ms. Calloway's protection at six this morning. He'll answer for that to his office, and to Cole Varney's lawyers at trial, under oath."
+   - Then she asks it, and Beth answers as written: "Yes." / "No. I saw it six hours before I ever met him."
+   - Beth hears what it costs him. Give her one line in her head that knows it. Keep 3475 ("I've never told a room full of strangers who I sleep with. I'm telling you.").
+4. **The hold's payoff (B1).** After 3497, as she leaves: "At the corner door a deputy held it open for her and stood aside." No comment.
+5. **The boss's text (3513).** Add "You're off her detail. Maine still wants you. Desk." This carries the cost to the bench.
+6. **F19 line fix (3597).** "I've had you in the dark" becomes "I've had you by a stove and in the dark."
+7. **The bench (3547).** Keep "The Coast Guard looked all night and found nothing."
+8. **Flat "He wanted her" (3603).** It becomes "He did what she said, in order, and wanted every word of it" (Issue 8).
+9. **The end (3663–3665).** Keep "Will they let me stay on the island?" / "Ask them."
+
+---
+
+### 17 · Full Price · Beth · 1,700 · HEA (old Ch 18)
+
+**Ripple changes only.** Everything else is kept (3669–3917).
+
+1. **Heading:** "Chapter Seventeen: Full Price." The page title stays, and the outline's "The Right Boots" is retired.
+2. **The bet (Issue 5).** The ham bet is cut, so this is Beth's first bet in the book, and 3711's "Did you just—" lands harder.
+   - Make her side plain at 3709: "Done. It won't be."
+   - Replace 3727 so she loses happily: "It's a cup, Marshal. Take your dollar."
+   - "Dollar says" stays Dane's here (3707), so the cap holds.
+3. **The cost carried (F10).** 3807 becomes "…then the Maine office gets me. It's a desk and a door, and a letter in my file about you that goes with me. I'm good at doors."
+4. **The phone hook (F3, Issue 15).** Replace 3893: "The phone's log says it came on Saturday at twenty to one. Kyle was tied to a pipe, Ned was in cuffs, and nothing put off from that boat all day. Tess watched it. Somebody on Cutter walked down and taped it there." Keep 3895–3901 (Tess: "That counts me, Whitcomb… twice Saturday with wood for your stove." / "I'll find out." / "We'll find out.").
+5. **Mercer (Book 2).** In 3889's "one more thing," after the Coast Guard line: "And there's no Hal Mercer on any license out of Gloucester." Beth thinks of the gold tooth. Russ looks at Tess.
+6. **Russ's cap (after Part A).** No cap gesture in this chapter. 3779's "his Red Sox cap" is something he's wearing, not a gesture, so it stays.
+7. **The one light.** The old window beat with one light offshore is already gone from the page (3875: the harbor is black from the pier to the mouth). Keep it gone (F7).
+8. **Line fixes from the continuity check.** Issue 1 (3679 "that first Saturday" already holds) and Issue 17 (3735).
+9. **Ned's letter (3753)** still works with the board and with Tess writing on Tuesday.
+
+---
+
+### What depends on Part A (the Ned clues in Ch 01, 02 and 09)
+
+Checked against the Part A carry-forwards above.
+
+- **Ch 09: Ned no longer confesses to the night runs. This is load-bearing.** Ch 12 s1 is now the reader's first word of Cole's phone and the two years of night runs, and it's written as a confession, in Ned's words, under fire (s1 above). Ch 11's line "the phone Cole gave me" is answered there. Two things stay as they are:
+  - Ch 09's beach act. Ned standing in the water is paid by Ch 12's "So I came to stand where he'd have to shoot me first."
+  - Ch 09's son on drugs since the summer, which "They have my boy" relies on.
+- **Ch 02: Beth told Ned (in the wheelhouse), Tess and Russ (at the store) on Thursday night.** Ned's "I called Cole when we tied up at Pruett" holds, because he heard it first, in the wheelhouse. Nothing in Ch 12–17 needs changing for the other two.
+- **Ch 03: Russ's porch call.** Ch 12 s2's confession points at it ("Friday night, from my porch, before the shooting").
+- **Ch 08: the boss chose the three o'clock test, and Dane proposed telling her people five.** Ch 12 s4's beach line is written to match. In Ch 12 Dane names his own proposal, his boss's test and Beth's choice, and Beth owns hers.
+- **Ch 09: Tess sent the boat to the north rocks.** No payoff is needed in Ch 12–17.
+- **Caps after Part A:**
+  - "Dollar says," 4 of 4 before this rebuild: Ch 06, 14, 15, 18. This rebuild cuts the ham bet (old Ch 15), so the book is at 3 of 4: Ch 06, 14 and 17.
+  - "I don't bet," 2 of 2: Ch 06 and 14, unchanged.
+  - Russ's cap gesture: cut in Ch 12 and in Ch 17.
+  - "A teenager's knots": cut in both places in Ch 14 (2799 and 3117).
+- **Ch 11 (Dane's POV) needs the one-line hold plant** given above. It's a line fix and changes no plot in Ch 11.
+
+---
+
+### Calendar (replaces the rows from Ch 12 on)
+
+| Day | Date | Chapters |
+|---|---|---|
+| 5 | Tue Nov 17, about midnight | (off page, during Ch 10) Dane texts the hold request. The plant is in Ch 11 s1 |
+| 6 | Wed Nov 18 | 12: first light, the east road; morning, the harbor road and the son; noon, the hold found out; afternoon, the hatch; dusk, smoke from her chimney |
+| 7 | Thu Nov 19 | 13: first light, the raid; late morning, the big boat arrives; early afternoon, Mercer at the step; dusk, one light. Beth starts at the co-op vise |
+| 8 | Fri Nov 20 | Day: the vise, off page. 14 s1–s2: the night at the wheel |
+| 9 | Sat Nov 21 | 14 s3: dawn, the repair. Day: the rod at the vise, the ferry empty at the pier; the phone first switched on at 12:40 |
+| 10 | Sun Nov 22 | 14 s4: afternoon, the public yes. 14 s5: eight to ten, the phone, casting off. 15 from about half past ten |
+| — | Mon Nov 23 | 15 (about four a.m., Pruett); 16 |
+| — | Thu Nov 26 | 17 |
+
+---
+
+### Plants (changes only)
+
+| Plant | Planted | Paid |
+|---|---|---|
+| The hold | Ch 11 s1 (the unturned screen) | Ch 12 (found out), Ch 13 ("Cancel it," refused), Ch 14 s3 (cancelled), Ch 16 (the door held open) |
+| Night runs; Cole's phone | Ch 12 s1 (first word, as confession) | Ch 12 s3 (the lawyer's number) |
+| Russ's porch call | Ch 03 (Part A) | Ch 12 s2 |
+| "Don't hold the light" | Ch 12 s4 | Ch 14 s1 ("Tonight you hold the light") |
+| The steering torn off the rudder | Ch 02 | Ch 12 s4 (the hatch), Ch 13 s5 (the rod on her knees), Ch 14 s2 (the jam), Ch 15 (fear only) |
+| Hal Mercer: the beard, the tooth, "Captain" | Ch 13 s5 | Ch 15 (the voice; the face at the strike), Ch 16 (the lawyer's channel), Ch 17 (no such license; Book 2) |
+| Every boat hears the island radio | Ch 13 s5 | Ch 15 |
+| The son was using | Ch 12 s3 | Ch 16 (the clinic), Ch 17 (the letter) |
+| The phone's date and job | Ch 14 s5 | Ch 17 (somebody on Cutter) |
+| The bet | Ch 06 (Part A) | Ch 14 (nearly), Ch 17 (her first). Retire "her first in Ch 15." |
+| "Ask me in five days" | Ch 08 | Ch 14 s3 (the fifth day), Ch 16 |
+| The cost of sleeping with the witness | Ch 03, Ch 05 | Ch 16 (the prosecutor, made plain), Ch 17 (the desk and the letter) |
+
+**Motif counts after the change:**
+- "Dollar says": Ch 06, 14, 17 (3 of 4).
+- "I don't bet": Ch 06, 14 (2 of 2).
+- "I'm asking": Ch 14, 16 (2).
+- "A teenager's knots": Ch 02 only.
+- Russ's cap gesture: Ch 04 only.
+- "Captain" from Mercer: twice in Ch 13 and twice in Ch 15. Nobody else calls Beth "Captain" before June.
+
+---
+
+### For the next bible review (the orchestrator can't edit the bible)
+
+1. **Cast:** add **Hal Mercer**, the name he gives. Sixties; red beard gone white at the chin; gold tooth; orange float coat; calls Beth "Captain." He skippers the big boat, he's the voice on the radio, and he's Book 2's face. The kid's name, Kyle Pelletier, is already on the page in Ch 17.
+2. **Dane's primary condemnable choice** is now the hold: asked for Tuesday night, found out in Ch 12, cancelled in Ch 14 s3. Retire "She'll go." from the speaker table.
+3. **Add to the speaker table:**
+   - Ch 12: "What hold?" / "Cancel it." / "No." / "Don't hold the light." / "Then stand there." / "I guessed, and I let myself not know." / "I didn't let myself think it."
+   - Ch 13: "Don't stand in front of me." / "Hal Mercer. Out of Gloucester." / "I'll call you Captain anyway. Saves time." / "I'd wait for Tuesday."
+   - Ch 14: "Tonight you hold the light." / "Withdraw it… Write that down." / "You never go round me to anybody again." / "When nobody's paying me to stand here."
+4. **Retire:**
+   - "She'll go." (Ch 12);
+   - the ham-fitting lines, the ham bet and "Is it going in?" (old Ch 15);
+   - the old condition line, "you never tell anybody I said yes when I didn't";
+   - "a teenager's knots" in Ch 14 and 15.
+5. **CASE FACTS:**
+   - The material-witness hold, requested and then withdrawn.
+   - The night runs and Cole's phone, first told in Ch 12.
+   - Dane was taken off her protection Monday at six a.m.
+   - The big boat arrived Thursday the 19th.
+   - The planted phone was first switched on Saturday at 12:40.
+6. **Chapter count:** 17. Update the brief and the positions table.
+
+### For the domain checker
+
+- **The material-witness warrant (18 U.S.C. § 3144).** It would be used on a willing grand jury witness, to hold her for trial. Would a prosecutor ask for it, and would a judge grant it on the ground that "she'll be killed if she goes home"? Fallback if not: the prosecutor *will ask*, and the request alone is the act. The page never says a judge would grant it.
+- **Coast Guard boarding** of a US fishing vessel laying in out of the weather, in a heavy sea, with no offense observed.
+- **Drafts:** a small car ferry against a lobster boat and a dragger, and the tide at about 11 p.m. on Nov 22.
+- **A deputy taken off a protection detail** the morning a relationship is disclosed, and a transfer that carries a letter in his file.
+
+### Open questions with no reasonable default
+
+None. The judgement calls, with the default taken:
+1. **The hold plant in Ch 11.** The reader learns in one line that there's an unturned text, without its words. The alternative is a POV cheat.
+2. **The merged Ch 14 switches POV mid-chapter:** Beth, then Dane.
+3. **The boat arrives Thursday instead of Saturday,** so Mercer can come ashore in the lull.
+4. **Mercer's name and look** as given here. The author may rename him freely, because nothing else hangs on the name.
+
+### Orchestrator override to the Nov 6 amendment (binding)
+- The rule from rebuild-brief-v4 item 8 stands: no withheld secret drives a conflict between the leads. So Dane does not hide the hold. Drop the Ch 11 plant. In new Ch 12, before the boss's speaker call, Dane tells Beth himself, to her face and plainly: last night he asked his boss to have the prosecutor seek a hold on her after Monday, under guard in Portland until the trial or until she takes witness protection. He says why. The boss's call then confirms it's filed. "Cancel it." / "No." The fight, the one-talk test (the request is filed and he won't withdraw it) and the repair in the merged Ch 14 stand as amended.
