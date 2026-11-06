@@ -1,4 +1,4 @@
-# Chapter Eighteen: The Right Boots
+# Chapter Eighteen: Full Price
 
 Beth Calloway bailed out Dane Reyes's brand-new old boat on Thanksgiving morning, laughing too hard to do it well.
 
@@ -8,9 +8,9 @@ He sat on the engine box with his coffee mug. He dipped it into the water around
 
 "I know. I'm bailing."
 
-She scraped the bucket along the bottom planks and threw the water over the rail. Cold water came over her ankles again before the bucket was back. The harbor lay so still she could hear each throw land.
+She scraped the bucket along the bottom planks and threw the water over the rail. Cold water came over her ankles again before the bucket was back.
 
-It was a wooden lobster boat, older than both of them, its cedar planks gone gray. He had bought it by phone on Tuesday without seeing it. It was the boat in Pruett he'd been driving up to see on the Saturday he got the call instead. It had come across on her car deck Wednesday, and now it sat on Russ's empty mooring, low in the water and leaking from every seam.
+It was a wooden lobster boat, older than both of them, its cedar planks gone gray. He had bought it by phone on Tuesday without seeing it. It was the boat in Pruett he'd been driving up to see on the Saturday he got the call instead. It had come across on her car deck Wednesday and sat on Russ's empty mooring, leaking from every seam.
 
 "You bought a boat you never saw."
 
@@ -42,7 +42,7 @@ Across the harbor the ferry lay at the stone pier, white in the sun. The board h
 
 Dane watched the seams with her. "Dollar says we're still bailing at noon."
 
-She looked down at the planks. She couldn't see into them. Nobody could. Wood took up when it took up.
+She couldn't see into the planks. Nobody could.
 
 "Done."
 
@@ -50,7 +50,7 @@ He stopped with the mug in the air. He stared at her, and he kept staring, and h
 
 "Bail," she said.
 
-He bailed. He told her about the engine while he did it, and how he meant to strip it down in the spring on his own days off. She wanted him, in those boots, on his leaking boat. She said it to herself in exactly those words and kept bailing.
+He bailed and told her about the engine. She wanted him, in those boots, on his leaking boat. She kept bailing.
 
 The church bell rang noon across the water.
 
@@ -114,7 +114,7 @@ She put Ned's letter in the drawer and shut it. It ran smooth.
 
 Beth heard the cane on the front step before she heard the knock.
 
-Russ stood on the step in his brown jacket and his Red Sox cap, leaning on the cane with both hands. They'd flown him out Tuesday, and he'd come home on her ferry Wednesday night against the doctor's advice, and she'd made him sit in the cabin with his leg up the whole way across.
+Russ stood on the step in his brown jacket and his Red Sox cap, leaning on the cane with both hands. They'd flown him out Tuesday, and he'd come home on her ferry Wednesday night against the doctor's advice.
 
 He ran his thumb over the pale new plug of wood in her front door, at hip height, where the bullet had come through.
 
@@ -130,11 +130,11 @@ That was all. She didn't hug her. She walked past into the kitchen and sat down 
 
 Beth set the pie on the counter and stood a moment with her hands on either side of it.
 
-Dane carved. The ham was far too big for four people, and he had known it would be when he bought it, and he carved it thick anyway while the light went yellow in the windows. Russ watched the platter come to the table.
+Dane carved. The ham was far too big for four people, and he carved it thick anyway while the light went yellow in the windows. Russ watched the platter come to the table.
 
 "Is it the same ham? It isn't."
 
-They ate. Russ had seconds and then thirds, with his bad leg out straight under the table. Tess talked to Russ and to Dane about the price of heating oil and the Patriots, and passed Beth the potatoes without looking at her. Nobody went hungry. There would be enough left for the week.
+They ate. Russ had seconds and then thirds. Tess talked to Russ and Dane about heating oil and passed Beth the potatoes without looking at her. Nobody went hungry. There would be enough left for the week.
 
 When the plates were pushed back, Dane put his forearms on the table and didn't reach for his coffee.
 
@@ -153,8 +153,6 @@ Tess looked at Dane's hands first, as if she were pricing them. Then she looked 
 Beth dried while Tess washed, and Tess ran the water too hot.
 
 Steam came up off the sink into the cold kitchen and fogged the bottom of the window. Tess pulled her fingerless gloves off to wash and set them on the windowsill, one on top of the other. Beth did that. Neither of them said so.
-
-Through the doorway Russ had his leg up on a chair, and Dane was telling him about the engine.
 
 "You'll open those hands up again," Tess said to the dishwater.
 
@@ -184,7 +182,7 @@ Beth put the towel over her shoulder. The water ran.
 
 "No."
 
-Neither of them moved. Then Tess said the true part, low, with her hands still in the water.
+Tess kept her hands in the water.
 
 "He got shot on your step."
 
@@ -192,7 +190,7 @@ Neither of them moved. Then Tess said the true part, low, with her hands still i
 
 "No. You can't."
 
-Beth owed nobody a dollar. She had made sure of it for thirty-three years. She would owe Tess this for the rest of her life, and neither of them tried to make it smaller.
+Beth owed nobody a dollar. She would owe Tess this for the rest of her life.
 
 Through the doorway Dane laughed at something Russ said and pressed a hand to his ribs where the stitches were, and went on laughing. Beth wanted to go in there and put her own hand over his.
 
@@ -236,11 +234,7 @@ Tess buttoned her coat to the chin. "We will."
 
 Dane gave Tess her pie plate and gave Russ a foil package of leftovers the size of a toolbox. Russ held it against his chest with his free arm and said nothing at all.
 
-They went out onto the step, the cane first. Tess stopped in the doorway with the cold coming in around her.
-
-"Next year's at mine, Calloway."
-
-Then she went down the path after Russ. Beth listened to the cane on the frozen road until she couldn't hear it.
+They went out onto the step, the cane first, and Tess went down the path after Russ. Beth listened to the cane on the frozen road until she couldn't hear it.
 
 Dane shut the door. He slid the new bolt he'd put on Tuesday and tried it, and then he stood with his hand on it longer than any bolt needed. Beth wanted that hand off the bolt and on her, and she crossed the room to him.
 
