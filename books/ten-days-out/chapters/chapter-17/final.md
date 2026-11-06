@@ -1,4 +1,4 @@
-# Chapter Seventeen: In the Room
+# Chapter Sixteen: In the Room
 
 Beth Calloway walked into the federal courthouse in borrowed shoes, with a marshal's blood still under her fingernails.
 
@@ -10,7 +10,9 @@ The lobby was warm after the street and smelled of wet wool and floor polish. Th
 
 "I hear the marshal's been keeping you warm."
 
-He could find out what street Ned Haskell's son slept on and make it sound like a kindness. Her taped hands wanted to close. She let them.
+Mercer had watched Dane step in front of her on the town office step.
+
+This man could find out what street Ned Haskell's son slept on and make it sound like a kindness. Her taped hands wanted to close. She let them.
 
 "Yes," she said. "I'll say so in there."
 
@@ -50,7 +52,11 @@ Beth put her taped hand up and swore to tell the truth. Then she told them.
 
 Her voice sounded smaller in here than it did on her deck. The typing went along under it and stopped each time she stopped.
 
-"Cole Varney's lawyers will raise this at a trial," the prosecutor told the jurors, "so I'd like you to hear it from her first." She turned to Beth. "Are you in a relationship with the deputy marshal who protected you?"
+"Cole Varney's lawyers will raise this at a trial," the prosecutor told the jurors, "so I'd like you to hear it from her first. Deputy Reyes was taken off Ms. Calloway's protection at six this morning. He'll answer for that to his office, and to Cole Varney's lawyers at trial, under oath."
+
+He had said it first, into his boss's phone on Saturday, and this was the bill.
+
+The prosecutor turned to Beth. "Are you in a relationship with the deputy marshal who protected you?"
 
 "Yes."
 
@@ -80,7 +86,7 @@ The prosecutor kept her an hour in a side room after, in case the jurors had a q
 
 Beth looked at the black tape on her hands. "Good," she said. "For the boy."
 
-She went out the way she'd come, down the stairs and through the corner door into the cold and the daylight.
+She went out the way she'd come, down the stairs. At the corner door a deputy held it open for her and stood aside. She went out into the cold and the daylight.
 
 Across Federal Street, on a bench in the park, sat a man in a hospital sweatshirt. He was supposed to be in a hospital bed.
 
@@ -95,6 +101,8 @@ If he'd stood in that hallway, Cole's side could tell a jury in the spring that 
 His boss had texted four minutes ago.
 
 *Voted to send him to trial. He stays in. Lawyer's downstairs in a cell. Tell her.*
+
+Under it sat the one from six that morning. *You're off her detail. Maine still wants you. Desk.*
 
 Beth sat down on his right, the side away from the stitches, and put her shoulder against his.
 
@@ -122,7 +130,7 @@ She put her taped hand over the screen and held it there. "Not yet. I want you t
 
 "I've looked at boats for two years because I wanted a way out of this job," he said. "I never said it straight to anybody."
 
-He wanted to put both hands on her face. One of them was under hers on the phone, and his side pulled when he turned, so he kept still.
+His free hand started up toward her face. His side pulled when he turned, and he put the hand back on his knee and kept still.
 
 "The Maine office has my papers. I want a worse boat than any I looked at, one that stays tied up where you can see it from the ferry, because I've never once known where I'd be sleeping a month from now, and I'd like to know. And I want you, every day you'll have me."
 
@@ -136,7 +144,7 @@ She didn't move her hand.
 
 She waited.
 
-"And after today nobody pays me to watch your door. Can I be the one who watches it anyway?"
+"And nobody pays me to watch your door now. Can I be the one who watches it anyway?"
 
 "Yes," Beth said. "From inside."
 
@@ -168,7 +176,7 @@ She had paid for the room and the drugstore bag out of the deputy's envelope, an
 
 "You were thinking about it."
 
-She got the top one, and the next with her teeth set. He sat on the edge of the bed and watched her beat every button, and when the last one went she dropped the coat and turned round, pleased with herself.
+She got the top one, and the next with her jaw set. He sat on the edge of the bed and watched her beat every button, and when the last one went she dropped the coat and turned round, pleased with herself.
 
 "Will you come to bed with me?" he said.
 
@@ -178,17 +186,17 @@ She got the top one, and the next with her teeth set. He sat on the edge of the 
 
 He lay back on the white sheets. Across the street gulls sat on a wet roof in the sun. She knelt on the bed and drew his sweatshirt off over his head, then sat back on her heels. The dressing ran white along his left ribs. She looked at that, and then at the rest of him, in plain daylight.
 
-"I've had you in the dark," she said. "I want to see you."
+"I've had you by a stove and in the dark," she said. "I want to see you."
 
 "Go on, then."
 
 "I am." She put her fingertips on his chest. "And then I want your mouth on me. Here." She touched the hollow of her throat. "And then I want you slow. Slower than you'd go."
 
-He wanted her. He did what she said, in order.
+He did what she said, in order, and wanted every word of it.
 
 She got his jeans off him. It took a while, and she made a production of it.
 
-She stood by the bed in the window light and took off her own clothes, and he watched every second of it. A healing cut ran red across one knee. She pulled the tie off her braid with her teeth and shook her hair loose.
+She stood by the bed in the window light and took off her own clothes, and he watched every second of it. A healing cut ran red across one knee. She pulled the tie off her braid and shook her hair loose.
 
 She came back down beside him and leaned over him, and he put his mouth where she'd told him to, at the hollow of her throat, and stayed there until she made a sound and her hair fell all round his face.
 

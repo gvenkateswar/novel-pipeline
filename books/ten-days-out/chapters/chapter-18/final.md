@@ -1,4 +1,4 @@
-# Chapter Eighteen: Full Price
+# Chapter Seventeen: Full Price
 
 On the last Thursday of November Beth bailed out Dane's new old boat, laughing too hard to do it well.
 
@@ -40,7 +40,7 @@ Across the harbor the ferry lay at the stone pier, white in the sun. The board h
 
 Dane watched the seams with her. "Dollar says it's dry by noon."
 
-"Done."
+"Done. It won't be."
 
 He stopped with the mug in the air. "Did you just—"
 
@@ -52,21 +52,21 @@ The church bell rang noon across the water.
 
 Her bucket scraped bare wood. A cupful lay in the bottom by the engine box, and it wasn't coming back.
 
-She dug in her coat pocket and came up with a wet dollar and put it in his hand. His hand was warm.
+She dug in her coat pocket and came up with a wet dollar. "It's a cup, Marshal. Take your dollar."
+
+She put it in his hand. His hand was warm.
 
 He folded it once and put it in his shirt pocket, over the stitches.
 
 "I'm keeping this one."
 
-"There's a cup left, Marshal."
-
-He reached for it. She got there first.
+He reached for the last cup with his mug. She got there first.
 
 * * *
 
 Beth stood in the kitchen doorway and watched Dane at the oven.
 
-He had his sleeves pushed up past the elbow, and the steam off the pan rose around his forearms when he bent to spoon the fat over. The smell had filled the house before anything else was close to ready. She leaned on the doorframe and didn't go in.
+He had his sleeves pushed up past the elbow, and the steam off the pan rose around his forearms when he bent to spoon the fat over. The whole house smelled of it already, and nothing was close to ready. She leaned on the doorframe and didn't go in.
 
 "It's Thanksgiving," she said. "That's a ham."
 
@@ -128,7 +128,7 @@ That was all. She didn't hug her. She walked past into the kitchen and sat down 
 
 Beth set the pie on the counter and stood a moment with her hands on either side of it.
 
-She lifted it out of the oven herself and set the pan in front of Russ, and Russ carved it thick from his chair while the light went yellow in the windows.
+She lifted the roasting pan out of the oven herself and set it in front of Russ, and Russ carved it thick from his chair while the light went yellow in the windows.
 
 Russ held his plate out for thirds. "Is there more? There's more. Who cooks a ham that size for four people? He does."
 
@@ -138,7 +138,7 @@ Russ laughed until he had to hold his leg. Tess passed Beth the potatoes without
 
 When the plates were pushed back, Dane put his forearms on the table and didn't reach for his coffee.
 
-"I'm on leave till January, and then the Maine office gets me," he said. "Nobody flies me anywhere from there. It's a desk and a door, and I'm good at doors. Beth has said I can live in this house, and she told me to ask the two of you, because it's your island. Can I stay? I've had worse juries."
+"I'm on leave till January, and then the Maine office gets me," he said. "Nobody flies me anywhere from there. It's a desk and a door, and a letter in my file about you goes with me. I'm good at doors. Beth has said I can live in this house, and she told me to ask the two of you, because it's your island. Can I stay? I've had worse juries."
 
 Under the table Beth's knee was against his. She watched his mouth while he said it, and she didn't care who saw.
 
@@ -220,11 +220,15 @@ Dane was still at the table, with Tess's pie plate in front of him.
 
 He had no gun. It was in an evidence locker in Portland.
 
-"There's one more thing," Dane said. "My boss called Tuesday. The Coast Guard never found the big boat. It's still out there. And the kid's name is Kyle Pelletier, by the way. He's nineteen."
+"There's one more thing," Dane said. "My boss called Tuesday. The Coast Guard never found the big boat. It's still out there."
+
+Beth thought of a gold tooth in a gray beard.
+
+"And the kid's name is Kyle Pelletier, by the way. He's nineteen."
 
 Beth said the name over once, to keep it.
 
-"He swears he never put that phone on the ferry," Dane said. "He was tied up from Thursday morning on, so I believe him. The ferry sat empty at the pier all Saturday. Somebody on Cutter walked down and taped it there."
+"He swears he never put that phone on the ferry," Dane said. "It went in Saturday. The bag was dry under Friday's ice, and the battery was near full. By Saturday he was tied on the town office floor and Ned was cuffed to the pipe. The ferry sat empty at the pier all day. Somebody on Cutter walked down and taped it there."
 
 "How many of us live on Cutter?" Russ said. "Two hundred and forty. Any one of them could walk down to that pier, couldn't they? They could."
 
