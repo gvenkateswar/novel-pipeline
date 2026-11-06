@@ -544,3 +544,8 @@ From `reviews/outline-audit-backhalf-r1.md`. Outline fix budget is now spent; th
 - **N11:** "I'm asking" at most twice in the back half; "in her/his head, plainly" never.
 - **N12:** the Ch 12 s1 ambush must not repeat Ch 09 (no tree line, no boat): a single shot on an open road, Ned in the ditch.
 - **Every boat is "it",** including in quoted bible samples ("It'll go when it goes, Bethie").
+
+### Ch 12 beat-sheet carry-forwards (orchestrator, Nov 6; binding on Ch 13)
+- Ch 13 s3: Dane uses "the ferry's first-aid box" (Ned brought it to the dentist's house); the trauma kit ran out of gauze in Ch 10.
+- Russ sits on Beth's road from about seven to dusk on the Ch 12 day; Dane guards Ned at the town office; Tess goes back to her store. Ch 13 must bring Russ in off the road overnight.
+- The second number is Cole's lawyer: Ned's phone shows one incoming call from it the morning after, and Ned names him.
