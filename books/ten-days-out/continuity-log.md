@@ -260,6 +260,18 @@
 
 ---
 
+## Chapter 18 — Full Price
+
+*From `chapters/chapter-18/final.md`, 2,119 words, after one reader-fix round (cold reader: works as an ending, 7 of 10; pull 3 of 5, "a warm epilogue"; plain reader PASS). POV: Beth.*
+
+**What happened:** Thanksgiving Thursday Nov 26. Beth bails Dane's new old boat (wooden, the Pruett boat he was due to see the first Saturday; bought by phone Tuesday; carried across on her car deck Wednesday; on Russ's empty mooring). Dane bails with his mug (doctor's orders: no lifting). "It'll take up in a week. Till then you bail." / "Dollar says it's dry by noon." / "Done." At noon a cupful is left: "There's a cup left, Marshal." She pays. Tess sold him the right boots at "the marshal price." Tuesday morning Beth brought the ferry home from Pruett with Dane aboard; Russ was put in a helicopter at the landing; that afternoon Dane plugged the bullet hole in her front door and put a bolt on it. Ned's pencil letter from the county jail, come on Wednesday's ferry: it begins with her name, only that; his boy is at the clinic in Portland, first week ("He says it's the worst place he's ever been. I told him that's how you know."); Ned has taken his name off his letter for her to the board. "A page in pencil didn't change what that added up to." Beth fixes the stuck drawer and decides to ask Tess. Russ on a cane (home on her last run Wednesday night); Tess with a pie: "Calloway." Dinner: Russ talks, Tess prices the ham at her register. Dane asks Tess and Russ: on leave till January, then the Maine office, "a desk and a door, and I'm good at doors"; Beth has said he can live in this house; "Can I stay? I've had worse juries." Russ: "Can he stay? He can stay. I'll say it first, because I've got the badge." Tess pushes his coffee to him: "Coffee's a dollar, Marshal. Same as everybody." At the sink: Tess wrote the board Tuesday, unasked ("Cost me a stamp."); "Best hand on that water. I won't have a stranger at our wheel. That's what the letter says. The rest isn't in it."; the list; "He got shot on your step." / "I can't pay that back." / "No. You can't." "Beth." once; "Dry, Calloway." No forgiveness. Dane at the table: Cole's trial is in the spring and Beth tells it all again; the Coast Guard never found the big boat, still out there; the kid's name is Kyle Pelletier, nineteen; Dane's boss called Tuesday: the kid swears he never put the phone behind the bait truck's wheel, and he was tied up from Thursday morning on, so somebody on Cutter walked down to the empty ferry that Saturday. Russ: two hundred and forty people on Cutter, any of them could; Tess: "That counts me, Whitcomb." Russ: "I'll find out." / Tess: "We'll find out." New Bedford: "Not always. So I watch the door." His gun is in an evidence locker in Portland. "Your ten days were up on Monday, Marshal." / "So. Are you any good at your job?" / "Ask me every night."
+**What changed:** HEA. Dane lives in Beth's house; the island has said yes; Tess has spoken for Beth without forgiving her; Beth runs the ferry for the board until June.
+**Book 2 hooks:** who on Cutter planted the phone; the big boat; Cole's trial in the spring; Russ and Tess.
+**Caps:** Dane swears 0; Bethie 0; "Dollar says" 1 (book 3/4); "I don't bet" 0 (book 1/2); ham 3 (book 7); plain wanting 0 (shown in action).
+**Ends on:** "Ask me every night."
+
+---
+
 ## Plant ledger
 | Plant | Placed Ch | Pays off Ch | Status |
 |---|---|---|---|

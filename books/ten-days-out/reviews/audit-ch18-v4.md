@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–18, 38,688 words)
+# Audit — ten-days-out (chapters 01–18, 38,712 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -26,7 +26,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "Load-bearing" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
 | "This is medical" | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
 | "Best medical" | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
-| The ham (tin, eleven pounds, Thanksgiving) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 3 | 7 | 9 |  |
+| The ham (tin, eleven pounds, Thanksgiving) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 6 | 10 | 9 | FLAG |
 | "Eleven pounds" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 2 | 2 |  |
 | "Ask me in five days" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
 | "Ask me again in ten days" (Ch 01) | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
@@ -63,28 +63,29 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 19× “the harbor road”
 - 15× “the kid's phone”
 - 12× “his boss said”
-- 12× “the town office”
+- 11× “the town office”
 - 11× “on the harbor road”
 - 10× “a long time”
 - 10× “the north beach”
 - 9× “the white water”
-- 9× “the harbor mouth”
 - 8× “the whole way”
 - 8× “i'm going to”
 - 8× “her coat pocket”
+- 8× “the harbor mouth”
 - 8× “the big boat”
 - 7× “she had never”
 - 7× “had never once”
-- 7× “and said nothing”
 - 7× “the grand jury”
 - 7× “came up through”
 - 7× “dane took the”
 - 7× “the coast guard”
 - 6× “voice came out”
 - 6× “in both hands”
+- 6× “and said nothing”
 - 6× “against his chest”
 - 6× “the man had”
 - 6× “beth said and”
+- 6× “beth said i”
 - 6× “the car deck”
 - 6× “dane said and”
 - 6× “he could see”
@@ -99,7 +100,6 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 5× “through the snow”
 - 5× “put his hand”
 - 5× “let go of”
-- 5× “took her hand”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
@@ -136,7 +136,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 15 | 1,987 | 12.4 | 8.6 | 22% | 0.0 | 0.0 | 0.0 | 2 | mean short |
 | 16 | 2,310 | 11.5 | 8.2 | 25% | 0.0 | 0.0 | 0.0 | 4 | mean short openers |
 | 17 | 2,185 | 13.2 | 10.0 | 19% | 0.0 | 0.0 | 0.0 | 3 | short |
-| 18 | 2,082 | 12.5 | 7.5 | 19% | 0.0 | 0.0 | 0.0 | 3 | mean short |
+| 18 | 2,106 | 11.9 | 6.8 | 20% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -148,10 +148,10 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 ### Mood words per 1,000 (count; flag a cluster, not a word)
 
-- quiet: 20 (0.5/1k)
+- quiet: 19 (0.5/1k)
 - humm?(ing|ed)?: 2 (0.1/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 87 (2.2/1k)
+- still(ness)?: 88 (2.3/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 1 (0.0/1k)
@@ -176,11 +176,11 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 6 | 0.2 | 0.0/1k | FLAG |
-| sentence-initial And/But/And yet | 5 | 3 | 1 | 1 | 2 | 1 | 0 | 3 | 1 | 0 | 0 | 2 | 1 | 0 | 2 | 0 | 1 | 1 | 24 | 0.6 | 3.0/1k |  |
+| sentence-initial And/But/And yet | 5 | 3 | 1 | 1 | 2 | 1 | 0 | 3 | 1 | 0 | 0 | 2 | 1 | 0 | 2 | 0 | 1 | 2 | 25 | 0.6 | 3.0/1k |  |
 | em dashes | 2 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 1 | 1 | 1 | 10 | 0.3 | 2.0/1k |  |
 | semicolons | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0.1 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 0 | 0 | 1 | 3 | 1 | 3 | 0 | 0 | 2 | 3 | 1 | 0 | 0 | 0 | 1 | 4 | 1 | 0 | 20 | 0.5 | 1.0/1k |  |
-| one-sentence paragraph | 16 | 27 | 35 | 34 | 20 | 14 | 40 | 20 | 27 | 36 | 41 | 22 | 19 | 23 | 27 | 30 | 25 | 28 | 484 | 12.5 | report |  |
+| one-sentence paragraph | 16 | 27 | 35 | 34 | 20 | 14 | 40 | 20 | 27 | 36 | 41 | 22 | 19 | 23 | 27 | 30 | 25 | 27 | 483 | 12.5 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
