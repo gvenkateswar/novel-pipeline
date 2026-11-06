@@ -1,16 +1,16 @@
 # Chapter Fifteen: Eleven Pounds
 
-Dane Reyes was trying to fit an eleven-pound ham into the town-office oven when Beth gave him her condition.
+Dane Reyes was trying to fit an eleven-pound ham into the town-office oven when Beth gave him her condition for taking him back.
 
 "You ask me. Every time. Even when you're sure. And you never tell anybody I said yes when I didn't."
 
-He stood there with it in both hands, in Russ's flannel shirt, short in the arms. It was cold and slick under the glaze, the kitchen smelled of cloves and brown sugar, and the oven was built for something smaller. She meant Wednesday, and his own voice on the speaker with her three feet off.
+He stood there with it in both hands, in Russ's flannel shirt, short in the arms. It was cold and slick under the glaze. The back room had been the old clerk's kitchen and still had a stove and an oven, built for something smaller, and it smelled of cloves and brown sugar. She meant Wednesday, when he'd told his boss "She'll go" on speaker with her three feet off.
 
-She still had his phone in her taped hand. The ferry board had given her the boat for tonight, and she'd asked them herself. She hadn't put the phone down.
+That morning she had called the ferry board on his phone and asked them for the boat for tonight, and they had given it to her. She hadn't put the phone down since.
 
 "Give me the pig," she said. "I'll show you."
 
-She reached for it, and her taped palms wouldn't close on it after all of Saturday at the co-op's vise with the steering rod, while he held the light. She held them a little away from her.
+She reached for it, and her hands wouldn't close on it. Since Saturday her palms had been wrapped in black electrical tape from the co-op, and she'd spent that whole day at its vise with the steering rod while he held the light. She held them a little away from her.
 
 He kept hold of it. He took her terms one at a time, with a judge's face.
 
@@ -22,21 +22,21 @@ He kept hold of it. He took her terms one at a time, with a judge's face.
 
 "Then ask fast."
 
-"Yes," he said. "To all of it. I'd sign, but I'd have to put this down."
+"Yes," he said. "To all of it. I'd put it in writing, but I'm holding your pig and I don't know where to set it down."
 
 Beth looked at the floor, then at him.
 
-"On Wednesday I said, 'And so do we.' I decided that for both of us, in that room. Same thing I hated you for."
+"Wednesday I said, 'And so do we.' For both of us. Same thing I hated you for."
 
-He didn't let her carry all of it. "I was right about what's out there."
+He didn't let her carry all of it. "Can I say one thing for myself? I was right about what's out there, and I'd be right about it again tomorrow."
 
 His eyes went to the window over the sink. The point lay down the harbor, past the white water. He only looked.
 
-"You were," Beth said. "It's still mine to say." She drew a breath. "So that part's off too."
+"You were right," Beth said. "It's still mine to say." She drew a breath. "So I take it back. We're not done."
 
-She said it to his face and then waited, her taped hands held up between them.
+She said it to his face and then waited, her hands held up between them.
 
-"What's still on?" he said.
+"Then what are we, exactly? I'd like to know before I try this oven again."
 
 "Ask me when Russ stops snoring."
 
@@ -46,11 +46,11 @@ He took the rack out and tried again. It hit the back wall and stopped.
 
 "That is not going in that oven," he said.
 
-"A dollar says it does."
+"Dollar says it does."
 
-He stared at her. She had never once taken his bet. Now she was making her own, with his words. He looked at the oven, and at her, and at the oven again.
+He stared at her. He looked at the oven, and at her, and at the oven again.
 
-Beth worked a dollar out of her coat pocket with two taped fingers and set it on the counter beside the oven.
+Beth worked a dollar out of her coat pocket with two stiff fingers and set it on the counter beside the oven.
 
 * * *
 
@@ -58,7 +58,7 @@ Tess came in the front door with a roasting pan under one arm and the shotgun in
 
 She sat at the front-room desk with the shotgun across her knees.
 
-Russ was awake now, his leg up on two cushions, his cap on.
+Russ was awake now, his leg up on two cushions, his cap on, and a glass from Tess's bottle in him for the leg.
 
 "In the pan," Beth said. "Bone end first."
 
@@ -74,7 +74,7 @@ The pan slid in across the oven floor with a soft scrape.
 
 "It's going in," Russ said.
 
-Dane shut the door on it, with a quarter inch to spare. He put a dollar of his own with hers and put both in her taped hand. She folded them into her coat pocket and buttoned it over them.
+Dane shut the door on it, with a quarter inch to spare. He put a dollar of his own with hers and put both in her hand. She folded them into her coat pocket and buttoned it over them.
 
 "The ham is eleven pounds," Dane said, "and there are three of us."
 
@@ -102,11 +102,15 @@ He took the mitt off. His voice came out lower than he meant.
 
 "Can I kiss you? I'm asking."
 
-"Yes. Come here."
+"Yes." She didn't come to him yet. "And what you said to me Monday, at the generator. Yes to that too. I love you. I have since the rock, when you opened your hand."
 
-He went. She couldn't put her palms on him, so she hooked her wrists over his shoulders and held her taped hands up behind his neck. He kept his own hands at her waist, clear of her palms. The oven was hot at his back. She kissed him slowly, after four days of not, in front of a man she had known since she was six, and she didn't hurry any of it. Her mouth was warm and tasted of coffee. He stopped thinking in sentences. He thought her name, and her mouth, and nothing else.
+Dane didn't move. On the couch Russ set his glass down.
 
-Tess stood, put the shotgun under her arm, and walked out the front door onto the steps without a word. The door shut behind her.
+"Come here," she said.
+
+He went. She couldn't put her palms on him, so she hooked her wrists over his shoulders and held her hands up behind his neck. He kept his own hands at her waist, clear of her palms. The oven was hot at his back. She kissed him slowly, after four days of not, in front of a man she had known since she was six, and she didn't hurry any of it. Her mouth was warm and tasted of coffee. He stopped thinking in sentences. He thought her name, and her mouth, and nothing else.
+
+Tess stood and put the shotgun under her arm. "I'll be on the steps," she told the room. "Somebody ought to watch the harbor." She went out past Beth without a look, and the door shut hard behind her.
 
 Beth watched it shut over his shoulder. She didn't let go of him.
 
@@ -116,27 +120,29 @@ From the couch Russ said, "Well."
 
 By eight it was full dark, and Dane lay on his back on the car deck with his flashlight on the underside of the bait truck and the cold smell of old herring on his face. The engine was already running. It came up through the steel into his shoulders.
 
-Nothing. He slid out and did the lumber truck, cab and load, then the crew room's two bunks and the engine room. All day yesterday the ferry sat empty at the pier while the rod was in the co-op's vise, and the big boat watched it from off the point. Nothing anywhere.
+All day yesterday the ferry had sat empty at the pier while the rod was in the co-op's vise, and the big boat had watched it from off the point. Anybody could have come aboard. He was looking for a man hidden in one of the trucks, or something left behind for them.
 
-Beth sat on the steel stair outside the passenger cabin, where she could see both prisoners through the open door.
+He found it up behind the bait truck's back wheel: a cheap phone in a plastic bag, taped to the frame. Its screen lit through the plastic when he touched it. It was switched on, with one bar from the harbor.
 
-At the far end of the cabin, Dane cut the kid's cable tie with Ned's knife, buckled a life jacket on him, and tied his wrists in front again with a fresh tie, and a second one through it round the bench leg. The kid's supper plate sat beside him, wiped clean. He said nothing.
+He slid out with it. Beth sat on the steel stair outside the passenger cabin, where she could see both prisoners through the open door.
 
-Ned sat in Russ's cuffs. Dane opened one cuff, worked Ned's arm through a life jacket, closed the cuff and buckled the jacket across his chest. Ned couldn't swim and had never worn one in thirty years on this boat. He looked down at it on himself as though it were somebody else's.
+"Somebody left this under your bait truck, switched on," he said. "That's how the boat off the point has known where the ferry was. Can I switch it off?"
+
+"Off."
+
+He held the button down through the bag until the screen went dark, and put it in his coat pocket with the kid's pistol.
+
+"Now it has to watch for us," Beth said.
+
+He buckled life jackets on both prisoners, the kid with his wrists tied again in front over his and a second tie through to the bench leg, Ned in Russ's cuffs. Ned couldn't swim and had never worn one in thirty years on this boat. He looked down at it on himself as though it were somebody else's.
 
 Dane clipped Russ's handheld radio to his coat and keyed it. "Tess."
 
 Her voice came back out of the radio from the town office up the road, small through the static. "Here." Then: "He's asleep. Don't call unless it's bad, Marshal."
 
-Nothing would fly in this icing before Tuesday, for Russ or for Beth, so it was this boat tonight, and Russ would wait on the couch with Tess. The prisoners crossed, because Tess couldn't nurse him and guard two men, and a kid left ashore who could name Cole's lawyer would bring the big boat's men to Russ's door.
+The prisoners crossed with them, because Tess couldn't nurse Russ and guard two men.
 
-Beth came in off the stair, and Dane said it to her in front of the kid.
-
-"A text from a phone in nobody's name and Ned's word won't arrest Cole's lawyer. The kid's would. And the kid isn't talking. He's got the whole way across to think about it."
-
-The kid turned his face to the black window.
-
-Beth went out to the hatch and got down on the stiff knee, slowly. She levered the lid up with her wrists, reached down, and ran her taped thumb along the rod to the bright mark where the vise had held it.
+Beth went out to the hatch and got down on the stiff knee, slowly. She levered the lid up with her wrists, reached down, and ran her thumb along the rod to the bright mark where the vise had held it.
 
 "If it sticks," she said, "I'll feel it first."
 
@@ -150,7 +156,7 @@ Beth stood and shut the hatch with her boot.
 
 "The night counts."
 
-He picked up the kid's rifle from beside the cabin door. The kid's pistol was in his coat pocket. Beth went up the steel stair to the captain's cabin, and Dane followed her up.
+He picked up the kid's rifle from beside the cabin door. Beth went up the steel stair to the captain's cabin, and Dane followed her up.
 
 * * *
 
@@ -164,9 +170,9 @@ A little before ten, Beth asked Dane for Ned from the wheel.
 
 "It's your call. I'll bring him."
 
-Dane brought Ned up the steel stair. The rail was the steel bar along the side wall of the cabin, at her left hand. He opened one of Russ's cuffs and closed it on the rail, the steel cold under his hand. Ned stood a step from the wheel he had held for thirty years, with somebody else's hands on it.
+Dane brought Ned up the steel stair. He opened one of Russ's cuffs and closed it on the steel rail by her left hand. Ned stood a step from the wheel he had held for thirty years, with somebody else's hands on it.
 
-Dane put the cuff key in Beth's coat pocket, where she could see him do it.
+Dane dropped the cuff key in her coat pocket.
 
 "Wind's going down," Ned said.
 
@@ -174,17 +180,17 @@ Dane put the cuff key in Beth's coat pocket, where she could see him do it.
 
 At the cabin door, on his way down to the ropes, Dane stopped.
 
-"That boat's still out there. Do we go?"
+"That boat's still out there, and it's had all day to watch us get ready. Do we go?"
 
-"Go."
+"Go. If it comes at us, I run inside the ledges, close in to the point. A bigger boat can't follow me there."
 
-From the car deck he looked up at her window: her taped hands on the wheel, her face lit from below. He wanted her. He couldn't do one thing about it till they tied up at Pruett.
+From the car deck he looked up at her window: her hands on the wheel, her face lit from below.
 
 At her call he lifted each rope off its post and threw it clear. This time the last one came off clean. Up the road the town office window was one yellow square, where Russ would lie until Tuesday's helicopter. Dane climbed back up and took his place at her right shoulder, with the rifle.
 
 At ten she took it off the pier and across the harbor, slowly, on the last night that could get her into that room before Cole went free, with no escort and the Coast Guard an hour off. At the mouth she slowed again for the ledges, and white water showed on both sides in the deck lights. Ned turned his head toward it, listening.
 
-Under their own engine Dane heard a bigger one come up out of the dark off the point.
+Under their own engine Dane heard a bigger engine come up out of the dark off the point.
 
 Beth heard it too. Her taped hands stayed where they were on the wheel.
 
