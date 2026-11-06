@@ -247,6 +247,19 @@
 
 ---
 
+## Chapter 17 — In the Room
+
+*From `chapters/chapter-17/final.md`, 2,198 words, after one reader-fix round (cold reader 3 of 5, "I'd keep reading, but…", bored in the heat scene; plain reader PASS). POV: Beth (s1–2), Dane (s3–5).*
+
+**What happened:** Monday Nov 23. Beth goes in without him. Courthouse lobby, Portland, in a woman deputy's spare shoes (her boots soaked and bloody from the ladder) with an envelope of witness money. Nothing for the security tray. Cole's lawyer, by the security line: "I hear the marshal's been keeping you warm." / "Yes. I'll say so in there." Deputies posted since the kid's statement came up at dawn arrest him; he walked in anyway; taken through a door behind the security desk to a holding cell. The grand jury at ten: the grand jury, the prosecutor, a woman writing it down; no judge, no lawyer for either side; Dane outside. Beth's testimony in five plain sentences (Thursday the twelfth, the last crossing, the lobster truck with the cooling unit off, the split crate, bricks in gray tape, fentanyl, the man in the black hoodie, Cole in the cab). The prosecutor asks if she's in a relationship with the marshal: "Yes," and she saw the drugs six hours before she met him. A juror in a work jacket asks if Dane ever told her what to say: "He tried telling me what to do once. It didn't take." The room laughs. The prosecutor warns of a trial in the spring. Ned is in the county jail and has asked for a lawyer of his own; his son is in a clinic in Portland, safe ("Good. For the boy."). She waits an hour in a side room; no question comes. Dane signed himself out of the hospital against the doctor's word and waits on a park bench across the street. Once she has said it under oath it doesn't matter who sees them. "They asked about you, and I said yes…" / "They laughed." His boss's text arrives; she covers the phone: "Not yet. I want you to answer me before that can be the reason." "Will you stay? I'm asking." He has looked at boats for two years because he wanted out of the job; the Maine office has his papers; a worse boat tied up where she can see it from the ferry; and her, every day she'll have him. New Bedford: "She testified. Then they burned her house." / "They did. The lawyer's downstairs asking what he can trade, and the Coast Guard has the kid's statement. None of that makes you safe." "Nobody pays me to watch your door after today. Can I be the one who watches it anyway?" / "Yes. From inside." She reads the vote: *Voted to send him to trial. He stays in.* The hotel room on the third floor over the corner of Middle Street, paid from the deputy's envelope; afternoon sun. Heat #4, Dane POV: "Will you come to bed with me?" / "Yes."; she kicks off the shoes and laughs; "I want to see you"; "I want you slow. Slower than you'd go."; protection from the drugstore bag; "Stop?" / "No. Please."; she comes laughing; "I love you." / "Again." After, she tells him about the steering rod while he listens. Coda: Russ's text (flying out in the morning if the icing lifts); Thanksgiving is at Beth's, Tess coming, "it isn't forgiveness." "Will they let me stay on the island?" Dane asked. / "Ask them," Beth said.
+**What changed:** Cole is held for trial; the lawyer is arrested; Dane is staying; they have said everything to each other.
+**Plants placed / paid:** "on the other side" (paid); "Will you stay? I'm asking." (the book's last); New Bedford faced; the trial in the spring and the big boat (→ Book 2); "Ask them." (→ Ch 18).
+**Numbers stated:** ten o'clock; six hours; an hour in the side room; four minutes; third floor; two years.
+**Caps:** Dane swears 0; Bethie 0; your marshal 0; "I'm asking" 1 (book's last); plain wanting 1; "eleven" 0.
+**Ends on:** "Ask them," Beth said.
+
+---
+
 ## Plant ledger
 | Plant | Placed Ch | Pays off Ch | Status |
 |---|---|---|---|

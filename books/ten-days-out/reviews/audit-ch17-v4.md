@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–17, 36,527 words)
+# Audit — ten-days-out (chapters 01–17, 36,606 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -69,22 +69,22 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 9× “a long time”
 - 9× “the white water”
 - 8× “i'm going to”
-- 8× “her coat pocket”
 - 8× “the harbor mouth”
 - 7× “she had never”
 - 7× “had never once”
-- 7× “put his hand”
+- 7× “the whole way”
 - 7× “the grand jury”
 - 7× “came up through”
+- 7× “her coat pocket”
 - 7× “dane took the”
 - 7× “the big boat”
 - 6× “voice came out”
-- 6× “the whole way”
 - 6× “and said nothing”
 - 6× “the man had”
 - 6× “beth said and”
 - 6× “the car deck”
 - 6× “dane said and”
+- 6× “he could see”
 - 6× “her left hand”
 - 6× “the east road”
 - 6× “the north-side house”
@@ -94,23 +94,23 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 5× “both hands on”
 - 5× “she thought about”
 - 5× “through the snow”
+- 5× “in both hands”
+- 5× “put his hand”
 - 5× “let go of”
 - 5× “against his chest”
 - 5× “took her hand”
 - 5× “the whole time”
-- 5× “truck was clean”
-- 5× “beth said i”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
 - jaw: 5 (0.1/1k)
 - knuckles?: 1 (0.0/1k)
-- throat: 5 (0.1/1k)
+- throat: 7 (0.2/1k)
 - reath: 23 (0.6/1k)
 - pulse: 2 (0.1/1k)
-- chest: 23 (0.6/1k)
+- chest: 22 (0.6/1k)
 - hands? (stopped|stilled|went still|flat): 8 (0.2/1k)
-- shoulders?: 46 (1.3/1k)
+- shoulders?: 44 (1.2/1k)
 - gaze: 0 (0.0/1k)
 - tightened: 1 (0.0/1k)
 - swallowed: 0 (0.0/1k)
@@ -135,7 +135,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 14 | 2,048 | 13.4 | 7.8 | 18% | 0.0 | 0.0 | 0.0 | 2 | short |
 | 15 | 1,987 | 12.4 | 8.6 | 22% | 0.0 | 0.0 | 0.0 | 2 | mean short |
 | 16 | 2,310 | 11.5 | 8.2 | 25% | 0.0 | 0.0 | 0.0 | 4 | mean short openers |
-| 17 | 2,106 | 12.5 | 8.5 | 24% | 0.0 | 0.0 | 0.0 | 3 | mean short |
+| 17 | 2,185 | 13.2 | 10.0 | 19% | 0.0 | 0.0 | 0.0 | 3 | short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -150,7 +150,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 - quiet: 19 (0.5/1k)
 - humm?(ing|ed)?: 2 (0.1/1k)
 - softly?: 0 (0.0/1k)
-- still(ness)?: 87 (2.4/1k)
+- still(ness)?: 86 (2.3/1k)
 - ghost(ly)?: 0 (0.0/1k)
 - echo(ed|es)?: 0 (0.0/1k)
 - shadow: 1 (0.0/1k)
@@ -169,7 +169,7 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 
 | Construction | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | Total | /1k | Cap | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| as if / as though | 1 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 2 | 10 | 0.3 | 1.0/1k |  |
+| as if / as though | 1 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 9 | 0.2 | 1.0/1k |  |
 | the way (a|the|people|someone) ... | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 4 | 0.1 | 1/ch |  |
 | the kind of ... that | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 2/ch |  |
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
@@ -178,8 +178,8 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | sentence-initial And/But/And yet | 5 | 3 | 1 | 1 | 2 | 1 | 0 | 3 | 1 | 0 | 0 | 2 | 1 | 0 | 2 | 0 | 1 | 23 | 0.6 | 3.0/1k |  |
 | em dashes | 2 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 1 | 1 | 9 | 0.2 | 2.0/1k |  |
 | semicolons | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0.1 | 2.0/1k |  |
-| perception filter (she noticed / could hear) | 0 | 0 | 1 | 3 | 1 | 3 | 0 | 0 | 2 | 3 | 1 | 0 | 0 | 0 | 1 | 4 | 0 | 19 | 0.5 | 1.0/1k |  |
-| one-sentence paragraph | 16 | 27 | 35 | 34 | 20 | 14 | 40 | 20 | 27 | 36 | 41 | 22 | 19 | 23 | 27 | 30 | 27 | 458 | 12.5 | report |  |
+| perception filter (she noticed / could hear) | 0 | 0 | 1 | 3 | 1 | 3 | 0 | 0 | 2 | 3 | 1 | 0 | 0 | 0 | 1 | 4 | 1 | 20 | 0.5 | 1.0/1k |  |
+| one-sentence paragraph | 16 | 27 | 35 | 34 | 20 | 14 | 40 | 20 | 27 | 36 | 41 | 22 | 19 | 23 | 27 | 30 | 25 | 456 | 12.5 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 
