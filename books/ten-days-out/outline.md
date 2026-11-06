@@ -525,3 +525,22 @@ The reader will be sure of Ned before Beth is. **[A19]** Ch 10 spends four lines
     - Add: "Every night so far the kid's picked the place. Not tonight." (Dane, Ch 10); "He'd have been swamped at the ledges…" / "He's got nothing to lose." (Beth, Ch 10); "Now there's one way off this island." / "And it's my boat." (Dane / Beth, Ch 10); "Door first." (Dane, Ch 10); "Nobody on this island lets a boy bleed to death in the snow." (Beth, Ch 11); "Talk to me." (Beth, Ch 11); "Son? It's all right, son." / "He's somebody's boy, Bethie." / "I could see his light from there." (Ned, Ch 11); "It comes in from offshore." (Ned, Ch 12); "Late." / "Later than that." / "Not one word, Calloway." (Beth / Russ / Tess, Ch 12); "You said the side." / "I did." (Russ / Dane, Ch 13); "You put the mugs away wrong." (Beth, Ch 13); "They've got a boat." (the kid, Ch 13); "I'm good at exactly this." (Dane, Ch 14); "I still think you should go. It was never mine to say." (Dane, Ch 14); "There may be a boat out there. I'm asking." (Dane, Ch 15); "I'm going up top. Say go." (Dane, Ch 16); "Alton's way, Bethie." / "I've got it, Bethie. Go." (Ned, Ch 16); "It'll take up in a week." (Beth, Ch 18).
 13. **Tess not forgiving Beth:** because of the list, the records and Russ on Beth's step.
 14. **Series hook:** the big boat acts in the climax and gets away. "Where the drugs come from" widens to Ch 12–18.
+
+## Audit round 2 fixes (orchestrator, Nov 5; binding on every back-half beat sheet; closes the logic gate)
+
+From `reviews/outline-audit-backhalf-r1.md`. Outline fix budget is now spent; these are applied as rules rather than a fourth revision.
+
+- **N1 (blocking, closed here):** in Ch 14 s3 Dane says plainly that the harbor mouth is white water until Sunday evening and the next front arrives before light Monday: "Sunday night or not at all." The Marine Patrol line drops "at night": the state won't send its next boat into a shooting. The night crossing is forced by the weather, not chosen.
+- **F5 leftover:** cut "That's what she'd been waiting for." First aid is never the way into bed.
+- **N2:** Ch 10 s3 runs about 400 words and is never the scene that gets compressed.
+- **N3:** Ned checks his phone every half hour while he waits for an answer; say which phone Dane rings from (his own, then the kid's).
+- **N4:** the Ch 10 house has a front and a back door; no "the one door".
+- **N5:** Tuesday night the east road is watched from the kid's woods, so they keep to the shore; Wednesday Dane walks the woods because the blood trail is fresh and the kid is hurt. Ned comes by the road, an hour.
+- **N6:** after the kid runs toward the village (Ch 12 s1), Dane has Russ warn the village by radio and sit on Beth's road; the kid gets past him by the shore.
+- **N7:** Beth waits somewhere other than the fish shack.
+- **N8:** Beth holds the cuff key in Ch 16.
+- **N9:** the Coast Guard is called and arrives as the dark boat limps off, too late to matter.
+- **N10:** Ch 14 s3 is a scene with an event; the boss's facts come in two lines inside it.
+- **N11:** "I'm asking" at most twice in the back half; "in her/his head, plainly" never.
+- **N12:** the Ch 12 s1 ambush must not repeat Ch 09 (no tree line, no boat): a single shot on an open road, Ned in the ditch.
+- **Every boat is "it",** including in quoted bible samples ("It'll go when it goes, Bethie").
