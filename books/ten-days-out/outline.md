@@ -598,3 +598,7 @@ The Ch 14 cold reader predicted, at 60–90%: she testifies; she runs her father
 - Dane admits he's looked at boats for two years because he wanted out of the job; now he wants a worse boat tied up where she can see it from the ferry. "Can I be the one who watches it anyway?" / "Yes. From inside."
 - Dane's eleven stitches are on his left ribs. Beth pays for the hotel.
 - Coda: Russ's text (flying out in the morning if the icing lifts, Tuesday); Tess says Thanksgiving is at Beth's and "it isn't forgiveness." Ends: "Will they let me off the boat?" / "Ask them." Ch 18 confirms Russ's flight in one past-tense clause.
+
+### Ch 16 cold-read carry-forward (orchestrator, Nov 6; binding on Ch 17–18)
+- The New Bedford risk must be faced, not dropped: Ch 09/12 said Cole's people burned a witness's house after she testified, and the big boat got away. Ch 17 or 18 answers it plainly in a line or a short exchange (what is different now: the lawyer arrested and talking, the kid's statement, the boat's owners named to the Coast Guard; Dane's job is to watch the door anyway), without promising she is safe forever (Book 2 hook).
+- Her father is named Alton (first named in Ch 16).
