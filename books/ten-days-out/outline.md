@@ -570,7 +570,7 @@ From `reviews/outline-audit-backhalf-r1.md`. Outline fix budget is now spent; th
 - Plot change accepted under the author's Oct 29 standing instruction (reported to the author): Russ and Tess stay ashore. Russ waits on the town office couch for the Coast Guard flight when the icing clears on Tuesday; Tess stays with him and the shotgun. The prisoners (Ned and the kid) cross on the ferry because Tess can't nurse Russ and guard two men, and the kid ashore would draw the boat's men to Russ. Ch 16 s3 "everyone he has wronged is aboard" becomes "her and the boy he sent after her". Ch 17 or 18 says in one line that Russ was flown out Tuesday.
 - The public yes: Beth tells Russ and Tess herself, before Dane asks, that he's going to ask her something and she'll say yes, "so nobody ever says it for me." "Can I kiss you? I'm asking." / "Yes. Come here." Tess walks out; Russ: "Well." The Ch 12 rupture is settled face to face in Ch 15 s1.
 - "I'm asking": Ch 15 uses one; Ch 17 has the last.
-- "Dollar says": Ch 15 spends the last use. Ch 18's bet uses other wording. "I don't bet": one use left, free for Ch 18.
+- "Dollar says": 2 of 4 used (Ch 14, Ch 15); Ch 18 may use one. "I don't bet": 1 of 2 used (Ch 14); one left for Ch 18.
 - "Bethie": Ch 16 keeps only "I've got it, Bethie. Go."; the other becomes "Alton's way. You've seen it on the door."
 - Dane cuts one of the kid's ties and re-ties it over a life jacket. Ned is cuffed to the rail; Dane puts the cuff key in Beth's pocket (N8 plant for Ch 16). Russ's handheld radio goes to Dane.
 
@@ -590,3 +590,11 @@ The Ch 14 cold reader predicted, at 60–90%: she testifies; she runs her father
 - The love question stopped stalling: in Ch 15's public-yes scene Beth answers Dane's Monday "I'm in love with you" in front of Russ and Tess: yes, since the rock. What is still owed in Ch 17 is Dane's "I'll tell you on the other side" (what he wants: the Maine office, a worse boat, her) and Beth's "Will you stay? I'm asking." Ch 17 must not re-stage her love answer as new.
 - Dane found a switched-on phone taped under a truck on the car deck (how the big boat tracked the ferry) and switched it off. In Ch 16 the big boat tracks them by eye and by listening to the ferry's radio.
 - Before casting off, Beth said plainly she'd run inside the ledges, close to the point, if the boat came at them.
+
+### Ch 17 beat-sheet carry-forwards (orchestrator, Nov 6; accepted under the Oct 29 standing instruction, reported to the author)
+- Cole's lawyer is arrested in the courthouse lobby on the kid's sworn statement from dawn ("I hear the marshal's been keeping you warm." / "Yes. I'll say so in there.").
+- A juror asks whether Dane ever told her what to say ("He tried telling me what to do once. It didn't take."). Domain check at manuscript stage: federal grand jurors may question witnesses.
+- Beth asks "Will you stay? I'm asking." before she'll let Dane show her the vote; she hears it second (*Voted to send him to trial. He stays in.*).
+- Dane admits he's looked at boats for two years because he wanted out of the job; now he wants a worse boat tied up where she can see it from the ferry. "Can I be the one who watches it anyway?" / "Yes. From inside."
+- Dane's eleven stitches are on his left ribs. Beth pays for the hotel.
+- Coda: Russ's text (flying out in the morning if the icing lifts, Tuesday); Tess says Thanksgiving is at Beth's and "it isn't forgiveness." Ends: "Will they let me off the boat?" / "Ask them." Ch 18 confirms Russ's flight in one past-tense clause.
