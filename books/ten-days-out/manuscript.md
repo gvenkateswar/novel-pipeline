@@ -3666,7 +3666,7 @@ Thursday, then. Tess at her table, not saying one word to Beth, and him at the e
 
 # Chapter Eighteen: Full Price
 
-On Thanksgiving morning Beth bailed out Dane's new old boat, laughing too hard to do it well.
+On the last Thursday of November Beth bailed out Dane's new old boat, laughing too hard to do it well.
 
 He sat on the engine box with his coffee mug. He dipped it into the water around his boots, lifted it over the side, and poured it out, one cup at a time. The doctor had said he could lift a mug.
 
@@ -3770,7 +3770,7 @@ Dane set the spoon down. "Who'll you ask?"
 
 "Then she can write."
 
-She put Ned's letter in the drawer. Behind her the fat spat in the pan, and Dane went back to the ham.
+She put Ned's letter in the drawer. Behind her the fat spat in the pan, and Dane went back to the stove.
 
 * * *
 
@@ -3794,11 +3794,11 @@ That was all. She didn't hug her. She walked past into the kitchen and sat down 
 
 Beth set the pie on the counter and stood a moment with her hands on either side of it.
 
-She lifted the ham out of the oven herself and set the pan in front of Russ, and Russ carved it thick from his chair while the light went yellow in the windows.
+She lifted it out of the oven herself and set the pan in front of Russ, and Russ carved it thick from his chair while the light went yellow in the windows.
 
 Russ held his plate out for thirds. "Is there more? There's more. Who cooks a ham that size for four people? He does."
 
-"That ham was thirty-eight dollars at my register," Tess told the table. "I should have charged him the marshal price."
+"Thirty-eight dollars at my register," Tess told the table. "I should have charged him the marshal price."
 
 Russ laughed until he had to hold his leg. Tess passed Beth the potatoes without looking at her.
 

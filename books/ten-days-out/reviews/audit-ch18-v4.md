@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–18, 38,712 words)
+# Audit — ten-days-out (chapters 01–18, 38,711 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -26,7 +26,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "Load-bearing" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
 | "This is medical" | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
 | "Best medical" | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
-| The ham (tin, eleven pounds, Thanksgiving) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 6 | 10 | 9 | FLAG |
+| The ham (tin, eleven pounds, Thanksgiving) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 3 | 7 | 9 |  |
 | "Eleven pounds" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 2 | 2 |  |
 | "Ask me in five days" | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
 | "Ask me again in ten days" (Ch 01) | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |  |
@@ -136,7 +136,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 15 | 1,987 | 12.4 | 8.6 | 22% | 0.0 | 0.0 | 0.0 | 2 | mean short |
 | 16 | 2,310 | 11.5 | 8.2 | 25% | 0.0 | 0.0 | 0.0 | 4 | mean short openers |
 | 17 | 2,185 | 13.2 | 10.0 | 19% | 0.0 | 0.0 | 0.0 | 3 | short |
-| 18 | 2,106 | 11.9 | 6.8 | 20% | 0.0 | 0.0 | 0.0 | 3 | mean short |
+| 18 | 2,105 | 11.9 | 6.8 | 20% | 0.0 | 0.0 | 0.0 | 3 | mean short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
