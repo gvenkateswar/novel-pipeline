@@ -1,4 +1,4 @@
-# Audit — ten-days-out (chapters 01–13, 28,034 words)
+# Audit — ten-days-out (chapters 01–13, 28,076 words)
 
 Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md` C. Counts are regex and approximate; judge flagged items by function. FLAG means over cap.
 
@@ -42,7 +42,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | "Bethie" (Ned only) | 1 | 2 | 0 | 0 | 1 | 0 | 0 | 1 | 2 | 0 | 1 | 0 | 0 | 8 | 10 |  |
 | "Your marshal" (Ned, Tess) | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 2 | 3 |  |
 | Ned looks back | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 3 | 8 |  |
-| Gloves off | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 4 | 5 |  |
+| Gloves off | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 5 |  |
 | Bare-handed | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 6 |  |
 | The boy she taught to row | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 5 |  |
 | Split lip (the kid) | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |  |
@@ -65,14 +65,15 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 10× “his boss said”
 - 10× “the north beach”
 - 9× “a long time”
-- 8× “the kid had”
 - 8× “on the harbor road”
-- 7× “the north-side house”
 - 6× “the whole way”
 - 6× “i'm going to”
 - 6× “the man had”
 - 6× “dane took the”
 - 6× “the east road”
+- 6× “the north-side house”
+- 6× “the kid had”
+- 6× “the town office”
 - 5× “through the snow”
 - 5× “put his hand”
 - 5× “against his chest”
@@ -81,36 +82,35 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 - 5× “the grand jury”
 - 5× “beth said i”
 - 5× “looked at beth”
+- 5× “came up through”
 - 5× “the kitchen window”
 - 5× “dane said and”
 - 5× “his other hand”
 - 5× “the snow came”
 - 5× “the tree line”
-- 5× “the fire truck”
+- 5× “a hurt boy”
 - 4× “her voice came”
 - 4× “had never once”
 - 4× “with both hands”
 - 4× “she thought about”
 - 4× “the marine patrol”
 - 4× “and said nothing”
-- 4× “at first light”
 - 4× “took her hand”
 - 4× “beth said and”
 - 4× “ned looked at”
 - 4× “without a word”
 - 4× “the whole road”
-- 4× “road could see”
 
 ### Body-reaction words per 1,000 (tells 4.3; cluster matters, not any one)
 
 - jaw: 5 (0.2/1k)
 - knuckles?: 1 (0.0/1k)
 - throat: 5 (0.2/1k)
-- reath: 17 (0.6/1k)
+- reath: 18 (0.6/1k)
 - pulse: 2 (0.1/1k)
 - chest: 18 (0.6/1k)
 - hands? (stopped|stilled|went still|flat): 8 (0.3/1k)
-- shoulders?: 34 (1.2/1k)
+- shoulders?: 35 (1.2/1k)
 - gaze: 0 (0.0/1k)
 - tightened: 1 (0.0/1k)
 - swallowed: 0 (0.0/1k)
@@ -131,7 +131,7 @@ Source: `docs/ai-fiction-tells.md` Parts 2, 3, 5 and `docs/postmortem-boring.md`
 | 10 | 2,466 | 14.3 | 10.4 | 15% | 0.0 | 0.4 | 0.0 | 3 |  |
 | 11 | 1,992 | 13.0 | 9.0 | 18% | 0.0 | 0.0 | 0.0 | 3 | short |
 | 12 | 2,096 | 12.4 | 8.3 | 23% | 0.0 | 0.0 | 0.0 | 4 | mean short openers |
-| 13 | 1,989 | 13.0 | 8.9 | 20% | 0.0 | 0.0 | 0.0 | 2 | short |
+| 13 | 2,031 | 11.9 | 8.4 | 24% | 0.0 | 0.0 | 0.0 | 2 | mean short |
 
 Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes under 2/1k; numerals under 12/1k; all-caps under 6/1k; no four sentences in a row with the same opener.
 
@@ -171,11 +171,11 @@ Targets: mean 13–18 with real spread; ≤5-word sentences under 15%; codes und
 | with the (precision|care...) of someone who | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | not because ... but because | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.0 | 1/ch |  |
 | contrast construction (not X but Y / wasn't X. It was Y) | 0 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 5 | 0.2 | 0.0/1k | FLAG |
-| sentence-initial And/But/And yet | 5 | 3 | 1 | 1 | 2 | 1 | 0 | 3 | 1 | 0 | 0 | 2 | 0 | 19 | 0.7 | 3.0/1k |  |
+| sentence-initial And/But/And yet | 5 | 3 | 1 | 1 | 2 | 1 | 0 | 3 | 1 | 0 | 0 | 2 | 1 | 20 | 0.7 | 3.0/1k |  |
 | em dashes | 2 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 6 | 0.2 | 2.0/1k |  |
 | semicolons | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 | 0.1 | 2.0/1k |  |
 | perception filter (she noticed / could hear) | 0 | 0 | 1 | 3 | 1 | 3 | 0 | 0 | 2 | 3 | 1 | 0 | 0 | 14 | 0.5 | 1.0/1k |  |
-| one-sentence paragraph | 16 | 27 | 35 | 34 | 20 | 14 | 40 | 20 | 27 | 36 | 41 | 22 | 15 | 347 | 12.4 | report |  |
+| one-sentence paragraph | 16 | 27 | 35 | 34 | 20 | 14 | 40 | 20 | 27 | 36 | 41 | 22 | 19 | 351 | 12.5 | report |  |
 
 ### Scene cluster check (3+ tell groups in one scene → rewrite the scene, not the sentence)
 

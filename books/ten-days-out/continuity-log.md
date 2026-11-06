@@ -189,6 +189,21 @@
 
 ---
 
+## Chapter 13 — They've Got a Boat
+
+*From `chapters/chapter-13/final.md`, 2,041 words, after one structural reader-fix round (cold reader 3 of 5, "I'd keep reading, but…": opening flashback block, Russ/kid contradiction with Ch 05, no call for help, capture too easy; plain reader romance FAIL on Beth's side). Both addressed in the rewrite. POV: Dane.*
+
+**What happened:** Thursday Nov 19, first light. Dane lies in the snow under Beth's kitchen window, gun in his right hand, watching the kid wash her dishes. Smoke from the stove; tracks in the snow, none going out. At dusk Wednesday Russ had backed his truck down behind the rise, out of sight of every window; Beth waits in "the truck behind the rise", on her own term ("If anybody bleeds, I'm coming up."); the flirting exchange ("You said yes fast." / "I've lost to you every day since the oar…"). Russ knocks from beside the door, behind the stone chimney on the front wall, then steps in front of it to talk the boy out (twenty years talking drunk men out of houses): "Russ Whitcomb, the constable. You know me off the harbor…" The kid fires through the door; Russ is hit in the leg. Dane holds the sink window (Beth: "Anybody in that kitchen who has to run goes out over the sink… I did, at sixteen."). The kid shoves the sash up with a shoulder and comes over the sill, pistol in the good hand; in the struggle the pistol goes off into the snow beside Dane's head (grit in his face, a whine in his left ear for a breath). Dane takes the gun hand, fires no shot, pockets the kid's pistol, holsters his own and ties the kid's wrists in front with Tess's cable ties. Beth runs up, packs Russ's wound with the last dressing in the ferry's first-aid box and straps the thigh above it; the bleeding stops; the box is empty. Dane rings the Coast Guard in South Portland: keep the strap on, keep him warm, "We'll fly when the icing clears." No helicopter comes up through icing for a man who isn't dying ("I'm not dying."). Text to his boss: *Have him. Alive. My constable shot in the leg, bleeding stopped. Need a flight when the icing clears.* Tess comes with the fire truck, checks the knot herself, takes Russ to the town office couch, says nothing to Beth; her line to Dane covers Ned Haskell at the pipe. Beth takes two fistfuls of Dane's coat to get up, leaving blood on the wool: "I want you, Marshal. I haven't stopped. I'm still not going." Kitchen: the kid tied to the iron leg of the sink with a third tie; "You put the mugs away wrong." Her father's old pencil drawing inside the pantry door: a way through the rocks no chart shows and nobody has used in years. Dane: "Who's coming for her?" Kid: "You think I was what's coming? … They've got a boat."
+**What changed:** The kid is caught alive. Russ is shot, stable, waiting for a flight that won't come before Monday. Beth has said plainly she still wants Dane; the Ch 12 fight stands. A boat is coming for her.
+**Custody:** the kid in cable ties (Dane); his pistol in Dane's pocket; his rifle with Dane; Ned in Russ's cuffs at the town office pipe; Russ's shotgun with Tess, then on the couch with Russ.
+**Objects / details introduced:** the dish towel stuffed in the broken pane by the latch; the stone chimney on the front wall; the pantry-door pencil route; Dane's coat with her blood on it.
+**Plants placed:** the pencil route through the rocks (→ Ch 16); "They've got a boat" (→ Ch 14–16); "We'll fly when the icing clears" (→ Ch 17/18).
+**Numbers stated:** two shots from the kid; one bar of signal; twenty years as constable; sixteen (Beth out the sink window).
+**Caps:** Dane swears 0; Russ 1 ("Damn it"); Beth 1 ("Shit"); Bethie 0; looked back 0; "He wanted her" 1; "since the oar" 1.
+**Ends on:** the kitchen, Thursday morning, "They've got a boat."
+
+---
+
 ## Plant ledger
 | Plant | Placed Ch | Pays off Ch | Status |
 |---|---|---|---|
