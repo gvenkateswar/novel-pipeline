@@ -162,7 +162,7 @@ The kid turned his face up off the boards. "You think I was what's coming? They'
 
 * * *
 
-Dane saw the orange coat when it was still a mile off, coming round the head of the harbor in the snow.
+Dane saw the stiff new orange float coat when it was still a mile off, coming round the head of the harbor in the snow.
 
 In the lee of the point, where nothing lay in November, a big fishing boat lay quiet. The icing was up in the cloud. A skiff could get into the lee under it, and a helicopter couldn't get down through it.
 
