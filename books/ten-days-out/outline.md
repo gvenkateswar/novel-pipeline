@@ -602,3 +602,11 @@ The Ch 14 cold reader predicted, at 60–90%: she testifies; she runs her father
 ### Ch 16 cold-read carry-forward (orchestrator, Nov 6; binding on Ch 17–18)
 - The New Bedford risk must be faced, not dropped: Ch 09/12 said Cole's people burned a witness's house after she testified, and the big boat got away. Ch 17 or 18 answers it plainly in a line or a short exchange (what is different now: the lawyer arrested and talking, the kid's statement, the boat's owners named to the Coast Guard; Dane's job is to watch the door anyway), without promising she is safe forever (Book 2 hook).
 - Her father is named Alton (first named in Ch 16).
+
+### Ch 18 beat-sheet carry-forwards (orchestrator, Nov 6; accepted under the Oct 29 standing instruction, reported to the author)
+- Ned's letter from jail: he has taken his name off his letter for her to the board, because a word from him would now cost her the job. Tess had already written to the board on Tuesday, unasked, and still hasn't forgiven her. The board's decision is June; Beth runs the ferry for the board until then.
+- Dane's boat is the Pruett boat he was driving to see in Ch 01; bought by phone Tuesday, brought across on Beth's car deck Wednesday, on Russ's empty mooring. A wooden lobster boat (not the brief's fiberglass Webbers Cove).
+- Book 2 fact: the kid swore he never put the phone behind the bait truck's wheel, so somebody on Cutter did.
+- New Bedford was answered in Ch 17 on the bench; in Ch 18 Russ's question gets only the short callback ("Not always. So I watch the door."), not the list again.
+- Dane: medical leave until he starts at the Maine office in January; his gun still in Portland; he plugged the bullet hole in Beth's door and put a bolt on it; he lives in Beth's house. Russ flown out Tuesday, home on her ferry Wednesday night with a cane.
+- Ends: "Your ten days are up, Marshal." / "So. Are you any good at your job?" / "Ask me every night."
