@@ -1,347 +1,336 @@
-# Ten Days Out — Story Bible (v2 draft)
+# Ten Days Out — Story Bible (v4.1, rebuilt to match the manuscript, Nov 14, 2026, author-approved)
 
 *Source of truth once approved. Agents read it; only the author approves changes (setup step 8, or on request).*
 
-*Bible-builder draft, October 28, 2026. Built from `book-brief.md` ("v2 rebuild settings", binding), `outline.md` (revision 3.1 plus "Settled after logic gate round 4", binding), `characters-draft.md` (folded in unchanged except for formatting and the domain-check boat change; the designer's Confirm items applied at their defaults), `reviews/outline-audit.md` (Round 4 and the Round 3 Part D watch items), `reviews/2026-10-28-postmortem-boring.md`, `genre-maps/romance.md`, `docs/ai-fiction-tells.md`, the verified material in `story-bible-v1.md` (the island, the ferry layout, the radio and phone rules, Maine EMD and constable law, the federal write-arounds, the cold-water and daylight figures), and **`research/domain-check.md` (setup pass, folded in, with the orchestrator's decisions on its items 6 and 7)**. The tides are rebuilt to the outline's route map and the auditor's corrected working (round 3). v1's Tess-as-leak timeline, the phone check-in, the Day 8 crew-cabin scene, the Ch 9 "water side" from Tess, Ned's v1 fate and the December 11 coda are gone.*
+*v4.1 (bible-builder, Nov 14, 2026). The author approved this rebuild on Nov 14. The finished book is the source of truth: `chapters/chapter-01/final.md` through `chapters/chapter-17/final.md`, 17 chapters, 38,168 words. Also read: `outline.md` (the Nov 6 manuscript revision for Ch 12–17, the orchestrator override, the logic-gate answers and the Ch 14 issues decisions), `book-brief.md` ("For the author's next bible review"), and `research/domain-check-manuscript.md` (Nov 6). Where the page and an earlier plan disagree, this bible follows the page. `continuity-log.md` entries from Ch 12 on describe the old chapters and were not used. Every change from v4 is listed in "Changes in v4.1" at the end, and what the page could not settle is in "Still open."*
 
-*Pen name for this book: **[PEN NAME: author to set; must differ from The Last Frame's]**. Imprint / KDP account: **[to set]**. KDP AI disclosure: AI-generated text.*
-
-**Autopilot defaults applied (binding until the author says otherwise):**
-1. Outline "Open for the author" items 1–15: approved at their defaults (book-brief, v2 approvals).
-2. Character-designer Confirm items 1–12: approved at their defaults. Beth's father is **Alton**. Tess's Ch 9 s1 line is **"Okay, Calloway."** "Ned always looks back" is planted in Ch 1 s1, Ch 2 s4 and **Ch 4 s3** (bible-builder's pick for the mid-book plant). The Ch 6 s3 interior beat is required. "I'll have my traps out by Tuesday" is **Russ's**.
-3. Round 4 settlements R4-1 and R4-2 are recorded as facts (CASE FACTS). R4-3 to R4-7 go to the plot architect; where they touch a fact the bible records, the fact is recorded here.
-4. **Domain check (orchestrator decisions, Oct 28):** item 6, option A: the *North Reach* is **about 104 feet and under 100 gross tons** (like MaineDOT's *Charles Norman Shay*), certificated for 149 passengers and **8 cars, or one tractor-trailer plus four light trucks**; Beth's 100-ton license covers her, and Day 10 stands. Item 7: Dane's boat is a **1966 Webbers Cove 34 with a rebuilt Cat, firm at thirty-one**. Items 1–5, 8 and 9 are applied as adjustments; the outline lines they touch are listed in OUTLINE CORRECTIONS FROM THE DOMAIN CHECK at the end, for the plot architect.
-5. New facts set by the bible-builder (marked **[BB]**) are listed in OPEN QUESTIONS at the end, each with a default.
+*v4 provenance, kept for the record: v4 was built Oct 30 from `reviews/rebuild-brief-v4.md`, `outline-v4-draft.md`, `characters-draft-v4.md`, the approved test chapter, `genre-maps/romance.md`, `docs/calibration.md` and `research/domain-check-v4.md`. Facts set by the bible-builder are marked **[BB]**; domain-check facts are marked **[DC]** (setup check) or **[DC-ms]** (manuscript check, Nov 6).*
 
 ---
 
 ## THE CORE
 
+**Publishing facts:**
+- **Pen name: Maren Holt (placeholder).** This is a placeholder until the author picks a pen name. Whatever the author picks must differ from The Last Frame's pen name.
+- Imprint / KDP account: [to set]. KDP AI disclosure: AI-generated text.
+- Title *Ten Days Out*; subtitle *A Cutter Island Romantic Suspense*. Heat label "steamy, open-door." Packaging PG-13 (World rule 1). Price $2.99 in KDP Select. Series opener.
+- Content note: on-page sex, violence, references to drug trafficking (text in World rule 1).
+- Length: 17 chapters, about 38,000 words (38,168 as delivered Nov 6).
+
 **Premise:**
-Beth Calloway, 33, deckhand on the Cutter Island ferry, puts her hand on a lobster dealer's reefer on the Thursday night freight run, finds bricks of pills under the top layer, and is seen seeing them. At 7:40 the next morning Deputy US Marshal Dane Reyes is on the Pruett Harbor ramp to take her to a mainland safe site; she refuses, casts off, and he jumps aboard badly, which costs him the boat he was going to look at that afternoon. That night a storm surge drops the transfer bridge on the ferry's bow, and the island is cut off with the two of them on it. The grand jury's last sitting before the driver's deadline is Monday, ten days out. Someone keeps telling the men from the dragger where she sleeps, and only three people could be doing it: the captain she loves like a father, the woman who walked her home from every dance on the island, and the marshal on her kitchen floor.
+On a Thursday night in November, Beth Calloway, 33, a deckhand on the Cutter Island ferry, watches a crate split open on the car deck and sees fentanyl packed under the lobsters, with the island's well-liked lobster dealer, Cole Varney, at the wheel of the truck. She calls the police. A little before three in the morning a man breaks into her house and chases her through the snow, and Deputy U.S. Marshal Dane Reyes arrives in time to get an oar swung at his head. The truck was clean by the time police stopped it, so her eyes are the whole case. The grand jury sits in Portland on Monday the 23rd, and the prosecutor wants Beth in the room; if they don't indict him that morning, Cole walks out at two. Beth refuses to leave her island. Dane refuses to leave her on it. A storm shuts the island off with the two of them, the man hunting her, and somebody she loves who keeps telling him where she sleeps, until the two of them turn around and go after the people hunting her.
 
 **Emotional question:**
-Can a woman who trusts only what her hands can check ask out loud for what she wants (the wheel, and him) from a man whose notebook she can't check, and can a man who lets the plan decide every stop make one call himself, about a person, and stand on it in front of her?
+Can a woman who has never asked anyone for anything ask out loud for what she wants (the captain's job, and this man), and can a man who decides for the people he protects learn to ask her first, and still keep her alive?
 
-**Tone:** Cold, funny, hot.
+**Tone:** Hot, funny, scared.
 
 **This story is NOT:**
-- **A rescue.** Beth makes every call the water, the weather or the island decides. Dane's skill is recognizing that and holding the position she gives him. She wins the last fight with the boat, not a gun.
-- **A romance supervised by paperwork.** No relayed calls as scenes, no strings of authorizations, no administrative negotiation (v1's Ch 8). Procedure is one line, seen; consequences happen on the page or not at all.
-- **A mystery solved at 23%.** Three live suspects, clues that point two ways, the leak named fairly no earlier than Ch 7 and revealed in Ch 9. Dane is a live suspect for the reader, not only for Beth.
-- **A cozy island.** No bakeries, inns, festivals or quirky ensemble. Two hundred and forty winter people who owe banks money and fix their own generators.
-- **Erotica with a plot attached, or a polite closed door.** Three scenes at full length, each one changing what Beth knows or risks. Nothing that lifts out as standalone erotica, and nothing cut to aftermath to save words.
-- **A dark romance.** Dane never menaces, overrides or "takes." The danger comes from the plot.
+- **A boat book.** The ferry is where Beth works. Her skill shows in what her hands do. A listener who has never been on a boat follows every line (World rule 5).
+- **A slow burn.** They spark on the first page they share, kiss in Ch 03, and are in each other's hands in Ch 04. The reader knows they want each other from the oar on. The suspense in the romance is what wanting each other costs, with a jury watching.
+- **A misunderstanding.** Nothing between Beth and Dane is overheard, withheld or guessed wrong. They fight to each other's faces, both partly right, and the fights tip into flirting. When Dane asks for the hold (Ch 12), he tells her himself before his boss calls back.
+- **A clue puzzle.** No keys, bags, seals, tags, tides or logs as clues. The mystery is one question a listener can hold: who knew where she was?
+- **Danger at a distance.** The man comes for her on the page. Something bad happens at least every second chapter.
+- **A dark romance.** Dane never menaces, claims or overrides her body. The danger comes from the plot.
 
 **Prose register, at a high point (danger, a fight, a crisis):**
-The scene slows to real time and plays every beat on the page: no summary, no cutaway before the floor is met. The two leads break in opposite directions, and the contrast is the scene. Beth's dialogue shrinks to nouns and imperatives and then stops; her interior turns to sound, in the order it arrives, because on a boat the sound tells you first. Dane talks *more*: low, continuous, present-tense transport patter, because if he can hear her he knows where she is. If both go quiet, the scene has lost a character. In anger Beth gets quieter and more exact, with the subject back in every sentence and full names; Dane gets very polite and slow, "Ms. Calloway" returns, and he tells you he's saying something once. Each beat gets one sharp sensory detail (the sleet's direction, steel under a sock, the hinge's note). Feeling is never named; it shows in what a hand does next.
+Real time, beat by beat, no cutaway. Plain words, short and medium sentences, cause before effect so a listener can follow ("That made no sense. A dealer who let his lobsters die lost his whole load. Unless the lobsters weren't the load."). The viewpoint character's fear is said plainly and at its true size ("every step of the way she wanted to run"; "That frightened her more than anything"). Then the body: teeth, feet, breath, the sound of a door. The two leads break in opposite directions, and the contrast is the scene. Beth goes quiet and listens; her dialogue drops to two or three words. Dane talks more, low and steady, present tense, so she knows where he is. If both go quiet, the scene has lost a character. In anger Beth gets plainer and bossier and uses his full name; Dane gets polite and slow, and "Ms. Calloway" comes back.
 
 **Prose register, at a quiet point:**
-A quiet scene is built on one want the reader can feel and still turns something. Beth's interior runs longer than her dialogue: plain, physical sentences that move through a room picking things up, weather and water first, then how a thing is made fast, landing on a short one. Dane fills silences; Beth lets them sit; the comedy is in the gap between his paragraph and her four words, and nobody laughs at their own line. Give one ordinary pleasure three or four sentences of room (the wheelhouse heater ticking, a line coming taut, a hot mug held under the chin) and let her enjoy it without comment. One piece of texture at most. What matters is under the talk.
+A quiet scene is built on one want the reader can feel, and something still happens in it (World rule 7). Beth's interior runs a little longer than her speech: plain, physical sentences about what is in front of her, landing on a short one. She thinks about wanting him in those words. Dane's interior runs long, on "and," about people and how a thing will sound later to a jury, ending on a short clause that undercuts him. Give one ordinary pleasure (a hot mug under her chin, onions in butter, dry socks) three or four sentences of room. The comedy lives in the gap between his paragraph and her one-line verdict, and nobody laughs at their own line.
 
 **Prose register, at a sensual point:**
-Real time, close in Beth's body and history. Beth, who almost never asks a question, asks them; she gives orders and asks, both, and her interior becomes one long *and*-chain she notices she isn't steering. Dane, who talks in the dark, goes quiet: few words, her name, a question. Humor survives inside the scene (a boot that won't come off, a laugh he kisses through). Cold and heat stay concrete: steel, wet wool, a stove, stubble, calluses on both their hands. Frank words used sparingly and exactly. The plot touches the scene at least twice.
+Real time, close in the viewpoint character's body and history. Beth says what she wants ("Come here." "Don't stop." "I want you."), and her interior turns into a long *and*-chain she notices she isn't steering. Dane goes quiet: her name, a question, "Can I?" In Dane's POV scenes his interior keeps its long sentences while his mouth stops, and he hears her ask. Humor survives inside the scene. Bodies are specific (her scar, his stitches, cold feet, stubble, taped hands). Frank words used sparingly and exactly (HEAT RULES). Her father, his things and her people stay out of these scenes (World rule 3).
 
-**Audit targets (whole book):** mean sentence 12–17 words; sentences of five words or fewer under 18% (Beth's dialogue is terse; her interior must carry the length); every POV chapter has at least three interior passages longer than the dialogue around them.
+**What changed from v2, in one line each:** feeling and fear may be named, plainly, at their true size; plot facts are said in plain words and said again; attraction is said in words, with gestures as extras; there is no cap on longing.
 
-**Point of view (binding):** Close third, past tense. **Beth only** from Ch 1 through Ch 9 s2; **one Dane section** in Ch 9 s3, which settles nothing; Beth for Ch 9 s4 through Ch 10 s4; **Dane** for Ch 10 s5, the HEA. No head-hopping, ever. In Beth's POV Dane is read only through his hands, his voice, what he does and what she can see on a screen or a page.
+**Point of view (binding, as on the page):** Close third, past tense. Ch 01 Beth, then Dane (by scene). Ch 02–13 alternate: Beth in even chapters, Dane in odd. Ch 14 Beth (the pier, the wheel, the dawn), then Dane (the public yes, the car deck). Ch 15 Beth. Ch 16 Beth (the courthouse), then Dane (the bench, the hotel, Russ's text). Ch 17 Beth. **Every chapter and every POV switch names the viewpoint character in its first sentence** ("Dane Reyes had the ham in the town-office oven by three…"). No head-hopping inside a scene.
+
+**Audit targets (whole book):** mean sentence 11–16 words; sentences of five words or fewer under 20%; every chapter has at least three interior passages longer than the dialogue around them; jargon per World rule 5.
 
 ---
 
 ## CHARACTERS
 
-*Folded in from `characters-draft.md` (character-designer, October 28, 2026) unchanged except for formatting and one domain-check correction (Dane's boat is a Webbers Cove 34, not a Holland 34; marked). Bible-builder additions are marked **[BB]**.*
-
-*Carried forward from v1: names (with one change, Beth's father), ages, jobs, the island, the boats, and the verified facts (Beth's AB endorsement and unused 100-ton license; Dane's Lowell, Army MP, Lowell PD and Marshals record; Marisol Duarte; Tess's tank loan, the store, the EMD title; Russ's training and the* Second Wind*; Quist at HSI Portland; Pike in Portland). What changes is everything under the facts: wants apart from each other, humor, syntax, the friction, and who the leak is. In v1 Ned was the red herring and Tess the leak. In v2 Ned is the leak and Tess is the suspect the reader believes.*
-
-*What readers said, which these people must not be: Dane as "boots, a sat phone and a gun"; two leads in one voice who both count things; leads who "did business"; a mystery that was over by 23% because the leak was the only vivid suspect. From the comps: a heroine who makes senseless choices in danger; heat that stands in for character; "missing depth" at short length.*
+*Folded in from `characters-draft-v4.md` (character-designer, October 30, 2026), with heading levels, five setup domain-check corrections marked **[DC]**, and the v4.1 changes to match the finished book. Wants, voices and habits are unchanged except where the page differs; each such change is listed in "Changes in v4.1." The designer's flags and the orchestrator's decisions are at the end of RELATIONSHIPS. Walk-ons and a few extra pairs are bible-builder additions, marked [BB].*
 
 ### Beth Calloway
 
-- **Name:** kept from v1. Elizabeth Ann on her license, Beth to everyone. A plain name for a Maine girl born in the early 1990s. Calloway is an old island surname with a cove named for it. Ned is the only person alive who calls her "Bethie." To Tess and the net she is "Calloway."
-- **Age, body, clothes:** 33. Five foot seven. Broad through the shoulders, forearms roped from line handling, a white hawser scar across her left palm from age 23. Dark blond braid under a black watch cap. Gray eyes. Windburn across the cheekbones from October to April. On deck: Grundéns bibs, an orange float coat, XtraTufs. Ashore: the same XtraTufs, a wool sweater of her father's with the elbows darned in the wrong color. The prose varies how her body appears: never the same feature twice in a chapter, and never her size or shape as a topic.
-- **Physical habit others notice:** **she takes her gloves off to do anything that matters.** She reads binders, knots, latches and engines bare-handed, in sleet, and puts the gloves back on after. Dane notices it on the ramp at 7:40 before he has noticed her face. Tess scolds her for it ("You'll have hands like your father's"). Ned hands her his gloves without a word every winter and she hands them back. It pays in Ch 10 s5: her bare hands on the binders, and her hand putting his right. **Cap:** noticed on the page at most once a chapter. The outline's "palm flat" stays once, in Ch 3.
+- **Name:** Elizabeth Ann Calloway on her license, Beth to everyone. A plain name for a Maine girl born in 1993. Calloway is an old island family. Ned is the only person alive who calls her "Bethie." Tess calls her "Calloway" and "Beth" when it's serious. Dane calls her "Ms. Calloway" when he's angry, and "Beth" otherwise.
+- **Age, body, clothes:** 33. Five foot ten, almost Dane's height, so they meet eye to eye ("tall, almost his height"). Strong through the shoulders and arms from eleven years of chains and ropes. Long dark-blond braid, gray eyes, a red wind-burned face from October to April. A white scar across her left palm from a rope at 23 (it opens again on the wheel in Ch 14). For work: an orange work coat, rubber boots, a black knit hat (the hat becomes a pressure pad on Dane's side in Ch 15). At home: thick wool sweaters; her father's old sweater, elbows darned in the wrong color, is a home object only and never appears in a kiss or love scene (World rule 3). The prose never makes her size or shape a topic.
+- **Physical habit others notice:** **she takes her gloves off to do anything that matters**: a knot on the float (Ch 02), the match for the heater (Ch 04), the wet knots in Dane's boot laces (Ch 06), Russ's leg on her step (Ch 13). In sleet, bare-handed, and the gloves go back on after. It costs her: her palms are skinned raw on the iced shore rocks in Ch 06 and stay raw through Ch 08, and from Ch 14 her palms are torn by the wheel and she works in tape.
+- **Age-true behavior (33, in 2026):**
+  1. **Her phone lives in a zip bag in her chest pocket.** It drowns on the rocks in Ch 07 when the bag splits, so from Ch 08 they share Dane's. Before that she has a muted group text with two friends from high school, one in Portland and one in Bangor, both with small kids, and she reads it all at once on Sunday nights and hearts the baby pictures without writing anything.
+  2. **She tried a dating app once.** It found her nine men inside fifty miles, and two were her cousins. She tells Dane this in Ch 07, flat, to keep him walking.
+  3. **Her body is 33 and works for a living.** Her lower back is stiff after a day of hauling ferry lines, and she shifts off a knot in the net without thinking (Ch 04). She can still go out a window at a run, but she feels it the next morning.
+  - *Also:* she has a saved search for cheap flights to somewhere warm (Florida, once Puerto Rico) that she has never booked. She has never been farther south than Boston. Her music comes from her phone through one earbud on the night runs, and it's mostly what she listened to at 19.
+- **The age gap:** five years. Dane notices she's younger than him for about a second on the first night and then forgets it for the rest of the book. It's never mentioned as a problem.
 - **Background (single lines):**
-  - Born and raised on Cutter. Island school K–8, then high school on the mainland, boarding weekdays.
-  - Her father, Alton Calloway, fished the *Ruthie C*, a 38-foot lobster boat named for Beth's mother. The bank took the boat eight years ago and sold it to a man from away, who made it a picnic boat.
-  - Alton died of a heart attack two years later, at 61.
-  - Her mother, Ruth, left for Bangor when Beth was nine. They talk at Christmas.
-  - One year at Maine Maritime Academy. She left when her father got sick the first time.
-  - On the *North Reach* since 22, under Ned. AB endorsement. A 100-ton master's license since 30, never used. **[BB, domain check]** On the credential it reads "Master of Self-Propelled Vessels of Less Than 100 GRT," near coastal; islanders say "my hundred-ton." It covers the *North Reach* (under 100 gross tons).
-  - Lives alone in her father's Cape on the Harbor Road. Still owns his fish house on Calloway Cove and keeps it up herself.
-  - Owes no one a dollar. She owns nothing financed, and that's on purpose. **[BB, domain check]** She banks by envelope through Tess's bag, never by app or phone, so she never sees the $9,000 credited.
-- **Want (the book's plot want) [BB]:** to get to Portland on Monday on her own terms, testify, and be back on the boat Tuesday as if none of it happened.
-- **What she wants that has nothing to do with Dane:**
-  1. **The wheel.** Ned retires in June. If no islander holds the license and asks, the ferry district will hire a captain from away. Beth has the license, has renewed it, and has sat in the district's office parking lot twice without going in. She hasn't asked Ned to put her name forward, because asking would mean saying out loud that he's old and that she wants something. *Before the book:* she has been taking the *North Reach* off the slip in her head every morning for a year, and she knows the ten-second gust that sets her onto the north dolphin. (Pays: Ch 4 s3, "She doesn't ask him for the wheel"; Ch 10 s1, "Take her across tomorrow"; Ch 10 s3, the wheel.)
-  2. **To finish the fish house.** She reshingles one wall every fall. In October she did the seaward wall, and the landward one is left. Her father's tools are in there, his paint cans with his handwriting on the lids, the oil-drum stove she relined in September. Nobody knows she keeps it up. Ned has seen her rowing out to it with a bundle of shingles, which is why he alone could guess it on Day 5. It's the small want, and it explains why the fish house is dry and the stove catches on the first match in Ch 5.
-- **Wound, and what it makes her do:** She watched the bank take her father's boat on paper while he did everything right on the water, and she carried the bank man's papers out to his truck because her father asked her to. *Behavior:* she believes what her hands can check and distrusts anything written down about a person. She does a job herself rather than ask for it. She trusts her own people by default and strangers not at all. The island is "ours," and she doesn't run the same checks on ours.
-- **Need:** To ask for what she wants out loud (the wheel, him) before she has checked it by hand.
-- **Strength and how it is also the flaw [BB, from v1]:** She reads weather, water, boats and the island better than anyone sent to protect her. The same certainty makes her refuse to check her own people, which is exactly backwards in this book.
+  - Born and raised on Cutter. The island school through eighth grade, then high school on the mainland, boarding in the week.
+  - Her mother left for Bangor when Beth was nine. They talk at Christmas.
+  - Her father, **Alton** Calloway, was a lobsterman (named on the page in Ch 15). The bank took his boat eight years ago and sold it to a summer man who made it a picnic boat (off the page).
+  - Alton died six years ago, at 61. She lives alone in his house and keeps his fish shack on the rocks below it, with his oars still in the corner. He mended his traps in the co-op net loft every winter (Ch 04), and he drew his own way home inside the ledges in pencil on the pantry door (Ch 13).
+  - One year at the maritime college in Castine. She came home when her father got sick the first time.
+  - Deckhand on the island ferry for eleven years, under Ned. Ned taught her his knots on the car deck when she was nine (Ch 11).
+  - She got her captain's license at 30. The island newsletter ran her picture, and Tess pinned it on the board by her register. She had never once taken the wheel on her own until Ch 14.
+  - She closes up a few summer houses every October for extra money, and keeps their keys on her ring (Ch 05, Ch 10).
+  - She owes nobody a dollar, on purpose ("I don't owe anybody," Ch 04; the penny at Tess's counter, Ch 05).
+- **What she wants that has nothing to do with Dane:** **The captain's job.** Ned retires in June. If no islander asks for it, the ferry board will hire a stranger from the mainland. Beth has the license and the eleven years. She hasn't asked Ned to put her name forward, because asking means saying out loud that he's old, and that she wants something. *What she's doing about it before the book starts:* she keeps the license current **[DC]**. She has driven to the ferry office in Pruett twice and sat in the parking lot without going in. She watches every move Ned makes at the wheel and does it in her head after him. *Pays on the page:* Ch 08 she tells Dane, and he dares her to ask; Ch 09 she asks Ned on the beach, and he says yes ("I've had the letter to the board written since the day you got your license"); Ch 14 her first time alone at the wheel, taking the ferry off the pier in the storm; Ch 15 she runs her father's way inside the ledges and lands at Pruett, her first landing there; Ch 17 the board has her running the ferry until it decides in June, Ned has taken his name off his letter, and Tess has written to the board unasked.
+  - *Small want:* to see a warm ocean once. Never booked. It sits behind "Those boots are for a different ocean." Unpaid in this book.
+- **Wound, and what it makes her do:** Her father did everything right and lost his boat on paper anyway, and she carried the bank man's papers out to his truck because her father asked her to. *Behavior:* she does a job herself and never asks for help with it. She pays back every favor at once. She never asks for anything she wants, so she can never be told no. And she trusts her own people completely, because they're all she has.
+- **Need:** To ask out loud for what she wants (the job, the man) and let someone give it to her.
 - **What she would never do:**
-  1. Leave a boat she's crewing with a job undone, whatever the weather or the order.
-  2. Put a true, private thing on the air. She knows everyone listens to VHF. (Her Ch 9 call to Tess is a lie, made on the air because it's meant to be heard.)
-  3. Take money she didn't earn, or borrow. The $9,000 in her envelope is an insult aimed at exactly this, and she reacts to it that way.
+  1. Run. Not from her house, not from her island, not from a man with a gun. Running would tell Cole's people that shooting at a witness works ("If I leave my island because a boy shot at me, then shooting at me works," Ch 12).
+  2. Leave a job half done because someone told her to stop.
+  3. Lie about something she did. Asked whether she's in a relationship with the deputy, she says yes, then tells them what she saw (Ch 03 she says she will; Ch 16 she does).
 - **The choice a reasonable reader would condemn:**
-  - **Primary (Ch 6 s3).** Below decks at the pumps, out of Dane's hearing, she asks Ned whether the float is workable at the bottom of tomorrow's first tide. Dane has just said "Nobody. Not Ned," and she agreed. *Why she does it:* she doesn't count asking Ned as telling anyone. Ned is the boat, the boat was her father's friend, and she needs his knowledge of the float at that tide. She also wants to show the marshal that her island has resources his phone doesn't. Cost: Dane is shot. **The page must give her one interior beat in which she knows she promised and does it anyway** (binding; see Character rules).
-  - **Secondary (Ch 8 s5).** She builds the case against Tess aloud, names Teresa Marr to Pike, and uses Tess's net as bait. *Why:* her case is strong, and Tess is the only answer that leaves her Ned and Dane both. A reader can fairly say she chose Tess so she wouldn't have to look at Ned. She half knows it, and the reader should be able to see that.
+  - **Primary (Ch 08, the tower).** The boss sets the hour as a test: Marine Patrol comes at three, and Beth's three people get the true hour, from her. Dane wants to tell them five and bring the boat at three; the boss says no. Beth makes the calls herself, to Tess, Ned and Russ, from the iced walkway around the top of the tower. *Why she does it:* "If they hear I'm alive, they hear it from me." She won't treat her own people like suspects, and she says so to Dane's face: "None of them. Watching them is your job. Calling them was mine." Cost: the ambush at the north beach (Ch 09), a Marine Patrol officer shot in the shoulder, the boat holed, and no way off until Sunday. She owns it in Ch 12: "I wanted them told, and a man paid for it."
+  - **Secondary (Ch 11, the bait).** She insists on being the shape on the daybed when the bait brings the leak in: "A quilt doesn't breathe. I want to be the one they find." She knows whoever comes will be one of hers, brought by their own kindness, and she says so: "So it's my face they find." Cost: the man she loves most kneels over her with his knife out, and she ties his wrists with the knot he taught her.
 - **How she is funny, and at whom:**
-  - *Verdicts on gear that are really about the man.* One flat line, conclusion first, with no signal that it's a joke. "Those boots are for a different ocean." "That's a narrow definition of waterproof." *Target:* Dane's equipment and mainland ignorance, and men from away generally.
-  - *She does voices.* Terse as herself, she is loose and wicked in other people's: Tess on net control, Russ's slow "somebody," Ned on the radio, the summer woman who calls the ferry "the little boat." Nobody off the island knows she can. It surfaces in the dark in Ch 2 s5, whispered house by house: "Calloway, home. Marshal, on the couch. Allegedly." It is also why, in Ch 9, she knows "Bethie. Water side." for Ned's voice in one syllable. **Cap:** twice in the book on the page, Ch 2 s5 and once more (Ch 6 s4 or Ch 10).
-  - *Sample:* Dane: "What's a Webbers Cove 34 with a rebuilt Cat worth?" / "To who?" / "To me." / "Less than you're paying."
-  - *Who she's funny with:* Ned. On the boat they're a double act, his understatement and her flat follow-up. And Tess at the counter: Tess announces, Beth corrects in four words.
+  - **The flat verdict.** One plain sentence, conclusion first, no smile to signal the joke. "Those boots are for a different ocean." "That ham is load-bearing." "That coat's never been wet." Her target is Dane's mainland softness and anything a man has bought to look prepared.
+  - **She says the embarrassing thing out loud on purpose.** Everyone else talks around it, and Beth buys the condoms in front of Tess, two lobstermen and God. She asks Dane, "How many witnesses have kissed you?" as if she were asking the time. The joke is that she won't be embarrassed. Her targets are Dane, Tess and the island's gossip.
+  - **She won't bet.** "I don't bet on what I can see." The relationship's joke (below).
+  - *Sample:* Dane: "When this goes in a report, can everybody please remember that I jumped?" / Beth: "You fell toward the boat. It's different."
+  - *Who she's funny with:* Ned on the boat, where his slow understatement sets up her verdict. Tess at the counter, where Tess announces and Beth corrects her in four words.
 - **What she finds attractive in Dane, plainly:**
-  - That he jumped, when he plainly jumps badly. He committed to a moving boat in the wrong boots.
-  - His hands. There's a ridge of old callus at the base of the fingers that a man with a notebook shouldn't have (the sternman summers; see Dane).
-  - His mouth when he's about to call someone's next move and be right.
-  - His forearms when he pushes his sleeves up to bleed the generator.
-  - That he talks to her in the dark, low and steady. Nobody has talked to her that much since her father.
-  - That he takes being wrong about water without sulking.
-  - The stubble by Day 3, which suits him better than the shave.
-  - *First thing she notices:* the boots. The second is that he's watching the courier's pouch, not her, and she minds.
+  - *First thing she notices:* the boots, and then that he's warm. She leans into him in the snow before she's decided to.
+  - His mouth. She thinks about it the first night and every night after, and says so in her head in those words.
+  - That he talks to her in the dark, low and steady, when everyone else she knows goes quiet.
+  - That he jumps when he plainly jumps badly. He doesn't wait to be good at a thing before he does it.
+  - His forearms with his sleeves pushed up, nailing her father's board across her door (Ch 02), cooking too much food (Ch 17).
+  - That he loses an argument to her and says so, out loud, without sulking.
+  - That he says what he wants. She has never been with a man who does.
+  - His hands, when he's good at a thing: the blood trail, the strips on her knee (Ch 10). She watches everybody's hands to see whether they know what they're doing. His do.
 - **Syntax profile:**
-  - *Sentence length and shape.* Dialogue: short. Conclusion first, reasons only if asked. She drops the subject the way deckhands do ("Lid's sprung." "Won't run." "Sea coming. Stand still."). Imperatives without "please." Full stops, no hedges, no "I think." She almost never asks a question; she states the thing and waits. Interior: longer than her dialogue, plain and physical. Sentences carry hands, water, weight and weather. An occasional long one runs on *and* when her body gets ahead of her.
-  - *Under pressure.* **Fear:** even shorter. Nouns and imperatives, and she stops talking altogether and listens, because on a boat the sound tells you first. **Anger:** quieter and more exact, with the subject back in every sentence, full names, and one sentence that hits something old ("Don't write me down."). **Lying:** she's a bad liar out loud. The lie comes too short, followed at once by a task ("Nothing in it. Hand me that."). **Desire:** she asks questions, the one register where she does, and that is the tell for the reader. In the heat scenes she gives orders and asks, both, and her interior turns into one long *and*-chain that she notices she isn't steering. This is her high-temperature register, and it must appear on the page.
-  - *What she notices first.* Weather and water (wind direction, the glass, what the tide is doing), then how a thing is made fast: binders, a mooring, a latch, a man's boot on a wet deck.
-  - *One habit of thought hers alone.* **She places people by their boats, and boats by their people.** Russ is the *Second Wind*. Arsenault is the *Margaret Ann*. Ned is the *North Reach*. The summer man is the picnic boat that used to be her father's. A person with no boat is "from away," and she has no slot for him. Dane has no boat, until Ch 10. **Cap:** at most once a chapter.
-  - *Her words, never Dane's:* "make fast", "the glass" (the barometer), "the slip", "from away", "dooryard", "out back", "the boat" (always the *North Reach*), "she" for any vessel, "load", "Go home.", "Hold it.", "wicked" (once in the book at most). Never "okay" as a pivot, "here's the thing", "for the record", or any police word.
-  - **[BB] Counting is not hers.** v1 gave both leads the counting habit. In v2 neither lead counts things as a reflex; Dane keeps score of predictions, Beth places by boats.
+  - *Sentence length and shape.* Dialogue: short to medium, and always whole sentences (no clipped deckhand fragments). Conclusion first; the reason only if pushed. Imperatives with no "please": "Come here." "Sit." "Move." She asks short questions she already knows the answer to, one at a time, and waits. No hedges, no "I think," no "maybe." Interior: plain and physical, a little longer than her speech, and it says what she wants in plain words. It lands on a short sentence.
+  - *Under pressure.* **Fear:** she goes quiet and listens, because she knows the island by sound. Two or three words at most ("Stop." "His foot." "Quiet. Listen."). This is the core contrast with Dane, who talks more. **Anger:** she gets plainer and bossier and uses his full name ("That's Cole winning, Dane Reyes. Slower."), then does something with her hands (the wrench on the pin, the coat off the hook). **Lying:** a bad liar out loud. The lie is too short and she follows it with a task or turns away ("We're fine." "I'm fine."). **Wanting:** she says it. "I want you." "Come here." "Don't stop." In the heat scenes her interior runs long and she notices she isn't steering it. This is her high-temperature register, and it has to be on the page.
+  - *What she notices first.* Hands, what people are doing with them and whether they know how. Then sounds: a door, a step, an engine that's wrong.
+  - *One habit of thought hers alone.* **She sums people up in one plain sentence.** "Russ Whitcomb was a good man who was bad with money." "Cole Varney tipped twenty dollars at Christmas and never once looked her in the eye." She has a verdict on everyone, and the book breaks the one she has on Ned. *Second habit:* when she can't decide, she fixes the nearest broken thing, and by the time it works she knows what she's going to do (the heater in Ch 04, the generator in Ch 08, the steering rod in Ch 12, the stuck drawer in Ch 17).
+  - *Her words, never Dane's:* "Marshal" (as a tease, when she's flirting; "Dane" when it's serious), "Fine." (her pivot), "Quit it.", "Come here.", "That's a yes.", "Sit.", "ours", "from away" (once or twice, for mainland people), "my boat" / "my ferry", "wicked" (once in the book at most). She never says "okay" as a pivot and never uses a police or legal word without making fun of it.
 - **Ten lines of dialogue:**
   - *Flirting*
-    1. "Stand on the yellow. There's grit in the paint. Those boots are for a different ocean."
-    2. "Pouch is zipped, tagged and going to the bank. You can stop watching it. I'm the one casting off."
+    1. "You keep looking at my mouth, Marshal. Say something or do something. I'm cold either way."
+    2. "I'm going to kiss you. If you've got a reason why not, you've got about three seconds, and it had better be better than a jury." (Ch 03, on the page)
   - *Angry*
-    3. "Don't you write me down. I've been written down. A man from the bank did my father's boat in an afternoon, and I carried the papers to his truck."
-    4. "Get off my boat. Not the island. Can't help you with the island. The boat."
+    3. "You decided I'd be alive in Ohio and stop being me, and you didn't even ask."
+    4. "Move, Dane, or I go out the window. I've done it before. In socks."
   - *Lying*
-    5. "Nothing in it. Soup for Ida and who's short on propane. Hand me the milk." (Ch 3, hiding Tess's log)
-    6. "Tess. It's me. On the boat tonight, by myself. Ned's ashore for supper." (Ch 9 s1, the bait)
+    5. "We're fine." (Ch 13, to Mercer, when they're short of gauze)
+    6. "I'm fine. Hold this. No, the other end."
   - *Afraid*
-    7. "Don't talk. Door's gone quiet."
-    8. "Stay a stride inside me. Where I put a foot, you put a foot. Gut's on the left, and it doesn't care who you work for."
+    7. "Stop. Listen. He's on the steps. That's his bad foot."
+    8. "Hold my hand and do exactly what I do." (Ch 06, on the page)
   - *Tender*
-    9. "Hands. Give them here. You can't feel a trigger like that."
-    10. "Will you stay through the barge? I'm asking. I don't, mostly."
+    9. "Come here. You're shaking. Let me be the warm one for once." (Ch 07, on the page)
+    10. "Will you stay? I'm asking. I don't, mostly." (Ch 16 on the page has "Will you stay? I'm asking.")
 - **Five lines of interior narration:**
-  1. The binder gave a quarter turn under her hand that it shouldn't have, and she took it up before she'd decided to.
-  2. Russ was the *Second Wind* and four hundred traps. Ned was the *North Reach* and her father's oldest friend. The marshal was a pair of boots.
-  3. She'd been written down once before, in blue pen, by a man in a good coat, and she had carried the paper out to his truck because her father asked her to.
-  4. Half tide, knee-deep, the gut a stride to her left and his belt in her fist, and she wasn't thinking about the gut, and that was the most dangerous thing on the bar.
-  5. She wanted to ask him something, and she didn't know what. She stood in the fish house door with the question in her mouth like a nail she hadn't driven.
+  1. She wanted him. She'd wanted him since the oar, and she was done calling it the cold.
+  2. Russ Whitcomb was a good man who was bad with money, and she had known both of those things since the fourth grade.
+  3. She didn't know what to do, so she fixed the generator, and when it caught under her hands she knew she was going to make the calls.
+  4. In eleven years Ned had never been afraid, and now he was afraid every time she looked at him, so she stopped looking.
+  5. He tasted like bad coffee. Fine. Let the jury hear about it.
 - **Three ordinary pleasures:**
-  1. The wheelhouse at quarter to six before the first run: the heater ticking, Ned's coffee too strong to drink till Pruett, the harbor coming up gray in the windows he has made worse with his rag.
-  2. A line coming taut, bare-handed, exactly where she meant it to.
-  3. Her father's oil-drum stove catching on the first match, and the pine tar coming out of the fish house walls as the room warms. (Ch 5 uses it: the first match.)
+  1. Onions frying in butter in a cold kitchen at dusk, and the smell filling the house before anything else is ready (Ch 06 opens on it).
+  2. A dead machine starting under her bare hands: the kerosene heater (Ch 04, "Nothing in the world was better"), the generator (Ch 08), the drawer that runs the whole way (Ch 17).
+  3. The first hot mug of the morning, held under her chin with both hands until it's cool enough to drink (Ch 03).
 
 ---
 
 ### Dane Reyes
 
-- **Name:** kept from v1. His legal name is Daniel Efraín Reyes. His mother's family called him Dane from the crib to tell him apart from her father, Daniel, and it stuck. *Efraín* is his father's name. Beth learns that "Dane" isn't his name in an exchange, no earlier than Ch 6. One line, a flirting beat, optional.
-- **Age, body, clothes:** 38. Six foot, lean, a runner's build. Dark hair cut short, gray at the temples. Brown eyes that go to hands before faces. Clean-shaven on Day 1 and stubbled by Day 3, and it stays. Old scar tissue across the right knuckles (a door, 2019). Dark gray soft-shell over a fleece, jeans, and waterproof hiking boots bought for this job at a place on Route 1 that also sells fudge, $190, wrong for a steel deck. Glock on the right hip, a small trauma kit, the Iridium, and a Rite in the Rain notebook in the inside left pocket. **[BB]** No caliber or model number on the page.
-- **Physical habit others notice:** **he sits with his back to a wall and his right side clear, and looks at your hands before your face.** Beth takes the other chair by Ch 3 without being asked. Tess: "Your marshal looks at your hands like he's pricing them." Second habit, his own: he angles any screen away from the person beside him. Transport deputies never let a prisoner see a phone. That's why the lit screen left on the table in Ch 3 s1 is a lapse a reader can believe only because he hasn't slept.
+- **Name:** Daniel Efraín Reyes on paper. His mother's family called him Dane from the crib to tell him apart from her father, Daniel, and it stuck. Efraín was his father's name. A Lowell, Massachusetts name from a Puerto Rican father and an Irish-American mother, which is common in that city. The full name is not on the page; Beth may learn it in one flirting line if a revision wants it.
+- **Age, body, clothes:** 38. Six foot one, lean, a runner. Dark hair cut short, going gray at the temples. Brown eyes. Clean-shaven on the first night and stubbled by Day 3, and it suits him. Old scar across the right knuckles. A dark gray jacket, jeans, and brand-new waterproof boots from a store on Route 1 that also sells fudge, which are wrong for snow, ice and everything else on Cutter. By Ch 14 he's in Russ's flannel shirt, short in the arms, because his own is round her hands; by Ch 16 a hospital sweatshirt; in Ch 17, the right boots from Tess's store. A gun on his hip and a small first-aid kit he calls the trauma kit. His handcuffs go into the bay with the wave in Ch 07. No gun model on the page.
+- **Physical habit others notice:** **he sits with his back to the wall and watches people's hands before their faces.** Tess, at the counter: "Your marshal's looking at me like I'm lying to him." Beth takes the other chair without being asked in Ch 05. Second habit: **he talks.** In a crisis, low and steady, all the way through. Everyone on the island notices that the marshal never shuts up, and Beth notices when he finally does.
+- **Age-true behavior (38, in 2026):**
+  1. **He texts in full sentences with periods**, which the younger deputies find threatening (on the page in Ch 10 and Ch 15, where he types the kid's statement one-handed "in full sentences, with periods").
+  2. **His body is starting to send notes.** His right knee stiffens in the cold (the Army), goes late on the walk to the lighthouse and cracks in the dark in Ch 07, and is a second slow in the snow in Ch 13. He can't sleep on a bad mattress the way he could at 28. He runs four miles most days "to stay ahead of forty."
+  3. **His references are his.** The 2004 Red Sox, which he watched at 16 on his father's couch. He knows every song on the radio in his mother's car in 1998.
+  - *Also:* he is divorced at 34, and he and his ex-wife still text on each other's birthdays. He has started noticing his friends' kids and wondering, and he doesn't say so.
+- **The age gap:** see Beth. Neither of them treats it as anything.
 - **Background (single lines):**
-  - Grew up in Lowell, Massachusetts. His father, Efraín, from Ponce, drove the same city bus route for thirty years. His mother, Kathleen, was a Lowell police dispatcher. Both are alive and retired, and they still argue about the thermostat.
-  - Spanish good enough with his father, bad on the phone.
-  - At 15 and 16 he spent two summers sternmanning out of Rockport, Massachusetts, on a 32-foot boat for his mother's cousin. That's the callus, and that's the want.
-  - Four years Army MP, three at Lowell PD, the Marshals at 29.
-  - District of Massachusetts, three weeks into a temporary duty in Portland.
+  - Grew up in Lowell, Massachusetts. His father drove the same city bus route for thirty years and still can't win an argument about the thermostat (Ch 03). His mother worked nights; she was a police dispatcher. Both are alive and retired.
+  - His Spanish is good with his father and bad on the phone.
+  - At 15 and 16 he spent two summers on the back of his mother's cousin's lobster boat out of Rockport, Massachusetts. That's the calluses, the knots ("a teenager's knots," Ch 02), and where the want comes from.
+  - **[DC]** Four years of college first (UMass Lowell, off the page), so 18 to 22 isn't blank.
+  - Four years in the Army as a military policeman, three with the Lowell police, then the U.S. Marshals at 29 (nine years of this job).
+  - A deputy U.S. marshal out of Boston, on loan to the Portland office.
+  - **[DC]** On the first night he was in a motel ten minutes from the Pruett harbor, up the coast for a boat viewing on Saturday. That's why he's the deputy who gets the call, and why he's at the shack a little before three.
   - Divorced at 34, quietly. He takes the blame, in one line at most.
-  - Four years ago Marisol Duarte, 24, a cooperating witness, asked to stop at her sister's on the way to a safe site. He gave her ten minutes, and she was shot in the parking lot. The review cleared him. He has not bent a plan since.
-  - This was meant to be a one-day transport with a second deputy meeting him at Pruett. He booked a boat viewing for 3:30 the same afternoon.
-- **Want (the book's plot want) [BB, from v1]:** to deliver Beth alive and credible to the grand jury on Monday, by the book, with nothing on the record anyone can use.
-- **What he wants that has nothing to do with Beth:**
-  1. **A boat he can't be called off of.** **[Domain check: was "a used Holland 34"; no Holland 34 exists, and a Holland 32 costs far more.]** A **1966 Webbers Cove 34 with a rebuilt Cat** in a Pruett Harbor yard, "firm at 31, Saturday noon." It's his savings. It's the eleventh boat he has looked at in two years, and he was called off three of the viewings. What he wants isn't a hobby. He wants one thing in his life whose schedule nobody else sets, where the only person his call can hurt is him. He's embarrassed by it, because a deputy shopping for a lobster boat on a protection job is unprofessional, and so he's evasive about the money. That evasiveness is part of what makes him a suspect. *Before the book:* the viewing booked, the broker texting, the money in a credit union account he hasn't told his mother about. (Pays per the outline's capped boat thread: Ch 1 s3, Ch 1 s4, Ch 3 s1, Ch 3 s2, Ch 4 s1, Ch 6 s4, Ch 10 s5.) **[BB]** On the page: "the Webbers Cove," "the thirty-four," or "the boat"; the year (sixty years old) once at most. The yard wants it gone before winter storage, which is why it's firm at thirty-one.
-  2. **To call Beth's next move right once.** He predicts people for a living and out loud for fun, and he's wrong about her every time from the ramp on. It's the small comic want. He loses at it all book and is glad to. Ch 10 s5 lets him get one right, or lets her hand him one.
-- **Wound, and what it makes him do:** He bent a plan once, for a person, and she died in the ten minutes. *Behavior:* he lets the plan and the order decide, so that no stop is ever his. He walks every place a protectee goes before she goes there. He obeys a lawful order he hates and says so only to himself. He writes down only what he saw himself. That makes the notebook accurate, and it's why it hurts when Beth reads it. Under all of it, he makes decisions *for* the person he's protecting and calls it care.
-- **Need:** To make a call himself, about a person, and stand on it in front of her instead of behind an order.
-- **Strength and how it is also the flaw [BB, from v1]:** Discipline and patience; he reads people and waits. The same discipline lets him hide behind an order and decide for her what she can carry.
+  - Four years ago in Boston, a witness asked him for ten minutes at her sister's on the way to a safe house. He gave her the ten minutes, and she was shot in the parking lot. Her name was Marisol, 24 (never named on the page). She is the witness who told him "everybody who doesn't know what they'd do instead wants a boat" (Ch 08). He was cleared. He hasn't bent a plan for anybody since.
+  - He has protected forty witnesses ("maybe forty," Ch 01). Beth is forty-one.
+- **What he wants that has nothing to do with Beth:** **A boat nobody can call him off.** An old wooden lobster boat, the kind he worked on at 16, that he can fix himself and take out on his own days off. He wants one thing in his life whose schedule nobody else sets. *What he's doing about it before the book starts:* he has saved for six years and looked at eleven boats in two years. He had one booked for Saturday in Pruett. *Pays on the page:* Ch 08, the tower ("A witness told me once…"); Ch 11, in a whisper in the dark, the boat he means to buy and the soft floor at the back he'd fix first ("They all leak. That's the little work."); Ch 16, on the bench, he admits he looked at boats for two years because he wanted a way out of the job, and asks for "a worse boat than any I looked at, one that stays tied up where you can see it from the ferry"; Ch 17, he has bought the Pruett boat he was due to see that first Saturday, by phone, on Tuesday, and Beth carried it over on her car deck. It leaks.
+  - *Small want:* to make Beth laugh out loud. He keeps count ("That's one laugh," Ch 04).
+- **Wound, and what it makes him do:** He bent a plan once, for a person, and she died in the ten minutes. *Behavior:* he decides for the people he protects and calls it his job. He thinks about everything in terms of how it will look later to whoever is judging it (a review board, a lawyer, a jury). He talks so the witness keeps talking, because if he can hear her, he knows where she is. And he never says "trust me," because people say that just before it goes wrong.
+- **His reason for holding back (Ch 03, the lawyer and the jury):** The truck was clean, so Beth's eyes are the whole case. If Cole's lawyer can stand up and tell twelve strangers that the marshal was sleeping with the only witness, those twelve people start wondering what else the marshal told her to say, and Cole goes home. Dane believes this and says it to her face. Beth answers him ("A jury doesn't get a vote on who kisses me. I do. I voted."), and she wins most of the argument; he tells her she's right about the vote. His reason comes due on the page: he puts it on the record himself (Ch 14, "And I'm involved with her. Write that down too."), he is taken off her protection at six on Monday morning and the prosecutor tells the grand jury he'll answer for it under oath at trial (Ch 16), and a letter about her goes into his file and follows him to the Maine office (Ch 17). It was never a fake obstacle.
+- **Need:** To ask her before he decides, and to stand on his own call about a person, out loud, in front of her.
 - **What he would never do:**
-  1. Say "trust me," "you're safe," or "I've got you." He thinks those are the words people say just before it goes wrong.
-  2. Let a protectee make a stop he hasn't walked first. On Cutter, Beth makes him walk everything, and he does.
-  3. Write down anything he didn't see or hear himself. His notebook holds no opinions, and "No indication" is the strongest thing in it.
+  1. Leave her alone on the island with an armed man (Ch 02; it's why he stays).
+  2. Lie to her. He'll lie on an open radio to the men hunting her ("The steering's gone," Ch 15), and only after he has asked her and she has said "Tell them." Beth knows: "He had never once lied to her, so the lie was for them."
+  3. Say "trust me" or "you're safe." He'll say "I'm between you and the window" or "I'm right here," which are things he can actually check.
 - **The choice a reasonable reader would condemn:**
-  - **Primary (Ch 3–7).** He lets the investigation and the intimacy run together. He asks about the money in the generator shed while she thinks he wants to know her. He reports at 1:50 a.m. after the first scene. He tells her "Walked the bar" at 2:20, wet to the ankle, when he was on the ledge for sky. He writes "every place we've slept, and B's family property." *His reasons, in order of how honestly he'd give them:* (a) the order is lawful and it's Pike's; (b) if she learns about the $9,000 before the grand jury, the defense says the marshal coached her and Pelletier walks; (c) he believes the log will clear her, and he wants to be the one who clears her; (d) if he tells her, she bars the fish house door against him, and she's alone on the island with the people who are trying to kill her. He decided for her, and that last reason is the condemnable one.
-  - **Secondary (Ch 3 s2).** At noon he lets the boat go without a word, and it costs him more than he'll admit. A reader won't condemn that. It's here because it's the first time the reader sees him choose a person over the plan, and it's silent.
+  - **Primary (Ch 12, the hold).** At noon on Wednesday in the town office, after Cole's lawyer has found Ned's son's street and the boss has said "A lawyer who can find a man's son in a morning can find a woman on an island," Dane texts his boss and asks for a hold: after Beth testifies on Monday, the prosecutor will ask a judge to keep her in Portland under guard until the trial, or until she signs for witness protection, and it won't need her yes. He tells her himself, to her face, before the boss calls back: "You'd have heard it from a judge. You hear it from me." She says "Cancel it." He says no, and says no twice more on Thursday (Ch 13). *Why:* New Bedford; the pistol that came up at her on the cove rocks on Tuesday; the shot off the wall that morning; the man who loved her most sold her for his son; and every time he asked her, it was her own life she spent ("On the beach you wanted them told the truth by you, and a man got shot in the shoulder at three"). "I'd lose you to keep you alive." Cost: she ends them ("Then they stop. And so do we."). He withdraws it on speaker at dawn on Saturday (Ch 14), in front of her.
+  - **Secondary (Ch 09, the beach).** Ned has just told them he guessed what rode in Cole's truck and let himself not know. There's no signal on the beach, the only radio is Tess's, and a waved-off boat means no other boat before the storm blows out. Dane goes on with the rescue. He puts Beth behind the rocks at the end the trees can't see, keeps Ned on the sand one step ahead of him and on his left, and stands between her and the trees. A Marine Patrol officer is shot. A reader can fairly say he bet with her life and somebody else paid.
 - **How he is funny, and at whom:**
-  - *He calls the next move out loud,* like a guy on a stool at a bar calling a pitch, and then he's right. "He's going to say 'from away.' Watch. ... There it is." *Target:* islanders, Russ, Tess, Arsenault (once, and not funny), and himself ("I'm about to say something about the boots. I'm going to stop myself. I didn't stop myself.").
-  - *Self-deprecation that's specific,* never general. The $190 boots. The jump. The trauma kit that has no condoms in it: "It's a very disappointing kit."
-  - *The bet she won't take.* "Dollar says." Beth never bets: "I don't bet on what I can see." That's the relationship's joke (below).
-  - *Sample:* "Does it do that a lot?" to Ned, about the bridge that just fell on the boat, and he means it as a straight question, which is what makes Ned's "Just the once" land.
-  - *Who he's funny with:* Ned. Dane is Ned's straight man from the first night. That makes Ned lovable to Dane as well as to the reader, and it makes the reveal cost Dane something too. Also Russ, for one exchange in Ch 3 ("That narrows it to about forty of us.").
+  - **Specific jokes against himself.** The boots. The jump. The trauma kit with no condoms in it: "It's a very disappointing kit." Holding a gun on a generator from sixty feet up. "Don't look at my form." He's always the first to point out how bad he looks. His target is himself, and nobody else gets there first.
+  - **"The government" as a person.** "The government is going to hear about it." His target is his employer and the whole idea of being sent somewhere by someone in an office.
+  - **He keeps count, out loud.** "Forty-one, as of this morning." "As of tonight? One. I'm keeping count." "That's one laugh." His target is Beth, by telling her she's a number that's gone wrong.
+  - **He bets.** "Dollar says…" Beth never takes it until Ch 17.
+  - *Sample:* Beth: "How many witnesses have kissed you?" / Dane: "As of tonight? One. I'm keeping count."
+  - *Who he's funny with:* Beth first. Russ, who answers his own questions. Tess at the counter (Ch 05). Mercer on the radio ("You talk a lot, Marshal." / "Everybody says so.").
 - **What he finds attractive in Beth, plainly:**
-  - Her bare hands on a bow line in sleet.
-  - That she gives an order and doesn't look back to see if it was obeyed.
+  - *First thing he notices:* an oar coming at his head. Then that she's freezing in her socks and still making fun of his boots. He's in trouble by the end of the first page they share.
+  - Her mouth, and wanting to find out what it does when she actually smiles.
   - That she's rude to him and right.
-  - Her mouth when she's trying not to laugh in the dark, and fails without sound (Ch 2 s5).
-  - Her forearms with the sleeves shoved up.
-  - The voices. He didn't know she could do that, and nobody else does.
-  - That she reads a deck the way he reads a room, and better.
-  - *First thing he notices* (his POV, Ch 10 s5, remembering): her bare hands on the line, and that she said "No" to him without once taking her eyes off the cleat.
+  - Her eyes level with his. He doesn't have to look down to fight with her (Ch 03).
+  - Her bare hands in the cold, doing something he couldn't.
+  - That she says no without apologizing, and yes the same way.
+  - Her laugh when it finally comes, which he has to work for, which is why he counts it.
 - **Syntax profile:**
-  - *Sentence length and shape.* Dialogue: longer and looser than hers. Whole sentences, subordinate clauses, "which" and "because." He builds a sentence toward a dry turn at the end. He asks questions, a lot, and he asks them so they're easy to answer ("Walk me through it" once in the book; otherwise "Talk to me," "Who's that?", "What am I looking at?"). "Okay" is his pivot word, and "here's how this goes" starts his plans. Interior (Ch 9 s3, Ch 10 s5): long sentences about people and hands, with a score kept quietly, ending on a short clause that undercuts him.
-  - *Under pressure.* **Fear:** he talks *more*, low and steady and continuous, in the present tense. It's transport patter: keep the witness talking so you know where she is. That's the opposite of Beth, who goes silent, and it's the core contrast in every danger scene. **Anger:** very polite. "Ms. Calloway" comes back, the sentences get slower, and he tells you he's saying something once. **Lying:** he goes *short*. "Walked the bar." "Pike. Weather." The talker with three words is the tell. (Ned's tell is the opposite, too much detail. The writer must keep the two tells opposite.) **Desire:** he goes quiet. Few words, her name, a question. The man who talks in the dark stops talking, and Beth notices.
-  - *What he notices first.* Hands: what people do with them, what they hold, and who has exact change. Then where people stand and who they look at before they answer.
-  - *One habit of thought his alone.* **He predicts, and keeps score.** Every person gets a next move, and he tracks whether he was right. With Beth the score is zero for nine days. A second habit from his father's bus: he sorts people by how they board ("exact change," "asks the driver a question he knows the answer to").
-  - *His words, never Beth's:* "okay", "here's how this goes", "talk to me", "for the record", "dollar says", "fair", "copy", "Ms. Calloway", "my guy", "the government" as a person ("The government would like its boots back"), Massachusetts words used once each at most ("rotary", "packie", "down the Cape"). He says "it" for boats. Beth corrects him, and in Ch 10 s5 he says "she" without noticing. He never says "from away," "the glass," "make fast," "dooryard" or "Go home." **[BB, domain check]** For Beth's status: "witness," "my witness," "the protectee," "short-term protection," "the program." **Never "material witness"** (that means a § 3144 arrest).
-  - *Motif caps:* predictions out loud, at most one a chapter. "Dollar says," four in the book, the last in Ch 10 s5. The boots, three times (Ch 1, Ch 4 "waterproof," Ch 10 "the right boots"). Swearing, twice in the book, both per the outline (Ch 7 s1, Ch 9 s4).
+  - *Sentence length and shape.* Dialogue: longer and looser than hers. Whole sentences with "because" and "which," built toward a dry turn at the end. He asks a lot of questions and makes them easy to answer ("What am I looking at?" "Who's coming for her?"). "Here's how this goes" starts his plans (Ch 01). Interior: long sentences about people, what they want, and how a thing will sound later, often running on "and," ending on a short clause that undercuts him.
+  - *Under pressure.* **Fear:** he talks more, low and steady, in the present tense, so she knows where he is and he knows where she is (Ch 02 on the ferry, Ch 03 on the kitchen floor, Ch 09 in the swell, Ch 15 on the radio). In Ch 10 he reads the blood trail in silence, which is why Ch 15's talk lands. **Anger:** very polite and slow. "Ms. Calloway" comes back, and he tells her he's going to say something once (Ch 04, Ch 05, Ch 12). **Lying:** he goes short ("Slept fine." "The steering's gone."). **Wanting:** he goes quiet. Her name, a question, "Can I?" The man who never stops talking stops, and Beth notices ("Twice in one night you've shut up").
+  - *What he notices first.* Hands: what people do with them, what they're holding. Then where people stand, and who they look at before they answer.
+  - *One habit of thought his alone.* **He hears everything the way a jury would hear it later.** He can't do anything without picturing Cole's lawyer in a good coat saying it back slowly to twelve people from Maine. It's why he stops the kiss, and it's what Beth argues him out of. *Second habit:* he keeps count (witnesses, kisses, her laughs).
+  - *His words, never Beth's:* "Here's how this goes," "Dollar says," "the government" as a person, "I'm keeping count," "my witness," "Ms. Calloway," "I'm asking," "Can I…?" One Massachusetts word per act at most ("the packie," "the rotary"). He never says "Marshal" about himself, "from away," "Fine." as a pivot, or "wicked." He never says "for the record," "I'd like it noted" or "under open sky." "Okay" is on the page once, in Ch 01 ("Okay. Here's how this goes."), and is never his habit.
+  - *Motif caps (jokes only; there is no cap on attraction):* "Dollar says," four in the book (two used: Ch 06, Ch 17). The boots, three or four (Ch 01, Ch 04, Ch 06, Ch 17 "the right boots"). "Keeping count," three. "The government," three.
 - **Ten lines of dialogue:**
   - *Flirting*
-    1. "For the record, I jumped. I'd like that on the record, since you seem to be the one keeping it."
-    2. "Dollar says that's the house with the scanner, and dollar says she's got us married already, and I want you to admit I'm right before you tell me I'm not."
+    1. "You swung an oar at a federal officer and then made fun of his shoes. I want you to know that's the best first meeting I've had in nine years of this job."
+    2. "Dollar says you kiss me again before Tuesday. You don't have to take the bet. I just want you to know I saw it coming."
   - *Angry*
-    3. "Ms. Calloway. I'm going to say this once and slowly, because I think you'll want to quote it to somebody later, and I'd like you to get it right."
-    4. "You asked Haskell about the float. Below decks, where I couldn't hear it. Tell me what you said, exactly, the way you'd tell a man who's going to write it down."
+    3. "Ms. Calloway. I'm going to say this one time, slowly, so you can repeat it to whoever you call next. That man knew which house was yours."
+    4. "Everybody you love has the hour now. Which one would you like me to stop trusting first, or do I get to pick?" (Ch 08, on the page)
   - *Lying*
-    5. "Walked the bar."
-    6. "Pike. Weather." (Day 5, of Quist's call on the ledge)
+    5. "The steering's gone." (Ch 15, on the open radio, after she says "Tell them")
+    6. "Slept fine."
   - *Afraid*
-    7. "Okay. Here's how this goes. I'm going to the door, you're staying on the brick, and you keep talking to me, low, about anything, the scanner lady, the guy with the dog, I don't care, because if I can hear you I know where you are."
-    8. "Talk to me. Which one of those houses is awake? Keep going. I can listen to you and the door at the same time. I'm very good at it, I promise."
+    7. "Here's how this goes. You stay on the floor, I stay between you and the window, and you keep breathing where I can hear it. You don't have to talk. I'll talk. I'm very good at it, ask anybody in Massachusetts."
+    8. "I'm up. I'm at the back rail. It's behind you on your right, about as far off as the length of the pier. Coming up." / "I'm still talking, so I'm still fine. Keep it straight." (Ch 15, on the radio)
   - *Tender*
-    9. "I lost a boat on Saturday, and I'd do it again, and I'd like a little credit for that, and I'd like the credit to be you sitting down before you fall down."
-    10. "I've been wrong about you every single time since the ramp. It's the best run I've had in four years. Don't fix it."
-- **Five lines of interior narration** (his register, for Ch 9 s3 and Ch 10 s5):
-  1. His father used to say you could tell who'd make trouble on the route by whether they had exact change, and Arsenault had exact change for everything, the cigarettes and the coffee and the stranger's coffee, counted out before Tess said the price.
-  2. Two trucks, one lane of steel between them, and somewhere aft a woman in wool socks who knew every inch of it in the dark, which made one of them.
-  3. He had stopped trying to call her next move somewhere around the bridge, and it was the most rested he'd been in four years.
-  4. The boots had cost a hundred and ninety dollars at a place on Route 1 that also sold fudge, and she'd priced them to the dollar from the bow line without looking down twice.
-  5. The boat was worse than the Webbers Cove in every way he could list. He had listed them. She had added three, and one of them was the name. *[Domain check: "the Holland" changed to "the Webbers Cove".]*
+    9. "I'm in love with you. You don't have to do anything about it. I just didn't want to get you off this island with it still sitting in my mouth."
+    10. "Can I kiss you? I'm asking. You told me to ask every time, and I'm going to ask every time, for as long as you'll let me."
+- **Five lines of interior narration:**
+  1. He could already hear Cole's lawyer saying it, slowly, in a good coat, to twelve people from Maine: and where did the deputy sleep that night?
+  2. Forty-one witnesses, and he had never once wanted to make one of them laugh, and this one had laughed twice since breakfast, and he was keeping count.
+  3. She went quiet when she was scared, which meant somebody had to talk, and he had been talking since Lowell.
+  4. He wanted her so badly he'd stopped watching the window, and the window was his whole job.
+  5. A witness had told him once that everybody who didn't know what they'd do instead wanted a boat, and he had never told anyone she said it, and now he was telling a woman on a lighthouse stair.
 - **Three ordinary pleasures:**
-  1. Cooking a big piece of meat for more people than are in the room. His mother worked nights, so he cooked from the age of twelve, and he still cooks like the whole building's coming. It's where the ham comes from ("The ham is eleven pounds, and there are three of us"), and the bigger ham in Ch 10 s5.
-  2. A diesel catching on the third pull. He feels it in his chest. (Ch 3 s4, the generator shed.)
-  3. Watching someone very good at a job he doesn't understand. Beth on the car deck is the best he's seen.
+  1. **Cooking too much food.** His mother worked nights, so from twelve on he cooked for the whole family and whoever on their floor was hungry, and he never learned to cook for two. The one tin of ham cut "as thick as books" (Ch 08). The ham in the town-office oven (Ch 14). The Thanksgiving ham, "a ham that size for four people" (Ch 17): "A ham forgives you."
+  2. **Dry socks.** After the sea in Ch 07 a summer person's dry wool socks are the best thing that has happened to him all day, and he says so.
+  3. **Watching someone very good at a job he can't do.** Beth with the generator, the wrench on the steering pin (Ch 12), the boat in the dark. He stops watching the pier to watch her hands, and catches himself too late.
 
 ---
 
 ### Supporting characters (speaking roles)
 
-#### Ned Haskell (64, captain of the *North Reach*; the leak)
+#### Ned Haskell (64, ferry captain; the traitor)
 
-- **Name:** kept. Edward on the district payroll, Ned since grade school. Haskell is an old midcoast name.
-- **Body and habits:** Big and stooped, slow on land and quick in a wheelhouse. White beard kept short, red face, a hearing aid in the left ear that he turns off with one finger when he wants a conversation over. Green wool Johnson Woolen Mills jacket older than Beth. Bad hip. He wipes the wheelhouse windows with a rag that makes them worse. He brings coffee as an apology.
-- **The habit that pays:** **Ned always looks back.** When he leaves anyone (at the top of the brow, at a door, going up the ramp) he turns once and lifts a hand. It's a ferryman's habit from thirty-one years of checking the slip behind him. It must be on the page in Ch 1 ("Go home. I'll lock up."), Ch 2 (after "me and God"), once mid-book, and then in Ch 8's last line, where he doesn't. **[BB]** Mid-book plant: **Ch 4 s3**, at the foot of the Ashby drive in the Sunday dusk after the diesel, going back aboard. **[BB]** His years are never "thirty-one" on the page ("thirty-one" belongs to the boat price and rests after Ch 3): write "since Beth was in diapers" or "thirty years and more."
-- **Wants:**
-  - To retire in June with an islander at the wheel. He has wanted to put Beth's name forward for three years and is waiting for her to ask, while she waits for him to offer.
-  - To marry Tess. He asks her every New Year's Eve, and she says "Ask me sober, Haskell." He has been sober twenty-two years. It's their joke and it isn't.
-  - To keep the winter boat, which is the freight contract.
-- **Wound, and what it makes him do:** Widowed at 50, he took everything on himself after that and told no one. *Behavior:* he decides who gets hurt and carries it alone. He sends Beth home and works short. He holds Ashby for two days. He gives up Ashby when the threat turns to Tess. The same habit is his kindness and his betrayal, which is why the reader doesn't see it: early on it reads as an old man's care.
+- **Body and habits:** Big and stooped, slow on land, quick and easy at the wheel. White beard, red face, reading glasses pushed up on his head. A green wool jacket older than Beth. A bad hip, worse after hauling Beth up off the float in Ch 02 ("It's sixty-four, Bethie. It does what it likes."). He carries a rope knife on his belt, as every man on the ferry does. **He always looks back:** when he leaves anyone, he turns once. Ch 02, he lifts a hand at the top of the harbor road. Ch 12, cuffed in the town office doorway, he nods. Ch 15, at the top of the Pruett ramp, he lifts his cuffed hands, and Beth doesn't lift hers.
+- **Age-true (64):** he reads his phone at arm's length, texts with one finger and signs his texts "Ned." The cheap phone Cole gave him is the only phone he's ever kept charged.
+- **What he wants:** to retire in June with Beth at the wheel, and to keep his son alive. For three years he has had his letter to the board written and waited for her to ask, while she waited for him to offer. His son in Portland has been on drugs since the summer. For two years Ned ran Cole's trucks across in the dark, alone, after the deckhand had gone home, on a phone Cole gave him for it, and told the co-op they were fuel runs.
+- **Wound, and what it makes him do:** Widowed at 50, he has carried everything alone since (off the page). *Behavior:* he decides who gets hurt and carries it himself, and he lets himself not know. "Not on this boat, you didn't. Not with those men twenty feet under us." That reads as an old man's fear for her in Ch 01, and as something else from Ch 12, when the reader learns he called Cole from Pruett while she was photographing the plate.
 - **How he talks:**
-  - "Well. That's the bridge."
-  - "Lumpy out past the ledges. She'll go when she goes."
-  - "You hold a light like nobody ever handed you one." (to Dane, Ch 4)
-  - *Lying, over-detailed:* "He always runs his unit. Thermo King, he runs it continuous for live product, every Thursday since the Fourth of July two years back, you can hear it from the wheelhouse."
-  - *(Understatement as comedy. Weather before the answer. Now and then he puts the verdict first, "Bad, that hip, in this," which Beth never does; once a scene at most. "Bethie" to her and no one else. "Marshal" and "your marshal" for Dane. Formal and clipped on the radio, a different man. His lying tell is too much detail, the opposite of Dane's.)*
-  - **[BB] On the radio (formal, Ch 1 s4):** "All stations, all stations, this is the ferry *North Reach*. The fourteen hundred departure is cancelled. Next departure to be announced. *North Reach* standing by one-six and one-three."
-  - **[BB, domain check] His trade words:** "Sector" for the Coast Guard command he calls the casualty in to; "the 2692" for the casualty report (said in words, "the twenty-six ninety-two," once at most); "the inspector." Never "the Coast Guard guy from the district."
-- **[BB, domain check] What Ned saw for a year (his "something wrong"):** two things, never "the weights didn't match." (1) In the crates he saw opened, **too many pieces to the crate for the weight**, which in his head is **shorts** (Maine's gauge, 3¼ to 5 inches; a load of shorts is the dealer's license and a ruinous fine). (2) **The boxes rode heavy**, which he never thought about and which the reader can later set against the bricks. Plus: the unit always ran, and the sternman was from away. Day 0's dark unit is new to him too. Islander word "shorts," Marine Patrol word "the gauge"; never "undersized lobsters" in Ned's or Beth's mouth. His own fear is the contract and the winter boat, not his own exposure.
-- **Tag-strip guard against Beth** (Ch 8 s1, Ch 9 s5): Beth drops subjects and gives verdicts. Ned keeps subjects, answers with weather, says "Bethie," and goes long only when lying. In the Ch 9 s5 confession his sentences start with "They said" and "He said." He reports other men's words because he can't stand behind his own.
-- **What he's for:** The leak. Beth's father in all but name. The comic warmth of the first two chapters. "Bethie. Water side."
-- **Surprising thing:** He can't swim. He has captained the *North Reach* for thirty-one years and never learned. Beth knows; nobody else does.
-- **[BB] Fate in this book:** taken into custody Day 8 night (he holds out his wrists before Russ asks); held at the town office; gives Quist a statement; off the island with the Marine Patrol on Day 9. Charges and outcome are the court's, off the page (a subplot Beth does not resolve).
+  - "It'll go when it goes, Bethie. Boats don't read the calendar."
+  - "Not on this boat, you didn't." (Ch 01)
+  - "I've got it, Bethie. Go." (Ch 15)
+  - *(Slow understatement. He answers a hard question with the weather first: "Wind's going round to the west." "Snow's set in for the day." "Bethie" to Beth and no one else; "your marshal" for Dane. When he's hiding something he gives too much detail; Dane, lying, goes short. In his confessions he reports other men's words ("He said, after the deckhand's gone home…" "Cole said nobody'd be touched."), because he can't stand behind his own. Every boat is "it.")*
+- **What he's for:** Beth's father in all but name, and the traitor. The man who hauls her out from between the boat and the pier (Ch 02), stands chest-deep in the sea in front of her (Ch 09), and sold her the whole time. His acts for her: "Alton's way. You've seen it on the door." and holding the wheel while she goes to Dane (Ch 15), then cuffing himself back to the rail unasked; and his letter from jail, taking his name off his letter to the board because a word from him would now cost her the job (Ch 17).
+- **Surprising thing:** he has been sober twenty-two years (off the page). He knows exactly what his son is, from the inside, and that's why he couldn't say no to the lawyer's call.
+- **Can't swim**, and won't wear a life jacket ("Never needed one. I don't go in." Ch 02). Paid in Ch 09, when he wades in to his chest to stand at her shoulder, and in Ch 14, when he looks down at his life jacket for the crossing "as if it were somebody else's."
 
-#### Teresa "Tess" Marr (46, Marr's General Store and fuel dock; the suspect)
+#### Tess Marr (46, the island store; runs the island radio and the one fire truck; Book 2 heroine)
 
-- **Body and habits:** Short and solid, quick on her feet. Cropped salt-and-pepper hair she cuts herself. Reading glasses on her head with a pencil through them. Red Carhartt vest, fingerless gloves, a store she won't heat above 58. A laugh you can hear from the fuel float. **The habit that makes her a suspect: she writes on the back of her left hand in ballpoint** (times, names, gallons, whose light is on) and copies it into the log later. By Day 5 the hand is blue to the wrist. "22:40" is on her hand before it's in the book.
-- **Wants:** To keep the store out of the bank's hands as long as she lives, then leave it to the island. The night fuel for Arsenault, cash and twice the pump price, is how she's making the tank loan. She knows it's wrong and has decided it's small. *Second want:* for Ned to stop asking her at New Year's, and for him never to stop. She won't say which.
+- **Body and habits:** Short, solid, quick. Cropped salt-and-pepper hair she cuts herself. Reading glasses on her head with a pencil through them. A red work vest and fingerless gloves, in a store she won't heat above 58. A laugh you can hear from the road. She drives the island's one fire truck, runs the island radio in a storm, and is first to every fire and every hurt man. Her habit: she answers the phone before the first ring is done, and she hangs it up just as fast (Ch 05, Ch 08).
+- **What she wants:** to keep the store out of the bank's hands. Cole lent her the money for the new fuel tanks, so his arrest puts her under ("You did that, Calloway."). *Second want:* to keep one thing in her life the island has no opinion on. That thing is Russ. She has been single on purpose for twenty years and the whole island has had something to say about it; Russ is two years younger and broke, and she won't have it look like she's carrying him.
 - **How she talks:**
-  - "Calloway. Home, twenty-two forty. Wrote it on my hand, didn't put it on the air. You're welcome."
-  - "Emergency management director. Since town meeting. I was slow putting my hand down."
-  - "Condoms are four seventy-nine. Good till next August. Haskell, don't look."
-  - "Don't you look at my book like the bank does."
-  - *(She announces, net-control style, in headlines. She calls everyone by surname: "Calloway," "Haskell," "Whitcomb," "Marshal." She uses Beth's first name only when it's serious. She talks prices constantly and makes her titles the joke. She is the funniest person on the page in Ch 1 and Ch 3. Under stress she gets brighter and busier: rings up, restocks, talks. She is distinct from Ned, who answers with weather, and from Beth, who drops subjects.)*
-- **Why the reader believes it's her:** She writes everything down. She saw the flashlight, the smoke and the county call. The truck is hers, the keys hang on her hook, and the hundreds are in her fuel log. She laughs too loud at Arsenault's jokes and calls him "Lyle." She gets sharp with Beth the one time Beth looks at the log too long. Every one of those is true and innocent of the leak.
-- **What she's for:** The fair suspect. The Ch 8 misreading. The cost of Beth's second condemnable choice. Book 2's ledger.
-- **Surprising thing:** When the bank sold the *Ruthie C*, Tess bid on her with money she didn't have, to keep the boat on the island, and lost to the man from away by fifteen hundred dollars. She never told Beth. **Default: kept for Book 2.** At most one line in Ch 10, and only if the beats have room.
-- **[BB] Carried from v1 (still true):** came to Cutter at 22 to sternman a summer and stayed; has run the store nineteen years (groceries, hardware, propane cage out back, the post office window, gas and diesel at the float); keeps net control on the storm net; collects islanders' deposits in the store bag. The tank loan: $180,000 four years ago to replace two underground fuel tanks, $1,800 a month, behind (off the page except one line at most). She and Ned keep separate houses.
-- **[BB] Habits the plot uses:** she does her rounds in the store pickup at midday (soup, propane, who's short) and is in bed by nine and up at five; the pickup sleeps in her dooryard. On Day 1 she locks up and goes home after Ned's bridge report.
-- **[BB] Fate in this book:** not arrested on the page. On Day 9 she gives Quist the ledger herself. She does not forgive Beth. Her exposure is Book 2's case.
+  - "Four seventy-nine. Good till next August."
+  - "What was I supposed to do, ask for ID?"
+  - "You owe me a fire truck's worth of diesel."
+  - "Those ties are a dollar apiece."
+  - "Coffee's a dollar, Marshal. Same as everybody."
+  - "Best hand on that water. I won't have a stranger at our wheel. That's what the letter says. The rest isn't in it." / "Dry, Calloway."
+  - *(She announces in headlines. She calls everyone by surname: "Calloway," "Whitcomb," "Haskell," "Marshal." She uses "Beth" only when it's serious, so the reader hears it when she does (Ch 05, Ch 08, Ch 09, Ch 17). She talks prices constantly. Under stress she gets louder and busier. She's distinct from Ned, who answers with weather, and from Beth, who gives one-sentence verdicts.)*
+- **What she's for:** the suspect the reader likes. Her visible lies (too fast about the Dyer call, the phone turned face down with "Not now") are true and innocent of the leak: it's Russ. She talks the Marine Patrol boat in to the north beach (Ch 09), brings the stretcher to Beth's step and calls the Coast Guard for Russ on the island radio, which tells every boat in the bay there's a boy in ties at the town office (Ch 13), lights the rocks with the fire truck's light all night without a word to Beth (Ch 14), and drives out the point road to light Alton's gap (Ch 15: "Marshal. Truck's on the point. Light's on you."). She doesn't forgive Beth in this book: Beth put her on the list, never asked her to her face, and Russ was shot on Beth's step. She writes to the board for Beth anyway, unasked, on Tuesday (Ch 17). The pie and the "Calloway" are a start.
+- **Surprising thing:** when the bank sold Beth's father's boat, Tess bid on it with money she didn't have, to keep it on the island, and lost. She has never told Beth. Kept for Book 2.
 
-#### Russ Whitcomb (44, constable and lobsterman; Book 2 lead)
+#### Russ Whitcomb (44, the island's constable and a lobsterman; Book 2 hero)
 
-- **Body and habits:** Middle height, wide, red-bearded with gray at the chin. Missing the tip of his left ring finger (a winch). Brown Carhartt and a Red Sox cap ashore, a brass badge on his belt he sometimes forgets. Fishes 400 traps on the *Second Wind*. He takes his cap off and puts it back on to buy time, and leans on whatever's nearest.
-- **Wants:** To be taken seriously as a lawman by people who think he's a lobsterman with a badge, and to be the first to know something on this island for once (he was the last to know about his marriage).
+- **Body and habits:** Middle height, wide, red beard going gray at the chin. Missing the tip of his left ring finger. A brown work jacket, a Red Sox cap, a badge on his belt he sometimes forgets. He takes the cap off and puts it back on to buy time (on the page once, Ch 04: "Late."). He leans on whatever is nearest, and from Ch 17 on a cane. His lobster boat goes up on the rocks in Ch 02, and he watches it go.
+- **What he wants:** to be taken seriously as a lawman by an island that thinks he's a lobsterman with a badge. To get his boat back off the rocks before spring. And Tess, out in the open. On the page he wants to talk the kid out of Beth's house himself (Ch 13), on twenty years of talking drunk men out of houses.
 - **How he talks:**
-  - "That narrows it to about forty of us."
-  - "Where you sleeping tonight? Not asking for me. Asking because somebody will."
-  - "Feds told me stay off that boat. So I'm staying off that boat. I'm not a complicated man."
-  - *(He asks a question and answers it himself. "Somebody" for gossip. He's slow and amused, including at himself. Grimly formal on the VHF.)*
-- **What he's for:** An early red herring (the sleeping question, the woods road). The ally in Ch 9 who takes Arsenault alone in the store. The Book 2 lead.
-- **Surprising thing:** He finished first in his part-time law enforcement class at 41 and told no one. The certificate is in the wheelhouse of the *Second Wind*, not his house.
-- **[BB] Carried from v1:** carries a Smith & Wesson M&P on duty; arrest powers on Cutter; can hold a prisoner at the town office until Marine Patrol arrives. Divorced six years. In v2 he is **not** related to Arsenault (v1's cousin-by-marriage herring is dropped).
+  - "Nobody. Who'd I tell?" (Ch 05, the lie)
+  - "Where are you sleeping tonight? Don't tell me. It's me asking today. Somebody else will be asking before dark." (Ch 02)
+  - "Did I lie to you to keep her name out of it? I did." (Ch 12)
+  - "Did I stand in the door? I stood in the door like a summer kid. You said the side." (Ch 13)
+  - "Well." (Ch 14, the whole line)
+  - "Can he stay? He can stay." (Ch 17)
+  - *(He asks a question and answers it himself. He says "somebody" for gossip. Slow and amused, including at himself ("Some constable."). On the radio he's suddenly formal: "This is Russ Whitcomb. On my way.")*
+- **What he's for:** a suspect with a real lie (he told Tess, Friday night from his porch, where Beth slept; he was with Tess on the nights he can't account for; "Late" when he always gives a time). The armed man Dane can't fully trust until Ch 12, when he owns the lie. He goes against Dane's twice-given order, steps square into Beth's front doorway to talk the kid out, and is shot in the thigh through the door (Ch 13). He guards the prisoners from the town office couch with the shotgun (Ch 14), stays ashore with Tess, is flown out on Tuesday and comes home on Beth's last run on Wednesday. The Book 2 hero: "I'll find out."
+- **Surprising thing:** he finished first in his police class at 41 and told no one. The certificate was in the cabin of his boat, and it went onto the rocks with it. Kept for Book 2.
 
-#### Nora Quist (41, HSI Special Agent, Portland; Book 2 lead)
+#### Cole Varney (50s, the island's lobster dealer; the man in jail)
 
-- **Body:** Tall and very straight, black hair pulled back hard, an HSI jacket over a down vest. She wears a man's wedding ring on a chain around her neck. Gets seasick on everything that floats.
-- **Wants:** The transfer vessel and the dealer. A deckhand is the means, not the case. That's why she leaves the boat (her off-page condemnable choice, Ch 4).
-- **How she talks:**
-  - "I need her clean, Deputy. Not probably clean."
-  - "How many boats fuel there after dark? I'll take a guess. I'll take a bad guess."
-  - "Constable. You stayed off the boat. Nobody stays off the boat."
-  - *(Questions with a number in them, brisk, not unkind. "Deputy" until Day 9, then "Reyes." "Constable" with an edge. Keep her apart from Pike, who answers in conditions and orders.)*
-- **What she's for:** The order behind the screen. The leash she holds on Dane, seen only through what he does. The Ch 10 statement line. Book 2.
-- **Surprising thing:** The ring was her father's. He was a Coast Guard coxswain who put her on every boat he could, and she was sick on every one of them. She joined a federal agency with a maritime mission anyway, which says most of what you need to know about her.
-- **[BB] On the page:** in person only in Ch 10 (s1, s5). Before that she exists as "Q" on the screen, as what Dane does after a call, and as one-line consequences. Never as a relayed call in a scene.
+- **Body and habits:** Big, soft, well-liked, a good wool coat, a laugh people repeat. Six years of Thursdays driving the seafood truck onto Beth's ferry. He tips twenty dollars at Christmas and never once looks her in the eye. On the page once: in the lit cab in Ch 01, both hands on the wheel, looking straight ahead at nothing.
+- **What he wants:** to walk out on Monday. Then for everyone on the island to go on owing him.
+- **How he talks** (in Beth's memory or reported, never in a scene):
+  - "Merry Christmas, Beth. Don't spend it all on the boat."
+  - "Tess, you pay me when you pay me. I'm not the bank."
+  - "You never open a truck." (reported by Ned, Ch 12)
+- **What he's for:** the case, and the island's own betrayal. Everyone owes him something, which is why three of Beth's people are believable suspects. Indicted Monday; he stays in (Ch 16). A spring trial is ahead.
+- **Surprising thing:** he paid for the flowers at the funeral of the boy Beth taught to row (Ch 02), and she can't stop remembering it.
 
-#### Russ and Quist: the Book 2 chemistry (their scenes are Ch 10 s1 and s5)
+#### Kyle Pelletier, "the kid" (19; named only in the last chapter)
 
-- **The friction:** she's from away and senior, and she's been told he's a lobsterman with a badge. He's the only person on the island who did exactly what the feds asked, and that unsettles her more than defiance would. He calls her "Agent Quist" every time, in full, and she can't tell whether it's respect or teasing. It's both.
-- **The bucket (Ch 10 s1):** she's sick off the Marine Patrol boat. Without a word he hands her a clean bait bucket and goes on talking to her about the tide, not looking at her, until she's done. She notices he didn't look. She has spent her life being looked after on boats and hating it, and this is the first time it didn't feel like that.
-- **A sample exchange (Ch 10 s5, on the float):**
-  - Quist: "I'm told you're a lobsterman with a badge."
-  - Russ: "Who told you that? Me, probably. I say it first so nobody else gets to."
-  - Quist: "I need somebody on the task force who knows every boat in this bay."
-  - Russ: "By the exhaust, that's Beth. By who owes who money, that's me. I'll have my traps out by Tuesday."
-  - Quist: "Is that a yes?"
-  - Russ: "It's a Tuesday."
-- **What each enjoys before admitting it:** she enjoys that he answers his own questions, which means she doesn't have to. He enjoys that she was sick in front of him and then gave him an order.
-- **The hook a reader can repeat:** "The constable and the seasick fed, and Tess Marr's ledger."
-
-#### SDUSM Joanne Pike (50s, District of Maine, Portland)
-
-- **Wants:** Her deputy alive and the case clean, in that order on a bad day.
-- **How she talks:**
-  - "Not till the sea says. I don't argue with the sea, and neither do you."
-  - "Then it's Giglio, Deputy."
-  - To Beth, Ch 8 s3: "I don't apologize for orders, Ms. Calloway. I'll tell you what they were."
-  - *(Conditions and orders. Short. Never a question she doesn't need answered.)*
-  - **[BB, domain check] The Day 6 helicopter (a refusal with a reason, never a rule):** "District won't put a helicopter on a non-emergency move, and the one they've got is offshore on a case." Never "First District"; if the command is named at all, "the district" or "Sector" (the Coast Guard's own name is now Northeast District).
-- **What she's for:** The authority behind the order, and the voice Beth calls herself in Ch 8 as her condition.
-- **Surprising thing:** She was a deputy on a protection detail in 1999 that went wrong in a way she has never told Dane about. She knows exactly what he is carrying, and she says one sentence less than she could.
-- **[BB] On the page:** her texts on the Iridium screen; her voice once, live, in Ch 8 s3 when Beth calls her (Beth hears every word; this is a scene, not a relay). Everything else she decides arrives as a consequence.
-
-#### Lyle Arsenault (52, skipper of the *Margaret Ann*)
-
-- **Body:** Tall, soft in the middle, handsome in a worn way. The only clean-shaven man on a dragger in the bay. A good Musto jacket. Marlboro Golds.
-- **Wants:** Beth unable to testify, and the transfer vessel never named.
+- **Body and markers:** thin face, a split lip, a black hoodie, and **his left heel drags** (the one marker a listener tracks him by). Beth put him at "maybe twenty-five" the first night; Dane tells her his name and age in Ch 17: "The kid's name is Kyle Pelletier. He's nineteen." He worked the back of Cole's lobster boat two summers for cash and lived in Cole's trailer out the east road (empty since Thursday). Everybody called him "kid," and nobody on the island ever asked his name, so Dane's office has nothing to look up.
+- **What he wants:** to be paid and gone, and not to be the one who goes to prison. He's more scared than Beth is on the first night, which frightens her more than anything. By Ch 13 he's more afraid of Mercer than of prison.
 - **How he talks:**
-  - "Pack of Golds, and whatever the gentleman's having."
-  - "I bought fuel off your father when you were about this high. Good man. Bad luck with banks."
-  - "Tess, this store's the heart of the island. I'd hate to see it have a hard winter."
-  - *(First names for everyone. Generous. Threats delivered as advice. Exact change, counted out before he's told the price, which Dane notices.)*
-- **What he's for:** The face of the threat, in a store, buying cigarettes.
-- **Surprising thing:** He remembers Beth at eight, on the *Ruthie C*'s washboard, and means it kindly, which is worse.
-- **[BB] Carried from v1:** never does violence himself on the page; he sends Doucette. Arrested by Russ in the store, Ch 9 s5.
+  - "You didn't see this." (Ch 01)
+  - "Beth. Come on. Nobody wants to hurt you." (Ch 01, in her kitchen, calling her like a cat)
+  - "My arm." (Ch 13, face down in the snow)
+  - "You think I was what's coming? They've got a boat." (Ch 13)
+  - "It was Cole. Through Cole's lawyer. The lawyer paid me. … I want that written down." (Ch 15, the statement)
+  - *(Almost nothing. Quiet, coaxing when he's hunting, young and fast when he's scared. His texts are all small letters, no names, a period after most of it.)*
+- **What he's for:** the danger on the page. Every time he's close, the reader hears the heel. Hit by Dane's shot at the beach (Ch 09). Loses his rifle, phone and skiff at the east cove after he goes up the rocks at Beth with a pistol (Ch 10). Fires on them from the stone wall on the east road (Ch 12). Lives in Beth's house a night and a day, washes her mugs and hangs them handles out, shoots Russ through her front door, and comes out her window into Dane (Ch 13). Crosses tied over a life jacket to a bench in the passenger cabin, watches his own people shoot at the boat he's tied in, and talks (Ch 15).
+- **Surprising thing:** he washes up. In the east-road summer house the dishes are washed and stacked and the wet socks hung neatly by the stove (Ch 05: Russ, "He washed up. I don't wash up."); in Beth's kitchen he washes her mugs one-handed (Ch 13: "You put the mugs away wrong.").
+- **His phone:** Dane takes it at the cove in Ch 10 and keeps his thumb on it so it won't lock. It holds the leak's three texts and his "ok," a fourth text at two in the morning, four calls from a second number that never texts (Cole's lawyer), and a few short texts to numbers with no names. The lawyer gave him the phone and two thousand dollars cash, behind the bus station in Portland (Ch 15). He swears he never put the planted phone on the ferry (Ch 17).
 
-#### Shane Doucette (29, sternman on the *Margaret Ann*; the hooded man)
+#### Hal Mercer (the name he gives; sixties; skipper of the big boat; Book 2's face)
 
-- **Wants:** Paid, and off this island.
-- **How he talks:** Almost not at all. In the Ch 9 fight, at most: "Where's your cop?"
-- **What he's for:** A body in the dark with a dragging left heel. The man who takes the ring buoy.
-- **Surprising thing:** He grew up on an island down east and could row before he could ride a bike, which is how he brings a skiff in silent on the last hundred feet. It's also why Beth knows in the dark that he'll grab for the buoy.
-- **[BB] Carried from v1:** wiry, five foot ten, a black hooded sweatshirt under an oilskin. Favors the left leg; the heel drags in slush. Shoots from the skiff at about sixty yards on Day 7. Goes into the water on Day 8 night, takes the buoy, lives.
+- **Body and markers:** a big, slow man in his sixties, **gray-bearded** and bare-headed in the cold, in a **stiff new orange float coat** that has never been wet. A **gold tooth** when he smiles, and he smiles often. The gray beard keeps a listener from confusing him with Russ, whose beard is red.
+- **Voice tag:** he calls Beth **"Captain."** She isn't captain until June, and he knows about June, which came from Cole through Ned. Twice on the town office step (Ch 13) and twice on the radio at sea (Ch 15), so a listener hears the same man both times.
+- **What he wants:** the girl on the boat off the water before she reaches Portland, and the boy back before he talks. On Thursday he walks up to the town office in the snow to look: at her, at the bent steering rod across her knees, at who guards the door, and at the kid on the back-room floor, who turns his face to the wall. He tells her to wait for Tuesday, after Cole walks.
+- **How he talks:**
+  - "Heard on the radio you've got a man shot. Terrible thing. I've got gauze aboard, if you're short." (Ch 13)
+  - "Hal Mercer. Out of Gloucester. Laying in out of the weather."
+  - "Captain. Come June, anyway."
+  - "That's no good for a crossing, Captain. Weather's no good either. I'd wait for Tuesday."
+  - "Captain, they're an hour out. Stop your engine and we'll take you and the boy. The rest of you go home." (Ch 15, radio)
+  - "You talk a lot, Marshal."
+  - "Captain, shut your engine off. We'll come alongside and take you off before you hit. I want you where I can count you."
+  - *(Pleasant, unhurried, every kindness a threat. He leaves a sealed packet of gauze on the bottom step, and Beth never touches it.)*
+- **What he's for:** the face on the danger in Act 3. Dane photographs him ("Smile for my boss") and sends the name; there is no Hal Mercer on any license out of Gloucester, which is a lie to a federal officer and still nothing to board him for in that sea (Ch 14). The kid names the boat as his: "It brings the stuff in from offshore." (Ch 15). Beth sees his face for one second behind his own glass as his boat strikes beside the gap: the gray beard, the open mouth. He gets away holed and dark. Beth thinks of the gold tooth at Thanksgiving (Ch 17). He watched Dane step in front of Beth on the step, which is where the lawyer's "keeping you warm" comes from (Ch 16).
 
-#### Walk-ons
+#### Unnamed voices (one line each, so they don't sound like anyone above)
 
-- **Trooper Dana Ames,** on Beth's 1 a.m. call, one line, reported in Ch 1 s2: "You stay home tomorrow, Ms. Calloway. Don't go to work." It's the source of Dane's "You were told not to work."
-- **Kenny Thibodeau,** 26, the other deckhand, puking on Day 1. Off-page. **[BB]** Comes back over with the Day 9 boats and is Beth's deckhand on the Day 10 crossing (master plus one deck, the winter tier).
-- **Mrs. Ida Dyer,** 88. LifeFlight won't fly for her on Day 2 (the pilot's call on icing and ceiling; the island's EMT stays with her). Never speaks.
-- **[BB] Wade Pelletier,** 40s, the dealer's driver. Watches Beth from his cab on the Day 0 crossing; drives off the Pruett ramp; stopped on Route 1 before dawn Day 1 on Beth's report. His detention and the Rule 5.1 clock set Monday. Never speaks.
-- **[BB] The courier,** unnamed, meets the morning boat at the Pruett ramp for the credit union's **pouch** (always "the pouch," one word all book). One gesture at most.
-- **[BB] The broker,** unnamed; exists only as a line in Dane's inbox.
-- **[BB] The marine inspector from Sector,** unnamed, Day 9; one line at most.
-- **[BB] AUSA Daniel Moreau,** off-page; named once at most.
-- **[BB] Walt Grindle,** 70, volunteer fire chief; optional, one line in Ch 5 or Ch 6 at most.
-- **[BB] The Ashbys,** summer people from Connecticut, never on the page.
+- **Dane's boss in Portland:** a woman in her fifties, on speaker or by text. She gives short conditions and orders and never asks a question she doesn't need answered. "Then you call me every morning and every night. Nobody else." "Go. Your call, your badge." "I don't overrule the man on the ground." "Written." "Then she's on her own after Monday." She calls him "Dane," and "Reyes" when she's cold (Ch 12). She sets the three o'clock test (Ch 08), which the kid's phone clears her of (Ch 10). She takes him off Beth's detail at six on Monday morning: "You're off her detail. Maine still wants you. Desk." He trusts her with his life.
+- **Cole's lawyer:** a Portland man in a good coat. Quiet, polite, unhurried, and every line is a threat dressed up as concern. He calls Ned on Cole's phone the morning after with the street Ned's son sleeps on, calls the kid four times, texts Ned's phone ("the kid isnt answering. ned, your son is next. go finish it."), and meets the kid behind the bus station. At the courthouse: "Beth. I represent Cole Varney." "I hear the marshal's been keeping you warm." Arrested in the lobby: "I'll want my coat." / "You've got it on."
+
+#### Walk-ons [BB]
+
+- **The prosecutor:** a small woman with a folder under her arm who talks plainly, on the page only at the grand jury room door and inside it (Ch 16). She asks Beth whether she's in a relationship with the deputy, so the jurors hear it from her before the defense raises it at trial. Reported through the boss before then.
+- **A juror:** the man in the work jacket in the second row: "Did he ever tell you what to say?" (Ch 16).
+- **The court reporter:** a woman at a little machine by the front table; she laughs too (Ch 16).
+- **The case agents [DC, BB default: DEA agents out of Portland, off the page]:** they swore the complaint against Cole and couldn't get anyone out to the island, which is why the Marshals sent emergency protection. Not on the page.
+- **Marine Patrol officers:** one drives Dane across on the first night (Ch 01); one waits at the float at first light with his engine running ("Ten minutes. After that the sea closes the bay," Ch 02); two on the boat at the north beach (Ch 09), one hit in the shoulder, the other at the wheel ("He's put one through the side! We're taking water!"). Short practical lines, never named.
+- **The state trooper** on Beth's midnight call (Ch 01). One voice, never heard again.
+- **The Pruett boatman**, "man who minds the boats in Pruett," a voice on Russ's phone (Ch 02), reported in Russ's one line.
+- **Old Mrs. Dyer**, never on the page: at her daughter's in Bangor since October. Her house is a place, and "the Dyers' nephew" is a lie (the real nephew lives in Augusta and hasn't been on the island in ten years).
+- **Ned's son**, never on the page. First mentioned by Ned on the beach (Ch 09). Found by Portland police at a blue house on Grant Street, second floor, the door round the back: he'd used, he's breathing, he's in an ambulance (Ch 12). In a clinic in Portland (Ch 16); first week there (Ch 17).
+- **Two lobstermen at the store counter** (Ch 05), no lines.
+- **The ferry board:** off the page. Beth calls it Sunday morning and asks for the boat that night (Ch 14). It has her running the ferry until it decides in June (Ch 17).
+- **Coast Guard voices:** on the island radio for Russ ("Nobody's flying a stable patient in this ceiling. Cape Cod comes if he gets worse.", Ch 13); a woman answering the Mayday, far off and plain ("About an hour," Ch 15). A Coast Guard boat comes an hour after the call and loses the big boat among the rocks.
+- **Deputies at Pruett and the courthouse** (Ch 15, Ch 16). At Pruett the first thing a deputy takes is Dane's gun; two carry Dane down the ladder on a stretcher; one frees Ned from the rail. At the courthouse two deputies arrest the lawyer in the lobby, a woman deputy lends Beth her shoes and an envelope of witness money, and a deputy holds the corner door open for her. No names.
+- **The summer people:** the Pruett dentist (his house above the east cove, his good quilt), a family from Connecticut who rent the keeper's house and left the generator a quarter tank. Never on the page.
 
 ---
 
@@ -349,932 +338,1342 @@ Real time, close in Beth's body and history. Beth, who almost never asks a quest
 
 ### Beth and Dane
 
-- **What each finds attractive in the other:** see each lead's profile above (stated plainly there; repeated here only by reference so the two never drift apart).
 - **The friction that isn't the plot:**
-  1. **Talk against silence.** On a boat you say the least that works. In a transport car you keep the witness talking so you know where she is. Each thinks the other's way is a kind of rudeness. She lets a silence sit, and he fills it. When she's afraid she goes quiet, and he talks. They learn each other's in Ch 2 s5 (he keeps her whispering) and Ch 5 s2 (he shuts up on the bar because she tells him to).
-  2. **The plan first against looking at it when you get there.** He wants the plan before the door. She decides at the edge of the water, when she can see it. "What's the plan?" / "Look at it when we get there." It runs through every route in the book, and in Ch 6 she gives him a plan first, as a gift.
-  3. **Paper against hands.** He writes things down, even tide times she gives him. She hates seeing her own words in his handwriting, even about the tide. It's daily and small, and it means the notebook rupture lands on a nerve the reader has already watched him press on.
-  4. **Owing.** She pays back at once: the coffee, the hand up, the jacket haul ("You're welcome." / "I didn't say anything." / "I noticed."). He lets favors ride and would rather be owed. Neither will let the other pay for anything at Tess's counter, and Tess charges them both.
-- **What they enjoy about each other before they admit it:** She enjoys being talked to in the dark, and that he takes correction about water without sulking. He enjoys that she's the first person in four years he can't predict, that she bosses him, and the voices.
-- **The relationship's own joke: the bet she won't take.** He offers a dollar on everything. She answers with the outcome instead: "That's not a bet. That's Tess." "I don't bet on what I can see." Four in the book. In Ch 10 s5 she offers him one (on the inspector, the ham, or the boat's name) and he takes it and loses. Under that, the boots run all book: wrong in Ch 1, "a narrow definition of waterproof" in Ch 4, the right boots in Ch 10.
+  1. **Talk against silence.** When she's scared she goes quiet and listens; when he's scared he talks. Each thinks the other's way is a little crazy. In danger the contrast is the scene. It pays in Ch 11, when she asks for his talking for the one time in the book ("Talk to me."), and in Ch 15: "You left the wheel." / "You stopped talking."
+  2. **How it will look against what's in front of her.** He thinks about everything the way a jury would hear it later. She thinks about the thing in front of her and does it. "How's that going to sound in a courtroom?" / "It's going to sound like I came home." Both are right, which is why it's funny as well as a fight.
+  3. **Owing.** She pays back every favor on the spot: the coffee, the penny, the hand up. He lets favors ride and would rather be owed. "I'll let you owe me." / "I don't owe anybody."
+- **What they enjoy about each other before they admit it:** She likes being talked to in the dark, and that he loses an argument to her without sulking ("I've lost to you every day since the oar."). He likes that she's the first witness in forty-one he can't predict, that she bosses him around, and that she's rude to him and right.
+- **The relationship's own joke: the bet she won't take.** He bets a dollar ("Dollar says he's crouched by the bottom step…"). She answers with the outcome: "I don't bet on what I can see. Pantry." (Ch 06). In Ch 17 she takes her first bet, on something she can't see (that his leaking boat is dry by noon), and loses it happily: "It's a cup, Marshal. Take your dollar." He keeps the dollar in his shirt pocket over the stitches. Running beside it: he keeps count (witnesses, kisses, her laughs).
+- **How they flirt (both POVs, obviously):** Every exchange between them has a line the listener can't miss. He teases her; she tells him plainly what she wants. Their fights are about real things (leaving the island, the kiss and the jury, the tower calls, the hunt, the bait, the hold), happen face to face in the scene where they start, and leave both partly right. Most of them tip into flirting before the scene ends. Nothing between them is overheard, guessed wrong or kept back.
 - **What each is afraid the other will find out:**
-  - *Beth:* that she has never used the license because she's afraid to be the one at the wheel when it goes wrong, since her father did everything right and lost anyway; and, from Ch 3 to Ch 5, that she's hiding Tess's handwriting from him. Under both: that she was glad, for one second, when the bridge came down and she didn't have to leave.
-  - *Dane:* that the boat is a way out, and he's been planning to quit since Marisol without ever saying so; and that he believed her from Day 3 and kept writing anyway.
+  - *Beth:* that she has never asked for the captain's job because she's afraid to be the one at the wheel when it goes wrong, since her father did everything right and lost anyway. And that she was glad, for one second, when the police boat left without her on the first morning, because he stayed (Ch 02).
+  - *Dane:* that the boat is a way out, and he has been thinking about quitting since Marisol without saying it to anyone. He says it on the bench in Ch 16: "I've looked at boats for two years because I wanted a way out of this job. I never said it straight to anybody."
 
 ### Other pairs (one line each)
 
-- **Beth → Ned:** her father in all but name, and the one person she will never check. That's her blind spot, and it's lovable until Ch 9. **Ned → Beth:** the reason he sends her home, and the reason he gives her up last.
-- **Beth → Tess:** near-sisters across the years between them. Tess walked her home from every dance and wake on the island, and Beth corrects her in four words at the counter. **Tess → Beth:** fierce and proprietary, and she logs Beth's light because she always has. She doesn't forgive being named (Ch 10). *[BB: the designer wrote "fourteen years"; 46 − 33 is thirteen. The gap stays off the page; see Open questions.]*
-- **Beth → Russ:** four grades apart at the island school, teasing, no romance ever. She trusts him in Ch 9 on thirty years of knowing him. **Russ → Beth:** "Where you sleeping?" means he's watching out for her.
-- **Beth → Quist:** the woman who suspected her and leaves the boat. Beth respects that she doesn't apologize. **Quist → Beth:** a witness who turns out to be the best eyes in the bay.
-- **Beth → Pike:** a voice she calls herself as her condition. **Pike → Beth:** tells her the orders, doesn't apologize for them.
-- **Beth → Arsenault:** the *Margaret Ann*, and a man who bought fuel off her father. **Arsenault → Beth:** remembers her at eight.
-- **Beth → Doucette:** she knows his walk. She wins on the dark deck and throws him the buoy.
-- **Dane → Ned:** his straight man and drinking buddy over coffee. He likes him, puts him on the list anyway ("I'd still put Haskell on the list"), and is still surprised. **Ned → Dane:** "your marshal." He hands Dane a light and teases him for how he holds it.
-- **Dane → Tess:** one counter conversation. She prices his hands and his boots, and he files her. **Tess → Dane:** "Marshal," and two dollars over on everything.
-- **Dane → Russ:** federal and local, wary, then one good exchange about the print. They work together in Ch 9 with Beth giving both their positions. **Russ → Dane:** respects a man who stays where he's put.
-- **Dane → Quist:** she ordered the thing that broke his witness's trust, and he obeyed. **Quist → Dane:** "Deputy," then "Reyes" once he's told her the truth.
-- **Dane → Pike:** the person he self-reports to. **Pike → Dane:** protects him by saying less.
-- **Dane → Arsenault:** exact change. **Arsenault → Dane:** buys his coffee to show him he can.
-- **Ned → Tess:** asks every New Year's. He gives up Ashby to keep Arsenault away from her. **Tess → Ned:** "Ask me sober, Haskell." She is never in earshot, and she never guessed.
-- **Ned → Russ:** sends him along the riprap in Ch 8. In Ch 9 he holds out his wrists before Russ asks.
-- **Russ → Quist / Quist → Russ:** see above.
-- **Tess → Arsenault:** customer, lifeline and owner. She laughs too loud, and she's afraid of him from Day 0. **Arsenault → Tess:** the heart of the island, and a hard winter.
-- **[BB] Tess → Quist:** Ch 10 s1 only; she hands over the ledger herself and looks at Beth, not at Quist.
-- **[BB] Arsenault → Doucette:** sends him; never shown giving an order on the page except the gasoline Ned overhears (reported in Ned's confession).
+- **Beth and Ned:** her father in all but name, and the one person whose verdict she never questioned. He waited for her to ask for the job; she waited for him to offer; she asks on the beach (Ch 09), and he says yes. In the dentist's kitchen she makes him own each place, one at a time, and ties his wrists (Ch 11). On the east road he answers her (Ch 12). At the ledges he gives her her father's way by ear, and she leaves him free at her wheel (Ch 15). His letter has "No sorry," and she puts it in the drawer (Ch 17).
+- **Beth and Tess:** near-sisters, thirteen years apart. Tess walked her home from every dance and every wake on the island. Beth put her on the list, and Tess doesn't forgive it in this book; she writes the board for her anyway.
+- **Beth and Russ:** **[DC]** eleven years apart; Russ was the big kid who taught her to bait a trap when she was six and set a generator's choke ("Your father teach you that?" / "You did."). She has known his step on a stair since she was six. She trusts him on thirty years of knowing him, and he lies to Dane anyway, for Tess.
+- **Beth and Cole:** six years of Thursdays and a twenty-dollar tip. She saw him in the cab. Her eyes are the case.
+- **Beth and the kid:** he told her she didn't see it. She knows his walk. She tells him he hangs mugs wrong in her own kitchen, brings him up the stair after the ledges, and keeps his name once she learns it.
+- **Beth and Mercer:** two meetings. On the town office step she tells him his coat has never been wet and leaves his gauze in the snow. On the radio she doesn't answer him, and at the gap she sees his face.
+- **Dane and Ned:** Dane likes him, keeps him on the sand on his left at the beach anyway, and is still surprised. Ned calls him "your marshal." Dane arrests him in the dentist's kitchen, and it comes out rough (Ch 11).
+- **Dane and Tess:** one counter conversation (Ch 05), where he watches her answer too fast about the Dyer call. She tosses him the fire-truck keys without a word (Ch 13), calls him and only him on the radio at the gap (Ch 15), charges him the marshal price for boots, and pushes his coffee across the Thanksgiving table: "Coffee's a dollar, Marshal. Same as everybody."
+- **Dane and Russ:** federal and local, wary. Russ lies to his face in Ch 05 ("Nobody") and owns it in Ch 12. Dane tells him twice where to stand at Beth's door; Russ stands in the door. "You said the side." / "I did." In Ch 17: "I don't mind, Dane."
+- **Dane and his boss:** the one person in the office he'd trust with his life. The kid's phone clears her (Ch 10). He asks her for the go before the bait (Ch 11), asks her for the hold (Ch 12), withdraws it and puts the relationship on her record (Ch 14).
+- **Dane and the kid:** two fights. At the cove the kid tears loose, goes for Beth, and pistol-whips Dane (Ch 10). At the window Dane takes the gun wrist first and puts him face down in the snow (Ch 13): "I know which one. I'm the one who shot it." Dane types his statement (Ch 15): "Her word puts Cole in that room. Yours puts his lawyer in it with him."
+- **Dane and Mercer:** a photo on the step ("Smile for my boss") and a voice on the radio ("You talk a lot, Marshal." / "Everybody says so.").
+- **Dane and Cole's lawyer:** Dane has pictured this man in a good coat since Ch 03. They never meet on the page.
+- **Tess and Russ:** together in secret, and the secret is the only thing either of them is hiding. Out in the open at dawn on Wednesday, when Russ comes up the town office step with Tess behind him in a man's coat (Ch 12: "Late." / "Later than that." / "Not one word, Calloway."). In Ch 17 they come through Beth's door together and look at each other at the dark window: Book 2. "I'll find out." / "We'll find out."
+- **Ned and Tess:** his voice, low with a hand over the phone, made the Dyer call to her store ("send Russ, he could see his light from there"). When he's walked down the harbor road in cuffs she watches from the store window and lets the blind down (Ch 12).
+- **Ned and Russ:** Russ's cuffs go on Ned's wrists at the town office step, where Beth's rope knot was (Ch 12). Russ's cuffs lead him off the ferry at Pruett.
+- **Ned and Cole:** two years of night runs, a cheap phone, and a lawyer's call about his son.
+- **Ned and the kid:** never face to face until both are prisoners. The texts on Cole's phone were their whole relationship, and Ned walked an hour in a storm to save "somebody's boy" (Ch 11).
+- **Russ and the kid:** Russ knew him only far off on Cole's boat. He tries to talk him out of Beth's house and is shot through her door (Ch 13).
+- **Beth and Dane's boss:** a voice on speaker. Beth hears every word (Ch 02, 05, 08, 12, 14). The boss speaks past her once ("Reyes, ask her." / "She's here. She's been here the whole call, and she can hear you fine. No.", Ch 12) and to her directly once, when Dane makes her ("Say it to me.", Ch 14).
+- **Beth and Cole's lawyer:** one meeting in the courthouse lobby (Ch 16). He says the marshal has been keeping her warm; she says yes, and that she'll say so in there.
+- **Beth and the Marine Patrol officer (Ch 02):** ten minutes and an engine running. He tells her plainly what happens if she stays.
+- **Beth and the prosecutor (Ch 16):** plain questions at the door and in the room, and a woman who doesn't look surprised by the answer about the deputy.
 
-### The strip-the-names test (for the dialogue doctor and voice editor)
+### The strip-the-names test
 
-Run on every chapter's final pass, with names and labels removed. The designer's test sorted all thirty sample lines. The cues:
+Run on the twenty lead dialogue lines and the ten interior lines, with names and labels removed and the order shuffled. All thirty sorted without hesitation. The cues:
 
-- **Beth:** dropped subjects ("Door's gone quiet." "Won't run."); conclusion first; imperatives; no questions except in tenderness or desire (line 10 is a question, and it's marked as one she doesn't usually ask); gear, water, binders, gut; paper as an enemy; people placed by boats.
-- **Dane:** whole sentences with "because" and "which"; "okay", "here's how this goes", "talk to me", "for the record", "dollar says"; the dry turn on the last clause; a joke at his own expense; hands, exact change, keeping score; lies in two or three words.
-- **Ned against Beth** (the outline's tag-strip risk): Ned keeps his subjects, answers with weather, says "Bethie," over-details when lying, and in confession reports other men's words ("They said"). Beth does none of these.
-- **[BB] Russ against Ned** (Ch 9 s5, the store): Russ asks and answers himself and says "somebody"; Ned answers with weather and "They said." **Pike against Quist:** Pike gives conditions and orders and never asks; Quist asks with a number in it.
+- **Beth:** short whole sentences, conclusion first; imperatives with no "please" ("Come here." "Move." "Hold this."); "Marshal" as a tease; "Fine."; one-sentence verdicts on people; wanting said plainly ("I want," "Come here"); hands and fixing things; in fear, two or three words and then silence.
+- **Dane:** long sentences with "because" and "which" building to a dry turn; "Here's how this goes," "Dollar says," "I'm keeping count," "Ms. Calloway"; jokes against himself; how it will sound to a jury; asking permission ("Can I?" "I'm asking."); in fear, more words; lies in three words.
 
-Two notes from the designer's run: Dane's afraid line 8 needs its self-assured joke to stay his; Beth's interior line 4 is an *and*-chain whose nouns (half tide, the gut, his belt in her fist) mark it as hers, and those nouns must survive any edit. The v1 voice editor flattened both leads toward one register. If a line could belong to either lead, it's wrong. The danger scenes are the test case: Beth goes silent and Dane talks. If both go quiet, the scene has lost a character.
+Lines that needed a rewrite to pass:
+- **Beth's tender line 9** first read "Come here. You're freezing." Dane could have said that. "Let me be the warm one for once" is hers: it answers his coat in the snow in Ch 01, and only she owes him that.
+- **Dane's afraid line 7** first ended at "you keep breathing where I can hear it." The self-mocking turn ("ask anybody in Massachusetts") makes it his.
+- **Beth's interior 2** and **Dane's interior 2** both run on "and." Hers is a verdict about another person; his is a count about himself. Keep those shapes in any edit.
 
-### Speaker assignments for outline lines
+**For the dialogue doctor and voice editor:** an earlier voice editor flattened both leads toward one register. If a line could belong to either lead, it's wrong. The danger scenes are the test: Beth goes silent and Dane talks. The heat scenes are the second test: Beth says what she wants and Dane goes quiet. If both leads do the same thing, the scene has lost a character.
 
-So the beats and the dialogue doctor don't hand a line to the wrong voice.
+### Speaker assignments (as on the page, Nov 14)
 
-| Line | Speaker | Why |
-|---|---|---|
-| "Those boots are for a different ocean." / "They're for a courtroom." | Beth / Dane | Gear verdict / his straight answer |
-| "Am I keeping you?" | Beth | Flat, at his phone |
-| "The last witness who knew her own town better than I did is buried in it." | Dane | His sentence shape, his wound |
-| "Master and one deck. That's the certificate. Without me she doesn't leave the slip." **[BB, domain check; optional wording for the Pruett manning beat]** | Beth | Her rule, cited |
-| "You're welcome." / "I didn't say anything." / "I noticed." | Beth / Dane / Beth | Owing |
-| "What's a **Webbers Cove** 34 with a rebuilt Cat worth?" / "To who?" / "To me." / "Less than you're paying." | Dane / Beth / Dane / Beth | Domain check: make changed |
-| "There goes my boat." / "It was never your boat." | Dane / Beth | — |
-| "Other way. Unless you want to go with it." | Beth | Imperative, on the lines |
-| "Does it do that a lot?" / "Just the once." | Dane / Ned | Straight man / understatement |
-| "Steel doesn't burn. Everything in it does." | Ned | — |
-| "Anyone with a skiff." / "Nobody's coming over that stern in this." | Dane / Ned | — |
-| "You. Since this morning." | Dane | His guess, the bet without the dollar |
-| "Then don't sit with your back to me." | Beth | — |
-| "That's a narrow definition of waterproof." | Beth | Gear verdict |
-| "She wants me alive long enough to be useful." | Dane | About Quist |
-| "That's not a no. It's a not yet I can't afford." | Dane | — |
-| "Ninety seconds, if you don't stop. And you stay inside where I put you." | Beth | — |
-| "It's a very disappointing kit." | Dane | His trauma kit (as in v1) |
-| "It's mostly potato on purpose." | Beth | Defending island food |
-| "Good till next August." / "I'd have asked for a receipt." | Tess / Dane | — |
-| "Moorings swing." / "That isn't swinging." | Dane / Beth | The innocent reading from away / her verdict on water |
-| "We go down to look. Anything wrong at the ramp head, we turn round." / "I'll know before you do." | Dane / Beth | The plan first / the edge of the water |
-| "Why a boat?" / "Because of a girl named Marisol." | Beth / Dane | Beth asking is her intimacy register |
-| "Where is he?" … "Good. Don't tell me." | Ned / Ned (Beth silent between) | He knows himself |
-| "You'll hear it from the defense. Hear it from me." | Dane | — |
-| "The ham is eleven pounds, and there are three of us." / "That's not a reason. That's a load." | Dane / Beth | His pleasure / her word |
-| "Anybody can walk it backward." / "They burned Ashby." | Beth / Beth | — |
-| "Tonight the stern's watched, I'm awake, and the outside ladder's my way down." | Beth | Her boat, her positions |
-| "This isn't water." / "Not Ned." | Dane / Beth | He names her blind spot, and she refuses it |
-| "I'd still put Haskell on the list." | Dane | Ch 9 s3 |
-| "Tess. It's me." / **"Okay, Calloway."** | Beth / Tess | **[BB] Replaces the outline's "Okay, Bethie."** "Bethie" is Ned's alone |
-| "Ned says you need a constable. I said I'd look for one." | Russ | Ch 9 s2 |
-| "Bethie. Water side." | Ned | Ch 9 s4, channel 9 |
-| "Take her across tomorrow." | Ned | Ch 10 s1 |
-| "You put my name in." / "Yes." / "I sold you condoms." | Tess / Beth / Tess | Ch 10 s1 |
-| "Yes. He told me you'd ask. He wanted you to hear it from me first." | **[BB] Pike** (default; see Open questions) | Ch 10 s4, Portland |
-| "I'll have my traps out by Tuesday." | Russ | Dane can't legally fish commercial traps quickly |
+So revisions and any re-run never hand a line to the wrong voice. Every line here is on the page as written.
 
-**Marisol, as an exchange (Ch 6 s4).** Content for the beats, not a script: Marisol, in the car on the way to the safe site, asked him what he'd do if he weren't this. He said he didn't know. She said everybody who says that wants a boat. Then she asked for ten minutes at her sister's. That's two lines about the death at most, and Beth answers with something of her own (the license), so the scene is an exchange and not a confession.
+| Ch | Line | Speaker | Note |
+|---|---|---|---|
+| 01 | "You didn't see this." | the kid | — |
+| 01 | "Not on this boat, you didn't. Not with those men twenty feet under us." / "Go home when we dock. Lock your door. Then you do what's right, from your own kitchen." | Ned | Reads as fear for her until Ch 12 |
+| 01 | "Beth. Come on. Nobody wants to hurt you." | the kid | — |
+| 01 | "Those boots are for a different ocean." | Beth | Her verdict |
+| 01 | "The government." / "The government should have said something about the boots." / "The government is going to hear about it." | Dane / Beth / Dane | — |
+| 01 | "You're an ice cube with opinions." | Dane | — |
+| 01 | "Okay. Here's how this goes." | Dane | The book's one "Okay" |
+| 01 | "I'm very good at my job. Ask me again in ten days." | Dane | Paid Ch 17 |
+| 02 | "The grand jury sits Monday the twenty-third. The prosecutor could have a trooper read them your statement. She won't. She wants you in the room, and if they don't indict him that morning, he walks out at two." | Dane's boss | [DC-ms] the prosecutor's choice |
+| 02 | "A skiff went out of Pruett, across the bay, at half past ten last night. No lights. Skinny young fella with a bad leg." | Russ | — |
+| 02 | "You're the most stubborn witness I've ever had." / "How many have you had?" / "Forty-one, as of this morning." | Dane / Beth / Dane | — |
+| 02 | "When this goes in a report, can everybody please remember that I jumped?" / "You fell toward the boat. It's different." | Dane / Beth | — |
+| 02 | "It's not answering, Bethie." / "It's sixty-four, Bethie. It does what it likes." / "Never needed one. I don't go in." | Ned | The steering; the hip; the life jacket |
+| 02 | "You can let go." / "I know." | Beth / Dane | — |
+| 02 | "Where are you sleeping tonight? Don't tell me. It's me asking today. Somebody else will be asking before dark." / "Not there." | Russ / Dane | — |
+| 03 | "How's that going to sound in a courtroom?" / "It's going to sound like I came home." | Dane / Beth | — |
+| 03 | "I'm going to kiss you. If you've got a reason why not, you've got about three seconds, and it had better be better than a jury." | Beth | — |
+| 03 | "Three seconds, and you came back with a jury." / "I got to two. The jury took the third." | Beth / Dane | — |
+| 03 | "Then don't lie about it. If they ask, I say yes, and then I tell them what I saw." / "A jury doesn't get a vote on who kisses me. I do. I voted." | Beth | Her winning argument |
+| 03 | "How many witnesses have kissed you?" / "As of tonight? One. I'm keeping count." | Beth / Dane | — |
+| 03 | "Tonight's a bad night." / "Then tomorrow." / "Probably sooner." | Dane / Beth / Dane | "Sooner" is his, so Ch 04's "You said sooner" is hers |
+| 03 | "That's the arm I hit." / "It's my bad arm now. You've ruined it for everybody." | Beth / Dane | — |
+| 03 | "I know a place." | Beth | — |
+| 04 | "You said sooner." / "And Cole's lawyer?" / "Let him say it." | Beth / Beth / Dane | — |
+| 04 | "It's a very disappointing kit." / "That's one laugh." / "Quit it." | Dane / Dane / Beth | — |
+| 04 | "Your father mended his traps up here every winter. Took me all night to think of it. Some constable." / "Late." | Russ | — |
+| 04 | "Then there's two of them." | Beth | — |
+| 05 | "Four seventy-nine. Good till next August." / "Do I get a receipt, or do I explain this to accounting from memory?" / "You can expense it, Marshal." | Tess / Dane / Beth | — |
+| 05 | "You did that, Calloway." / "What was I supposed to do, ask for ID?" / "Your marshal's looking at me like I'm lying to him." | Tess | — |
+| 05 | "Nobody. Who'd I tell?" | Russ | The lie |
+| 05 | "He washed up. I don't wash up." | Russ | — |
+| 05 | "That's four people who know where you'll be tonight." / "Three of them would die for me." / "Somebody wanted your face on a wall in September." / "In September I hadn't seen anything." | Dane / Beth / Dane / Beth | Chapter end |
+| 06 | "Dollar says he's crouched by the bottom step with the door in his sights." / "I don't bet on what I can see. Pantry." | Dane / Beth | The bet, planted |
+| 06 | "Off this hill, I kiss you for an hour." / "Boots first. An hour's not long, Marshal." | Dane / Beth | — |
+| 06 | "Nobody could see this house from the road. Somebody told him." / "Or he followed us up yesterday." | Dane / Beth | — |
+| 06 | "And the fourth one is my boss." | Dane | — |
+| 06 | "Hold my hand and do exactly what I do." | Beth | Chapter end |
+| 07 | "He thinks we drowned." | Beth | — |
+| 07 | "This is medical." / "Best medical I've ever had." | Beth / Dane | — |
+| 07 | "Come here. You're shaking. Let me be the warm one for once." | Beth | — |
+| 07 | "You don't get to decide what I can hold." | Beth | — |
+| 07 | "I want you. I'm saying it out loud so you can't pretend I didn't." | Beth | — |
+| 07 | "I'm going to get you off this island alive, and then I'm going to lose you, aren't I?" | Dane | Chapter end |
+| 08 | "I'm in love with you." / "Ask me in five days." | Dane / Beth | — |
+| 08 | "That ham is load-bearing." | Beth | — |
+| 08 | "A witness told me once that everybody who doesn't know what they'd do instead wants a boat." | Dane | — |
+| 08 | "Marine Patrol will send a boat tomorrow at three, when the wind drops. It needs somebody on the island radio who can see the beach." / "That's Tess." | Dane's boss / Beth | — |
+| 08 | "No. Her three get the true hour, from her. If anybody's in those trees at three, it came off one of three phones, and I'll have all three phones' records. That's the test." | Dane's boss | — |
+| 08 | "So you're the cheese, and I'm the man standing next to the cheese with a gun, and we're calling that a plan?" / "We're calling it Tuesday." | Dane / Beth | — |
+| 08 | "Cole's held in Portland until the hearing, Monday the twenty-third at two. The grand jury hears her that morning, or he walks." | Dane's boss | — |
+| 08 | "Everybody you love has the hour now. Which one would you like me to stop trusting first, or do I get to pick?" / "None of them. Watching them is your job. Calling them was mine." | Dane / Beth | — |
+| 08 | "And me." | Dane's boss | Chapter end |
+| 09 | "I want your job in June, Ned. I'm asking for it." / "It's yours. I've had the letter to the board written since the day you got your license. I was waiting on you to ask." / "You could have offered." / "You could have asked." | Beth / Ned / Beth / Ned | — |
+| 09 | "I'd guessed. I let myself not know." / "My boy in Portland's on that stuff, Bethie." | Ned | Ch 12 shows "never once opened it" was a lie |
+| 09 | "After Monday nobody needs me dead." / "Two years ago in New Bedford, Cole's people burned down the house of a woman who'd testified. After." / "Then I'll keep a bucket by the stove." | Beth / Dane / Beth | — |
+| 09 | "So it's one of your three, or it's one of mine." / "Which one?" | Beth | — |
+| 10 | "Not Ned." / "He knew the hour. So did two other people you love." / "He stood in the sea for me." | Beth / Dane / Beth | Capped at four lines |
+| 10 | "He'd have been swamped at the ledges, the rocks just under the water at the harbor mouth." / "He's got nothing to lose." | Beth | — |
+| 10 | "Now there's one way off this island." / "And it's my ferry, once I fix the steering." | Dane / Beth | — |
+| 10 | "Door first." | Dane | — |
+| 10 | "You're good at this." / "I've been good at this the whole time. You've only seen the bad days." | Beth / Dane | — |
+| 10 | "Don't say it again. Not till I can answer you." | Beth | In the love scene |
+| 10 | "Answer him." | Beth | Chapter end |
+| 11 | "Nobody on this island lets a boy bleed to death in the snow." | Beth | — |
+| 11 | "A quilt doesn't breathe. I want to be the one they find." / "So it's my face they find." | Beth | — |
+| 11 | "If it's the kid, the plan is I shoot him. If it's Tess, you explain to her why I've got a gun on her." / "If it's Tess, I'm going out the back. She'll skin us both." | Dane / Beth | — |
+| 11 | "Talk to me." | Beth | Its one use |
+| 11 | "Son? It's all right, son." / "He's somebody's boy, Bethie." | Ned | — |
+| 11 | "Hello, Ned." | Beth | — |
+| 11 | "I could see his light from there. I told Tess so. I wanted Russ off that porch, and I didn't want him hurt." | Ned | The Dyer call owned |
+| 11 | "Ned, you're under arrest." | Dane | — |
+| 12 | "Ned, he's aiming at her, and you're lying in my spot. I'd like it back." | Dane | — |
+| 12 | "Two years ago Cole came down the pier on a calm night. He said, after the deckhand's gone home, you take it back across alone." / "On the beach I lied to you." | Ned | — |
+| 12 | "Why my Thursday?" / "The blow was coming. No night run till it passed, and Cole wouldn't wait on it. He said you never open a truck." | Beth / Ned | — |
+| 12 | "Cole said nobody'd be touched. I didn't ask him twice." | Ned | — |
+| 12 | "It comes in from offshore. A boat. I never saw it." | Ned | — |
+| 12 | "Late." / "Later than that." / "Not one word, Calloway." | Beth / Russ / Tess | — |
+| 12 | "You've owned the one lie that put you on my list." | Dane | — |
+| 12 | "Once." / "Once is how everything starts with you." | Beth / Dane | — |
+| 12 | "Sit down, Ned." | Beth | — |
+| 12 | "I've asked for a hold. … You'd have heard it from a judge. You hear it from me." / "Cancel it." / "No." | Dane / Beth / Dane | The rupture |
+| 12 | "It rests on my deputy's word that you'll be killed if you go home. Only his word takes it back." | Dane's boss | — |
+| 12 | "I'm going in that room. You don't get to make me trade it." | Beth | — |
+| 12 | "I'll hold the light." / "Don't hold the light." | Dane / Beth | Paid Ch 14 |
+| 12 | "That's Cole winning, Dane Reyes. Slower." / "It's still my life to spend." | Beth | — |
+| 12 | "I'd lose you to keep you alive." / "You will." / "I know. It's the one thing my job can still do for you, and I've done it." | Dane / Beth / Dane | — |
+| 12 | "Then they stop. And so do we." / "I'm still your guard until Monday." / "Then stand there." | Beth / Dane / Beth | — |
+| 12 | "Somebody's lit your stove." | Ned | — |
+| 13 | "If anybody bleeds, I'm coming up." / "I've lost to you every day since the oar." | Beth / Dane | — |
+| 13 | "I know which one. I'm the one who shot it." | Dane | — |
+| 13 | "You said the side." / "I did." | Russ / Dane | — |
+| 13 | "I want you, Marshal. I haven't stopped." | Beth | — |
+| 13 | "You put the mugs away wrong." | Beth | — |
+| 13 | "My father's way home. Nobody's taken it since him." | Beth | — |
+| 13 | "You think I was what's coming? They've got a boat." | the kid | — |
+| 13 | "Don't stand in front of me." | Beth | — |
+| 13 | "That coat's never been wet." | Beth | — |
+| 13 | "He told me to wait for Tuesday. You want me in a room in Portland till spring. Which one of you is going to ask me?" | Beth | — |
+| 14 | "I worked the back of a lobster boat two summers. I'm good at exactly this." | Dane | — |
+| 14 | "Tonight you hold the light." | Beth | — |
+| 14 | "Cut it?" / "Cut it." | Dane / Beth | He asks |
+| 14 | "That was my good shirt." / "You don't have a good shirt." / "I had one. You're wearing it." | Dane / Beth / Dane | — |
+| 14 | "Sunday night or not at all." / "Sunday." | Dane / Beth | — |
+| 14 | "Withdraw it. … She doesn't get held, and she doesn't go into the program unless she says so. Write that down." | Dane | — |
+| 14 | "I was scared, and I called it the job. And I'm involved with her. Write that down too." | Dane | — |
+| 14 | "Not all on her own. I've put in for the Maine office." | Dane | — |
+| 14 | "I know what I'm choosing. I'm the one standing here." | Beth | To the boss |
+| 14 | "I still think you should go. It was never mine to say." | Dane | — |
+| 14 | "Then you ask me. Every time. Even when you're sure. And you never go round me to anybody again." / "What if somebody's shooting at us?" / "Then ask fast." | Beth / Dane / Beth | Her condition |
+| 14 | "Then we split the blame. I'll take the bigger half. I'm the one who filed it." | Dane | — |
+| 14 | "What do you want, Dane?" / "I'll tell you on the other side. When nobody's paying me to stand here." | Beth / Dane | — |
+| 14 | "Russ. Tess. He's going to ask me something, and I'm going to say yes. I'm telling you myself, so nobody ever says it for me." | Beth | The public yes |
+| 14 | "Can I kiss you? I'm asking." / "Yes. … I love you. I have since the rock, when you opened your hand." | Dane / Beth | — |
+| 14 | "Well." | Russ | — |
+| 14 | "Then we go dark. Let them find us by ear." | Beth | — |
+| 14 | "We go at ten. An hour after high water, while there's still water over the rocks." | Beth | — |
+| 14 | "Touch that and you swim." / "Tell me where it is." | Beth | — |
+| 15 | "I'm going up top. Say go." / "Go." | Dane / Beth | — |
+| 15 | "I'm still talking, so I'm still fine. Keep it straight." | Dane | — |
+| 15 | "Mayday, mayday, mayday. This is the Cutter Island ferry, off the point toward Pruett. We're being fired on. Four of us aboard." | Beth | [DC-ms] |
+| 15 | "You talk a lot, Marshal." / "Everybody says so." | Mercer / Dane | — |
+| 15 | "Beth. Can I tell them about the steering?" / "Tell them." / "The steering's gone." | Dane / Beth / Dane | — |
+| 15 | "Alton's way. You've seen it on the door." / "You've taken it?" / "Never. He never took anybody." | Ned / Beth / Ned | — |
+| 15 | "Marshal. Truck's on the point. Light's on you." | Tess | To Dane, never to Beth |
+| 15 | "I've got it, Bethie. Go." | Ned | — |
+| 15 | "You left the wheel." / "You stopped talking." / "I got shot. I'll start again in a minute." | Dane / Beth / Dane | — |
+| 15 | "Is this the other side?" / "Pruett's the other side. Stay alive till then." | Dane / Beth | — |
+| 15 | "Your marshal?" / "Talking." | Ned / Beth | — |
+| 15 | "I want that written down." | the kid | His statement |
+| 15 | "Ten o'clock. Will you go in without me?" | Dane | Chapter end; her answer is not on the page |
+| 16 | "I hear the marshal's been keeping you warm." / "Yes. I'll say so in there." | the lawyer / Beth | — |
+| 16 | "No. I saw it six hours before I ever met him. I've never told a room full of strangers who I sleep with. I'm telling you." | Beth | — |
+| 16 | "Did he ever tell you what to say?" / "He tried telling me what to do once. It didn't take." | a juror / Beth | — |
+| 16 | "Will you stay? I'm asking." | Beth | — |
+| 16 | "And nobody pays me to watch your door now. Can I be the one who watches it anyway?" / "Yes. From inside." | Dane / Beth | — |
+| 16 | "I've had you by a stove and in the dark. I want to see you." | Beth | — |
+| 16 | "Will they let me stay on the island?" / "Ask them." | Dane / Beth | Chapter end |
+| 17 | "It'll take up in a week. Till then you bail." | Beth | — |
+| 17 | "Those are the right boots." / "Tess charged me the marshal price." / "What's the marshal price?" / "Full." | Beth / Dane / Beth / Dane | — |
+| 17 | "Dollar says it's dry by noon." / "Done. It won't be." / "Did you just—" / "Bail." | Dane / Beth / Dane / Beth | Her first bet |
+| 17 | "It's a cup, Marshal. Take your dollar." / "I'm keeping this one." | Beth / Dane | — |
+| 17 | "Can I stay? I've had worse juries." | Dane | — |
+| 17 | "Best hand on that water. I won't have a stranger at our wheel." / "Dry, Calloway." | Tess | — |
+| 17 | "The kid's name is Kyle Pelletier. He's nineteen." | Dane | — |
+| 17 | "Your ten days were up on Monday, Marshal." / "So. Are you any good at your job?" / "Ask me every night." | Beth / Beth / Dane | The last line |
 
-### Character rules the outline must honor (binding; from the designer's flags)
+### Flags for the orchestrator
 
-1. **"Bethie" is Ned's name for her and no one else's.** Tess's Ch 9 s1 line is "Okay, Calloway." No other character says "Bethie" anywhere in the book.
-2. **Ned always looks back, planted three times:** Ch 1 s1 (after "Go home. I'll lock up," the turn and the lifted hand at the top of the brow); Ch 2 s4 (after "me and God"); Ch 4 s3 (at the foot of the Ashby drive, going back aboard). Each plant varies in form (a hand, a nod, the flashlight lifted). Paid in Ch 8's last line, where he doesn't.
-3. **Ch 6 s3, the tide question, needs one interior beat:** she knows she promised "Not Ned" minutes ago, she doesn't count asking Ned as telling, because Ned is the boat, and she asks anyway. One or two sentences, in her head, before the question.
-4. **Ch 3 s1, the lit screen:** Dane always angles screens away; the lapse holds because he hasn't slept. He sees the phone in her hand and shuts his eyes a second. Keep that beat.
-5. **Ch 6 s1, "Walked the bar":** the lie is short, his lying tell, so a careful reader hears the change in his voice. He has said he won't lie about *whether there's something*; this is a lie about *where he was*, the hair he splits.
-6. **Ch 10 s5, "I'll have my traps out by Tuesday":** Russ's line. If the author wants Dane fishing, it is a few non-commercial traps, and the waitlist is Beth's joke.
-7. **Dane's sternman summers** explain the callus and the want without giving him Beth's competence: he knows hauling, not ferries or weather.
-8. **[BB, from R4-3, for the beats]** When Beth recognizes the store's truck at the Ashby fire (Ch 5), Dane reports "a store vehicle" at his next call; Quist's answer is the same as for the boat (don't touch the store; don't spook the network); Beth asks him to keep Tess's name out of it, and he writes "store vehicle" without a name. Ch 8 s5 stays the first time anyone names Teresa Marr.
+*The designer's flags (Oct 30), with where each stands on the finished page.*
+
+1. **Dane's arc runs backward once, on purpose.** In Ch 08 he lets her make the tower calls on the boss's test; in Ch 12 he asks for the hold. The page shows what changed in between: the pistol at her on the cove rocks (Ch 10), the shot off the wall and the lawyer reaching Ned's son in a morning (Ch 12). Ch 12 names New Bedford, the cove, the wall and Ned in one speech. *Status: on the page.*
+2. **Beth leaves Ned free at her wheel (Ch 15).** She has just learned he sold her. The page gives her the line: they're clear of the rocks, and Ned is the only other hand aboard who can hold the boat. He cuffs himself back to the rail unasked. *Status: on the page.*
+3. **Ch 05, Ned hears where she'll sleep.** Beth tells Ned directly at the store, as she tells Tess and Russ. *Status: on the page.*
+4. **Beth's lie has to work.** The old Ch 10 phone lie is gone. Her lies on the page are short and followed by a task ("We're fine." to Mercer; "I'm fine." to Ned). *Status: on the page.*
+
+**Choices for the author to confirm (defaults in bold; all were taken Oct 30):**
+
+1. **The banned phrases.** The page follows the author's banned list: no "for the record," no "I'd like it noted," no "under open sky," and one "Okay" (Ch 01). **Settled.**
+2. **Contrast lines.** The page uses "That ham is load-bearing." and "A jury doesn't get a vote on who kisses me. I do. I voted." **Settled.**
+3. **Beth's height 5'10".** **Yes.**
+4. **Beth's mimicry dropped;** her habits are the one-sentence verdict and fixing the nearest broken thing. **Yes.**
+5. **Dane hears everything the way a jury would hear it later.** **Yes.**
+6. **Ned twenty-two years sober** (off the page). **Yes.**
+7. **Tess's reason for keeping Russ secret.** **Yes.**
+8. **Cole paid for the flowers at the funeral of the boy Beth taught to row.** **Yes,** Ch 02.
+9. **The kid washes the dishes in every house he sleeps in.** **Yes,** Ch 05 and Ch 13.
+10. **Age-true details,** each used once or twice, never as a list. **Yes.**
+11. **Beth's father is Alton,** dead six years. **Yes;** named on the page in Ch 15.
+
+### Orchestrator decisions (Oct 30, 2026, per the author's standing instruction to take the recommended default)
+
+- Banned phrases: keep the approved Ch 01 as written. "Okay" is not Dane's habit. "For the record" and "I'd like it noted": nobody.
+- Contrast lines: Ch 08 is "That ham is load-bearing." Ch 03 uses "A jury doesn't get a vote on who kisses me. I do. I voted."
+- Ch 05: Beth tells Ned directly, as she tells Tess and Russ.
+- All smaller defaults stand (Beth 5'10"; Ned sober twenty-two years; Tess's reason; Cole and the flowers; the kid and the dishes; Alton dead six years).
+
+### Lines as they now stand
+
+*The standing decisions and domain-check lines, as the finished page has them. Where this table and the speaker table differ, the page wins.*
+
+| Ch | Line as it stands | Speaker | Source |
+|---|---|---|---|
+| 01 | "I'm a deputy U.S. marshal." (Dane introduces himself at the shack door) | Dane | DC-ms §4 |
+| 02 | "When this goes in a report, can everybody please remember that I jumped?" | Dane | Orchestrator (replaces "I'd like it noted") |
+| 02 | "The prosecutor could have a trooper read them your statement. She won't. She wants you in the room, and if they don't indict him that morning, he walks out at two." | Dane's boss | DC §1; DC-ms §2 |
+| 03 | "A jury doesn't get a vote on who kisses me. I do. I voted." | Beth | Orchestrator |
+| 05 | Beth tells Ned the north-side house herself, at the store, the same way she tells Tess and Russ. | Beth | Orchestrator |
+| 08 | "I'm in love with you." (plain; the "on the record" line is retired) | Dane | Orchestrator |
+| 08 | "That ham is load-bearing." | Beth | Orchestrator |
+| 08 | "You owe me a fire truck's worth of diesel." | Tess | DC-ms §12 |
+| 09 | "the Marine Patrol boat, the state's marine police" | narration | DC-ms §9 |
+| 09 | "No helicopter would come up through icing for a woman who wasn't dying." | narration | DC §10 |
+| 12 | "A new name in a new state. She can't come back here, and she can't tell anyone from here where she is. Not her friends, not this island, and not you." | Dane's boss | DC §5 |
+| 12 | "Grant Street, the blue house, second floor, the door round the back." (no house number) | Ned | DC-ms §16 |
+| 12 | "Her house had stood empty and cold for five days." | narration | DC-ms arithmetic |
+| 13 | The strap with the ferry's wrench as a windlass; the Coast Guard's radio advice to ease it in an hour | Beth / Coast Guard | DC-ms §11 |
+| 13 | "Nobody's flying a stable patient in this ceiling. Cape Cod comes if he gets worse." | Coast Guard | DC-ms §10 |
+| 14 | "Nothing flies before Tuesday, and the Coast Guard's on the storm's distress calls. If that boat comes at you, that's a distress, and they'll come from an hour off." | Dane's boss | DC §10b |
+| 15 | "Pruett lay ahead across the bay, five hours off at this crawl, maybe six." | narration | DC-ms arithmetic |
+| 15 | "Mayday, mayday, mayday. This is the Cutter Island ferry, off the point toward Pruett. We're being fired on. Four of us aboard." | Beth | DC-ms §8 |
+| 16 | Two deputies arrest the lawyer in the lobby. | — | DC §9 |
+| 17 | "It'll take up in a week. Till then you bail." | Beth | DC §13; boats are "it" |
+| all | "Okay": once in the book (Ch 01). "For the record," "I'd like it noted," "under open sky": nobody. | — | Orchestrator; author's banned list |
+| all | Every boat is "it," never "she," in narration and dialogue. | — | Outline r1; author |
 
 ---
 
 ## WORLD & SETTING
 
-**Time and place:** Cutter Island, Maine (invented), about 3,100 acres in an unnamed midcoast bay (Penobscot Bay–type waters; never name Penobscot Bay), 7 nautical miles and a 45-minute crossing from **Pruett Harbor** (invented), a few miles off Route 1. Year-round population about 240; summer about 1,100. One ferry, one store with a fuel float, the island school (eleven children, K–8), the Union Church, a town office open Tuesdays and Thursdays, a volunteer fire company (one engine, one tanker, an EMT), a part-time constable, a co-op pier, a town landing, about 35 working lobster boats. **No airstrip, no bridge, no doctor.** LifeFlight lands only on the ballfield behind the school. Power comes by submarine cable that lands by the ferry slip; phones by a second cable. Most houses have generators; everyone has propane. The story runs from Thursday night, November 12 (Day 0) to Monday, November 23 (Day 11), with the HEA on Friday, December 18. Weekdays match the 2026 calendar; the year is never printed.
+**Time and place:** Cutter Island, Maine (invented), in an unnamed midcoast bay, an hour by ferry from **Pruett** (invented), a small mainland harbor town a few miles off Route 1. Portland, where the grand jury sits, is about two hours' drive from Pruett. Year-round population **two hundred and forty** (on the page, Ch 13, Ch 17); summer about 1,100. One ferry, one store, one fire truck, a part-time constable, a church (its bell rings noon across the water, Ch 17), an island school, a town office, the fishermen's co-op on its wharf with the net loft over it, a summer yacht club boathouse shut for the season, about forty summer houses shut for the winter, and an old lighthouse on the north point. **No airstrip, no bridge, no doctor, no police station.** The story runs Thursday night, November 12, 2026 (Day 0) through Monday, November 23 (the grand jury), with the HEA on Thanksgiving, Thursday, November 26 ("the last Thursday of November"). Weekdays match the 2026 calendar. The year is never printed.
 
-**Atmosphere:** A working island shut in for the winter and then shut off. Summer houses sheeted and dark. Generators starting one by one along the shore at dusk. Everyone listening to everyone on VHF. The cold is a working condition (ice on the brow, a stove to keep fed, hands that stop working at the wrong moment) and nobody calls it beautiful. Gossip is the island's other weather; most of it means well.
+**Atmosphere:** a small working island in the dark half of the year, shut in by weather and then shut off. Shuttered summer houses, a generator starting at dusk, everyone knowing which house is whose. The cold is a working condition: wet socks, numb hands, a stove that has to be fed. Nobody on the page calls the sea beautiful or angry. Gossip is the island's other weather, and most of it means well, which is why it's dangerous.
 
-### Island geography (binding; the route map from outline R3-4 is inside it)
+### Island geography, plain (binding)
 
-The island runs roughly north–south. The **harbor and the town** are at the south end, facing the mainland.
+The island runs north to south. **The harbor and the village are at the south end**, facing the mainland. The north end is woods, shore rocks, the north beach and the lighthouse. A low ridge runs up the middle.
 
-- **The Harbor Road** runs along the harbor from the ferry slip and the **stone pier** at its west end, past **Marr's store** and its dock and **fuel float**, the **town landing** and its bait shed, the **co-op pier** and the **Union Church**, then climbs out of the village round the shoulder of a knoll.
-- **Beth's cottage** sits on that knoll. Its **front faces the road** on the uphill side, a front yard sloping down to the road (a truck "under the house" is on the road below the front yard). Its **back door and back steps face the harbor and the store**, down a steep path; the kitchen window looks down on the whole harbor and the fuel float, which means the store looks up at the back of the house. (Outline fact 6; R2-13.)
-- **Tess's house** sits on the Harbor Road a short walk east of the store, with a dooryard where the store pickup sleeps.
-- **Lookout Hill** (about 160 feet) is the middle of the island, bare granite on top; the woods path up from town is islanders' only; from the top, the whole harbor, the moorings, the store dock and the co-op pier.
-- **The north road** runs from town over the island's spine to **the north point**, where the **Ashby place** stands with water on three sides and one road out. Ned starts its generator every storm.
-- **Calloway Cove** opens on the **east shore** between the north point and town. **The fish house** sits at the head of the cove. One door, facing the land. The **cove road** from the north road down to it is grown over.
-- **The ledge**: a bare granite shoulder on the high side of the cove above the fish house, open to the sky. Dane's place for the Iridium. From it you see down the east shore and over the low ground to the inner harbor and the town landing (the dragger's new mooring is visible from it on Day 6).
+- **The harbor road** runs along the harbor: the stone ferry pier at the west end, then the store, the co-op wharf with its net loft, the church, the yacht club boathouse on its posts over the water, Russ's house, Ned's house and the town office. Below the road, rocks and a bank of ice run down to the water; the shore below the church is open and flat. **[BB]**
+- **The point** runs out from the harbor's edge into the bay, a long black arm of land, with the point road along it (half an hour by truck to the end, Ch 15). **The Dyer house** sits out on the point across the harbor, an hour round by the road. From its kitchen you look straight across the black water at Russ's porch on the harbor road (Ch 04, Ch 05).
+- **The lee of the point:** the stretch of water behind the point, out of the wind, "where nothing lay in November." The big boat lies there from Thursday (Ch 13).
+- **Beth's house** (her father's) stands on the east rise above the village, up a lane of its own (Russ's truck sits at the foot of the lane; a rise between the lane and the house stops a bullet), above a small cove where a skiff can land in the dark if you know the rocks. Her father's fish shack sits on the rocks at the bottom of the hill. The cove's name, Calloway Cove, is off the page.
+- **The east road** leaves the village and runs up the island's east side past shut summer houses: the house with its back window out where the kid camped (Ch 05), Cole's trailer, a field with a stone wall across it (Ch 12), and the lane down to the Pruett dentist's house above the east cove, an hour from the village on foot (Ch 10–12).
+- **The east cove:** the one cove on the east side between the north end and the village where a skiff can sit (Ch 10).
+- **The north side** has the summer house Russ looks after (Ch 05–06), in woods above the shore rocks, and about a mile on, the **old lighthouse** on the north point, with **the north beach** below it: a long curve of sand with rocks at both ends and spruce along the top. The beach road comes down at the south end.
+- **The harbor mouth** is narrow, with **ledges** (rocks just under the water) on both sides. A boat has to slow down to get through. The ledges on the point side run out along the point for about a mile. Inside them, close to the shore, is one narrow way: **Alton's way**, the pencil line on the pantry door, with a gap between two rocks "like the posts of a doorway" and a last tight turn past one rock standing alone (Ch 15).
+- **Pruett** (mainland): the ferry ramp and pier; Cole's cold storage on the Pruett wharf; a motel on Route 1 ten minutes from the harbor (Dane's, night 0); the store on Route 1 that also sells fudge, where Dane bought the boots; Route 1 a few miles inland.
+- **Portland:** the federal courthouse on Federal Street, with a park across the street; Maine Medical Center; a hotel over the corner of Middle Street; the county jail; Grant Street (Ned's son); a clinic; the bus station.
 
-**The route map (binding; outline R3-4):**
-- **Ashby to the cove:** the shore path along the ledge below the house, then the **gravel bar**. The bar is **dry at low water** and **knee-deep at half tide**. The **gut** at its seaward end is **waist-deep at low water** and **about seven feet at half tide**; you keep a stride inside where it drops.
-- **The fish house to the town lane:** **the shore under the bank**, about a mile and a quarter. Its ledges are **dry below half tide and awash above it**. This is the "never the road" route, so every trip between the fish house and town is timed to the tide (the low and the three hours either side of it).
-- **The town lane:** a shore lane from the bottom of the shore under the bank to the head of the town landing ramp, behind the bait shed.
-- **The fish house by road:** the grown-over cove road to the north road, then into town. Used once, on Day 8 at about 4 a.m. at high water, when the ledges are awash: Dane's tracks in fresh snow.
-- Trips to town never cross the bar.
+### Phones, power and radio (binding)
 
-### Tides (binding; constructed from the verified Day 4 lows, about 50 minutes later each day, range about 9.5 feet, rule of twelfths)
+- **Power:** the island's power goes out at a quarter past four on Friday, Day 1 (Ch 03: the store, then the church, then the harbor road, house by house). It stays out through the storms. Russ's generator, outside under the eave with its cord run in through the kitchen wall **[DC-ms]**, makes his the only lit house on the harbor road.
+- **Cell signal:** one tower on the ridge above the village. Weak. **No signal** inside the co-op loft (sheet-metal walls), at the north-side summer house, at the north beach, or inside the keeper's house. **One bar** on the store steps (Ch 05), from the iced walkway around the top of the lighthouse (Ch 08), at the kitchen window of the dentist's house (Ch 10–11), at the top of the rise on the east road (Ch 12), and in the town office (Ch 12–14).
+- **The leak's phone [DC §8]:** Cole's cheap phone, kept switched off and turned on only to send a text or to wait for an answer. That is why Dane's call at a quarter past two finds it off, and why the bait has to give it something to answer (Ch 11). A man walking an hour to a hurt boy keeps it on.
+- **Landlines** still work Friday night: the phone on Mrs. Dyer's kitchen wall calls the store at one in the morning (Ch 03–05). Beth's Ch 01 call to the police is from her kitchen, phone unspecified.
+- **The island radio:** Tess has a base set at the store and a handheld; Russ has one on his porch rail and a handheld; the fire truck has one. Anyone with a scanner can hear it, and so can **every boat in the bay** (Ch 13, Ch 15). **Nobody says where Beth sleeps on the radio, ever.** On the page: the Dyer call relayed by Tess (Ch 03); Tess talking the Marine Patrol boat in (Ch 09); Tess calling the Coast Guard for Russ, which tells every boat there's a boy in cable ties at the town office (Ch 13); Tess to Dane at the gap (Ch 15).
+- **The ferry's radio:** a handset in the wheelhouse and a speaker in the passenger cabin over the kid's bench. Dane talks to Beth on Russ's handheld from the upper deck (Ch 15). Mercer hears every word.
+- **Cole's phone (the night-run phone):** Cole gave it to Ned two years ago for the night runs; "only number he ever called me on." Ned carries it in his coat. Every leak went out on it, by text, to the kid's phone. The lawyer called it once, the morning after the crate split, and texts it on Wednesday (Ch 12). The three islanders' own phone records came back clean (Ch 10).
+- **The planted phone:** a cheap phone in a plastic bag, switched on, taped to the frame behind the back wheel of the bait truck on the car deck. It shows the big boat where the ferry is. The bag was dry under Friday night's spray and the battery near full, so it went in on Saturday, when the ferry sat empty at the pier all day and Tess watched the harbor from the store steps and nothing came in by water. Somebody on Cutter walked down and taped it there (Ch 14, Ch 17). Dane switches it off as the last line comes off, and Beth goes dark.
 
-*Outline-binding entries in bold. The rest are derived by the same rule (BB) and may be used by the beats. Half tide is about three hours after high or low. "Ledges dry" = the shore under the bank is passable.*
+### Weather (said on the page)
 
-| Day | Date | High | Low | High | Low | Ledges dry (approx.) | Plot use |
-|---|---|---|---|---|---|---|---|
-| 0 | Thu Nov 12 | 10:00 a.m. | 4:15 p.m. | 10:25 p.m. | (3:50 a.m.) | — | Night freight near the top of the tide |
-| 1 | Fri Nov 13 | 10:50 a.m. | 5:05 p.m. | 11:15 p.m. | (4:40 a.m.) | — | The bridge about 9 p.m., two hours before high, surge on top |
-| 2 | Sat Nov 14 | 11:40 a.m. | 5:55 p.m. | — | 5:30 a.m. | — | Surge tides: the cove over the fish house sill till Monday |
-| 3 | Sun Nov 15 | 12:05 a.m. / 12:30 p.m. | 6:45 p.m. | — | 6:20 a.m. | — | — |
-| 4 | Mon Nov 16 | 12:55 a.m. / 1:20 p.m. | **7:35 p.m.** | — | **7:10 a.m.** | — | **7:10 a.m. dead low: the bar dry; Beth wades the gut, waist-deep.** **Half flood about 10:40 p.m.: over the bar knee-deep, a stride inside the gut** |
-| 5 | Tue Nov 17 | **1:45 a.m.** / 2:10 p.m. | 8:25 p.m. | — | **8:00 a.m.** | about 4:55–11:05 a.m.; 5:20–11:30 p.m. | **1:30–2:20 a.m. the top of the tide: "Walked the bar" is impossible** (bar under about six feet). Store trip at the morning low |
-| 6 | Wed Nov 18 | 2:35 a.m. / 3:00 p.m. | **9:15 p.m.** | — | **8:50 a.m.** | about 5:45–11:55 a.m.; 6:10 p.m.–12:20 a.m. | **Out at the morning low, back at the night low** (Beth aboard all day) |
-| 7 | Thu Nov 19 | **3:25 a.m.** / 3:50 p.m. | 10:05 p.m. | — | **9:40 a.m.** | about 6:35 a.m.–12:45 p.m.; 7:00 p.m.–1:10 a.m. | **5:50 a.m. about a third ebbed: the last ledge thigh-deep in the dark.** Night: Beth past the last ledge by about 1 a.m. |
-| 8 | Fri Nov 20 | **4:15 a.m.** / 4:40 p.m. | 10:55 p.m. | — | 10:30 a.m. | (awash at 4 a.m.) | **About 4 a.m. high water, ledges awash: Dane takes the cove road** |
-| 9 | Sat Nov 21 | 5:05 a.m. / 5:30 p.m. | 11:45 p.m. | — | 11:20 a.m. | — | Boats in at 8 a.m. on the ebb |
+- **First storm:** comes in Friday, Day 1, from the northeast; snow, sleet, high wind, a sea that closes the bay. "It'll blow two more days" (Ned, Saturday). The wind lies down by Tuesday noon or near it (Ned, Ch 08).
+- **The lull:** Tuesday, Day 5. "The wind was down by one." The Marine Patrol boat comes at three.
+- **Second storm:** stands to the south "like a black wall" by Tuesday dusk and hits as they climb from the cove (Ch 10). Snow through Wednesday and Thursday; at its peak Friday night. The icing is up in the cloud, so a skiff can get into the lee and a helicopter can't get down through it (Ch 13). "Nothing flies before Tuesday."
+- **The window:** the harbor mouth is white water until Sunday evening, and the next storm is in before light Monday: "Sunday night or not at all" (Ch 14). Crossing normally takes an hour; at a crawl in what's left of the sea it takes five hours, maybe six (Ch 15). They cast off at ten and land a little before four.
+- **Tide:** high water Sunday, Nov 22, about nine p.m. "We go at ten, an hour after high water, while there's still water over the rocks." At the gap "the tide had only just turned" (Ch 14–15). **[DC-ms]**
+- **Thanksgiving:** cold, sun on the water, the harbor black after dark.
+- **Daylight [DC §14]:** sunrise about half past six, sunset about ten past four, getting earlier each day; dark by half past four. The lights go out at a quarter past four on Friday. Ch 06's fire is at dusk. Ch 09's ambush at three is about an hour before sunset. The landing at Pruett a little before four is full dark.
+- **Water [DC §14]:** about fifty degrees in mid-November. A man who goes in gasps and loses his breath and his voice in the first minute and the use of his hands within about ten. Ch 07: Dane can't speak until he's warm.
 
-Depths to use in prose: bar at half tide, knee-deep; bar at high water, over a man's head; gut at low, waist-deep; gut at half tide, about seven feet; last ledge a third ebbed, mid-thigh.
+| Date | Sunrise | Sunset |
+|---|---|---|
+| Thu Nov 12 | ~6:27 | ~4:13 |
+| Fri Nov 13 | ~6:29 | ~4:12 |
+| Sun Nov 15 | ~6:31 | ~4:10 |
+| Tue Nov 17 | ~6:34 | ~4:08 |
+| Thu Nov 19 | ~6:36 | ~4:06 |
+| Mon Nov 23 | ~6:41 | ~4:03 |
+| Thu Nov 26 | ~6:44 | ~4:01 |
 
 ### Calendar
 
-*Weekdays verified against the 2026 calendar. Sunrise and sunset approximate for Rockland, Maine, Eastern time `[CHECK]`. Water about 48–50°F in mid-November, mid-40s by mid-December `[CHECK]`.*
-
-| Day | Date | Weekday | Sunrise–sunset | Weather | Events (chapter) |
-|---|---|---|---|---|---|
-| 0 | Nov 12 | Thu | 6:25–4:12 | sleet, wind making from the east | 8:40 p.m. car deck; the lid; 10:45 float lit; ~11:15 Arsenault aboard to Ned; the frame; 1 a.m. Beth's call (Ch 1) |
-| 1 | Nov 13 | Fri | 6:26–4:11 | nor'easter from afternoon | 7:40 Pruett ramp; the jump; 1:15 VHF cancels the 2 p.m.; dusk the ferry for the night; ~9 p.m. the bridge, grid down, Ned calls the casualty in to Sector; ~10:20 "Home. Don't tell anybody."; 10:40 Tess sees the flashlight; the truck a little after eleven; 11:40 the latch (Ch 1, Ch 2) |
-| 2 | Nov 14 | Sat | 6:28–4:10 | storm; landlines fail about 6 a.m. | Morning: the screen; the store; noon, Dane lets the boat go; LifeFlight won't fly for Mrs. Dyer; Ashby key outside; after dark to the north point; the generator shed; the kiss (Ch 3) |
-| 3 | Nov 15 | Sun | 6:29–4:09 | storm easing to gale | Dawn Lookout Hill: Doucette circles the empty cottage; "Sold. Sorry."; Ashby money talk; Sunday dusk Ned with the diesel, back aboard (Ch 4) |
-| 4 | Nov 16 | Mon | 6:30–4:08 | squalls | 7:10 the gut; 7:45 Dane lights the Ashby stove; noon Ned at the store, Tess on rounds, sees the smoke; 2 p.m. Tess with two pots; 10 p.m. the shed goes up; the bar; the fish house; scene 1 (Ch 4 s4, Ch 5) |
-| 5 | Nov 17 | Tue | 6:32–4:07 | seas still too high to land | 1:50 a.m. Dane's report; 2:20 "Walked the bar"; morning low, the store, the condoms; afternoon Quist on the ledge (Ch 6) |
-| 6 | Nov 18 | Wed | 6:33–4:06 | moderating; a window | Ledge exchange at first light; aboard at the morning low; the tide question below; back at the night low; scene 2 (Ch 6). The 2692 on the mess table (optional) |
-| 7 | Nov 19 | Thu | 6:34–4:05 | second system on the glass at dawn, arriving mid-morning | 5:50 the lane; float dark; the shot; "Not again today" (the inspector was on that boat too); the strips; the notebook; the rupture; night: shore, church, ferry at 2 a.m. (Ch 6 s5, Ch 7) |
-| 8 | Nov 20 | Fri | 6:36–4:05 | gale and snow overnight, backing northwest by night | ~4 a.m. Dane along the riprap; accountability; Beth calls Pike; noon the ham; 4:40 the case for Tess; 5:30 the bait call; 11:02 channel 9; the dark deck (Ch 8, Ch 9) |
-| 9 | Nov 21 | Sat | 6:37–4:04 | clear, northwest, flattening | 1 a.m. Ned's wrists; 8 a.m. the boats in: relief deputies, Quist, the marine inspector, Kenny; the inspector accepts a temporary forepeak repair and clears limited service; night: scene 3 and the declaration (Ch 9 s5, Ch 10) |
-| 10 | Nov 22 | Sun | 6:38–4:03 | fair | The wheel: foot passengers and light freight over a temporary ramp (Ch 10 s3) |
-| 11 | Nov 23 | Mon | 6:40–4:03 | — | Portland, the grand jury (Ch 10 s4) |
-| HEA | Dec 18 | Fri | 7:05–3:58 | cold, clear | The Friday freight run, Dane's POV (Ch 10 s5) |
-
-Thanksgiving is Thursday, November 26, which is why Monday is the last sitting (Research note 22).
+| Day | Date | Weekday | Weather | Events (chapter) |
+|---|---|---|---|---|
+| 0 | Nov 12 | Thu (night) | sleet, wind rising | The last truck onto the ferry; the crate; Beth tells Ned in the wheelhouse; Pruett, the plate photo, Ned's call to Cole; the kid's skiff leaves Pruett at half past ten; Beth tells Tess and Russ at the store on her way up the road; midnight her call; a little before three the break-in, the shack, Dane, the oar (Ch 01) |
+| 1 | Nov 13 | Fri | first storm arrives | Half past five, Dane's board across her back door; first light, the police boat leaves without them; by seven the ferry breaks loose, the float smashed, the steering gone, the lobster boats on the rocks (Ch 02). Beth's house packed; Russ's house; lights out at a quarter past four; the boss at six; Russ on his phone at ten; the kiss (Ch 03) |
+| 2 | Nov 14 | Sat | storm | One a.m. the Dyer call; shots through Russ's window; the run along the rocks to the co-op loft; heat #1 (Ch 03–04). Dawn: Russ at the loft, "Late." (Ch 04). Nine a.m. the store, the condoms; the kid's warm empty camp up the east road; afternoon at the store, Ned told; the records asked for "in two" (Ch 05). Night at the north-side house, Dane in the chair |
+| 3 | Nov 15 | Sun | storm | Dusk: the north-side house burns; the chase; the wave; the lighthouse; heat #2 (Ch 06–07) |
+| 4 | Nov 16 | Mon | storm, icing | The generator; "I'm in love with you"; the tower; the boss's test; the three calls (Ch 08) |
+| 5 | Nov 17 | Tue | lull, second storm by dusk | Half past two, Ned on the beach; the job; three o'clock, the ambush (Ch 09). Dusk, the hunt; the east cove; the skiff sunk; the dentist's house; heat #3; the texts; two a.m. the fourth text (Ch 10) |
+| 6 | Nov 18 | Wed | second storm | About half past two, the bait; the false alarm; Ned arrives and is arrested before first light (Ch 11). First light, the shot off the wall on the east road; the town office; Tess and Russ; the lawyer's text; Ned's son found; noon, the program and the hold; afternoon, the steering hatch; dusk, smoke from Beth's chimney (Ch 12) |
+| 7 | Nov 19 | Thu | snow | First light, the raid; Russ shot about half past six; the kid taken; the Coast Guard on the radio; the big boat in the lee of the point; Mercer at the town office step; dusk, one light off the point (Ch 13). Beth to the co-op vise with the rod |
+| 8 | Nov 20 | Fri | storm at its peak | Day: the rod at the vise (off the page). Night: Beth takes the ferry off the pier; the jam; her palms; Tess's light on the rocks; all night in the harbor (Ch 14 s1–s2) |
+| 9 | Nov 21 | Sat | storm | Dawn: the boss on speaker, no Hal Mercer out of Gloucester; "Cancel it," and Dane withdraws the hold on the record; her condition; back to the pier when the wind goes round (Ch 14 s3). Day: the ferry empty at the pier while Dane holds the light for her at the co-op vise; the phone is planted (off the page) |
+| 10 | Nov 22 | Sun | the window opens in the evening | Morning: Beth calls the ferry board and asks for the boat. Three p.m., the ham; the public yes. Eight p.m., the search, the planted phone. About nine, high water. Ten, cast off dark (Ch 14 s4–s5). Half past ten, the big boat; the Mayday; the ledges; Dane hit; after midnight the kid's statement (Ch 15) |
+| — | Nov 23 | Mon | cold | A little before four, Pruett; the ambulance to Maine Medical Center; six a.m., Dane off her detail; dawn, the kid's sworn statement; Dane signs himself out; ten a.m. the grand jury; the lawyer arrested in the lobby; the vote, "He stays in."; the bench in the park; the hotel, heat #4; a little after four, Russ's text (Ch 15–16) |
+| — | Nov 24 | Tue | — | Off the page: Dane buys the boat by phone; Russ flown out by helicopter from the landing; Tess writes to the board; Dane plugs the bullet hole in Beth's front door and puts on a new bolt |
+| — | Nov 25 | Wed | — | Off the page: Beth carries Dane's boat over on her car deck; Ned's letter comes on the ferry; Russ out of the hospital and home on her last run, his leg up on the bench in her cabin |
+| — | Nov 26 | Thu, Thanksgiving | cold, sun | Bailing; the bet; the ham; Ned's letter; dinner; the dishes; Kyle Pelletier's name; the bolt (Ch 17) |
 
 ### Key locations
 
-Each with three sensory details and one pleasure. Pick one or two per scene; never all of them.
+*Each with at least three sensory details. Pick one or two per scene, never all of them (World rule 5).*
 
-**The M/V *North Reach* (the Cutter Island ferry)**
-- **[Domain check, option A]** Steel, **about 104 feet**, bow-loading, built 1989, **under 100 gross tons** (inspected under Subchapter T), owned by the Cutter Island Ferry District. Certificated for **149 passengers** (which keeps her outside a vessel security plan) and **8 cars, or one tractor-trailer plus four light trucks**. Comparable real boat: MaineDOT's *Charles Norman Shay* (never name it on the page).
-- **COI manning (binding):** **winter tier, up to 49 passengers: master plus one deckhand.** Up to 149 passengers: master, engineer and two deckhands. Winter crew on the payroll: Ned (master), the mate/engineer (part-time, **off-island this week**), Beth and Kenny (deckhands). On Day 0 and Day 1, with the mate away and Kenny sick, **Ned and Beth are the legal minimum; without her the boat can't sail.** Ned's "I'll work it short. Go home." is against the certificate: a master may sail short only when a crew member is lost without his consent, and sending her home is his consent. That is why Beth is right at Pruett.
-- **Day 0 load (capacity check):** the dealer's reefer (the tractor-trailer) plus no more than four light vehicles (the propane delivery truck, the co-op's bait truck, a plumber's van, one pickup, at most). Never more than the certificate.
-- **Layout (binding for Ch 1 and Ch 9):** An open car deck runs from the bow ramp aft to the stern, steel bulwarks about waist high both sides, flush **D-rings** in the deck plates, **chain-and-binder** tie-downs stowed in bins along the bulwarks, wheel chocks. The **deckhouse** stands on the **starboard** side from midships aft: a small passenger cabin forward, then the **crew mess** and a two-bunk **crew cabin**, the engine-room hatch beneath. The **wheelhouse** sits on top of the deckhouse, reached by an inside companionway and an **outside steel ladder** from the car deck; its door locks. The **floods' breakers** (car-deck floods and the sodium lights over the ramp) are on the wheelhouse's aft bulkhead; a single ramp-light switch is by the deckhouse door on the car deck. The **bow ramp** is hydraulic. The **stern** is open behind a low **transom** gate with a **chain** across it. Freeboard lowest aft, about four feet loaded, with a recessed **quarter ladder** on the port quarter. **Ring buoys** with 90 feet of line in brackets on the port bulwark aft and forward. The **forepeak** is the compartment right forward under the bow.
-- **After Day 1 night:** moored **starboard side to** the stone pier beside the wrecked slip, bow ramp up, the forepeak cracked and making water (pumps running). Ned calls the casualty in to **Sector** that night; the written report (the 2692) is due in five days; the **marine inspector** is booked on the Day 7 first-light boat, which is shot out, and comes with the Day 9 boats. No repair affecting safety without the inspector's knowledge (46 CFR 176.700). From land, the only way aboard is the **brow** (an aluminum gangway from the pier to the starboard gate amidships). From the water, only the stern and the port quarter. The seaward side of the deckhouse is out of the harbor's sightline; every daylight sat call is made there. Two storm-bound trucks stay chained on deck from Day 1 to Day 9: **the fire company's propane delivery truck and the co-op's bait truck**, with one lane of steel between them. **[BB]** v1's second truck was the store's box truck; changed so that "the store's truck" means one vehicle in this book.
-- *Sound:* the diesel's thrum through boot soles; a sea booming hollow under the ramp; binders ringing when struck.
-- *Smell:* the car deck's cold salt and hydraulic oil; the wheelhouse's burnt coffee, wet wool and warm electronics.
-- *Feel:* sleet under the sodium floods, orange and flat; steel through a wool sock.
-- *Pleasure:* the wheelhouse at quarter to six, the heater ticking, before the first run (Beth's pleasure 1).
+**The ferry (the island's only ferry; "the ferry" or "the boat" on the page; always "it")**
+- A steel car ferry about a hundred feet long, **under 100 gross tons [DC, off the page; it's why Beth's captain's license covers her]**, built in 1989 **[BB; see Still open]**, room for one big truck and four pickups or vans. Owned by the island and run by the island's ferry board. Ned is the captain; Beth is the deckhand. The name painted on it is *North Reach*, and it is **never said on the page**.
+- **The parts a listener needs, in plain words:** the **car deck** (the open deck where the trucks park, with a waist-high steel wall along both sides and a ramp at the front); the **wheelhouse**, "the little room up top where he steered," reached by a steel stair from the car deck (the page glosses it in Ch 01 and also calls it "the cabin" **[DC-ms §7]**); the **passenger cabin** (a heated room with benches on the car-deck level, with its own radio speaker); the **steering hatch** in the car deck, with a ladder down to the rod; the **upper deck** behind the wheelhouse, "the open roof behind her," reached by an iced ladder, with the back rail (Ch 15); a **rail** along the top of the side walls; **life jackets**; a first-aid box by the ladder; deck lights. Plain directions only: "the front," "the back," "the nose," "the side toward the pier."
+- **The steering [DC-ms §7]:** mechanical, a rod from the wheel's gear down to the rudder, "the steering blade under the boat." In the first storm the pin at the rudder end sheared and the rod bent, so the wheel spun with nothing on the other end (Ch 02). Beth frees the frozen top pin with the ferry's wrench (Ch 12), straightens the rod in the co-op's vise Thursday to Saturday, and puts it back in, "straight as the co-op vise could get it." It sticks once with the sea on it, Friday night (Ch 14), and turns true all through the ledges (Ch 15).
+- **After Ch 02:** two trucks stay chained on the car deck from Thursday night, a **lumber truck [DC: never a propane truck]** and the co-op's bait truck, with one lane of steel between them. The planted phone is taped behind the bait truck's back wheel.
+- **The crossing (Ch 14–15):** Beth at the wheel. Ned in his life jacket, one cuff to the rail by her left hand, the key in her coat pocket. The kid in cable ties over his life jacket, tied to a bench leg in the passenger cabin. Dane with the kid's rifle and Russ's handheld. "Four of us aboard." Tess throws off the lines and stays ashore with Russ.
+- *Sound:* the engine through your boot soles; chains ringing when a truck shifts; the cooling unit on Cole's truck roaring the whole hour across (and, on Day 0, its silence); steel grinding on bare stone (Ch 12, Ch 14).
+- *Smell:* cold salt, diesel, wet rope; under the bait truck, old herring.
+- *Feel:* sleet under the deck lights; the wheel going heavy at one point in its turn; glass down her collar when the side window breaks.
+- *Pleasure:* the wheel warm from Ned's hands when she takes it back.
 
-**The ferry slip and transfer bridge (island side)**
-- A timber-pile slip with a steel transfer bridge hinged at the shore end and hung from counterweighted towers at the seaward end. Day 1 about 9 p.m.: the surge lifts the moored ferry against the bridge, a lift cable parts and whips, and the bridge comes down on the bow, twisted, half in the water. The island's power cable lands beside the slip and goes in the same surge. With the bridge down, **no vehicle can load at the island slip** whatever the inspector says; the Day 10 run uses a temporary ramp, foot passengers and light freight only.
-- *Sound:* the shriek of the cable going; the bridge deck grinding on the piles at every sea.
-- *Smell:* creosote and tar, wet.
-- *Feel:* the bulwark's steel against her cheek, flat under it, his weight and her fist in his collar.
-- *Pleasure:* none; it's the end of something.
+**The island pier and the landing float**
+- A stone pier at the west end of the harbor road where the ferry ties up. Beside it, until Ch 02, a **floating dock** ("the float") with a gangway down to it, where every other boat ties up. In Ch 02 the loose ferry smashes it. What's left is one broken section, tilted and half under water, still chained to the pier. From then on the ferry knocks against bare granite.
+- *Sound:* the hull grinding on the pier in a sea; a rope parting like a shot.
+- *Sight:* ice on the posts; snow blowing flat across the pier lights.
+- *Feel:* the gangway slats under her back; the last rope humming bar-tight before Dane cuts it (Ch 14).
 
-**The stone pier and the riprap**
-- Granite-block pier beside the slip; riprap (big broken stone) along its seaward foot, walkable with care below the pier face and out of the store's sightline. Russ comes aboard this way on Day 8; Dane comes along it at 4 a.m. Day 8.
-- *Sight:* ice on the bollards; the brow's handrail white with it.
-- *Sound:* the brow's wheels grinding on the stone as the boat surges.
-- *Feel:* the riprap's tilt under a boot, wet weed in the gaps.
-- *Pleasure:* the first step off the brow onto stone that doesn't move.
+**The Pruett ferry landing (mainland)**
+- A ramp, a pier, a parking lot under lights. Ch 01 (the plate photo, three tries with shaking hands) and Ch 15 (a little before four: police lights, deputies in jackets that say what they are, the ambulance at the head of the pier with its back doors open).
+- *Sight:* light coming out of the ambulance doors; the kid walking off the ramp beside the truck without looking back (Ch 01).
+- *Sound:* car doors in the cold.
+- *Feel:* snow on the planks; her hand on the edge of the stretcher all the way up.
 
-**Beth's cottage (her father's house)**
-- A two-story 1890s Cape on the knoll above the Harbor Road; gray shingles; woodstove in the kitchen; a **central brick chimney mass** (the one interior wall that stops a round); front room couch. **The back door off the mudroom has an old thumb-latch that sticks and must be lifted and shoved**; nobody who has been in the house makes that sound. In a northeast blow the mudroom's outer door knocks against its latch every gust. Barometer by the kitchen door. Kitchen landline on a twelve-foot cord (dead from Day 2).
-- *Sound:* the mudroom door's knock in a gust; the latch's iron clack; her father's clock.
-- *Smell:* cold woodsmoke and wet wool.
-- *Feel:* the chimney brick at her back, still faintly warm; the blanket over both their knees.
-- *Pleasure:* the kitchen window over the harbor at first light, every boat on its mooring.
-- **Day 1 night rule:** dark-house discipline. No lamp, no stove; the island must think it empty.
+**Beth's house (her father's)**
+- An old gray-shingled house on the east rise above its cove. Woodstove in the kitchen, her father's table, the window over the sink she has gone out of since she was sixteen ("which window a Calloway went out of"), a back door with her father's board nailed across it since Ch 02, a front door with a bullet hole at chest height (Ch 13), plugged with a pale new plug of wood and given a new bolt (Ch 17). Mugs on hooks, handles in. A drawer under the counter that stuck for years. On the inside of the pantry door, in old soft pencil, her father's drawing of the ledges at the harbor mouth with one line inside them that isn't on any chart. The kid lives in it Wednesday night into Thursday. Dane lives in it from Ch 17.
+- *Sound:* sleet on the windows; wind in the chimney; the back door handle turning; the board by the front door that talks.
+- *Smell:* cold woodsmoke, her father's pipe after six years "or she told herself it did"; on Thursday, somebody else's night in it, wet wool and canned stew.
+- *Feel:* the cold of the sink under her hands going out the window; the drawer running the whole way after the candle stub.
+- *Pleasure:* the first hot mug at her father's table; Thanksgiving, the house full and the windows going yellow.
 
-**Marr's General Store and fuel float**
-- A long white clapboard building at the head of the store dock. Groceries, hardware, the post office window, a woodstove kept so the store never tops 58, coffee in an urn. The **counter** holds the **storm log** (a spiral notebook, open, entries in Tess's hand) and the **fuel log** (a green ledger). **Tess's office** behind a curtain: desk, safe, the generator panel, the **cell booster** with its inside antenna on a shelf, the **hook** with the store pickup's keys (two: Tess's and a spare), **Ned's phone charger** under the hook, and the **town ring** of keys hanging by the safe. The **propane cage** is out back by the **back step**. The fuel float runs out from the store dock: two pumps and a light pole.
-- *Sound:* the bell on the door; the generator's flat roar out back.
+**Her father's fish shack**
+- A little shingled building on the rocks at the bottom of the hill, where Alton kept his traps. One door. Rope, a coil of wire, his oars leaning in the corner. The sea sucks at the rocks under the floor (Ch 01).
+- *Sound:* the sea under the floorboards; her own heart.
+- *Feel:* pitch dark; the oar smooth in both hands.
+- *Smell:* old rope, salt, rot under the floor.
+
+**Russ's house (the constable's)**
+- On the harbor road, a plain house with a porch facing the road. Woodstove, the only working generator on the road (outside under the eave), a kitchen window that looks out on the road and blows in at one in the morning, a woodpile out back, a bank down to the rocks. Russ on the porch with a shotgun across his knees, which every house on the road can see (Ch 03).
+- *Sound:* the generator's flat roar through the wall, covering every other sound on the island; the porch chair creaking.
+- *Smell:* woodsmoke; Russ's coffee "on the stove since the last election."
+- *Feel:* the kitchen floor and glass under her cheek; the split ends of the woodpile against his back.
+
+**The yacht club boathouse**
+- A gray summer boathouse on posts over the water below the harbor road, padlocked for the season. They lie under its floor on cold wet stones while the kid's steps stop on the road above (Ch 04).
+- *Sound:* the harbor slapping at the posts; one firm step and one that scrapes.
+- *Feel:* cold wet stone; his pulse under her fingers.
+- *Sight:* the shore beyond it, open and pale below the church.
+
+**The co-op net loft**
+- The long room over the fishermen's co-op on its wharf, up an outside stair, where the men mend gear in winter and where her father mended his traps. A door that sticks (lift it on its hinges, the way her father did) and bolts from inside. Sheet-metal walls, a kerosene heater with the matches on the shelf above it, piles of old tarred net, a workbench, one window on the harbor side (she hangs a tarp over it). No phone signal. Heat #1 (Ch 04). The co-op's vise is below (Ch 12–14).
+- *Sound:* wind booming on the metal walls; the heater ticking and clicking.
+- *Smell:* tarred twine, bait coming up through the floor.
+- *Feel:* the old net holding them like a hammock and pressing its squares into her shoulders; heater-warm on one side and cold on the other.
+- *Pleasure:* a ring of orange coming up out of the dark.
+
+**The island store (Tess's)**
+- A long building on the harbor road. Groceries, hardware (long black cable ties, a dollar apiece), boots (the marshal price), a coffee urn (a dollar a cup), a counter and register with a rack of lighters, a cork board of notices by the register with a pale square where Beth's photo hung, a woodstove with a chair beside it, a store Tess won't heat above 58. Tess's base radio behind the counter. Front steps with one bar of signal, where Tess watches the harbor. A window with a blind.
+- *Sound:* Tess's laugh; the phone buzzing face up on the counter.
 - *Smell:* coffee and kerosene.
-- *Feel:* the floor's give where the old sills are soft.
-- *Pleasure:* the urn coffee, free to the storm, terrible, hot.
+- *Feel:* a penny dug out of a coat pocket and set on the counter.
+- *Pleasure:* the terrible hot coffee.
 
-**The store pickup**
-- **[BB]** A white Ford half-ton, a dozen years old, MARR'S on the doors in red vinyl, a plow frame on the front and a propane-cylinder rack in the bed. Tess drives it on her midday rounds. It sleeps in her dooryard. Keys on the hook in her office; a spare on the same hook.
-- **Name it differently each time it is seen** (motif rule): Ch 2 "a pickup with no lights"; Ch 3 the keys "for Tess's Ford" on the hook; Ch 5 s1 "the plow frame and the cylinders in the bed," with two pots on the seat; Ch 5 s2 the shape in the Ashby drive she'd know in the dark; Ch 10 Quist's "Ms. Marr's truck" or "the store vehicle." Never "the store's truck" twice.
+**The east-road summer house (the kid's camp, Ch 05)**
+- A shut summer house up the east road with its back window out and a drift of snow under it. The stove still warm, cans of stew, a phone charger coiled on the table, the dishes washed and stacked, wet wool socks hung in a neat row by the stove, a kitchen chair at the front window facing down the road, and Beth's newsletter photo pinned with a thumbtack to the wall: Tess's copy, with a coffee ring across one corner and four old pinholes.
+- *Sight:* the photo, Beth at thirty at the wheel in her orange work coat.
+- *Smell:* canned stew, wet wool drying.
+- *Feel:* the stove's iron still warm under Dane's palm.
 
-**The *Margaret Ann***
-- A 62-foot steel dragger, red hull, white wheelhouse, Gloucester, Mass. still painted on her stern. Days 1–5 on the guest mooring in the outer part of the inner harbor; **from Day 6 on a new mooring with the town landing in front of her**. Carries an installed offshore Iridium with a mast antenna that rings in the wheelhouse. Her skiff: an aluminum 16-footer with a 25-hp outboard, which Doucette paddles the last hundred feet.
-- *Sight:* deck lights on all night; a figure on her afterdeck facing the hill (Day 1).
-- *Sound:* a radio playing country across the water.
-- *Smell:* her diesel exhaust hanging low on the harbor.
-- *Pleasure:* none for Beth; the *Margaret Ann* is Arsenault.
+**The north-side summer house (Russ looks after it, Ch 05–06)**
+- A shut summer house on the north side, in woods above the shore rocks, with a kitchen she can cook in, an iron pan, butter in the cold pantry, a big bed upstairs, and a pantry window that opens if you hit it. Russ has the key. Up the hill, by the biggest spruce, a log brushed clear with the snow trodden hard around it and a clean gap in the branches down into the kitchen window: the kid's watching post. It burns at dusk on Sunday.
+- *Smell:* onions in butter; then wet wood and burning paint.
+- *Sound:* the fire at the back wall, low and soft, like a kettle just before it boils; a shot in the spruces.
+- *Feel:* the window frame under the heel of her hand; snow through her socks with both pairs of boots in her arms.
 
-**The Ashby place (north point)**
-- A shingled six-bedroom summer "cottage," shut for the season, water off, furniture sheeted, a propane furnace. A **generator shed** on a concrete pad below the house. **[BB]** The generator is an older **pull-start diesel set** (v1's "20-kW Generac standby" was inconsistent with a pull cord; see PENDING), with a bleed screw on the injector pump that Beth talks Dane through. Long gravel drive to the north road. A kitchen woodstove (Dane lights it at 7:45 Day 4; chimney smoke is people).
-- *Sight:* sheeted chairs like loaves; a parlor clock stopped at a summer hour.
-- *Sound:* the pull cord's rasp; the engine catching on the third pull.
-- *Smell:* mothballs, cold wallpaper, diesel on hands.
-- *Pleasure:* the generator catching (Dane's pleasure 2), and the lights coming up yellow through the sheets.
+**The north shore rocks**
+- Granite running down into black water between the summer house and the lighthouse, glazed with frozen spray. The sea comes up white over the low ones (Ch 06 end, Ch 07).
+- *Sound:* the sea pulling back off the shore with a long dragging roar, and then no sound at all.
+- *Feel:* an arm jammed in an iced crack; her two fists in his coat collar.
+- *Sight:* the flashlight on the white water where he went in, holding, then going away.
 
-**The bar and the gut**
-- Gravel and cobble, a long curve from the Ashby shore to the cove. The gut at its seaward end is a dark trench where the bottom drops.
-- *Sound:* cobbles knocking under a wave; the suck as the water draws back.
-- *Feel:* the cold climbing; his belt in her fist.
-- *Smell:* rockweed.
-- *Pleasure:* the dry bar at dead low, firm underfoot, the whole of it hers.
+**The old lighthouse and the keeper's house (north point)**
+- **[DC §11]** The light runs itself. The keeper's house beside it is rented to summer people from Connecticut and shut for the winter. A back window that doesn't lock ("Every kid on this island has been in that window"). One bed and every blanket in the house. A small generator by the back door with its fuel shut off and its spark plug black, a quarter tank left (Ch 08). One tin of ham. The tower key on a hook.
+- **The tower [DC §11]:** stone, one door at the bottom, an iron stair inside, a short iron ladder at the top, and a hatch onto an iron walkway with a railing around the lamp that comes only to her hip. The walkway is iced; **Beth** slips at the railing and Dane catches her by the back of her coat (Ch 08). On the page: "the walkway around the top."
+- *Sound:* wind going around the tower; the generator coughing, then holding one steady note, then coughing twice and quitting.
+- *Feel:* skin to skin under a hill of strangers' blankets; wool yanked tight between her shoulder blades over the drop.
+- *Smell:* cold plaster, mothballs, ham frying.
+- *Pleasure:* dry socks (Dane's pleasure 2).
 
-**The fish house (Alton Calloway's, on Calloway Cove)**
-- A one-room shingled shed on granite blocks just above the high-water line at the head of the cove. **On the surge tides of Days 1–3 the cove comes over the sill**; by Day 4 night it has gone back out of it, wet but usable. One door, landward; a hatch to a gear loft; a small window on the water side. Inside: her father's **oil-drum stove**, relined in September; a cot; a workbench; a kerosene lantern; coils of pot warp; buoys in his colors (yellow over black); **his paint cans with his handwriting on the lids**; **his boat first-aid kit, a red Pelican case**. Seaward wall reshingled in October; the landward wall still to do. **Never attacked. Only Beth and Dane use it. Ned guessed it on Day 5 and never told.**
-- *Sound:* the stove ticking as it heats; the cove slapping on the ledge; wind in the shingles.
-- *Smell:* old bait, pine tar, woodsmoke.
-- *Feel:* the plank floor's dip by the bench.
-- *Pleasure:* the stove on the first match, and the pine tar coming out of the walls (Beth's pleasure 3).
+**The north beach**
+- Below the lighthouse: a long curve of sand with rocks at both ends and spruce along the top. Beth waits in the rocks at the north end, the one place the trees can't see. Tess's red fire truck sits at the south end where the road comes down. The Marine Patrol boat comes in through the swell at three, talked in by Tess on the island radio.
+- *Sight:* snow coming off the spruce boughs one after another as somebody keeps pace in the trees; blood in the snow at the tree line, the size of a hand.
+- *Sound:* the swell sucking in under the rocks and going quiet; Tess's voice thin out of the boat's speaker, "Beth? Beth." then "Calloway."
+- *Feel:* the sea to her chin; Dane's body over hers on the iced granite.
 
-**The ledge (above Calloway Cove)**
-- Bare granite, lichen, a few stunted spruce at its back, open to the whole sky.
-- *Sight:* the inner harbor small and exact in the distance; the dragger on her new mooring (Day 6).
-- *Sound:* wind with nothing in its way.
-- *Feel:* wet rock through jeans.
-- *Pleasure:* the first sun on the rock, Day 6.
+**The east cove and the Pruett dentist's house (Ch 10–11)**
+- The cove: shore stones a skiff's flat bottom grinds over, rocks on its north lip. The kid's skiff sinks there with a rock through its bottom and knocks on the stones with the tide all night.
+- The house: a summer house at the top of the path from the cove, every window shuttered, belonging to a dentist from Pruett. Beth closed it up in October and has the key on her ring. A back door into the kitchen and a front door with a bolt she set herself. A woodstove with a left damper you pull all the way out, a daybed by the stove, the dentist's good quilt, a back bedroom. One bar at the kitchen window. Heat #3; the bait; Ned's arrest.
+- *Sound:* shutters shaking on their hooks; the stove's iron creaking as it takes the heat; a boot on the back step.
+- *Smell:* somebody else's soap; kerosene from Ned's lantern.
+- *Feel:* the cold coming up through the floor; the quilt over the shape on the daybed.
 
-**Lookout Hill**
-- About 160 feet, bare granite and blueberry barrens on top, spruce below.
-- *Sight:* the harbor laid out like a chart.
-- *Feel:* wet granite through clothes, lying flat with binoculars.
-- *Sound:* spray hissing even up here.
-- *Pleasure:* the hill at first light before anyone else is up.
+**The Dyer house**
+- An empty house out on the point across the harbor. Mrs. Dyer has been at her daughter's in Bangor since October. No boat on the shore, no tree on the roof, the back door open, a phone on the kitchen wall (Ch 04). From its dark kitchen you can see Russ's lit porch across the water. Never entered on the page; Ned stood in the woodshed until Russ's truck went by (outline, off the page).
+- *Sight:* the one lit porch across the black water.
+- *Sound:* a man's voice low on the phone, a hand over it.
+- *Feel:* (off the page; give one if a revision enters it).
 
-**The town landing and bait shed**
-- A public float on a steep steel ramp in the inner harbor. **Float lights on a timer in a locked box at the head of the ramp. Two keys: Ned's and the town ring's.** The co-op's corrugated bait shed at the ramp head, a roll-up front door and a back door to the town lane. On Day 6–7 the float is the only lee in the swell.
-- *Smell:* herring bait.
-- *Sound:* the ramp hinge clanging as the float rises.
-- *Feel:* the ramp's pitch at a half tide; weed-slick boards.
-- *Pleasure:* the float lit at night, which it always is (it is the tell when it isn't).
+**The east road and the stone wall (Ch 12)**
+- A mile of open road in the snow between the dentist's lane and the village. A field with a stone wall across it; a ditch along the road. "No truck could get up the dentist's lane in that drift."
+- *Sound:* a crack off the wall; the island making no sound, when in a storm it always makes some.
+- *Feel:* ditch snow down the back of Ned's coat; the rope's end jerking in her bare hand at every step his hip takes.
+- *Sight:* a shape bent double running west along the stones, the bad foot plowing a line.
 
-**The Union Church and its woodshed**
-- A white wooden church on the Harbor Road between the store and the town lane; a lean-to woodshed behind it stacked with the minister's cord wood.
-- *Smell:* split oak, snow-wet bark.
-- *Sound:* the bell rope knocking in the wind.
-- *Feel:* stacked wood against her back, the notebook inside her coat.
-- *Pleasure:* none on Day 7 night; the wood's smell is the only kind thing.
+**The town office**
+- A small building on the harbor road with a step out front: an office with a clerk's chair, a desk, a stove and a windowsill where the phone sits on speaker; a back room with a pipe Ned is cuffed to and a floor the kid lies tied on; a kitchen with a counter by the sink and an oven big enough for a ham; a couch for Russ. Ch 12 (the hold), Ch 13 (Mercer on the step), Ch 14 (the ham and the public yes).
+- *Sound:* Ned's cheap phone buzzing and rattling against the kid's; the boss on speaker; her own boat breaking against the pier through the wall.
+- *Smell:* cloves and ham, wood heat, stove smoke in Dane's coat.
+- *Feel:* black electrical tape wound over clean strips on her palms; four people in a kitchen built for one.
 
-**Mainland (brief).** The Pruett Harbor ferry terminal (sodium lights over the ramp; the courier's van; the plate photographed on Day 0). The yard in Pruett Harbor where the Webbers Cove was (never on the page). The federal courthouse on Federal Street in Portland (Day 11; say "the federal courthouse").
+**The harbor mouth, the point and the ledges**
+- The narrow way out of the harbor, white water on both sides, where she has to slow down. Out along the point, the ledges for a mile, and Alton's way inside them close to shore. The big boat strikes the rock beside the gap.
+- *Sound:* the sea breaking white on the ledges in the dark; a long grinding crash and a big engine screaming.
+- *Sight:* the gap in the fire truck's white light, two rocks like the posts of a doorway; weed on the shore rocks close enough to see.
+- *Feel:* every boom of the sea coming up through the wheel into her hands.
 
-### Phones, signal and radio (binding)
+**The big boat (Ch 13–15)**
+- A big fishing boat twice as fast as the ferry, drawing twice as much water, showing one light. It lies in the lee of the point from Thursday. Men on its deck in its own light; Mercer behind his own glass. Holed on the rock beside the gap, it limps off low in the water; its one light goes out and the snow comes down between it and the Coast Guard. Always "the big boat" or "the boat showing one light"; "no lights" belongs to the kid's skiff.
+- *Sight:* one light off the point through the snow, coming on at dusk.
+- *Sound:* a bigger engine coming up out of the dark under their own.
+- *Feel:* glass breaking in over her shoulder.
 
-- **Grid power** fails about 9 p.m. Day 1 with the bridge; restored Day 9.
-- **Landlines** work on Day 0 night (Beth's 1 a.m. call) and Day 1; they fail about 6 a.m. Day 2 when the phone cabinet's battery runs flat.
-- **Cell:** weak at best. From Day 1 night the only usable signal on the island is **inside the store and within about fifty feet of it**, from Tess's booster on the store generator (a booster only amplifies the outside signal; a phone there behaves like any phone on one bar). Ned's phone charges behind the counter ("Only place on the island it's a phone"). The store's **back step** is inside the fifty feet. **Beth has no banking app and never banks by phone.**
-- **Iridium:** Dane's works **only outdoors with open sky**. Texts sent while he's indoors are held and land the next time he's under sky; they stay in the inbox until cleared; 160 characters each. **The screen shows one message open at a time; the next message is the next line in the inbox** (or one press of the arrow). Pike's arrive by email-to-Iridium from the office; the broker's by text from his cell. The *Margaret Ann*'s installed Iridium rings in her wheelhouse; Ned calls it from his cell on the store's back step, **dialing the Arizona gateway number first and then the satellite number** (two-stage; optional texture, once).
-- **VHF:** fishermen, the store, the fire company and the ferry have fixed sets; Beth has a ferry-issued handheld. **Channel 68** is the storm net (0800 and 1800, Tess net control). **Channel 9** is Ned's and Beth's ("You need me, nine. Like your dad."); Beth's handheld lives on 9. **Channel 16** is monitored by the ferry and the Coast Guard; **13** is bridge-to-bridge. Everyone can hear everything; nothing private goes on the air. No swearing on the air, ever. Handheld range: the harbor and the store from the ferry; not across Lookout Hill.
+**Maine Medical Center, Portland (off the page) [DC §12]**
+- The state's main trauma hospital, where the ambulance from Pruett takes Dane. His wound is stitched. He signs himself out against the doctor's advice and comes to the bench in a hospital sweatshirt.
+- *Smell:* hospital soap; tape.
+- *Sound:* (off the page).
+- *Feel:* the pull of fresh stitches when he turns.
 
-### Research notes (carried from v1 unless marked; domain check of Oct 28 folded in; remaining `[CHECK]` items go to the manuscript-stage domain check)
+**The federal courthouse, Portland (Ch 16)**
+- On Federal Street, with a park across the street. **[Checked: the Edward T. Gignoux U.S. Courthouse, 156 Federal Street, next to Lincoln Park.]** A warm lobby that smells of wet wool and floor polish, a security line with a metal frame and a tray, stairs to the second floor, the grand jury room (tables in rows, a jug of water, a window onto the street, about twenty people of every age, the court reporter at her machine, the prosecutor, no judge), a side room where Beth waits an hour, a corner door a deputy holds open. Dane waits on a bench in the park across the street, where anyone can see he isn't with her.
+- *Sound:* her own voice smaller than it is on her deck; the typing stopping each time she stops.
+- *Sight:* the lawyer stepping off the wall into her way; her own face in the front glass.
+- *Feel:* a woman deputy's borrowed shoes pinching her heels on the stone; a marshal's blood still under her fingernails.
 
-*v1 statuses kept: "Verified" means an authoritative source on the point was located; "Confirm" means unverified. "DC" marks an item the Oct 28 setup domain check ruled on (sources in `research/domain-check.md`). Items tied to v1's cut plot are dropped or corrected.*
+**A Portland hotel room (Ch 16)**
+- A room on the third floor over the corner of Middle Street, with the afternoon coming straight in through both windows. White sheets. A drugstore bag. Across the street, gulls on a wet roof in the sun.
+- *Sound:* the gulls going off the roof all at once.
+- *Feel:* the dressing along his left ribs; her taped fingertips on his chest.
+- *Sight:* everything, in plain daylight, which is the point.
 
-**Ferry**
-1. **Ownership.** Maine island ferries are a mix of the state service, private companies and island districts. *Verified* (MaineDOT). Cutter is served by the invented Cutter Island Ferry District.
-2. **Vessel size and tonnage. DC (option A).** About 104 ft, under 100 GT, Subchapter T; 149 passengers; 8 cars or one tractor-trailer plus four light trucks (like the *Charles Norman Shay*). A 128-ft, 18-car boat would be about 300 GRT and outside Beth's license; that version is retired.
-3. **Manning. DC.** The COI sets the complement; the boat may not run without it (46 U.S.C. § 8101). Sailing short is allowed only for a vacancy without the master's consent, with a written report to the OCMI within 12 hours (46 CFR 15.725). Book tiers as in Key locations. Kenny's sickness qualifies as a vacancy; Ned sending Beth home doesn't.
-4. **Security rules.** 33 CFR Part 104 vessel security plans apply to passenger vessels certificated for more than 150 passengers. *Verified.* At 149, freight is checked against a paper manifest, not inspected.
-5. **Beth's credentials. DC.** MMC with an AB endorsement and "Master of Self-Propelled Vessels of Less Than 100 GRT," near coastal. Covers the *North Reach*. Day 10 stands: Beth master, Kenny the deckhand.
-6. **Casualty and inspection. DC (OK).** Immediate notice to the nearest Coast Guard unit for damage affecting seaworthiness (46 CFR 4.05-1), to Sector Northern New England ("Sector"); CG-2692 within five days (4.05-10); safety repairs with the OCMI's knowledge (176.700). Precedent: a Steamship Authority ferry held for a hull crack until Coast Guard inspection. **Binding:** the inspector was booked on the Day 7 first-light boat, which never landed; he comes on Day 9, accepts a temporary forepeak repair and clears limited service.
-7. **Transfer bridge damage** has interrupted Maine ferry service. *Verified.* "Ten days, if the state gets a barge out" is Ned's estimate. Day 10: foot passengers and light freight over a temporary ramp.
-8. **Reefer units on live lobster.** *Verified in principle.* **Binding write-around:** the Day 0 tell is three cues: the unit's **display dark** (switched off, not cycling), the box **not cold** under her hand, and the memory of that unit droning continuous every Thursday.
-9. **Shorts. DC.** Maine's legal size 3¼ to 5 inches on a certified gauge; transporting or possessing outside it is unlawful (12 M.R.S. § 6431), a Class D crime with fines per lobster. Ned's tell is two things: too many pieces to the crate for the weight (shorts), and boxes riding heavy (the reader's latent clue). Never "the weights didn't match the manifest." Don't mention any gauge change. The dealer's truck carries a lobster transportation license (texture, optional).
-10. **Chain binders and tie-down.** Ratchet binders to deck D-rings, checked by feel. *Confirm.*
-11. **Captain living aboard a moored ferry** to tend lines and pumps in a storm. *Confirm;* plausible.
-12. **Boarding over the stern from a skiff** with low freeboard aft and a quarter ladder. *Confirm;* plausible.
+**Dane's boat (Ch 17) [DC §13]**
+- A wooden lobster boat older than both of them, its cedar planks gone gray (off the page: a 1981 cedar-on-oak thirty-four-footer, about thirty-three thousand dollars, "thirty-some thousand" in Ch 11). The Pruett boat he was due to see that first Saturday. Bought by phone on Tuesday, the day after Portland, and carried over on Beth's car deck. In the harbor, where she can see it from the ferry's cabin every time she comes in. Out of the water all fall, so the planks shrank, and it leaks until they swell shut ("take up"), a week or so. Until then you bail.
+- *Sound:* the bucket scraping the bottom planks; the church bell ringing noon across the water.
+- *Feel:* cold water over her ankles; a wet dollar.
+- *Sight:* the right boots on his feet, water running over the toes and staying out.
 
-**VHF**
-13. **Channels** 16, 9, 13, 22A, 68. *Verified* (USCG NAVCEN; CT DEEP; BoatUS).
-14. **No profanity on VHF.** *Verified in principle.* Binding.
-15. **Procedure words:** Mayday, Pan-Pan, Sécurité. *Verified.* Ned's cancellation is a plain all-stations call.
-16. **Handheld range** short. *Verified in principle.*
-17. **Island storm nets.** *Confirm;* plausible.
+### Research notes
 
-**US Marshals and federal procedure**
-18. **Who protects a pre-indictment witness. DC (OK).** WITSEC begins by a signed memorandum of understanding; temporary protection may start first (18 U.S.C. § 3521). The Marshals' Short-Term Protection Program also exists. **Binding:** Dane is on an emergency protective transport while the program is considered. One line, once: "You're not in the program. You're in the waiting room for the program." **She can refuse a protector; what compels her is the grand jury subpoena.** Dane can stay close, report and document, not force her. **Never "material witness" on the page.**
-19. **Solo detail.** Unusual; a second deputy was to meet him at Pruett; the storm came early. *Confirm* as fiction convention.
-20. **The log.** HSI can't order a deputy. **Binding:** on Day 2 Quist **requests** a daily observational log; **Pike approves and orders it**, not disclosed. **The screen (DC):** Pike's message open — "Pike: Q's request approved. Log daily. Do not disclose to witness." — and the broker's as the next line in the inbox: "Firm at thirty-one. Saturday noon." (rendered in words on the page per World rule 6).
-21. **Giglio.** Impeachment material, including a relationship with a protecting officer and a credibility review, must be disclosed. *Verified in principle.*
-22. **Rule 5.1 calendar logic (binding).** Initial appearance Friday, Nov 13 (Day 1); 14-day deadline Friday, Nov 27; the grand jury doesn't sit Thanksgiving week after Monday; **Monday, Nov 23 is the last sitting.** *Confirm* Portland's schedule.
-23. **Grand jury subpoena** served by a deputy marshal. *Verified* (Rule 17(d)). Dane serves it on the Day 1 crossing; Beth pins it under the barometer.
-24. **A relationship with a protectee** triggers a referral. *Confirm* the office; on the page "a referral," once.
-25. **The $9,000. DC (OK).** The credit union credits the counted amount (federal deposit-reconciliation guidance; NCUA 16-CU-04) and flags it. No CTR (under $10,000 to one person). A SAR is possible (over $5,000 with a suspect); for an ongoing violation the institution phones law enforcement immediately, which supports the **BSA officer's Day 2 call to Quist (cash, account and amount only)**. SAR confidentiality means the credit union tells neither Beth nor Tess, which fits "do not disclose." Beth never sees the deposit-adjustment notice: the mail stops with the ferry, and she banks by envelope. The **Day 5 written report**: "Pouch: two bags. Seal noted: red." (Optional seal number declined for this draft: a number invites someone to trace the series, and nobody may.)
-26. **HSI, Maine Marine Patrol, Coast Guard.** The Coast Guard may assist any federal agency on request (14 U.S.C. § 701, DC): the lifeboat for Day 7 is supported. On the page: "Coast Guard will lift you; Marine Patrol brings the relief."
-27. **Federal courthouse,** Portland. Say "the federal courthouse."
+*From `research/domain-check-v4.md` (Oct 30) unless marked [DC-ms] (`research/domain-check-manuscript.md`, Nov 6). Sources are listed there.*
 
-**Island emergency practice**
-28. **Emergency management director.** Maine requires one per municipality (37-B M.R.S. § 782). *Verified.* **Binding (v2):** on Day 6 Portland's office notifies **county emergency management** of "a federal transfer" at the town landing at first light Day 7 before Dane is told; the county asks the island's EMD (Tess) to keep the landing clear and the fire company's EMT on standby. **Tess keeps the county's call to herself** (Ch 10 statement). "You told the county?" The Coast Guard won't use a town landing without the town knowing.
-29. **Constables.** Arrest powers after the required training (30-A M.R.S. § 2671). *Verified in principle.*
-30. **Volunteer fire company, generators, propane.** *Confirm* local practice.
-31. **Cell backup and boosters. DC (OK).**
-32. **LifeFlight of Maine. DC (OK).** Medical only; stays on the ground for icing, ceiling or visibility at origin, destination or en route; **the pilot's call** (never "dispatch cancelled it"). The ballfield. Day 7: Dane won't call a graze in as a medevac (the ballfield is in the open; the front is arriving).
-33. **Coast Guard aircraft. DC (adjust).** No rule bars a witness move; the Day 6 refusal is a **decision with a reason** (Pike's line). Never "First District."
-34. **Why Dane refuses private boats (binding, said once in Ch 2 or Ch 3):** any island boat could belong to the network; an island boat in those seas is a risk he can't assess; a witness who leaves on a neighbor's boat leaves a trail of who took her. From Day 3, Quist's "don't touch the boat" covers the *Margaret Ann*.
-
-**Storm and sea**
-35. **Nor'easter structure;** two systems in a week plausible. *Confirm.*
-36. **Coast Guard motor lifeboat** for the Day 7 first-light pickup at the town float. **Binding:** no landing under fire, "not again today"; the second system closes the water from mid-morning Day 7 to first light Day 9. Don't name a real station.
-37. **Tide range** about 9–10 feet midcoast. *Verified* (NOAA). The book's table is constructed, not a real prediction for a date.
-38. **Daylight.** Mid-November sunrise about 6:30, sunset about 4:05–4:10. *Verified.* December 18 `[CHECK]`.
-39. **Cold water.** Mid-November about 48–52°F; **1-10-1**. *Verified.* Ch 5 wade: painful, not hypothermic. Ch 9: Doucette gasps under in the first minute; Beth has the buoy to him inside it.
-
-**Smuggling, the store, the boat**
-40. **Fentanyl pills by sea** through an island: a fiction premise. Name "fentanyl" once (Quist, Ch 10).
-41. **Underground tank replacement** under Maine law. *Verified in principle.* Tess's loan figures are fiction.
-42. **Fuel dock log.** *Confirm.*
-43. **Seal tags. DC (OK).** Tamper-evident bag seals are sold numbered and colored, and banks log them. Book colors are private habit (yellow Tess's, red the boat's); the credit union issues neither.
-44. **Dane's boat. DC.** No Holland 34 exists; a Holland 32 lists at $85,000 and up. A 1966 Webbers Cove 34 with a Cat diesel has listed in Camden at about $45,000; old working lobster boats list at about $40,000–68,000. **Firm at $31,000** in November with the yard wanting it gone before storage: in range (the haggled figure is fiction).
-45. **Maine commercial lobster licensing** (apprenticeship, limited entry). Russ is licensed; Dane couldn't fish commercial traps quickly. `[CHECK]`
+1. **Federal courthouse in Portland:** the Edward T. Gignoux U.S. Courthouse, 156 Federal Street, next to Lincoln Park. *Correct.* "Across Federal Street, on a bench in the park" is fair [DC-ms §16].
+2. **The clock:** a grand jury can indict on hearsay and doesn't need Beth in person. Monday at two is a preliminary hearing, and an indictment that morning makes it unnecessary; "in the room" is the prosecutor's choice, said on the page in Ch 02 [DC-ms §2].
+3. **Residue plus an eyewitness** holds Cole a few days. *Correct.*
+4. **Protection:** emergency protection the first night is allowed when a witness is in imminent danger. Witness protection is authorized by the Justice Department, applied for by the U.S. Attorney and voluntary ("unless she says so" is correct) [DC-ms §4].
+5. **The program:** new identity confirmed; "She can't come back here" fits the rules [DC-ms §4].
+6. **Marine Patrol:** a bureau of the Maine Department of Marine Resources, "the state's marine police" [DC-ms §9].
+7. **Emergency director:** required by law with no power over landings. Tess talks the boat in on the radio.
+8. **The leak's phone:** a modern phone reports GPS when pinged, so the phone stays off between texts.
+9. **Arrests:** a deputy marshal may arrest without a warrant for a federal felony on reasonable grounds; that covers Ned (Ch 11) and the lawyer (Ch 16). A Maine constable may take custody in his own town [DC-ms §4, §17].
+10. **Coast Guard and medevac:** the Cape Cod Jayhawk can handle icing; it's a judgment about a stable patient ("Nobody's flying a stable patient in this ceiling"). LifeFlight stays on the ground in icing [DC-ms §10].
+11. **Lighthouse:** inside stair, short ladder, hatch onto the walkway.
+12. **Dane's wound:** a bullet line along the ribs, stitched; ambulance to Maine Medical Center, the state's only Level I trauma center; he signs himself out [DC-ms §10].
+13. **The boat:** a cedar boat put back in leaks until it takes up; "a week" is a fair hedge [DC-ms §15].
+14. **Daylight, tides and water:** table above; high water about nine p.m. Sunday Nov 22, so the gap has the most water one to three hours after [DC-ms tides].
+15. **The ferry:** under 100 gross tons; no propane truck with passengers; the steering must be mechanical rod linkage for Ch 02 and Ch 14 to agree [DC-ms §7].
+16. **The tourniquet:** a strap needs a windlass (the ferry's wrench), and the radio advice to ease it within about two hours [DC-ms §11].
+17. **The cooling unit:** on a sleeting night it keeps the lobsters from freezing; the kid switched it off by hand.
+18. **Calendar:** Nov 12 and 26 are Thursdays; Nov 26 is Thanksgiving; Nov 23 is a Monday.
+19. **Generators:** outside, under the eave, cord through the wall [DC-ms §13]. Fire trucks run on diesel [DC-ms §12].
+20. **Mayday:** the right call when fired on; "Four of us aboard" is correct form [DC-ms §8].
 
 ---
 
-## CASE FACTS (binding; the leak, the bag, the truck)
+## CASE FACTS (binding; the case, the clock, the leak)
 
-*The continuity checker and plot architect check every chapter against this section. None of it is narrated; it reaches the page only as the outline places it.*
+*The continuity checker and any revision check against this section. Every plot fact here is on the page in plain words and restated in the next scene (World rule 6).*
 
-### The night of Day 0 (Thursday)
-- **About 6 p.m.:** Tess seals the **store bag** (a canvas zip bag) with a **yellow tag**. Inside: islanders' deposit envelopes, each with a slip and the depositor's name on the front in Tess's hand, flaps tucked, unsealed. Beth's envelope holds her paycheck and her own slip.
-- **8:40 p.m.:** the car deck at the island slip, the dealer's reefer driving on. Ned, seeing the unit dark: "I'll work it short. Go home." (Against the certificate: master and one deck is the minimum, and she's the one deck.) She doesn't. Her hand on the box; the lid springs; bricks under the lobsters; the driver and the hooded man see her see it. The hooded man (Doucette) limps off onto the island before the ramp comes up. Crossing; at Pruett the reefer drives off; she photographs the plate.
-- **Back at the island about 10:30; the fuel float lit at 10:45** (night fuel for the *Margaret Ann*). Ned: "Go home. I'll lock up." He carries the bags; he looks back from the top of the brow (plant 1).
-- **About 11:15 p.m.:** Arsenault comes aboard and tells Ned what the load was. If she testifies, Ned is a co-conspirator whatever he believed. Arsenault gives him **$9,000 in hundreds**. Ned **cuts Tess's yellow tag**, adds the cash to Beth's envelope **over her slip**, **writes nothing**, and reseals the bag with a **red tag from his own wheelhouse drawer** (the district's stock). The fare bag is always red-tagged.
-- **1 a.m.:** Beth calls it in from her kitchen landline; Trooper Ames tells her not to go to work. Pelletier is stopped on Route 1 before dawn.
+### The load
+- Bricks of fentanyl, wrapped in gray tape, packed in the bottoms of lobster crates under the live lobsters, in Cole Varney's big white refrigerated seafood truck. One brick tears on the car deck on Day 0 and white powder blows out. Twelve thousand dollars of live lobster on top.
+- **Why the cooling unit was off [DC, off the page]:** the kid switched it off by hand to load crates through the side door at the island. Beth's inference stands on the page: the lobsters weren't the load.
+- **Why it rode Beth's Thursday (Ch 12):** for two years Ned ran Cole's trucks across in the dark after the deckhand had gone home. "The blow was coming. No night run till it passed, and Cole wouldn't wait on it. He said you never open a truck."
+- **Where the drugs come from:** in from offshore by boat. Ned: "It comes in from offshore. A boat. I never saw it." (Ch 12). The kid: "Mercer. That's his boat. It brings the stuff in from offshore." (Ch 15). The boat gets away (Book 2).
 
-### Day 1 (Friday)
-- The **courier's zipped canvas pouch**, holding the store bag and the fare bag, rides the first boat. **Beth hands the pouch down at the Pruett ramp at 7:40 and never sees the tags.** Dane watches the pouch.
-- The credit union credits Beth's envelope **by count** and flags it. Quist subpoenas Beth's account records that afternoon. Beth never sees the credit (no app; the notice would come by mail).
-- **About 9 p.m.:** the bridge; Ned calls the casualty in to Sector.
-- **About 10:20 p.m.:** Beth tells Ned, and only Ned: "Home. Don't tell anybody." / "Nobody but me and God." He looks back (plant 2).
-- **10:40:** Tess, in the store, sees a flashlight on Beth's iced harbor-side back steps for ten seconds and writes "Calloway — home 22:40" on her hand, then in the log, **before** Ned reports the bridge.
-- **About 10:45:** Ned reports the bridge at the store. Tess locks up and goes home (bed); **Ned stays with his own key** "to use the phone." He pockets the **spare pickup key** from the hook, leaves it on the store's **back step**, and calls the *Margaret Ann*'s Iridium from the back step. His reason, as he'll give it: "He said they wanted to talk to you about the money."
-- **A little after eleven** **[BB, from R4-2 and R4-4; the outline says "just before eleven"]:** Doucette, rowed ashore, takes the key from the step and the pickup from Tess's dooryard after her lights are out, climbs the Harbor Road with no lights, idles under the house, goes on. Dane goes out the front to the road side to report it (Pike has to hear; the Iridium needs sky). While he's out the mudroom door goes quiet: Doucette is inside the outer door, waiting for the house to settle. Beth gets Dane in by the front, no light. Both behind the chimney. **11:40:** the latch lifts, sticks, lifts. Dane: he comes to us, not the other way. Someone runs; prints in the sleet. The pickup is back in Tess's dooryard before light; the key back on the step, then on the hook when Ned next comes in.
+### The first night, in order (binding)
+| About | What happens | On the page |
+|---|---|---|
+| ~9 p.m. | The silent truck onto the ferry at the island; the crate splits; the kid: "You didn't see this." Beth goes up to the wheelhouse and tells Ned. Ned: "Not on this boat, you didn't. … Go home when we dock. Lock your door. Then you do what's right, from your own kitchen." | Ch 01 |
+| ~10 p.m. | The ferry docks at Pruett. While Beth is on the ramp photographing the plate, Ned calls Cole on the night-run phone: "I told him you'd call. I know you." | Beth's half in Ch 01; Ned's half in Ch 12 |
+| after 10 | Cole moves the load and sends the kid home in a skiff. "Cole said nobody'd be touched. I didn't ask him twice." | Ch 02 (the result), Ch 12 |
+| 10:30 | The kid's skiff leaves Pruett, no lights ("Man who minds the boats in Pruett" tells Russ). | Ch 02 |
+| ~11 p.m. | The ferry carries Beth home. On her way up the road she tells Tess and Russ at the store. Tess: sleep on it. Russ: he'd call the troopers in the morning. | Ch 02 |
+| midnight | Beth calls the state police from her kitchen. Nine minutes on hold. "This is now a federal case." | Ch 01 |
+| after midnight | The kid lands his skiff in the cove below her house and waits for her lights to go out. | Ch 01, Ch 02 |
+| ~12:30 | Emergency protection approved; Dane, at a motel ten minutes from the Pruett harbor, gets the call. | Ch 01 |
+| ~1 a.m. | Troopers stop Cole. The truck is clean. | Ch 02 |
+| ~1:30–2:30 | A Marine Patrol officer takes Dane across in the dark. | Ch 01 |
+| a little before three | The break-in; the chase; the shack; Dane; the oar. | Ch 01 |
+| dawn Day 1 | Police search Cole's cold storage on the Pruett wharf: hosed down, a little powder in the cracks of one crate. | Ch 02, the boss |
 
-### Day 2 (Saturday)
-- **Morning:** Pike's order arrives on the Iridium under sky; Dane comes in and sets the phone down to pour coffee with the screen lit: Pike's message open, the broker's the next line in the inbox. The credit union's BSA officer has told Quist cash, account and amount only.
-- At the store: Tess's tag line said **while the bell still swings behind Dane** (he's out with Russ about the print): "Yellow's mine. Red's the boat's. I won't have my money in Ned's color." Beth's hand flat over 22:40 when Dane comes back in. Ned's phone on the charger under the hook.
-- **Noon:** the broker's deadline. Dane looks at the clock, then at Arsenault, and doesn't move.
-- Outside at the truck, Ned gives Beth the **Ashby key**. "Nobody but—" / "Me and God. I know."
+**The coincidence Dane notices (Ch 02):** "Half past ten. You called at midnight. He was on his way before you ever picked up the phone, so nobody on my end had to tell him anything. … So who told Cole you'd seen?" The answer comes in Ch 12: Ned called Cole from Pruett, which is why the truck was clean, which is why her eyes are the whole case.
 
-### Days 3–4
-- **Day 2–3:** Ned **holds Ashby**. That is why the empty cottage is searched at dawn Day 3.
-- **Day 3, Sunday dusk:** Ned brings diesel to Ashby, says the pump's eating impellers and he's going back aboard till the barge (and looks back at the foot of the drive, plant 3). **He is aboard from Sunday dusk until the barge, except noon on Monday.**
-- **Day 4, 7:45 a.m.:** Dane lights the Ashby kitchen stove to dry Beth after the gut. The smoke goes straight up between squalls.
-- **Day 4, noon:** Tess out on her rounds in the pickup sees the Ashby smoke. **Ned comes up the back way with his own store key** for an impeller off the shelf (**the box has Tess's price sticker**) and his phone; pockets the spare key, leaves it on the back step; calls from the back step; **gives up Ashby**, because Arsenault has started talking about the store with Tess in it.
-- **Day 4, 2 p.m.:** Tess at Ashby in the pickup with two pots of chowder: one for them, one for Ned. "He hasn't come off that boat since he brought you the diesel. I carry it down."
-- **Day 4, after Tess's lights go out:** Doucette takes the pickup from her dooryard. **10 p.m.:** the generator shed goes up; the pickup in the Ashby drive, lights off, eight hours after Tess drove it there.
+### What the police have, said plainly (Ch 02, then restated)
+"The truck was clean when the troopers stopped it. Cole's cold storage on the Pruett wharf has been hosed down. All we have is a little powder in the cracks of one crate. Her eyes are the case."
 
-### Days 5–7
-- **Day 5:** Ned guesses the fish house (he has seen her rowing out with shingles) and **never tells**.
-- **Day 5, 1:50 a.m.:** Dane reports from the ledge. **2:20:** "Walked the bar," wet to the ankle.
-- **Day 5, afternoon:** on the ledge in daylight Quist relays the credit union's written report; Dane writes. Beth isn't told. ("Pike. Weather.")
-- **Day 6:** Portland has told the county; the county has told Tess; Tess keeps it to herself. Dane learns of it on the ledge: "You told the county?" Pike refuses the helicopter with a reason. Below at the pumps, out of Dane's hearing (he is in the wheelhouse watching the pier), Beth asks Ned about the float at the bottom of tomorrow's first tide. Ned works out the hour and, at the propane cage, gives it and **his timer key** to Arsenault: "They said they only wanted to watch you go."
-- **Day 7, before first light:** the float lights are dark. **Only Ned's key and the town ring's open the timer box.** The town ring hangs by Tess's safe. The marine inspector is aboard the lifeboat that turns away.
-- **Day 7, about 6 a.m.:** they turn round at the ramp head; the shot from the skiff at about sixty yards; Dane grazed across the outside of the left upper arm. Butterfly strips from the red Pelican case. He can't lift the arm above the shoulder or grip hard with that hand through Day 9.
+### The clock [DC §1; DC-ms §2]
+- **Monday, November 23.** The grand jury sits in Portland at **ten in the morning**. Cole is held until a hearing at **two that afternoon** (Ch 08). If the grand jury indicts him that morning, he stays in. If it doesn't, he walks out at two.
+- **Why Beth has to be in the room:** the prosecutor's choice. "The prosecutor could have a trooper read them your statement. She won't. She wants you in the room." (Ch 02). The grand jury, glossed the first time: "a room of ordinary people who decide whether there's enough for a trial."
+- **Why not wait for Tuesday:** "If she isn't in that room, Cole goes free at two." (Ch 14).
+- **Outcome:** Beth testifies at ten. The boss texts: "Voted to send him to trial. He stays in." (Ch 16). A trial follows in the spring, where she'll tell it all again with Cole in the room.
+- **Before and after:** Beth thinks that after Monday nobody needs her dead (Ch 09). Dane answers with New Bedford: two years ago Cole's people burned down the house of a woman who'd testified, after (Ch 09, Ch 12, Ch 16, Ch 17). The book says plainly that nothing makes her safe: "None of that makes you safe." / "Not always. … So I watch the door."
+- **Protection:** Dane is on emergency protection, approved the first night because nobody else could get out to the island. Protection is voluntary. The page never says "WITSEC," "OEO" or "material witness."
+- **After Monday:** "Then our part ends after Monday." (Ch 12). "Then she's on her own after Monday." / "Not all on her own. I've put in for the Maine office." (Ch 14). At six on Monday morning Dane is taken off her detail (Ch 16). He's on leave until January, then the Maine office, "a desk and a door," with a letter about her in his file (Ch 17).
 
-### Day 8
-- Ned knows she's aboard from 2 a.m.; keeps "Not Tess. Not tonight." Gives the network the whole boat, Dane and Russ, at the propane cage. Tells them it's a trap, so they come from the water. Then hears Arsenault send Doucette with gasoline.
-- **11:02 p.m., channel 9, from the store's set:** "Bethie. Water side."
+### The program and the hold (Ch 12–14)
+- **The program (Ch 12):** the boss, at noon on Wednesday, after the lawyer has found Ned's son: "A lawyer who can find a man's son in a morning can find a woman on an island. After she testifies there's witness protection. A new name in a new state. She can't come back here, and she can't tell anyone from here where she is. Not her friends, not this island, and not you." Beth: "She's here. She's been here the whole call, and she can hear you fine. No."
+- **The hold (Ch 12):** Dane texts his boss and asks for it, then tells Beth himself, to her face, before the boss calls back: after she testifies, the prosecutor asks a judge to keep her in Portland under guard until the trial, or until she signs, "and that one doesn't need your yes." Twenty minutes later the boss confirms: "The prosecutor's agreed to ask for the hold. Two o'clock Monday." It rests on Dane's word that she'll be killed if she goes home, and only his word takes it back. Beth names her own leverage (refusing to testify) and won't use it: "I'm going in that room. You don't get to make me trade it." The page never says "material witness."
+- **Refused (Ch 12–13):** "Cancel it." / "No." on Wednesday; "Cancel it, Dane." / "No. He walked a mile in the snow to look at you." on Thursday after Mercer.
+- **Withdrawn (Ch 14, Saturday dawn):** "Withdraw it. Tell the prosecutor this morning. She doesn't get held, and she doesn't go into the program unless she says so. Write that down." / "You asked for it Wednesday." / "I was scared, and I called it the job. And I'm involved with her. Write that down too." / "Written." That line on the record is why he is taken off her protection at Pruett. In Ch 16 a deputy holds the courthouse's corner door open for her and stands aside.
 
-### The notebook (Ch 7 s3; four quoted lines on the page, exactly these)
-1. "every place we've slept, and B's family property"
-2. "$9,000 cash in subject's envelope, over her slip, credited and flagged"
-3. "D5 0150 report. No indication."
-4. "D5 pm. Q: CU written rpt. Pouch: two bags. Seal noted: red."
+### The leak (Ned Haskell), place by place
+*Every attack names who knew and how. The page shows at least one end of the channel (World rule 11).*
 
-*(Line 4 is the R4-1 wording, replacing the outline's "one red seal noted." On the page the figures are as written in his hand; this is the one place in the book codes appear in a run, and they are capped at these four lines.)* Beth takes the notebook in Ch 7 s4 and leaves the open red Pelican case on the bench as her message. Carrying it past the church is a cost: if they take her, they take every place he logged.
+| Ch | Where she slept or stood | Who knew | How it reached the kid | What the page shows |
+|---|---|---|---|---|
+| 01 | Her house | The kid saw her see it; she told Ned (wheelhouse), Tess and Russ (store) | Ned called Cole from Pruett; Cole sent the kid | Dane suspects his own side until the skiff's time clears it (Ch 02) |
+| 03 | Russ's house | The whole harbor road (the lit house, Russ on the porch); the boss; Tess (Russ told her from his porch Friday night) | Ned texted *constable's. ill get him off the porch.*, then walked into the empty Dyer house on the point and phoned the store as "the Dyers' nephew" so Russ would be sent away | The heel print under the window; the Dyer house empty, the phone used (Ch 04); Tess's account (Ch 05) |
+| 04 | The co-op loft | Nobody; no signal | — | Nobody came; Russ finds them at dawn, so they leave |
+| 05–06 | The north-side summer house | Tess, Russ, Ned (Beth tells him herself at the store), the boss | Ned texted *north side house. russ has the key.* | The watching post by the big spruce; the fire; "Somebody told him." |
+| 07–08 | The lighthouse | The boss only | Never sent | The kid believes they drowned; the texts clear the boss (Ch 10) |
+| 08–09 | The north beach at three | Tess, Ned, Russ (Beth calls each from the tower); the boss; Marine Patrol | Ned texted *north beach 3.* The kid: *ok* | The officer shot; Ned in the sea in front of her; "one of your three, or one of mine" |
+| 10 | The dentist's house above the east cove | Nobody (the kid's own cove; he went inland bleeding) | — | Nobody came |
+| 11 | The dentist's house (the bait) | Ned, by the bait text | Dane wrote it in the kid's way from the kid's phone; Ned answered *coming.* | Ned walks an hour with a lantern and the ferry's first-aid box; his coat buzzes |
+| 12–13 | Her own house | The kid ran there from the wall | — | Smoke from her chimney at dusk |
+| 13–15 | The town office; the ferry | Every boat in the bay heard Tess's Coast Guard call about a boy in ties at the town office; somebody on Cutter planted the phone on the ferry Saturday; the big boat listens to the ferry's radio | — | Mercer at the step; the planted phone; the big boat behind them |
 
-### The seal clue (binding)
-- Colors are private habit: **yellow is Tess's, red is the boat's.** Both bags were red on Day 1 (the fare bag always is; Ned resealed the store bag red).
-- The teller wrote down the seal on the bag that held the flagged envelope and didn't record the other: **"Seal noted: red."**
-- **Ch 7 s5, in Beth's head only, alone in the crew mess:** she sets the line aside; the fare bag is always red, so that's the one the teller wrote down. Never spoken. Dane never hears Tess's line and never hears Beth's misreading.
-- **Ch 9 s4, the correction (R4-1 wording):** "The seal the teller wrote down was the store bag's. And the store's are yellow."
+**Why the reader isn't ahead of Beth (binding):** through Ch 08 Ned is a frightened old man who hauled her off the float. Nobody points him at anyone. The visible lies belong to Tess (the Dyer call answered too fast, the phone face down) and Russ ("Nobody," "Late"). On the beach (Ch 09) Ned admits he guessed what rode in Cole's truck and let himself not know, and that his son is on drugs; he says he never opened a truck, which Ch 12 shows was a lie. The texts narrow it to her three (Ch 10). Ned is caught by his own kindness (Ch 11). Ch 12 is the reader's first word of the night runs and Cole's phone, told as a confession.
 
-### Who knew, event by event (from the outline, with R4-2 applied)
+### Ned's answers (Ch 11, the dentist's kitchen; Ch 12, the east road)
+- **Ch 11, place by place, after his coat buzzes:** "Russ's porch." / "Wind's going round to the west." … "That was me." / "The north-side house." / "Me." / "The beach at three." / "Me." / "The Dyer phone." / "I could see his light from there. I told Tess so. I wanted Russ off that porch, and I didn't want him hurt." / "You stood in the water." / "I did that too." / "And tonight you walked an hour in this. What for?" / "He's somebody's boy, Bethie." Dane arrests him; Beth ties his wrists with rope. "Why?"
+- **Ch 12, under fire and after, each landing before the next:** the night runs ("Two years ago Cole came down the pier on a calm night. He said, after the deckhand's gone home, you take it back across alone. So I did. I ran his trucks over in the dark. He gave me a phone for it. Only number he ever called me on."); the beach lie ("On the beach I lied to you. Fuel runs, I told the co-op."); his son ("A man called me on that phone the morning after the crate split. He told me the street my boy sleeps on."); why her Thursday; the clean truck ("From Pruett, while you were on the ramp photographing his plate. I told him you'd call. I know you."); her door ("Cole said nobody'd be touched. I didn't ask him twice."); the September photo ("In September Cole asked me who'd have the boat after me, come June. I told him you. I was proud of it."); the supply ("It comes in from offshore. A boat. I never saw it."); and, unasked, the beach ("I came down that beach to stand where he'd have to shoot me first.").
 
-| Event | Needed | Dane | Ned | Tess | True channel |
-|---|---|---|---|---|---|
-| Day 1, 11:40 p.m.: the latch | That she'd left the ferry for the dark house | Yes; his front-yard call reporting the truck | Yes: Beth told him at about 10:20 | Yes: the flashlight, logged 22:40 before Ned reported the bridge | Ned: cell from the store's back step to the Iridium; the spare key on the step |
-| Day 3, dawn: the empty cottage searched | — | Knew Ashby | Knew | Didn't | Ned holding it |
-| Day 4, 10 p.m.: the Ashby fire | Ashby | Yes (lit the stove at 7:45) | Yes, but "aboard since Sunday dusk" | Yes: smoke at noon, chowder at 2 | Ned, at noon, while Tess was on rounds; the spare key again |
-| Days 4–7: the fish house | — | Yes | Guessed Day 5 | No | Never given |
-| Day 7, 6 a.m.: the landing | Time and place; the float dark | Yes | Yes: her tide question | Yes: the county call, kept to herself | Ned, at the propane cage, Day 6; his timer key |
-| Day 8 night: the ferry | She's aboard; the layout | Yes | All of it; keeps "Not Tess. Not tonight." | Only Beth's bait | Ned, at the propane cage |
+### Other binding facts
+- **Phone records:** Dane asks for the three islanders' records on Day 2 (Ch 05), with Beth arguing against it to his face ("Those three are mine, Dane."). The carriers take three days; Dane asks for two. They come back clean (the boss's text, Ch 10), which means a second phone.
+- **The Dyer call (Ch 03, Ch 05):** Tess on the radio at one in the morning: the Dyers' nephew, out in his own boat Thursday to check the house before the storm, a tree through the roof, hurt and can't get his leg out. Tess at the counter: "Screen said Dyer. A man, talking low, like he had his hand over it. He said send Russ, he could see his light from there." The real nephew lives in Augusta and hasn't been on the island in ten years. Mrs. Dyer has been in Bangor since October; no tree, the back door open (Russ, Ch 04).
+- **Russ's lie:** he told Tess, Friday night, from his porch, before the shooting, where Beth slept (Ch 03 Dane sees him on the phone at the end of the porch; Ch 12 Russ owns it). He went to Tess's after the empty Dyer house when he should have gone straight back ("Late"). The phone Tess turned face down at the store with "Not now" was him (Ch 05). That is their only secret.
+- **The rescue (Ch 08–09):** the boss arranges the Marine Patrol boat at three and needs someone on the island radio who can see the beach; that's Tess. Dane proposes telling her people five; the boss makes the true hour the test. Beth calls her three herself. Tess talks the boat in from her fire truck at the south end and sends it to the north rocks before Dane lifts his arm ("Tess has known where I'd go since we were six" — innocent; no payoff).
+- **The hunt and the skiff (Ch 10):** the kid is hit and bleeding, and the snow holds his trail for under an hour. Dane reads it in silence. At the east cove the kid tears loose and goes up the rocks at Beth with a pistol; she throws herself off the rock and opens her knee; Dane hauls him back by the hood and takes the pistol across the head; the kid gets into the spruce inland. Dane takes his rifle and phone. A skiff would be swamped at the ledges, so Dane puts a rock through its bottom: "Now there's one way off this island." / "And it's my ferry, once I fix the steering." Dane's cuffs are at the bottom of the bay with the wave.
+- **The bait (Ch 11):** Dane rings the leak's number at a quarter past two from his own phone; it's off. He texts his boss the plan and waits eleven minutes for "Go. Your call, your badge." The bait: *marshal shot me. bleeding bad. cant walk. east cove the house up the hill. back door open. come alone. bring something for blood.* Four minutes later: *coming.* The false alarm is the sunk skiff knocking on the stones with the tide.
+- **The kid after the wall (Ch 12–13):** he runs west toward the village from the stone wall. Dane has Russ lock the village down on the radio and sit in his truck at the foot of Beth's lane all day. The kid gets past by the shore, lights Beth's stove at dusk because the cold has beaten him, and washes her mugs at first light. The raid: Russ knocks from beside the door behind the stone chimney as told twice, then steps square into the doorway to talk him out and is shot through the door. The kid comes out the window into Dane. Tied with Tess's long black cable ties (three), then to the sink leg.
+- **Russ's leg (Ch 13):** Beth packs the wound with the ferry first-aid box's last dressing, puts the box's cloth strap round the thigh and twists it with the ferry's wrench as a windlass at twenty to seven. Tess radios the Coast Guard, which won't fly a stable patient in this ceiling and tells her to ease the strap slow in an hour. Russ goes to the town office couch.
+- **The big boat and Mercer (Ch 13–15):** the kid: "They've got a boat." That morning a big fishing boat lies in the lee of the point. Mercer walks round the head of the harbor in the snow to the town office step. Saturday: no Hal Mercer on any license out of Gloucester; a lie to a federal officer, and still nobody can get aboard in this sea. Sunday night, after the planted phone goes dead, it finds them by ear; Beth puts every light back on; it shoots out the wheelhouse side window and the passenger cabin windows, keeps pushing her toward the point, follows her lights into Alton's gap, and hits the rock beside it. It limps off holed; its light goes out; the Coast Guard loses it among the rocks.
+- **Why nothing comes for her before Sunday:** "No helicopter would come up through icing for a woman who wasn't dying" (Ch 09). The Marine Patrol boat that came to the beach was holed (Ch 09). "Nothing flies before Tuesday, and the Coast Guard's on the storm's distress calls. If that boat comes at you, that's a distress, and they'll come from an hour off." (Ch 14). "Sunday night or not at all." With the float gone and the lobster boats on the rocks, only the ferry can go.
+- **Why both prisoners cross (Ch 14):** Tess can't nurse Russ and guard two men. Russ and Tess stay ashore.
+- **Why Ned is at her shoulder (Ch 14–15):** he hears breaking water before anybody sees it, and below he'd be an arm's length from the kid. Dane objects to her face ("He's the man who sold you to them") and then says "Your call."
+- **The steering lie (Ch 15):** the big boat can hear the ferry's radio. Dane asks, "Beth. Can I tell them about the steering?" She can feel the steering is fine. "Tell them." He says it's gone. She lets the ferry swing toward the white water; Mercer comes in close to take them off; she puts the wheel over hard into the gap.
+- **Ned after his arrest:** tied with rope by Beth (Ch 11); Russ's cuffs at the town office step (Ch 12); cuffed to the back-room pipe; one cuff to the ferry rail (Ch 12, Ch 14–15); Beth frees him onto her wheel twice and he cuffs himself back unasked (Ch 15); led off at Pruett in Russ's cuffs; in the county jail, asking for a lawyer of his own (Ch 16); his letter (Ch 17).
+- **After Pruett:** a deputy takes Dane's gun first; it goes into one bag with the kid's rifle and pistol, Ned's knife and the planted phone. The ambulance takes Dane to Maine Medical Center. The kid's sworn statement comes up at dawn, and two deputies are waiting for the lawyer in the courthouse lobby when he walks in anyway. The grand jury indicts; Cole stays in; the lawyer is in a cell downstairs.
+- **The kid's statement (Ch 15):** "That man on the radio would've put me over the side with her. It was Cole. Through Cole's lawyer. The lawyer paid me. He met me himself, in Portland, in his car, behind the bus station. He gave me the phone and two thousand cash. Cole had me take her picture off the store board in September, so I'd know the girl on the boat. The man on the radio. Mercer. That's his boat. It brings the stuff in from offshore. I want that written down." Why he talks: his own people shot at the boat he was tied in.
+- **Who knows Beth and Dane are lovers:** Tess and two lobstermen from the counter (Ch 05), so the island; Mercer, who watched Dane step in front of her (Ch 13), and through him the lawyer (Ch 16); the boss, on the record (Ch 14); Russ and Tess, told by Beth herself (Ch 14); the grand jury, from the prosecutor and from Beth (Ch 16).
+- **Book 2 threads:** the big boat and Mercer, under a name that comes back to nobody; the phone somebody on Cutter taped to the bait truck ("I'll find out." / "We'll find out."); Tess and Russ.
+
+### Where they sleep
+| Night | Where | Notes |
+|---|---|---|
+| 0 (Thu) | Beth's house, from about four | Dane at her father's table with the gun; she sleeps on the couch by the stove under his coat |
+| 1 (Fri) | Russ's house, then the co-op loft | Shot at about one; heat #1 in the loft |
+| 2 (Sat) | The north-side summer house | Beth in the big bed with the door open; Dane up all night in the chair |
+| 3 (Sun) | The lighthouse keeper's house | Heat #2. Dane has been up three nights |
+| 4 (Mon) | The lighthouse keeper's house | — |
+| 5 (Tue) | The dentist's house above the east cove | Heat #3; the bait at half past two; Ned before first light |
+| 6 (Wed) | The town office, then the lane | Off the page until four, when Dane sends Beth to Russ's truck behind the rise; Dane and Russ watch her house all night |
+| 7 (Thu) | The town office | Ned and the kid in the back room |
+| 8 (Fri) | Aboard, at the wheel all night inside the harbor | — |
+| 9 (Sat) | Not on the page | — |
+| 10 (Sun) | At sea | The crossing |
+| 11 (Mon) | A Portland hotel | Heat #4 |
 
 ### What Beth knows, and when (summary for the continuity checker)
-- **Day 0–1:** what she saw; the plate; that Ned tried to send her home against the certificate; that the float was lit. Nothing about any money.
-- **Day 2:** the screen (she reads it as the protection log and case secrets: "what don't I get told"); Tess saw her light and wrote it down; she told Ned; "Ned's color."
-- **Day 3:** Doucette's walk; Quist won't touch the boat; "Sold. Sorry."
-- **Day 4:** the store's truck at the fire. Gives Dane both names and the truck (Ch 5 s4).
-- **Day 5–6:** the fuel log, the hundreds, the town ring by the safe; "You told the county?"; Ned's shorts confession; the impeller box.
-- **Day 7:** the float dark and whose keys; the notebook (the $9,000 for the first time); the seal line, set aside.
-- **Day 8:** Dane's account; Pike's own words; the "no indication" entries she reads herself.
-- **Day 8, 11:02 p.m.:** Ned.
+- **Ch 01:** what she saw (fentanyl, Cole in the cab, the kid, the split lip, the dragging heel); the plate; Ned was afraid and told her to do what's right from her own kitchen; the man came; he came by boat with no lights, so he's from here.
+- **Ch 02:** the truck was clean, the cold storage hosed, so her eyes are the case; the grand jury Monday and the prosecutor's choice; the skiff left Pruett at half past ten, before she called; no way off; the float gone; the steering gone; the lobster boats wrecked.
+- **Ch 03:** the whole road can see Russ's house; the Dyer call; the nephew lives in Augusta; the heel print under the window; the call was to get Russ off the porch.
+- **Ch 04:** the Dyer house, out on the point, was empty, its back door open and its phone used; nobody passed Russ on the road; "two of them"; Russ said "Late."
+- **Ch 05:** Tess's account ("could see his light from there"); Tess answered too fast and turned her phone down with "Not now" while Russ had his to his ear; Russ said "Nobody"; the kid's camp and her photo, Tess's copy, gone off the board the first week of September; the kid off Cole's boat, no name; four people know the next bed; the records are coming.
+- **Ch 06:** the watching post; nobody could see the house from the road; three of the four are hers; somebody wanted her face known in September.
+- **Ch 07:** the man thinks they drowned.
+- **Ch 08:** the boss's three o'clock test; the hearing Monday at two; her three, the boss and Marine Patrol have the hour.
+- **Ch 09:** the job is hers; Ned guessed about the trucks and let himself not know; his son is on drugs in Portland; New Bedford; the kid is hit.
+- **Ch 10:** the texts: one number sent the porch, the north-side house and the beach, and never the lighthouse, so it isn't the boss; it isn't any of her three's own numbers; the records came back clean, so a second phone; a second number has called the kid four times; at two the fourth text.
+- **Ch 11:** Ned is the leak; he made the Dyer call; he came to save the boy.
+- **Ch 12:** the night runs and Cole's phone; why her Thursday; he called Cole from Pruett; "Cole said nobody'd be touched"; the September photo; it comes in from offshore; Russ told Tess; Tess and Russ are together; the second number is Cole's lawyer; Ned's son was using and is alive; the program; the hold.
+- **Ch 13:** the kid was living in her house; "They've got a boat"; the big boat in the lee; Mercer, who knows about June.
+- **Ch 14:** no Hal Mercer out of Gloucester; nothing flies before Tuesday; the Coast Guard comes from an hour off if they're attacked; Sunday night or not at all; the hold withdrawn and Dane on the record; on her own after Monday; Dane has put in for Maine; the planted phone, somebody on Cutter.
+- **Ch 15:** Mercer's boat brings it in; the lawyer paid the kid and gave him the phone behind the bus station; Cole had the kid take her picture in September.
+- **Ch 16:** the lawyer arrested on the kid's statement; Dane taken off her protection at six; the spring trial; Ned in the county jail; his son in a clinic; the indictment.
+- **Ch 17:** Ned took his name off his letter to the board; Tess wrote the board Tuesday; the kid's name is Kyle Pelletier, nineteen; he swears he never planted the phone.
 
 ---
 
 ## NUMBERS LEDGER
 
-*Every figure the plot depends on. "Page" means the figure may be said in prose; "Off page" means it constrains the writer but is never stated. Write figures on the page in words ("nine thousand dollars"), never numerals, except the four notebook lines and the two screen lines (World rule 6).*
+*Every figure the plot depends on. "Page" means the figure is said on the page; "Off page" means it binds the writer and stays unsaid. Every figure is written in words on the page (World rule 15).*
+
+### Length and chapters
+| Figure | Value | Notes |
+|---|---|---|
+| Book as delivered | **38,168 words, about 38,000** (Nov 6 revision r1) | Brief target ~30,000; the v4 rebuild aimed at ~36,000 |
+| Chapters | **17** | Old Ch 14 and 15 merged; old 16/17/18 are now 15/16/17 |
+| Ch 01 as written | 2,510 words | Approved text |
+| Heat floors | 800 words each, four scenes | HEAT RULES |
+
+| Ch | Title (from the page) | POV |
+|---|---|---|
+| 01 | The Last Truck | Beth, then Dane |
+| 02 | First Light | Beth |
+| 03 | The Constable's Kitchen | Dane |
+| 04 | The Net Loft | Beth |
+| 05 | Good Till Next August | Dane |
+| 06 | Who Knew | Beth |
+| 07 | Cold Water | Dane |
+| 08 | The Tower | Beth |
+| 09 | The North Beach | Dane |
+| 10 | The Blood Trail | Beth |
+| 11 | Somebody's Boy | Dane |
+| 12 | The Hold | Beth |
+| 13 | Her Father's Kitchen | Dane |
+| 14 | The Wheel | Beth, then Dane |
+| 15 | Inside the Ledges | Beth |
+| 16 | In the Room | Beth, then Dane |
+| 17 | Full Price | Beth |
 
 ### Money
+| Figure | Value | First stated | Source |
+|---|---|---|---|
+| The lobster in the truck | twelve thousand dollars of live lobster | Page, Ch 01 | Plausible; 2026 price unchecked |
+| Cole's Christmas tip | twenty dollars | Page, Ch 01 | — |
+| Condoms at Tess's counter | four seventy-nine, "good till next August"; Beth a penny short, and she pays it | Page, Ch 05 | DC-ms: works as a tax-in total |
+| Store coffee | a dollar a cup ("two dollars" for two, Ch 05; "Coffee's a dollar, Marshal. Same as everybody," Ch 17) | Page | DC-ms |
+| Cable ties | a dollar apiece | Page, Ch 13 | — |
+| The bet | a dollar | Page, Ch 06 (plant), Ch 17 (she takes it and loses; he keeps the dollar) | — |
+| The kid's pay | the phone and two thousand dollars cash, from the lawyer | Page, Ch 15 | — |
+| The boots | the marshal price, "Full"; "Thirty-eight dollars at my register. … The next pair's double." | Page, Ch 17 | See Still open |
+| Witness money | an envelope from a woman deputy; Beth pays for the hotel room and the drugstore bag from it | Page, Ch 16 (amount off page) | DC-ms §5 |
+| Tess's letter to the board | "Cost me a stamp." | Page, Ch 17 | — |
+| Tess's fuel-tank loan from Cole | amount off page ("the money for my new fuel tanks") | Page, Ch 05 | — |
+| What Cole paid Ned | off page; the page never says | — | — |
+| Dane's boat | "thirty-some thousand" for that kind of boat (Ch 11); off page about thirty-three thousand, a 1981 cedar-on-oak thirty-four-footer | Ch 11 | DC §13 |
+| Dane's savings | six years of saving; off page | — | — |
 
-| Figure | Value | First stated | Changes to | Source |
-|---|---|---|---|---|
-| The frame | $9,000 in hundreds (ninety bills), in Beth's envelope over her paycheck slip | Page, first in Ch 7 s3 (the notebook) | Credited by count and flagged Day 1 | Outline; DC |
-| Beth's paycheck | a two-week ferry check; amount off page | Off page | — | BB |
-| Dane's boat | $31,000, "firm at thirty-one, Saturday noon"; a 1966 Webbers Cove 34 with a rebuilt Cat | Page Ch 1 s3 (no figure), Ch 3 s1 ("thirty-one") | Let go at noon Day 2; sold Day 3 ("Sold. Sorry.") | Outline; DC |
-| Dane's savings | enough for the boat; off page | Off page | A worse, cheaper boat by Dec 18 | BB |
-| The boots | $190, a place on Route 1 that also sells fudge | Page (Ch 1 or Ch 10 s5) | — | Designer |
-| Condoms at Tess's counter | $4.79, "good till next August" | Page (Ch 6 s2) | — | Designer; outline |
-| Night fuel | cash, twice the pump price; the hundreds in the green ledger | Page, no figure (Ch 6 s2) | — | v1; outline |
-| Tess's tank loan | $180,000, four years ago, $1,800 a month, behind | Off page (one line at most) | — | v1 (fiction) |
-| Tess's bid on the *Ruthie C* | lost by $1,500 | Off page (Book 2) | — | Designer |
-
-### Counts, people and places
-
+### Counts
 | Figure | Value | Notes |
 |---|---|---|
-| Island | about 240 winter, 1,100 summer; about 3,100 acres; eleven schoolchildren; about 35 lobster boats | — |
-| Crossing | 7 nautical miles, 45 minutes | The 2 p.m. lands at Pruett about 2:45; the yard a mile from the ramp; the viewing at 3:30 |
-| *North Reach* | **about 104 ft; under 100 GT; built 1989; 149 passengers; 8 cars, or one tractor-trailer plus four light trucks** | DC option A |
-| COI manning | winter tier (≤ 49 passengers): master + one deckhand; up to 149: master + engineer + two deckhands | DC |
-| Day 0 vehicles | the reefer plus at most four light vehicles | Capacity check |
-| Day 1–9 deck | two trucks chained (propane delivery truck, co-op bait truck) | — |
-| Day 10 crew | Beth (master), Kenny (deckhand) | Winter tier |
-| Ring buoy line | 90 feet | Two buoys, port aft and forward |
-| *Margaret Ann* | 62 ft; skiff 16 ft, 25 hp | — |
-| *Ruthie C* | 38 ft | — |
-| Webbers Cove | 34 ft, 1966 | Never "Holland" |
-| Lookout Hill | about 160 ft | — |
-| Fish house to town lane | about a mile and a quarter by the shore | — |
-| Russ's traps | 400 | — |
-| Booster range | about fifty feet around the store | — |
-| The shot | about sixty yards, from the skiff | A graze, left upper arm |
-| The ham | eleven pounds, three of them (Dane, Beth, Ned) | Ch 8 s4. The Ch 10 ham is bigger; **[BB] fourteen pounds**, off page unless the beats want it |
-| "Forty of us" | Russ's count of who drags a left heel | Ch 3 |
-| Ten days | Ned's estimate for the barge | Ch 2; paid Ch 10 |
-| First kiss | Ch 3 s4 (~27%) | — |
-| Intimate scenes | 3 (Ch 5 s3, Ch 6 s4, Ch 10 s2) | See HEAT RULES |
-| Dane's swears | 2 (Ch 7 s1, Ch 9 s4) | — |
-| "Dollar says" | 4 | Last in Ch 10 s5 |
-| Notebook quoted lines | 4 | Ch 7 s3 |
-| Casualty report | the 2692, due within five days of Day 1 | Optional texture |
+| Witnesses Dane has protected | "maybe forty"; Beth is forty-one | Ch 01, Ch 02 |
+| Kisses he's had from a witness | one, "as of tonight" | Ch 03 |
+| Island kids dead of fentanyl | two in the last three years, one a boy Beth taught to row | Ch 01, Ch 09 |
+| Beth's years on the ferry | eleven | Ch 01 |
+| Cole's Thursdays | six years | Ch 01 |
+| Ned as captain | thirty years | Ch 01, Ch 15 |
+| Ned's night runs | two years | Ch 12 |
+| Minutes on hold with the trooper | nine | Ch 01 |
+| Ten days | early Friday to the grand jury; "Ask me again in ten days"; "Your ten days were up on Monday" | Ch 01, Ch 17 |
+| Minutes before the sea closes | ten (the Marine Patrol officer) | Ch 02 |
+| Trucks stuck on the car deck | two: a lumber truck and the co-op's bait truck | Ch 02 |
+| People who know the north-side house | four: Tess, Russ, Ned, the boss | Ch 05 |
+| Days for the phone records | three; Dane asks for two | Ch 05 |
+| Nights Dane goes without real sleep | three, by Sunday dusk | Ch 07 |
+| Distance Beth half carries Dane | about a mile, shore rocks to the lighthouse | Ch 07 |
+| Days to Monday | eight from Sunday (Ch 07); six from the beach (Ch 09) | — |
+| Tins of ham | one | Ch 08 |
+| Calls from the tower | three (Tess, Ned, Russ) | Ch 08 |
+| Marine Patrol officers on the boat | two; one hit in the shoulder | Ch 09 |
+| Texts from the leak's number on the kid's phone | three, then the kid's "ok," then a fourth at two | Ch 10 |
+| Calls from the lawyer's number | four to the kid; one to Ned | Ch 10, Ch 12 |
+| Minutes Dane waits for the boss's go | eleven | Ch 11 |
+| Minutes to "coming." | four | Ch 11 |
+| Ned's walk to the dentist's house | an hour of road | Ch 11 |
+| Minutes to Ned's son | eleven (outline); on the page "they've got him" | Ch 12 |
+| Days Beth's house stood empty | five, by Wednesday dusk | Ch 12 |
+| Times Dane told Russ where to stand | twice | Ch 13 |
+| Shots the kid fires at the raid | two (through the door; beside Dane's head) | Ch 13 |
+| Cable ties on the kid | three at the raid; a fresh one Friday; fresh ones over the life jacket and one to a bench leg Sunday | Ch 13–14 |
+| Year-round population | two hundred and forty | Ch 13, Ch 17 |
+| Distance Mercer walks | a mile in the snow | Ch 13 |
+| Days since "I'm in love with you" | five, Saturday dawn | Ch 14 |
+| Days without a kiss | four, Wednesday to Sunday | Ch 14 |
+| Crossing time | an hour normally; five hours, maybe six at this crawl | Ch 10, Ch 15 |
+| Shots Dane fires | once at the beach (hits), once on the east road, three times at the big boat | Ch 09, 12, 15 |
+| People aboard the ferry | four | Ch 15 |
+| Coast Guard's time out | about an hour | Ch 15 |
+| The ledges along the point | about a mile | Ch 15 |
+| Hours from Pruett to ten | six | Ch 15 |
+| Grand jurors | about twenty | Ch 16 |
+| Beth's wait in the side room | an hour | Ch 16 |
+| Boats Dane looked at | eleven; he bought the twelfth | Ch 17 |
+| People at Thanksgiving | four | Ch 17 |
+| Kyle Pelletier's age | nineteen (Beth guessed twenty-five) | Ch 01, Ch 17 |
+| Times Tess passed the pier Saturday | twice, with wood for Russ's stove | Ch 17 |
+| Named characters the reader must track | six (Beth, Dane, Ned, Tess, Russ, Cole), plus Mercer from Ch 13 | World rule 10 |
+
+### Times
+| Time | What | On the page |
+|---|---|---|
+| ~9 p.m. Day 0 | The truck onto the ferry | "that night" |
+| ~10 p.m. Day 0 | Pruett; the plate; Ned's call | No clock |
+| 10:30 p.m. Day 0 | The kid's skiff leaves Pruett | "half past ten" (Russ, Ch 02) |
+| midnight Day 0 | Beth's call | "at midnight" |
+| a little before 3 a.m. Day 1 | The break-in | "A little before three" |
+| 4 a.m. Day 1 | Dane at her table | "from four o'clock on" |
+| 5:30 a.m. Day 1 | The board on the door | "half past five in the morning" |
+| by 7 a.m. Day 1 | The ferry breaks loose | "By seven" |
+| 4:15 p.m. Day 1 | The lights go out | "a quarter past four" |
+| 6 p.m. / 10 p.m. Day 1 | The boss; Russ on his phone; the kiss | "At six"; "By ten" |
+| 1 a.m. Day 2 | The Dyer call; shots twenty minutes later | "At one in the morning" |
+| 9 a.m. Day 2 | The store | "At nine in the morning" |
+| dusk Day 3 | The north-side house burns | "at dusk" |
+| 2:30 / 3 p.m. Day 5 | Ned on the beach / the boat | "half past two," "three o'clock" |
+| 2 a.m. Day 6 | The fourth text | "At two" |
+| 2:15 / 2:30 a.m. Day 6 | Dane rings the leak's number / the bait | "a quarter past two," "half past two" |
+| ~3 a.m. Day 6 | The wait; the lantern on the road | "By three" |
+| first light Day 6 | The wall | "At first light" |
+| noon Day 6 | The program; the hold | "At noon" |
+| 4 a.m. Day 7 | Beth sent to Russ's truck | "at four" |
+| first light Day 7 | The raid; the strap at twenty to seven | "Twenty to seven" |
+| Friday night Day 8 | Off the pier; the jam an hour in | "An hour in" |
+| first light Day 9 | The repair | "In the first light" |
+| 3 p.m. Day 10 | The ham; the public yes | "by three" |
+| 8 p.m. Day 10 | The search; the planted phone | "By eight" |
+| ~9 p.m. Day 10 | High water | "An hour after high water" |
+| 10 p.m. Day 10 | Cast off, dark | "At ten" |
+| 10:30 p.m. Day 10 | The big boat | "Half past ten" |
+| after midnight | The kid's statement | "a little after midnight" |
+| a little before 4 a.m. Mon | Pruett | "A little before four" |
+| 6 a.m. Mon | Dane off her detail | "At six this morning" |
+| 10 a.m. Mon | The grand jury | "ten" |
+| 2 p.m. Mon | The hearing (made moot by the indictment) | "two o'clock" (boss, Ch 08) |
+| a little after 4 p.m. Mon | Russ's text | "a little after four" |
+| noon Thu Nov 26 | The bet settles | "The church bell rang noon" |
 
 ### Ages and years
-
-| Figure | Value | Notes |
+| Who | Age / years | Notes |
 |---|---|---|
-| Beth | 33; on the ferry since 22 (eleven years); license since 30; scar at 23 | Mother left when she was nine |
-| Alton Calloway | died at 61, six years ago; the bank took the *Ruthie C* eight years ago | — |
-| Dane | 38; Marshals at 29; divorced at 34; Marisol four years ago | Scar 2019; sternman at 15 and 16 |
-| Marisol Duarte | 24 when she died | — |
-| Ned | 64; widowed at 50; sober twenty-two years; captain since Beth was a baby (thirty-one years: **never "thirty-one" on the page**) | Retires in June |
-| Tess | 46; came at 22; the store nineteen years | **Gap to Beth: thirteen years** (see Open questions) |
-| Russ | 44; finished first in his class at 41; divorced six years | Four grades ahead of Beth |
-| Quist | 41 | — |
-| Pike | 50s; the 1999 detail | — |
-| Arsenault | 52 | — |
-| Doucette | 29 | — |
-| Kenny | 26 | — |
-| Ida Dyer | 88 | — |
+| Beth | 33 (born 1993); on the ferry eleven years; captain's license at 30, three years ago (good for five years, kept current); palm scar at 23; mother left when she was 9; Ned taught her his knots at 9; Russ taught her to bait a trap at 6 | — |
+| Alton Calloway | died at 61, six years ago; the bank took his boat eight years ago (off page) | Named Ch 15 |
+| Dane | 38 (born 1988); college 18–22; Army four years, Lowell police three, Marshals at 29 (nine years); divorced at 34; lobster-boat summers at 15 and 16 | — |
+| Marisol | 24 when she died, four years ago | Backstory; never named on the page |
+| Ned | 64; widowed at 50 and sober twenty-two years (off page); captain thirty years; night runs and Cole's phone two years | Retires in June |
+| Ned's son | off page; on drugs since the summer | — |
+| Tess | 46; single on purpose twenty years | Thirteen years older than Beth (off page; see Still open) |
+| Russ | 44; finished first in his police class at 41 (off page); "twenty years of talking drunk men out of houses" (Ch 13) | **Eleven years older than Beth [DC]**; two years younger than Tess |
+| Cole | 56, off page | — |
+| Kyle Pelletier (the kid) | **19** | Two summers on Cole's boat |
+| Hal Mercer | sixties | — |
+| Dane's boss | 50s | — |
+| New Bedford fire | two years ago | — |
+| Dane's boat | older than both of them (off page: 1981) | — |
 
-### Times (the clock times the plot rests on)
-
-| Time | What | On the page as a clock time? |
-|---|---|---|
-| 8:40 p.m. Day 0 | The car deck | Yes (sample) |
-| 10:45 p.m. Day 0 | The float lit | "a quarter to eleven" or the float's light, no clock |
-| about 11:15 p.m. Day 0 | Arsenault aboard to Ned | Off page |
-| 1 a.m. Day 1 | Beth's call | Once, in a clause |
-| 7:40 a.m. Day 1 | The Pruett ramp | Yes (sample) |
-| 1:15 p.m. Day 1 | Ned on the VHF | Yes (sample) |
-| 2 p.m. / 3:30 p.m. Day 1 | The sailing / the viewing | "the two o'clock"; the viewing off page or "half past three" once |
-| about 9 p.m. Day 1 | The bridge; the call to Sector | No |
-| about 10:20 p.m. Day 1 | "Home. Don't tell anybody." | No |
-| 10:40 p.m. Day 1 | Tess's light ("twenty-two forty") | On Tess's hand and in her mouth, Ch 3 |
-| a little after eleven Day 1 | The truck | No ("a little after eleven") |
-| 11:40 p.m. Day 1 | The latch | **Yes, the only clock time in Ch 2** |
-| noon Day 2 | The broker's deadline | "noon" |
-| 7:10 a.m. / 7:45 a.m. Day 4 | The gut / the stove | Tide words; no clock |
-| noon / 2 p.m. / 10 p.m. Day 4 | Ned at the store / the pots / the fire | "noon", "two", "ten" in words at most |
-| 1:50 a.m. / 2:20 a.m. Day 5 | His report / "Walked the bar" | In the notebook (0150); 2:20 in words once at most |
-| 5:50 a.m. Day 7 | Down the lane | "before six" |
-| 2 a.m. Day 8 | Ned lets her aboard | "two" |
-| about 4 a.m. Day 8 | Dane along the riprap | — |
-| noon Day 8 | The ham | — |
-| 4:40 p.m. / 5:30 p.m. Day 8 | The case for Tess / the bait call | — |
-| 11:02 p.m. Day 8 | Channel 9 | In words once ("two minutes past eleven") |
-| 8 a.m. Day 9 | The boats in | — |
-| 0800 and 1800 | Net on 68 | — |
-| Tess | bed by nine, up at five; rounds at midday | — |
+### Injuries (the continuity checker carries these forward)
+| Who | What | When | Carries until |
+|---|---|---|---|
+| Dane | oar across the forearm, "a purple bar as wide as an oar" | Ch 01 | Ch 03 |
+| Beth | frozen feet, socks in the snow | Ch 01 | Ch 02 |
+| Ned | bad hip, worse after hauling Beth off the float | Ch 02 | the end |
+| Dane | knees, landing on the ferry's deck from the pier | Ch 02 | Ch 02 |
+| Dane | glass cut across the left forearm above the bruise; taped by Beth in the loft | Ch 03 | shut and stiff with salt by Ch 07 |
+| Beth | rock chips sting her cheek | Ch 06 | — |
+| Beth | palms skinned raw on the iced shore rocks | Ch 06 | Ch 07–08 (she touches him with the backs of her fingers) |
+| Dane | the sea: no voice until warm; hands dead; right knee stiff; a rock hits his hip under water; two sore places below his collarbone where she hauled | Ch 07 | Ch 07 |
+| Marine Patrol officer | shot in the shoulder; taken off on the holed boat | Ch 09 | off the page |
+| The kid | hit by Dane's shot at the beach; left arm | Ch 09 | arm bound in a dish towel Ch 13 ("My arm") |
+| Beth | knee laid open on the cove stones; closed with strips, a pad and tape | Ch 10 | the bad knee through Ch 16; "a healing cut ran red across one knee" |
+| Dane | pistol across the head: a cut in his scalp, a lump, blood into one eyebrow | Ch 10 | aches Ch 11 |
+| Ned | rope burn at the wrists | Ch 11–12 | — |
+| Russ | shot in the thigh through Beth's front door; packed, strapped with the wrench, bandaged | Ch 13 | town office couch Ch 14; flown out Tuesday; cane Ch 17 |
+| Dane | the kid's pistol fired beside his head: a high whine in his left ear | Ch 13 | — |
+| Beth | palms torn by the spinning wheel; the rope scar opens; wrapped in Dane's shirt, then clean strips and black electrical tape | Ch 14 | taped through Ch 16; a light wrap, healing, Ch 17 |
+| Dane | a bullet line along his left ribs; stitched; can't lift anything | Ch 15 | Ch 16 (she does all the work); Ch 17 (he can lift a mug) |
 
 ---
 
 ## PLANT LEDGER
 
-*From the outline's plants table, with the designer's and bible-builder's additions marked. The continuity checker carries this into `continuity-log.md` and marks each plant paid or open after every chapter.*
+*From the finished page. Each plant is marked where it's planted and where it pays. One card stays unpriced per act.*
 
 | Plant | Planted | Paid | Notes |
 |---|---|---|---|
-| The deck: binders, D-rings, the stern chain, the quarter ladder, the ring buoy, the floods' breakers, **[BB] the outside ladder** | 01 | 09 | All on the page in Ch 1 s1 (World rule 14) |
-| The dark unit; "work it short" / "lock up" | 01 | 06, 09 | "Work it short" is against the certificate (DC) |
-| **[DC] Master and one deck** | 01 (Pruett) | 10 (Beth master, Kenny deck) | — |
-| The pouch; Dane watching | 01 | 07 | — |
-| The float lit | 01 | 06, 10 | — |
-| The boat | 01 | 03, 04, 06, 10 | One mention per scene at most; none in Ch 2 |
-| "Buried in it." | 01 | 06 | — |
-| "You'll be unpacking by two." | 01 | 01 | — |
-| **[Designer] Gloves off / bare hands** | 01 | 10 s5 | Once a chapter at most |
-| **[Designer] Ned looks back** | 01 s1, 02 s4, **04 s3** | 08 (he doesn't) | Varied in form |
-| **[Designer] The boots** | 01 | 04, 10 | Three in the book |
-| Monday | 02 | 06, 08, 10 | — |
-| The latch; the mudroom door knocking | 02 | 02 | — |
-| The forepeak; the inspection | 02 | 07 (the inspector on the shot-out boat), 10 | DC |
-| "Ten days." | 02 | 10 | — |
-| "Steel doesn't burn." | 02 | 08, 09 | — |
-| "Anyone with a skiff." / "Nobody's coming over that stern in this." | 02 | 09 | — |
-| Nine | 02 | 09 | — |
-| The flashlight | 02 | 03 | — |
-| "Me and God." | 02 | 03, 09 | — |
-| The truck with no lights | 02 | 05, 10 | Named differently each time |
-| **[Designer] Beth's voices** | 02 s5 | 09 s4 (she knows Ned's voice in a syllable) | Twice on the page |
-| **[Designer] The dollar bet** | 01–04 | 10 s5 (she offers; he loses) | Four in the book |
-| The screen | 03 | 04, 07, 08 | Pike's message open; broker's next in the inbox (DC) |
-| "Ned's color." | 03 | 07, 09 | — |
-| Ned's phone; the pickup keys on the hook | 03 | 09, 10 | **[BB, R4-2] two keys on the hook** |
-| Ashby's generator, Ned's every storm | 03 | 05 | — |
-| The cove over the sill | 03 | 05 | — |
-| LifeFlight | 03 | 07, 08 | — |
-| Russ: "Where you sleeping?" | 03 | 09 | — |
-| The dragging heel | 03 | 04, 09 | — |
-| **[BB] Tess writes on her hand** | 01 or 03 | 05, 06 (blue to the wrist) | — |
-| The search; Quist's call; Russ off the boat | 04 | 06, 07, 10 | — |
-| The impellers; back aboard at Sunday dusk | 04 | 05, 06, 10 | — |
-| The envelopes | 04 | 07, 09 | — |
-| The license | 04 | 10 | Covers the boat (DC option A) |
-| The gut | 04 | 05 | — |
-| "That's not a no." | 04 | 05 | — |
-| "Is this going in your log?" (unasked) | 04 | 07 | — |
-| Two pots; "since he brought you the diesel" | 05 | 06, 10 | — |
-| The red kit | 05 | 07 | — |
-| "I'll do what I can." | 05 | 08 | — |
-| **[BB, R4-3] "store vehicle," no name** | 05 | 08 s5 | Beth's concealment |
-| "Walked the bar." | 06 | 07, 08 | — |
-| The condoms | 06 | 10 | — |
-| The ring by the safe | 06 | 07 | — |
-| "We go down to look." | 06 | 07 | — |
-| The impeller box | 06 | 10 | Tess's sticker |
-| The tide question | 06 | 09 | — |
-| **[Designer] "Dane" isn't his name** | 06 or later, optional | 10 | One line |
-| "Not again today." | 07 | 08 | — |
-| **[BB, R4-6] The notebook in her coat** | 07 | 08 | Carried past the church |
-| The tracks off the cove road | 08 | 08 | — |
-| The ham | 08 | 10 | — |
-| "Not Tess. Not tonight." | 08 | 09 | — |
-| **[Designer] Dane cooks big** | 04 or 06 (a supper too big for two) | 08, 10 | Supports the ham |
-| **[Designer] Ned can't swim** | 01 or 02 (Beth knows) | — (background; may color Ch 9 s5) | Optional |
-| **[Designer] Russ's certificate in his wheelhouse** | — | Book 2 | Off page here |
+| Cole in the cab | 01 | 02 (clean truck), 12 (why), 16 (testimony) | — |
+| The kid's skiff, no lights | 01, 02 | 10 (sunk at the cove), 11 (the false alarm) | "No lights" is the skiff's alone |
+| Ned's "Not on this boat, you didn't" | 01 | 12 (he called Cole from Pruett) | Reads as fear for her until Ch 12 |
+| Ned afraid | 01 | 09, 11, 12 | — |
+| The dragging heel | 01 | 03 (print under the window), 04 (the step on the road), 05 (prints at the camp), 09 (the drag line in blood), 10 (the groove), 12 (running along the wall), 13 (tracks to her house) | The listener's marker |
+| The boots | 01 | 04 (the slip), 06 (wet laces), 17 ("the right boots") | — |
+| Dane's Saturday boat | 01 | 08, 11, 16 ("a worse boat"), 17 (that same boat) | — |
+| Gloves off / bare hands | 01, 02 | 04, 06, 13 (Russ's leg) | — |
+| The boy she taught to row | 01 | 02 (Cole's flowers), 09 (her fists on Ned's chest) | — |
+| "Ask me again in ten days" | 01 | 17 ("Your ten days were up on Monday, Marshal.") | — |
+| Ned can't swim; no life jacket | 02 | 09 (chest-deep), 14 (the life jacket) | — |
+| Ned looks back | 02 | 12 (the nod), 15 (cuffed hands; Beth doesn't lift hers) | Varied in form |
+| The float smashed; boats on the rocks | 02 | 10 ("one way off"), 12, 14 (bare stone) | — |
+| Two trucks on the car deck | 02 | 14 (the phone behind the bait truck's wheel) | — |
+| The steering broken | 02 | 10, 12 (the hatch, the rod), 13 (the rod on her knees), 14 (the jam), 15 (fear only; the lie) | — |
+| Dane's board across the back door | 02 | 13 (the raid) | — |
+| The prosecutor's Monday | 02 | 08 (the hearing at two), 14, 16 | — |
+| Talk against silence | 01, 03 | 04 ("Twice in one night"), 11 ("Talk to me"), 15 ("You stopped talking.") | — |
+| The cost of sleeping with the witness | 03 | 05 (the counter), 14 (on the record), 16 (taken off; the prosecutor), 17 (the letter in his file) | — |
+| Russ's porch phone | 03 | 12 | — |
+| The Dyer call | 03, 04, 05 | 11 (Ned made it) | — |
+| Tess's island radio | 03 | 09, 13 (every boat hears), 15 | — |
+| The trauma kit, no condoms | 04 | 05 (the counter), 07 (foil in her coat) | — |
+| Russ's "Late"; Tess's "Not now"; Russ's "Nobody" | 04, 05 | 12 | — |
+| The September photo | 05, 06 | 12 (Ned told Cole), 15 (Cole had the kid take it) | — |
+| The kid washes up | 05 | 13 (her mugs) | — |
+| "I don't bet on what I can see" | 06 | 17 (her first bet; she loses) | — |
+| Dane fell asleep on watch | 06 | 07 (the first thing he says) | — |
+| "Ask me in five days" | 08 | 14 (the fifth day; he doesn't ask), 14 (her yes in public), 16 ("Will you stay?") | — |
+| The captain's job in June | 08, 09 | 12, 13 (Mercer's "Come June"), 14 (first time alone at the wheel), 15 (her first landing at Pruett), 17 (the board, the letters) | — |
+| Dane cooks too much | 08 (the tin) | 14 (the town office ham), 17 (Thanksgiving) | — |
+| Ned's son | 09 | 11, 12 (Grant Street), 16 (the clinic), 17 (the letter) | — |
+| New Bedford | 09 | 12, 16, 17 | — |
+| The kid's rifle | 09 | 10 (taken), 15 (Dane fires it) | — |
+| The kid's phone; the second number | 10 | 11 (the bait), 12 (the lawyer matched) | — |
+| The leak's phone, on only to text | 11 | 11 (it buzzes in Ned's coat) | — |
+| "Could see his light from there" | 05 | 11 | — |
+| Cole's night-run phone | 11 | 12 | — |
+| The hold | 12 | 13 (refused twice), 14 (withdrawn), 16 (the door held open) | — |
+| "Don't hold the light" | 12 | 14 ("Tonight you hold the light") | — |
+| Her father's pencil map | 13 | 15 (Alton's way) | — |
+| "It comes in from offshore" / "They've got a boat" | 12, 13 | 13 (the big boat), 14, 15, 17 | — |
+| Mercer: gray beard, gold tooth, new orange float coat, "Captain" | 13 | 14 (no license), 15 (the voice; the face at the strike), 16 (the lawyer's channel), 17 (the gold tooth) | — |
+| Every boat hears the island radio | 13 | 15 | — |
+| The son was using | 12 | 16, 17 | — |
+| Her condition: "You ask me. Every time." | 14 | 14 (the public yes), 15 ("Say go," "Can I tell them," "Can I lean on you?"), 16, 17 | — |
+| The planted phone | 14 | 15 (into the evidence bag), 17 (somebody on Cutter) | Book 2 |
+| High water | 14 | 15 ("The tide had only just turned") | — |
+| Tess bid on Alton's boat **[Designer]** | — | Book 2 | Off page |
+| Russ's certificate on his boat **[Designer]** | — | Book 2 | Off page |
+
+**One card stays unpriced per act:** Act 1, who used the Dyer phone. Act 2, that the leak comes in person, out of kindness. Act 3, the steering lie and Alton's way, and that the kid turns.
+
+---
+
+## PLAIN LANGUAGE (binding; World rule 5 points here)
+
+The author reads and listens. He missed the drugs in v2 because the page called them "bricks wrapped tight in gray tape" in a paragraph of boat words. Every rule in this section exists so a listener half paying attention follows what happened.
+
+### The jargon budget
+- **At most two boat, legal or police terms in any 1,000 words,** counting each different term once per 1,000 words. Each term is explained in plain words the first time it appears in the book, inside the same sentence or the next one.
+- **Plain words that don't count:** ferry, boat, captain, deckhand, police, state police, trooper, marshal (after Ch 01), deputy, judge, jury, lawyer, prosecutor, gun, truck, ramp, pier, rope, chain, wheel, engine, deck, cabin, island, harbor, beach, rocks, wave, storm, arrest, hospital.
+- **Allowed with a plain gloss the first time:**
+
+| Term | Plain gloss (first use) | First use |
+|---|---|---|
+| wheelhouse | the little room up top where he steered | Ch 01 **[DC-ms §7]** |
+| car deck | the open deck where the trucks park | Ch 02 |
+| float | the floating dock below the stone pier where every boat but the ferry tied up | Ch 02 |
+| U.S. Marshal | the people who protect federal witnesses | Ch 01 (the trooper's line) |
+| grand jury | a room of ordinary people who decide whether there's enough for a trial | Ch 02 |
+| constable | the island's one part-time police officer | Ch 02 |
+| island radio, fire truck | "In a storm she runs the radio and the one fire truck." | Ch 03 |
+| net loft | where the men mended their nets in winter | Ch 04 |
+| Marine Patrol | the state's marine police | Ch 01 (the officer), Ch 09 (the gloss) |
+| ledges | the rocks just under the water at the harbor mouth | Ch 10 |
+| witness protection (the program) | a new name in a new state, and you never tell anyone from before where you are | Ch 12 |
+| the hold | a judge keeps you in Portland under guard until the trial, or until you sign | Ch 12 |
+| rudder | the steering blade under the boat | Ch 14 |
+| the lee (of the point) | out of the wind, behind the point | Ch 13 (see Still open) |
+| Mayday | the call you make when lives are in danger; used once, by the rules | Ch 15 **[DC-ms §8]** |
+| hearing (Monday at two) | a judge decides whether there's enough to keep Cole locked up | Ch 08 |
+| take up (a wooden boat) | the planks swell in the water until they stop leaking | Ch 17 (unglossed on the page; see Still open) |
+
+### Never on the page (swap list)
+*Count zero. Each row gives the plain word to use instead.*
+
+| Never | Use instead |
+|---|---|
+| reefer | the refrigerated truck; the cooling unit |
+| binders, D-ring, tie-downs | the chains |
+| transom | the back of the boat |
+| slip, brow, dolphin | the pier; the ramp |
+| gut, bar | (not in this book) |
+| channel numbers, radio procedure ("over," "copy that") | "on the radio"; plain speech. The one Mayday in Ch 15 is the exception |
+| tonnage, license classes, MMC | "her captain's license" |
+| tide heights, tide times as clock figures | "an hour after high water"; "the tide had only just turned" |
+| pilothouse, bridge, helm (as a room) | the wheelhouse; the cabin |
+| port, starboard, aft, forward, abaft | left, right, the back, the front, the nose, the side toward the pier |
+| bulkhead, companionway, forepeak, gunwale | the wall, the stairs, the front of the boat, the edge, the rail |
+| cleat, bollard, hawser, warp | the post, the rope |
+| lazarette, steering-gear room | the steering hatch |
+| storm moorings | "tie the ferry up for the storm" |
+| sternman, sterned | "worked the back of Cole's boat" |
+| fathom, knots (as speed) | feet; "slow," "a crawl," "twice as fast" |
+| make fast, the glass (barometer) | tie off; the weather |
+| gallery, catwalk **[DC]** | the walkway around the top |
+| Jayhawk, Air Station, cutter names, Sector **[DC]** | the Coast Guard; Cape Cod; the Coast Guard boat |
+| WITSEC, OEO, protectee, AUSA, subpoena, indictment (as a noun), detention hearing, preliminary hearing, probable cause, Giglio, material witness, AMA, Level I | witness protection; emergency protection; witness; the prosecutor; "indict" (verb, Ch 02); "a trial"; "the hearing Monday at two"; "the hold"; "against the doctor's advice"; "Maine Medical Center" |
+| perimeter, secure the scene, eyes on, asset | plain verbs: watch, check, keep away |
+
+### Say it twice
+- Every plot-critical fact is named in plain words, the viewpoint character reacts at its true size, and it is restated in the next scene in one line. The Ch 01 example: "Fentanyl. A whole crate of it." Beth's legs go far away.
+- The restatement is a line someone says with a reason, or a thought with a feeling in it, placed inside the action. World rule 7 bans the recap paragraph.
+- "Trust the reader" covers feelings and subtext only. What happened is always said.
 
 ---
 
 ## WORLD RULES (ceiling: 20; each prohibition paired with what to do instead)
 
-1. **PG-13 packaging, whatever is inside.** No heat words in title, subtitle, series name, keywords or categories (never steamy, spicy, explicit, erotic, sex, hot, 18+); no bare skin or bed on the cover; never the 18+ box. — *Instead:* title *Ten Days Out*; subtitle *A Cutter Island Romantic Suspense*; keywords romantic suspense, US Marshal romance, protection, Maine island, ferry, storm, small town suspense, series; cover of sea, ferry, weather, at most two clothed figures; a blurb that is romance-first and promises the happy ending outright; "open-door" may appear in the description, decided from the finished draft. Front-matter content note (use this text): *"A note before you begin: Ten Days Out is an open-door romantic suspense novella with a guaranteed happy ending. It includes on-page sex between consenting adults, drug trafficking (fentanyl), gunfire, a fire, near-drowning in cold water, the past death of a witness (off-page) and some strong language. Nobody you're asked to love dies."*
-2. **Swearing is rationed, never decoration, never on the air.** At most four strong swears per chapter in dialogue across all characters; mild words under eight; none in narration except one short line of Beth's direct thought per chapter; none on VHF; no slurs; no phonetic dialect, no "ayuh," "wicked" once in the book. — *Instead:* swear where load or fear earns it, and use it as characterization. Beth swears at weather, gear and danger, never at Dane in anger. **Dane swears twice in the book (Ch 7 s1, Ch 9 s4)**, and the rarity is the point. Ned: "damn," one "goddamn" at the bridge at most, never "fuck." Tess: cheerful mild ones ("hell's bells"). Russ: none on duty. Quist: one, in Ch 10, about the ledger. Anger otherwise shows as each lead's register shift (Beth quieter and exact; Dane polite and slow).
-3. **No sexual content outside the three scenes, and no lead who wants the other only in summary.** — *Instead:* longing on the page in every chapter from Ch 1 in a form a reader would call attraction (the jacket front, the blanket, a hand that stays, a look held, a thought about his mouth that isn't about the plot), and the three scenes at full length per HEAT RULES. Between scenes a fade is allowed ("Later she slept"); a cut to aftermath inside a scene is not.
-4. **No relayed phone calls as scenes, and no consequence reported instead of seen.** — *Instead:* every exchange on the page is in the room and short. Beth reads it herself (the screen, the notebook) or speaks herself (Ch 8 s3, Pike live in her ear). Dane's sat calls are seen, not heard: through glass, from the porch, from the ledge, and each is seen differently (the front yard in the dark, the porch where she watches, the ledge at 1:50 a.m.). Decisions made off the page arrive as a thing that happens (the float dark, "Sold. Sorry.", the boats at 8 a.m.).
-5. **Texture is seasoning.** One or two pieces of trade, tide, radio or procedure per scene, each because it reveals a person or moves the romance. Set pieces may run to six (Ch 1 s1, Ch 2 s3, Ch 9 s4). No inventories, no gear lists, no sightline-and-distance surveys. — *Instead:* pick the one detail that only this person would notice (her bare hand on a binder, the latch's sound), and give the rest of the scene to people talking.
-6. **No codes, numerals or clock-time runs on the page.** — *Instead:* write every figure and time in words a text-to-speech voice reads cleanly, and prefer tide and light ("a third ebbed," "at dusk," "a little after eleven") to the clock. In the sample (Ch 1–2) the only clock times are 8:40, 7:40, 1:15 and 11:40. The only exceptions are written objects Beth reads: the screen's two lines (Ch 3), Tess's "22:40" on her hand and in the log (Ch 3), and the notebook's four lines (Ch 7). Audit targets: codes under 2 per 1,000 words outside Ch 7 s3; numerals under 12 per 1,000; all-caps under 6.
-7. **No sentence states the theme, and no scene ends soft.** No maxims in narration ("a man who wants to talk doesn't try doors"; "locked rooms get burned"), and never on the page as narration: "the son who doesn't show up," "the competent person's mistake," "a man being paid." — *Instead:* end every scene on the type the beat sheet assigns (consequence, question, cut, reversal, open image); only Ch 10 s5 may be soft; let a person carry any truth in a line with a reason behind it ("He said they wanted to talk to you," "They burned Ashby," "Steel doesn't burn. Everything in it does.").
-8. **No recap at the top of a scene or chapter, and no re-staging what the reader saw.** — *Instead:* open in motion at the outline's "Opens with," inside someone's want. When one character tells another something the reader knows, give it a clause and stay on the listener's face.
-9. **POV discipline: Dane's head stays shut until Ch 9 s3.** — *Instead:* in Beth's POV, render Dane only through what she can see, hear and read, and make every unexplained thing (the yard calls, the stove, the screen, "Walked the bar") readable two ways. His Ch 9 s3 section settles nothing; his Ch 10 s5 section is the HEA.
-10. **The mystery is fair and stays open.** No fact the reveal needs that the page hasn't shown; nobody introduced late; Ned never narrated as guilty; Tess never shown plotting. — *Instead:* every clue in the outline's clue list appears in its chapter, readable both ways; Dane stays a live leak suspect through Ch 5 and a live betrayer through Ch 7; the stove and the calls stay unexplained until Ch 8; the seal misreading happens only in Beth's head (CASE FACTS).
-11. **Information travels only by the channels in CASE FACTS.** No one learns anything by coincidence, overhearing through walls, or a channel the page hasn't set up; Tess is never in earshot of Ned's leaks; Beth never sees her account. — *Instead:* for every attack, the beat sheet names who knew and how (the who-knew table), and the page shows at least one end of the channel (the phone on the charger, the back step, the propane cage).
-12. **The technology is fixed** (Phones, signal and radio, above). No working cell outside the store's fifty feet; no Iridium indoors; one message open on the Iridium screen at a time; no landlines after Day 2 morning; no DSC button in the plot. — *Instead:* let the limits make the scenes: every Dane call is outdoors where she can see him and not hear him; anything private is said in person; anything on the air is meant to be heard.
-13. **The tide and the map are fixed.** No shore trip between the fish house and town above half tide except Day 7's thigh-deep cost and Day 8's road; no bar crossing in the wrong depth. — *Instead:* the plot architect checks each trip against the Tides table and names the tide in the beat; the prose gives the water's depth on a body (knee, thigh, waist), once.
-14. **The ferry is fixed from Ch 1: her size, her certificate and her layout.** No more vehicles aboard than one tractor-trailer and four light trucks; no sailing without master and one deck; no "eighteen cars." — *Instead:* Ch 1 s1 puts on the page the binders, the D-rings, the stern chain, the quarter ladder, the ring buoy, the floods' breakers on the wheelhouse bulkhead and the outside ladder (Beth's eyes go past each as she works), because Ch 9 depends on all of them; the manning rule is one line Beth can cite.
-15. **Nobody leaves before Day 9, and no safer option goes unanswered.** — *Instead:* say each closure once, in a line, in its chapter: the forepeak and the inspection ("not carrying anybody"; the inspector on the Day 7 boat); private boats (Dane's refusal; the seas); LifeFlight (the pilot's call for Mrs. Dyer, Day 2); the helicopter refused with a reason (Day 6); "Not again today" and first light Day 9 (Day 7); no medevac for a graze; the gale (Day 8); Quist's "don't touch the boat" and the store; Russ kept off.
-16. **Beth's mistakes are about people, never about water, weather or the boat; she is never armed.** — *Instead:* every danger call she makes is the smart one with what she knows; her two condemnable choices (the tide question; naming Tess) follow from her blind spot and each costs something on the page; she wins the dark deck with the boat (socks, the transom, the buoy) and throws Doucette the line.
-17. **Dane's restraint reads as care, never coldness or menace.** He never says "trust me," "you're safe," "I've got you"; never growls, claims or owns; never uses the notebook against her; never calls her a "material witness." — *Instead:* every refusal or withholding shows its cost through a tell Beth can see (a hand that stops, a reason given, a practical kindness right after); he talks to her in the dark; he holds the position she gives him.
-18. **Running bits retire.** No signature line more than twice a chapter; nothing over its MOTIF LIST cap; "palm flat" once in the book (Ch 3); hands rested in Ch 4; "thirty-one" rests after Ch 3; the boat once per scene at most and never in Ch 2 or Ch 3 s4; the store's truck named differently each time; cold rendered differently each time. — *Instead:* when a bit is spent, change its form (Ned's look-back as a hand, then a nod, then the flashlight lifted) or let a new detail carry the beat.
-19. **Side characters don't speechify or swap voices.** One short speech each per chapter at most (Ned's Ch 9 confession: nine lines, "They said" / "He said"). — *Instead:* give each the line only they would say (their profiles), and run the strip-the-names test on every chapter, with Ned/Beth, Russ/Ned and Pike/Quist as the named risks.
-20. **Every chapter carries a turn, a longing, a laugh, a cost, and a temperature that differs from the last (positive).** — *Instead of one register:* sentence length follows temperature as in THE CORE; long sentences are required at the high points, in quiet interior and in the heat scenes; the laugh is one line a specific person says at a specific target; no two consecutive chapters share a register (the outline's table).
+1. **PG-13 packaging, whatever is inside.** No heat words in the title, subtitle, series name, keywords or categories (never steamy, spicy, explicit, erotic, sex, hot, 18+); no bare skin or bed on the cover; never the 18+ box on KDP. — *Instead:* title *Ten Days Out*; subtitle *A Cutter Island Romantic Suspense*; pen name Maren Holt (placeholder; see THE CORE); keywords like romantic suspense, US Marshal romance, Maine island, ferry, storm, small town suspense, series; a cover of sea, ferry, night and weather with at most two clothed figures; a blurb that is romance-first and promises the happy ending outright; the heat label "steamy, open-door" (never "spicy") in the description. Front-matter content note (use this text): *"A note before you begin: Ten Days Out is an open-door romantic suspense novella with a guaranteed happy ending. It includes on-page sex between consenting adults, violence, and references to drug trafficking."*
+2. **Romance first, and said in words: no chapter in which the leads only do business, and small gestures never carry the attraction alone.** — *Instead:* every chapter moves Beth and Dane on the page (flirting, a fight that tips into flirting, wanting said plainly, a touch, a kiss, a choice about each other), and the viewpoint character thinks plainly about wanting the other, in the head ("She wanted him") and out loud ("I want you"), so a half-listening reader can't miss it; a jacket, a look or a hand that stays may add to it. The flirting is specific to these two and this situation, and each time it risks or costs something. **There is no cap on longing lines.** *(v4.1: merges v4 rules 2 and 3.)*
+3. **Beth's grief for her father lives in objects and places outside love scenes. Never his clothes on her, and never her father, Ned or any family reminder, inside a kiss or love scene or the lines leading into one.** — *Instead:* give the grief to his house and his kitchen table (Ch 01–02), his boards and his hammer on the broken back door (Ch 02, Ch 13), his fish shack and his oar (Ch 01), the loft where he mended his traps and the stuck door he lifted on its hinges (Ch 04), his pencil line on the pantry door (Ch 13, Ch 15), and the captain's job she wants because the bank took his boat (Ch 08–09, Ch 14, Ch 17). One or two per act, each in a scene that is about her, never about Dane's body or hers. *(The author's rule, Nov 2.)*
+4. **No head-hopping, and no chapter that hides whose head we're in.** — *Instead:* dual POV as in THE CORE; every chapter and every switch names the viewpoint character in its first sentence; the reader hears him want her too.
+5. **Plain language.** No more than two boat, legal or police terms in any 1,000 words; nothing from the never list. — *Instead:* follow the PLAIN LANGUAGE section: plain words, each budget term glossed the first time. Beth's skill shows in what her hands do (the chain, the generator, the wrench on the pin, the wheel in the dark), and her vocabulary stays plain. Every boat is "it."
+6. **No plot fact left for the reader to infer.** — *Instead:* say it in plain words, let the viewpoint character react at its true size, and restate it in the next scene (PLAIN LANGUAGE, Say it twice).
+7. **The story moves. No scene that recaps, plans logistics or reports offstage news; never two talk-only scenes in a row; no summary at the top of a scene or chapter.** — *Instead:* every scene has an event on the page (an attack, an escape, a discovery, a kiss, a fight, a choice that can't be undone); open in motion; when a fact must travel, give it one line inside the action. When in doubt, cut and start the next scene later.
+8. **Danger acts on the page. Nobody watches from a distance for a chapter, and nobody goes into the sea after Ch 09.** — *Instead:* something bad happens at least every second chapter, as the book has it: the break-in (01), the ferry loose (02), shots through the window (03), shots on the rocks (04), the warm camp (05), the fire (06), the sea (07), the walkway slip (08), the ambush (09), the cove fight (10), the wait and the knife (11), the wall (12), the raid (13), the jammed wheel (14), the chase inside the ledges (15), the lawyer in the lobby (16). Before danger lands, give a beat to feel the fear coming.
+9. **No misunderstanding drives anything between the leads.** Nothing between Beth and Dane is overheard, withheld, half heard or guessed wrong; neither "decides not to tell" to protect the other. — *Instead:* every disagreement is argued face to face in the scene where it starts, and both are partly right. He reports to his boss in front of her, with the screen turned so she can read it; when he asks for the hold, he tells her himself before the boss calls back. She tells her people in front of him.
+10. **The mystery is about people. No clue built on keys, bags, seals, tags, tides, logs or schedules, and no new name the reader must track beyond the six (Beth, Dane, Ned, Tess, Russ, Cole) and, from Ch 13, Hal Mercer.** — *Instead:* the one question is "who knew where she was?" The leak table in CASE FACTS decides each attack. Unnamed people are tracked by one marker each (the heel, the good coat, the voice on speaker, the one light). Alton and Kyle Pelletier are named late and carry no tracking load.
+11. **Information and danger travel only by the channels in CASE FACTS, and no safer option goes unanswered.** No overhearing, no coincidence the page hasn't set up, nothing private on the island radio. — *Instead:* for every attack the page names who knew and how, and shows one end of the channel. Each safer option is closed in one plain line where it arises: leave at first light (Ch 02), a lobster boat (Ch 02), a helicopter (Ch 09, 13, 14), the Coast Guard (Ch 14), a second Marine Patrol boat (Ch 09), the kid's skiff (Ch 10), ringing the leak's phone (Ch 11), a door-to-door search, boarding the big boat or arresting Mercer (Ch 13–14), waiting for Tuesday (Ch 14).
+12. **Ned is never narrated as guilty before Ch 11, and Tess and Russ are never shown plotting.** — *Instead:* every act of Ned's reads first as an old man's fear or love (the float, "Not on this boat, you didn't," the sea), and the visible lies belong to Tess and Russ and are true and innocent of the leak. In Dane's POV chapters before Ch 11, his suspicion stays general (his own side, her three as a group).
+13. **Swearing is rationed and never decoration.** At most four strong swears per chapter in dialogue across all characters; none in narration except one short line of direct thought per chapter; none on the island radio; no slurs; no phonetic dialect, no "ayuh"; "wicked" once in the book at most, Beth's. — *Instead:* swear where fear or pain earns it, as character. Beth swears at weather, machines and danger ("Damn," Ch 04; "Shit," at Russ's wound, Ch 13; "Come on, damn you," at the wheel, Ch 14) and keeps it off Dane even when she's angry. Dane swears twice in the whole book, and the rarity is the point: Ch 09 when the officer is hit ("Shit") and Ch 10 when the pistol comes up at Beth. Ned: none. Tess: cheerful mild ones ("you old fool"). Russ: "Damn it" once, shot.
+14. **No sex outside the four heat scenes, and no heat scene cut to aftermath.** — *Instead:* kissing, touching and wanting anywhere the scene wants them; the four scenes at full length per HEAT RULES; a fade between scenes is fine ("Later she slept").
+15. **No codes, numerals or runs of clock times on the page.** — *Instead:* every figure and time in words a text-to-speech voice reads cleanly ("half past ten," "twenty to seven"). The only exceptions are the short texts on the phones, in italics, lowercase as typed (*north beach 3.*).
+16. **No sentence states the theme, and no chapter ends soft.** — *Instead:* every chapter ends on a question or an act that the next chapter opens on; the answer's cost is told in one line before the answer comes. Truths are carried by a person's line with a reason behind it. Only Ch 17 may end at rest.
+17. **Beth's mistakes are about people. None is about boats, weather or machines, and she never carries a gun.** — *Instead:* every danger call she makes is the smart one with what she knows (the shore at night, the pantry window, the wave, taking the ferry off the pier, the gap); her two condemnable choices (the tower calls, the bait) follow from loving her people, and each costs something on the page, with her reasons said aloud to Dane's face. She wins the dark sea with the boat: lights off out of the harbor, the steering lie, Alton's way inside the ledges, the landing at Pruett.
+18. **Dane's protection reads as care.** He never says "trust me," "you're safe" or "I've got you"; never growls, claims, owns or orders her body; never calls her a "material witness." — *Instead:* he talks to her in the dark, says checkable things ("I'm between you and the window," "I'm right here"), names his reasons to her face, and from Ch 14 on asks before he acts, every time, even when it costs seconds ("Cut it?" "Say go." "Can I tell them about the steering?" "Can I lean on you?").
+19. **Running jokes retire, and side characters don't speechify or swap voices.** Nothing goes over its MOTIF LIST cap; no side character gets more than one short speech a chapter (Ned's answers in Ch 11–12 and the kid's statement in Ch 15 are the exceptions). — *Instead:* when a joke is spent, change its form or let a new detail carry the beat; give each side character the line only they would say, and run the strip-the-names test on every chapter (Beth/Dane, Ned/Beth, Tess/Russ, Russ/Mercer are the named risks). The caps never apply to attraction.
+20. **Every chapter carries a turn, a moment of wanting, a laugh, a cost, and a temperature that differs from the last.** — *Instead of one register:* long sentences are required at the high points, in interior and in the heat scenes; the laugh is one line a specific person says at a specific target; the style samples cover both temperatures.
 
 ---
 
-## MOTIF LIST (the audit tool counts against this; default cap 3 book-wide)
+## MOTIF LIST (the audit tool counts against this; caps are for repeated jokes and running bits only)
 
-*Patterns are case-insensitive regexes with no pipe characters (the audit tool splits table cells on the pipe); alternatives are separate rows. `.` stands in for an apostrophe so straight and curly quotes both match. Caps are book-wide. Write numbers in words so the patterns catch them.*
+*No pattern here may count attraction, wanting, kissing, touching or any word for desire. There is no cap on longing (World rule 2). Patterns are case-insensitive regexes with no pipe characters (the audit tool splits table cells on the pipe); alternatives are separate rows. `.` stands in for an apostrophe so straight and curly quotes both match. Caps are book-wide. Write numbers in words so the patterns catch them.*
 
+### Jokes
 | Motif | Pattern (regex) | Cap |
 |---|---|---|
-| Palm flat (Ch 3, the log, only) | `\bpalms? flat\b` | 1 |
-| Palm laid flat, any order | `\bpalm\b[^.]{0,20}\bflat\b` | 1 |
-| Hand flat on (watch v1's tic) | `\bhand flat\b` | 2 |
-| Thirty-one, every use (rests after Ch 3) | `\bthirty-one\b` | 3 |
-| Thirty-one thousand | `\bthirty-one thousand\b` | 1 |
-| The store's truck (name it differently each time) | `\bstore.s truck\b` | 1 |
-| Store pickup | `\bstore.s pickup\b` | 1 |
-| Store pickup, no possessive | `\bstore pickup\b` | 1 |
-| Tess's truck | `\bTess.s truck\b` | 1 |
-| Store vehicle | `\bstore vehicle\b` | 2 |
-| Plow frame | `\bplow frame\b` | 2 |
-| Gloves off | `\bgloves? off\b` | 5 |
-| Bare-handed | `\bbare[- ]?hand\w*` | 5 |
-| Her bare hands | `\bher bare hands?\b` | 3 |
-| "Bethie" (Ned only) | `\bBethie\b` | 6 |
-| "Water side" | `\bwater side\b` | 2 |
-| "Me and God" | `\bme and God\b` | 3 |
-| "Ned's color" | `\bNed.s colou?r\b` | 2 |
-| Red seal | `\bred seal\b` | 2 |
-| Seal noted | `\bseal noted\b` | 2 |
-| Ned looks back (plants and the payoff) | `\blook\w* back\b` | 6 |
-| Lifts a hand | `\blift\w* a hand\b` | 3 |
-| Ned's hearing aid | `\bhearing aid\b` | 3 |
-| Ned's rag on the windows | `\brag\b` | 3 |
-| "Ask me sober" | `\bask me sober\b` | 2 |
-| Tess's hand, the ballpoint | `\bballpoint\b` | 3 |
-| Back of her hand | `\bback of her (left )?hand\b` | 3 |
-| Blue to the wrist | `\bblue to the wrist\b` | 1 |
-| Twenty-two forty | `\btwenty-two forty\b` | 3 |
-| "Who knew you were here" | `\bwho knew you were here\b` | 1 |
-| "Dollar says" | `\bdollar says\b` | 4 |
-| "I don't bet" | `\bI don.t bet\b` | 2 |
-| Dane's predictions, "There it is" | `\bthere it is\b` | 3 |
-| Exact change | `\bexact change\b` | 3 |
-| "Here's how this goes" | `\bhere.s how this goes\b` | 3 |
-| "Talk to me" | `\btalk to me\b` | 4 |
-| "For the record" (Dane only) | `\bfor the record\b` | 3 |
-| "Ms. Calloway" | `\bMs\.? Calloway\b` | 8 |
-| "Your marshal" | `\byour marshal\b` | 4 |
-| "Okay" (Dane's pivot; Beth never) | `\bokay\b` | 30 |
-| Back to the wall | `\bback to the wall\b` | 2 |
-| Back to a wall | `\bback to a wall\b` | 2 |
-| Different ocean | `\bdifferent ocean\b` | 1 |
-| Narrow definition of waterproof | `\bdefinition of waterproof\b` | 1 |
-| The right boots | `\bright boots\b` | 1 |
-| A hundred and ninety | `\bhundred and ninety\b` | 2 |
-| Fudge | `\bfudge\b` | 2 |
-| "From away" | `\bfrom away\b` | 8 |
-| "The glass" (barometer) | `\bthe glass\b` | 6 |
-| "Make fast" | `\bmake fast\b` | 3 |
-| Dooryard | `\bdooryard\b` | 4 |
-| Wicked | `\bwicked\b` | 1 |
-| Ayuh | `\bayuh\b` | 0 |
-| "Material witness" (never) | `\bmaterial witness\b` | 0 |
-| "First District" (never) | `\bFirst District\b` | 0 |
-| "Undersized" (never in Ned's or Beth's mouth) | `\bundersized\b` | 0 |
-| Holland (retired make) | `\bHolland\b` | 0 |
-| Webbers Cove | `\bWebbers Cove\b` | 4 |
-| Master and one deck | `\bmaster and one\b` | 2 |
-| Sector (Ned's word) | `\bSector\b` | 3 |
-| The inspector | `\binspector\b` | 5 |
-| "Steel doesn't burn" | `\bsteel doesn.t burn\b` | 3 |
-| "Anyone with a skiff" | `\banyone with a skiff\b` | 2 |
-| "Over that stern" | `\bover that stern\b` | 2 |
-| "Ten days" | `\bten days\b` | 4 |
-| "Last sitting" | `\blast sitting\b` | 2 |
-| Latch, any form | `\blatch\w*` | 10 |
-| Lift and shove | `\blift and shove\b` | 1 |
-| The chimney | `\bchimney\b` | 7 |
-| "Walked the bar" | `\bwalked the bar\b` | 3 |
-| "Do not disclose" | `\bdo not disclose\b` | 3 |
-| "No indication" | `\bno indication\b` | 3 |
-| The screen | `\bthe screen\b` | 6 |
-| "Is this going in your log" | `\bgoing in your log\b` | 1 |
-| "We go down to look" | `\bwe go down to look\b` | 2 |
-| "Not again today" | `\bnot again today\b` | 2 |
-| "They burned Ashby" | `\bthey burned Ashby\b` | 2 |
-| "Not Tess. Not tonight." | `\bnot Tess\. Not tonight\b` | 2 |
-| "This isn't water" | `\bthis isn.t water\b` | 1 |
-| The ham | `\bham\b` | 5 |
-| Eleven pounds | `\beleven pounds\b` | 2 |
+| "Dollar says" (Dane's bet; Ch 06, Ch 17 on the page) | `\bdollar says\b` | 4 |
+| "I don't bet" (Beth's answer; Ch 06 on the page) | `\bI don.t bet\b` | 2 |
+| "Different ocean" (Ch 01) | `\bdifferent ocean\b` | 1 |
+| "The right boots" (Ch 17) | `\bright boots\b` | 1 |
+| Fudge (the boot store) | `\bfudge\b` | 2 |
+| "The government" as a person (Ch 01's exchange is one use with three hits) | `\bthe government\b` | 6 |
+| "Keeping count" | `\bkeeping count\b` | 3 |
+| "Forty-one" | `\bforty-one\b` | 3 |
+| "Ice cube with opinions" | `\bice cube\b` | 1 |
+| "I jumped" | `\bI jumped\b` | 2 |
+| "Fell toward the boat" | `\bfell toward\b` | 1 |
 | "Disappointing kit" | `\bdisappointing kit\b` | 2 |
-| "Good till" (the condoms) | `\bgood till\b` | 2 |
-| Receipt | `\breceipt\b` | 2 |
-| "I know what you are" | `\bI know what you are\b` | 1 |
-| "Choosing anyway" | `\bchoosing anyway\b` | 1 |
-| "I report this" | `\bI report this\b` | 2 |
-| Giglio | `\bGiglio\b` | 2 |
-| Marisol | `\bMarisol\b` | 4 |
-| "Called off of" | `\bcalled off of\b` | 2 |
-| "There goes my boat" | `\bthere goes my boat\b` | 1 |
-| "Sold. Sorry." | `\bsold\. sorry\b` | 1 |
-| Shut his eyes | `\bshut his eyes\b` | 2 |
-| Fist in his belt | `\bfist in his belt\b` | 1 |
-| Fist near belt, any order | `\bfist\b[^.]{0,20}\bbelt\b` | 2 |
-| Fist in his collar | `\bfist in his collar\b` | 1 |
-| Jacket front | `\bjacket front\b` | 2 |
-| Knee-deep | `\bknee-deep\b` | 4 |
-| Thigh-deep | `\bthigh-deep\b` | 2 |
-| Waist-deep | `\bwaist-deep\b` | 2 |
-| The gut | `\bthe gut\b` | 6 |
-| A stride inside | `\bstride inside\b` | 2 |
-| Socks on steel | `\bsocks?\b` | 4 |
-| Ring buoy | `\bring buoy\b` | 4 |
-| First match | `\bfirst match\b` | 2 |
-| Pine tar | `\bpine tar\b` | 2 |
-| Handwriting (incl. the Ch 7 title) | `\bhandwriting\b` | 5 |
-| Potato | `\bpotato\w*` | 2 |
-| "Chimney smoke's people" | `\bsmoke.s people\b` | 1 |
-| "That narrows it" | `\bthat narrows it\b` | 1 |
-| "Not a complicated man" | `\bnot a complicated man\b` | 1 |
-| "Just the once" | `\bjust the once\b` | 1 |
-| "That's the bridge" | `\bthat.s the bridge\b` | 1 |
-| "Like your dad" | `\blike your dad\b` | 1 |
-| No lights (the truck) | `\bno lights\b` | 3 |
-| Two pots | `\btwo pots\b` | 2 |
-| Since he brought you the diesel | `\bbrought you the diesel\b` | 1 |
-| Impeller | `\bimpellers?\b` | 6 |
-| Town ring | `\btown ring\b` | 4 |
-| Propane cage | `\bpropane cage\b` | 3 |
-| Timer | `\btimer\b` | 5 |
-| Golds | `\bGolds\b` | 2 |
-| "Heart of the island" | `\bheart of the island\b` | 1 |
-| "Hard winter" | `\bhard winter\b` | 1 |
-| "Agent Quist" | `\bAgent Quist\b` | 3 |
-| Bucket | `\bbucket\b` | 3 |
-| "It's a Tuesday" | `\bit.s a Tuesday\b` | 1 |
-| "Traps out by Tuesday" | `\btraps out by Tuesday\b` | 1 |
-| "Ninety seconds" | `\bninety seconds\b` | 1 |
-| "Not yet I can't afford" | `\bnot yet I can.t afford\b` | 1 |
-| "Long enough to be useful" | `\blong enough to be useful\b` | 1 |
-| LifeFlight | `\bLifeFlight\b` | 3 |
-| The ballfield | `\bballfield\b` | 3 |
-| Deck lights | `\bdeck lights\b` | 3 |
-| Sleet | `\bsleet\w*` | 12 |
-| Woodsmoke | `\bwoodsmoke\b` | 3 |
-| Thrum | `\bthrum\w*` | 2 |
-| Her Tess voice (Beth's mimicry) | `\bher Tess voice\b` | 1 |
-| Her Ned voice | `\bher Ned voice\b` | 1 |
-| Her Russ voice | `\bher Russ voice\b` | 1 |
-| Rockweed | `\brockweed\b` | 3 |
-| Breath on (v1 tic) | `\bbreath on\b` | 2 |
-| Stubble | `\bstubble\b` | 3 |
-| Callus | `\bcallus\w*` | 3 |
+| "Good till next August" | `\bgood till\b` | 2 |
+| "Four seventy-nine" | `\bfour seventy-nine\b` | 1 |
+| Receipt | `\breceipt\b` | 1 |
+| "Load-bearing" | `\bload-bearing\b` | 1 |
+| "This is medical" | `\bthis is medical\b` | 1 |
+| "Best medical" | `\bbest medical\b` | 1 |
+| The ham (tin, town office, Thanksgiving) | `\bham\b` | 9 |
+| "Ask me in five days" | `\bask me in five days\b` | 1 |
+| "Ask me again in ten days" (Ch 01) | `\bask me again in ten days\b` | 1 |
+| "Who'd I tell" (Russ) | `\bwho.d I tell\b` | 2 |
+| "Ask for ID" (Tess) | `\bask for ID\b` | 1 |
+| "Hold the light" (Ch 12, Ch 14) | `\bhold the light\b` | 3 |
+| "Good shirt" (Ch 14) | `\bgood shirt\b` | 3 |
+| "Marshal price" (Ch 17) | `\bmarshal price\b` | 3 |
+| "Till then you bail" (Ch 17) | `\btill then you bail\b` | 1 |
+
+### Running bits (tic guards; none is about attraction)
+| Motif | Pattern (regex) | Cap |
+|---|---|---|
+| "Here's how this goes" (Dane) | `\bhere.s how this goes\b` | 3 |
+| "Talk to me" (Beth's one ask, Ch 11) | `\btalk to me\b` | 3 |
+| "Ms. Calloway" (Dane, angry) | `\bMs\.? Calloway\b` | 8 |
+| "Okay" (once in the book, Ch 01; never Dane's habit, never Beth's pivot) | `\bokay\b` | 1 |
+| "I'm asking" (Ch 14, Ch 16) | `\bI.m asking\b` | 3 |
+| "Bethie" (Ned only) | `\bBethie\b` | 10 |
+| "Your marshal" (Ned, Tess) | `\byour marshal\b` | 3 |
+| Ned looks back | `\blook\w* back\b` | 8 |
+| Gloves off | `\bgloves? off\b` | 5 |
+| Bare-handed | `\bbare[- ]?hand\w*` | 6 |
+| The boy she taught to row | `\btaught to row\b` | 5 |
+| Split lip (the kid) | `\bsplit lip\b` | 4 |
+| Good coat (the lawyer) | `\bgood coat\b` | 5 |
+| Gold tooth (Mercer) | `\bgold tooth\b` | 4 |
+| Reading glasses | `\breading glasses\b` | 3 |
+| "Somebody told him" | `\bsomebody told\b` | 3 |
+| "You left the wheel" (Ch 15 payoff) | `\byou left the wheel\b` | 1 |
+| "You stopped talking" (Ch 15 payoff) | `\byou stopped talking\b` | 1 |
+| "Ten days" (title phrase) | `\bten days\b` | 6 |
+| "Her eyes are the case" | `\beyes are the case\b` | 3 |
+| "Good blanket" | `\bgood blanket\b` | 2 |
+| "Cancel it" (Ch 12–14) | `\bcancel it\b` | 5 |
+| "Emergency protection" | `\bemergency protection\b` | 2 |
+
+*The kid's dragging heel is the listener's marker and stays uncapped on purpose. Vary the words (drags, dragging, a line through the slush, the bad foot plowing a line). Mercer's "Captain" is a voice tag, four on the page (two in Ch 13, two in Ch 15); the pattern can't be capped without catching "captain's license," so the continuity checker counts it by hand.*
 
 ---
 
 ## HEAT RULES (romance, open door, 3–4)
 
-- **Level:** open door, 3–4 on the 5-point scale, from the brief. Sex on the page in close POV (Beth's), sensory, frank. Not 5: no extended explicit sequences, no kink, no degradation, no power-exchange play, no dirty-talk scripts.
-- **Three scenes, rising (outline heat map), no more, and none in the rupture chapter:**
-  1. **Ch 5 s3, Day 4 night, the fish house, heat 3, floor 900 words.** Hands and mouths; no condoms, and they say so ("It's a very disappointing kit"). He names the breach ("When this is over, I report this."); she answers ("I know what you are. I'm choosing anyway."). *Changes:* she chooses him while he's still a suspect, and afterward (s4) gives him the two names she has protected, and the truck.
-  2. **Ch 6 s4, Day 6 night, the fish house, heat 4, floor 900.** The condoms from Tess's counter. Slower. "Why a boat?" / "Because of a girl named Marisol." as an exchange; she answers with the license. *Changes:* trust at its peak, carrying his lie (the notebook, the bar) and hers (the tide question she asked that afternoon).
-  3. **Ch 10 s2, Day 9 night, the cottage, heat 4, floor 850.** Chosen with everything known; the declaration in words, in each voice, never a recap. *Changes:* from terms to words.
-- **Full length means full length.** The intimate action itself (from the first touch that is plainly sexual to the first line after climax) gets **at least 450 words in scene 1 and 500 in scenes 2 and 3**, played in real time. No cut to aftermath, no summary paragraph standing in for the act, no fade inside the floor. The rest of the floor is approach and after, and the after returns to the suspense or the relationship question within 150 words.
-- **Close POV:** Beth's head and body throughout; Ch 10 s2 is Beth's too. Never Dane's POV during sex.
-- **Each lead's register, inside the scene:** Beth asks questions and gives orders, and her interior runs to the long *and*-chain; Dane goes quiet (her name, a question, few words). Humor survives inside (the kit, a boot, a laugh he kisses through).
-- **Consent on the page, in their voices, without a lecture.** Each scene has at least one explicit verbal yes and one check (a question, a pause, a hand that waits). No consent speeches, no therapy language. Either can stop.
-- **The plot touches each scene at least twice** (the report he promises, the names, the notebook in his coat, the tide, Monday, the arm). No scene lifts out as standalone erotica.
-- **Protection** handled in one line each time from scene 2 on, never skipped.
-- **Vocabulary allowed (frank, sparing, exact):** cock, clit, breasts, nipples, thighs, mouth, tongue, wet, hard, inside her, come. One frank noun lands harder than three. Skin, cold, heat (as temperature), wet wool, stubble, calluses on both their hands, the stove, steel, breath, sound.
+- **Level:** open door, 3–4 on the 5-point scale, from the brief. Sex on the page in close POV, sensory and frank. Not 5: no extended explicit sequences, no kink, no degradation, no power-exchange play, no dirty-talk scripts.
+- **Four scenes, rising, none in the rupture chapter (Ch 12), none interrupted by a phone or a knock.** The first kiss comes before them in Ch 03 (Dane's POV), with real tension and an almost-kiss feeling before it.
+
+| # | Ch | Position (approx.) | POV | Level | Floor | Grows out of | What it changes |
+|---|---|---|---|---|---|---|---|
+| 1 | 04, the co-op net loft, Friday night | ~20–25% | Beth | 3: hands and mouths, no intercourse | 800 | Fear running under fire, then a fight that both half win ("You said sooner." / "Let him say it.") | They cross the line with the cost already argued; she sees what he's like when he stops talking |
+| 2 | 07 s3, the lighthouse keeper's house, Sunday night | ~37–40% | Dane | 4: full | 800 | Fear after the sea; her choice to ask out loud | She asks for something for the first time in her life, and he hears it |
+| 3 | 10 s3, the dentist's house above the east cove, Tuesday night | ~53–56% | Beth | 4: slow and careful | 800 | The pistol at her on the cove rocks; she kisses him at the door; he tends her knee | She turns them so he can face the door; "Don't say it again. Not till I can answer you." |
+| 4 | 16 s4, a Portland hotel, Monday afternoon | ~92–95% | Dane | 4 | 800 | The declaration on the bench, with everything known | Chosen together after the testimony, in daylight, on her terms, with his stitches and her taped palms |
+
+- **Scene specifics (binding, as on the page):**
+  1. **Ch 04:** she cleans and tapes his cut arm with her bare hands first. He has no condoms, only the trauma kit: "It's a very disappointing kit." She laughs out loud; "That's one laugh." Hands and mouths only, and both of them come. Her cold bare feet on his shins ("Cruel."). His thumb on her palm scar ("Rope."). Beth's POV, plain wanting.
+  2. **Ch 07:** s2 is medical and stays medical: skin to skin under every blanket, his voice gone, "This is medical." / "Best medical I've ever had." The heat scene is s3, hours later, after he wakes with dry feet and his voice back. It starts with her separate, spoken choice: "I want you. I'm saying it out loud so you can't pretend I didn't." The condom box from Tess's counter is soup; the foil is fine. In the dark he learns her by her words. Her skinned palms: she touches him with the backs of her fingers. His knee cracks ("You creak like an old boat."). Dane's POV: his interior hears that it's the first time she has asked anyone for anything.
+  3. **Ch 10:** she kisses him at the door before the stove is lit; "Door first." He clears the house, lights the stove and closes her knee with strips (first aid is never the way into bed; the love scene starts later, when she says "Both doors are done"). He won't lie with his back to the door; she turns them so he faces it: "Then look at it." Her bad leg on top, his hand over the dressing, her fingers finding the lump in his hair. He starts to say he loves her; "Don't say it again. Not till I can answer you." He doesn't. Nothing of her father, Ned or her people in the scene or the lines into it; her people return only in the next scene, with the phone.
+  4. **Ch 16:** a bullet line along his left ribs, stitched, and orders not to lift anything. In plain daylight: "I've had you by a stove and in the dark. I want to see you." She lists what she wants and he does it in order. She's on top; he holds her hips and sets the pace ("Slow. You asked." / "I didn't mean this slow."). The stitches pull; "Stop?" / "No. Please." He asks first, "Will you come to bed with me?", and the asking is part of the heat. He says "I love you," and she says "Again." Only the two of them are in it.
+- **Full length means full length.** In each scene the intimate action itself (from the first touch that is plainly sexual to the first line after climax) gets **at least 500 of the 800 words**, played in real time. The after returns to the suspense or the relationship within 150 words. No cut to aftermath, no summary paragraph standing in for the act, no fade inside the floor.
+- **Each lead's register, inside the scene:** Beth says what she wants ("Come here." "Don't stop." "There."), and her interior runs to the long *and*-chain she notices she isn't steering. Dane goes quiet out loud (her name, "Can I?", a few words); in his POV scenes his interior keeps its long sentences and, for once, stops keeping count. Humor survives inside each scene (the kit, his knee, the dentist's good quilt, her fight with her own buttons).
+- **Consent on the page, in their voices, without a lecture.** Each scene has at least one explicit verbal yes and one check (a question, a pause, a hand that waits). No consent speeches, no therapy language. Either can stop. From Ch 14 on, her condition ("You ask me. Every time.") makes his asking part of who they are.
+- **Protection:** said in one line each time from scene 2 on, never skipped (foil from her coat; foil from his coat pocket; the drugstore box). Scene 1 has no intercourse because there are no condoms, and the page says so.
+- **The plot touches each scene at least twice** (the jury, the man with the gun, the door, the cut on his arm, the pistol, his stitches, the testimony she just gave). No scene lifts out as standalone erotica.
+- **No parent, no father, no Ned, nothing of her father's inside a love scene or the lines leading into one** (World rule 3).
+- **Bodies are specific and age-true:** her palm scar, her stiff back, his bad knee, his stubble, cold feet, her height level with his, the cut, the knee, the lump, the stitches, the tape. Each scene uses different details from the last, and each is built differently: the first fast and funny, the second slow after the cold, the third careful with the door watched, the fourth in daylight with her in charge.
+- **Vocabulary allowed (frank, sparing, exact):** cock, clit, breasts, nipples, thighs, mouth, tongue, wet, hard, inside her, come. One frank noun lands harder than three. Also: skin, cold, heat (as temperature), stubble, calluses, breath, sound, weight.
 - **Banned euphemisms:** manhood, member, shaft (standalone), length, girth, rod, staff, core, center, sex (as a noun for anatomy), folds, petals, mound, nub, pearl, entrance, channel, womanhood, heat (as a noun for anatomy), sheath, globes, orbs, mounds, her most intimate place, throbbing, pulsing need, liquid heat, molten, pooled low in her belly, velvet over steel, weeping, shattered / came apart / fell over the edge (for orgasm).
 - **Choreography limit:** never more than two sentences in a row about who is touching what; then a thought, a sound, a line.
-- **The relationship is on the record.** Dane self-reports, as he promised in scene 1; the page shows it (Ch 8 s2–s3).
-- **Longing elsewhere:** every chapter, one or two lines at most per scene outside the three scenes (World rule 3). Kiss before scene 1: Ch 3 s4, the generator shed, played in real time, at least 150 words on the kiss beat, going further than a kiss before she stops it.
+- **Pet names:** none on the page. If one appears, it goes in the MOTIF LIST with a cap.
+- **Longing elsewhere:** uncapped (World rule 2). Kissing and touching may happen in any chapter; sex only in these four.
 
 ---
 
 ## STYLE REFERENCE
 
-*Published books whose prose fits the target register (references only; the author may paste paragraphs from these in place of or beside the original samples below; do not quote or imitate passages in the manuscript):*
-- **Nora Roberts, *The Witness*** (2012). Take: a protection plot in a small place where the heroine's competence drives the danger beats and the hero respects it. Avoid: head-hopping and the roomy pace of a long book.
-- **Julie James, *Something About You*** (2010). Take: federal-agent romantic suspense whose open-door heat and banter move the case and the relationship together. Avoid: the city-glossy register.
-- **Tessa Bailey, *It Happened One Summer*** (2021). Take: a working fishing town and heat scenes at full length with the leads' humor alive inside them. Avoid: her heat level (above ours) and the fish-out-of-water setup.
-- **Linda Greenlaw, *The Lobster Chronicles*** (2002, nonfiction). Take: Maine island nouns, gear, weather and money told plainly by someone who does the work. Avoid: anecdote and meander.
-- **Paul Doiron, *The Poacher's Son*** (2010). Take: Maine law enforcement and cold country on the page without info-dump. Avoid: crime-novel grimness and the male-procedural lens.
+*Published books whose prose fits the target register. References only: the author may paste paragraphs from these beside the samples below. Never quote or imitate their passages in the manuscript.*
 
-*Original samples below, written for this book (autopilot). They are **register models, not scenes in the book**: nothing in them happens in the story. Match their rhythm, sentence length and kind of humor. Don't lift their sentences or details into the manuscript.*
+- **Julie James, *Something About You*** (2010). An FBI agent and the witness he has to protect, in alternating POV. Take: the dual POV where each lead's head is funny in a different way, banter that is also flirting, and heat that changes the case and the relationship together. Avoid: the glossy big-city register.
+- **Nora Roberts, *The Witness*** (2012). A protection plot in a small town where the heroine's competence drives the danger. Take: plain, clear prose a listener can follow, and a hero who respects what she can do. Avoid: the roomy pace of a long book.
+- **Tessa Bailey, *It Happened One Summer*** (2021). A fishing-town romance with open-door scenes at full length. Take: heat scenes where the leads' humor stays alive inside them, and wanting said out loud. Avoid: her heat level (above ours) and the fish-out-of-water setup.
+- **Suzanne Brockmann, *The Unsung Hero*** (2000). Romantic suspense with a protector hero and dual POV. Take: danger scenes that stay inside the characters' bodies and fears, and a hero whose interior the reader can hear wanting her. Avoid: the military jargon and the large cast.
 
-### High-temperature sample (Beth's close third: danger)
+*The samples below come in two kinds. Samples A and B are taken from the approved test chapter, the voice the author liked; they are already in Ch 01, so never reuse their sentences anywhere else. Samples C, D and E are original register models written for this bible; nothing in them happens in the book, so match their rhythm, sentence length and humor and never lift their sentences or details into the manuscript.*
 
-The water-side window went at ten past three, sash and all, and the gale came into the fish house behind it with a bucket's worth of sleet. Beth was on her feet before she knew she was awake. The pressure had thrown the stove door open and slammed it back, and in the half second it stood open the draft had pulled a fan of coals out across the planks, red under the sleet, and one of them had already found the coil of pot warp her father left by the door the winter before he died and nobody had moved since.
+### Sample A. High temperature (Beth's close third: danger), from the test chapter
 
-"Okay," Dane said from the dark by the cot. "Okay. I'm up. I've got the gun, I don't need the gun, I'm putting it on the bench, left end, so neither of us steps on it. Tell me what you want. I can see the coals and I can't see you, which I'd like to fix."
+A little before three, the back door handle turned.
 
-She didn't answer him. She had the wet feed sack off its nail and was down on her knees, smothering the coal in the warp, then the next one, then the long one that had rolled under the bench, with the sleet coming flat across her back through the hole where the window had been. Her hands knew where the floor dipped by the bench and went there without her. Wind in the shingles over her head, one high steady note. The sack hissing. Under that, the stove ticking. Under that, the sound she didn't want: a soft run of crackling up in the loft over the door, where the old net was. She stopped with the sack in both fists and listened.
+Slowly. Somebody testing it. Then a pause, and a crack, and the whole door jumped in its frame as a shoulder hit it from outside.
 
-"That's the loft," Dane said. He had the shutter. She could hear him fighting it, the hinge screaming, his boots skidding on the wet boards, and he went on talking the whole time in the same low even voice. "I hear it too. I'm holding this. It would like to go to Pruett Harbor and I'm telling it no. You're by the bench. Now you're moving. Now you're at the ladder. Beth, I'd like one word so I know which rung."
+Beth didn't think. She was in her wool socks, and she went out the window over the kitchen sink, on the far side of the house from the door, the way she'd gone out it at sixteen, and dropped into the snow. Behind her, the back door gave with a bang. She heard boots in her kitchen. A man's voice said her name, quietly, like he was calling a cat.
 
-"Third."
+"Beth. Come on. Nobody wants to hurt you."
 
-"Third. Thank you. I'm going to keep talking, you don't have to, you just go on doing whatever you're doing up there that I'm going to have opinions about later."
+She ran.
 
-She went up into the smoke with her eyes shut and the sack over her mouth, and found the glow with her bare hand before she found it with anything else, a hank of tarred twine smoldering against the warm stovepipe, and she closed her fist on it and the sack over her fist and held on until her skin told her it was out. Then she stayed where she was on the rungs, in the dark and the smoke and the noise, with her forehead on the cold shingles and the burned hand held out away from her, and listened to him explain to the shutter, very reasonably, why it was going to lose.
+Down the hill behind the house, through the snow in her socks, the cold so sharp it felt like fire. Her father's old fish shack stood at the bottom on the rocks by the water, a little shingled building where he'd kept his traps. She got the door open and pulled it shut behind her and stood in the pitch dark with her back against the wall, breathing through her mouth so she wouldn't make a sound.
 
-### Quiet sample (Beth's close third: an ordinary morning)
+### Sample B. High temperature (Dane's close third: the spark), from the test chapter
 
-He had been at the splice since the kettle went on, and the kettle had boiled twice. Beth sat on the upturned bait tub by the stove with her coffee in both hands and let him. The rope was a fathom of her father's old three-strand, gone gray and soft with handling, and Dane held it up close to his face in both fists and talked to it. He had told the rope it was being difficult. He had told it he had a badge. Now he was explaining to it, at some length and in complete sentences, that he had watched her do this in under a minute and had been paying attention, which she believed, because he paid attention to everything, and which was no help to him at all.
+He looked down at her. Her face was six inches from his. He could feel her breathing against his chest, fast and shallow, and he wanted, very badly and very unprofessionally, to find out what her mouth would do if she ever actually smiled.
 
-"You opened it too far," she said.
+"I'm very good at my job," he said. "Ask me again in ten days."
 
-"I opened it the amount you opened it."
+"I might." Her eyes went to his mouth and stayed there a second too long, and then came back up to his, and she didn't look sorry about it at all. "You're warm, Marshal. I'll give you that."
 
-"Too far."
+Then she stepped back out of his arms, still in his coat, and he had to remind himself what he was supposed to be doing with his hands.
 
-He looked at the rope, and at her, and at the rope, and opened it a little less, and it was still too far, and she said nothing and drank her coffee. It was the good coffee, the can she'd kept in the loft since September under a tarp with the paint, made strong enough to stand a spoon in, and the mug was hot right through to the handle. She held it under her chin so the steam came up into her face. Outside the window the cove lay gray and flat all the way to the bar, and the tide was making, she could hear it working in the rockweed, and there was nowhere she had to be for four hours, which hadn't been true of a weekday morning since she was twenty-two.
+### Sample C. Quiet (Beth's close third: an ordinary morning), original
 
-On the third tuck he went against the lay. She set the mug on the edge of the stove and leaned over and took his hands, both of them, and turned them on the rope so the strand went where it should, and kept them there a second longer than the strand needed. His palms were hard across the base of the fingers. A man didn't get that from a notebook. She put it with the other things about him she couldn't account for and let go.
+Beth Calloway had been watching the marshal lose to her father's toaster for ten minutes, and she was enjoying it more than anything since September.
 
-"With the lay," she said.
+The toaster had one slot that worked and one that didn't, and you had to hold the lever down with a fork, and everybody on the island over the age of six knew that. Dane Reyes didn't. He had it upside down on her counter with crumbs all down the front of his good gray jacket, and he was explaining to it, in whole sentences, that he had a badge and a college degree and he would like his toast.
 
-"With the lay," he said, and did it right, and held it up for her to see, pleased as a gull with a crust. "Okay. What do I win?"
+"It wants a fork," she said.
 
-"You don't win. It holds or it doesn't."
+"I'm not putting a fork in a toaster. My mother was a police dispatcher. I know how that call ends."
 
-### Sensual sample (Beth's close third: heat 3–4 register)
+"Fine. Starve."
 
-The heater in the crew cabin had two settings, off and Florida, and somebody had left it on Florida. Beth's back was against the steel bulkhead, and the steel was cold through her shirt, and everything in front of her was warm: the bunk light and the heater's red bars and Dane, who had stopped talking. That was what she noticed first. He had talked to her all evening, low, about nothing, his father's bus, a dog on his street in Lowell that bit the mailman and nobody else for nine years on principle, and he had kept on talking while she unzipped his jacket and hung it on the hook with the notebook still in its inside pocket. Then she put her hand on his stomach under the fleece and he stopped in the middle of a word and didn't start again.
+She sat at her father's table with the first mug of the morning held under her chin in both hands, too hot to drink yet, and let the steam come up into her face. Out the window the harbor was flat and gray, the gulls were working the end of the pier, and she had nowhere to be for three hours, which hadn't happened on a weekday since she was twenty-two. She watched his hands. They were careful hands, rough across the palms in a way she hadn't figured out yet, and she wanted them on her more than she wanted breakfast, which was saying something, because she was starving.
 
-"You've gone quiet," she said.
+He looked up and caught her looking. He didn't say a word about it. He smiled, slow, like a man who'd been dealt one good card and meant to hold onto it, and went back to losing to the toaster.
+
+### Sample D. Sensual (Beth's close third: heat register), original
+
+The space heater had two settings, off and Florida, and somebody had left it on Florida. Beth had her back against a cold wall, and everything in front of her was warm: the orange bars of the heater, the lamp, and Dane, who had stopped talking. That was what she noticed first. He had talked the whole way here, low and steady, about his father's bus route and a dog on his street in Lowell that bit the mailman and nobody else for nine years, and he had kept on talking while she unzipped his jacket. Then she put her hand on his stomach under his shirt, and he stopped in the middle of a word and didn't start again.
+
+"Look at that," she said. "Quiet."
 
 "Yes."
 
-"Is that good?"
+"Come here, then."
 
-He put his forehead down against hers and breathed out, and she felt him laugh without making any sound, and that was her answer. His hands had found the hem of her sweater, her father's, with the elbows darned in the wrong color, and they waited there. She knew what they were waiting for. She pulled the sweater off herself and dropped it on the deck, and the shirt after it, and stood in the hot little room in her bra with her bibs hanging off her hips by the straps, and let him look, and didn't cross her arms, which she wanted to do, and didn't look away, which she wanted to do more.
+He put his forehead against hers and breathed out, and she felt him laugh without a sound. His hands found the bottom of her sweater and waited there, and she knew what they were waiting for, so she pulled it off herself, and her shirt after it, and stood in front of him in the hot little room and let him look. She wanted to cross her arms. She didn't. She wanted him to stop looking and start touching, and she said so, in about those words, and he did.
 
-"Beth," he said. Only that. Then: "Show me where."
+"Beth," he said. Only that. Then, against her mouth: "Can I?"
 
-She took his hand and showed him, and his hand was hard-skinned and careful, and he found her breast through the cotton and then under it, his thumb slow across the nipple until she had to put her head back against the cold steel and shut her eyes, and the hull ticked and the generator ran on the pier and somewhere under them the tide was working at the brow, and she was thinking about the brow, and then she wasn't, and she noticed she wasn't, and that she had no plan for any of this past his mouth, which was on her throat now, and lower, and that she was the one asking. "Will you," she said, and didn't finish it, and he didn't make her.
+"I said so. Don't make me say it twice." She took his hand and showed him where, and his hand was careful and hard-skinned and slow across her breast until she had to put her head back against the wall and shut her eyes, and the wind was banging on the roof and somewhere out there a man with a gun was looking for her, and she was thinking about that, and then she wasn't, and she noticed she wasn't, and she had no plan for any of this past his mouth, which was on her throat and then lower. He got her jeans open and his fingers found her wet, and she heard herself say his name like a question, and he answered it the way she'd asked it, slowly, and she stopped keeping track of anything but that.
 
-He got her bibs down over her boots on the second try, and told the boots something in Spanish that his father would have wanted explained, and she laughed out loud in his face, and he kissed her while she was still laughing, which nobody had ever done. Then his hand was between her thighs and she was wet against his fingers and she heard herself say his name like a question, and he answered it the way she'd asked it, slowly, and the cabin was too hot and the steel too cold and she stopped keeping track of either.
+### Sample E. Dane's interior (quiet into wanting), original
 
-### Dane's POV register (Ch 9 s3, Ch 10 s5; no sample, by design)
+Dane Reyes had sat across a lot of tables from a lot of witnesses, and he could usually tell you, by the second cup of coffee, what each one would say on the stand, and how a jury would hear it, and which line a defense lawyer in a good coat would read back slowly. He couldn't do it with her. She ate soup like it had personally wronged her, with her elbows on the table and her braid over one shoulder, and she had just told him, without looking up, that his plan for tomorrow was stupid, and given him three reasons, and the third one was right.
 
-Long sentences about people and hands, a score kept quietly, each paragraph landing on a short clause that undercuts him. He sorts people the way his father sorted riders (exact change, the question they already know the answer to). In Ch 9 s3 he thinks about Haskell and the trucks and her, and nothing he thinks settles who the leak is. In Ch 10 s5 he says "she" for a boat without noticing.
+"Fair," he said.
+
+"I know it's fair. I said it."
+
+He laughed, which he hadn't meant to do, and she looked up then, and he watched her decide whether to be pleased about it. She was. She hid it badly, in the soup. He wanted to reach across the table and take her face in both hands and find out what she tasted like when she was pleased, and he thought about how that would sound to twelve people from Maine, and then he thought about it some more, and then he stopped thinking about the twelve people from Maine entirely, which had never once happened to him in nine years of this job.
 
 ---
 
 ## FORBIDDEN PHRASES
 
 - couldn't help but · a wave of · in that moment · she/he realized · eyes widened · a testament to · the weight of · piercing gaze · heart pounding · breath caught · found herself/himself · seemed to feel
-- **Contrast constructions in every form (author rule, zero tolerance):** "It wasn't X. It was Y." · "Not X, but Y." · "not because X but because Y" · "I'm not doing X, I'm doing Y" · "less X than Y," in narration and dialogue. State the point directly. (The character profiles above contain a few designer's-notes contrasts; they are notes, not prose models.)
-- **Carried from v1 (still banned):** a breath she didn't know she was holding · something shifted · the tension was palpable · in this moment · time stood still · her heart skipped · butterflies · electricity / sparks / a current between them · relief flooded her · a pang of · a mix of emotions · every fiber of her being · the world fell away / narrowed to · like a moth to a flame · little did she know · tapestry / symphony / dance of · couldn't tear her eyes away · drank him in · orbs · ministrations · searing kiss · claimed her mouth · mine (growled) · growled / purred / smirked as tags · padded · delve / navigate (feelings) / unpack / journey · safe space, boundaries, valid, trauma response, processing · "I've got you" / "You're safe now" / "Trust me" (from Dane) · "We need to talk" · "It's not what it looks like" · his eyes darkened · the ghost of a smile · a smile tugged at · jaw clenched / ticked (more than once in the book) · a beat passed · her mind raced · somewhere, a dog barked · the salty sea air · the ocean stretched endlessly.
-- **Trade and procedure words that are wrong (domain check):** "material witness" (for Beth) · "First District" · "undersized lobsters" (in Ned's or Beth's mouth) · "the weights didn't match" (for what Ned saw) · "Holland 34" · "dispatch cancelled" (LifeFlight) · "the Coast Guard guy from the district" · "eighteen cars."
+- **Contrast constructions in every form (author rule, zero tolerance):** "It wasn't X. It was Y." · "Not X, but Y." · "not because X but because Y" · "I'm not doing X, I'm doing Y" · "less X than Y" · "rather X than Y" · "X, not Y" as a correction, in narration and dialogue. State the point directly. (v4.1 rewrote every sample and table line that used one.)
+- **Carried from v1/v2 (still banned):** a breath she didn't know she was holding · something shifted · the tension was palpable · in this moment · time stood still · her heart skipped · butterflies · electricity / sparks / a current between them · relief flooded her · a pang of · a mix of emotions · every fiber of her being · the world fell away / narrowed to · like a moth to a flame · little did she know · tapestry / symphony / dance of · couldn't tear her eyes away · drank him in · orbs · ministrations · searing kiss · claimed her mouth · mine (growled) · growled / purred / smirked as tags · padded · delve / navigate (feelings) / unpack / journey · safe space, boundaries, valid, trauma response, processing · "I've got you" / "You're safe now" / "Trust me" (from Dane) · "We need to talk" · "It's not what it looks like" · his eyes darkened · the ghost of a smile · a smile tugged at · jaw clenched / ticked (more than once in the book) · a beat passed · her mind raced · somewhere, a dog barked · the salty sea air · the ocean stretched endlessly.
+- **Dane's retired phrases (orchestrator decision, Oct 30; the author's banned list):** "for the record" · "I'd like it noted" · "under open sky" · "Okay" as a tic (once in the book, Ch 01).
+- **Boats are "it":** never "she" or "her" for the ferry, the big boat, Dane's boat or any boat, in narration or dialogue ("It'll go when it goes, Bethie." "I've got it, Bethie. Go." "It'll take up in a week.").
+- **Wrong facts (domain check and the finished page):** "material witness" (for Beth) · "WITSEC" · "taken for questioning" (the lawyer is arrested) · "the grand jury has to hear her in person by law" (it's the prosecutor's choice) · "No charge, no trial" · "the emergency director cleared the landing" · "the cutter from Boston" · "nothing flies in this wind" · "the stair up the outside of the tower" · "a propane truck" on the car deck · "she renewed her license this spring" · "four grades apart" (Beth and Russ) · "Webbers Cove" or "fiberglass" for Dane's boat · "the state police on the water" (Marine Patrol is the state's marine police) · "a fire truck's worth of gas" (diesel) · a generator in a shed or on a porch · a house number on Grant Street · "the cooling shut itself off" · "the church burns" · burned hands (Beth or Tess) · Ned stepping off the float · Russ shot on the pier · Russ aboard on a stretcher · the kid "about 25" in narration after Ch 01 · a red beard on Mercer · "Then you didn't see it" (Ned's Ch 01 line is "Not on this boat, you didn't") · anything on the PLAIN LANGUAGE never list.
 - **Genre clichés this book is at risk of:**
-  - the heroine sneaking off alone "to think" when danger is known · the hero ordering her to "stay here" and her disobeying for no reason · "take off your wet clothes or you'll get hypothermia" as a sex pretext · the villain explaining the plan · the leak smirking in a scene before the reveal · the hero's backstory as a monologue during sex
-  - grizzled sea-captain talk ("batten down," "landlubber," "arr"), "Mainah" spellings, lobster-trap jokes · "everyone knows everyone" said as a line · "he's a marshal, she's a ferry girl" class banter
-  - protector clichés: "I'll keep you safe," "you're mine to protect," "he'd die before he let anything happen to her," "a wall of muscle," "dangerous man," "alpha"
-  - storm clichés: "the storm raged," "Mother Nature," "the angry sea," "nature's fury," the storm mirroring a feeling
-  - ending a chapter on a question in narration ("But who could she trust?") · "the calm before the storm" · "she didn't know whether to laugh or cry"
-  - procedure voice in narration: "per protocol," "secure the asset," "eyes on," "copy that" in narration (Dane may say "copy" in dialogue)
+  - *Protector clichés:* "I'll keep you safe," "you're mine to protect," "he'd die before he let anything happen to her," "I can't lose you too" (Marisol), "Don't you dare die on me," "a wall of muscle," "dangerous man," "alpha," "he'd never felt this way about a witness before" said in narration.
+  - *Witness clichés:* "Who are you, really?" · "I'm not some damsel in distress" · "she wasn't like other women" · the heroine sneaking off alone "to think" when danger is known · the hero ordering her to "stay here" and her disobeying for no reason (her choices in Ch 11, Ch 13 and Ch 15 come with her reasons on the page).
+  - *Romance clichés:* "We can't do this" / "This is a bad idea" before a kiss · "he crushed his lips to hers" · "she bit her lip" · "he ran a hand through his hair" · the hypothermia warm-up that turns straight into sex (Ch 07 keeps the warming medical and makes the heat a later, separate, spoken choice) · first aid as the way into bed · the hero's backstory as a monologue during sex · "I'm not going anywhere" as a declaration.
+  - *Suspense clichés:* the villain explaining the plan · the traitor smirking in a scene before the reveal · "the island had secrets" · "a storm was coming, in more ways than one" · "the calm before the storm" · "everyone knows everyone" said as a line · ending a chapter on a question in narration ("But who could she trust?") · "she didn't know whether to laugh or cry" · the smuggler's boat "with no lights" (that phrase is the kid's skiff's).
+  - *Storm and sea clichés:* "the storm raged" · "Mother Nature" · "the angry sea" · "nature's fury" · the storm mirroring a feeling · "the cold bit into her."
+  - *Maine clichés:* "ayuh" · "Mainah" spellings · "you can't get there from here" · grizzled sea-captain talk ("batten down," "landlubber") · lobster-trap jokes · lighthouse romance imagery ("a beacon in the dark").
+  - *Procedure voice in narration:* "per protocol," "secure the asset," "eyes on," "copy that," "the package."
 
 The full tells list lives in `docs/ai-fiction-tells.md` and is enforced by `tools/audit.py`.
 
 ---
 
-## STILL UNCHECKED (not in the setup domain check's scope; for the manuscript-stage check)
+## DOMAIN CHECK STATUS
 
-1. **The Ashby generator:** a pull-start diesel set (third pull; a bleed screw on the injector pump) in place of v1's 20-kW standby; what size such a set is and what it would run.
-2. **Dane's sidearm:** current USMS issue; the bible keeps "the Glock" with no caliber.
-3. **Sunrise and sunset** for Nov 12–23 and Dec 18 (Rockland); water temperature mid-December.
-4. **Maine commercial lobster licensing** (Russ fine; Dane couldn't).
-5. **The courier service** at Pruett and what the trade calls the pouch (the book says "the pouch," one word).
-6. **v1 Confirms still open:** Portland's grand jury schedule (Rule 5.1 logic); the referral office; constable firearms and holding a prisoner; island storm nets; fuel dock logs; chain binders; reefer display behavior; a captain living aboard; a skiff at the quarter ladder.
-7. **Name clashes:** Cutter Island, Pruett Harbor, *North Reach*, *Margaret Ann*, Marr's General Store.
+*`research/domain-check-v4.md` (Oct 30) checked the setup. `research/domain-check-manuscript.md` (Nov 6) checked the 18-chapter manuscript before the Ch 12–17 revision; its fixes that the finished page carries are marked [DC-ms] above (the wheelhouse, Mayday, Marine Patrol's name, the generator outside, diesel, no house number on Grant Street, five hours maybe six, two dollars for two coffees, the wrench windlass and the radio advice, a stable patient in this ceiling, "deputy U.S. marshal"). Still unconfirmed, and safe as worded:*
 
----
-
-## OPEN QUESTIONS FOR THE AUTHOR (each with the default the orchestrator may approve under autopilot)
-
-1. **Pen name.** Must differ from The Last Frame's. **Default:** leave the placeholder; it doesn't affect drafting.
-2. **Pike and Arsenault are surnames The Last Frame also uses** (Hollis Pike; Gil Arsenault). The designer renamed Beth's father to Alton for the same reason. **Default:** keep both (the outline uses them throughout); rename one set before publishing if the author minds a reader of both pen names noticing.
-3. **The truck's timing.** R4-2 has Doucette take the pickup from Tess's dooryard after she's gone to bed, and she was at the store for Ned's report at about 10:45. That can't happen "just before eleven" (the outline's phrase). **Default:** "a little after eleven" on the page, with the latch at 11:40 (R4-4's shortened gap). The plot architect owns the beat.
-4. **Tess's age gap.** The designer wrote "fourteen years" between Tess (46) and Beth (33). **Default:** the gap is thirteen and stays off the page; ages unchanged.
-5. **The second truck on the car deck.** v1's store box truck is replaced by **the co-op's bait truck**, so "the store's truck" means one vehicle. **Default:** accept.
-6. **The store pickup's make.** **Default:** a white Ford half-ton, MARR'S on the doors, plow frame, propane rack.
-7. **Ch 10 s4 speaker.** The outline gives the line "Yes. He told me you'd ask. He wanted you to hear it from me first." without a speaker. **Default:** **Pike**, in Portland on Day 11, answering Beth's question whether Dane reported himself. Alternative: the AUSA.
-8. **Dane's status on December 18.** The outline leaves his career as a subplot Beth doesn't resolve, and has him on the island with a worse boat. **Default:** on administrative leave pending the referral; whether he stays in the Service isn't decided on the page.
-9. **Ned and Tess in Ch 10.** **Default:** Ned in custody from Day 8 night, statement to Quist, off the island Day 9, charges off the page. Tess not arrested on the page; she hands Quist the ledger herself; her exposure is Book 2's.
-10. **The worse boat's name** (Dane: "one of them was the name"). **Default:** *Pier Pressure*, a summer man's pun Beth counts as a fault, and which Dane won't change because she told him renaming a boat is bad luck. The author may prefer to leave it to the beats.
-11. **Day 10's deckhand.** The winter tier needs master plus one deck, and Ned is in custody. **Default:** Kenny, back over on the Day 9 boats.
-12. **The mid-book "Ned looks back" plant.** **Default:** Ch 4 s3, the foot of the Ashby drive at Sunday dusk.
-13. **The bigger ham in Ch 10 s5.** **Default:** fourteen pounds, off the page unless the beats want the number.
-14. **Seal number on the credit union report** (domain check, optional). **Default:** no number ("Seal noted: red."), so nobody can trace the series.
-15. **Swearing ceiling** (World rule 2) carried from v1 with Dane's two moved to Ch 7 s1 and Ch 9 s4. **Default:** accept.
-16. **Style comps.** Tessa Bailey added for heat at full length with banter inside it. **Default:** accept; the samples above stand until the author pastes published paragraphs.
+1. **The hold** (added in the Nov 6 revision, after the manuscript check). Whether a prosecutor would ask a judge to hold a willing grand-jury witness for her own safety, and whether it rests on the deputy's word. The page says only that the prosecutor "agreed to ask," never that a judge would grant it.
+2. **A deputy taken off a protection detail** the morning a relationship is put on the record, and a transfer that carries a letter in his file (Ch 16–17).
+3. **Coast Guard boarding** of a U.S. fishing boat laying in out of the weather, in a heavy sea, with no offense seen, after its skipper lied to a federal officer about his name (Ch 14).
+4. **Drafts:** a hundred-foot car ferry against a big fishing boat that "drew twice as much," inside a gap near high water (Ch 15).
+5. **The ferry's build year (1989) against mechanical rod steering** (the manuscript check says most car ferries built since the 1970s steer hydraulically). Off the page; see Still open.
+6. **Cold-straightening the steering rod in a vise** (a trade reader may expect heat).
+7. **The trauma kit's contents** (gauze, tape, strips, small scissors; a police trauma kit usually carries a tourniquet).
+8. **Witness money** handed over as cash in an envelope (Ch 16).
+9. **The right boots:** brown leather, high laced, oiled; a Maine reader may expect rubber bottoms (Ch 17).
+10. **A federal arrestee held four days on the island** before seeing a magistrate (Ned); the storm covers it.
+11. A midnight approval of emergency protection by phone (plausible).
+12. Whether a 1989 steel ferry about a hundred feet long measures under 100 gross tons (kept off the page).
+13. Whether a deckhand on a small passenger boat needs a credential (Dane as the only hand Friday night).
+14. The 2026 price of a box truck of live lobster ("twelve thousand dollars," plausible).
 
 ---
 
-## OUTLINE CORRECTIONS FROM THE DOMAIN CHECK (for the plot architect; the outline file is unchanged)
+## OPEN QUESTIONS AND SETTLED ITEMS
 
-*Apply these in the beat sheets. Each overrides the outline's wording where they differ.*
+### Settled (default taken, fixed by a domain check, or settled by the finished page)
+| # | Item | Settled as |
+|---|---|---|
+| 1 | Pen name | Maren Holt (placeholder) until the author picks one; must differ from The Last Frame's |
+| 2 | Chapter count and length | 17 chapters, 38,168 words |
+| 3 | Ch 17 timing | Dane bought the boat by phone on Tuesday, the day after Portland; Beth carried it over on her car deck; she bails because he can't lift; her hands lightly wrapped |
+| 4 | The float after Ch 02 | One broken section chained to the pier; the ferry knocks on bare stone |
+| 5 | Content note | On-page sex, violence, references to drug trafficking. The fires and the suicide attempt are out |
+| 6 | The ferry's name | Never said on the page |
+| 7 | The lighthouse | Automated; summer-rental keeper's house; inside stair, short ladder, hatch onto the iced walkway; tower key on a hook |
+| 8 | Dane's boat | A wooden lobster boat older than both of them, cedar planks gone gray; off page 1981 cedar-on-oak 34, about $33,000; leaks until it takes up |
+| 9 | "She would never run" against Ch 01 | Read as "she won't leave the island or the case"; the Ch 01 flight is the exception the page has |
+| 10 | Dane's two swears | Ch 09 and Ch 10 |
+| 11 | The kid | Kyle Pelletier, 19, named in Ch 17 |
+| 12 | Beth's father | Alton, named in Ch 15 |
+| 13 | The Dyer house | On the point across the harbor, looking at Russ's porch |
+| 14 | Mercer | Gray beard (never red), gold tooth, new orange float coat, "Captain" |
+| 15 | Injuries | As in the Injuries table; no burns; Russ shot at Beth's door in Ch 13 and ashore after |
+| 16 | Ned's arrest | Dane arrests him in the dentist's kitchen; Beth ties his wrists; Russ's cuffs at the town office |
+| 17 | The hold | Asked Wednesday, told to her face, refused twice, withdrawn Saturday dawn on the record |
+| 18 | The clock | Grand jury Monday at ten; the hearing at two; the prosecutor's choice to want her in the room; indicted, he stays in |
+| 19 | Tess and the beach | She talks the boat in on the island radio; no power over landings |
+| 20 | Coast Guard and Marine Patrol | The lines in "Lines as they now stand" |
+| 21 | The lawyer | Arrested in the lobby on the kid's sworn statement |
+| 22 | Dane's wound and the hospital | A bullet line along the left ribs, stitched, Maine Medical Center, signs himself out; a deputy takes his gun at Pruett |
+| 23 | The bench | In the park across Federal Street |
+| 24 | Ch 01 timing line | The page reads "within three hours of her call" |
+| 25 | The case agency | DEA agents out of Portland, off the page |
+| 26 | Beth and Russ as children | Russ taught her to bait a trap at six; "since the fourth grade" in Beth's interior 2 stands |
+| 27 | Never list against the audit tool | The orchestrator copies the never list into the MOTIF LIST at cap 0 if `tools/audit.py` reads only that table |
 
-1. **Dane's boat (item 7).** Every "Holland 34" becomes **"Webbers Cove 34"**: Ch 1 s3 reads "What's a Webbers Cove 34 with a rebuilt Cat worth?"; Ch 3 s1 broker line, Ch 4 s1 "Sold. Sorry.", Ch 10 s5 "worse than the Webbers Cove." "Firm at thirty-one" and "rebuilt Cat" stand.
-2. **The ferry's size and certificate (item 6, option A).** The *North Reach* is about 104 ft, under 100 GT, 149 passengers, 8 cars or one tractor-trailer plus four light trucks. Ch 1 s1: the dealer's reefer and at most four light vehicles. Beth's license covers the boat: Ch 10 s3 stands as written, with Kenny as her deckhand.
-3. **Manning (item 5).** The COI's winter tier is master plus one deckhand. Ch 1 s1: Ned's "I'll work it short. Go home." is sailing short by his own consent, which the certificate doesn't allow. Ch 1 s2: Beth's Pruett deal rests on it; the line may be "Master and one deck. That's the certificate. Without me she doesn't leave the slip."
-4. **The inspector (item 1).** Ch 2 s3: Ned's line stands; he calls it in to Sector that night. **Add one line in Ch 6 or Ch 7: the marine inspector was booked on the Day 7 first-light boat**, the one that turned away. Ch 10 s1: the inspector accepts a temporary forepeak repair and clears limited service; the Day 10 run is foot passengers and light freight over a temporary ramp (the slip's bridge is still down). Optional texture: the 2692 on the mess table.
-5. **The helicopter (item 2).** Ch 6 s3: Pike's "no non-SAR flight" becomes a refusal with a reason: "District won't put a helicopter on a non-emergency move, and the one they've got is offshore on a case." Never "First District." Ch 3 s2: LifeFlight's refusal for Mrs. Dyer is the pilot's call on icing and ceiling, never "dispatch."
-6. **Beth's status (item 3).** Nobody calls her a "material witness" anywhere. Ch 1 s2: Dane can't make her go; what compels her is the subpoena he serves on the crossing (s3).
-7. **The money (item 4).** Beth has no banking app and never banks by phone (she banks by envelope); nothing on the page lets her see the $9,000 before Ch 7 s3. The notebook keeps "credited and flagged" and "Seal noted: red."
-8. **The screen (item 8).** Ch 3 s1: Pike's message is the one open on the screen; the broker's is the next line in the inbox (Beth presses the arrow once, or sees it listed). Not two full messages stacked.
-9. **What Ned saw (item 9).** Wherever the outline says "the weights didn't match the manifest," use two things instead: **too many pieces to the crate for the weight** (shorts) and **the boxes rode heavy**. Ch 4 s3's lie and Ch 6 s3's shorts confession use "shorts" and, if needed, "the gauge"; never "undersized lobsters."
+### Still open
+See "Still open" at the end of this file.
+
+---
+
+## Changes in v4.1
+
+*Every change from the v4 bible (`story-bible.md`, 1,318 lines), one line each.*
+
+1. Header changed to "v4.1, rebuilt to match the manuscript, Nov 14, 2026, author-approved," with a new provenance note.
+2. Pen name recorded as "Maren Holt (placeholder)" in THE CORE and World rule 1, with the note that it's a placeholder and must differ from The Last Frame's.
+3. Added a publishing-facts block to THE CORE (pen name, imprint, title, heat label, price, content note, length).
+4. Premise gained one closing clause: they turn around and go after the people hunting her.
+5. "This story is NOT" now says they are in each other's hands in Ch 04 and that Dane tells her about the hold himself.
+6. POV line rewritten to the page: Ch 14 Beth then Dane, Ch 16 Beth then Dane, 17 chapters.
+7. Content note cut to on-page sex, violence and references to drug trafficking; the fires and the suicide attempt removed everywhere.
+8. New World rule 3 (the author's Nov 2 rule): Beth's grief lives in her father's objects and places outside love scenes, never his clothes or a family reminder in a kiss or love scene, paired with the positive list.
+9. To keep World rules at 20, v4 rules 2 (romance first) and 3 (attraction said in words) were merged into rule 2.
+10. World rule 8 rewritten with the danger list as written and "nobody goes into the sea after Ch 09."
+11. World rule 10 now allows Hal Mercer from Ch 13 as a seventh tracked name, with Alton and Kyle Pelletier named late.
+12. World rule 11's safer options updated to the back half as written (the skiff, the leak's phone, boarding the big boat, arresting Mercer, waiting for Tuesday).
+13. World rule 12 moved Ned's earliest guilt from Ch 09 to Ch 11.
+14. World rule 13: Dane's second swear moved from Ch 11 to Ch 10; Beth's and Russ's page swears listed.
+15. World rule 16: "Only Ch 18" became "Only Ch 17."
+16. World rule 17: "hauls the kid back" and "never armed" replaced with the page's sea win and "never carries a gun."
+17. World rule 18 heading reworded to "Dane's protection reads as care" (contrast removed); his page asks listed.
+18. World rule 19's exception now covers Ned's Ch 11–12 answers and the kid's Ch 15 statement.
+19. The kid's section renamed "Kyle Pelletier, 'the kid' (19; named only in the last chapter)," with his page history and statement; "about 25, unnamed on purpose" removed.
+20. Ages table: the kid is 19; Mercer added (sixties); Russ's "twenty years of talking drunk men out" added.
+21. Hal Mercer added as a supporting character with body, voice tag, lines and purpose (gray beard, gold tooth, new orange float coat, "Captain").
+22. Beth's father named Alton throughout and marked as named in Ch 15.
+23. Dane's boat: Webbers Cove and fiberglass removed; now "a wooden lobster boat older than both of them, its cedar planks gone gray," the Pruett boat he was due to see, bought by phone Tuesday, carried over on her car deck; "thirty-some thousand" from Ch 11.
+24. Tess's hand injury removed; Beth's burned hands removed; her skinned palms (Ch 06–08), knee (Ch 10) and torn palms (Ch 14) added.
+25. Russ is now shot in the thigh through Beth's front door in Ch 13 and stays ashore (flown out Tuesday, cane at Thanksgiving); "shot on the pier in Ch 14" and "stretcher on the crossing" removed.
+26. Injuries table rebuilt from the page.
+27. The Dyer house moved to the point across the harbor, looking at Russ's porch; its "upstairs window over the whole harbor," the thrown mug and the night there removed.
+28. Ned's sample line now "It'll go when it goes, Bethie. Boats don't read the calendar."; "I've got her, Bethie. Go." is now "I've got it, Bethie. Go."; a standing "boats are it" line added to the decisions table and the forbidden list.
+29. Ned's Ch 01 line corrected to the page ("Not on this boat, you didn't…") everywhere "Then you didn't see it. Not tonight." stood.
+30. Dane's word list: "See Flag 1 on Okay, for the record and I'd like it noted" replaced with a plain ban; "Okay" now once in the book (Ch 01), and its motif cap dropped from 18 to 1.
+31. Dane's sample "I'd like to point out that I jumped" replaced by the page line "When this goes in a report, can everybody please remember that I jumped?"
+32. Beth's angry line 3 rewritten to "You decided I'd be alive in Ohio and stop being me, and you didn't even ask."
+33. Dane's "rather lose her than bury her" replaced with "I'd lose you to keep you alive."; Beth's wound line reworded to drop "rather … than."
+34. Beth's lying line 5 (the church call to Tess) replaced with "We're fine." (Ch 13, to Mercer).
+35. Dane's angry line 4 replaced with the Ch 08 page line ("Everybody you love has the hour now…").
+36. Dane's lying line 5 (the boathouse) replaced with "The steering's gone." (Ch 15).
+37. Dane's afraid line 8 replaced with his Ch 15 radio lines.
+38. Dane's interior line 5 no longer names Marisol (she is never named on the page).
+39. Beth's primary condemnable choice rewritten to the page (the boss's three o'clock test; Dane wanted five; she calls her three).
+40. Beth's secondary condemnable choice changed from the church test to the Ch 11 bait.
+41. Dane's primary condemnable choice changed from "She'll go" and the program to the Ch 12 hold; the secondary rewritten to the beach as written.
+42. Dane's "would never lie to her" now cites the Ch 15 steering lie, told to Mercer with her yes.
+43. Dane's holding-back reason now pays in Ch 14 (on the record), Ch 16 (taken off her protection; the prosecutor) and Ch 17 (the letter in his file).
+44. Dane's want and the boat now pay in Ch 08, 11, 16 and 17 as written.
+45. Beth's captain's-job payoffs rewritten (first alone at the wheel Ch 14; first landing at Pruett Ch 15; the board in June, Ned's and Tess's letters Ch 17); the warm-ocean want marked unpaid.
+46. Beth's dating-app joke placed in Ch 07; her phone drowns in Ch 07; she closes up summer houses in October (the dentist's key).
+47. Ned's profile: the night runs and Cole's phone as confessed in Ch 12; "took Cole's cash" removed (the page never says it); look-backs set to Ch 02, 12, 15; life jacket paid Ch 14; "steps off the float" removed.
+48. Tess's profile: the church fire removed; her page acts added (the beach, the radio call for Russ, the light on the rocks, the light on the gap, the letter to the board); why she doesn't forgive Beth rewritten to the page.
+49. Russ's profile: the cuffing "on the float" removed; his lie owned in Ch 12; his choice in the doorway; his page lines added.
+50. Cole's profile: the flowers placed in Ch 02; "Nice night for it" dropped; "You never open a truck" added as reported.
+51. Dane's boss: the Ch 10 "test her" framing replaced with the Ch 08 three o'clock test and the Ch 10 clearing; her page lines and the six a.m. text added.
+52. Cole's lawyer: his calls, texts, the bus-station meeting and the lobby arrest lines added.
+53. Walk-ons updated: the prosecutor (Ch 16), a juror, the court reporter, the Pruett boatman, the Coast Guard voices, the woman deputy, the summer people; the ferry board now "Beth called and asked."
+54. Relationships rewritten pair by pair to the page; the church, the good blanket, "doesn't come out of the store," "names on the cabin floor" and "Ch 16 life ring" removed; Beth/Mercer and Dane/Mercer added.
+55. The friction payoff changed from "You came down." / "You stopped talking." to the page's "You left the wheel." / "You stopped talking."
+56. The bet now runs Ch 06 (planted) to Ch 17 (her first bet, lost happily); "Ch 15 she wins" removed.
+57. Speaker table rebuilt entirely from the page lines, Ch 01–17.
+58. "Lines as they now stand" rebuilt to the page, with the manuscript domain-check lines added.
+59. The designer's flags and choices kept with a status line each; Flag 4 (the church lie) marked retired.
+60. Setting: population 240 (page); the old schoolhouse removed; the point, the lee of the point, the east cove, the east road and stone wall, Alton's way and the gap added.
+61. Key locations: the church/schoolhouse/boathouse trap entry removed; the yacht club boathouse, the east cove and dentist's house, the east road, the big boat, the hotel and the courthouse rewritten to the page.
+62. The ferry entry: "never wheelhouse" replaced by the page's glossed "wheelhouse" [DC-ms]; mechanical rod steering added; "Beth fixes it in Ch 13 from Ned's sketch" removed; the crossing crew rewritten (four aboard; Tess throws off the lines).
+63. The net loft has a kerosene heater (page), and "Ned's decoy place" removed.
+64. Phones, power and radio rewritten: power out at a quarter past four Friday; signal spots as on the page; the leak's phone (Ned's) off between texts; the ferry radio; the planted phone added; the town office and Dyer-window signal lines corrected.
+65. Weather rewritten to the page, with high water at about nine Sunday and "five hours, maybe six."
+66. Calendar rebuilt day by day from the page, with Tuesday and Wednesday after Portland added.
+67. CASE FACTS rewritten from the page: the first night (Ned's call from Pruett; Beth told her three that night), the clock and its outcome, the program and the hold, the leak table, Ned's answers in Ch 11–12, the hunt, the bait, the raid, the big boat, Mercer, the steering lie, the kid's statement, and the Book 2 threads.
+68. "Ned's three answers" and the church framing removed; replaced by "Ned's answers (Ch 11, Ch 12)."
+69. "Where they sleep" rebuilt; the "eight beds in ten nights" claim dropped (the page doesn't say it).
+70. "What Beth knows, and when" rebuilt for every chapter.
+71. Numbers ledger: length now 17 chapters and 38,168 words with a chapter-title table from the page; per-chapter targets removed.
+72. Money rebuilt: cable ties, the kid's two thousand, the boots at thirty-eight, the witness money and the stamp added; Ned's cash removed.
+73. Counts rebuilt: places in the trap, hours at the window, Ned's three answers, eleven pounds, the certificate's two, eleven stitches and eight beds removed; the texts, the calls, the minutes and the shots added from the page.
+74. Times table rebuilt from the page.
+75. Plant ledger rebuilt from the page.
+76. Plain language: "wheelhouse," "Mayday" (once), "rudder," "the hold," "witness protection" and "the lee" added with glosses; "wheelhouse" and "Mayday" taken off the never list per the manuscript domain check; stern/bow removed.
+77. Motif list: "Eleven pounds," "Tess doesn't count," "You're the other one" and "You came down" retired; "Hold the light," "Good shirt," "Marshal price," "I'm asking," "Gold tooth," "Cancel it" and "You left the wheel" added; "Talk to me" cap cut to 3.
+78. Heat rules: heat #3 moved to Ch 10 s3 at the dentist's house and #4 to Ch 16 at the hotel, with the page's specifics; "none in the rupture chapter" now names Ch 12; father/Ned ban added inside love scenes.
+79. Forbidden phrases: "rather X than Y" added to the contrast list; a "boats are it" line added; wrong-facts list rebuilt to the finished page; "wheelhouse" removed from wrong facts.
+80. Domain check status rebuilt with the Nov 6 manuscript check and the back-half items it didn't cover.
+81. Settled items rebuilt; old Still-open items 1–4 settled or carried below.
+
+---
+
+## Still open
+
+1. **Pen name.** "Maren Holt" is a placeholder. The author picks the real one. I could not check The Last Frame's pen name from the files I read, so the orchestrator should confirm the two differ.
+2. **Content note.** The author's note lists on-page sex, violence and references to drug trafficking. The page still has a house fire (Ch 06), near-drowning in cold water (Ch 07) and past overdose deaths (Ch 01). "Violence" covers the fire and the gunfire; the author may want "past overdose deaths" or "near-drowning" named.
+3. **Beth's angry line 3.** The author's line "You decided I'd be alive in Ohio and stop being me, and you didn't even ask." is in the bible, but the rebuilt Ch 12 no longer has it. The page's angry lines are "That's Cole winning, Dane Reyes. Slower." (Ch 12) and "You want me in a room in Portland till spring. Which one of you is going to ask me?" (Ch 13). Author's call whether the sample should match one of those.
+4. **"Wheelhouse," "Mayday" and "the lee."** The page uses all three. The first two were moved off the never list on the manuscript domain check's advice. "In the lee of the point" (Ch 13) has no gloss on the page; a revision could add "out of the wind."
+5. **"Take up."** Beth says "It'll take up in a week" in Ch 17 with no gloss; the next sentence ("Till then you bail") carries the meaning for most listeners.
+6. **The ferry's build year.** The bible says 1989; the steering on the page has to be mechanical, and the manuscript check says most car ferries since the 1970s steer hydraulically. The year is off the page. An earlier year, or a note that this one was built with rod steering, would close it.
+7. **Tess and Beth's ages.** Tess is 46 and Beth 33, but in Ch 09 Beth says "Tess has known where I'd go since we were six." That reads as if they were six together. One word ("since I was six") would fix it.
+8. **Russ's police history.** Ch 13 gives him "twenty years of talking drunk men out of houses," while the bible has him finishing first in his police class at 41. Both can be true (twenty years as the island's informal peacekeeper), and the bible now says so in the ages table; confirm.
+9. **The boots' price.** Ch 17: "Thirty-eight dollars at my register. Marshal price. The next pair's double." It follows Russ's ham line, so a listener may hear it as the ham's price. It reads as the boots because of "pair," and thirty-eight dollars is low for oiled leather boots.
+10. **Nights 6 and 9.** Where Beth and Dane slept Wednesday night before four, and Saturday night, isn't on the page. Left as "not on the page."
+11. **"Eleven pounds" and "eleven stitches."** Both are gone from the page. The motif row for "eleven pounds" is retired, and the stitches are uncounted. Restore either only if a revision puts it back.
+12. **"Okay" cap at 1.** I read every chapter and found one "Okay" (Ch 01). The orchestrator should confirm with `tools/audit.py` before the cap binds.
+13. **Who planted the phone.** Somebody on Cutter, Saturday. Book 2, unanswered on purpose.
+14. **The hold and the other back-half procedure items** (DOMAIN CHECK STATUS 1–4) weren't in the Nov 6 manuscript check and haven't been checked since.
+15. **Off-page backstory kept** (Ned sober twenty-two years and widowed at 50; Marisol's name; the bank taking Alton's boat; Tess's bid; Russ's certificate). None of it is on the page; it stays as design and costs nothing.
